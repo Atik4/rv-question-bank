@@ -1,0 +1,1302 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elasticity",
+    "familyId": "elasticity_definition",
+    "questionText": "The intrinsic physical property of a material body by virtue of which it fully recovers its initial geometric configuration (shape and size) upon the absolute removal of an external deforming force is defined as:",
+    "questionLatex": "\\text{The intrinsic physical property of a material body by virtue of which it fully recovers its initial geometric configuration (shape and size) upon the absolute removal of an external deforming force is defined as:}",
+    "options": [
+      {"text": "Plasticity", "latex": "\\text{Plasticity}"},
+      {"text": "Elasticity", "latex": "\\text{Elasticity}"},
+      {"text": "Rigidity", "latex": "\\text{Rigidity}"},
+      {"text": "Compressibility", "latex": "\\text{Compressibility}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Elasticity",
+      "latex": "\\text{Elasticity}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Plasticity",
+    "familyId": "plasticity_concept",
+    "questionText": "Which of the following structural engineering materials exhibits a behavior that most closely approximates that of an ideally plastic body under ordinary loading limits?",
+    "questionLatex": "\\text{Which of the following structural engineering materials exhibits a behavior that most closely approximates that of an ideally plastic body under ordinary loading limits?}",
+    "options": [
+      {"text": "Tempered structural steel", "latex": "\\text{Tempered steel}"},
+      {"text": "Vulcanized natural rubber", "latex": "\\text{Vulcanized rubber}"},
+      {"text": "Glazier's putty", "latex": "\\text{Glazier's putty}"},
+      {"text": "Annealed electrolytic copper", "latex": "\\text{Annealed copper}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Glazier's putty",
+      "latex": "\\text{Glazier's putty}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Stress",
+    "familyId": "stress_definition",
+    "questionText": "In continuum mechanics, the internal restoring force developed per unit cross-sectional area within a deformed body is mathematically defined as:",
+    "questionLatex": "\\text{In continuum mechanics, the internal restoring force developed per unit cross-sectional area within a deformed body is mathematically defined as:}",
+    "options": [
+      {"text": "Force per unit volume", "latex": "\\frac{F}{V}"},
+      {"text": "Force per unit area", "latex": "\\frac{F}{A}"},
+      {"text": "Area per unit force", "latex": "\\frac{A}{F}"},
+      {"text": "Internal work executed per unit volume", "latex": "\\frac{W}{V}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Force per unit area",
+      "latex": "\\frac{F}{A}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Stress",
+    "familyId": "stress_unit",
+    "questionText": "The derived SI unit utilized to quantitatively measure mechanical stress across material structures is:",
+    "questionLatex": "\\text{The derived SI unit utilized to quantitatively measure mechanical stress across material structures is:}",
+    "options": [
+      {"text": "Newton", "latex": "\\text{N}"},
+      {"text": "Joule", "latex": "\\text{J}"},
+      {"text": "Pascal", "latex": "\\text{Pa}"},
+      {"text": "Watt", "latex": "\\text{W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal",
+      "latex": "\\text{Pa}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Longitudinal Stress",
+    "familyId": "tensile_stress",
+    "questionText": "The normal stress that develops across a uniform cylinder when its linear structure is elongated by pulling forces acting perpendicular to its cross-sectional boundaries is designated as:",
+    "questionLatex": "\\text{The normal stress that develops across a uniform cylinder when its linear structure is elongated by pulling forces acting perpendicular to its cross-sectional boundaries is designated as:}",
+    "options": [
+      {"text": "Shearing stress", "latex": "\\sigma_s"},
+      {"text": "Hydraulic hydrostatic stress", "latex": "p"},
+      {"text": "Tensile stress", "latex": "\\sigma_t"},
+      {"text": "Bulk volumetric stress", "latex": "\\sigma_v"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Tensile stress",
+      "latex": "\\sigma_t"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Longitudinal Strain",
+    "familyId": "longitudinal_strain_formula",
+    "questionText": "The dimensionless longitudinal strain developed within a uniform structural rod of pristine length L experiencing a linear dimensional change ΔL is defined by which algebraic expression?",
+    "questionLatex": "\\text{The dimensionless longitudinal strain developed within a uniform structural rod of pristine length L experiencing a linear dimensional change } \\Delta L \\text{ is defined by which algebraic expression?}",
+    "options": [
+      {"text": "ΔL · L", "latex": "\\Delta L \\cdot L"},
+      {"text": "L / ΔL", "latex": "\\frac{L}{\\Delta L}"},
+      {"text": "ΔL / L", "latex": "\\frac{\\Delta L}{L}"},
+      {"text": "ΔV / V", "latex": "\\frac{\\Delta V}{V}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "ΔL / L",
+      "latex": "\\frac{\\Delta L}{L}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shearing Strain",
+    "familyId": "shearing_strain_relation",
+    "questionText": "For very small angular displacements where a structural body is deformed laterally by an angular parameter θ, the shearing strain metric is fundamentally approximated by:",
+    "questionLatex": "\\text{For very small angular displacements where a structural body is deformed laterally by an angular parameter } \\theta\\text{, the shearing strain metric is fundamentally approximated by:}",
+    "options": [
+      {"text": "sin θ", "latex": "\\sin\\theta"},
+      {"text": "cos θ", "latex": "\\cos\\theta"},
+      {"text": "θ", "latex": "\\theta"},
+      {"text": "θ²", "latex": "\\theta^2"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "θ",
+      "latex": "\\theta"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Volume Strain",
+    "familyId": "volume_strain_formula",
+    "questionText": "The fractional volume strain experienced by a solid body of initial volume V subjected to uniform omnidirectional hydrostatic compression resulting in a volumetric change ΔV is written as:",
+    "questionLatex": "\\text{The fractional volume strain experienced by a solid body of initial volume V subjected to uniform omnidirectional hydrostatic compression resulting in a volumetric change } \\Delta V \\text{ is written as:}",
+    "options": [
+      {"text": "ΔV / V", "latex": "\\frac{\\Delta V}{V}"},
+      {"text": "V / ΔV", "latex": "\\frac{V}{\\Delta V}"},
+      {"text": "ΔL / L", "latex": "\\frac{\\Delta L}{L}"},
+      {"text": "Δx / L", "latex": "\\frac{\\Delta x}{L}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ΔV / V",
+      "latex": "\\frac{\\Delta V}{V}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Hookes Law",
+    "familyId": "hookes_law_statement",
+    "questionText": "Hooke's classic formulation of experimental elasticity explicitly states that, within proportional mechanical loading thresholds:",
+    "questionLatex": "\\text{Hooke's classic formulation of experimental elasticity explicitly states that, within proportional mechanical loading thresholds:}",
+    "options": [
+      {"text": "Induced internal stress is inversely proportional to the mechanical strain", "latex": "\\sigma \\propto \\frac{1}{\\varepsilon}"},
+      {"text": "Induced internal stress is directly proportional to the mechanical strain", "latex": "\\sigma \\propto \\varepsilon"},
+      {"text": "Induced internal stress is directly proportional to the square of the mechanical strain", "latex": "\\sigma \\propto \\varepsilon^2"},
+      {"text": "Induced internal stress remains entirely independent of the structural strain magnitude", "latex": "\\sigma = \\text{constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Induced internal stress is directly proportional to the mechanical strain",
+      "latex": "\\sigma \\propto \\varepsilon"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Hookes Law",
+    "familyId": "modulus_of_elasticity",
+    "questionText": "The linear scalar proportionality factor that relates internal structural stress directly to external strain within a material's elastic boundary is designated as the:",
+    "questionLatex": "\\text{The linear scalar proportionality factor that relates internal structural stress directly to external strain within a material's elastic boundary is designated as the:}",
+    "options": [
+      {"text": "Yield point threshold constant", "latex": "\\sigma_y"},
+      {"text": "Modulus of elasticity", "latex": "E"},
+      {"text": "Ultimate strain boundary constant", "latex": "\\varepsilon_u"},
+      {"text": "Poisson's lateral coefficient", "latex": "\\nu"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Modulus of elasticity",
+      "latex": "E"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Stress-Strain Curve",
+    "familyId": "linear_region",
+    "questionText": "In the standard experimental stress-strain curve of a structural metal, the material responds linearly such that Hooke's law is valid strictly within which designated region?",
+    "questionLatex": "\\text{In the standard experimental stress-strain curve of a structural metal, the material responds linearly such that Hooke's law is valid strictly within which designated region?}",
+    "options": [
+      {"text": "The linear proportional region OA", "latex": "\\text{Region } OA"},
+      {"text": "The non-proportional elastic region AB", "latex": "\\text{Region } AB"},
+      {"text": "The plastic deformation region BD", "latex": "\\text{Region } BD"},
+      {"text": "The necking and strain-softening region DE", "latex": "\\text{Region } DE"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The linear proportional region OA",
+      "latex": "\\text{Region } OA"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Yield Point",
+    "familyId": "yield_point_definition",
+    "questionText": "On a engineering stress-strain diagram, the critical point that marks the boundary beyond which the material undergoes permanent deformation and fails to regain its original dimensions upon unloading is called the:",
+    "questionLatex": "\\text{On a engineering stress-strain diagram, the critical point that marks the boundary beyond which the material undergoes permanent deformation and fails to regain its original dimensions upon unloading is called the:}",
+    "options": [
+      {"text": "Terminal fracture point E", "latex": "\\text{Fracture point } E"},
+      {"text": "Elastic yield point B", "latex": "\\text{Yield point } B"},
+      {"text": "Ultimate tensile strength point D", "latex": "\\text{Ultimate point } D"},
+      {"text": "Geometric loading origin O", "latex": "\\text{Origin } O"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Elastic yield point B",
+      "latex": "\\text{Yield point } B"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elastic Limit",
+    "familyId": "elastic_limit",
+    "questionText": "When analyzing the mechanical characteristics of solid materials, the upper boundary of the elastic region (the yield point) is macroscopically equivalent to the:",
+    "questionLatex": "\\text{When analyzing the mechanical characteristics of solid materials, the upper boundary of the elastic region (the yield point) is macroscopically equivalent to the:}",
+    "options": [
+      {"text": "Ultimate structural breaking point", "latex": "\\text{Breaking point}"},
+      {"text": "Material's true elastic limit", "latex": "\\text{Elastic limit}"},
+      {"text": "Onset threshold of the plastic point", "latex": "\\text{Plastic point}"},
+      {"text": "Peak ultimate strength point", "latex": "\\text{Ultimate point}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Material's true elastic limit",
+      "latex": "\\text{Elastic limit}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Plastic Deformation",
+    "familyId": "plastic_deformation",
+    "questionText": "If a solid specimen retains a permanent set and fails to return to its original structural shape and volume after the mechanical stress is completely removed, the structural change is classified as a:",
+    "questionLatex": "\\text{If a solid specimen retains a permanent set and fails to return to its original structural shape and volume after the mechanical stress is completely removed, the structural change is classified as a:}",
+    "options": [
+      {"text": "Reversible elastic deformation", "latex": "\\text{Elastic deformation}"},
+      {"text": "Irreversible plastic deformation", "latex": "\\text{Plastic deformation}"},
+      {"text": "Isotropic volume deformation", "latex": "\\text{Volume deformation}"},
+      {"text": "Hydrostatic fluid deformation", "latex": "\\text{Hydraulic deformation}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Irreversible plastic deformation",
+      "latex": "\\text{Plastic deformation}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Ultimate Tensile Strength",
+    "familyId": "ultimate_strength",
+    "questionText": "The maximum nominal tensile stress value that an engineered material can withstand across its profile before localized cross-sectional necking begins is designated as the:",
+    "questionLatex": "\\text{The maximum nominal tensile stress value that an engineered material can withstand across its profile before localized cross-sectional necking begins is designated as the:}",
+    "options": [
+      {"text": "Proportional yield strength", "latex": "\\sigma_y"},
+      {"text": "Ultimate tensile strength", "latex": "\\sigma_u"},
+      {"text": "Volumetric bulk modulus", "latex": "B"},
+      {"text": "Longitudinal Young's modulus", "latex": "Y"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ultimate tensile strength",
+      "latex": "\\sigma_u"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Ductile Materials",
+    "familyId": "ductile_material",
+    "questionText": "On an experimental stress-strain graph, a solid material is classified as possessing high ductility if its:",
+    "questionLatex": "\\text{On an experimental stress-strain graph, a solid material is classified as possessing high ductility if its:}",
+    "options": [
+      {"text": "Ultimate tensile strength point and final fracture point are situated extremely close together", "latex": "D \\approx E"},
+      {"text": "Ultimate tensile strength point and final fracture point are separated by a large plastic region", "latex": "D \\ll E"},
+      {"text": "Linear elastic domain is entirely absent from the loading curve", "latex": "\\text{No elastic region}"},
+      {"text": "Internal structure fails catastrophically immediately upon the initiation of loading", "latex": "\\text{Instantaneous fracture}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ultimate tensile strength point and final fracture point are separated by a large plastic region",
+      "latex": "D \\ll E"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Brittle Materials",
+    "familyId": "brittle_material",
+    "questionText": "When mapping the mechanical profile of a highly brittle material, the stress-strain curve typically exhibits which characteristic?",
+    "questionLatex": "\\text{When mapping the mechanical profile of a highly brittle material, the stress-strain curve typically exhibits which characteristic?}",
+    "options": [
+      {"text": "An extensive range of stable plastic deformation before structural failure occurs", "latex": "\\text{Large plastic strain}"},
+      {"text": "The complete physical absence of any measurable linear elastic region", "latex": "\\text{No elastic region}"},
+      {"text": "An ultimate tensile strength point situated extremely close to the material's fracture point", "latex": "D \\approx E"},
+      {"text": "A non-linear hysteretic profile that mimics the elasticity of natural rubber", "latex": "\\text{Rubber-like profile}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "An ultimate tensile strength point situated extremely close to the material's fracture point",
+      "latex": "D \\approx E"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elastomers",
+    "familyId": "elastomer_definition",
+    "questionText": "Specialized macromolecular materials, such as vulcanized rubber and vascular aorta tissue, that exhibit the capacity to sustain exceptionally large elastic strains before fully recovering their initial state are designated as:",
+    "questionLatex": "\\text{Specialized macromolecular materials, such as vulcanized rubber and vascular aorta tissue, that exhibit the capacity to sustain exceptionally large elastic strains before fully recovering their initial state are designated as:}",
+    "options": [
+      {"text": "Synthetic crystalline polymers", "latex": "\\text{Polymers}"},
+      {"text": "Elastomers", "latex": "\\text{Elastomers}"},
+      {"text": "Structural fiber composites", "latex": "\\text{Composites}"},
+      {"text": "Advanced technical ceramics", "latex": "\\text{Ceramics}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Elastomers",
+      "latex": "\\text{Elastomers}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "young_modulus_definition",
+    "questionText": "Within the linear elastic limit of a solid material, Young's modulus of elasticity Y is defined fundamentally as the ratio of:",
+    "questionLatex": "\\text{Within the linear elastic limit of a solid material, Young's modulus of elasticity Y is defined fundamentally as the ratio of:}",
+    "options": [
+      {"text": "Longitudinal strain to normal stress", "latex": "\\frac{\\varepsilon}{\\sigma}"},
+      {"text": "Normal stress to longitudinal strain", "latex": "\\frac{\\sigma}{\\varepsilon}"},
+      {"text": "Applied external pulling force to total cross-sectional area", "latex": "\\frac{F}{A}"},
+      {"text": "Cross-sectional area to applied external pulling force", "latex": "\\frac{A}{F}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Normal stress to longitudinal strain",
+      "latex": "\\frac{\\sigma}{\\varepsilon}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "young_modulus_formula",
+    "questionText": "A uniform metallic wire having an initial unstretched length L and a uniform cross-sectional area A experiences an axial elongation ΔL when subjected to a tensile load F. The algebraic formula for its Young's modulus Y is:",
+    "questionLatex": "\\text{A uniform metallic wire having an initial unstretched length L and a uniform cross-sectional area A experiences an axial elongation } \\Delta L \\text{ when subjected to a tensile load F. The algebraic formula for its Young's modulus Y is:}",
+    "options": [
+      {"text": "(F · L) / (A · ΔL)", "latex": "Y = \\frac{FL}{A\\Delta L}"},
+      {"text": "(A · ΔL) / (F · L)", "latex": "Y = \\frac{A\\Delta L}{FL}"},
+      {"text": "(F · ΔL) / (A · L)", "latex": "Y = \\frac{F\\Delta L}{AL}"},
+      {"text": "(A · L) / (F · ΔL)", "latex": "Y = \\frac{AL}{F\\Delta L}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "(F · L) / (A · ΔL)",
+      "latex": "Y = \\frac{FL}{A\\Delta L}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "young_modulus_numerical",
+    "questionText": "A structural metallic wire with an initial unstretched length of 2 m and a uniform cross-sectional area of $1 \\times 10^{-6}\\text{ m}^2$ undergoes an axial linear extension of 1 mm when a static tensile force of 100 N is applied. Calculate the Young's modulus of elasticity of the material.",
+    "questionLatex": "\\text{A structural metallic wire with an initial unstretched length of } 2\\text{ m and a uniform cross-sectional area of } 1 \\times 10^{-6}\\text{ m}^2 \\text{ undergoes an axial linear extension of } 1\\text{ mm when a static tensile force of } 100\\text{ N is applied. Calculate the Young's modulus of elasticity of the material.}",
+    "options": [
+      {"text": "1 × 10¹¹ Pa", "latex": "1 \\times 10^{11}\\text{ Pa}"},
+      {"text": "2 × 10¹¹ Pa", "latex": "2 \\times 10^{11}\\text{ Pa}"},
+      {"text": "4 × 10¹¹ Pa", "latex": "4 \\times 10^{11}\\text{ Pa}"},
+      {"text": "2 × 10¹⁰ Pa", "latex": "2 \\times 10^{10}\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 × 10¹¹ Pa",
+      "latex": "2 \\times 10^{11}\\text{ Pa}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "young_modulus_physical_meaning",
+    "questionText": "When comparing the mechanical behaviors of different solid substances within their elastic thresholds, a material characterized by a significantly higher numerical Young's modulus value is fundamentally considered to be:",
+    "questionLatex": "\\text{When comparing the mechanical behaviors of different solid substances within their elastic thresholds, a material characterized by a significantly higher numerical Young's modulus value is fundamentally considered to be:}",
+    "options": [
+      {"text": "More elastic, because it requires a larger internal restoring stress to experience an equivalent unit strain", "latex": "\\text{More elastic}"},
+      {"text": "Less elastic, because it demonstrates a lower capacity to deform when subjected to extreme external pressure", "latex": "\\text{Less elastic}"},
+      {"text": "More plastic, since it exhibits a higher tendency to maintain irreversible dimensional shifts", "latex": "\\text{More plastic}"},
+      {"text": "More compressible, because its atomic bond matrix shows reduced structural rigidity", "latex": "\\text{More compressible}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "More elastic, because it requires a larger internal restoring stress to experience an equivalent unit strain",
+      "latex": "\\text{More elastic}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "compare_elasticity",
+    "questionText": "Based on standard laboratory measurements of mechanical moduli, which of the following common metallic materials exhibits the highest value of Young's modulus and is therefore the most elastic?",
+    "questionLatex": "\\text{Based on standard laboratory measurements of mechanical moduli, which of the following common metallic materials exhibits the highest value of Young's modulus and is therefore the most elastic?}",
+    "options": [
+      {"text": "Lead (Pb)", "latex": "\\text{Lead}"},
+      {"text": "Aluminium (Al)", "latex": "\\text{Aluminium}"},
+      {"text": "Copper (Cu)", "latex": "\\text{Copper}"},
+      {"text": "Structural Steel", "latex": "\\text{Steel}"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Structural Steel",
+      "latex": "\\text{Steel}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Stress",
+    "familyId": "shear_stress_definition",
+    "questionText": "In structural solid mechanics, a shearing stress is generated across a material body when the external deforming force is applied in a configuration that acts:",
+    "questionLatex": "\\text{In structural solid mechanics, a shearing stress is generated across a material body when the external deforming force is applied in a configuration that acts:}",
+    "options": [
+      {"text": "Normal to the cross-sectional plane of the surface boundary", "latex": "\\theta = 90^{\\circ}"},
+      {"text": "Parallel or tangentially across the cross-sectional plane of the surface boundary", "latex": "\\theta = 0^{\\circ}"},
+      {"text": "Directly inward toward the structural geometric center of mass", "latex": "\\text{Centripetal direction}"},
+      {"text": "Uniformly and omnidirectionally across all external surface points", "latex": "\\text{Hydrostatic allocation}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Parallel or tangentially across the cross-sectional plane of the surface boundary",
+      "latex": "\\theta = 0^{\\circ}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Modulus",
+    "familyId": "shear_modulus_definition",
+    "questionText": "The shear modulus of elasticity, commonly designated as the modulus of rigidity, is defined mathematically as the ratio of:",
+    "questionLatex": "\\text{The shear modulus of elasticity, commonly designated as the modulus of rigidity, is defined mathematically as the ratio of:}",
+    "options": [
+      {"text": "Longitudinal normal stress to longitudinal linear strain", "latex": "\\frac{\\sigma}{\\varepsilon}"},
+      {"text": "Hydrostatic volume stress to fractional volumetric strain", "latex": "\\frac{\\Delta p}{\\Delta V/V}"},
+      {"text": "Tangential shearing stress to dimensionless angular shearing strain", "latex": "\\frac{\\tau}{\\theta}"},
+      {"text": "Normal structural stress to total localized volume displacement", "latex": "\\frac{\\sigma}{V}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Tangential shearing stress to dimensionless angular shearing strain",
+      "latex": "\\frac{\\tau}{\\theta}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Modulus",
+    "familyId": "shear_modulus_unit",
+    "questionText": "The internationally standardized derived SI unit applied to quantify the modulus of rigidity within elastic stress limits is the:",
+    "questionLatex": "\\text{The internationally standardized derived SI unit applied to quantify the modulus of rigidity within elastic stress limits is the:}",
+    "options": [
+      {"text": "Pascal", "latex": "\\text{Pa}"},
+      {"text": "Newton", "latex": "\\text{N}"},
+      {"text": "Joule", "latex": "\\text{J}"},
+      {"text": "Watt", "latex": "\\text{W}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal",
+      "latex": "\\text{Pa}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Strain",
+    "familyId": "shear_angle_relation",
+    "questionText": "For very small elastic shear angular displacements where $\\tan \\theta \\approx \\theta$, the macroscopic shearing strain developed within a material block is numerically equal to:",
+    "questionLatex": "\\text{For very small elastic shear angular displacements where } \\tan \\theta \\approx \\theta\\text{, the macroscopic shearing strain developed within a material block is numerically equal to:}",
+    "options": [
+      {"text": "sin θ", "latex": "\\sin\\theta"},
+      {"text": "cos θ", "latex": "\\cos\\theta"},
+      {"text": "The angle of twist θ measured strictly in radians", "latex": "\\theta\\text{ (in radians)}"},
+      {"text": "The square of the shear angle displacement θ²", "latex": "\\theta^2"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The angle of twist θ measured strictly in radians",
+      "latex": "\\theta\\text{ (in radians)}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Modulus",
+    "familyId": "rigidity_comparison",
+    "questionText": "A larger numerical value of the modulus of rigidity for an engineering alloy indicates that the respective material:",
+    "questionLatex": "\\text{A larger numerical value of the modulus of rigidity for an engineering alloy indicates that the respective material:}",
+    "options": [
+      {"text": "Is highly susceptible to easy geometric deformation under minor shear loads", "latex": "\\text{Low shear resistance}"},
+      {"text": "Offers a substantially greater mechanical resistance against lateral shear deformation", "latex": "\\text{High shear resistance}"},
+      {"text": "Possesses a lower overall longitudinal tensile elasticity coefficient", "latex": "\\text{Lower tensile modulus}"},
+      {"text": "Exhibits zero structural rigidity and flows like an ideal liquid matrix", "latex": "\\eta = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Offers a substantially greater mechanical resistance against lateral shear deformation",
+      "latex": "\\text{High shear resistance}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Shear Modulus",
+    "familyId": "shear_modulus_numerical",
+    "questionText": "An engineering material is subjected to a uniform tangential shearing stress of $2 \\times 10^6\\text{ Pa}$, inducing a measurable mechanical shearing strain of 0.001. Determine the modulus of rigidity of this specimen.",
+    "questionLatex": "\\text{An engineering material is subjected to a uniform tangential shearing stress of } 2 \\times 10^6\\text{ Pa}\\text{, inducing a measurable mechanical shearing strain of } 0.001.\\text{ Determine the modulus of rigidity of this specimen.}",
+    "options": [
+      {"text": "2 × 10⁸ Pa", "latex": "2 \\times 10^{8}\\text{ Pa}"},
+      {"text": "2 × 10⁹ Pa", "latex": "2 \\times 10^{9}\\text{ Pa}"},
+      {"text": "5 × 10⁻¹⁰ Pa", "latex": "5 \\times 10^{-10}\\text{ Pa}"},
+      {"text": "2 × 10³ Pa", "latex": "2 \\times 10^{3}\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 × 10⁹ Pa",
+      "latex": "2 \\times 10^{9}\\text{ Pa}"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Young Modulus",
+    "familyId": "extension_proportionality",
+    "questionText": "According to Hooke's law, the linear dimensional extension ΔL produced within a uniform structural wire kept well within its elastic limit is directly proportional to the:",
+    "questionLatex": "\\text{According to Hooke's law, the linear dimensional extension } \\Delta L \\text{ produced within a uniform structural wire kept well within its elastic limit is directly proportional to the:}",
+    "options": [
+      {"text": "Total cross-sectional boundary area of the wire", "latex": "A"},
+      {"text": "Magnitude of the applied axial deforming force", "latex": "F"},
+      {"text": "Numerical Young's modulus value of the chosen material", "latex": "Y"},
+      {"text": "Geometric radius of the wire profile", "latex": "r"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Magnitude of the applied axial deforming force",
+      "latex": "F"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Modulus",
+    "familyId": "bulk_modulus_definition",
+    "questionText": "Within a solid or fluid medium experiencing a uniform change in environment, the isothermal bulk modulus of elasticity is defined mathematically as the ratio of:",
+    "questionLatex": "\\text{Within a solid or fluid medium experiencing a uniform change in environment, the isothermal bulk modulus of elasticity is defined mathematically as the ratio of:}",
+    "options": [
+      {"text": "Longitudinal normal stress to longitudinal linear strain", "latex": "\\frac{\\sigma}{\\varepsilon}"},
+      {"text": "Hydraulic volumetric stress to the fractional volume strain", "latex": "\\frac{\\Delta p}{\\Delta V / V}"},
+      {"text": "Tangential shearing stress to angular shearing strain", "latex": "\\frac{\\tau}{\\theta}"},
+      {"text": "Applied normal structural force to the cross-sectional face area", "latex": "\\frac{F}{A}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Hydraulic volumetric stress to the fractional volume strain",
+      "latex": "\\frac{\\Delta p}{\\Delta V / V}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Stress",
+    "familyId": "hydraulic_stress",
+    "questionText": "The uniform internal restoring stress generated across a submerged solid body when it undergoes omnidirectional hydrostatic compression from all surrounding directions is designated as:",
+    "questionLatex": "\\text{The uniform internal restoring stress generated across a submerged solid body when it undergoes omnidirectional hydrostatic compression from all surrounding directions is designated as:}",
+    "options": [
+      {"text": "Tangential shearing stress", "latex": "\\tau"},
+      {"text": "Axial longitudinal stress", "latex": "\\sigma"},
+      {"text": "Hydraulic hydrostatic stress", "latex": "p"},
+      {"text": "Normal tensile stress", "latex": "\\sigma_t"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Hydraulic hydrostatic stress",
+      "latex": "p"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Volume Strain",
+    "familyId": "volume_strain_recall",
+    "questionText": "When analyzing a spherical body subjected to uniform ambient fluid pressure, the dimensionless volumetric strain parameter is given explicitly by the ratio of:",
+    "questionLatex": "\\text{When analyzing a spherical body subjected to uniform ambient fluid pressure, the dimensionless volumetric strain parameter is given explicitly by the ratio of:}",
+    "options": [
+      {"text": "The change in external surface area to the original surface area", "latex": "\\frac{\\Delta A}{A}"},
+      {"text": "The change in linear dimension to the baseline pristine length", "latex": "\\frac{\\Delta L}{L}"},
+      {"text": "The net change in volume to the baseline pristine volume", "latex": "\\frac{\\Delta V}{V}"},
+      {"text": "The magnitude of applied external pressure to total localized volume", "latex": "\\frac{p}{V}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The net change in volume to the baseline pristine volume",
+      "latex": "\\frac{\\Delta V}{V}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Modulus",
+    "familyId": "bulk_modulus_unit",
+    "questionText": "The derived SI unit applied to systematically compute or report the numerical bulk modulus of elasticity for liquids, gases, or solids is the:",
+    "questionLatex": "\\text{The derived SI unit applied to systematically compute or report the numerical bulk modulus of elasticity for liquids, gases, or solids is the:}",
+    "options": [
+      {"text": "Pascal", "latex": "\\text{Pa}"},
+      {"text": "Newton", "latex": "\\text{N}"},
+      {"text": "Joule", "latex": "\\text{J}"},
+      {"text": "Watt", "latex": "\\text{W}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal",
+      "latex": "\\text{Pa}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Compressibility",
+    "familyId": "compressibility_definition",
+    "questionText": "In fluid mechanics and material science, the structural compressibility coefficient k of a material matrix is fundamentally defined as the:",
+    "questionLatex": "\\text{In fluid mechanics and material science, the structural compressibility coefficient k of a material matrix is fundamentally defined as the:}",
+    "options": [
+      {"text": "Direct value of the material's elastic bulk modulus", "latex": "B"},
+      {"text": "Mathematical reciprocal of the material's bulk modulus", "latex": "\\frac{1}{B}"},
+      {"text": "Longitudinal Young's modulus of elasticity coefficient", "latex": "Y"},
+      {"text": "Transverse shear modulus of rigidity coefficient", "latex": "\\eta"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mathematical reciprocal of the material's bulk modulus",
+      "latex": "\\frac{1}{B}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Compressibility",
+    "familyId": "compressibility_comparison",
+    "questionText": "A given engineering substance characterized by a exceptionally large baseline bulk modulus value behaves mechanically as a material that is:",
+    "questionLatex": "\\text{A given engineering substance characterized by a exceptionally large baseline bulk modulus value behaves mechanically as a material that is:}",
+    "options": [
+      {"text": "Highly compressible, displaying significant volume reductions under stress", "latex": "\\text{More compressible}"},
+      {"text": "Less compressible, showing substantial resistance to changes in volume", "latex": "\\text{Less compressible}"},
+      {"text": "Less rigid, possessing weak structural crystalline network stability", "latex": "\\text{Less rigid}"},
+      {"text": "Highly plastic, transitioning rapidly into irreversible deformation regimes", "latex": "\\text{More plastic}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Less compressible, showing substantial resistance to changes in volume",
+      "latex": "\\text{Less compressible}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Modulus",
+    "familyId": "bulk_modulus_numerical",
+    "questionText": "An isotropic specimen is subjected to an external hydrostatic pressure of $2 \\times 10^6\\text{ Pa}$, causing a measured fractional reduction in its volume equal to 0.001. Determine the bulk modulus of elasticity for this material.",
+    "questionLatex": "\\text{An isotropic specimen is subjected to an external hydrostatic pressure of } 2 \\times 10^6\\text{ Pa}\\text{, causing a measured fractional reduction in its volume equal to } 0.001.\\text{ Determine the bulk modulus of elasticity for this material.}",
+    "options": [
+      {"text": "2 × 10⁸ Pa", "latex": "2 \\times 10^8\\text{ Pa}"},
+      {"text": "2 × 10⁹ Pa", "latex": "2 \\times 10^9\\text{ Pa}"},
+      {"text": "5 × 10⁻¹⁰ Pa", "latex": "5 \\times 10^{-10}\\text{ Pa}"},
+      {"text": "2 × 10³ Pa", "latex": "2 \\times 10^3\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 × 10⁹ Pa",
+      "latex": "2 \\times 10^9\\text{ Pa}"
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Modulus",
+    "familyId": "volume_change_numerical",
+    "questionText": "A block of elastomer material has a registered bulk modulus of $5 \\times 10^9\\text{ Pa}$. If a uniform ambient pressure load of $1 \\times 10^7\\text{ Pa}$ is systematically applied across its external boundaries, calculate the absolute magnitude of the volumetric strain produced.",
+    "questionLatex": "\\text{A block of elastomer material has a registered bulk modulus of } 5 \\times 10^9\\text{ Pa}\\text{. If a uniform ambient pressure load of } 1 \\times 10^7\\text{ Pa} \\text{ is systematically applied across its external boundaries, calculate the absolute magnitude of the volumetric strain produced.}",
+    "options": [
+      {"text": "0.002", "latex": "2 \\times 10^{-3}"},
+      {"text": "0.005", "latex": "5 \\times 10^{-3}"},
+      {"text": "0.001", "latex": "1 \\times 10^{-3}"},
+      {"text": "0.004", "latex": "4 \\times 10^{-3}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0.002",
+      "latex": "2 \\times 10^{-3}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Bulk Modulus",
+    "familyId": "liquid_compressibility",
+    "questionText": "From the perspective of molecular lattice spacing, liquid systems are macroscopically treated as nearly incompressible under normal conditions because:",
+    "questionLatex": "\\text{From the perspective of molecular lattice spacing, liquid systems are macroscopically treated as nearly incompressible under normal conditions because:}",
+    "options": [
+      {"text": "Their mass density is negligible, preventing force transmission", "latex": "\\rho \\approx 0"},
+      {"text": "They possess an extraordinarily high bulk modulus due to strong repulsive intermolecular fields at close proximity", "latex": "B \\text{ is extremely large}"},
+      {"text": "Their total physical volume reduces to absolute zero during static loading equilibrium", "latex": "V = 0"},
+      {"text": "The internal hydrostatic pressure within their boundaries matches zero everywhere", "latex": "p = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "They possess an extraordinarily high bulk modulus due to strong repulsive intermolecular fields at close proximity",
+      "latex": "B \\text{ is extremely large}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elastic Moduli",
+    "familyId": "elastic_moduli_comparison",
+    "questionText": "Which of the fundamental elastic constants of continuum mechanics uniquely serves as a direct quantitative measure of a material system's internal resistance against an omnidirectional change in its physical volume?",
+    "questionLatex": "\\text{Which of the fundamental elastic constants of continuum mechanics uniquely serves as a direct quantitative measure of a material system's internal resistance against an omnidirectional change in its physical volume?}",
+    "options": [
+      {"text": "Young's modulus of elasticity", "latex": "Y"},
+      {"text": "Modulus of rigidity", "latex": "\\eta"},
+      {"text": "Bulk modulus of elasticity", "latex": "B"},
+      {"text": "Poisson's ratio parameter", "latex": "\\mu"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Bulk modulus of elasticity",
+      "latex": "B"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Poisson Ratio",
+    "familyId": "poisson_ratio_definition",
+    "questionText": "When a solid cylindrical wire is subjected to an axial tensile load, it experiences both longitudinal extension and simultaneous lateral contraction. Within the elastic limit, Poisson's ratio is fundamentally defined as the ratio of:",
+    "questionLatex": "\\text{When a solid cylindrical wire is subjected to an axial tensile load, it experiences both longitudinal extension and simultaneous lateral contraction. Within the elastic limit, Poisson's ratio is fundamentally defined as the ratio of:}",
+    "options": [
+      {"text": "Longitudinal strain to lateral strain", "latex": "\\frac{\\varepsilon_l}{\\varepsilon_t}"},
+      {"text": "Lateral strain to longitudinal strain", "latex": "\\frac{\\varepsilon_t}{\\varepsilon_l}"},
+      {"text": "Normal internal stress to longitudinal linear strain", "latex": "\\frac{\\sigma}{\\varepsilon}"},
+      {"text": "Hydrostatic pressure to fractional volumetric strain", "latex": "\\frac{\\Delta p}{\\Delta V/V}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Lateral strain to longitudinal strain",
+      "latex": "\\frac{\\varepsilon_t}{\\varepsilon_l}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Lateral Strain",
+    "familyId": "lateral_strain_definition",
+    "questionText": "During the structural deformation of a suspended uniform wire under axial tension, the dimensionless parameter calculated as the ratio of the change in diameter to the baseline initial diameter is designated as the:",
+    "questionLatex": "\\text{During the structural deformation of a suspended uniform wire under axial tension, the dimensionless parameter calculated as the ratio of the change in diameter to the baseline initial diameter is designated as the:}",
+    "options": [
+      {"text": "Longitudinal linear strain", "latex": "\\frac{\\Delta L}{L}"},
+      {"text": "Isotropic volumetric strain", "latex": "\\frac{\\Delta V}{V}"},
+      {"text": "Lateral transverse strain", "latex": "\\frac{\\Delta d}{d}"},
+      {"text": "Angular shear strain", "latex": "\\theta"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Lateral transverse strain",
+      "latex": "\\frac{\\Delta d}{d}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Poisson Ratio",
+    "familyId": "poisson_ratio_range",
+    "questionText": "From the constraints of classical thermodynamic stability and empirical material observations, the practical value of Poisson's ratio for the vast majority of standard isotropic solid materials lies strictly within the range of:",
+    "questionLatex": "\\text{From the constraints of classical thermodynamic stability and empirical material observations, the practical value of Poisson's ratio for the vast majority of standard isotropic solid materials lies strictly within the range of:}",
+    "options": [
+      {"text": "0 to 0.5", "latex": "0 \\le \\mu \\le 0.5"},
+      {"text": "0.5 to 1.0", "latex": "0.5 < \\mu \\le 1.0"},
+      {"text": "1.0 to 2.0", "latex": "1.0 < \\mu \\le 2.0"},
+      {"text": "-1.0 to 0", "latex": "-1.0 \\le \\mu < 0"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0 to 0.5",
+      "latex": "0 \\le \\mu \\le 0.5"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+  "board": "CBSE",
+  "grade": 11,
+  "subject": "Physics",
+  "chapter": "Mechanical Properties of Solids",
+  "topic": "Poisson Ratio",
+  "familyId": "poisson_ratio_numerical",
+  "questionText": "A solid test specimen undergoes a uniform longitudinal engineering strain of 0.002, which is accompanied by a measured lateral structural strain magnitude of 0.0006. Calculate the numerical Poisson's ratio of the material.",
+  "questionLatex": "\\text{A solid test specimen undergoes a uniform longitudinal engineering strain of } 0.002\\text{, which is accompanied by a measured lateral structural strain magnitude of } 0.0006.\\text{ Calculate the numerical Poisson's ratio of the material.}",
+  "options": [
+    {"text": "0.20", "latex": "0.20"},
+    {"text": "0.30", "latex": "0.30"},
+    {"text": "0.33", "latex": "0.33"},
+    {"text": "0.12", "latex": "0.12"}
+  ],
+  "correctOptionIndex": 1,
+  "answer": {
+    "type": "choice",
+    "text": "0.30",
+    "latex": "0.30"
+  },
+  "difficultyScore": 56,
+  "difficultyLabel": "medium",
+  "marks": 3,
+  "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elastic Potential Energy",
+    "familyId": "elastic_energy_formula",
+    "questionText": "Assuming ideal linear elastic behavior governed by Hooke's law, the total internal elastic potential energy U stored in a structural wire suspended under a gradual tensile load F that produces an extension ΔL is given by the algebraic expression:",
+    "questionLatex": "\\text{Assuming ideal linear elastic behavior governed by Hooke's law, the total internal elastic potential energy U stored in a structural wire suspended under a gradual tensile load F that produces an extension } \\Delta L \\text{ is given by the algebraic expression:}",
+    "options": [
+      {"text": "F · ΔL", "latex": "U = F\\Delta L"},
+      {"text": "(1/2) · F · ΔL", "latex": "U = \\frac{1}{2}F\\Delta L"},
+      {"text": "2 · F · ΔL", "latex": "U = 2F\\Delta L"},
+      {"text": "F / (2 · ΔL)", "latex": "U = \\frac{F}{2\\Delta L}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "(1/2) · F · ΔL",
+      "latex": "U = \\frac{1}{2}F\\Delta L"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Elastic Energy",
+    "familyId": "elastic_energy_numerical",
+    "questionText": "An engineering metal wire undergoes an axial structural extension of 2 mm when subjected to a steady tensile load of 100 N within its linear elastic domain. Calculate the absolute magnitude of elastic strain energy stored inside the wire.",
+    "questionLatex": "\\text{An engineering metal wire undergoes an axial structural extension of } 2\\text{ mm when subjected to a steady tensile load of } 100\\text{ N within its linear elastic domain. Calculate the absolute magnitude of elastic strain energy stored inside the wire.}",
+    "options": [
+      {"text": "0.05 J", "latex": "0.05\\text{ J}"},
+      {"text": "0.10 J", "latex": "0.10\\text{ J}"},
+      {"text": "0.20 J", "latex": "0.20\\text{ J}"},
+      {"text": "2.00 J", "latex": "2.00\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "0.10 J",
+      "latex": "0.10\\text{ J}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Energy Density",
+    "familyId": "strain_energy_density",
+    "questionText": "In continuous structural mechanics, the total internal elastic strain energy stored per unit volume of a uniformly deformed solid body is termed the:",
+    "questionLatex": "\\text{In continuous structural mechanics, the total internal elastic strain energy stored per unit volume of a uniformly deformed solid body is termed the:}",
+    "options": [
+      {"text": "Mechanical power density", "latex": "\\frac{P}{V}"},
+      {"text": "Elastic energy density", "latex": "\\frac{U}{V}"},
+      {"text": "Volumetric stress density", "latex": "\\frac{\\sigma}{V}"},
+      {"text": "Normalized strain modulus", "latex": "\\frac{\\varepsilon}{V}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Elastic energy density",
+      "latex": "\\frac{U}{V}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Stress-Strain Energy",
+    "familyId": "energy_density_formula",
+    "questionText": "Within the linear elastic limit, the mathematical expression that relates the elastic strain energy density u of a specimen directly to its normal stress σ and longitudinal strain ε is:",
+    "questionLatex": "\\text{Within the linear elastic limit, the mathematical expression that relates the elastic strain energy density u of a specimen directly to its normal stress } \\sigma \\text{ and longitudinal strain } \\varepsilon \\text{ is:}",
+    "options": [
+      {"text": "σ · ε", "latex": "u = \\sigma\\varepsilon"},
+      {"text": "(1/2) · σ · ε", "latex": "u = \\frac{1}{2}\\sigma\\varepsilon"},
+      {"text": "σ / ε", "latex": "u = \\frac{\\sigma}{\\varepsilon}"},
+      {"text": "ε / σ", "latex": "u = \\frac{\\varepsilon}{\\sigma}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "(1/2) · σ · ε",
+      "latex": "u = \\frac{1}{2}\\sigma\\varepsilon"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Engineering Applications",
+    "familyId": "steel_cables_application",
+    "questionText": "High-grade braided steel wires are universally selected to construct thick load-bearing cables in heavy suspension bridges because structural steel uniquely satisfies which set of elastic demands?",
+    "questionLatex": "\\text{High-grade braided steel wires are universally selected to construct thick load-bearing cables in heavy suspension bridges because structural steel uniquely satisfies which set of elastic demands?}",
+    "options": [
+      {"text": "A minimal tensile strength profile combined with high plastic yield points", "latex": "\\text{Low strength profile}"},
+      {"text": "An exceptionally high Young's modulus paired with an ultimate tensile strength that minimizes safety hazard extensions", "latex": "Y \\text{ and } \\sigma_u \\text{ are exceptionally large}"},
+      {"text": "An elevated coefficient of volumetric compressibility under hydrostatic conditions", "latex": "B \\text{ is low}"},
+      {"text": "A weak modulus of rigidity that facilitates massive lateral fluid distortion", "latex": "\\eta \\text{ is minimal}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "An exceptionally high Young's modulus paired with an ultimate tensile strength that minimizes safety hazard extensions",
+      "latex": "Y \\text{ and } \\sigma_u \\text{ are exceptionally large}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Solids",
+    "topic": "Chapter Revision",
+    "familyId": "elastic_constant_identification",
+    "questionText": "Which of the primary macroscopic elastic constants serves specifically as a quantitative index of a solid material's internal resistance to an angular change in its geometric shape, without causing any change to its net physical volume?",
+    "questionLatex": "\\text{Which of the primary macroscopic elastic constants serves specifically as a quantitative index of a solid material's internal resistance to an angular change in its geometric shape, without causing any change to its net physical volume?}",
+    "options": [
+      {"text": "Young's modulus of elasticity", "latex": "Y"},
+      {"text": "Bulk modulus of elasticity", "latex": "B"},
+      {"text": "Modulus of rigidity", "latex": "\\eta"},
+      {"text": "Poisson's ratio parameter", "latex": "\\mu"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Modulus of rigidity",
+      "latex": "\\eta"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
