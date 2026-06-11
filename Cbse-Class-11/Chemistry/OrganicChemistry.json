@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Introduction to Organic Chemistry",
+    "familyId": "organic_chemistry_definition",
+    "questionText": "Organic chemistry is the branch of chemistry that primarily deals with compounds containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only oxygen",
+        "latex": null
+      },
+      {
+        "text": "Carbon",
+        "latex": null
+      },
+      {
+        "text": "Only hydrogen",
+        "latex": null
+      },
+      {
+        "text": "Metals",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Carbon",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "History of Organic Chemistry",
+    "familyId": "wohler_synthesis",
+    "questionText": "Which scientist synthesized urea from ammonium cyanate, disproving the vital force theory?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kolbe",
+        "latex": null
+      },
+      {
+        "text": "Berthelot",
+        "latex": null
+      },
+      {
+        "text": "F. Wöhler",
+        "latex": null
+      },
+      {
+        "text": "Berzelius",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "F. Wöhler",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "History of Organic Chemistry",
+    "familyId": "urea_synthesis",
+    "questionText": "The synthesis of urea from ammonium cyanate demonstrated that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Organic compounds can be obtained only from living organisms",
+        "latex": null
+      },
+      {
+        "text": "Organic compounds cannot be synthesized in laboratories",
+        "latex": null
+      },
+      {
+        "text": "Organic compounds can be synthesized from inorganic substances",
+        "latex": null
+      },
+      {
+        "text": "Carbon compounds are always natural products",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Organic compounds can be synthesized from inorganic substances",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Catenation",
+    "familyId": "carbon_catenation",
+    "questionText": "The unique property of carbon by which it forms long chains with other carbon atoms is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Hybridisation",
+        "latex": null
+      },
+      {
+        "text": "Catenation",
+        "latex": null
+      },
+      {
+        "text": "Isomerism",
+        "latex": null
+      },
+      {
+        "text": "Resonance",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Catenation",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Hybridisation",
+    "familyId": "methane_hybridisation",
+    "questionText": "The hybridisation of carbon in methane is:",
+    "questionLatex": "\\text{CH}_4",
+    "options": [
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "dsp²",
+        "latex": "dsp^2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "sp³",
+      "latex": "sp^3"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Hybridisation",
+    "familyId": "ethene_hybridisation",
+    "questionText": "The hybridisation of each carbon atom in ethene is:",
+    "questionLatex": "\\text{C}_2\\text{H}_4",
+    "options": [
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "dsp³",
+        "latex": "dsp^3"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "sp²",
+      "latex": "sp^2"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Hybridisation",
+    "familyId": "ethyne_hybridisation",
+    "questionText": "The hybridisation of each carbon atom in ethyne is:",
+    "questionLatex": "\\text{C}_2\\text{H}_2",
+    "options": [
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "sp³d",
+        "latex": "sp^3d"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sp",
+      "latex": "sp"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Bond Properties",
+    "familyId": "s_character_electronegativity",
+    "questionText": "Which hybrid orbital possesses the highest percentage of s-character?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "All have equal s-character",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "sp",
+      "latex": "sp"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Sigma and Pi Bonds",
+    "familyId": "pi_bond_restriction",
+    "questionText": "Rotation about a carbon-carbon double bond is restricted because:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Sigma bonds are weak",
+        "latex": null
+      },
+      {
+        "text": "Pi bond overlap would be disturbed",
+        "latex": null
+      },
+      {
+        "text": "Carbon atoms cannot rotate",
+        "latex": null
+      },
+      {
+        "text": "Double bonds contain ionic character",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Pi bond overlap would be disturbed",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Sigma and Pi Bonds",
+    "familyId": "sigma_pi_count",
+    "questionText": "How many sigma and pi bonds are present in ethyne?",
+    "questionLatex": "\\text{HC} \\equiv \\text{CH}",
+    "options": [
+      {
+        "text": "3 σ and 2 π",
+        "latex": "3\\sigma, 2\\pi"
+      },
+      {
+        "text": "2 σ and 2 π",
+        "latex": "2\\sigma, 2\\pi"
+      },
+      {
+        "text": "3 σ and 1 π",
+        "latex": "3\\sigma, 1\\pi"
+      },
+      {
+        "text": "5 σ and 2 π",
+        "latex": "5\\sigma, 2\\pi"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "3 σ and 2 π",
+      "latex": "3\\sigma, 2\\pi"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Representation",
+    "familyId": "complete_structural_formula",
+    "questionText": "In a complete structural formula, a double bond between two atoms is represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One dash",
+        "latex": null
+      },
+      {
+        "text": "Two dashes",
+        "latex": null
+      },
+      {
+        "text": "Three dashes",
+        "latex": null
+      },
+      {
+        "text": "A dot pair",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Two dashes",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Representation",
+    "familyId": "condensed_formula_octane",
+    "questionText": "The condensed structural formula of octane can be written as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "CH₃(CH₂)₆CH₃",
+        "latex": "\\text{CH}_3(\\text{CH}_2)_6\\text{CH}_3"
+      },
+      {
+        "text": "CH₃(CH₂)₄CH₃",
+        "latex": "\\text{CH}_3(\\text{CH}_2)_4\\text{CH}_3"
+      },
+      {
+        "text": "CH₃(CH₂)₈CH₃",
+        "latex": "\\text{CH}_3(\\text{CH}_2)_8\\text{CH}_3"
+      },
+      {
+        "text": "CH₃(CH₂)₅CH₃",
+        "latex": "\\text{CH}_3(\\text{CH}_2)_5\\text{CH}_3"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "CH₃(CH₂)₆CH₃",
+      "latex": "\\text{CH}_3(\\text{CH}_2)_6\\text{CH}_3"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Bond-Line Formula",
+    "familyId": "bond_line_representation",
+    "questionText": "In bond-line structural representation, carbon atoms are generally represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Explicitly writing C at every position",
+        "latex": null
+      },
+      {
+        "text": "Line junctions and line ends",
+        "latex": null
+      },
+      {
+        "text": "Only molecular formula",
+        "latex": null
+      },
+      {
+        "text": "Electron dots",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Line junctions and line ends",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Bond-Line Formula",
+    "familyId": "bond_line_atoms",
+    "questionText": "In bond-line formulas, which atoms are usually written explicitly?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Carbon and hydrogen only",
+        "latex": null
+      },
+      {
+        "text": "Carbon only",
+        "latex": null
+      },
+      {
+        "text": "Heteroatoms such as O, N and halogens",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Heteroatoms such as O, N and halogens",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Three-Dimensional Representation",
+    "familyId": "solid_wedge_meaning",
+    "questionText": "In wedge-and-dash representation, a solid wedge indicates a bond:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Lying in the plane of paper",
+        "latex": null
+      },
+      {
+        "text": "Projecting towards the observer",
+        "latex": null
+      },
+      {
+        "text": "Projecting away from the observer",
+        "latex": null
+      },
+      {
+        "text": "Parallel to the plane",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Projecting towards the observer",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Three-Dimensional Representation",
+    "familyId": "dashed_wedge_meaning",
+    "questionText": "In wedge-and-dash representation, a dashed wedge indicates a bond:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Projecting away from the observer",
+        "latex": null
+      },
+      {
+        "text": "Projecting towards the observer",
+        "latex": null
+      },
+      {
+        "text": "Present in a double bond",
+        "latex": null
+      },
+      {
+        "text": "Present in a triple bond",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Projecting away from the observer",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Molecular Models",
+    "familyId": "framework_model",
+    "questionText": "Which molecular model shows only the bonds connecting atoms and not the atoms themselves?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Space-filling model",
+        "latex": null
+      },
+      {
+        "text": "Ball-and-stick model",
+        "latex": null
+      },
+      {
+        "text": "Framework model",
+        "latex": null
+      },
+      {
+        "text": "Wedge model",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Framework model",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Molecular Models",
+    "familyId": "ball_stick_model",
+    "questionText": "In a ball-and-stick model, the balls represent:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Bonds",
+        "latex": null
+      },
+      {
+        "text": "Atoms",
+        "latex": null
+      },
+      {
+        "text": "Electrons",
+        "latex": null
+      },
+      {
+        "text": "Orbitals",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atoms",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Molecular Models",
+    "familyId": "space_filling_model",
+    "questionText": "Which molecular model emphasizes the relative sizes of atoms based on van der Waals radii?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Framework model",
+        "latex": null
+      },
+      {
+        "text": "Ball-and-stick model",
+        "latex": null
+      },
+      {
+        "text": "Space-filling model",
+        "latex": null
+      },
+      {
+        "text": "Lewis model",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Space-filling model",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Classification of Organic Compounds",
+    "familyId": "aliphatic_compounds",
+    "questionText": "Open-chain organic compounds are also known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Aromatic compounds",
+        "latex": null
+      },
+      {
+        "text": "Alicyclic compounds",
+        "latex": null
+      },
+      {
+        "text": "Aliphatic compounds",
+        "latex": null
+      },
+      {
+        "text": "Heterocyclic compounds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Aliphatic compounds",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Classification of Organic Compounds",
+    "familyId": "alicyclic_compounds",
+    "questionText": "Cyclic compounds having properties similar to aliphatic compounds are called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Aromatic compounds",
+        "latex": null
+      },
+      {
+        "text": "Alicyclic compounds",
+        "latex": null
+      },
+      {
+        "text": "Heterocyclic compounds",
+        "latex": null
+      },
+      {
+        "text": "Functional compounds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Alicyclic compounds",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Classification of Organic Compounds",
+    "familyId": "aromatic_compounds",
+    "questionText": "Benzene is classified as a:",
+    "questionLatex": "\\text{C}_6\\text{H}_6",
+    "options": [
+      {
+        "text": "Aliphatic compound",
+        "latex": null
+      },
+      {
+        "text": "Alicyclic compound",
+        "latex": null
+      },
+      {
+        "text": "Aromatic compound",
+        "latex": null
+      },
+      {
+        "text": "Heterocyclic compound",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Aromatic compound",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Classification of Organic Compounds",
+    "familyId": "heterocyclic_compounds",
+    "questionText": "A heterocyclic compound contains:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only carbon atoms in the ring",
+        "latex": null
+      },
+      {
+        "text": "At least one atom other than carbon in the ring",
+        "latex": null
+      },
+      {
+        "text": "Only hydrogen atoms in the ring",
+        "latex": null
+      },
+      {
+        "text": "No cyclic structure",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "At least one atom other than carbon in the ring",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Homologous Series",
+    "familyId": "homologous_series_definition",
+    "questionText": "A homologous series is a group of compounds having the same:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Molecular mass",
+        "latex": null
+      },
+      {
+        "text": "Functional group and general formula",
+        "latex": null
+      },
+      {
+        "text": "Number of carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Empirical formula",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Functional group and general formula",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Homologous Series",
+    "familyId": "successive_members",
+    "questionText": "Successive members of a homologous series differ by:",
+    "questionLatex": "-\\text{CH}_2-",
+    "options": [
+      {
+        "text": "-CH₃",
+        "latex": "-\\text{CH}_3"
+      },
+      {
+        "text": "-CH₂-",
+        "latex": "-\\text{CH}_2-"
+      },
+      {
+        "text": "-C₂H₂-",
+        "latex": "-\\text{C}_2\\text{H}_2-"
+      },
+      {
+        "text": "-OH",
+        "latex": "-\\text{OH}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-CH₂-",
+      "latex": "-\\text{CH}_2-"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Functional Groups",
+    "familyId": "functional_group_definition",
+    "questionText": "A functional group is an atom or group of atoms that determines the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Colour of the compound only",
+        "latex": null
+      },
+      {
+        "text": "Physical state only",
+        "latex": null
+      },
+      {
+        "text": "Characteristic chemical properties of the compound",
+        "latex": null
+      },
+      {
+        "text": "Atomic mass of carbon",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Characteristic chemical properties of the compound",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Functional Groups",
+    "familyId": "alcohol_functional_group",
+    "questionText": "The functional group present in alcohols is:",
+    "questionLatex": "-\\text{OH}",
+    "options": [
+      {
+        "text": "-CHO",
+        "latex": "-\\text{CHO}"
+      },
+      {
+        "text": "-COOH",
+        "latex": "-\\text{COOH}"
+      },
+      {
+        "text": "-OH",
+        "latex": "-\\text{OH}"
+      },
+      {
+        "text": "-NH₂",
+        "latex": "-\\text{NH}_2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-OH",
+      "latex": "-\\text{OH}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Functional Groups",
+    "familyId": "aldehyde_functional_group",
+    "questionText": "Which functional group is present in aldehydes?",
+    "questionLatex": "-\\text{CHO}",
+    "options": [
+      {
+        "text": "-COOH",
+        "latex": "-\\text{COOH}"
+      },
+      {
+        "text": "-CHO",
+        "latex": "-\\text{CHO}"
+      },
+      {
+        "text": "-OH",
+        "latex": "-\\text{OH}"
+      },
+      {
+        "text": "-COOR",
+        "latex": "-\\text{COOR}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-CHO",
+      "latex": "-\\text{CHO}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Functional Groups",
+    "familyId": "carboxylic_acid_group",
+    "questionText": "The functional group present in carboxylic acids is:",
+    "questionLatex": "-\\text{COOH}",
+    "options": [
+      {
+        "text": "-OH",
+        "latex": "-\\text{OH}"
+      },
+      {
+        "text": "-COOH",
+        "latex": "-\\text{COOH}"
+      },
+      {
+        "text": "-NH₂",
+        "latex": "-\\text{NH}_2"
+      },
+      {
+        "text": "-CHO",
+        "latex": "-\\text{CHO}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-COOH",
+      "latex": "-\\text{COOH}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Functional Groups",
+    "familyId": "amine_functional_group",
+    "questionText": "The characteristic functional group of amines is:",
+    "questionLatex": "-\\text{NH}_2",
+    "options": [
+      {
+        "text": "-NO₂",
+        "latex": "-\\text{NO}_2"
+      },
+      {
+        "text": "-CN",
+        "latex": "-\\text{CN}"
+      },
+      {
+        "text": "-NH₂",
+        "latex": "-\\text{NH}_2"
+      },
+      {
+        "text": "-CONH₂",
+        "latex": "-\\text{CONH}_2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-NH₂",
+      "latex": "-\\text{NH}_2"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "iupac_nomenclature_definition",
+    "questionText": "The internationally accepted system for naming organic compounds is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Common nomenclature",
+        "latex": null
+      },
+      {
+        "text": "Trivial nomenclature",
+        "latex": null
+      },
+      {
+        "text": "IUPAC nomenclature",
+        "latex": null
+      },
+      {
+        "text": "Geneva nomenclature",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "IUPAC nomenclature",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "parent_chain_selection",
+    "questionText": "In IUPAC nomenclature, the parent chain is selected as the continuous carbon chain containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Maximum number of carbon atoms and principal functional group",
+        "latex": null
+      },
+      {
+        "text": "Minimum number of carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Maximum number of hydrogen atoms",
+        "latex": null
+      },
+      {
+        "text": "Only double bonds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Maximum number of carbon atoms and principal functional group",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "alkane_prefix_meth",
+    "questionText": "The prefix used for a carbon chain containing one carbon atom is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "eth-",
+        "latex": null
+      },
+      {
+        "text": "prop-",
+        "latex": null
+      },
+      {
+        "text": "meth-",
+        "latex": null
+      },
+      {
+        "text": "but-",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "meth-",
+      "latex": null
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "alkane_prefix_pent",
+    "questionText": "The prefix corresponding to five carbon atoms in a parent chain is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "but-",
+        "latex": null
+      },
+      {
+        "text": "pent-",
+        "latex": null
+      },
+      {
+        "text": "hex-",
+        "latex": null
+      },
+      {
+        "text": "hept-",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "pent-",
+      "latex": null
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "lowest_locant_rule",
+    "questionText": "According to IUPAC rules, numbering of the parent chain is done so that the principal functional group receives:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "The highest possible locant",
+        "latex": null
+      },
+      {
+        "text": "The lowest possible locant",
+        "latex": null
+      },
+      {
+        "text": "No locant",
+        "latex": null
+      },
+      {
+        "text": "An even-numbered locant",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The lowest possible locant",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Nomenclature",
+    "familyId": "methyl_substituent",
+    "questionText": "The alkyl group obtained by removing one hydrogen atom from methane is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Ethyl",
+        "latex": null
+      },
+      {
+        "text": "Propyl",
+        "latex": null
+      },
+      {
+        "text": "Methyl",
+        "latex": null
+      },
+      {
+        "text": "Butyl",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Methyl",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Isomerism",
+    "familyId": "isomerism_definition",
+    "questionText": "Compounds having the same molecular formula but different arrangements of atoms are called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Homologues",
+        "latex": null
+      },
+      {
+        "text": "Isomers",
+        "latex": null
+      },
+      {
+        "text": "Radicals",
+        "latex": null
+      },
+      {
+        "text": "Resonance structures",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Isomers",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Isomerism",
+    "familyId": "chain_isomerism_definition",
+    "questionText": "Isomerism arising due to different arrangements of the carbon skeleton is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Position isomerism",
+        "latex": null
+      },
+      {
+        "text": "Functional isomerism",
+        "latex": null
+      },
+      {
+        "text": "Chain isomerism",
+        "latex": null
+      },
+      {
+        "text": "Metamerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Chain isomerism",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Isomerism",
+    "familyId": "position_isomerism_definition",
+    "questionText": "Isomerism caused by different positions of a functional group on the same carbon chain is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Chain isomerism",
+        "latex": null
+      },
+      {
+        "text": "Position isomerism",
+        "latex": null
+      },
+      {
+        "text": "Functional isomerism",
+        "latex": null
+      },
+      {
+        "text": "Tautomerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Position isomerism",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Isomerism",
+    "familyId": "functional_isomerism_definition",
+    "questionText": "Compounds having the same molecular formula but different functional groups exhibit:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Chain isomerism",
+        "latex": null
+      },
+      {
+        "text": "Position isomerism",
+        "latex": null
+      },
+      {
+        "text": "Functional isomerism",
+        "latex": null
+      },
+      {
+        "text": "Geometrical isomerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Functional isomerism",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Isomerism",
+    "familyId": "metamerism_definition",
+    "questionText": "Isomerism arising due to different alkyl groups on either side of a polyvalent functional group is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Chain isomerism",
+        "latex": null
+      },
+      {
+        "text": "Position isomerism",
+        "latex": null
+      },
+      {
+        "text": "Metamerism",
+        "latex": null
+      },
+      {
+        "text": "Tautomerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Metamerism",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Structural Isomerism",
+    "familyId": "tautomerism_definition",
+    "questionText": "The phenomenon involving dynamic equilibrium between two compounds differing in the position of a proton and a double bond is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Metamerism",
+        "latex": null
+      },
+      {
+        "text": "Tautomerism",
+        "latex": null
+      },
+      {
+        "text": "Chain isomerism",
+        "latex": null
+      },
+      {
+        "text": "Geometrical isomerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Tautomerism",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Electronic Displacement Effects",
+    "familyId": "inductive_effect_definition",
+    "questionText": "The permanent displacement of sigma electrons along a carbon chain due to electronegativity differences is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Resonance effect",
+        "latex": null
+      },
+      {
+        "text": "Electromeric effect",
+        "latex": null
+      },
+      {
+        "text": "Inductive effect",
+        "latex": null
+      },
+      {
+        "text": "Hyperconjugation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Inductive effect",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Electronic Displacement Effects",
+    "familyId": "plus_i_group",
+    "questionText": "Which of the following exhibits a +I (electron releasing) effect?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "-NO₂",
+        "latex": "-\\text{NO}_2"
+      },
+      {
+        "text": "-CN",
+        "latex": "-\\text{CN}"
+      },
+      {
+        "text": "-Cl",
+        "latex": "-\\text{Cl}"
+      },
+      {
+        "text": "-CH₃",
+        "latex": "-\\text{CH}_3"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "-CH₃",
+      "latex": "-\\text{CH}_3"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Electronic Displacement Effects",
+    "familyId": "minus_i_group",
+    "questionText": "Which of the following exhibits a strong −I (electron withdrawing) effect?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "-CH₃",
+        "latex": "-\\text{CH}_3"
+      },
+      {
+        "text": "-C₂H₅",
+        "latex": "-\\text{C}_2\\text{H}_5"
+      },
+      {
+        "text": "-NO₂",
+        "latex": "-\\text{NO}_2"
+      },
+      {
+        "text": "-H",
+        "latex": "-\\text{H}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-NO₂",
+      "latex": "-\\text{NO}_2"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Electronic Displacement Effects",
+    "familyId": "resonance_definition",
+    "questionText": "The delocalisation of π-electrons over two or more adjacent atoms is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Inductive effect",
+        "latex": null
+      },
+      {
+        "text": "Resonance",
+        "latex": null
+      },
+      {
+        "text": "Electromeric effect",
+        "latex": null
+      },
+      {
+        "text": "Isomerism",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Resonance",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Electronic Displacement Effects",
+    "familyId": "electromeric_effect_definition",
+    "questionText": "The temporary complete transfer of π-electrons of a multiple bond under the influence of an attacking reagent is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Inductive effect",
+        "latex": null
+      },
+      {
+        "text": "Hyperconjugation",
+        "latex": null
+      },
+      {
+        "text": "Electromeric effect",
+        "latex": null
+      },
+      {
+        "text": "Resonance effect",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Electromeric effect",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Reaction Intermediates",
+    "familyId": "carbocation_definition",
+    "questionText": "A carbocation is an organic species containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "A negatively charged carbon atom",
+        "latex": null
+      },
+      {
+        "text": "A positively charged carbon atom",
+        "latex": null
+      },
+      {
+        "text": "A neutral carbon atom with two lone pairs",
+        "latex": null
+      },
+      {
+        "text": "A carbon atom with five covalent bonds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A positively charged carbon atom",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Reaction Intermediates",
+    "familyId": "carbanion_definition",
+    "questionText": "A carbanion is an organic species containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "A positively charged carbon atom",
+        "latex": null
+      },
+      {
+        "text": "A negatively charged carbon atom",
+        "latex": null
+      },
+      {
+        "text": "A carbon atom with no electrons",
+        "latex": null
+      },
+      {
+        "text": "A carbon atom bonded to oxygen only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A negatively charged carbon atom",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topic": "Reaction Intermediates",
+    "familyId": "free_radical_definition",
+    "questionText": "A free radical is a species that contains:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "A pair of unshared electrons",
+        "latex": null
+      },
+      {
+        "text": "A positively charged carbon",
+        "latex": null
+      },
+      {
+        "text": "An unpaired electron",
+        "latex": null
+      },
+      {
+        "text": "A triple bond",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "An unpaired electron",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
