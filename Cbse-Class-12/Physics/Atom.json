@@ -1,0 +1,1116 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Thomson Model of Atom",
+    "familyId": "thomson_model_definition",
+    "questionText": "State Thomson's model of the atom.",
+    "questionLatex": "$\\text{Thomson's Model of Atom}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to Thomson's model, the positive charge is uniformly distributed throughout the atom and electrons are embedded in it like seeds in a watermelon."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Atomic Models",
+    "familyId": "plum_pudding_model",
+    "questionText": "Thomson's atomic model is also known as:",
+    "questionLatex": "$\\text{Atomic Model}$",
+    "options": [
+      "Planetary model",
+      "Plum pudding model",
+      "Nuclear model",
+      "Wave model"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Plum pudding model"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Experiment",
+    "familyId": "alpha_scattering_scientists",
+    "questionText": "Who performed the alpha-particle scattering experiment under Rutherford's guidance?",
+    "questionLatex": "$\\text{Alpha Particle Scattering}$",
+    "options": [
+      "Bohr and Planck",
+      "Geiger and Marsden",
+      "Einstein and Millikan",
+      "Davisson and Germer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Geiger and Marsden"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Experiment",
+    "familyId": "gold_foil_experiment",
+    "questionText": "Which metal foil was used in Rutherford's alpha-particle scattering experiment?",
+    "questionLatex": "$\\text{Gold Foil Experiment}$",
+    "options": [
+      "Silver",
+      "Copper",
+      "Gold",
+      "Platinum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Gold"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Experiment",
+    "familyId": "rutherford_observation",
+    "questionText": "What percentage of alpha particles were scattered by more than 1° in Rutherford's experiment?",
+    "questionLatex": "$\\theta > 1^{\\circ}$",
+    "options": [
+      "0.14%",
+      "1.4%",
+      "14%",
+      "0.014%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0.14%"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Nuclear Model",
+    "familyId": "rutherford_conclusion",
+    "questionText": "State the main conclusion of Rutherford's alpha-particle scattering experiment.",
+    "questionLatex": "$\\text{Rutherford Nuclear Model}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Most of the mass and all the positive charge of an atom are concentrated in a very small central region called the nucleus."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Nuclear Model",
+    "familyId": "empty_space_atom",
+    "questionText": "According to Rutherford's model, most of the volume of an atom consists of:",
+    "questionLatex": "$\\text{Atomic Structure}$",
+    "options": [
+      "Positive charge",
+      "Negative charge",
+      "Empty space",
+      "Neutrons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Empty space"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Nuclear Dimensions",
+    "familyId": "nucleus_size",
+    "questionText": "The typical size of an atomic nucleus is of the order of:",
+    "questionLatex": "$r_n$",
+    "options": [
+      "10^{-10} m",
+      "10^{-12} m",
+      "10^{-15} m",
+      "10^{-8} m"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "10^{-15} m"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Impact Parameter",
+    "familyId": "impact_parameter_definition",
+    "questionText": "Define impact parameter in Rutherford scattering.",
+    "questionLatex": "$b$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The impact parameter is the perpendicular distance between the initial velocity vector of the alpha particle and the centre of the target nucleus."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Scattering",
+    "familyId": "head_on_collision",
+    "questionText": "In Rutherford scattering, an alpha particle rebounds back when:",
+    "questionLatex": "$\\theta \\approx 180^{\\circ}$",
+    "options": [
+      "Impact parameter is very large",
+      "Impact parameter is zero or minimum",
+      "Alpha particle has zero kinetic energy",
+      "Nucleus is negatively charged"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Impact parameter is zero or minimum"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Scattering",
+    "familyId": "impact_parameter_effect",
+    "questionText": "How does the scattering angle vary with impact parameter in Rutherford scattering?",
+    "questionLatex": "$\\theta \\propto \\frac{1}{b}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The scattering angle decreases as the impact parameter increases. Small impact parameters produce large deflections while large impact parameters produce small deflections."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Model",
+    "familyId": "electron_role_scattering",
+    "questionText": "Why do atomic electrons not significantly affect alpha-particle scattering?",
+    "questionLatex": "$\\text{Electron Effect}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Atomic electrons are very light compared to alpha particles and therefore cannot appreciably deflect them."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Model",
+    "familyId": "electrostatic_force_formula",
+    "questionText": "Write the expression for the electrostatic force between an alpha particle and a nucleus of atomic number Z.",
+    "questionLatex": "$F = \\frac{1}{4\\pi\\varepsilon_0} \\frac{(2e)(Ze)}{r^2}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "F = \\frac{1}{4\\pi\\varepsilon_0} \\frac{(2e)(Ze)}{r^2}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Model",
+    "familyId": "distance_closest_approach_definition",
+    "questionText": "What is meant by the distance of closest approach in alpha-particle scattering?",
+    "questionLatex": "$d$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The distance of closest approach is the minimum distance between the alpha particle and the nucleus when the alpha particle momentarily comes to rest before reversing its direction."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Scattering Numerical",
+    "familyId": "closest_approach_formula",
+    "questionText": "Write the formula for the distance of closest approach of an alpha particle of kinetic energy K towards a nucleus of atomic number Z.",
+    "questionLatex": "$d = \\frac{1}{4\\pi\\varepsilon_0} \\frac{2Ze^2}{K}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "d = \\frac{1}{4\\pi\\varepsilon_0} \\frac{2Ze^2}{K}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Model",
+    "familyId": "dynamic_stability_condition",
+    "questionText": "For a dynamically stable electron orbit in Rutherford's model, the electrostatic force provides:",
+    "questionLatex": "$F_e = F_c$",
+    "options": [
+      "Gravitational force",
+      "Magnetic force",
+      "Centripetal force",
+      "Nuclear force"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Centripetal force"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Model",
+    "familyId": "centripetal_equation",
+    "questionText": "Write the condition for a stable circular orbit of an electron around the nucleus in Rutherford's model.",
+    "questionLatex": "$\\frac{1}{4\\pi\\varepsilon_0} \\frac{e^2}{r^2} = \\frac{mv^2}{r}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\frac{1}{4\\pi\\varepsilon_0} \\frac{e^2}{r^2} = \\frac{mv^2}{r}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Atom",
+    "familyId": "electron_total_energy",
+    "questionText": "The total energy of an electron in a hydrogen atom is negative. What does this indicate?",
+    "questionLatex": "$E < 0$",
+    "options": [
+      "The electron is free",
+      "The electron is unstable",
+      "The electron is bound to the nucleus",
+      "The atom is ionised"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "The electron is bound to the nucleus"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Rutherford Scattering Numerical",
+    "familyId": "closest_approach_gold",
+    "questionText": "Calculate the distance of closest approach for an alpha particle of kinetic energy 7.7 MeV incident on a gold nucleus (Z = 79).",
+    "questionLatex": "$d = \\frac{1}{4\\pi\\varepsilon_0} \\frac{2Ze^2}{K}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.0e-14,
+      "unit": "m",
+      "steps": [
+        "$d = \\frac{1}{4\\pi\\varepsilon_0} \\frac{2Ze^2}{K}$",
+        "$Z = 79, e = 1.6 \\times 10^{-19}\\,\\text{C}$",
+        "$K = 7.7\\,\\text{MeV} \\approx 1.23 \\times 10^{-12}\\,\\text{J}$",
+        "$d = \\frac{9 \\times 10^9 \\times 2 \\times 79 \\times (1.6 \\times 10^{-19})^2}{1.23 \\times 10^{-12}}$",
+        "$d \\approx 3.0 \\times 10^{-14}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "bohr_first_postulate",
+    "questionText": "State Bohr's first postulate of the hydrogen atom.",
+    "questionLatex": "$\\text{Bohr's First Postulate}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An electron revolves around the nucleus only in certain stable circular orbits called stationary states without radiating energy."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "angular_momentum_quantization",
+    "questionText": "According to Bohr's quantization condition, the angular momentum of an electron is:",
+    "questionLatex": "$L = mvr = n\\frac{h}{2\\pi}$",
+    "options": [
+      "$mvr = h$",
+      "$mvr = n\\frac{h}{2\\pi}$",
+      "$mvr = \\frac{h}{n}$",
+      "$mvr = 2nh$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "mvr=nh/2\\pi"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "bohr_second_postulate",
+    "questionText": "State Bohr's frequency condition for emission or absorption of radiation.",
+    "questionLatex": "$h\\nu = E_i - E_f$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Radiation is emitted or absorbed when an electron jumps between stationary states. The frequency of radiation is given by hν = Ei − Ef."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Orbits",
+    "familyId": "principal_quantum_number",
+    "questionText": "The orbit number in Bohr's model is represented by:",
+    "questionLatex": "$n = 1, 2, 3, \\dots$",
+    "options": [
+      "Atomic number",
+      "Mass number",
+      "Principal quantum number",
+      "Charge number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Principal quantum number"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Radius",
+    "familyId": "bohr_radius_definition",
+    "questionText": "What is Bohr radius?",
+    "questionLatex": "$a_0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Bohr radius is the radius of the first orbit of the hydrogen atom and is equal to 5.29 × 10^{-11} m."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Radius",
+    "familyId": "radius_nth_orbit",
+    "questionText": "According to Bohr's model, the radius of the nth orbit is given by:",
+    "questionLatex": "$r_n = n^2 a_0$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "r_n = n^2 a_0"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "energy_nth_orbit",
+    "questionText": "Write the expression for the energy of an electron in the nth orbit of a hydrogen atom.",
+    "questionLatex": "$E_n = -\\frac{13.6}{n^2}\\,\\text{eV}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "E_n = -\\frac{13.6}{n^2}\\,\\text{eV}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "ground_state_energy",
+    "questionText": "The energy of the ground state of a hydrogen atom is:",
+    "questionLatex": "$E_1$",
+    "options": [
+      "-13.6 eV",
+      "-3.4 eV",
+      "-1.51 eV",
+      "0 eV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "-13.6 eV"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model Numerical",
+    "familyId": "radius_second_orbit",
+    "questionText": "Calculate the radius of the second orbit of hydrogen atom. (a₀ = 5.29 × 10^{-11} m)",
+    "questionLatex": "$r_n = n^2 a_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2.116e-10,
+      "unit": "m",
+      "steps": [
+        "$r_2 = 2^2 \\times a_0$",
+        "$r_2 = 4 \\times 5.29 \\times 10^{-11}\\,\\text{m}$",
+        "$r_2 = 2.116 \\times 10^{-10}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model Numerical",
+    "familyId": "energy_third_orbit",
+    "questionText": "Calculate the energy of an electron in the third orbit of hydrogen atom.",
+    "questionLatex": "$E_n = -\\frac{13.6}{n^2}\\,\\text{eV}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": -1.51,
+      "unit": "eV",
+      "steps": [
+        "$E_3 = -\\frac{13.6}{3^2}\\,\\text{eV}$",
+        "$E_3 = -\\frac{13.6}{9}\\,\\text{eV}$",
+        "$E_3 = -1.51\\,\\text{eV}$"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "ionization_energy_definition",
+    "questionText": "What is ionization energy of a hydrogen atom?",
+    "questionLatex": "$\\text{Ionization Energy}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ionization energy is the minimum energy required to remove the electron completely from the ground state of a hydrogen atom to infinity."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "ionization_energy_value",
+    "questionText": "The ionization energy of hydrogen atom in the ground state is:",
+    "questionLatex": "$E_i$",
+    "options": [
+      "13.6 eV",
+      "3.4 eV",
+      "1.51 eV",
+      "0.85 eV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "13.6 eV"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "spectral_series_definition",
+    "questionText": "What is meant by a spectral series in the hydrogen spectrum?",
+    "questionLatex": "$\\text{Hydrogen Spectrum}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A spectral series consists of spectral lines produced when electrons from higher energy levels make transitions to a particular lower energy level."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "lyman_series_region",
+    "questionText": "The Lyman series of hydrogen spectrum lies in:",
+    "questionLatex": "$\\text{Lyman Series}$",
+    "options": [
+      "Visible region",
+      "Infrared region",
+      "Ultraviolet region",
+      "Microwave region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Ultraviolet region"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "balmer_series_region",
+    "questionText": "The Balmer series of hydrogen spectrum lies in:",
+    "questionLatex": "$\\text{Balmer Series}$",
+    "options": [
+      "Visible region",
+      "Ultraviolet region",
+      "X-ray region",
+      "Gamma-ray region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Visible region"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "paschen_series_region",
+    "questionText": "The Paschen series of hydrogen spectrum lies in:",
+    "questionLatex": "$\\text{Paschen Series}$",
+    "options": [
+      "Visible region",
+      "Infrared region",
+      "Ultraviolet region",
+      "Gamma region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Infrared region"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "rydberg_formula",
+    "questionText": "Write the Rydberg formula for hydrogen spectral lines.",
+    "questionLatex": "$\\frac{1}{\\lambda} = R \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\frac{1}{\\lambda} = R \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right)"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "balmer_transition",
+    "questionText": "In the Balmer series, electrons from higher energy levels make transitions to:",
+    "questionLatex": "$n = 2$",
+    "options": [
+      "n = 1",
+      "n = 2",
+      "n = 3",
+      "n = 4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "n = 2"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum Numerical",
+    "familyId": "ionization_energy_second_orbit",
+    "questionText": "Calculate the ionization energy of a hydrogen atom from the second orbit.",
+    "questionLatex": "$E_n = -\\frac{13.6}{n^2}\\,\\text{eV}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.4,
+      "unit": "eV",
+      "steps": [
+        "$\\text{Ionization energy} = |E_2|$",
+        "$E_2 = -\\frac{13.6}{2^2}\\,\\text{eV}$",
+        "$E_2 = -\\frac{13.6}{4}\\,\\text{eV}$",
+        "$E_2 = -3.4\\,\\text{eV}$",
+        "$\\text{Ionization energy} = 3.4\\,\\text{eV}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum Numerical",
+    "familyId": "wavelength_balmer_first_line",
+    "questionText": "Calculate the wavelength of the first line of the Balmer series. (R = 1.097 × 10^7 m^-1)",
+    "questionLatex": "$\\frac{1}{\\lambda} = R \\left( \\frac{1}{2^2} - \\frac{1}{3^2} \\right)$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 6.563e-7,
+      "unit": "m",
+      "steps": [
+        "$\\text{For first Balmer line: } n_1 = 2, n_2 = 3$",
+        "$\\frac{1}{\\lambda} = 1.097 \\times 10^7 \\times \\left( \\frac{1}{4} - \\frac{1}{9} \\right)$",
+        "$\\frac{1}{\\lambda} = 1.097 \\times 10^7 \\times \\frac{5}{36}$",
+        "$\\frac{1}{\\lambda} \\approx 1.523 \\times 10^6\\,\\text{m}^{-1}$",
+        "$\\lambda \\approx 6.563 \\times 10^{-7}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "brackett_series_region",
+    "questionText": "The Brackett series of hydrogen spectrum lies in:",
+    "questionLatex": "$\\text{Brackett Series}$",
+    "options": [
+      "Visible region",
+      "Ultraviolet region",
+      "Infrared region",
+      "X-ray region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Infrared region"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "pfund_series_region",
+    "questionText": "The Pfund series of hydrogen spectrum lies in:",
+    "questionLatex": "$\\text{Pfund Series}$",
+    "options": [
+      "Infrared region",
+      "Visible region",
+      "Ultraviolet region",
+      "Gamma-ray region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Infrared region"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "excited_state_definition",
+    "questionText": "What is an excited state of a hydrogen atom?",
+    "questionLatex": "$n > 1$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Any state of the hydrogen atom in which the electron occupies an orbit higher than the ground state (n > 1) is called an excited state."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "ground_state_definition",
+    "questionText": "What is the ground state of a hydrogen atom?",
+    "questionLatex": "$n = 1$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The lowest energy state of a hydrogen atom in which the electron occupies the first orbit (n = 1) is called the ground state."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "energy_absorption",
+    "questionText": "When does an electron absorb energy in a hydrogen atom?",
+    "questionLatex": "$\\Delta E = E_f - E_i$",
+    "options": [
+      "When it moves to a lower energy level",
+      "When it moves to a higher energy level",
+      "When it remains in the same orbit",
+      "When it reaches the nucleus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "When it moves to a higher energy level"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels",
+    "familyId": "energy_emission",
+    "questionText": "When does an electron emit radiation in a hydrogen atom?",
+    "questionLatex": "$\\Delta E = E_i - E_f$",
+    "options": [
+      "When it moves to a higher energy level",
+      "When it moves to a lower energy level",
+      "When it remains stationary",
+      "When it leaves the atom"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "When it moves to a lower energy level"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Model",
+    "familyId": "bohr_model_limitation",
+    "questionText": "Mention one limitation of Bohr's atomic model.",
+    "questionLatex": "$\\text{Bohr Model Limitation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Bohr's model successfully explains only hydrogen-like atoms and fails to explain the spectra of multi-electron atoms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Energy Levels Numerical",
+    "familyId": "energy_transition_hydrogen",
+    "questionText": "Calculate the energy emitted when an electron in hydrogen atom transitions from n = 3 to n = 2.",
+    "questionLatex": "$\\Delta E = 13.6 \\left( \\frac{1}{2^2} - \\frac{1}{3^2} \\right)\\,\\text{eV}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.89,
+      "unit": "eV",
+      "steps": [
+        "$E_3 = -\\frac{13.6}{3^2} = -1.51\\,\\text{eV}$",
+        "$E_2 = -\\frac{13.6}{2^2} = -3.40\\,\\text{eV}$",
+        "$\\Delta E = E_3 - E_2$",
+        "$\\Delta E = (-1.51) - (-3.40)$",
+        "$\\Delta E = 1.89\\,\\text{eV}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Hydrogen Spectrum Numerical",
+    "familyId": "frequency_balmer_transition",
+    "questionText": "Calculate the frequency of radiation emitted when an electron transitions from n = 3 to n = 2 in hydrogen atom. (h = 4.136 × 10^-15 eV s)",
+    "questionLatex": "$\\nu = \\frac{\\Delta E}{h}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 4.57e14,
+      "unit": "Hz",
+      "steps": [
+        "$\\Delta E = 1.89\\,\\text{eV}$",
+        "$\\nu = \\frac{\\Delta E}{h}$",
+        "$\\nu = \\frac{1.89}{4.136 \\times 10^{-15}}$",
+        "$\\nu \\approx 4.57 \\times 10^{14}\\,\\text{Hz}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Atom",
+    "topic": "Bohr Radius Numerical",
+    "familyId": "radius_fourth_orbit",
+    "questionText": "Calculate the radius of the fourth orbit of hydrogen atom. (a₀ = 5.29 × 10^-11 m)",
+    "questionLatex": "$r_n = n^2 a_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 8.464e-10,
+      "unit": "m",
+      "steps": [
+        "$r_4 = 4^2 \\times a_0$",
+        "$r_4 = 16 \\times 5.29 \\times 10^{-11}\\,\\text{m}$",
+        "$r_4 = 8.464 \\times 10^{-10}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

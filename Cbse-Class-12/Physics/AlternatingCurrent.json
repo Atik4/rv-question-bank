@@ -1,0 +1,1131 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Alternating Current",
+    "familyId": "ac_definition",
+    "questionText": "What is alternating current (ac)?",
+    "questionLatex": "$\\text{Alternating Current}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Alternating current is an electric current whose magnitude and direction change periodically with time."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Voltage",
+    "familyId": "ac_voltage_equation",
+    "questionText": "Write the expression for a sinusoidally varying alternating voltage.",
+    "questionLatex": "$v = v_m \\sin(\\omega t)$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$v = v_m \\sin(\\omega t)$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Resistor",
+    "familyId": "current_in_resistor",
+    "questionText": "An alternating voltage is applied across a pure resistor. The current through the resistor is:",
+    "questionLatex": "$i = i_m \\sin(\\omega t)$",
+    "options": [
+      "Ahead of voltage by $\\pi/2$",
+      "Behind voltage by $\\pi/2$",
+      "In phase with voltage",
+      "Out of phase by $\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "In phase with voltage"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Resistor",
+    "familyId": "ohms_law_ac",
+    "questionText": "Write Ohm's law for a pure resistive AC circuit in terms of peak values.",
+    "questionLatex": "$i_m = \\frac{v_m}{R}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$i_m = \\frac{v_m}{R}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "RMS Values",
+    "familyId": "rms_current_definition",
+    "questionText": "What is rms current?",
+    "questionLatex": "$I = \\frac{i_m}{\\sqrt{2}}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The rms current is the value of direct current that would produce the same average power in a resistor as the alternating current."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "RMS Values",
+    "familyId": "rms_current_formula",
+    "questionText": "Write the relation between rms current and peak current.",
+    "questionLatex": "$I = \\frac{i_m}{\\sqrt{2}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$I = \\frac{i_m}{\\sqrt{2}}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "RMS Values",
+    "familyId": "rms_voltage_formula",
+    "questionText": "Write the relation between rms voltage and peak voltage.",
+    "questionLatex": "$V = \\frac{v_m}{\\sqrt{2}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$V = \\frac{v_m}{\\sqrt{2}}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Power in AC Circuit",
+    "familyId": "average_power_resistor",
+    "questionText": "Write the expression for average power consumed in a pure resistive AC circuit.",
+    "questionLatex": "$P = I^2 R$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$P = I^2 R$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "RMS Numerical",
+    "familyId": "rms_current_numerical",
+    "questionText": "An alternating current has a peak value of $10\\text{ A}$. Calculate its rms value.",
+    "questionLatex": "$I = \\frac{i_m}{\\sqrt{2}}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 7.07,
+      "unit": "A",
+      "steps": [
+        "$I = \\frac{i_m}{\\sqrt{2}}$",
+        "$I = \\frac{10}{1.414}$",
+        "$I = 7.07\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Domestic Supply",
+    "familyId": "domestic_voltage_peak",
+    "questionText": "The rms value of domestic AC voltage is $220\\text{ V}$. Calculate the peak voltage.",
+    "questionLatex": "$v_m = \\sqrt{2}V$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 311,
+      "unit": "V",
+      "steps": [
+        "$v_m = \\sqrt{2}V$",
+        "$v_m = 1.414 \\times 220$",
+        "$v_m \\approx 311\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Phasors",
+    "familyId": "phasor_definition",
+    "questionText": "What is a phasor in the analysis of alternating current circuits?",
+    "questionLatex": "$\\text{Phasor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A phasor is a rotating vector used to represent the amplitude and phase of a sinusoidally varying quantity."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Inductor",
+    "familyId": "inductor_phase_relation",
+    "questionText": "In a purely inductive AC circuit, the current is:",
+    "questionLatex": "$i = i_m \\sin(\\omega t - \\pi/2)$",
+    "options": [
+      "In phase with voltage",
+      "Ahead of voltage by $\\pi/2$",
+      "Behind voltage by $\\pi/2$",
+      "Behind voltage by $\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Behind voltage by $\\pi/2$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductive Reactance",
+    "familyId": "inductive_reactance_definition",
+    "questionText": "Define inductive reactance.",
+    "questionLatex": "$X_L = \\omega L$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Inductive reactance is the opposition offered by an inductor to the flow of alternating current."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductive Reactance",
+    "familyId": "inductive_reactance_formula",
+    "questionText": "Write the expression for inductive reactance.",
+    "questionLatex": "$X_L = \\omega L$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$X_L = \\omega L$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductive Reactance",
+    "familyId": "inductive_reactance_frequency",
+    "questionText": "Inductive reactance is directly proportional to:",
+    "questionLatex": "$X_L = \\omega L$",
+    "options": [
+      "Frequency only",
+      "Inductance only",
+      "Both frequency and inductance",
+      "Resistance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both frequency and inductance"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Inductor",
+    "familyId": "current_amplitude_inductor",
+    "questionText": "Write the expression for the peak current in a purely inductive AC circuit.",
+    "questionLatex": "$i_m = \\frac{v_m}{X_L}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$i_m = \\frac{v_m}{X_L}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Power in Inductor",
+    "familyId": "average_power_inductor",
+    "questionText": "What is the average power consumed in a purely inductive AC circuit over one complete cycle?",
+    "questionLatex": "$P = 0$",
+    "options": [
+      "Maximum",
+      "Depends on frequency",
+      "Zero",
+      "Depends on inductance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductive Reactance Numerical",
+    "familyId": "inductive_reactance_numerical",
+    "questionText": "Calculate the inductive reactance of an inductor of inductance $0.1\\text{ H}$ connected to a $50\\text{ Hz}$ AC source.",
+    "questionLatex": "$X_L = 2\\pi fL$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 31.4,
+      "unit": "$\\Omega$",
+      "steps": [
+        "$X_L = 2\\pi fL$",
+        "$X_L = 2 \\times 3.14 \\times 50 \\times 0.1$",
+        "$X_L = 31.4\\text{ }\\Omega$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductive Circuit Numerical",
+    "familyId": "rms_current_inductor",
+    "questionText": "A pure inductor of $50\\text{ mH}$ is connected to a $220\\text{ V}$, $50\\text{ Hz}$ AC source. Calculate the rms current in the circuit.",
+    "questionLatex": "$I = \\frac{V}{X_L}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 14.01,
+      "unit": "A",
+      "steps": [
+        "$X_L = 2\\pi fL$",
+        "$X_L = 2 \\times 3.14 \\times 50 \\times 0.05 = 15.7\\text{ }\\Omega$",
+        "$I = \\frac{V}{X_L}$",
+        "$I = \\frac{220}{15.7}$",
+        "$I = 14.01\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Inductor Properties",
+    "familyId": "inductor_effect_frequency",
+    "questionText": "What happens to the inductive reactance of an inductor when the frequency of the AC source is doubled?",
+    "questionLatex": "$X_L = 2\\pi fL$",
+    "options": [
+      "Becomes half",
+      "Remains unchanged",
+      "Becomes double",
+      "Becomes four times"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Becomes double"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Capacitor",
+    "familyId": "capacitor_phase_relation",
+    "questionText": "In a purely capacitive AC circuit, the current is:",
+    "questionLatex": "$i = i_m \\sin(\\omega t + \\pi/2)$",
+    "options": [
+      "In phase with voltage",
+      "Ahead of voltage by $\\pi/2$",
+      "Behind voltage by $\\pi/2$",
+      "Behind voltage by $\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Ahead of voltage by $\\pi/2$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_definition",
+    "questionText": "Define capacitive reactance.",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Capacitive reactance is the opposition offered by a capacitor to the flow of alternating current."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_formula",
+    "questionText": "Write the expression for capacitive reactance.",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$X_C = \\frac{1}{\\omega C}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_frequency_dependence",
+    "questionText": "Capacitive reactance is inversely proportional to:",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [
+      "Frequency only",
+      "Capacitance only",
+      "Both frequency and capacitance",
+      "Resistance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both frequency and capacitance"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Capacitor",
+    "familyId": "current_amplitude_capacitor",
+    "questionText": "Write the expression for the peak current in a purely capacitive AC circuit.",
+    "questionLatex": "$i_m = \\frac{v_m}{X_C}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$i_m = \\frac{v_m}{X_C}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Power in Capacitor",
+    "familyId": "average_power_capacitor",
+    "questionText": "What is the average power consumed in a purely capacitive AC circuit over one complete cycle?",
+    "questionLatex": "$P = 0$",
+    "options": [
+      "Maximum",
+      "Depends on capacitance",
+      "Depends on frequency",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Zero"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance Numerical",
+    "familyId": "capacitive_reactance_numerical",
+    "questionText": "Calculate the capacitive reactance of a capacitor of capacitance $100\\text{ }\\mu\\text{F}$ connected to a $50\\text{ Hz}$ AC source.",
+    "questionLatex": "$X_C = \\frac{1}{2\\pi fC}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 31.85,
+      "unit": "$\\Omega$",
+      "steps": [
+        "$X_C = \\frac{1}{2\\pi fC}$",
+        "$X_C = \\frac{1}{2 \\times 3.14 \\times 50 \\times 100 \\times 10^{-6}}$",
+        "$X_C = 31.85\\text{ }\\Omega$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Circuit Numerical",
+    "familyId": "rms_current_capacitor",
+    "questionText": "A capacitor of capacitance $100\\text{ }\\mu\\text{F}$ is connected to a $220\\text{ V}$, $50\\text{ Hz}$ AC source. Calculate the rms current.",
+    "questionLatex": "$I = \\frac{V}{X_C}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 6.91,
+      "unit": "A",
+      "steps": [
+        "$X_C = 31.85\\text{ }\\Omega$",
+        "$I = \\frac{V}{X_C}$",
+        "$I = \\frac{220}{31.85}$",
+        "$I = 6.91\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitor Properties",
+    "familyId": "capacitor_frequency_effect",
+    "questionText": "What happens to the capacitive reactance when the frequency of the AC source is doubled?",
+    "questionLatex": "$X_C = \\frac{1}{2\\pi fC}$",
+    "options": [
+      "Doubles",
+      "Becomes half",
+      "Remains unchanged",
+      "Becomes four times"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Becomes half"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Comparison of L and C Circuits",
+    "familyId": "phase_comparison",
+    "questionText": "In which of the following circuits does current lead the applied voltage by $\\pi/2$?",
+    "questionLatex": "$\\phi = \\pi/2$",
+    "options": [
+      "Pure resistor",
+      "Pure inductor",
+      "Pure capacitor",
+      "RL circuit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Pure capacitor"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Capacitor",
+    "familyId": "capacitor_phase_relation",
+    "questionText": "In a purely capacitive AC circuit, the current is:",
+    "questionLatex": "$i = i_m \\sin(\\omega t + \\pi/2)$",
+    "options": [
+      "In phase with voltage",
+      "Ahead of voltage by $\\pi/2$",
+      "Behind voltage by $\\pi/2$",
+      "Behind voltage by $\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Ahead of voltage by $\\pi/2$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_definition",
+    "questionText": "Define capacitive reactance.",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Capacitive reactance is the opposition offered by a capacitor to the flow of alternating current."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_formula",
+    "questionText": "Write the expression for capacitive reactance.",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$X_C = \\frac{1}{\\omega C}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance",
+    "familyId": "capacitive_reactance_frequency_dependence",
+    "questionText": "Capacitive reactance is inversely proportional to:",
+    "questionLatex": "$X_C = \\frac{1}{\\omega C}$",
+    "options": [
+      "Frequency only",
+      "Capacitance only",
+      "Both frequency and capacitance",
+      "Resistance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both frequency and capacitance"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "AC Through Capacitor",
+    "familyId": "current_amplitude_capacitor",
+    "questionText": "Write the expression for the peak current in a purely capacitive AC circuit.",
+    "questionLatex": "$i_m = \\frac{v_m}{X_C}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$i_m = \\frac{v_m}{X_C}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Power in Capacitor",
+    "familyId": "average_power_capacitor",
+    "questionText": "What is the average power consumed in a purely capacitive AC circuit over one complete cycle?",
+    "questionLatex": "$P = 0$",
+    "options": [
+      "Maximum",
+      "Depends on capacitance",
+      "Depends on frequency",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Zero"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Reactance Numerical",
+    "familyId": "capacitive_reactance_numerical",
+    "questionText": "Calculate the capacitive reactance of a capacitor of capacitance $100\\text{ }\\mu\\text{F}$ connected to a $50\\text{ Hz}$ AC source.",
+    "questionLatex": "$X_C = \\frac{1}{2\\pi fC}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 31.85,
+      "unit": "$\\Omega$",
+      "steps": [
+        "$X_C = \\frac{1}{2\\pi fC}$",
+        "$X_C = \\frac{1}{2 \\times 3.14 \\times 50 \\times 100 \\times 10^{-6}}$",
+        "$X_C = 31.85\\text{ }\\Omega$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitive Circuit Numerical",
+    "familyId": "rms_current_capacitor",
+    "questionText": "A capacitor of capacitance $100\\text{ }\\mu\\text{F}$ is connected to a $220\\text{ V}$, $50\\text{ Hz}$ AC source. Calculate the rms current.",
+    "questionLatex": "$I = \\frac{V}{X_C}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 6.91,
+      "unit": "A",
+      "steps": [
+        "$X_C = 31.85\\text{ }\\Omega$",
+        "$I = \\frac{V}{X_C}$",
+        "$I = \\frac{220}{31.85}$",
+        "$I = 6.91\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Capacitor Properties",
+    "familyId": "capacitor_frequency_effect",
+    "questionText": "What happens to the capacitive reactance when the frequency of the AC source is doubled?",
+    "questionLatex": "$X_C = \\frac{1}{2\\pi fC}$",
+    "options": [
+      "Doubles",
+      "Becomes half",
+      "Remains unchanged",
+      "Becomes four times"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Becomes half"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Comparison of L and C Circuits",
+    "familyId": "phase_comparison",
+    "questionText": "In which of the following circuits does current lead the applied voltage by $\\pi/2$?",
+    "questionLatex": "$\\phi = \\pi/2$",
+    "options": [
+      "Pure resistor",
+      "Pure inductor",
+      "Pure capacitor",
+      "RL circuit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Pure capacitor"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "resonance_condition",
+    "questionText": "State the condition for resonance in a series LCR circuit.",
+    "questionLatex": "$X_L = X_C$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$X_L = X_C$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "resonance_frequency_formula",
+    "questionText": "Write the expression for the resonant frequency of a series LCR circuit.",
+    "questionLatex": "$f_0 = \\frac{1}{2\\pi\\sqrt{LC}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$f_0 = \\frac{1}{2\\pi\\sqrt{LC}}$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "impedance_at_resonance",
+    "questionText": "The impedance of a series LCR circuit at resonance is:",
+    "questionLatex": "$Z = R$",
+    "options": [
+      "0",
+      "R",
+      "$X_L$",
+      "$X_C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "R"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "current_at_resonance",
+    "questionText": "At resonance, the current in a series LCR circuit is:",
+    "questionLatex": "$I = \\frac{V}{R}$",
+    "options": [
+      "Minimum",
+      "Zero",
+      "Maximum",
+      "Independent of voltage"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Maximum"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "power_factor_resonance",
+    "questionText": "The power factor of a series LCR circuit at resonance is:",
+    "questionLatex": "$\\cos\\phi = 1$",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "1"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Resonance",
+    "familyId": "phase_angle_resonance",
+    "questionText": "What is the phase difference between voltage and current at resonance in a series LCR circuit?",
+    "questionLatex": "$\\phi = 0$",
+    "options": [
+      "$\\pi/2$",
+      "$-\\pi/2$",
+      "$\\pi$",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "0"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Transformer",
+    "familyId": "transformer_definition",
+    "questionText": "What is a transformer?",
+    "questionLatex": "$\\text{Transformer}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A transformer is an electrical device that transfers electrical energy from one circuit to another through mutual induction and is used to change alternating voltage levels."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Transformer",
+    "familyId": "transformer_turn_ratio",
+    "questionText": "Write the relation between voltage and number of turns in an ideal transformer.",
+    "questionLatex": "$\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Transformer",
+    "familyId": "step_up_transformer",
+    "questionText": "A transformer in which the secondary voltage is greater than the primary voltage is called a:",
+    "questionLatex": "$V_s > V_p$",
+    "options": [
+      "Step-down transformer",
+      "Step-up transformer",
+      "Isolation transformer",
+      "Current transformer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Step-up transformer"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "topic": "Transformer Numerical",
+    "familyId": "transformer_numerical",
+    "questionText": "An ideal transformer has 500 turns in the primary coil and 100 turns in the secondary coil. If the primary voltage is 220 V, calculate the secondary voltage.",
+    "questionLatex": "$\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 44,
+      "unit": "V",
+      "steps": [
+        "$\\frac{V_s}{V_p} = \\frac{N_s}{N_p}$",
+        "$\\frac{V_s}{220} = \\frac{100}{500}$",
+        "$V_s = 220 \\times \\frac{100}{500}$",
+        "$V_s = 44\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

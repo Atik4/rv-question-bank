@@ -1,0 +1,1187 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sequences",
+    "familyId": "identify_sequence_term",
+    "questionText": "In a sequence, the nth term is also called the:",
+    "questionLatex": "a_n",
+    "options": [
+      "Common term",
+      "General term",
+      "Middle term",
+      "Series term"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The nth term of a sequence is called its general term."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sequences",
+    "familyId": "even_natural_numbers",
+    "questionText": "Find the 15th term of the sequence 2, 4, 6, 8, ...",
+    "questionLatex": "a_n=2n",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "a15 = 2 × 15 = 30."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sequences",
+    "familyId": "odd_natural_numbers",
+    "questionText": "Find the 12th term of the sequence 1, 3, 5, 7, ...",
+    "questionLatex": "a_n=2n-1",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "a12 = 2(12) - 1 = 23."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sequences",
+    "familyId": "first_terms_formula",
+    "questionText": "Write the first three terms of the sequence defined by an = 2n + 5.",
+    "questionLatex": "a_n=2n+5",
+    "options": [],
+    "answer": {
+      "type": "multi_value",
+      "values": [7, 9, 11]
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sequences",
+    "familyId": "find_twentieth_term",
+    "questionText": "Find the 20th term of the sequence an = (n − 1)(2 − n)(n + 3).",
+    "questionLatex": "a_n=(n-1)(2-n)(n+3)",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": -7866
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Series",
+    "familyId": "series_definition",
+    "questionText": "The expression a1 + a2 + a3 + ... is called:",
+    "questionLatex": "a_1+a_2+a_3+\\cdots",
+    "options": [
+      "Sequence",
+      "Progression",
+      "Series",
+      "Function"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of terms of a sequence is called a series."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sigma Notation",
+    "familyId": "sigma_notation",
+    "questionText": "The compact notation used to represent a series is called:",
+    "questionLatex": "\\sum",
+    "options": [
+      "Pi notation",
+      "Delta notation",
+      "Sigma notation",
+      "Alpha notation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Series are represented using sigma notation."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Fibonacci Sequence",
+    "familyId": "fibonacci_next_term",
+    "questionText": "Find the next term of the Fibonacci sequence 1, 1, 2, 3, 5, 8, ...",
+    "questionLatex": "1,1,2,3,5,8,\\ldots",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Each term is the sum of the previous two terms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Recursive Sequences",
+    "familyId": "recursive_terms",
+    "questionText": "If a1 = 1 and an = an−1 + 2 for n ≥ 2, find the first five terms.",
+    "questionLatex": "a_1=1,\\ a_n=a_{n-1}+2",
+    "options": [],
+    "answer": {
+      "type": "multi_value",
+      "values": [1, 3, 5, 7, 9]
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Finite and Infinite Sequences",
+    "familyId": "finite_sequence_identification",
+    "questionText": "A sequence containing a fixed number of terms is called:",
+    "questionLatex": "\\text{Finite Sequence}",
+    "options": [
+      "Infinite sequence",
+      "Finite sequence",
+      "Recursive sequence",
+      "Periodic sequence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A sequence with a fixed number of terms is finite."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Progression",
+    "familyId": "identify_common_ratio",
+    "questionText": "Find the common ratio of the G.P. $2, 4, 8, 16, \\dots$",
+    "questionLatex": "$2,4,8,16,\\dots$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$4$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The common ratio $r$ is found by dividing any term by its preceding term: $r = \\frac{4}{2} = 2$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Progression",
+    "familyId": "identify_gp",
+    "questionText": "A sequence in which the ratio of any term to its preceding term is constant is called a/an:",
+    "questionLatex": "$\\frac{a_{n+1}}{a_n}=r$",
+    "options": [
+      "Arithmetic Progression",
+      "Geometric Progression",
+      "Harmonic Progression",
+      "Fibonacci Sequence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A sequence is called a Geometric Progression (G.P.) if the ratio of any term to its preceding term is a constant value $r$, known as the common ratio."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "General Term of G.P.",
+    "familyId": "nth_term_gp",
+    "questionText": "Find the $10$-th term of the G.P. $5, 25, 125, \\dots$",
+    "questionLatex": "$a=5,\\ r=5$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1953125
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "General Term of G.P.",
+    "familyId": "general_term_formula_gp",
+    "questionText": "The $n$-th term of a G.P. with first term $a$ and common ratio $r$ is given by:",
+    "questionLatex": "$a_n = ar^{n-1}$",
+    "options": [
+      "$a+(n-1)r$",
+      "$ar^n$",
+      "$ar^{n-1}$",
+      "$a+r^n$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "By definition, the general or $n$-th term of a geometric progression is expressed as $a_n = ar^{n-1}$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "General Term of G.P.",
+    "familyId": "find_nth_term_gp",
+    "questionText": "Find the $n$-th term of the G.P. $3, 6, 12, 24, \\dots$",
+    "questionLatex": "$a=3,\\ r=2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$3(2)^{n-1}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Finding Specific Terms",
+    "familyId": "which_term_gp",
+    "questionText": "Which term of the G.P. $2, 8, 32, \\dots$ is $131072$?",
+    "questionLatex": "$2 \\cdot 4^{n-1} = 131072$",
+    "options": [
+      "7th",
+      "8th",
+      "9th",
+      "10th"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Here, $a = 2$ and $r = 4$. Using $a_n = ar^{n-1}$, we get $131072 = 2 \\cdot 4^{n-1} \\implies 65536 = 4^{n-1}$. Since $65536 = 4^8$, comparing powers gives $n-1 = 8 \\implies n = 9$. Thus, it is the 9th term."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Finding Terms of G.P.",
+    "familyId": "third_and_sixth_term",
+    "questionText": "In a G.P., the $3$-rd term is $24$ and the $6$-th term is $192$. Find the common ratio.",
+    "questionLatex": "$ar^2=24,\\ ar^5=192$",
+    "options": [
+      "$2$",
+      "$3$",
+      "$4$",
+      "$6$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "We are given $T_3 = ar^2 = 24$ and $T_6 = ar^5 = 192$. Dividing the equations yields $\\frac{ar^5}{ar^2} = \\frac{192}{24} \\implies r^3 = 8$. Taking the cube root, we get $r = 2$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Finding Terms of G.P.",
+    "familyId": "tenth_term_gp",
+    "questionText": "In a G.P., the $3$-rd term is $24$ and the $6$-th term is $192$. Find the $10$-th term.",
+    "questionLatex": "$ar^2=24,\\ ar^5=192$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3072
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Series",
+    "familyId": "sum_first_terms_gp",
+    "questionText": "Find the sum of the first $5$ terms of the geometric series $1 + \\frac{2}{3} + \\frac{4}{9} + \\dots$",
+    "questionLatex": "$a=1,\\ r=\\frac{2}{3}$",
+    "options": [
+      "$\\frac{211}{81}$",
+      "$\\frac{243}{81}$",
+      "$\\frac{121}{81}$",
+      "$\\frac{200}{81}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Here, $a = 1$ and $r = \\frac{2}{3}$ (since $r < 1$). Using $S_n = \\frac{a(1-r^n)}{1-r}$, we get $S_5 = \\frac{1 \\cdot \\left[1 - \\left(\\frac{2}{3}\\right)^5\\right]}{1 - \\frac{2}{3}} = \\frac{1 - \\frac{32}{243}}{\\frac{1}{3}} = 3 \\times \\frac{211}{243} = \\frac{211}{81}$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Series",
+    "familyId": "sum_formula_gp",
+    "questionText": "The sum of the first $n$ terms of a G.P. with common ratio $r \\neq 1$ is:",
+    "questionLatex": "$S_n = \\frac{a(1-r^n)}{1-r}$",
+    "options": [
+      "$\\frac{a(1-r^n)}{1-r}$",
+      "$a+(n-1)r$",
+      "$\\frac{n}{2}[2a+(n-1)r]$",
+      "$ar^{n-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The formula to calculate the summation of the first $n$ terms of a geometric progression is $S_n = \\frac{a(1-r^n)}{1-r}$ or $S_n = \\frac{a(r^n-1)}{r-1}$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "identify_common_difference",
+    "questionText": "Find the common difference of the A.P. $7, 11, 15, 19, \\dots$",
+    "questionLatex": "$7,11,15,19,\\dots$",
+    "options": [
+      "$2$",
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The common difference $d$ is obtained by subtracting any term from its succeeding term: $d = 11 - 7 = 4$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "nth_term_ap",
+    "questionText": "Find the $20$-th term of the A.P. $3, 7, 11, 15, \\dots$",
+    "questionLatex": "$a=3,\\ d=4$",
+    "options": [
+      "$75$",
+      "$77$",
+      "$79$",
+      "$81$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Here, first term $a = 3$ and common difference $d = 4$. Using the formula $a_n = a + (n-1)d$, we get $a_{20} = 3 + (20-1)4 = 3 + 19(4) = 3 + 76 = 79$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "general_term_ap",
+    "questionText": "The $n$-th term of an A.P. with first term $a$ and common difference $d$ is:",
+    "questionLatex": "$a_n = a + (n-1)d$",
+    "options": [
+      "$a+(n-1)d$",
+      "$ad^{n-1}$",
+      "$a+nd$",
+      "$a(n-1)d$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "By definition, the general or $n$-th term of an arithmetic progression is expressed as $a_n = a + (n-1)d$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "find_ap_term",
+    "questionText": "Find the $15$-th term of the A.P. $8, 13, 18, 23, \\dots$",
+    "questionLatex": "$a=8,\\ d=5$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 78
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Mean",
+    "familyId": "insert_arithmetic_mean",
+    "questionText": "Insert $5$ arithmetic means between $2$ and $20$.",
+    "questionLatex": "$2,\\_,\\_,\\_,\\_,\\_,20$",
+    "options": [],
+    "answer": {
+      "type": "multi_value",
+      "values": [
+        "5",
+        "8",
+        "11",
+        "14",
+        "17"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of A.P.",
+    "familyId": "sum_first_20_natural",
+    "questionText": "Find the sum of the first $20$ natural numbers.",
+    "questionLatex": "$1+2+3+\\dots+20$",
+    "options": [
+      "$190$",
+      "$200$",
+      "$210$",
+      "$220$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of first $n$ natural numbers is given by $\\frac{n(n+1)}{2}$. For $n = 20$, $S_{20} = \\frac{20 \\times 21}{2} = 210$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of A.P.",
+    "familyId": "sum_formula_ap",
+    "questionText": "The sum of the first $n$ terms of an A.P. is given by:",
+    "questionLatex": "$S_n = \\frac{n}{2}[2a+(n-1)d]$",
+    "options": [
+      "$\\frac{n}{2}[2a+(n-1)d]$",
+      "$\\frac{a(1-r^n)}{1-r}$",
+      "$a+(n-1)d$",
+      "$ar^{n-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The standard algebraic formula for calculating the summation of the first $n$ terms of an arithmetic progression is $S_n = \\frac{n}{2}[2a+(n-1)d]$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of A.P.",
+    "familyId": "sum_ap_25_terms",
+    "questionText": "Find the sum of the first $25$ terms of the A.P. $4, 7, 10, 13, \\dots$",
+    "questionLatex": "$a=4,\\ d=3,\\ n=25$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1000
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Mean",
+    "familyId": "single_arithmetic_mean",
+    "questionText": "Find the arithmetic mean between $12$ and $24$.",
+    "questionLatex": "$\\frac{12+24}{2}$",
+    "options": [
+      "$16$",
+      "$18$",
+      "$20$",
+      "$22$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The arithmetic mean (A.M.) between two numbers $A$ and $B$ is calculated using the formula $\\frac{A+B}{2}$. Thus, $\\text{A.M.} = \\frac{12+24}{2} = 18$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "which_term_ap",
+    "questionText": "Which term of the A.P. $5, 9, 13, 17, \\dots$ is $101$?",
+    "questionLatex": "$5+(n-1)4=101$",
+    "options": [
+      "24th",
+      "25th",
+      "26th",
+      "27th"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Here, $a = 5$ and $d = 4$. Setting $a_n = 101$, we solve $5 + (n-1)4 = 101 \\implies 4(n-1) = 96 \\implies n-1 = 24 \\implies n = 25$. Therefore, it is the 25th term."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "find_common_difference_from_terms",
+    "questionText": "The $5$-th term of an A.P. is $18$ and the $10$-th term is $38$. Find the common difference.",
+    "questionLatex": "$a+4d=18,\\ a+9d=38$",
+    "options": [
+      "$2$",
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Let $a$ be the first term and $d$ be the common difference. We have $a_5 = a + 4d = 18$ and $a_{10} = a + 9d = 38$. Subtracting the first equation from the second gives $5d = 20$, which simplifies to $d = 4$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "find_first_term_ap",
+    "questionText": "The $5$-th term of an A.P. is $18$ and the $10$-th term is $38$. Find the first term.",
+    "questionLatex": "$a+4d=18,\\ a+9d=38$",
+    "options": [
+      "$0$",
+      "$1$",
+      "$2$",
+      "$3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "From the given terms, we get $a + 4d = 18$ and $a + 9d = 38$. Subtracting them gives $5d = 20 \\implies d = 4$. Substituting $d = 4$ back into the first equation: $a + 4(4) = 18 \\implies a + 16 = 18 \\implies a = 2$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "find_50th_term",
+    "questionText": "Find the $50$-th term of the A.P. $2, 5, 8, 11, \\dots$",
+    "questionLatex": "$a=2,\\ d=3$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 149
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of A.P.",
+    "familyId": "sum_even_numbers",
+    "questionText": "Find the sum of the first $30$ even natural numbers.",
+    "questionLatex": "$2+4+6+\\dots+60$",
+    "options": [
+      "$900$",
+      "$930$",
+      "$960$",
+      "$990$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The first $30$ even natural numbers form an A.P. with $a = 2$, $d = 2$, and $n = 30$. The last term $a_{30} = 2 + 29(2) = 60$. Using the sum formula $S_n = \\frac{n}{2}(a + l)$, we get $S_{30} = \\frac{30}{2}(2 + 60) = 15 \\times 62 = 930$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of A.P.",
+    "familyId": "sum_odd_numbers",
+    "questionText": "Find the sum of the first $25$ odd natural numbers.",
+    "questionLatex": "$1+3+5+\\dots+49$",
+    "options": [
+      "$525$",
+      "$600$",
+      "$625$",
+      "$650$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of the first $n$ odd natural numbers is given by the formula $S_n = n^2$. For $n = 25$, the sum is $25^2 = 625$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Progression",
+    "familyId": "find_gp_term",
+    "questionText": "Find the $8$-th term of the G.P. $3, 6, 12, 24, \\dots$",
+    "questionLatex": "$a=3,\\ r=2$",
+    "options": [
+      "$192$",
+      "$256$",
+      "$384$",
+      "$768$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Here, the first term $a = 3$ and common ratio $r = 2$. Using the general term formula $a_n = ar^{n-1}$, the $8$-th term is $a_8 = 3 \\times 2^{8-1} = 3 \\times 2^7 = 3 \\times 128 = 384$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Progression",
+    "familyId": "find_common_ratio_negative",
+    "questionText": "Find the common ratio of the G.P. $81, -27, 9, -3, \\dots$",
+    "questionLatex": "$81,-27,9,-3,\\dots$",
+    "options": [
+      "$-\\frac{1}{3}$",
+      "$\\frac{1}{3}$",
+      "$-3$",
+      "$3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The common ratio $r$ is calculated by dividing any term by its preceding term: $r = \\frac{-27}{81} = -\\frac{1}{3}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Sum of G.P.",
+    "familyId": "sum_gp_five_terms",
+    "questionText": "Find the sum of the first $5$ terms of the G.P. $2, 6, 18, 54, \\dots$",
+    "questionLatex": "$a=2,\\ r=3,\\ n=5$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 242
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Infinite G.P.",
+    "familyId": "convergence_condition",
+    "questionText": "An infinite geometric series converges to a finite sum if and only if:",
+    "questionLatex": "$|r|<1$",
+    "options": [
+      "$|r|>1$",
+      "$|r|=1$",
+      "$|r|<1$",
+      "$r>1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An infinite geometric series converges to a finite limiting sum if and only if the absolute value of its common ratio is strictly less than $1$, i.e., $|r| < 1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Infinite G.P.",
+    "familyId": "sum_infinite_gp",
+    "questionText": "Find the sum to infinity of the G.P. $1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\dots$",
+    "questionLatex": "$a=1,\\ r=\\frac{1}{2}$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Here, first term $a = 1$ and common ratio $r = \\frac{1}{2}$. Since $|r| < 1$, the sum to infinity is given by $S_{\\infty} = \\frac{a}{1-r} = \\frac{1}{1 - \\frac{1}{2}} = \\frac{1}{\\frac{1}{2}} = 2$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Infinite Geometric Progression",
+    "familyId": "sum_infinite_gp_fraction",
+    "questionText": "Find the sum to infinity of the G.P. $3 + 1 + \\frac{1}{3} + \\frac{1}{9} + \\dots$",
+    "questionLatex": "$a=3,\\ r=\\frac{1}{3}$",
+    "options": [
+      "$\\frac{7}{2}$",
+      "$\\frac{9}{2}$",
+      "$4$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Here, the first term is $a = 3$ and the common ratio is $r = \\frac{1}{3}$. Since $|r| < 1$, the sum to infinity is given by $S_{\\infty} = \\frac{a}{1-r} = \\frac{3}{1 - \\frac{1}{3}} = \\frac{3}{\\frac{2}{3}} = \\frac{9}{2}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Infinite Geometric Progression",
+    "familyId": "sum_infinite_gp_decimal",
+    "questionText": "Find the sum to infinity of the G.P. $8 + 4 + 2 + 1 + \\dots$",
+    "questionLatex": "$a=8,\\ r=\\frac{1}{2}$",
+    "options": [
+      "$12$",
+      "$14$",
+      "$16$",
+      "$18$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Here, the first term is $a = 8$ and the common ratio is $r = \\frac{4}{8} = \\frac{1}{2}$. Since $|r| < 1$, the sum to infinity is calculated using $S_{\\infty} = \\frac{a}{1-r} = \\frac{8}{1 - \\frac{1}{2}} = \\frac{8}{\\frac{1}{2}} = 16$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Mean",
+    "familyId": "single_geometric_mean",
+    "questionText": "Find the geometric mean between $4$ and $16$.",
+    "questionLatex": "$\\sqrt{4 \\times 16}$",
+    "options": [
+      "$6$",
+      "$8$",
+      "$10$",
+      "$12$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The geometric mean (G.M.) between two positive numbers $A$ and $B$ is defined as $\\sqrt{AB}$. Therefore, $\\text{G.M.} = \\sqrt{4 \\times 16} = \\sqrt{64} = 8$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Mean",
+    "familyId": "insert_geometric_means",
+    "questionText": "Insert two geometric means between $3$ and $81$.",
+    "questionLatex": "$3,\\_,\\_,81$",
+    "options": [],
+    "answer": {
+      "type": "multi_value",
+      "values": [
+        "9",
+        "27"
+      ]
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Geometric Mean",
+    "familyId": "insert_three_geometric_means",
+    "questionText": "Insert three geometric means between $2$ and $162$.",
+    "questionLatex": "$2,\\_,\\_,\\_,162$",
+    "options": [],
+    "answer": {
+      "type": "multi_value",
+      "values": [
+        "6",
+        "18",
+        "54"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "sum_first_n_natural_numbers",
+    "questionText": "Find the sum of the first $50$ natural numbers.",
+    "questionLatex": "$1+2+3+\\dots+50$",
+    "options": [
+      "$1225$",
+      "$1250$",
+      "$1275$",
+      "$1300$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of the first $n$ natural numbers is given by the formula $S_n = \\frac{n(n+1)}{2}$. For $n = 50$, $S_{50} = \\frac{50 \\times 51}{2} = 25 \\times 51 = 1275$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "sum_first_n_even_numbers",
+    "questionText": "Find the sum of the first $40$ even natural numbers.",
+    "questionLatex": "$2+4+6+\\dots+80$",
+    "options": [
+      "$1560$",
+      "$1600$",
+      "$1640$",
+      "$1680$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of the first $n$ even natural numbers is given by the formula $S_n = n(n+1)$. For $n = 40$, the sum is $40 \\times 41 = 1640$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "familyId": "sum_first_n_odd_numbers",
+    "questionText": "Find the sum of the first $40$ odd natural numbers.",
+    "questionLatex": "$1+3+5+\\dots+79$",
+    "options": [
+      "$1521$",
+      "$1600$",
+      "$1681$",
+      "$1764$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sum of the first $n$ odd natural numbers is calculated using the formula $S_n = n^2$. For $n = 40$, the sum is $40^2 = 1600$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Special Series",
+    "familyId": "sum_of_squares_formula",
+    "questionText": "The sum of the squares of the first $n$ natural numbers is given by the identity:",
+    "questionLatex": "$1^2+2^2+3^2+\\dots+n^2 = \\frac{n(n+1)(2n+1)}{6}$",
+    "options": [
+      "$\\frac{n(n+1)}{2}$",
+      "$\\frac{n(n+1)(2n+1)}{6}$",
+      "$\\left[\\frac{n(n+1)}{2}\\right]^2$",
+      "$\\frac{n(n+1)(n+2)}{6}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The identity for the sum of squares of the first $n$ consecutive natural numbers is $\\sum_{k=1}^n k^2 = \\frac{n(n+1)(2n+1)}{6}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sequences and Series",
+    "topic": "Special Series",
+    "familyId": "sum_cubes_formula",
+    "questionText": "The sum of the cubes of the first $n$ natural numbers is given by the identity:",
+    "questionLatex": "$1^3+2^3+3^3+\\dots+n^3 = \\left[\\frac{n(n+1)}{2}\\right]^2$",
+    "options": [
+      "$\\frac{n(n+1)(2n+1)}{6}$",
+      "$\\frac{n(n+1)}{2}$",
+      "$\\left[\\frac{n(n+1)}{2}\\right]^2$",
+      "$\\frac{n(n+1)(n+2)}{6}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The identity for the sum of cubes of the first $n$ consecutive natural numbers is $\\sum_{k=1}^n k^3 = \\left[\\frac{n(n+1)}{2}\\right]^2$, which corresponds to the square of the sum of the first $n$ natural numbers."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
