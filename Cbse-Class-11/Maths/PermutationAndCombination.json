@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Fundamental Principle of Counting",
+    "familyId": "counting_principle_basic",
+    "questionText": "A student has $3$ shirts and $4$ trousers. In how many ways can the student select one shirt and one trouser?",
+    "questionLatex": "$3\\times4$",
+    "options": [
+      "$7$",
+      "$12$",
+      "$24$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By the multiplication principle, the number of ways is $3 \\times 4 = 12$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Fundamental Principle of Counting",
+    "familyId": "three_digit_repetition_allowed",
+    "questionText": "How many $3$-digit numbers can be formed from the digits $1, 2, 3, 4$ and $5$ if repetition is allowed?",
+    "questionLatex": "$5^3$",
+    "options": [
+      "$60$",
+      "$125$",
+      "$120$",
+      "$25$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each position can be filled in $5$ ways. Hence $5^3 = 125$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Fundamental Principle of Counting",
+    "familyId": "three_digit_no_repetition",
+    "questionText": "How many $3$-digit numbers can be formed from the digits $1, 2, 3, 4$ and $5$ if repetition is not allowed?",
+    "questionLatex": "$5\\times4\\times3$",
+    "options": [
+      "$60$",
+      "$120$",
+      "$125$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The required number is $5 \\times 4 \\times 3 = 60$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Fundamental Principle of Counting",
+    "familyId": "even_numbers_repetition",
+    "questionText": "How many $2$-digit even numbers can be formed from the digits $1, 2, 3, 4$ and $5$ if repetition is allowed?",
+    "questionLatex": "$2\\times5$",
+    "options": [
+      "$8$",
+      "$10$",
+      "$12$",
+      "$15$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Unit digit can be $2$ or $4$. Tens digit can be any of the $5$ digits. Hence $2 \\times 5 = 10$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Factorial Notation",
+    "familyId": "evaluate_factorial_5",
+    "questionText": "Evaluate $5!$.",
+    "questionLatex": "$5!$",
+    "options": [
+      "$24$",
+      "$60$",
+      "$120$",
+      "$720$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$5! = 1 \\times 2 \\times 3 \\times 4 \\times 5 = 120$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Factorial Notation",
+    "familyId": "evaluate_factorial_7",
+    "questionText": "Evaluate $7!$.",
+    "questionLatex": "$7!$",
+    "options": [
+      "$720$",
+      "$5040$",
+      "$40320$",
+      "$840$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$7! = 5040$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Factorial Notation",
+    "familyId": "factorial_division",
+    "questionText": "Evaluate $\\frac{7!}{5!}$.",
+    "questionLatex": "$\\frac{7!}{5!}$",
+    "options": [
+      "$35$",
+      "$42$",
+      "$49$",
+      "$56$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$\\frac{7!}{5!} = 7 \\times 6 = 42$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Factorial Notation",
+    "familyId": "zero_factorial",
+    "questionText": "Find the value of $0!$.",
+    "questionLatex": "$0!$",
+    "options": [
+      "$0$",
+      "$1$",
+      "$-1$",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, $0! = 1$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "permutation_definition",
+    "questionText": "A permutation is an arrangement of objects in:",
+    "questionLatex": "$\\text{Permutation}$",
+    "options": [
+      "Any order",
+      "Definite order",
+      "Random order",
+      "No order"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In a permutation, order is important."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "npr_formula",
+    "questionText": "The value of ${}^nP_r$ is:",
+    "questionLatex": "${}^nP_r$",
+    "options": [
+      "$\\frac{n!}{r!}$",
+      "$\\frac{n!}{(n-r)!}$",
+      "$\\frac{(n-r)!}{n!}$",
+      "$\\frac{n!}{r!(n-r)!}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nP_r = \\frac{n!}{(n-r)!}$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "evaluate_6p2",
+    "questionText": "Evaluate ${}^6P_2$.",
+    "questionLatex": "${}^6P_2$",
+    "options": [
+      "$12$",
+      "$24$",
+      "$30$",
+      "$36$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "${}^6P_2 = \\frac{6!}{4!} = 6 \\times 5 = 30$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "evaluate_7p3",
+    "questionText": "Find the value of ${}^7P_3$.",
+    "questionLatex": "${}^7P_3$",
+    "options": [
+      "$210$",
+      "$105$",
+      "$42$",
+      "$35$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^7P_3 = 7 \\times 6 \\times 5 = 210$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "evaluate_9p4",
+    "questionText": "Find the value of ${}^9P_4$.",
+    "questionLatex": "${}^9P_4$",
+    "options": [
+      "$1512$",
+      "$3024$",
+      "$504$",
+      "$126$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^9P_4 = 9 \\times 8 \\times 7 \\times 6 = 3024$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations with Repetition",
+    "familyId": "permutation_repetition_allowed",
+    "questionText": "How many $3$-letter words can be formed from $6$ distinct letters if repetition is allowed?",
+    "questionLatex": "$6^3$",
+    "options": [
+      "$120$",
+      "$180$",
+      "$216$",
+      "$240$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "When repetition is allowed, the number of arrangements is $6^3 = 216$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "word_number",
+    "questionText": "How many $3$-letter words can be formed from the letters of the word NUMBER without repetition?",
+    "questionLatex": "${}^6P_3$",
+    "options": [
+      "$120$",
+      "$216$",
+      "$720$",
+      "$60$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The word NUMBER has $6$ distinct letters. Required count = ${}^6P_3 = 120$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "chairman_vicechairman",
+    "questionText": "In how many ways can a Chairman and a Vice-Chairman be selected from $12$ persons if one person cannot hold both positions?",
+    "questionLatex": "${}^{12}P_2$",
+    "options": [
+      "$66$",
+      "$120$",
+      "$132$",
+      "$144$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Required number = ${}^{12}P_2 = 12 \\times 11 = 132$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "evaluate_np0",
+    "questionText": "Find the value of ${}^nP_0$.",
+    "questionLatex": "${}^nP_0$",
+    "options": [
+      "$0$",
+      "$n$",
+      "$n!$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "${}^nP_0 = 1$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "evaluate_8p8",
+    "questionText": "Evaluate ${}^8P_8$.",
+    "questionLatex": "${}^8P_8$",
+    "options": [
+      "$40320$",
+      "$5040$",
+      "$720$",
+      "$64$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^nP_n = n!$, therefore ${}^8P_8 = 8! = 40320$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations with Repetition",
+    "familyId": "n_power_r_formula",
+    "questionText": "The number of permutations of $n$ different objects taken $r$ at a time when repetition is allowed is:",
+    "questionLatex": "$n^r$",
+    "options": [
+      "${}^nP_r$",
+      "$n^r$",
+      "${}^nC_r$",
+      "$r^n$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "When repetition is allowed, the number of arrangements is $n^r$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations",
+    "familyId": "four_digit_numbers",
+    "questionText": "How many $4$-digit numbers can be formed using the digits $1$ to $9$ if repetition is not allowed?",
+    "questionLatex": "${}^9P_4$",
+    "options": [
+      "$1512$",
+      "$3024$",
+      "$6561$",
+      "$5040$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Required number = ${}^9P_4 = 9 \\times 8 \\times 7 \\times 6 = 3024$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations of Distinct Objects",
+    "familyId": "arrange_five_letters",
+    "questionText": "In how many ways can $5$ distinct letters be arranged?",
+    "questionLatex": "$5!$",
+    "options": [
+      "$24$",
+      "$60$",
+      "$120$",
+      "$720$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The number of arrangements of $5$ distinct objects is $5! = 120$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations of Distinct Objects",
+    "familyId": "arrange_seven_books",
+    "questionText": "In how many ways can $7$ different books be arranged on a shelf?",
+    "questionLatex": "$7!$",
+    "options": [
+      "$720$",
+      "$5040$",
+      "$40320$",
+      "$840$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The number of arrangements is $7! = 5040$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Permutations of Distinct Objects",
+    "familyId": "arrange_word_math",
+    "questionText": "How many arrangements can be made using all the letters of the word MATH?",
+    "questionLatex": "$4!$",
+    "options": [
+      "$12$",
+      "$24$",
+      "$36$",
+      "$48$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "All four letters are distinct. Hence arrangements = $4! = 24$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Circular Permutations",
+    "familyId": "circular_arrangement_five",
+    "questionText": "In how many ways can $5$ persons be seated around a circular table?",
+    "questionLatex": "$(5-1)!$",
+    "options": [
+      "$24$",
+      "$120$",
+      "$60$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Number of circular permutations of $n$ distinct objects is $(n-1)!$. For $5$ persons, it is $(5-1)! = 4! = 24$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Circular Permutations",
+    "familyId": "circular_arrangement_six",
+    "questionText": "In how many ways can $6$ persons be seated around a circular table?",
+    "questionLatex": "$(6-1)!$",
+    "options": [
+      "$120$",
+      "$720$",
+      "$60$",
+      "$24$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Required number = $(6-1)! = 5! = 120$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "combination_definition",
+    "questionText": "A combination is a selection of objects in which:",
+    "questionLatex": "\\text{Combination}",
+    "options": [
+      "Order is important",
+      "Order is not important",
+      "Objects must be repeated",
+      "Objects are arranged"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In combinations, order of selection is not important."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "ncr_formula",
+    "questionText": "The value of ${}^nC_r$ is:",
+    "questionLatex": "${}^nC_r$",
+    "options": [
+      "$\\frac{n!}{(n-r)!}$",
+      "$\\frac{n!}{r!}$",
+      "$\\frac{n!}{r!(n-r)!}$",
+      "$\\frac{r!}{n!(n-r)!}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "${}^nC_r = \\frac{n!}{r!(n-r)!}$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "evaluate_5c2",
+    "questionText": "Evaluate ${}^5C_2$.",
+    "questionLatex": "${}^5C_2$",
+    "options": [
+      "$5$",
+      "$10$",
+      "$20$",
+      "$25$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^5C_2 = \\frac{5!}{2!3!} = 10$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "evaluate_6c3",
+    "questionText": "Find the value of ${}^6C_3$.",
+    "questionLatex": "${}^6C_3$",
+    "options": [
+      "$15$",
+      "$20$",
+      "$30$",
+      "$60$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^6C_3 = \\frac{6!}{3!3!} = 20$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "evaluate_8c1",
+    "questionText": "Find the value of ${}^8C_1$.",
+    "questionLatex": "${}^8C_1$",
+    "options": [
+      "$1$",
+      "$8$",
+      "$28$",
+      "$56$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nC_1 = n$. Therefore ${}^8C_1 = 8$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "evaluate_8c2",
+    "questionText": "Evaluate ${}^8C_2$.",
+    "questionLatex": "${}^8C_2$",
+    "options": [
+      "$16$",
+      "$28$",
+      "$56$",
+      "$64$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^8C_2 = \\frac{8!}{2!6!} = 28$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combinations",
+    "familyId": "evaluate_10c3",
+    "questionText": "Find the value of ${}^{10}C_3$.",
+    "questionLatex": "${}^{10}C_3$",
+    "options": [
+      "$120$",
+      "$210$",
+      "$720$",
+      "$45$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^{10}C_3 = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = 120$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Properties of Combinations",
+    "familyId": "ncr_symmetry_property",
+    "questionText": "Using the symmetry property, ${}^9C_2$ is equal to:",
+    "questionLatex": "${}^9C_2$",
+    "options": [
+      "${}^9C_6$",
+      "${}^9C_7$",
+      "${}^9C_8$",
+      "${}^9C_1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nC_r = {}^nC_{n-r}$. Hence ${}^9C_2 = {}^9C_7$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Properties of Combinations",
+    "familyId": "evaluate_ncn",
+    "questionText": "Find the value of ${}^{12}C_{12}$.",
+    "questionLatex": "${}^{12}C_{12}",
+    "options": [
+      "$0$",
+      "$1$",
+      "$12$",
+      "$144$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nC_n = 1$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Properties of Combinations",
+    "familyId": "evaluate_nc0",
+    "questionText": "Find the value of ${}^{15}C_0$.",
+    "questionLatex": "${}^{15}C_0$",
+    "options": [
+      "$0$",
+      "$1$",
+      "$15$",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nC_0 = 1$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Selection Problems",
+    "familyId": "committee_selection",
+    "questionText": "In how many ways can a committee of $3$ members be selected from $8$ persons?",
+    "questionLatex": "${}^8C_3$",
+    "options": [
+      "$56$",
+      "$112$",
+      "$24$",
+      "$336$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Number of selections = ${}^8C_3 = 56$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Selection Problems",
+    "familyId": "team_selection",
+    "questionText": "A team of $4$ players is to be selected from $10$ players. In how many ways can it be done?",
+    "questionLatex": "${}^{10}C_4$",
+    "options": [
+      "$120$",
+      "$210$",
+      "$420$",
+      "$5040$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^{10}C_4 = 210$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Selection Problems",
+    "familyId": "choose_two_books",
+    "questionText": "In how many ways can $2$ books be selected from $7$ different books?",
+    "questionLatex": "${}^7C_2$",
+    "options": [
+      "$14$",
+      "$21$",
+      "$42$",
+      "$49$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^7C_2 = 21$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Relation Between Permutation and Combination",
+    "familyId": "npr_ncr_relation",
+    "questionText": "The relation between ${}^nP_r$ and ${}^nC_r$ is:",
+    "questionLatex": "${}^nP_r$",
+    "options": [
+      "${}^nP_r = \\frac{{}^nC_r}{r!}$",
+      "${}^nP_r = r! \\times {}^nC_r$",
+      "${}^nC_r = {}^nP_r \\times r!$",
+      "${}^nP_r = {}^nC_r$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^nP_r = r! \\times {}^nC_r$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Relation Between Permutation and Combination",
+    "familyId": "find_npr_from_ncr",
+    "questionText": "If ${}^8C_3 = 56$, find ${}^8P_3$.",
+    "questionLatex": "${}^8C_3=56",
+    "options": [
+      "$168$",
+      "$336$",
+      "$56$",
+      "$112$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^8P_3 = 3! \\times {}^8C_3 = 6 \\times 56 = 336$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Selection Problems",
+    "familyId": "select_students_group",
+    "questionText": "In how many ways can $5$ students be selected from a class of $12$ students?",
+    "questionLatex": "${}^{12}C_5$",
+    "options": [
+      "$792$",
+      "$462$",
+      "$950$",
+      "$660$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^{12}C_5 = 792$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Selection Problems",
+    "familyId": "committee_four_from_nine",
+    "questionText": "Find the number of committees of $4$ members that can be formed from $9$ persons.",
+    "questionLatex": "${}^9C_4$",
+    "options": [
+      "$84$",
+      "$126$",
+      "$72$",
+      "$3024$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^9C_4 = 126$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combination Properties",
+    "familyId": "symmetry_property_numeric",
+    "questionText": "Using the property ${}^nC_r = {}^nC_{n-r}$, ${}^{11}C_8$ is equal to:",
+    "questionLatex": "${}^{11}C_8$",
+    "options": [
+      "${}^{11}C_2$",
+      "${}^{11}C_1$",
+      "${}^{11}C_3$",
+      "${}^{11}C_4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "${}^{11}C_8 = {}^{11}C_{11-8} = {}^{11}C_3$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combination Properties",
+    "familyId": "evaluate_11c10",
+    "questionText": "Find the value of ${}^{11}C_{10}$.",
+    "questionLatex": "${}^{11}C_{10}",
+    "options": [
+      "$55$",
+      "$10$",
+      "$11$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "${}^{11}C_{10} = {}^{11}C_1 = 11$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Combination Properties",
+    "familyId": "evaluate_12c11",
+    "questionText": "Find the value of ${}^{12}C_{11}$.",
+    "questionLatex": "${}^{12}C_{11}",
+    "options": [
+      "$12$",
+      "$11$",
+      "$66$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^{12}C_{11} = {}^{12}C_1 = 12$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Relation Between Permutation and Combination",
+    "familyId": "find_ncr_from_npr",
+    "questionText": "If ${}^7P_3 = 210$, find ${}^7C_3$.",
+    "questionLatex": "${}^7P_3=210$",
+    "options": [
+      "$35$",
+      "$21$",
+      "$70$",
+      "$105$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "${}^7C_3 = \\frac{{}^7P_3}{3!} = \\frac{210}{6} = 35$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Applications of Combinations",
+    "familyId": "handshake_problem",
+    "questionText": "If $8$ persons shake hands with each other exactly once, find the total number of handshakes.",
+    "questionLatex": "${}^8C_2$",
+    "options": [
+      "$28$",
+      "$56$",
+      "$16$",
+      "$64$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Each handshake corresponds to a pair of persons. Hence total handshakes = ${}^8C_2 = 28$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Applications of Combinations",
+    "familyId": "line_segment_points",
+    "questionText": "How many line segments are determined by joining $10$ distinct points, no three of which are collinear?",
+    "questionLatex": "${}^{10}C_2$",
+    "options": [
+      "$45$",
+      "$90$",
+      "$120$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Each line segment is determined by selecting $2$ points from $10$. Hence ${}^{10}C_2 = 45$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Applications of Combinations",
+    "familyId": "triangle_from_points",
+    "questionText": "How many triangles can be formed using $8$ points in a plane, no three of which are collinear?",
+    "questionLatex": "${}^8C_3$",
+    "options": [
+      "$56$",
+      "$28$",
+      "$112$",
+      "$336$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A triangle is formed by selecting any $3$ points. Hence ${}^8C_3 = 56$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Permutation and Combination",
+    "topic": "Applications of Combinations",
+    "familyId": "diagonal_polygon",
+    "questionText": "Find the number of diagonals in a hexagon.",
+    "questionLatex": "\\frac{n(n-3)}{2},\\;n=6",
+    "options": [
+      "$6$",
+      "$9$",
+      "$12$",
+      "$15$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Number of diagonals in an $n$-sided polygon is $\\frac{n(n-3)}{2}$. For $n = 6$, diagonals = $\\frac{6 \\times 3}{2} = 9$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]
