@@ -1,0 +1,1126 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Introduction to Binomial Expansion",
+    "familyId": "identify_terms_binomial",
+    "questionText": "How many terms are present in the expansion of $(a + b)^5$?",
+    "questionLatex": "$(a+b)^5$",
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$",
+      "$10$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The number of terms in the expansion of $(a+b)^n$ is $n+1$. For $n=5$, the number of terms is $5+1=6$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Pascal Triangle",
+    "familyId": "pascal_row_four",
+    "questionText": "Which of the following represents the coefficients in the expansion of $(a+b)^4$?",
+    "questionLatex": "$(a+b)^4$",
+    "options": [
+      "$1, 4, 6, 4, 1$",
+      "$1, 3, 3, 1$",
+      "$1, 5, 10, 10, 5, 1$",
+      "$1, 2, 1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The coefficients are obtained from Pascal's Triangle for $n=4$, which are $1, 4, 6, 4, 1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "evaluate_5c2",
+    "questionText": "Find the value of ${}^5C_2$.",
+    "questionLatex": "${}^5C_2$",
+    "options": [
+      "$5$",
+      "$10$",
+      "$15$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^5C_2 = \\frac{5!}{2!3!} = 10$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Expansion",
+    "familyId": "expand_square",
+    "questionText": "Expand $(a+b)^2$.",
+    "questionLatex": "$(a+b)^2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$a^2+2ab+b^2$"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Expansion",
+    "familyId": "expand_cube",
+    "questionText": "Expand $(a+b)^3$.",
+    "questionLatex": "$(a+b)^3$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$a^3+3a^2b+3ab^2+b^3$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "evaluate_6c3",
+    "questionText": "Find the value of ${}^6C_3$.",
+    "questionLatex": "${}^6C_3$",
+    "options": [
+      "$15$",
+      "$20$",
+      "$30$",
+      "$60$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^6C_3 = \\frac{6!}{3!3!} = 20$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "middle_term_count",
+    "questionText": "The expansion of $(a+b)^8$ contains how many terms?",
+    "questionLatex": "$(a+b)^8$",
+    "options": [
+      "$8$",
+      "$9$",
+      "$10$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The expansion of $(a+b)^n$ contains $n+1$ terms. For $n=8$, it contains $8+1=9$ terms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Pascal Triangle",
+    "familyId": "pascal_row_five",
+    "questionText": "Write the coefficients of the expansion of $(a+b)^5$.",
+    "questionLatex": "$(a+b)^5$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "$1, 5, 10, 10, 5, 1$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Expansion",
+    "familyId": "power_sum_property",
+    "questionText": "In the expansion of $(a+b)^n$, the sum of the powers of $a$ and $b$ in each term is equal to:",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "$n-1$",
+      "$n$",
+      "$n+1$",
+      "$2n$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sum of the exponents of $a$ and $b$ in every term of the expansion of $(a+b)^n$ is always equal to $n$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Expansion",
+    "familyId": "expand_x_plus_1_cube",
+    "questionText": "Expand $(x+1)^3$.",
+    "questionLatex": "$(x+1)^3$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$x^3+3x^2+3x+1$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "evaluate_7c3",
+    "questionText": "Find the value of ${}^7C_3$.",
+    "questionLatex": "${}^7C_3$",
+    "options": [
+      "$21$",
+      "$35$",
+      "$42$",
+      "$49$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^7C_3 = \\frac{7!}{3!4!} = 35$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Expansion",
+    "familyId": "expand_x_plus_2_power4",
+    "questionText": "Expand $(x+2)^4$.",
+    "questionLatex": "$(x+2)^4$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$x^4+8x^3+24x^2+32x+16$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "identify_third_term",
+    "questionText": "Which binomial coefficient appears in the third term of the expansion of $(a+b)^n$?",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "${}^nC_0$",
+      "${}^nC_1$",
+      "${}^nC_2$",
+      "${}^nC_3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The general term is given by $T_{r+1} = {}^nC_r a^{n-r}b^r$. For the third term ($r=2$), $T_3 = {}^nC_2 a^{n-2}b^2$. Therefore, the coefficient is ${}^nC_2$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Pascal Triangle",
+    "familyId": "pascal_row_six",
+    "questionText": "The coefficients in the expansion of $(a+b)^6$ are:",
+    "questionLatex": "$(a+b)^6$",
+    "options": [
+      "$1, 5, 10, 10, 5, 1$",
+      "$1, 6, 15, 20, 15, 6, 1$",
+      "$1, 4, 6, 4, 1$",
+      "$1, 7, 21, 35, 35, 21, 7, 1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The coefficients correspond to the 6th row of Pascal's triangle, which are ${}^6C_0, {}^6C_1, {}^6C_2, {}^6C_3, {}^6C_4, {}^6C_5, {}^6C_6$, evaluating to $1, 6, 15, 20, 15, 6, 1$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Special Case (1+x)^n",
+    "familyId": "expand_one_plus_x4",
+    "questionText": "Expand $(1+x)^4$.",
+    "questionLatex": "$(1+x)^4$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "1+4x+6x^2+4x^3+x^4"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "evaluate_8c4",
+    "questionText": "Find the value of ${}^8C_4$.",
+    "questionLatex": "${}^8C_4$",
+    "options": [
+      "$56$",
+      "$70$",
+      "$84$",
+      "$112$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "${}^8C_4 = \\frac{8!}{4!4!} = 70$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Expansion",
+    "familyId": "last_term_property",
+    "questionText": "What is the last term in the expansion of $(a+b)^n$?",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "${}^nC_{n-1} ab^{n-1}$",
+      "${}^nC_n b^n$",
+      "${}^nC_0 a^n$",
+      "${}^nC_1 a^{n-1}b$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The last term ($(n+1)$-th term) in the expansion of $(a+b)^n$ is $T_{n+1} = {}^nC_n a^{n-n}b^n = {}^nC_n b^n$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Expansion of (x-y)^n",
+    "familyId": "expand_x_minus_y3",
+    "questionText": "Expand $(x-y)^3$.",
+    "questionLatex": "$(x-y)^3$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$x^3-3x^2y+3xy^2-y^3$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_number_terms",
+    "questionText": "How many terms are present in the expansion of $(x+y)^{10}$?",
+    "questionLatex": "$(x+y)^{10}$",
+    "options": [
+      "$10$",
+      "$11$",
+      "$12$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The number of terms in the expansion of $(x+y)^n$ is $n+1$. For $n=10$, it contains $10+1 = 11$ terms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Expansion Applications",
+    "familyId": "evaluate_102_cube",
+    "questionText": "Using Binomial Theorem, evaluate $(102)^3$.",
+    "questionLatex": "$(102)^3=(100+2)^3$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1061208
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "general_term_formula",
+    "questionText": "The general term $T_{r+1}$ in the expansion of $(a+b)^n$ is given by:",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "${}^nC_r a^{n-r}b^r$",
+      "${}^nC_r a^rb^{n-r}$",
+      "${}^nC_{r-1}a^{n-r+1}b^{r-1}$",
+      "${}^nC_r(a+b)^r$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "By definition, the general term representing the $(r+1)$-th term in the binomial expansion of $(a+b)^n$ is $T_{r+1} = {}^nC_r a^{n-r}b^r$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_fourth_term",
+    "questionText": "Find the fourth term in the expansion of $(x+y)^8$.",
+    "questionLatex": "$(x+y)^8$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$56x^5y^3$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_fifth_term",
+    "questionText": "Find the fifth term in the expansion of $(a+b)^6$.",
+    "questionLatex": "$(a+b)^6$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$15a^2b^4$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Term",
+    "familyId": "middle_term_even_power",
+    "questionText": "How many middle terms are present in the expansion of $(x+y)^8$?",
+    "questionLatex": "$(x+y)^8$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The total number of terms in the expansion of $(x+y)^8$ is $n+1 = 8+1 = 9$. Since the number of terms is odd, there is exactly $1$ middle term, which is the $(\\frac{8}{2}+1)$-th term, i.e., the $5$-th term."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Term",
+    "familyId": "middle_term_odd_power",
+    "questionText": "How many middle terms are present in the expansion of $(x+y)^9$?",
+    "questionLatex": "$(x+y)^9$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The total number of terms in the expansion of $(x+y)^9$ is $n+1 = 9+1 = 10$. Since the number of terms is even, there are exactly $2$ middle terms, which are the $(\\frac{9+1}{2})$-th and $(\\frac{9+1}{2}+1)$-th terms, i.e., the $5$-th and $6$-th terms."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Term",
+    "familyId": "find_middle_term",
+    "questionText": "Find the middle term in the expansion of $(a+b)^8$.",
+    "questionLatex": "$(a+b)^8$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$70a^4b^4$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "greatest_binomial_coefficient",
+    "questionText": "Which binomial coefficient is greatest in the expansion of $(a+b)^8$?",
+    "questionLatex": "$(a+b)^8$",
+    "options": [
+      "${}^8C_2$",
+      "${}^8C_3$",
+      "${}^8C_4$",
+      "${}^8C_5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For an even index $n$, the greatest binomial coefficient is the central one, given by ${}^nC_{n/2}$. Here $n=8$, so the greatest coefficient is ${}^8C_4 = 70$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Expansion of (x-y)^n",
+    "familyId": "expand_x_minus_2_power4",
+    "questionText": "Expand $(x-2)^4$.",
+    "questionLatex": "$(x-2)^4$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$x^4-8x^3+24x^2-32x+16$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_98_square",
+    "questionText": "Using Binomial Theorem, evaluate $(98)^2$.",
+    "questionLatex": "$(98)^2=(100-2)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 9604
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_101_square",
+    "questionText": "Using Binomial Theorem, evaluate $(101)^2$.",
+    "questionLatex": "$(101)^2=(100+1)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 10201
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_seventh_term",
+    "questionText": "Find the seventh term in the expansion of $(x+y)^{10}$.",
+    "questionLatex": "$(x+y)^{10}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$210x^4y^6$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_coefficient_x3",
+    "questionText": "Find the coefficient of $x^3$ in the expansion of $(1+x)^6$.",
+    "questionLatex": "(1+x)^6",
+    "options": [
+      "$15$",
+      "$20$",
+      "$30$",
+      "$60$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general term in the expansion of $(1+x)^6$ is $T_{r+1} = {}^6C_r x^r$. To find the coefficient of $x^3$, set $r=3$. The coefficient is ${}^6C_3 = \\frac{6 \\times 5 \\times 4}{3 \\times 2 \\times 1} = 20$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "find_coefficient_x4",
+    "questionText": "Find the coefficient of $x^4$ in the expansion of $(1+x)^8$.",
+    "questionLatex": "(1+x)^8",
+    "options": [
+      "$56$",
+      "$70$",
+      "$28$",
+      "$35$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general term in the expansion of $(1+x)^8$ is $T_{r+1} = {}^8C_r x^r$. For the coefficient of $x^4$, set $r=4$. The coefficient is ${}^8C_4 = \\frac{8 \\times 7 \\times 6 \\times 5}{4 \\times 3 \\times 2 \\times 1} = 70$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Independent Term",
+    "familyId": "constant_term_simple",
+    "questionText": "Find the constant term in the expansion of $\\left(x + \\frac{1}{x}\\right)^2$.",
+    "questionLatex": "\\left(x+\\frac{1}{x}\\right)^2",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Expanding using the identity $(a+b)^2 = a^2 + 2ab + b^2$ gives $x^2 + 2(x)\\left(\\frac{1}{x}\\right) + \\frac{1}{x^2} = x^2 + 2 + \\frac{1}{x^2}$. The term independent of $x$ (constant term) is $2$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Independent Term",
+    "familyId": "constant_term_power4",
+    "questionText": "Find the constant term in the expansion of $\\left(x + \\frac{1}{x}\\right)^4$.",
+    "questionLatex": "\\left(x+\\frac{1}{x}\\right)^4",
+    "options": [
+      "$4$",
+      "$6$",
+      "$8$",
+      "$10$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general term is $T_{r+1} = {}^4C_r (x)^{4-r} \\left(\\frac{1}{x}\\right)^r = {}^4C_r x^{4-2r}$. For the constant term, set $4-2r = 0 \\implies r=2$. Thus, the constant term is ${}^4C_2 = 6$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Term",
+    "familyId": "middle_terms_power7",
+    "questionText": "Identify the middle terms in the expansion of $(a+b)^7$.",
+    "questionLatex": "$(a+b)^7$",
+    "options": [
+      "4th and 5th terms",
+      "3rd and 4th terms",
+      "5th and 6th terms",
+      "Only 4th term"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The number of terms in the expansion is $n+1 = 7+1 = 8$. Since $n$ is odd, there are two middle terms given by the $\\left(\\frac{7+1}{2}\\right)$-th and $\\left(\\frac{7+1}{2} + 1\\right)$-th terms, which correspond to the 4th and 5th terms."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Binomial Coefficients",
+    "familyId": "sum_binomial_coefficients",
+    "questionText": "The sum of all binomial coefficients in the expansion of $(a+b)^n$ is:",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "$n$",
+      "$n+1$",
+      "$2^n$",
+      "$n^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The expansion is $(1+x)^n = {}^nC_0 + {}^nC_1 x + {}^nC_2 x^2 + \\dots + {}^nC_n x^n$. Substituting $x = 1$ yields ${}^nC_0 + {}^nC_1 + {}^nC_2 + \\dots + {}^nC_n = (1+1)^n = 2^n$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Binomial Coefficients",
+    "familyId": "alternating_sum_coefficients",
+    "questionText": "The alternating sum of the binomial coefficients in the expansion of $(a+b)^n$ is:",
+    "questionLatex": "$(a+b)^n$",
+    "options": [
+      "$0$",
+      "$1$",
+      "$2^n$",
+      "$n$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The expansion is $(1+x)^n = {}^nC_0 + {}^nC_1 x + {}^nC_2 x^2 + \\dots + {}^nC_n x^n$. Substituting $x = -1$ yields ${}^nC_0 - {}^nC_1 + {}^nC_2 - \\dots + (-1)^n {}^nC_n = (1-1)^n = 0$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_99_square",
+    "questionText": "Using Binomial Theorem, evaluate $(99)^2$.",
+    "questionLatex": "$(99)^2=(100-1)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 9801
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_1001_square",
+    "questionText": "Using Binomial Theorem, evaluate $(1001)^2$.",
+    "questionLatex": "$(1001)^2=(1000+1)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1002001
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "coefficient_x5_power10",
+    "questionText": "Find the coefficient of $x^5$ in the expansion of $(1+x)^{10}$.",
+    "questionLatex": "$(1+x)^{10}$",
+    "options": [
+      "$210$",
+      "$252$",
+      "$120$",
+      "$126$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general term in the expansion of $(1+x)^{10}$ is given by $T_{r+1} = {}^{10}C_r x^r$. To find the coefficient of $x^5$, we set $r=5$. The coefficient is ${}^{10}C_5 = \\frac{10!}{5!5!} = 252$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "General Term",
+    "familyId": "coefficient_x2_power7",
+    "questionText": "Find the coefficient of $x^2$ in the expansion of $(1+x)^7$.",
+    "questionLatex": "$(1+x)^7$",
+    "options": [
+      "$21$",
+      "$35$",
+      "$28$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The general term in the expansion of $(1+x)^7$ is $T_{r+1} = {}^7C_r x^r$. For the coefficient of $x^2$, we set $r=2$. The coefficient is ${}^7C_2 = \\frac{7 \\times 6}{2 \\times 1} = 21$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Independent Term",
+    "familyId": "constant_term_power6",
+    "questionText": "Find the constant term in the expansion of $\\left(x + \\frac{1}{x}\\right)^6$.",
+    "questionLatex": "\\left(x+\\frac{1}{x}\\right)^6",
+    "options": [
+      "$15$",
+      "$20$",
+      "$30$",
+      "$60$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general term is $T_{r+1} = {}^6C_r x^{6-r} \\left(\\frac{1}{x}\\right)^r = {}^6C_r x^{6-2r}$. For the constant term, set $6-2r = 0 \\implies r=3$. Thus, the constant term corresponds to the middle term and equals ${}^6C_3 = 20$."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Term",
+    "familyId": "middle_term_power10",
+    "questionText": "Find the middle term in the expansion of $(a+b)^{10}$.",
+    "questionLatex": "$(a+b)^{10}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$252a^5b^5$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Middle Terms",
+    "familyId": "middle_terms_power11",
+    "questionText": "How many middle terms are present in the expansion of $(x+y)^{11}$?",
+    "questionLatex": "$(x+y)^{11}$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The total number of terms in the expansion of $(x+y)^{11}$ is $n+1 = 11+1 = 12$. Since the number of terms is even, there are exactly $2$ middle terms, which are the $\\left(\\frac{11+1}{2}\\right)$-th and $\\left(\\frac{11+1}{2}+1\\right)$-th terms, i.e., the $6$-th and $7$-th terms."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Expansion of (x-y)^n",
+    "familyId": "expand_x_minus_1_power5",
+    "questionText": "Expand $(x-1)^5$.",
+    "questionLatex": "$(x-1)^5$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$x^5-5x^4+10x^3-10x^2+5x-1$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Binomial Coefficients",
+    "familyId": "sum_coefficients_power8",
+    "questionText": "Find the sum of all coefficients in the expansion of $(x+y)^8$.",
+    "questionLatex": "$(x+y)^8$",
+    "options": [
+      "$8$",
+      "$16$",
+      "$256$",
+      "$64$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sum of all coefficients is obtained by substituting $x=1$ and $y=1$ into the variables. Thus, the sum is $(1+1)^8 = 2^8 = 256$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Binomial Coefficients",
+    "familyId": "greatest_coefficient_power10",
+    "questionText": "Which binomial coefficient is greatest in the expansion of $(a+b)^{10}$?",
+    "questionLatex": "$(a+b)^{10}$",
+    "options": [
+      "${}^{10}C_4$",
+      "${}^{10}C_5$",
+      "${}^{10}C_6$",
+      "${}^{10}C_7$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For an even index $n$, the greatest binomial coefficient is the central one, given by ${}^nC_{n/2}$. Here $n=10$, so the greatest coefficient is ${}^{10}C_5 = 252$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_999_square",
+    "questionText": "Using Binomial Theorem, evaluate $(999)^2$.",
+    "questionLatex": "$(999)^2=(1000-1)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 998001
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Binomial Theorem",
+    "topic": "Numerical Computation",
+    "familyId": "evaluate_1002_square",
+    "questionText": "Using Binomial Theorem, evaluate $(1002)^2$.",
+    "questionLatex": "$(1002)^2=(1000+2)^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1004004
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

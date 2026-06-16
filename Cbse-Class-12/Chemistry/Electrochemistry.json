@@ -1,0 +1,1162 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Introduction to Electrochemistry",
+    "familyId": "electrochemistry_definition",
+    "questionText": "Define electrochemistry.",
+    "questionLatex": "$\\text{Define electrochemistry.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electrochemistry is the branch of chemistry that deals with the production of electricity from chemical reactions and the use of electrical energy to bring about chemical transformations."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Electrochemical Cells",
+    "familyId": "galvanic_cell_identification",
+    "questionText": "An electrochemical cell that converts chemical energy of a spontaneous redox reaction into electrical energy is called:",
+    "questionLatex": "$\\text{Identify the cell that converts chemical energy into electrical energy.}$",
+    "options": [
+      "Electrolytic cell",
+      "Galvanic cell",
+      "Fuel injector",
+      "Conductivity cell"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A galvanic (voltaic) cell converts the chemical energy of a spontaneous reaction into electrical energy."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Daniell Cell",
+    "familyId": "daniell_cell_reaction",
+    "questionText": "Write the overall cell reaction occurring in a Daniell cell.",
+    "questionLatex": "$\\mathrm{Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Daniell Cell",
+    "familyId": "daniell_cell_emf",
+    "questionText": "What is the standard emf of a Daniell cell when the concentrations of Zn²⁺ and Cu²⁺ ions are each 1 mol dm⁻³?",
+    "questionLatex": "$\\text{Standard emf of Daniell cell} = ?$",
+    "options": [
+      "0.34 V",
+      "0.76 V",
+      "1.10 V",
+      "2.20 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The standard emf of a Daniell cell is 1.10 V."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Galvanic and Electrolytic Cells",
+    "familyId": "electrolytic_cell_definition",
+    "questionText": "What is an electrolytic cell?",
+    "questionLatex": "$\\text{Define electrolytic cell.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An electrolytic cell is a device that uses electrical energy to carry out a non-spontaneous chemical reaction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Half Cell Reactions",
+    "familyId": "identify_oxidation_half_cell",
+    "questionText": "In a Daniell cell, oxidation occurs at:",
+    "questionLatex": "$\\text{Oxidation occurs at which electrode?}$",
+    "options": [
+      "Copper electrode",
+      "Cathode",
+      "Zinc electrode",
+      "Salt bridge"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Zinc undergoes oxidation to Zn²⁺ and therefore acts as the anode."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Half Cell Reactions",
+    "familyId": "identify_reduction_half_cell",
+    "questionText": "Which half-reaction represents the reduction process in a Daniell cell?",
+    "questionLatex": "$\\text{Identify the reduction half-reaction in a Daniell cell.}$",
+    "options": [
+      "Zn(s) \\rightarrow Zn^{2+}(aq) + 2e^-",
+      "Cu(s) \\rightarrow Cu^{2+}(aq) + 2e^-",
+      "Cu^{2+}(aq) + 2e^- \\rightarrow Cu(s)",
+      "Zn^{2+}(aq) + 2e^- \\rightarrow Zn(s)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Copper ions gain electrons and are reduced to copper metal."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Electrode Potential",
+    "familyId": "electrode_potential_definition",
+    "questionText": "What is electrode potential?",
+    "questionLatex": "$\\text{Define electrode potential.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electrode potential is the potential difference developed between an electrode and the electrolyte in which it is immersed."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Galvanic Cells",
+    "familyId": "anode_cathode_identification",
+    "questionText": "In a galvanic cell, the electrode at which reduction occurs is called:",
+    "questionLatex": "$\\text{Identify the electrode where reduction occurs.}$",
+    "options": [
+      "Anode",
+      "Salt bridge",
+      "Cathode",
+      "Electrolyte"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Reduction always occurs at the cathode."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Potential",
+    "familyId": "cell_emf_definition",
+    "questionText": "Define emf of a galvanic cell.",
+    "questionLatex": "$\\text{Define emf of a galvanic cell.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The emf of a galvanic cell is the potential difference between its two electrodes when no current is drawn from the cell."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Representation",
+    "familyId": "cell_notation_identification",
+    "questionText": "Which of the following correctly represents a Daniell cell?",
+    "questionLatex": "$\\text{Choose the correct cell notation.}$",
+    "options": [
+      "Cu|Cu^{2+}||Zn^{2+}|Zn",
+      "Zn|Zn^{2+}||Cu^{2+}|Cu",
+      "Zn|Cu^{2+}||Zn^{2+}|Cu",
+      "Cu|Zn^{2+}||Cu^{2+}|Zn"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By convention, anode (oxidation) is written on the left and cathode (reduction) on the right: Zn|Zn²⁺||Cu²⁺|Cu."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Potential",
+    "familyId": "cell_potential_formula",
+    "questionText": "According to IUPAC convention, the emf of a galvanic cell is given by:",
+    "questionLatex": "$E_{cell} = ?$",
+    "options": [
+      "E_{left} - E_{right}",
+      "E_{anode} + E_{cathode}",
+      "E_{right} - E_{left}",
+      "E_{left} \\times E_{right}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The emf of a cell is the potential of the right-hand electrode (cathode) minus the potential of the left-hand electrode (anode)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Standard Hydrogen Electrode",
+    "familyId": "she_definition",
+    "questionText": "What is the standard electrode potential assigned to the standard hydrogen electrode (SHE)?",
+    "questionLatex": "$E^\\circ_{SHE} = ?$",
+    "options": [
+      "-1.00 V",
+      "0.00 V",
+      "+1.00 V",
+      "+0.34 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard hydrogen electrode is arbitrarily assigned a standard electrode potential of 0.00 V."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Standard Hydrogen Electrode",
+    "familyId": "she_conditions",
+    "questionText": "Which set of conditions corresponds to a standard hydrogen electrode?",
+    "questionLatex": "$\\text{Conditions for SHE}$",
+    "options": [
+      "H₂ at 1 bar and [H⁺] = 1 M",
+      "H₂ at 2 bar and [H⁺] = 1 M",
+      "H₂ at 1 bar and [H⁺] = 0.1 M",
+      "H₂ at 1 atm and pure water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "SHE consists of hydrogen gas at 1 bar pressure and hydrogen ion concentration of 1 M."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Standard Electrode Potential",
+    "familyId": "copper_standard_potential",
+    "questionText": "The standard electrode potential of the Cu²⁺/Cu electrode is:",
+    "questionLatex": "$E^\\circ_{Cu^{2+}/Cu} = ?$",
+    "options": [
+      "-0.76 V",
+      "0.00 V",
+      "+0.34 V",
+      "+0.80 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The standard reduction potential of Cu²⁺/Cu is +0.34 V."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Standard Electrode Potential",
+    "familyId": "zinc_standard_potential",
+    "questionText": "The standard reduction potential of the Zn²⁺/Zn electrode is:",
+    "questionLatex": "$E^\\circ_{Zn^{2+}/Zn} = ?$",
+    "options": [
+      "-0.76 V",
+      "+0.76 V",
+      "+0.34 V",
+      "-0.34 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The standard reduction potential of Zn²⁺/Zn is -0.76 V."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "EMF Calculation",
+    "familyId": "daniell_cell_emf_calculation",
+    "questionText": "Calculate the standard emf of a Daniell cell using E°(Cu²⁺/Cu) = +0.34 V and E°(Zn²⁺/Zn) = -0.76 V.",
+    "questionLatex": "$E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode}$",
+    "options": [
+      "0.42 V",
+      "1.10 V",
+      "0.76 V",
+      "1.52 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "E°cell = 0.34 - (-0.76) = 1.10 V."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Oxidising and Reducing Agents",
+    "familyId": "strongest_oxidising_agent",
+    "questionText": "According to the standard electrode potential table, which of the following is the strongest oxidising agent?",
+    "questionLatex": "$\\text{Identify the strongest oxidising agent.}$",
+    "options": [
+      "Li⁺",
+      "Zn²⁺",
+      "F₂",
+      "Ag⁺"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fluorine has the highest standard reduction potential (+2.87 V), making it the strongest oxidising agent."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Oxidising and Reducing Agents",
+    "familyId": "strongest_reducing_agent",
+    "questionText": "Which substance is the strongest reducing agent among the following?",
+    "questionLatex": "$\\text{Identify the strongest reducing agent.}$",
+    "options": [
+      "Li(s)",
+      "Cu(s)",
+      "Ag(s)",
+      "Fe(s)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Lithium has the most negative standard reduction potential (-3.05 V), making lithium metal the strongest reducing agent."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Inert Electrodes",
+    "familyId": "inert_electrode_concept",
+    "questionText": "Why are platinum and gold often used as inert electrodes in electrochemical cells?",
+    "questionLatex": "$\\text{Reason for using inert electrodes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Platinum and gold are chemically inert and do not participate in the cell reaction. They provide a surface for oxidation or reduction reactions and conduct electrons."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Nernst Equation",
+    "familyId": "nernst_equation_definition",
+    "questionText": "State the Nernst equation for the electrode reaction Mn+(aq) + ne− → M(s).",
+    "questionLatex": "$E = E^\\circ - \\frac{RT}{nF} \\ln \\frac{1}{[M^{n+}]}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "E = E° − (RT/nF) ln(1/[Mn+])"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Nernst Equation",
+    "familyId": "nernst_constants",
+    "questionText": "In the Nernst equation, the symbol F represents:",
+    "questionLatex": "$E = E^\\circ - \\frac{RT}{nF} \\ln Q$",
+    "options": [
+      "Faraday constant",
+      "Frequency factor",
+      "Free energy",
+      "Fugacity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "F represents the Faraday constant, equal to approximately 96487 C mol⁻¹."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Nernst Equation",
+    "familyId": "general_nernst_equation",
+    "questionText": "For the reaction aA + bB + ne− → cC + dD, the Nernst equation is:",
+    "questionLatex": "$E_{cell} = E^\\circ_{cell} - \\frac{RT}{nF} \\ln Q$",
+    "options": [
+      "Ecell = E°cell + (RT/nF)lnQ",
+      "Ecell = E°cell − (RT/nF)lnQ",
+      "Ecell = E°cell − nF/RT",
+      "Ecell = E°cell + nF/RT"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general Nernst equation is Ecell = E°cell − (RT/nF)lnQ."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Nernst Equation",
+    "familyId": "reaction_quotient_identification",
+    "questionText": "In the Nernst equation, Q denotes:",
+    "questionLatex": "$E_{cell} = E^\\circ_{cell} - \\frac{RT}{nF} \\ln Q$",
+    "options": [
+      "Equilibrium constant",
+      "Cell constant",
+      "Reaction quotient",
+      "Charge on ion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Q represents the reaction quotient of the cell reaction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Daniell Cell",
+    "familyId": "daniell_cell_nernst",
+    "questionText": "Write the Nernst equation for the Daniell cell Zn(s)|Zn²⁺||Cu²⁺|Cu(s) at 298 K.",
+    "questionLatex": "$E_{cell} = E^\\circ_{cell} - \\frac{0.059}{2} \\log \\frac{[Zn^{2+}]}{[Cu^{2+}]}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ecell = E°cell − (0.059/2) log([Zn2+]/[Cu2+])"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Potential and Concentration",
+    "familyId": "concentration_effect_copper",
+    "questionText": "The emf of a Daniell cell increases when:",
+    "questionLatex": "$\\text{Effect of concentration on } E_{cell}$",
+    "options": [
+      "Concentration of Zn²⁺ increases",
+      "Concentration of Cu²⁺ decreases",
+      "Concentration of Cu²⁺ increases",
+      "Both ion concentrations increase equally"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "According to the Nernst equation, increasing Cu²⁺ concentration decreases the reaction quotient Q, which increases the cell emf."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Potential and Concentration",
+    "familyId": "concentration_effect_zinc",
+    "questionText": "The emf of a Daniell cell decreases when:",
+    "questionLatex": "$\\text{Effect of concentration on } E_{cell}$",
+    "options": [
+      "Concentration of Cu²⁺ increases",
+      "Concentration of Zn²⁺ decreases",
+      "Concentration of Zn²⁺ increases",
+      "Copper electrode mass increases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Increasing Zn²⁺ concentration increases the reaction quotient Q, which lowers the cell emf."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_relation",
+    "questionText": "The relationship between standard cell potential and equilibrium constant is:",
+    "questionLatex": "$E^\\circ_{cell} = \\frac{2.303RT}{nF} \\log K$",
+    "options": [
+      "E°cell = nF/RT",
+      "E°cell = (2.303RT/nF)logK",
+      "K = E°cell/n",
+      "ΔG° = RT logK"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "At equilibrium, Ecell = 0 and E°cell = (2.303RT/nF)logK."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Equilibrium Constant",
+    "familyId": "daniell_equilibrium_constant",
+    "questionText": "For the Daniell cell at 298 K, E°cell = 1.10 V. The equilibrium constant of the cell reaction is approximately:",
+    "questionLatex": "$\\log K = \\frac{nE^\\circ_{cell}}{0.059}$",
+    "options": [
+      "2 × 10³",
+      "2 × 10¹²",
+      "2 × 10²⁰",
+      "2 × 10³⁷"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Using logK = (2 × 1.10)/0.059 ≈ 37.3, K ≈ 2 × 10³⁷."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Numerical Problems",
+    "familyId": "cell_emf_numerical",
+    "questionText": "For the cell Mg|Mg²⁺(0.130 M)||Ag⁺(0.0001 M)|Ag, calculate the cell emf if E°cell = 3.17 V.",
+    "questionLatex": "$E_{cell} = E^\\circ_{cell} - \\frac{0.059}{2} \\log \\frac{[Mg^{2+}]}{[Ag^+]^2}$",
+    "options": [
+      "2.96 V",
+      "3.17 V",
+      "2.75 V",
+      "3.38 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the Nernst equation gives Ecell = 3.17 − 0.21 = 2.96 V."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Electrochemical Cell and Gibbs Energy",
+    "familyId": "gibbs_energy_relation",
+    "questionText": "Write the relationship between Gibbs energy change and emf of an electrochemical cell.",
+    "questionLatex": "$\\Delta_r G = -nFE_{cell}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\Delta_r G = -nFE_{cell}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Electrochemical Cell and Gibbs Energy",
+    "familyId": "standard_gibbs_energy_relation",
+    "questionText": "The standard Gibbs energy change of a cell reaction is related to standard emf by:",
+    "questionLatex": "$\\Delta_r G^\\circ = -nFE^\\circ_{cell}$",
+    "options": [
+      "$\\Delta_r G^\\circ = nFE^\\circ_{cell}$",
+      "$\\Delta_r G^\\circ = -nFE^\\circ_{cell}$",
+      "$\\Delta_r G^\\circ = RT \\ln K$",
+      "$\\Delta_r G^\\circ = E^\\circ_{cell}/F$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard Gibbs energy change is given by $\\Delta_r G^\\circ = -nFE^\\circ_{cell}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Gibbs Energy Calculation",
+    "familyId": "daniell_gibbs_energy",
+    "questionText": "Calculate the standard Gibbs energy change for the Daniell cell if E°cell = 1.10 V and n = 2. (F = 96487 C mol⁻¹)",
+    "questionLatex": "$\\Delta_r G^\\circ = -nFE^\\circ_{cell}$",
+    "options": [
+      "$-212.27 \\text{ kJ mol}^{-1}$",
+      "$-21.23 \\text{ kJ mol}^{-1}$",
+      "$+212.27 \\text{ kJ mol}^{-1}$",
+      "$-106.13 \\text{ kJ mol}^{-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\Delta_r G^\\circ = -(2)(96487)(1.10) = -2.12 \\times 10^5 \\text{ J mol}^{-1} = -212.27 \\text{ kJ mol}^{-1}$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_from_emf",
+    "questionText": "For the reaction Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s), E°cell = 0.46 V. The equilibrium constant is approximately:",
+    "questionLatex": "$\\log K = \\frac{nE^\\circ_{cell}}{0.059}$",
+    "options": [
+      "$3.92 \\times 10^5$",
+      "$3.92 \\times 10^{10}$",
+      "$3.92 \\times 10^{15}$",
+      "$3.92 \\times 10^{20}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\log K = (2 \\times 0.46)/0.059 = 15.6$, therefore $K = 3.92 \\times 10^{15}$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Resistance",
+    "familyId": "resistance_definition",
+    "questionText": "Define electrical resistance.",
+    "questionLatex": "$\\text{Define electrical resistance.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electrical resistance is the opposition offered by a conductor to the flow of electric current and is measured in ohm ($\\Omega$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Resistivity",
+    "familyId": "resistivity_formula",
+    "questionText": "The relation between resistance (R), resistivity ($\\rho$), length (l) and area of cross-section (A) is:",
+    "questionLatex": "$R = ?$",
+    "options": [
+      "$R = \\rho \\frac{A}{l}$",
+      "$R = \\rho \\frac{l}{A}$",
+      "$R = \\frac{l}{\\rho A}$",
+      "$R = \\frac{A}{\\rho l}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Resistance is directly proportional to length and inversely proportional to area of cross-section."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductance",
+    "familyId": "conductance_definition",
+    "questionText": "What is conductance?",
+    "questionLatex": "$G = \\frac{1}{R}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Conductance is the reciprocal of resistance and is represented by $G = 1/R$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductivity",
+    "familyId": "conductivity_definition",
+    "questionText": "The reciprocal of resistivity is called:",
+    "questionLatex": "$\\kappa = \\frac{1}{\\rho}$",
+    "options": [
+      "Resistance",
+      "Conductance",
+      "Conductivity",
+      "Cell constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Conductivity ($\\kappa$) is the reciprocal of resistivity."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductivity Units",
+    "familyId": "conductivity_units",
+    "questionText": "The SI unit of conductivity is:",
+    "questionLatex": "$\\text{Unit of conductivity}$",
+    "options": [
+      "$S \\text{ m}^2 \\text{ mol}^{-1}$",
+      "$\\Omega \\text{ m}$",
+      "$S \\text{ m}^{-1}$",
+      "$\\Omega^{-1} \\text{ cm}^2 \\text{ mol}^{-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The SI unit of conductivity is siemens per metre ($S \\text{ m}^{-1}$)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductivity Types",
+    "familyId": "ionic_conductivity_definition",
+    "questionText": "What is electrolytic (ionic) conductance?",
+    "questionLatex": "$\\text{Define electrolytic conductance.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The conductance of electricity through ions present in an electrolyte solution is called electrolytic or ionic conductance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Electronic and Ionic Conductance",
+    "familyId": "electronic_conductance",
+    "questionText": "Electrical conductance through metals is called:",
+    "questionLatex": "$\\text{Conductance through metals is called}$",
+    "options": [
+      "Electrolytic conductance",
+      "Electronic conductance",
+      "Molar conductance",
+      "Equivalent conductance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Conductance through metals occurs due to the movement of electrons and is called electronic conductance."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductivity of Solutions",
+    "familyId": "ionic_conductivity_factors",
+    "questionText": "Which of the following factors affects the conductivity of an electrolytic solution?",
+    "questionLatex": "$\\text{Factors affecting conductivity}$",
+    "options": [
+      "Nature of electrolyte",
+      "Temperature",
+      "Concentration",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Conductivity depends on the nature of electrolyte, concentration, temperature, ion size, and solvent properties."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Conductivity Measurement",
+    "familyId": "conductivity_cell",
+    "questionText": "Why is alternating current (AC) used instead of direct current (DC) for measuring the resistance of electrolyte solutions?",
+    "questionLatex": "$\\text{Reason for using AC in conductivity measurements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Alternating current is used because direct current causes electrolysis and changes the composition of the electrolyte solution during measurement."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Constant",
+    "familyId": "cell_constant_definition",
+    "questionText": "The cell constant (G*) of a conductivity cell is given by:",
+    "questionLatex": "$G^* = \\frac{l}{A}$",
+    "options": [
+      "$\\frac{A}{l}$",
+      "$\\frac{l}{A}$",
+      "$RA$",
+      "$\\frac{R}{A}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell constant is the ratio of the distance between electrodes (l) to their area of cross-section (A)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Cell Constant",
+    "familyId": "cell_constant_relation",
+    "questionText": "If R is the resistance of a standard KCl solution and κ is its conductivity, the cell constant is:",
+    "questionLatex": "$G^* = R\\kappa$",
+    "options": [
+      "$R/\\kappa$",
+      "$\\kappa/R$",
+      "$R\\kappa$",
+      "$1/(R\\kappa)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cell constant is determined using the relation $G^* = R\\kappa$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Molar Conductivity",
+    "familyId": "molar_conductivity_definition",
+    "questionText": "Define molar conductivity.",
+    "questionLatex": "$\\Lambda_m = \\frac{\\kappa}{c}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Molar conductivity is the conductance of the volume of solution containing one mole of electrolyte placed between two electrodes one unit distance apart. It is given by $\\Lambda_m = \\kappa/c$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Molar Conductivity",
+    "familyId": "molar_conductivity_units",
+    "questionText": "The SI unit of molar conductivity is:",
+    "questionLatex": "$\\text{Unit of } \\Lambda_m$",
+    "options": [
+      "$S \\text{ m}^{-1}$",
+      "$\\Omega \\text{ m}$",
+      "$S \\text{ m}^2 \\text{ mol}^{-1}$",
+      "$S \\text{ cm}^{-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The SI unit of molar conductivity is siemens metre square per mole ($S \\text{ m}^2 \\text{ mol}^{-1}$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Variation of Conductivity",
+    "familyId": "conductivity_with_dilution",
+    "questionText": "How does the conductivity (κ) of an electrolyte solution change on dilution?",
+    "questionLatex": "$\\text{Variation of conductivity with dilution}$",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Conductivity decreases on dilution because the number of ions per unit volume decreases."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Variation of Molar Conductivity",
+    "familyId": "molar_conductivity_dilution",
+    "questionText": "How does molar conductivity (Λm) change on dilution of an electrolyte solution?",
+    "questionLatex": "$\\text{Variation of molar conductivity with dilution}$",
+    "options": [
+      "Decreases",
+      "Remains constant",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Molar conductivity increases on dilution because the increase in volume containing one mole of electrolyte outweighs the decrease in conductivity."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Limiting Molar Conductivity",
+    "familyId": "limiting_molar_conductivity",
+    "questionText": "What is limiting molar conductivity (Λ°m)?",
+    "questionLatex": "$\\Lambda_m^\\circ$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Limiting molar conductivity is the molar conductivity of an electrolyte at infinite dilution, where interionic interactions become negligible."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1107 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Introduction",
+    "familyId": "alcohol_definition",
+    "questionText": "What are alcohols?",
+    "questionLatex": "$\\text{Define alcohols}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Alcohols are organic compounds in which one or more hydroxyl groups ($-OH$) are attached to a saturated carbon atom."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Introduction",
+    "familyId": "phenol_definition",
+    "questionText": "What are phenols?",
+    "questionLatex": "$\\text{Define phenols}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Phenols are aromatic compounds in which the hydroxyl group ($-OH$) is directly attached to an aromatic ring."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Introduction",
+    "familyId": "ether_definition",
+    "questionText": "What are ethers?",
+    "questionLatex": "$\\text{Define ethers}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ethers are organic compounds in which an oxygen atom is bonded to two alkyl groups, two aryl groups, or one alkyl and one aryl group."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Classification of Alcohols",
+    "familyId": "primary_alcohol_definition",
+    "questionText": "What is a primary ($1^{\\circ}$) alcohol?",
+    "questionLatex": "$\\text{Define primary alcohol}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An alcohol in which the carbon atom bearing the hydroxyl group is attached to only one other carbon atom is called a primary alcohol."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Classification of Alcohols",
+    "familyId": "secondary_alcohol_identification",
+    "questionText": "The compound $CH_3CHOHCH_3$ is classified as:",
+    "questionLatex": "$CH_3CHOHCH_3$",
+    "options": [
+      "Primary alcohol",
+      "Secondary alcohol",
+      "Tertiary alcohol",
+      "Phenol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The carbon atom carrying the hydroxyl group is attached to two other carbon atoms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Classification of Alcohols",
+    "familyId": "tertiary_alcohol_definition",
+    "questionText": "What is a tertiary ($3^{\\circ}$) alcohol?",
+    "questionLatex": "$\\text{Define tertiary alcohol}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An alcohol in which the carbon atom bearing the hydroxyl group is attached to three other carbon atoms is called a tertiary alcohol."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Nomenclature",
+    "familyId": "iupac_name_ethanol",
+    "questionText": "What is the IUPAC name of $CH_3CH_2OH$?",
+    "questionLatex": "$CH_3CH_2OH$",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Propanol",
+      "Ethanal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$CH_3CH_2OH$ contains two carbon atoms and one hydroxyl group; hence its IUPAC name is ethanol."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Nomenclature",
+    "familyId": "iupac_name_phenol",
+    "questionText": "What is the IUPAC retained name of $C_6H_5OH$?",
+    "questionLatex": "$C_6H_5OH$",
+    "options": [
+      "Cyclohexanol",
+      "Phenol",
+      "Benzenol",
+      "Hydroxybenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Phenol is the retained IUPAC name for hydroxybenzene."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Nomenclature",
+    "familyId": "ether_naming",
+    "questionText": "Write the IUPAC name of $CH_3OCH_2CH_3$.",
+    "questionLatex": "$CH_3OCH_2CH_3$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Methoxyethane"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Alcohols",
+    "familyId": "alkene_hydration",
+    "questionText": "Alcohols can be prepared from alkenes by:",
+    "questionLatex": "$\\text{Preparation of alcohols from alkenes}$",
+    "options": [
+      "Hydration",
+      "Halogenation",
+      "Nitration",
+      "Ozonolysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Addition of water across the double bond of an alkene produces an alcohol."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Alcohols",
+    "familyId": "reduction_carbonyl_alcohol",
+    "questionText": "Aldehydes on reduction generally form:",
+    "questionLatex": "$RCHO \\xrightarrow{[H]} ?$",
+    "options": [
+      "Primary alcohols",
+      "Secondary alcohols",
+      "Tertiary alcohols",
+      "Phenols"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Reduction of aldehydes produces primary alcohols."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Alcohols",
+    "familyId": "ketone_reduction",
+    "questionText": "Ketones on reduction produce:",
+    "questionLatex": "$RCOR' \\xrightarrow{[H]} ?$",
+    "options": [
+      "Primary alcohols",
+      "Secondary alcohols",
+      "Tertiary alcohols",
+      "Ethers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Reduction of ketones yields secondary alcohols."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Phenols",
+    "familyId": "chlorobenzene_to_phenol",
+    "questionText": "Phenol can be prepared from chlorobenzene by heating with:",
+    "questionLatex": "$C_6H_5Cl \\rightarrow C_6H_5OH$",
+    "options": [
+      "Dilute HCl",
+      "Aqueous NaOH at high temperature and pressure",
+      "Alcoholic KOH",
+      "Zn dust"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chlorobenzene undergoes nucleophilic substitution with aqueous NaOH under drastic conditions to form phenol."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Phenols",
+    "familyId": "cumene_process",
+    "questionText": "Which industrial process is commonly used for the manufacture of phenol?",
+    "questionLatex": "$\\text{Industrial preparation of phenol}$",
+    "options": [
+      "Haber process",
+      "Contact process",
+      "Cumene process",
+      "Ostwald process"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Phenol is manufactured commercially by the cumene process."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Ethers",
+    "familyId": "williamson_synthesis_definition",
+    "questionText": "State Williamson ether synthesis.",
+    "questionLatex": "$RONa + R'X \\rightarrow ROR' + NaX$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "An ether is prepared by the reaction of a sodium alkoxide with an alkyl halide: $RONa + R'X \\rightarrow ROR' + NaX$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Preparation of Ethers",
+    "familyId": "ether_from_alcohol",
+    "questionText": "Diethyl ether can be prepared by dehydration of ethanol using:",
+    "questionLatex": "$2C_2H_5OH \\rightarrow C_2H_5OC_2H_5$",
+    "options": [
+      "Conc. HNO3",
+      "Conc. H2SO4 at 413 K",
+      "NaOH",
+      "Zn-Hg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Intermolecular dehydration of ethanol with concentrated sulfuric acid at 413 K produces diethyl ether."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Physical Properties",
+    "familyId": "hydrogen_bonding_alcohols",
+    "questionText": "Why do alcohols have higher boiling points than corresponding hydrocarbons?",
+    "questionLatex": "$\\text{Boiling points of alcohols}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Alcohol molecules are associated through intermolecular hydrogen bonding, resulting in stronger intermolecular forces and higher boiling points."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Physical Properties",
+    "familyId": "water_solubility_alcohols",
+    "questionText": "Lower alcohols are highly soluble in water because:",
+    "questionLatex": "$\\text{Solubility of lower alcohols}$",
+    "options": [
+      "They are non-polar",
+      "They form hydrogen bonds with water",
+      "They contain double bonds",
+      "They contain halogens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The hydroxyl group forms hydrogen bonds with water molecules, increasing solubility."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Acidic Nature",
+    "familyId": "acidic_strength_order",
+    "questionText": "Arrange the following in increasing order of acidic strength: Ethanol, Water, Phenol.",
+    "questionLatex": "$\\text{Acidic strength order}$",
+    "options": [
+      "Phenol < Water < Ethanol",
+      "Water < Ethanol < Phenol",
+      "Ethanol < Water < Phenol",
+      "Ethanol < Phenol < Water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Phenol is more acidic than water due to resonance stabilization of the phenoxide ion, while ethanol is less acidic than water."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Acidic Nature of Alcohols",
+    "familyId": "alcohol_sodium_reaction",
+    "questionText": "What happens when ethanol reacts with sodium metal?",
+    "questionLatex": "$2C_2H_5OH + 2Na \\rightarrow ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$2C_2H_5OH + 2Na \\rightarrow 2C_2H_5ONa + H_2$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Acidic Nature of Phenols",
+    "familyId": "phenol_acidity_reason",
+    "questionText": "Why is phenol more acidic than ethanol?",
+    "questionLatex": "$\\text{Reason for higher acidity of phenol}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Phenol is more acidic than ethanol because the phenoxide ion formed after loss of a proton is stabilized by resonance, whereas the ethoxide ion is not resonance stabilized."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Acidic Nature of Phenols",
+    "familyId": "phenol_naoh_reaction",
+    "questionText": "Phenol reacts with sodium hydroxide solution to form:",
+    "questionLatex": "$C_6H_5OH + NaOH \\rightarrow ?$",
+    "options": [
+      "Benzene",
+      "Sodium phenoxide",
+      "Cyclohexanol",
+      "Sodium benzoate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Phenol is sufficiently acidic to react with NaOH, producing sodium phenoxide."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Chemical Reactions of Alcohols",
+    "familyId": "alcohol_halide_conversion",
+    "questionText": "Which reagent is commonly used to convert alcohols into alkyl chlorides?",
+    "questionLatex": "$R-OH \\rightarrow R-Cl$",
+    "options": [
+      "NaOH",
+      "SOCl_2",
+      "KMnO_4",
+      "H_2SO_4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Thionyl chloride ($SOCl_2$) is commonly used for converting alcohols into alkyl chlorides."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Chemical Reactions of Alcohols",
+    "familyId": "dehydration_alcohol",
+    "questionText": "What is the major product obtained when ethanol is heated with concentrated H2SO4 at 443 K?",
+    "questionLatex": "$C_2H_5OH \\xrightarrow[443K]{conc.\\ H_2SO_4} ?$",
+    "options": [
+      "Ethane",
+      "Ethene",
+      "Diethyl ether",
+      "Ethanal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "At 443 K, concentrated sulfuric acid causes intramolecular dehydration of ethanol to form ethene."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Chemical Reactions of Alcohols",
+    "familyId": "lucas_test",
+    "questionText": "Which reagent is used in the Lucas test for distinguishing alcohols?",
+    "questionLatex": "$\\text{Lucas reagent}$",
+    "options": [
+      "Zn/Hg and HCl",
+      "Conc. HNO_3",
+      "Anhydrous AlCl_3",
+      "Conc. HCl and anhydrous ZnCl_2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Lucas reagent consists of concentrated hydrochloric acid and anhydrous zinc chloride."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Oxidation of Alcohols",
+    "familyId": "primary_alcohol_oxidation",
+    "questionText": "Primary alcohols on controlled oxidation generally produce:",
+    "questionLatex": "$RCH_2OH \\xrightarrow{[O]} ?$",
+    "options": [
+      "Ketones",
+      "Aldehydes",
+      "Carboxylic acids directly",
+      "Ethers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary alcohols are first oxidized to aldehydes under controlled conditions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Oxidation of Alcohols",
+    "familyId": "secondary_alcohol_oxidation",
+    "questionText": "Secondary alcohols on oxidation yield:",
+    "questionLatex": "$R_2CHOH \\xrightarrow{[O]} ?$",
+    "options": [
+      "Aldehydes",
+      "Ketones",
+      "Carboxylic acids",
+      "Alkenes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Oxidation of secondary alcohols produces ketones."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Oxidation of Alcohols",
+    "familyId": "tertiary_alcohol_oxidation",
+    "questionText": "Why do tertiary alcohols resist oxidation under mild conditions?",
+    "questionLatex": "$\\text{Oxidation of tertiary alcohols}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Tertiary alcohols do not contain a hydrogen atom on the carbon bearing the hydroxyl group and therefore resist oxidation under mild conditions."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "phenol_bromine_water",
+    "questionText": "What is the product formed when phenol reacts with bromine water?",
+    "questionLatex": "$C_6H_5OH + 3Br_2 \\rightarrow ?$",
+    "options": [
+      "Bromobenzene",
+      "2-Bromophenol",
+      "2,4,6-Tribromophenol",
+      "Benzoic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Phenol reacts readily with bromine water to form 2,4,6-tribromophenol as a white precipitate."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "phenol_nitration_dilute",
+    "questionText": "Phenol on nitration with dilute nitric acid gives:",
+    "questionLatex": "$C_6H_5OH + HNO_3 \\rightarrow ?$",
+    "options": [
+      "Nitrobenzene",
+      "m-Nitrophenol only",
+      "Mixture of o-nitrophenol and p-nitrophenol",
+      "2,4,6-Trinitrophenol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The hydroxyl group activates the benzene ring and directs substitution to the ortho and para positions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "picric_acid_formation",
+    "questionText": "What is the product formed when phenol is treated with concentrated nitric acid?",
+    "questionLatex": "$C_6H_5OH + 3HNO_3 \\rightarrow ?$",
+    "options": [
+      "Nitrobenzene",
+      "2-Nitrophenol",
+      "4-Nitrophenol",
+      "2,4,6-Trinitrophenol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Phenol undergoes extensive nitration with concentrated nitric acid to form 2,4,6-trinitrophenol (picric acid)."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "kolbe_reaction_definition",
+    "questionText": "State the Kolbe-Schmitt reaction.",
+    "questionLatex": "$C_6H_5ONa + CO_2 \\rightarrow ?$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "When sodium phenoxide is heated with carbon dioxide under pressure followed by acidification, salicylic acid is obtained. This reaction is known as the Kolbe-Schmitt reaction."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "kolbe_product",
+    "questionText": "The major product of the Kolbe-Schmitt reaction is:",
+    "questionLatex": "$\\text{Kolbe-Schmitt reaction product}$",
+    "options": [
+      "Benzoic acid",
+      "Salicylic acid",
+      "Picric acid",
+      "Phenyl benzoate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The major product formed is o-hydroxybenzoic acid, commonly known as salicylic acid."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "reimer_tiemann_reaction",
+    "questionText": "What is the major product formed in the Reimer-Tiemann reaction of phenol?",
+    "questionLatex": "$C_6H_5OH + CHCl_3 + NaOH \\rightarrow ?$",
+    "options": [
+      "Benzaldehyde",
+      "Salicylic acid",
+      "o-Hydroxybenzaldehyde",
+      "Phenyl acetate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Reimer-Tiemann reaction introduces a formyl group at the ortho position of phenol, producing o-hydroxybenzaldehyde."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "phenol_ferric_chloride_test",
+    "questionText": "What observation is obtained when phenol is treated with neutral ferric chloride solution?",
+    "questionLatex": "$C_6H_5OH + FeCl_3$",
+    "options": [
+      "Green precipitate",
+      "Blue solution",
+      "Violet coloration",
+      "Brown gas evolved"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Phenol gives a characteristic violet coloration with neutral ferric chloride solution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "ether_cleavage_hi",
+    "questionText": "Ethers are cleaved by heating with:",
+    "questionLatex": "$ROR' + HI \\rightarrow ?$",
+    "options": [
+      "Dilute HCl",
+      "NaOH",
+      "Concentrated HI",
+      "KMnO_4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hydroiodic acid cleaves ethers to form alkyl iodides and alcohols."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "anisole_electrophilic_substitution",
+    "questionText": "The methoxy group in anisole is:",
+    "questionLatex": "$C_6H_5OCH_3$",
+    "options": [
+      "Deactivating and meta-directing",
+      "Activating and ortho/para-directing",
+      "Deactivating and ortho/para-directing",
+      "Neutral in effect"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The methoxy group donates electron density through resonance and activates the aromatic ring towards ortho and para substitution."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "anisole_bromination",
+    "questionText": "Bromination of anisole in the presence of bromine predominantly gives:",
+    "questionLatex": "$C_6H_5OCH_3 + Br_2 \\rightarrow ?$",
+    "options": [
+      "m-Bromoanisole",
+      "Mixture of o-bromoanisole and p-bromoanisole",
+      "Bromobenzene",
+      "2,4,6-Tribromoanisole only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The methoxy group is ortho-para directing and produces mainly ortho and para substituted products."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "peroxide_formation",
+    "questionText": "Why should ethers be stored carefully for long periods?",
+    "questionLatex": "$\\text{Storage of ethers}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ethers slowly react with atmospheric oxygen to form explosive peroxides on standing and therefore must be stored carefully."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Distinction Tests",
+    "familyId": "phenol_vs_alcohol_test",
+    "questionText": "How can phenol be distinguished from ethanol using ferric chloride solution?",
+    "questionLatex": "$\\text{Distinguish phenol and ethanol using } FeCl_3$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Phenol gives a violet coloration with neutral ferric chloride solution, whereas ethanol does not produce any characteristic colour."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Distinction Tests",
+    "familyId": "lucas_test_observation",
+    "questionText": "What is the basis of the Lucas test for alcohols?",
+    "questionLatex": "$\\text{Basis of Lucas test}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The Lucas test is based on the rate of formation of insoluble alkyl chlorides. Tertiary alcohols react immediately, secondary alcohols react slowly and primary alcohols react very slowly at room temperature."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Alcohols",
+    "familyId": "methanol_poisonous",
+    "questionText": "Why is methanol considered more dangerous than ethanol for human consumption?",
+    "questionLatex": "$\\text{Toxicity of methanol}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Methanol is oxidized in the body to formaldehyde and formic acid, which are highly toxic and can cause blindness or death."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Alcohols",
+    "familyId": "ethanol_combustion",
+    "questionText": "Write the balanced chemical equation for the complete combustion of ethanol.",
+    "questionLatex": "$C_2H_5OH + O_2 \\rightarrow CO_2 + H_2O$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$C_2H_5OH + 3O_2 \\rightarrow 2CO_2 + 3H_2O$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "phenol_acidic_reagent",
+    "questionText": "Which of the following reagents reacts with phenol but not with ethanol under ordinary conditions?",
+    "questionLatex": "$\\text{Reaction characteristic of phenol}$",
+    "options": [
+      "Sodium hydroxide solution",
+      "Hydrogen gas",
+      "Oxygen gas",
+      "Ethanol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Phenol is acidic enough to react with NaOH to form sodium phenoxide, whereas ethanol does not react with NaOH under ordinary conditions."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Phenols",
+    "familyId": "phenoxide_resonance",
+    "questionText": "Why is the phenoxide ion more stable than the ethoxide ion?",
+    "questionLatex": "$\\text{Stability of phenoxide ion}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The negative charge in the phenoxide ion is delocalized over the aromatic ring through resonance, whereas the charge in the ethoxide ion remains localized on oxygen."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "ether_symmetrical_definition",
+    "questionText": "What is a symmetrical ether?",
+    "questionLatex": "$\\text{Define symmetrical ether}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A symmetrical ether is an ether in which the two alkyl groups or the two aryl groups attached to the oxygen atom are identical."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "unsymmetrical_ether_definition",
+    "questionText": "What is an unsymmetrical ether?",
+    "questionLatex": "$\\text{Define unsymmetrical ether}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An unsymmetrical ether is an ether in which the two groups attached to the oxygen atom are different."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Ethers",
+    "familyId": "williamson_best_substrate",
+    "questionText": "Williamson ether synthesis is most effective when the alkyl halide used is:",
+    "questionLatex": "$\\text{Best substrate for Williamson synthesis}$",
+    "options": [
+      "Primary alkyl halide",
+      "Secondary alkyl halide",
+      "Tertiary alkyl halide",
+      "Aryl halide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Primary alkyl halides favor SN2 reactions and give better yields in Williamson ether synthesis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Alcohol, Phenols and Ethers",
+    "topic": "Chapter Integration",
+    "familyId": "functional_group_identification",
+    "questionText": "Identify the functional groups present in anisole ($C_6H_5OCH_3$).",
+    "questionLatex": "$C_6H_5OCH_3$",
+    "options": [
+      "Alcohol and alkene",
+      "Phenol and aldehyde",
+      "Aromatic ring and ether",
+      "Ketone and ether"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Anisole contains an aromatic benzene ring and an ether linkage (-O-)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

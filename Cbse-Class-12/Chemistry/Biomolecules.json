@@ -1,0 +1,1108 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Introduction to Biomolecules",
+    "familyId": "biomolecules_definition",
+    "questionText": "What are biomolecules?",
+    "questionLatex": "$\\text{Define biomolecules}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Biomolecules are complex organic compounds present in living organisms, such as carbohydrates, proteins, nucleic acids and lipids, which are essential for life processes."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Carbohydrates",
+    "familyId": "carbohydrate_definition",
+    "questionText": "How are carbohydrates chemically defined?",
+    "questionLatex": "$\\text{Definition of carbohydrates}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Carbohydrates are optically active polyhydroxy aldehydes or ketones, or compounds that yield such units on hydrolysis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Carbohydrates",
+    "familyId": "saccharide_term",
+    "questionText": "Carbohydrates are also known as:",
+    "questionLatex": "$\\text{Alternative name of carbohydrates}$",
+    "options": [
+      "Peptides",
+      "Saccharides",
+      "Nucleotides",
+      "Lipids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbohydrates are also called saccharides, derived from the Greek word meaning sugar."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "monosaccharide_definition",
+    "questionText": "What is a monosaccharide?",
+    "questionLatex": "$\\text{Definition of monosaccharide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A monosaccharide is a carbohydrate that cannot be hydrolysed further to give simpler polyhydroxy aldehyde or ketone units."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "monosaccharide_examples",
+    "questionText": "Which of the following is a monosaccharide?",
+    "questionLatex": "$\\text{Identify the monosaccharide}$",
+    "options": [
+      "Sucrose",
+      "Maltose",
+      "Glucose",
+      "Starch"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glucose is a monosaccharide, whereas sucrose and maltose are disaccharides and starch is a polysaccharide."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "oligosaccharide_definition",
+    "questionText": "What are oligosaccharides?",
+    "questionLatex": "$\\text{Definition of oligosaccharides}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Oligosaccharides are carbohydrates that yield two to ten monosaccharide units on hydrolysis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "disaccharide_example",
+    "questionText": "Which of the following is a disaccharide?",
+    "questionLatex": "$\\text{Identify the disaccharide}$",
+    "options": [
+      "Fructose",
+      "Ribose",
+      "Sucrose",
+      "Glucose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Sucrose is a disaccharide composed of glucose and fructose units."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "polysaccharide_definition",
+    "questionText": "What are polysaccharides?",
+    "questionLatex": "$\\text{Definition of polysaccharides}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Polysaccharides are carbohydrates that yield a large number of monosaccharide units on hydrolysis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Classification of Carbohydrates",
+    "familyId": "polysaccharide_examples",
+    "questionText": "Which of the following is a polysaccharide?",
+    "questionLatex": "$\\text{Identify the polysaccharide}$",
+    "options": [
+      "Glucose",
+      "Fructose",
+      "Lactose",
+      "Cellulose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Cellulose is a polysaccharide composed of $\\beta$-D-glucose units."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Reducing and Non-reducing Sugars",
+    "familyId": "reducing_sugar_definition",
+    "questionText": "What are reducing sugars?",
+    "questionLatex": "$\\text{Reducing sugars}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Reducing sugars are carbohydrates that reduce Fehling's solution and Tollens' reagent due to the presence of a free aldehydic or ketonic group."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Monosaccharides",
+    "familyId": "aldose_definition",
+    "questionText": "What is an aldose?",
+    "questionLatex": "$\\text{Definition of aldose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A monosaccharide containing an aldehyde functional group is called an aldose."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Monosaccharides",
+    "familyId": "ketose_definition",
+    "questionText": "What is a ketose?",
+    "questionLatex": "$\\text{Definition of ketose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A monosaccharide containing a keto functional group is called a ketose."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Monosaccharides",
+    "familyId": "glucose_classification",
+    "questionText": "Glucose is classified as:",
+    "questionLatex": "$\\text{Classification of glucose}$",
+    "options": [
+      "Ketopentose",
+      "Aldohexose",
+      "Aldopentose",
+      "Ketohexose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Glucose contains six carbon atoms and an aldehyde group, therefore it is an aldohexose."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Monosaccharides",
+    "familyId": "fructose_classification",
+    "questionText": "Fructose is classified as:",
+    "questionLatex": "$\\text{Classification of fructose}$",
+    "options": [
+      "Aldohexose",
+      "Aldopentose",
+      "Ketohexose",
+      "Ketopentose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fructose contains six carbon atoms and a ketonic group and is therefore a ketohexose."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Preparation of Glucose",
+    "familyId": "glucose_from_sucrose",
+    "questionText": "What are the products obtained on hydrolysis of sucrose?",
+    "questionLatex": "$C_{12}H_{22}O_{11} + H_2O \\rightarrow ?$",
+    "options": [
+      "Glucose and galactose",
+      "Glucose and fructose",
+      "Fructose and lactose",
+      "Glucose and maltose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hydrolysis of sucrose produces equimolar amounts of glucose and fructose."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Preparation of Glucose",
+    "familyId": "glucose_from_starch",
+    "questionText": "Commercially, glucose is obtained by hydrolysis of:",
+    "questionLatex": "$\\text{Commercial source of glucose}$",
+    "options": [
+      "Cellulose only",
+      "Sucrose only",
+      "Starch",
+      "Lactose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Commercial glucose is prepared by hydrolysis of starch using dilute sulphuric acid under pressure."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Structure of Glucose",
+    "familyId": "glucose_formula",
+    "questionText": "What is the molecular formula of glucose?",
+    "questionLatex": "$\\text{Molecular formula of glucose}$",
+    "options": [
+      "$C_6H_{12}O_5$",
+      "$C_6H_{12}O_6$",
+      "$C_5H_{10}O_5$",
+      "$C_{12}H_{22}O_{11}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The molecular formula of glucose is $C_6H_{12}O_6$."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Structure of Glucose",
+    "familyId": "glucose_hi_reaction",
+    "questionText": "On prolonged heating with HI, glucose forms:",
+    "questionLatex": "$C_6H_{12}O_6 \\xrightarrow{HI} ?$",
+    "options": [
+      "n-Hexane",
+      "Cyclohexane",
+      "Hexene",
+      "Hexanol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Formation of n-hexane indicates that all six carbon atoms are arranged in a straight chain."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Structure of Glucose",
+    "familyId": "gluconic_acid_formation",
+    "questionText": "Which mild oxidising agent converts glucose into gluconic acid?",
+    "questionLatex": "$\\text{Oxidation of glucose}$",
+    "options": [
+      "KMnO_4",
+      "K_2Cr_2O_7",
+      "Bromine water",
+      "Concentrated HNO_3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bromine water oxidises the aldehyde group of glucose to form gluconic acid."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Structure of Glucose",
+    "familyId": "glucose_pentaacetate",
+    "questionText": "Formation of glucose pentaacetate indicates the presence of how many hydroxyl groups in glucose?",
+    "questionLatex": "$\\text{Hydroxyl groups in glucose}$",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Acetylation of glucose forms glucose pentaacetate, confirming the presence of five hydroxyl groups."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Cyclic Structure of Glucose",
+    "familyId": "glucose_ring_structure",
+    "questionText": "Why is the open-chain structure of glucose not sufficient to explain all its properties?",
+    "questionLatex": "$\\text{Need for cyclic structure of glucose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The open-chain structure cannot explain the existence of two crystalline forms of glucose, mutarotation and the failure of glucose pentaacetate to react with hydroxylamine, indicating a cyclic structure."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Cyclic Structure of Glucose",
+    "familyId": "glucopyranose_name",
+    "questionText": "The six-membered cyclic structure of glucose is known as:",
+    "questionLatex": "$\\text{Six-membered ring of glucose}$",
+    "options": [
+      "Glucofuranose",
+      "Glucopyranose",
+      "Fructopyranose",
+      "Fructofuranose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The six-membered ring structure of glucose resembles pyran and is called glucopyranose."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Cyclic Structure of Glucose",
+    "familyId": "alpha_beta_glucose",
+    "questionText": "The α and β forms of glucose differ in the configuration at:",
+    "questionLatex": "$\\alpha\\text{- and }\\beta\\text{-glucose}$",
+    "options": [
+      "C-2 atom",
+      "C-3 atom",
+      "Anomeric carbon atom",
+      "C-6 atom"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "α and β glucose are anomers differing in configuration at the anomeric carbon (C-1)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Mutarotation",
+    "familyId": "mutarotation_definition",
+    "questionText": "What is mutarotation?",
+    "questionLatex": "$\\text{Define mutarotation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mutarotation is the change in the specific rotation of an optically active sugar solution with time until a constant value is attained due to interconversion of α and β forms."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Fructose",
+    "familyId": "fructose_formula",
+    "questionText": "What is the molecular formula of fructose?",
+    "questionLatex": "$\\text{Molecular formula of fructose}$",
+    "options": [
+      "$C_5H_{10}O_5$",
+      "$C_6H_{12}O_6$",
+      "$C_{12}H_{22}O_{11}$",
+      "$C_6H_{10}O_5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fructose has the molecular formula $C_6H_{12}O_6$."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Fructose",
+    "familyId": "fructose_sweetness",
+    "questionText": "Which naturally occurring monosaccharide is the sweetest sugar?",
+    "questionLatex": "$\\text{Sweetest monosaccharide}$",
+    "options": [
+      "Glucose",
+      "Galactose",
+      "Fructose",
+      "Ribose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fructose is the sweetest naturally occurring monosaccharide."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Disaccharides",
+    "familyId": "sucrose_composition",
+    "questionText": "Sucrose on hydrolysis gives:",
+    "questionLatex": "$C_{12}H_{22}O_{11} + H_2O \\rightarrow ?$",
+    "options": [
+      "Glucose + Glucose",
+      "Glucose + Fructose",
+      "Glucose + Galactose",
+      "Fructose + Galactose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sucrose hydrolyses to give one molecule each of glucose and fructose."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Disaccharides",
+    "familyId": "sucrose_nonreducing",
+    "questionText": "Why is sucrose a non-reducing sugar?",
+    "questionLatex": "$\\text{Non-reducing nature of sucrose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Sucrose is non-reducing because both anomeric carbon atoms of glucose and fructose participate in glycosidic bond formation, leaving no free hemiacetal or hemiketal group."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Disaccharides",
+    "familyId": "maltose_composition",
+    "questionText": "Maltose on hydrolysis produces:",
+    "questionLatex": "$\\text{Hydrolysis of maltose}$",
+    "options": [
+      "Glucose + Fructose",
+      "Galactose + Glucose",
+      "Glucose + Glucose",
+      "Fructose + Fructose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Maltose consists of two glucose units linked through an α-glycosidic bond."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Disaccharides",
+    "familyId": "lactose_composition",
+    "questionText": "Lactose on hydrolysis yields:",
+    "questionLatex": "$\\text{Hydrolysis of lactose}$",
+    "options": [
+      "Glucose and Galactose",
+      "Glucose and Fructose",
+      "Galactose and Fructose",
+      "Glucose and Ribose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Lactose is composed of one glucose unit and one galactose unit."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "starch_definition",
+    "questionText": "What is starch?",
+    "questionLatex": "$\\text{Definition of starch}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Starch is a storage polysaccharide of plants composed of α-D-glucose units and consists of amylose and amylopectin."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "starch_components",
+    "questionText": "The two main components of starch are:",
+    "questionLatex": "$\\text{Components of starch}$",
+    "options": [
+      "Cellulose and glycogen",
+      "Amylose and amylopectin",
+      "Glucose and fructose",
+      "Maltose and lactose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Starch consists of two components, amylose and amylopectin."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "amylose_structure",
+    "questionText": "Amylose is primarily:",
+    "questionLatex": "$\\text{Structure of amylose}$",
+    "options": [
+      "Highly branched",
+      "Linear polymer",
+      "Cross-linked polymer",
+      "Protein-polysaccharide complex"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Amylose is a linear polymer of α-D-glucose units linked by α(1→4) glycosidic bonds."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "amylopectin_structure",
+    "questionText": "Amylopectin differs from amylose because it is:",
+    "questionLatex": "$\\text{Structure of amylopectin}$",
+    "options": [
+      "Linear",
+      "Unsaturated",
+      "Branched",
+      "Non-polymeric"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Amylopectin is a branched polymer containing α(1→4) and α(1→6) glycosidic linkages."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "glycogen_definition",
+    "questionText": "What is glycogen?",
+    "questionLatex": "$\\text{Definition of glycogen}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Glycogen is the storage polysaccharide of animals and is often referred to as animal starch."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "glycogen_branching",
+    "questionText": "Compared to amylopectin, glycogen is:",
+    "questionLatex": "$\\text{Branching in glycogen}$",
+    "options": [
+      "Less branched",
+      "Equally branched",
+      "More branched",
+      "Completely linear"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glycogen is more highly branched than amylopectin."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "cellulose_definition",
+    "questionText": "What is cellulose?",
+    "questionLatex": "$\\text{Definition of cellulose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Cellulose is a structural polysaccharide present in plant cell walls and is composed of β-D-glucose units."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "cellulose_digestibility",
+    "questionText": "Why can humans not digest cellulose?",
+    "questionLatex": "$\\text{Digestibility of cellulose}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Humans lack the enzyme cellulase required to hydrolyse the β(1→4) glycosidic bonds present in cellulose."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "protein_definition",
+    "questionText": "What are proteins?",
+    "questionLatex": "$\\text{Definition of proteins}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Proteins are naturally occurring polymers of α-amino acids linked together by peptide bonds."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "amino_acid_definition",
+    "questionText": "What are α-amino acids?",
+    "questionLatex": "$\\text{Definition of } \\alpha\\text{-amino acids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "α-Amino acids are organic compounds containing both an amino group ($-NH_2$) and a carboxyl group ($-COOH$) attached to the same carbon atom."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "zwitterion_definition",
+    "questionText": "What is a zwitter ion?",
+    "questionLatex": "$\\text{Define zwitter ion}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A zwitter ion is a dipolar species containing both a positively charged amino group and a negatively charged carboxylate group within the same molecule."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "peptide_bond_definition",
+    "questionText": "What is a peptide bond?",
+    "questionLatex": "$\\text{Peptide bond formation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A peptide bond is the amide linkage ($-CONH-$) formed between the carboxyl group of one amino acid and the amino group of another amino acid with elimination of a water molecule."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "essential_amino_acids",
+    "questionText": "What are essential amino acids?",
+    "questionLatex": "$\\text{Essential amino acids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Essential amino acids are those amino acids which cannot be synthesized by the human body in sufficient amounts and must be obtained through diet."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "protein_denaturation",
+    "questionText": "What is denaturation of proteins?",
+    "questionLatex": "$\\text{Denaturation of proteins}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Denaturation is the process in which a protein loses its biological activity due to disruption of its secondary and tertiary structures without breaking peptide bonds."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "denaturation_causes",
+    "questionText": "Which of the following can cause denaturation of proteins?",
+    "questionLatex": "$\\text{Causes of protein denaturation}$",
+    "options": [
+      "Heating",
+      "Change in pH",
+      "Treatment with chemicals",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Proteins may be denatured by heat, changes in pH and various chemical agents."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "familyId": "enzyme_definition",
+    "questionText": "What are enzymes?",
+    "questionLatex": "$\\text{Definition of enzymes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Enzymes are biological catalysts, generally proteins, that accelerate biochemical reactions without being consumed in the process."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "familyId": "enzyme_specificity",
+    "questionText": "A characteristic feature of enzymes is their:",
+    "questionLatex": "$\\text{Characteristic property of enzymes}$",
+    "options": [
+      "High melting point",
+      "Strong acidic nature",
+      "Specificity of action",
+      "Metallic character"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Enzymes are highly specific and generally catalyse only particular reactions."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "nucleic_acid_definition",
+    "questionText": "What are nucleic acids?",
+    "questionLatex": "$\\text{Definition of nucleic acids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nucleic acids are biopolymers responsible for storage, transmission and expression of genetic information in living organisms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "dna_rna_difference",
+    "questionText": "Which nitrogenous base is present in RNA but absent in DNA?",
+    "questionLatex": "$\\text{Base present in RNA}$",
+    "options": [
+      "Adenine",
+      "Guanine",
+      "Uracil",
+      "Cytosine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "RNA contains uracil instead of thymine."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "nucleotide_definition",
+    "questionText": "What is a nucleotide?",
+    "questionLatex": "$\\text{Definition of nucleotide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A nucleotide is the basic structural unit of nucleic acids consisting of a nitrogenous base, a pentose sugar and a phosphate group."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

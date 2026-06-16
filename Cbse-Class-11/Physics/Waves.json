@@ -1,0 +1,1386 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Introduction to Waves",
+    "familyId": "wave_definition",
+    "questionText": "A wave is defined as:",
+    "questionLatex": "\\text{A wave is defined as:}",
+    "options": [
+      {
+        "text": "Transfer of matter from one place to another",
+        "latex": "\\text{Transfer of matter from one place to another}"
+      },
+      {
+        "text": "Transfer of energy without transfer of matter as a whole",
+        "latex": "\\text{Transfer of energy without transfer of matter as a whole}"
+      },
+      {
+        "text": "Motion of particles with constant velocity",
+        "latex": "\\text{Motion of particles with constant velocity}"
+      },
+      {
+        "text": "Random motion of particles",
+        "latex": "\\text{Random motion of particles}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Transfer of energy without transfer of matter as a whole",
+      "latex": "\\text{Transfer of energy without transfer of matter as a whole}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Mechanical Waves",
+    "familyId": "mechanical_wave_definition",
+    "questionText": "Mechanical waves require ________ for propagation.",
+    "questionLatex": "\\text{Mechanical waves require \\_\\_\\_\\_\\_\\_\\_\\_ for propagation.}",
+    "options": [
+      {
+        "text": "Vacuum only",
+        "latex": "\\text{Vacuum only}"
+      },
+      {
+        "text": "Material medium",
+        "latex": "\\text{Material medium}"
+      },
+      {
+        "text": "Electric field",
+        "latex": "\\text{Electric field}"
+      },
+      {
+        "text": "Magnetic field",
+        "latex": "\\text{Magnetic field}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Material medium",
+      "latex": "\\text{Material medium}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Classification",
+    "familyId": "electromagnetic_wave",
+    "questionText": "Which of the following can propagate through vacuum?",
+    "questionLatex": "\\text{Which of the following can propagate through vacuum?}",
+    "options": [
+      {
+        "text": "Sound waves",
+        "latex": "\\text{Sound waves}"
+      },
+      {
+        "text": "Water waves",
+        "latex": "\\text{Water waves}"
+      },
+      {
+        "text": "Electromagnetic waves",
+        "latex": "\\text{Electromagnetic waves}"
+      },
+      {
+        "text": "Seismic waves",
+        "latex": "\\text{Seismic waves}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Electromagnetic waves",
+      "latex": "\\text{Electromagnetic waves}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Transverse Waves",
+    "familyId": "transverse_definition",
+    "questionText": "In a transverse wave, particles of the medium oscillate:",
+    "questionLatex": "\\text{In a transverse wave, particles of the medium oscillate:}",
+    "options": [
+      {
+        "text": "Parallel to wave propagation",
+        "latex": "\\text{Parallel to wave propagation}"
+      },
+      {
+        "text": "Perpendicular to wave propagation",
+        "latex": "\\text{Perpendicular to wave propagation}"
+      },
+      {
+        "text": "In circular paths only",
+        "latex": "\\text{In circular paths only}"
+      },
+      {
+        "text": "Randomly",
+        "latex": "\\text{Randomly}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Perpendicular to wave propagation",
+      "latex": "\\text{Perpendicular to wave propagation}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Longitudinal Waves",
+    "familyId": "longitudinal_definition",
+    "questionText": "In a longitudinal wave, particles oscillate:",
+    "questionLatex": "\\text{In a longitudinal wave, particles oscillate:}",
+    "options": [
+      {
+        "text": "Perpendicular to direction of propagation",
+        "latex": "\\text{Perpendicular to direction of propagation}"
+      },
+      {
+        "text": "Along direction of propagation",
+        "latex": "\\text{Along direction of propagation}"
+      },
+      {
+        "text": "In elliptical paths",
+        "latex": "\\text{In elliptical paths}"
+      },
+      {
+        "text": "At rest",
+        "latex": "\\text{At rest}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Along direction of propagation",
+      "latex": "\\text{Along direction of propagation}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Examples of Waves",
+    "familyId": "sound_wave_type",
+    "questionText": "Sound waves in air are:",
+    "questionLatex": "\\text{Sound waves in air are:}",
+    "options": [
+      {
+        "text": "Transverse waves",
+        "latex": "\\text{Transverse waves}"
+      },
+      {
+        "text": "Longitudinal waves",
+        "latex": "\\text{Longitudinal waves}"
+      },
+      {
+        "text": "Electromagnetic waves",
+        "latex": "\\text{Electromagnetic waves}"
+      },
+      {
+        "text": "Matter waves",
+        "latex": "\\text{Matter waves}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Longitudinal waves",
+      "latex": "\\text{Longitudinal waves}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Examples of Waves",
+    "familyId": "wave_on_string",
+    "questionText": "Waves travelling on a stretched string are generally:",
+    "questionLatex": "\\text{Waves travelling on a stretched string are generally:}",
+    "options": [
+      {
+        "text": "Longitudinal",
+        "latex": "\\text{Longitudinal}"
+      },
+      {
+        "text": "Transverse",
+        "latex": "\\text{Transverse}"
+      },
+      {
+        "text": "Electromagnetic",
+        "latex": "\\text{Electromagnetic}"
+      },
+      {
+        "text": "Matter waves",
+        "latex": "\\text{Matter waves}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Transverse",
+      "latex": "\\text{Transverse}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Characteristics",
+    "familyId": "crest_definition",
+    "questionText": "The point of maximum positive displacement in a wave is called:",
+    "questionLatex": "\\text{The point of maximum positive displacement in a wave is called:}",
+    "options": [
+      {
+        "text": "Node",
+        "latex": "\\text{Node}"
+      },
+      {
+        "text": "Trough",
+        "latex": "\\text{Trough}"
+      },
+      {
+        "text": "Crest",
+        "latex": "\\text{Crest}"
+      },
+      {
+        "text": "Antinode",
+        "latex": "\\text{Antinode}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Crest",
+      "latex": "\\text{Crest}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Characteristics",
+    "familyId": "trough_definition",
+    "questionText": "The point of maximum negative displacement in a wave is called:",
+    "questionLatex": "\\text{The point of maximum negative displacement in a wave is called:}",
+    "options": [
+      {
+        "text": "Crest",
+        "latex": "\\text{Crest}"
+      },
+      {
+        "text": "Node",
+        "latex": "\\text{Node}"
+      },
+      {
+        "text": "Trough",
+        "latex": "\\text{Trough}"
+      },
+      {
+        "text": "Origin",
+        "latex": "\\text{Origin}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Trough",
+      "latex": "\\text{Trough}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Motion",
+    "familyId": "wave_energy_transport",
+    "questionText": "State whether matter is transported along with the wave during wave propagation.",
+    "questionLatex": "\\text{State whether matter is transported along with the wave during wave propagation.}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "short",
+      "text": "No. A wave transfers energy and information, but there is no net transfer of matter as a whole.",
+      "latex": "\\text{No. A wave transfers energy and information, but there is no net transfer of matter as a whole.}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Progressive Wave Equation",
+    "familyId": "wave_equation_identification",
+    "questionText": "The displacement equation of a progressive harmonic wave travelling in the positive x-direction is:",
+    "questionLatex": "y(x,t)=a\\sin(kx-\\omega t+\\phi)",
+    "options": [
+      {
+        "text": "y = a sin(kx − ωt + φ)",
+        "latex": "y=a\\sin(kx-\\omega t+\\phi)"
+      },
+      {
+        "text": "y = a sin(kx + ωt + φ)",
+        "latex": "y=a\\sin(kx+\\omega t+\\phi)"
+      },
+      {
+        "text": "y = axωt",
+        "latex": "y=ax\\omega t"
+      },
+      {
+        "text": "y = a cos(ωt)",
+        "latex": "y=a\\cos(\\omega t)"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "y = a sin(kx − ωt + φ)",
+      "latex": "y=a\\sin(kx-\\omega t+\\phi)"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Amplitude",
+    "familyId": "amplitude_definition",
+    "questionText": "The maximum displacement of a particle from its equilibrium position in a wave is called:",
+    "questionLatex": "\\text{The maximum displacement of a particle from its equilibrium position in a wave is called:}",
+    "options": [
+      {
+        "text": "Frequency",
+        "latex": "\\nu"
+      },
+      {
+        "text": "Amplitude",
+        "latex": "a"
+      },
+      {
+        "text": "Phase",
+        "latex": "\\phi"
+      },
+      {
+        "text": "Wavelength",
+        "latex": "\\lambda"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Amplitude",
+      "latex": "a"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Phase",
+    "familyId": "phase_definition",
+    "questionText": "In the wave equation y = a sin(kx − ωt + φ), the quantity (kx − ωt + φ) is called:",
+    "questionLatex": "\\text{In the wave equation } y = a \\sin(kx - \\omega t + \\phi) \\text{, the quantity } (kx - \\omega t + \\phi) \\text{ is called:}",
+    "options": [
+      {
+        "text": "Amplitude",
+        "latex": "a"
+      },
+      {
+        "text": "Phase",
+        "latex": "kx-\\omega t+\\phi"
+      },
+      {
+        "text": "Frequency",
+        "latex": "\\nu"
+      },
+      {
+        "text": "Velocity",
+        "latex": "v"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Phase",
+      "latex": "kx-\\omega t+\\phi"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wavelength",
+    "familyId": "wavelength_definition",
+    "questionText": "The minimum distance between two consecutive points having the same phase is called:",
+    "questionLatex": "\\text{The minimum distance between two consecutive points having the same phase is called:}",
+    "options": [
+      {
+        "text": "Amplitude",
+        "latex": "a"
+      },
+      {
+        "text": "Period",
+        "latex": "T"
+      },
+      {
+        "text": "Wavelength",
+        "latex": "\\lambda"
+      },
+      {
+        "text": "Frequency",
+        "latex": "\\nu"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Wavelength",
+      "latex": "\\lambda"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Angular Wave Number",
+    "familyId": "wave_number_relation",
+    "questionText": "The angular wave number k is related to wavelength λ by:",
+    "questionLatex": "k = \\frac{2\\pi}{\\lambda}",
+    "options": [
+      {
+        "text": "k = λ/2π",
+        "latex": "k=\\frac{\\lambda}{2\\pi}"
+      },
+      {
+        "text": "k = 2π/λ",
+        "latex": "k=\\frac{2\\pi}{\\lambda}"
+      },
+      {
+        "text": "k = λ²",
+        "latex": "k=\\lambda^2"
+      },
+      {
+        "text": "k = 1/(2πλ)",
+        "latex": "k=\\frac{1}{2\\pi\\lambda}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "k = 2π/λ",
+      "latex": "k=\\frac{2\\pi}{\\lambda}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Time Period",
+    "familyId": "period_definition",
+    "questionText": "The time taken by a particle of the medium to complete one oscillation is called:",
+    "questionLatex": "\\text{The time taken by a particle of the medium to complete one oscillation is called:}",
+    "options": [
+      {
+        "text": "Amplitude",
+        "latex": "a"
+      },
+      {
+        "text": "Frequency",
+        "latex": "\\nu"
+      },
+      {
+        "text": "Time period",
+        "latex": "T"
+      },
+      {
+        "text": "Phase",
+        "latex": "\\phi"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Time period",
+      "latex": "T"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Angular Frequency",
+    "familyId": "angular_frequency_relation",
+    "questionText": "The angular frequency ω is related to time period T by:",
+    "questionLatex": "\\omega = \\frac{2\\pi}{T}",
+    "options": [
+      {
+        "text": "ω = T/2π",
+        "latex": "\\omega=\\frac{T}{2\\pi}"
+      },
+      {
+        "text": "ω = 2π/T",
+        "latex": "\\omega=\\frac{2\\pi}{T}"
+      },
+      {
+        "text": "ω = T²",
+        "latex": "\\omega=T^2"
+      },
+      {
+        "text": "ω = 1/T²",
+        "latex": "\\omega=\\frac{1}{T^2}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ω = 2π/T",
+      "latex": "\\omega=\\frac{2\\pi}{T}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Frequency",
+    "familyId": "frequency_relation",
+    "questionText": "The relation between frequency ν and time period T is:",
+    "questionLatex": "\\nu = \\frac{1}{T}",
+    "options": [
+      {
+        "text": "ν = T",
+        "latex": "\\nu=T"
+      },
+      {
+        "text": "ν = T²",
+        "latex": "\\nu=T^2"
+      },
+      {
+        "text": "ν = 1/T",
+        "latex": "\\nu=\\frac{1}{T}"
+      },
+      {
+        "text": "ν = 2πT",
+        "latex": "\\nu=2\\pi T"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "ν = 1/T",
+      "latex": "\\nu=\\frac{1}{T}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Numerical",
+    "familyId": "wavelength_from_k",
+    "questionText": "A wave has angular wave number k = 20π rad m⁻¹. Calculate its wavelength.",
+    "questionLatex": "k = 20\\pi \\text{ rad m}^{-1}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "0.1 m",
+      "latex": "0.1\\text{ m}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Numerical",
+    "familyId": "frequency_from_period",
+    "questionText": "Calculate the frequency of a wave whose time period is 0.02 s.",
+    "questionLatex": "T = 0.02\\text{ s}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "50 Hz",
+      "latex": "50\\text{ Hz}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Speed",
+    "familyId": "wave_speed_relation",
+    "questionText": "The speed of a wave is related to its frequency and wavelength by:",
+    "questionLatex": "v = \\nu \\lambda",
+    "options": [
+      {
+        "text": "v = ν/λ",
+        "latex": "v = \\frac{\\nu}{\\lambda}"
+      },
+      {
+        "text": "v = νλ",
+        "latex": "v = \\nu \\lambda"
+      },
+      {
+        "text": "v = λ/ν",
+        "latex": "v = \\frac{\\lambda}{\\nu}"
+      },
+      {
+        "text": "v = ν + λ",
+        "latex": "v = \\nu + \\lambda"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v = νλ",
+      "latex": "v = \\nu \\lambda"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Speed",
+    "familyId": "wave_speed_frequency_effect",
+    "questionText": "If the frequency of a wave doubles while its wavelength remains unchanged, the wave speed becomes:",
+    "questionLatex": "v = \\nu \\lambda",
+    "options": [
+      {
+        "text": "Half",
+        "latex": "\\frac{v}{2}"
+      },
+      {
+        "text": "Double",
+        "latex": "2v"
+      },
+      {
+        "text": "Unchanged",
+        "latex": "v"
+      },
+      {
+        "text": "Four times",
+        "latex": "4v"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Double",
+      "latex": "2v"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Transverse Waves on String",
+    "familyId": "string_wave_speed_formula",
+    "questionText": "The speed of a transverse wave on a stretched string is given by:",
+    "questionLatex": "v = \\sqrt{\\frac{T}{\\mu}}",
+    "options": [
+      {
+        "text": "v = √(μ/T)",
+        "latex": "v = \\sqrt{\\frac{\\mu}{T}}"
+      },
+      {
+        "text": "v = √(T/μ)",
+        "latex": "v = \\sqrt{\\frac{T}{\\mu}}"
+      },
+      {
+        "text": "v = Tμ",
+        "latex": "v = T\\mu"
+      },
+      {
+        "text": "v = T/μ",
+        "latex": "v = \\frac{T}{\\mu}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v = √(T/μ)",
+      "latex": "v = \\sqrt{\\frac{T}{\\mu}}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Linear Mass Density",
+    "familyId": "linear_density_definition",
+    "questionText": "Linear mass density of a string is defined as:",
+    "questionLatex": "\\mu = \\frac{m}{L}",
+    "options": [
+      {
+        "text": "mL",
+        "latex": "mL"
+      },
+      {
+        "text": "m/L",
+        "latex": "\\frac{m}{L}"
+      },
+      {
+        "text": "L/m",
+        "latex": "\\frac{L}{m}"
+      },
+      {
+        "text": "mL²",
+        "latex": "mL^2"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "m/L",
+      "latex": "\\frac{m}{L}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "String Wave Speed",
+    "familyId": "tension_dependence",
+    "questionText": "The speed of a transverse wave on a stretched string increases when:",
+    "questionLatex": "v \\propto \\sqrt{T}",
+    "options": [
+      {
+        "text": "Tension decreases",
+        "latex": "T \\downarrow"
+      },
+      {
+        "text": "Tension increases",
+        "latex": "T \\uparrow"
+      },
+      {
+        "text": "Linear density increases",
+        "latex": "\\mu \\uparrow"
+      },
+      {
+        "text": "Mass increases only",
+        "latex": "m \\uparrow"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Tension increases",
+      "latex": "T \\uparrow"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Sound Waves",
+    "familyId": "speed_sound_medium",
+    "questionText": "The speed of sound in a medium depends primarily on:",
+    "questionLatex": "v = \\sqrt{\\frac{B}{\\rho}}",
+    "options": [
+      {
+        "text": "Colour of the medium",
+        "latex": "\\text{Colour}"
+      },
+      {
+        "text": "Bulk modulus and density",
+        "latex": "B, \\rho"
+      },
+      {
+        "text": "Shape of the container",
+        "latex": "\\text{Shape}"
+      },
+      {
+        "text": "Mass of source only",
+        "latex": "m"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Bulk modulus and density",
+      "latex": "B, \\rho"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Newton's Formula",
+    "familyId": "newton_formula",
+    "questionText": "Newton assumed the compression and rarefaction process in air during sound propagation to be:",
+    "questionLatex": "\\text{Isothermal}",
+    "options": [
+      {
+        "text": "Adiabatic",
+        "latex": "\\text{Adiabatic}"
+      },
+      {
+        "text": "Isothermal",
+        "latex": "\\text{Isothermal}"
+      },
+      {
+        "text": "Isochoric",
+        "latex": "\\text{Isochoric}"
+      },
+      {
+        "text": "Isobaric",
+        "latex": "\\text{Isobaric}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Isothermal",
+      "latex": "\\text{Isothermal}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Laplace Correction",
+    "familyId": "laplace_correction",
+    "questionText": "Laplace corrected Newton's formula by assuming sound propagation in air to be:",
+    "questionLatex": "\\text{Adiabatic}",
+    "options": [
+      {
+        "text": "Isothermal",
+        "latex": "\\text{Isothermal}"
+      },
+      {
+        "text": "Adiabatic",
+        "latex": "\\text{Adiabatic}"
+      },
+      {
+        "text": "Isochoric",
+        "latex": "\\text{Isochoric}"
+      },
+      {
+        "text": "Constant velocity",
+        "latex": "\\text{Constant Velocity}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Adiabatic",
+      "latex": "\\text{Adiabatic}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Wave Numerical",
+    "familyId": "wave_speed_numerical",
+    "questionText": "A wave has frequency 50 Hz and wavelength 4 m. Calculate its speed.",
+    "questionLatex": "v = \\nu \\lambda",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "200 m s⁻¹",
+      "latex": "200\\,\\text{m}\\,\\text{s}^{-1}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "String Wave Numerical",
+    "familyId": "string_speed_numerical",
+    "questionText": "A stretched string is under a tension of 100 N and has linear mass density 0.01 kg m⁻¹. Calculate the speed of transverse waves on the string.",
+    "questionLatex": "v = \\sqrt{\\frac{T}{\\mu}}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "100 m s⁻¹",
+      "latex": "100\\,\\text{m}\\,\\text{s}^{-1}"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Closed Organ Pipe",
+    "familyId": "closed_pipe_fundamental",
+    "questionText": "For a closed organ pipe of length L, the fundamental frequency is:",
+    "questionLatex": "\\nu_1 = \\frac{v}{4L}",
+    "options": [
+      {
+        "text": "v/2L",
+        "latex": "\\frac{v}{2L}"
+      },
+      {
+        "text": "v/4L",
+        "latex": "\\frac{v}{4L}"
+      },
+      {
+        "text": "2v/L",
+        "latex": "\\frac{2v}{L}"
+      },
+      {
+        "text": "v/L",
+        "latex": "\\frac{v}{L}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v/4L",
+      "latex": "\\frac{v}{4L}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Closed Organ Pipe",
+    "familyId": "closed_pipe_harmonics",
+    "questionText": "Which harmonics are present in a closed organ pipe?",
+    "questionLatex": "\\nu_n = (2n-1)\\nu_1",
+    "options": [
+      {
+        "text": "All harmonics",
+        "latex": "n = 1, 2, 3, \\dots"
+      },
+      {
+        "text": "Only even harmonics",
+        "latex": "2n"
+      },
+      {
+        "text": "Only odd harmonics",
+        "latex": "2n-1"
+      },
+      {
+        "text": "No harmonics",
+        "latex": "0"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Only odd harmonics",
+      "latex": "2n-1"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Open Organ Pipe",
+    "familyId": "open_pipe_harmonics",
+    "questionText": "Which harmonics are present in an open organ pipe?",
+    "questionLatex": "\\nu_n = n\\nu_1",
+    "options": [
+      {
+        "text": "Only odd harmonics",
+        "latex": "2n-1"
+      },
+      {
+        "text": "Only even harmonics",
+        "latex": "2n"
+      },
+      {
+        "text": "All harmonics",
+        "latex": "n = 1, 2, 3, \\dots"
+      },
+      {
+        "text": "Fundamental only",
+        "latex": "\\nu_1"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "All harmonics",
+      "latex": "n = 1, 2, 3, \\dots"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Beats",
+    "familyId": "beats_definition",
+    "questionText": "Beats are produced when two sound waves of:",
+    "questionLatex": "\\nu_1 \\approx \\nu_2",
+    "options": [
+      {
+        "text": "Equal amplitudes only",
+        "latex": "A_1 = A_2"
+      },
+      {
+        "text": "Slightly different frequencies interfere",
+        "latex": "\\nu_1 \\approx \\nu_2"
+      },
+      {
+        "text": "Very large frequencies interfere",
+        "latex": "\\nu \\to \\infty"
+      },
+      {
+        "text": "Different wavelengths only",
+        "latex": "\\lambda_1 \\ne \\lambda_2"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Slightly different frequencies interfere",
+      "latex": "\\nu_1 \\approx \\nu_2"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Beats",
+    "familyId": "beats_frequency_formula",
+    "questionText": "The beat frequency is given by:",
+    "questionLatex": "\\nu_b = |\\nu_1 - \\nu_2|",
+    "options": [
+      {
+        "text": "ν₁ + ν₂",
+        "latex": "\\nu_1 + \\nu_2"
+      },
+      {
+        "text": "|ν₁ − ν₂|",
+        "latex": "|\\nu_1 - \\nu_2|"
+      },
+      {
+        "text": "ν₁ν₂",
+        "latex": "\\nu_1 \\nu_2"
+      },
+      {
+        "text": "ν₁/ν₂",
+        "latex": "\\frac{\\nu_1}{\\nu_2}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "|ν₁ − ν₂|",
+      "latex": "|\\nu_1 - \\nu_2|"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Resonance",
+    "familyId": "resonance_air_column",
+    "questionText": "Resonance in an air column occurs when the frequency of the tuning fork becomes equal to:",
+    "questionLatex": "\\nu = \\nu_n",
+    "options": [
+      {
+        "text": "Half the natural frequency",
+        "latex": "\\frac{\\nu_n}{2}"
+      },
+      {
+        "text": "Double the natural frequency",
+        "latex": "2\\nu_n"
+      },
+      {
+        "text": "Natural frequency of the air column",
+        "latex": "\\nu_n"
+      },
+      {
+        "text": "Zero",
+        "latex": "0"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Natural frequency of the air column",
+      "latex": "\\nu_n"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Speed of Sound",
+    "familyId": "temperature_effect_sound",
+    "questionText": "The speed of sound in air increases with:",
+    "questionLatex": "v \\propto \\sqrt{T}",
+    "options": [
+      {
+        "text": "Decrease in temperature",
+        "latex": "T \\downarrow"
+      },
+      {
+        "text": "Increase in temperature",
+        "latex": "T \\uparrow"
+      },
+      {
+        "text": "Increase in humidity only",
+        "latex": "H \\uparrow"
+      },
+      {
+        "text": "Decrease in pressure only",
+        "latex": "P \\downarrow"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Increase in temperature",
+      "latex": "T \\uparrow"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Beats Numerical",
+    "familyId": "beats_numerical",
+    "questionText": "Two tuning forks produce frequencies of 256 Hz and 260 Hz. Calculate the beat frequency.",
+    "questionLatex": "\\nu_b = |\\nu_1 - \\nu_2|",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "4 Hz",
+      "latex": "4\\,\\text{Hz}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Closed Organ Pipe Numerical",
+    "familyId": "closed_pipe_numerical",
+    "questionText": "A closed organ pipe has length 0.85 m. If the speed of sound is 340 m s⁻¹, calculate its fundamental frequency.",
+    "questionLatex": "\\nu_1 = \\frac{v}{4L}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "100 Hz",
+      "latex": "100\\,\\text{Hz}"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Waves",
+    "topic": "Open Organ Pipe Numerical",
+    "familyId": "open_pipe_numerical",
+    "questionText": "An open organ pipe has length 0.85 m. If the speed of sound in air is 340 m s⁻¹, calculate its fundamental frequency.",
+    "questionLatex": "\\nu_1 = \\frac{v}{2L}",
+    "options": [],
+    "correctOptionIndex": null,
+    "answer": {
+      "type": "numeric",
+      "text": "200 Hz",
+      "latex": "200\\,\\text{Hz}"
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

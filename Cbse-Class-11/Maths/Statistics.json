@@ -1,0 +1,1272 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Introduction to Statistics",
+    "familyId": "statistics_basic_concept",
+    "questionText": "Statistics is primarily concerned with the collection, presentation, analysis and interpretation of:",
+    "questionLatex": "\\text{Data analysis and interpretation}",
+    "options": [
+      "Equations",
+      "Data",
+      "Functions",
+      "Matrices"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Data",
+      "explanation": "Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "identify_measure_dispersion",
+    "questionText": "Which of the following is a measure of dispersion?",
+    "questionLatex": "\\text{Measure of Dispersion}",
+    "options": [
+      "Mean",
+      "Median",
+      "Range",
+      "Mode"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Range",
+      "explanation": "Range, mean deviation, and standard deviation are measures of dispersion, whereas mean, median, and mode are measures of central tendency."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Range",
+    "familyId": "range_formula",
+    "questionText": "The range of a data set is equal to:",
+    "questionLatex": "\\text{Range} = x_{\\text{max}} - x_{\\text{min}}",
+    "options": [
+      "Mean - Median",
+      "Maximum - Minimum",
+      "Median - Mode",
+      "Maximum + Minimum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Maximum − Minimum",
+      "explanation": "The range is defined as the difference between the maximum and minimum values in a data set."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Range",
+    "familyId": "calculate_range",
+    "questionText": "Find the range of the data: 12, 18, 25, 30, 40.",
+    "questionLatex": "\\text{Data: } \\{12, 18, 25, 30, 40\\}",
+    "options": [
+      "18",
+      "25",
+      "28",
+      "30"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "28",
+      "explanation": "Range = Maximum value - Minimum value = 40 - 12 = 28."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "mean_deviation_definition",
+    "questionText": "Mean deviation about a central value is the mean of the:",
+    "questionLatex": "\\text{Mean Deviation} = \\frac{1}{n} \\sum |x_i - A|",
+    "options": [
+      "Deviations",
+      "Squares of deviations",
+      "Absolute values of deviations",
+      "Cubes of deviations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Absolute values of deviations",
+      "explanation": "Mean deviation is calculated by taking the average of the absolute differences between each data point and the central value (mean or median)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "mean_deviation_about_mean",
+    "questionText": "Find the mean of the observations 2, 4, 6, 8.",
+    "questionLatex": "\\bar{x} = \\frac{2+4+6+8}{4}",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "5",
+      "explanation": "Mean = Sum of observations / Number of observations = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "sum_deviation_mean",
+    "questionText": "The sum of deviations of observations from their arithmetic mean is:",
+    "questionLatex": "\\sum_{i=1}^{n} (x_i - \\bar{x})",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "Depends on data"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0",
+      "explanation": "A fundamental property of the arithmetic mean is that the sum of deviations of all observations from it is always zero."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "identify_not_dispersion",
+    "questionText": "Which of the following is NOT a measure of dispersion?",
+    "questionLatex": "\\text{Measure of Central Tendency}",
+    "options": [
+      "Range",
+      "Mean Deviation",
+      "Standard Deviation",
+      "Median"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Median",
+      "explanation": "Median is a measure of central tendency, not a measure of dispersion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "mean_deviation_median",
+    "questionText": "Mean deviation is commonly calculated about:",
+    "questionLatex": "\\text{Central Values}",
+    "options": [
+      "Mean and Median",
+      "Mode and Mean",
+      "Range and Median",
+      "Quartiles only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Mean and Median",
+      "explanation": "Mean deviation is typically computed relative to the mean or the median of a data set."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Range",
+    "familyId": "range_comparison",
+    "questionText": "Two data sets have ranges 15 and 40 respectively. Which data set is more dispersed according to range?",
+    "questionLatex": "\\text{Range}_1 = 15, \\text{Range}_2 = 40",
+    "options": [
+      "First data set",
+      "Second data set",
+      "Both equally dispersed",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Second data set",
+      "explanation": "A higher range value indicates greater dispersion (spread) in the data set."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation for Ungrouped Data",
+    "familyId": "mean_deviation_ungrouped_basic",
+    "questionText": "Find the mean deviation about the mean for the data: 4, 6, 8.",
+    "questionLatex": "\\text{Data: } 4, 6, 8",
+    "options": [
+      "0",
+      "\\frac{4}{3}",
+      "2",
+      "3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "\\frac{4}{3}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "absolute_deviation_concept",
+    "questionText": "The absolute deviation of 12 from 8 is:",
+    "questionLatex": "|12-8|",
+    "options": [
+      "-4",
+      "4",
+      "8",
+      "20"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "4"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Median",
+    "familyId": "median_odd_observations",
+    "questionText": "Find the median of the data: 3, 5, 7, 9, 11.",
+    "questionLatex": "\\text{Data: } 3, 5, 7, 9, 11",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "7"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Median",
+    "familyId": "median_even_observations",
+    "questionText": "Find the median of the data: 2, 4, 6, 8, 10, 12.",
+    "questionLatex": "\\text{Data: } 2, 4, 6, 8, 10, 12",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "7"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation About Median",
+    "familyId": "md_about_median_basic",
+    "questionText": "Find the mean deviation about the median for the data: 1, 3, 5, 7, 9.",
+    "questionLatex": "\\text{Data: } 1, 3, 5, 7, 9",
+    "options": [
+      "2.4",
+      "3.2",
+      "4.0",
+      "5.0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "2.4"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Discrete Frequency Distribution",
+    "familyId": "frequency_total",
+    "questionText": "For the distribution x: 2, 4, 6 and frequencies 3, 5, 2 respectively, find the total frequency.",
+    "questionLatex": "N=\\sum f_i",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "10"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Discrete Frequency Distribution",
+    "familyId": "mean_discrete_frequency",
+    "questionText": "Find the mean of the distribution x: 1, 2, 3 with frequencies 2, 3, 5 respectively.",
+    "questionLatex": "\\bar{x}=\\frac{\\sum f_ix_i}{\\sum f_i}",
+    "options": [
+      "2.1",
+      "2.3",
+      "2.5",
+      "2.7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "2.3"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "md_zero_case",
+    "questionText": "What is the mean deviation of the observations 5, 5, 5, 5 about their mean?",
+    "questionLatex": "\\text{Data: } 5, 5, 5, 5",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "10"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Continuous Frequency Distribution",
+    "familyId": "class_midpoint",
+    "questionText": "Find the class mark of the class interval 20–30.",
+    "questionLatex": "\\frac{20+30}{2}",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "25"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation for Grouped Data",
+    "familyId": "md_grouped_formula",
+    "questionText": "In the formula for mean deviation about mean in a discrete frequency distribution, the denominator is:",
+    "questionLatex": "\\text{M.D.}(\\bar{x})=\\frac{\\sum f_i|x_i-\\bar{x}|}{N}",
+    "options": [
+      "\\sum x_i",
+      "\\sum f_i",
+      "\\sum f_ix_i",
+      "\\bar{x}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "\\sum f_i"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_definition",
+    "questionText": "Variance is defined as the mean of the:",
+    "questionLatex": "\\sigma^2=\\frac{\\sum_{i=1}^{n} (x_i-\\bar{x})^2}{n}",
+    "options": [
+      "Deviations",
+      "Absolute deviations",
+      "Squares of deviations",
+      "Cubes of deviations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Variance is the arithmetic mean of the squares of the deviations from the mean."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "standard_deviation_definition",
+    "questionText": "Standard deviation is defined as the positive square root of:",
+    "questionLatex": "\\sigma=\\sqrt{\\sigma^2}",
+    "options": [
+      "Mean",
+      "Median",
+      "Variance",
+      "Range"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Standard deviation is defined as the positive square root of the variance."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_equal_observations",
+    "questionText": "Find the variance of the observations: 6, 6, 6, 6.",
+    "questionLatex": "\\text{Data: } 6, 6, 6, 6",
+    "options": [
+      "0",
+      "1",
+      "6",
+      "36"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since all observations are equal to the mean (6), the deviations are all zero, resulting in a variance of 0."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "sd_equal_observations",
+    "questionText": "Find the standard deviation of the observations: 8, 8, 8, 8.",
+    "questionLatex": "\\text{Data: } 8, 8, 8, 8",
+    "options": [
+      "0",
+      "1",
+      "4",
+      "8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since all observations are identical, there is no dispersion, and the standard deviation is 0."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "calculate_sd_simple",
+    "questionText": "Find the standard deviation of the observations: 2, 4, 6.",
+    "questionLatex": "\\text{Data: } 2, 4, 6",
+    "options": [
+      "$\\sqrt{8/3}$",
+      "$\\sqrt{2}$",
+      "$2$",
+      "$\\sqrt{8}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Mean $\\bar{x} = 4$. Variance $\\sigma^2 = \\frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{3} = \\frac{4+0+4}{3} = \\frac{8}{3}$. Standard deviation $\\sigma = \\sqrt{8/3}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "cv_definition",
+    "questionText": "The coefficient of variation (C.V.) is given by:",
+    "questionLatex": "\\text{C.V.} = \\frac{\\sigma}{\\bar{x}} \\times 100",
+    "options": [
+      "$\\frac{\\bar{x}}{\\sigma} \\times 100$",
+      "$\\frac{\\sigma}{\\bar{x}} \\times 100$",
+      "$\\sigma \\times \\bar{x}$",
+      "$\\frac{\\sigma^2}{\\bar{x}}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The formula for the coefficient of variation is $(\\text{Standard Deviation} / \\text{Mean}) \\times 100$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "cv_interpretation",
+    "questionText": "A smaller coefficient of variation indicates:",
+    "questionLatex": "\\text{C.V. Interpretation}",
+    "options": [
+      "Greater variability",
+      "Less consistency",
+      "Greater consistency",
+      "Larger mean"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A smaller coefficient of variation implies that the data set is more consistent and has less variability relative to its mean."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_formula_discrete",
+    "questionText": "For a discrete frequency distribution, the variance is:",
+    "questionLatex": "\\sigma^2 = \\frac{\\sum f_i(x_i-\\bar{x})^2}{\\sum f_i}",
+    "options": [
+      "$\\frac{\\sum f_i(x_i-\\bar{x})}{\\sum f_i}$",
+      "$\\frac{\\sum f_i|x_i-\\bar{x}|}{\\sum f_i}$",
+      "$\\frac{\\sum f_i(x_i-\\bar{x})^2}{\\sum f_i}$",
+      "$\\sum f_i(x_i-\\bar{x})^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The formula for variance in a discrete frequency distribution is $\\frac{\\sum f_i(x_i-\\bar{x})^2}{N}$, where $N = \\sum f_i$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "sd_vs_variance",
+    "questionText": "If the variance of a distribution is 49, then its standard deviation is:",
+    "questionLatex": "\\sigma^2 = 49",
+    "options": [
+      "7",
+      "14",
+      "24.5",
+      "98"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Standard deviation is the square root of the variance: $\\sigma = \\sqrt{49} = 7$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "best_measure_dispersion",
+    "questionText": "Which measure of dispersion is considered most reliable because it is based on all observations?",
+    "questionLatex": "\\text{Best Measure of Dispersion}",
+    "options": [
+      "Range",
+      "Mean Deviation",
+      "Standard Deviation",
+      "Quartile Deviation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Standard deviation is considered the most reliable and widely used measure of dispersion as it accounts for every observation in the data set."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_basic_calculation",
+    "questionText": "Find the variance of the observations 1, 2, 3.",
+    "questionLatex": "\\text{Data: } \\{1, 2, 3\\}",
+    "options": [
+      "$\\frac{2}{3}$",
+      "$1$",
+      "$\\frac{4}{3}$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{2}{3}$",
+      "explanation": "Mean $\\bar{x} = (1+2+3)/3 = 2$. Variance $\\sigma^2 = \\frac{(1-2)^2 + (2-2)^2 + (3-2)^2}{3} = \\frac{1+0+1}{3} = \\frac{2}{3}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "sd_basic_calculation",
+    "questionText": "Find the standard deviation of the observations 1, 2, 3.",
+    "questionLatex": "\\text{Data: } \\{1, 2, 3\\}",
+    "options": [
+      "$\\sqrt{\\frac{2}{3}}$",
+      "$\\sqrt{2}$",
+      "$1$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\sqrt{\\frac{2}{3}}$",
+      "explanation": "Standard deviation is the square root of variance. Variance = 2/3, so $\\sigma = \\sqrt{2/3}$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "cv_calculation",
+    "questionText": "If the mean of a distribution is 20 and the standard deviation is 4, find the coefficient of variation.",
+    "questionLatex": "\\text{C.V.}=\\frac{\\sigma}{\\bar{x}}\\times 100",
+    "options": [
+      "10%",
+      "20%",
+      "25%",
+      "40%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "20%",
+      "explanation": "C.V. = (SD / Mean) * 100 = (4 / 20) * 100 = 0.2 * 100 = 20%."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "compare_consistency",
+    "questionText": "Two series have coefficients of variation 12% and 18% respectively. Which series is more consistent?",
+    "questionLatex": "\\text{Compare consistency using C.V.}",
+    "options": [
+      "First series",
+      "Second series",
+      "Both are equally consistent",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "First series",
+      "explanation": "A smaller coefficient of variation indicates higher consistency."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Step Deviation Method",
+    "familyId": "assumed_mean_concept",
+    "questionText": "In the step-deviation method, the symbol A generally represents:",
+    "questionLatex": "A",
+    "options": [
+      "Actual mean",
+      "Assumed mean",
+      "Arithmetic progression",
+      "Class interval"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Assumed mean",
+      "explanation": "A is the standard symbol used for the Assumed Mean in statistical calculations."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coding Method",
+    "familyId": "coding_variable",
+    "questionText": "In the coding method for standard deviation, $u_i$ is defined as:",
+    "questionLatex": "u_i=\\frac{x_i-A}{h}",
+    "options": [
+      "$\\frac{x_i+A}{h}$",
+      "$\\frac{x_i-A}{h}$",
+      "$\\frac{x_i}{A}$",
+      "$\\frac{A}{x_i}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{x_i-A}{h}$",
+      "explanation": "The step-deviation transformation is $u_i = (x_i - A) / h$, where $h$ is the class size."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "standard_deviation_property",
+    "questionText": "Standard deviation is always:",
+    "questionLatex": "\\sigma",
+    "options": [
+      "Negative",
+      "Positive or zero",
+      "Greater than mean",
+      "Less than variance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Positive or zero",
+      "explanation": "As a square root of a non-negative variance, standard deviation is always non-negative."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_non_negative",
+    "questionText": "Variance of any distribution is always:",
+    "questionLatex": "\\sigma^2",
+    "options": [
+      "Negative",
+      "Positive only",
+      "Non-negative",
+      "Equal to mean"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Non-negative",
+      "explanation": "Since variance is the mean of squared deviations, it cannot be negative."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "cv_zero_sd",
+    "questionText": "If the standard deviation of a distribution is zero, then its coefficient of variation is:",
+    "questionLatex": "\\sigma=0",
+    "options": [
+      "0%",
+      "1%",
+      "100%",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0%",
+      "explanation": "If $\\sigma = 0$, then C.V. = (0 / Mean) * 100 = 0%."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "dispersion_comparison",
+    "questionText": "Which measure of dispersion takes into account every observation and is algebraically tractable?",
+    "questionLatex": "\\text{Measure of Dispersion}",
+    "options": [
+      "Range",
+      "Quartile Deviation",
+      "Mean Deviation",
+      "Standard Deviation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Standard Deviation",
+      "explanation": "Standard deviation uses all observations and is the most mathematically convenient for further algebraic analysis."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_shift_property",
+    "questionText": "If a constant 5 is added to each observation of a data set, then the variance:",
+    "questionLatex": "$x_i \\rightarrow x_i + 5$",
+    "options": [
+      "Increases by 5",
+      "Decreases by 5",
+      "Remains unchanged",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Remains unchanged"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "sd_shift_property",
+    "questionText": "If a constant is added to every observation of a data set, the standard deviation:",
+    "questionLatex": "$x_i \\rightarrow x_i + k$",
+    "options": [
+      "Increases by k",
+      "Decreases by k",
+      "Remains unchanged",
+      "Becomes twice"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Remains unchanged"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Variance",
+    "familyId": "variance_scaling_property",
+    "questionText": "If each observation is multiplied by 3, then the variance becomes:",
+    "questionLatex": "$x_i \\rightarrow 3x_i$",
+    "options": [
+      "$3\\sigma^2$",
+      "$6\\sigma^2$",
+      "$9\\sigma^2$",
+      "$27\\sigma^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$9\\sigma^2$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "sd_scaling_property",
+    "questionText": "If each observation of a data set is multiplied by 4, then the standard deviation becomes:",
+    "questionLatex": "$x_i \\rightarrow 4x_i$",
+    "options": [
+      "$2\\sigma$",
+      "$4\\sigma$",
+      "$8\\sigma$",
+      "$16\\sigma$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$4\\sigma$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Coefficient of Variation",
+    "familyId": "cv_consistency_selection",
+    "questionText": "Among two series, the series having the smaller coefficient of variation is considered:",
+    "questionLatex": "$\\text{Compare using C.V.}$",
+    "options": [
+      "Less consistent",
+      "More consistent",
+      "More dispersed",
+      "Less reliable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "More consistent"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Standard Deviation",
+    "familyId": "variance_sd_relation",
+    "questionText": "If the standard deviation of a distribution is 12, then its variance is:",
+    "questionLatex": "$\\sigma = 12$",
+    "options": [
+      "12",
+      "24",
+      "72",
+      "144"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "144"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Step Deviation Method",
+    "familyId": "step_deviation_h",
+    "questionText": "In the coding method for standard deviation, h represents:",
+    "questionLatex": "$u_i = \\frac{x_i - A}{h}$",
+    "options": [
+      "Mean",
+      "Class width/common factor",
+      "Frequency",
+      "Variance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Class width/common factor"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Mean Deviation",
+    "familyId": "minimum_md_property",
+    "questionText": "Mean deviation is minimum when taken about the:",
+    "questionLatex": "$\\text{Minimum Mean Deviation}$",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Median"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "zero_dispersion_case",
+    "questionText": "If all observations in a data set are identical, then the standard deviation is:",
+    "questionLatex": "$x_1 = x_2 = \\dots = x_n$",
+    "options": [
+      "0",
+      "1",
+      "Equal to mean",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "topic": "Measures of Dispersion",
+    "familyId": "best_measure_identification",
+    "questionText": "Which measure of dispersion is most widely used in statistical analysis?",
+    "questionLatex": "$\\text{Measure of Dispersion}$",
+    "options": [
+      "Range",
+      "Mean Deviation",
+      "Standard Deviation",
+      "Interquartile Range"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Standard Deviation"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

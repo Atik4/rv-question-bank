@@ -1,0 +1,1414 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Ordered Pairs",
+    "familyId": "ordered_pair_equality",
+    "questionText": "If (x + 1, y - 2) = (3, 1), find the values of x and y.",
+    "questionLatex": "(x + 1, \\; y - 2) = (3, 1)",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x = 2, y = 3",
+      "latex": "x = 2, \\; y = 3"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "cartesian_product_definition",
+    "questionText": "The Cartesian product A × B consists of:",
+    "questionLatex": "A \\times B",
+    "options": [
+      {
+        "text": "All subsets of A and B",
+        "latex": "\\text{All subsets of A and B}"
+      },
+      {
+        "text": "All ordered pairs (a, b) where a ∈ A and b ∈ B",
+        "latex": "\\text{All ordered pairs } (a, b) \\text{ where } a \\in A \\text{ and } b \\in B"
+      },
+      {
+        "text": "All common elements of A and B",
+        "latex": "\\text{All common elements of A and B}"
+      },
+      {
+        "text": "All unordered pairs from A and B",
+        "latex": "\\text{All unordered pairs from A and B}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "All ordered pairs (a, b) where a ∈ A and b ∈ B",
+      "latex": "\\text{All ordered pairs } (a, b) \\text{ where } a \\in A \\text{ and } b \\in B",
+      "explanation": "A × B is the set of all ordered pairs (a,b) with a ∈ A and b ∈ B."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "form_cartesian_product",
+    "questionText": "If P = {a, b, c} and Q = {r}, form the set P × Q.",
+    "questionLatex": "P = \\{a, b, c\\}, \\; Q = \\{r\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{(a, r), (b, r), (c, r)}",
+      "latex": "\\{(a, r), (b, r), (c, r)\\}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "cartesian_product_size",
+    "questionText": "If n(A) = 4 and n(B) = 5, find n(A × B).",
+    "questionLatex": "n(A) = 4, \\; n(B) = 5",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "20",
+      "latex": "20",
+      "value": 20
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "cartesian_product_not_commutative",
+    "questionText": "Which of the following statements is generally true?",
+    "questionLatex": "\\text{Choose the correct statement}",
+    "options": [
+      {
+        "text": "A × B = B × A",
+        "latex": "A \\times B = B \\times A"
+      },
+      {
+        "text": "A × B ≠ B × A",
+        "latex": "A \\times B \\neq B \\times A"
+      },
+      {
+        "text": "A × B = A ∩ B",
+        "latex": "A \\times B = A \\cap B"
+      },
+      {
+        "text": "A × B = A ∪ B",
+        "latex": "A \\times B = A \\cup B"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A × B ≠ B × A",
+      "latex": "A \\times B \\neq B \\times A",
+      "explanation": "The order of elements in ordered pairs matters."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "empty_cartesian_product",
+    "questionText": "If A = ∅ and B = {1, 2, 3}, then A × B is equal to:",
+    "questionLatex": "A = \\emptyset, \\; B = \\{1, 2, 3\\}",
+    "options": [
+      {
+        "text": "{(1,2), (2,3)}",
+        "latex": "\\{(1, 2), (2, 3)\\}"
+      },
+      {
+        "text": "{1, 2, 3}",
+        "latex": "\\{1, 2, 3\\}"
+      },
+      {
+        "text": "∅",
+        "latex": "\\emptyset"
+      },
+      {
+        "text": "{(∅, 1)}",
+        "latex": "\\{(\\emptyset, 1)\\}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "∅",
+      "latex": "\\emptyset",
+      "explanation": "If either set is empty, the Cartesian product is empty."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Ordered Triplets",
+    "familyId": "ordered_triplet",
+    "questionText": "If P = {1, 2}, form the set P × P × P.",
+    "questionLatex": "P = \\{1, 2\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{(1,1,1), (1,1,2), (1,2,1), (1,2,2), (2,1,1), (2,1,2), (2,2,1), (2,2,2)}",
+      "latex": "\\{(1, 1, 1), (1, 1, 2), (1, 2, 1), (1, 2, 2), (2, 1, 1), (2, 1, 2), (2, 2, 1), (2, 2, 2)\\}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "find_sets_from_product",
+    "questionText": "If A × B = {(p,q), (p,r), (m,q), (m,r)}, find the sets A and B.",
+    "questionLatex": "A \\times B = \\{(p, q), (p, r), (m, q), (m, r)\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "A = {p, m}, B = {q, r}",
+      "latex": "A = \\{p, m\\}, \\; B = \\{q, r\\}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "intersection_cartesian_product",
+    "questionText": "Let A = {1,2,3}, B = {3,4} and C = {4,5,6}. Find B ∩ C.",
+    "questionLatex": "B = \\{3, 4\\}, \\; C = \\{4, 5, 6\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{4}",
+      "latex": "\\{4\\}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cartesian Product",
+    "familyId": "cartesian_product_coordinates",
+    "questionText": "What does the Cartesian product R × R represent?",
+    "questionLatex": "\\mathbb{R} \\times \\mathbb{R}",
+    "options": [
+      {
+        "text": "Coordinates of points in one-dimensional space",
+        "latex": "\\text{Coordinates of points in one-dimensional space}"
+      },
+      {
+        "text": "Coordinates of points in two-dimensional space",
+        "latex": "\\text{Coordinates of points in two-dimensional space}"
+      },
+      {
+        "text": "Coordinates of points in three-dimensional space",
+        "latex": "\\text{Coordinates of points in three-dimensional space}"
+      },
+      {
+        "text": "Only positive coordinates",
+        "latex": "\\text{Only positive coordinates}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Coordinates of points in two-dimensional space",
+      "latex": "\\text{Coordinates of points in two-dimensional space}",
+      "explanation": "R × R represents all ordered pairs of real numbers."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_definition",
+    "questionText": "A relation from a set A to a set B is defined as:",
+    "questionLatex": "\\text{Relation from } A \\text{ to } B",
+    "options": [
+      {
+        "text": "A subset of A",
+        "latex": "\\text{A subset of A}"
+      },
+      {
+        "text": "A subset of B",
+        "latex": "\\text{A subset of B}"
+      },
+      {
+        "text": "A subset of A × B",
+        "latex": "\\text{A subset of } A \\times B"
+      },
+      {
+        "text": "A subset of B × A only",
+        "latex": "\\text{A subset of } B \\times A \\text{ only}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "A subset of A × B",
+      "latex": "\\text{A subset of } A \\times B",
+      "explanation": "A relation from A to B is any subset of A × B."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_roster_form",
+    "questionText": "Let A = {1, 2, 3, 4, 5, 6}. Define a relation R on A by y = x + 1. Write R in roster form.",
+    "questionLatex": "R = \\{(x, y) : y = x + 1, \\; x, y \\in A\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{(1, 2), (2, 3), (3, 4), (4, 5), (5, 6)}",
+      "latex": "\\{(1, 2), (2, 3), (3, 4), (4, 5), (5, 6)\\}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Domain and Range",
+    "familyId": "domain_of_relation",
+    "questionText": "Find the domain of the relation R = {(1,2), (2,3), (3,4), (4,5), (5,6)}.",
+    "questionLatex": "R = \\{(1, 2), (2, 3), (3, 4), (4, 5), (5, 6)\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, 2, 3, 4, 5}",
+      "latex": "\\{1, 2, 3, 4, 5\\}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Domain and Range",
+    "familyId": "range_of_relation",
+    "questionText": "Find the range of the relation R = {(1,2), (2,3), (3,4), (4,5), (5,6)}.",
+    "questionLatex": "R = \\{(1, 2), (2, 3), (3, 4), (4, 5), (5, 6)\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{2, 3, 4, 5, 6}",
+      "latex": "\\{2, 3, 4, 5, 6\\}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Domain and Range",
+    "familyId": "codomain_identification",
+    "questionText": "If A = {1,2,3,4,5,6} and R is a relation from A to A defined by y = x + 1, what is the codomain of R?",
+    "questionLatex": "R = \\{(x, y) : y = x + 1\\}",
+    "options": [
+      {
+        "text": "{1,2,3,4,5}",
+        "latex": "\\{1, 2, 3, 4, 5\\}"
+      },
+      {
+        "text": "{2,3,4,5,6}",
+        "latex": "\\{2, 3, 4, 5, 6\\}"
+      },
+      {
+        "text": "{1,2,3,4,5,6}",
+        "latex": "\\{1, 2, 3, 4, 5, 6\\}"
+      },
+      {
+        "text": "{6}",
+        "latex": "\\{6\\}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "{1,2,3,4,5,6}",
+      "latex": "\\{1, 2, 3, 4, 5, 6\\}",
+      "explanation": "The codomain is the entire target set A."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_set_builder",
+    "questionText": "Write in roster form the relation R from N to N defined by y = x + 5, where x < 4.",
+    "questionLatex": "R = \\{(x, y) : y = x + 5, \\; x < 4\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{(1, 6), (2, 7), (3, 8)}",
+      "latex": "\\{(1, 6), (2, 7), (3, 8)\\}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_domain_range",
+    "questionText": "For the relation R = {(1,6), (2,7), (3,8)}, find the domain.",
+    "questionLatex": "R = \\{(1, 6), (2, 7), (3, 8)\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, 2, 3}",
+      "latex": "\\{1, 2, 3\\}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_domain_range2",
+    "questionText": "For the relation R = {(1,6), (2,7), (3,8)}, find the range.",
+    "questionLatex": "R = \\{(1, 6), (2, 7), (3, 8)\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{6, 7, 8}",
+      "latex": "\\{6, 7, 8\\}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "number_of_relations",
+    "questionText": "Let A = {1, 2} and B = {3, 4}. Find the number of relations from A to B.",
+    "questionLatex": "A = \\{1, 2\\}, \\; B = \\{3, 4\\}",
+    "options": [
+      {
+        "text": "4",
+        "latex": "4"
+      },
+      {
+        "text": "8",
+        "latex": "8"
+      },
+      {
+        "text": "16",
+        "latex": "16"
+      },
+      {
+        "text": "32",
+        "latex": "32"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "16",
+      "latex": "16",
+      "explanation": "n(A×B) = 4, so number of relations = 2⁴ = 16."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations",
+    "familyId": "relation_count_formula",
+    "questionText": "If n(A) = 3 and n(B) = 2, then the total number of relations from A to B is:",
+    "questionLatex": "n(A) = 3, \\; n(B) = 2",
+    "options": [
+      {
+        "text": "6",
+        "latex": "6"
+      },
+      {
+        "text": "12",
+        "latex": "12"
+      },
+      {
+        "text": "32",
+        "latex": "32"
+      },
+      {
+        "text": "64",
+        "latex": "64"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "64",
+      "latex": "64",
+      "explanation": "n(A×B) = 6, therefore number of relations = 2⁶ = 64."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions",
+    "familyId": "function_definition",
+    "questionText": "A relation f from a set A to a set B is called a function if:",
+    "questionLatex": "\\text{Definition of a function}",
+    "options": [
+      {
+        "text": "Every element of B has exactly one image in A",
+        "latex": "\\text{Every element of B has exactly one image in A}"
+      },
+      {
+        "text": "Every element of A has one and only one image in B",
+        "latex": "\\text{Every element of A has one and only one image in B}"
+      },
+      {
+        "text": "Every element of A has more than one image in B",
+        "latex": "\\text{Every element of A has more than one image in B}"
+      },
+      {
+        "text": "Every element of B is related to every element of A",
+        "latex": "\\text{Every element of B is related to every element of A}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Every element of A has one and only one image in B",
+      "latex": "\\text{Every element of A has one and only one image in B}",
+      "explanation": "A function assigns exactly one image in B to every element of A."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions",
+    "familyId": "identify_function",
+    "questionText": "Which of the following relations is a function?",
+    "questionLatex": "\\text{Identify the function}",
+    "options": [
+      {
+        "text": "{(2,2), (2,4), (3,3), (4,4)}",
+        "latex": "\\{(2, 2), (2, 4), (3, 3), (4, 4)\\}"
+      },
+      {
+        "text": "{(1,3), (1,5), (2,5)}",
+        "latex": "\\{(1, 3), (1, 5), (2, 5)\\}"
+      },
+      {
+        "text": "{(2,1), (3,1), (4,2)}",
+        "latex": "\\{(2, 1), (3, 1), (4, 2)\\}"
+      },
+      {
+        "text": "{(1,2), (1,3), (2,4)}",
+        "latex": "\\{(1, 2), (1, 3), (2, 4)\\}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "{(2,1), (3,1), (4,2)}",
+      "latex": "\\{(2, 1), (3, 1), (4, 2)\\}",
+      "explanation": "Each first element has exactly one image."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions",
+    "familyId": "function_domain_range",
+    "questionText": "Let N be the set of natural numbers and R = {(x,y): y = 2x}. What is the range of R?",
+    "questionLatex": "R = \\{(x, y) : y = 2x, \\; x, y \\in \\mathbb{N}\\}",
+    "options": [
+      {
+        "text": "All natural numbers",
+        "latex": "\\text{All natural numbers}"
+      },
+      {
+        "text": "All odd natural numbers",
+        "latex": "\\text{All odd natural numbers}"
+      },
+      {
+        "text": "All even natural numbers",
+        "latex": "\\text{All even natural numbers}"
+      },
+      {
+        "text": "{2}",
+        "latex": "\\{2\\}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "All even natural numbers",
+      "latex": "\\text{All even natural numbers}",
+      "explanation": "The images are all even natural numbers."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Real Valued Functions",
+    "familyId": "real_valued_function",
+    "questionText": "A function whose range is R or a subset of R is called:",
+    "questionLatex": "\\text{Real valued function}",
+    "options": [
+      {
+        "text": "Constant function",
+        "latex": "\\text{Constant function}"
+      },
+      {
+        "text": "Identity function",
+        "latex": "\\text{Identity function}"
+      },
+      {
+        "text": "Real valued function",
+        "latex": "\\text{Real valued function}"
+      },
+      {
+        "text": "Polynomial function",
+        "latex": "\\text{Polynomial function}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Real valued function",
+      "latex": "\\text{Real valued function}",
+      "explanation": "Its range lies in the set of real numbers."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Function Evaluation",
+    "familyId": "evaluate_function",
+    "questionText": "Let f(x) = 2x + 1. Find f(5).",
+    "questionLatex": "f(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "11",
+      "latex": "11",
+      "value": 11
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Function Evaluation",
+    "familyId": "evaluate_function_multiple",
+    "questionText": "Let f(x) = 2x + 1. Find f(7).",
+    "questionLatex": "f(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "15",
+      "latex": "15",
+      "value": 15
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Identity Function",
+    "familyId": "identity_function",
+    "questionText": "The identity function on R is defined by:",
+    "questionLatex": "\\text{Identity function}",
+    "options": [
+      {
+        "text": "f(x) = 0",
+        "latex": "f(x) = 0"
+      },
+      {
+        "text": "f(x) = 1",
+        "latex": "f(x) = 1"
+      },
+      {
+        "text": "f(x) = x",
+        "latex": "f(x) = x"
+      },
+      {
+        "text": "f(x) = x²",
+        "latex": "f(x) = x^2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "f(x) = x",
+      "latex": "f(x) = x",
+      "explanation": "For every x ∈ R, f(x) = x."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Constant Function",
+    "familyId": "constant_function",
+    "questionText": "For the constant function f(x) = 3, the range is:",
+    "questionLatex": "f(x) = 3",
+    "options": [
+      {
+        "text": "{0}",
+        "latex": "\\{0\\}"
+      },
+      {
+        "text": "{1}",
+        "latex": "\\{1\\}"
+      },
+      {
+        "text": "{3}",
+        "latex": "\\{3\\}"
+      },
+      {
+        "text": "R",
+        "latex": "\\mathbb{R}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "{3}",
+      "latex": "\\{3\\}",
+      "explanation": "Every input maps to 3."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Polynomial Function",
+    "familyId": "identify_polynomial",
+    "questionText": "Which of the following is a polynomial function?",
+    "questionLatex": "\\text{Polynomial function}",
+    "options": [
+      {
+        "text": "f(x) = x³ − x² + 2",
+        "latex": "f(x) = x^3 - x^2 + 2"
+      },
+      {
+        "text": "f(x) = √x + x²",
+        "latex": "f(x) = \\sqrt{x} + x^2"
+      },
+      {
+        "text": "f(x) = 1/x",
+        "latex": "f(x) = 1/x"
+      },
+      {
+        "text": "f(x) = |x|",
+        "latex": "f(x) = |x|"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "f(x) = x³ − x² + 2",
+      "latex": "f(x) = x^3 - x^2 + 2",
+      "explanation": "All powers of x are non-negative integers."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Quadratic Function",
+    "familyId": "quadratic_function_values",
+    "questionText": "For the function f(x) = x², find f(-3).",
+    "questionLatex": "f(x) = x^2",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "9",
+      "latex": "9",
+      "value": 9
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Quadratic Function",
+    "familyId": "quadratic_function_values",
+    "questionText": "For the function f(x) = x², find f(4).",
+    "questionLatex": "f(x) = x^2",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "16",
+      "latex": "16",
+      "value": 16
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Quadratic Function",
+    "familyId": "quadratic_function_domain",
+    "questionText": "For the function f(x) = x², what is its domain?",
+    "questionLatex": "f(x) = x^2",
+    "options": [
+      {
+        "text": "All real numbers",
+        "latex": "\\text{All real numbers}"
+      },
+      {
+        "text": "Positive real numbers only",
+        "latex": "\\text{Positive real numbers only}"
+      },
+      {
+        "text": "Integers only",
+        "latex": "\\text{Integers only}"
+      },
+      {
+        "text": "Natural numbers only",
+        "latex": "\\text{Natural numbers only}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "All real numbers",
+      "latex": "\\text{All real numbers}",
+      "explanation": "The quadratic function x² is defined for every real number."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Quadratic Function",
+    "familyId": "quadratic_function_range",
+    "questionText": "For the function f(x) = x², what is its range?",
+    "questionLatex": "f(x) = x^2",
+    "options": [
+      {
+        "text": "All real numbers",
+        "latex": "\\text{All real numbers}"
+      },
+      {
+        "text": "x ≥ 0",
+        "latex": "x \\geq 0"
+      },
+      {
+        "text": "x > 0",
+        "latex": "x > 0"
+      },
+      {
+        "text": "x ≤ 0",
+        "latex": "x \\leq 0"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "x ≥ 0",
+      "latex": "x \\geq 0",
+      "explanation": "The square of any real number is non-negative."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Cubic Function",
+    "familyId": "cubic_function_values",
+    "questionText": "For the function f(x) = x³, find f(-2).",
+    "questionLatex": "f(x) = x^3",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "-8",
+      "latex": "-8",
+      "value": -8
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Rational Function",
+    "familyId": "rational_function_evaluation",
+    "questionText": "For the function f(x) = 1/x, find f(2).",
+    "questionLatex": "f(x) = \\frac{1}{x}",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "0.5",
+      "latex": "\\frac{1}{2}",
+      "value": 0.5
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Rational Function",
+    "familyId": "rational_function_domain",
+    "questionText": "The domain of the function f(x) = 1/x is:",
+    "questionLatex": "f(x) = \\frac{1}{x}",
+    "options": [
+      {
+        "text": "R",
+        "latex": "\\mathbb{R}"
+      },
+      {
+        "text": "R − {0}",
+        "latex": "\\mathbb{R} - \\{0\\}"
+      },
+      {
+        "text": "{0}",
+        "latex": "\\{0\\}"
+      },
+      {
+        "text": "Positive real numbers only",
+        "latex": "\\text{Positive real numbers only}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "R − {0}",
+      "latex": "\\mathbb{R} - \\{0\\}",
+      "explanation": "The function is undefined at x = 0."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Modulus Function",
+    "familyId": "modulus_function_value",
+    "questionText": "Find the value of |−7|.",
+    "questionLatex": "|{-7}|",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "7",
+      "latex": "7",
+      "value": 7
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Modulus Function",
+    "familyId": "modulus_definition",
+    "questionText": "If x < 0, then |x| is equal to:",
+    "questionLatex": "|x|",
+    "options": [
+      {
+        "text": "x",
+        "latex": "x"
+      },
+      {
+        "text": "-x",
+        "latex": "-x"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-x",
+      "latex": "-x",
+      "explanation": "For negative values of x, |x| = -x."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Signum Function",
+    "familyId": "signum_function_positive",
+    "questionText": "Find the value of the signum function at x = 5.",
+    "questionLatex": "\\operatorname{sgn}(5)",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "1",
+      "latex": "1",
+      "value": 1
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Signum Function",
+    "familyId": "signum_function_range",
+    "questionText": "What is the range of the signum function?",
+    "questionLatex": "\\operatorname{sgn}(x)",
+    "options": [
+      {
+        "text": "{0, 1}",
+        "latex": "\\{0, 1\\}"
+      },
+      {
+        "text": "{-1, 1}",
+        "latex": "\\{-1, 1\\}"
+      },
+      {
+        "text": "{-1, 0, 1}",
+        "latex": "\\{-1, 0, 1\\}"
+      },
+      {
+        "text": "R",
+        "latex": "\\mathbb{R}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "{-1, 0, 1}",
+      "latex": "\\{-1, 0, 1\\}",
+      "explanation": "The signum function can take only the values -1, 0 and 1."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Greatest Integer Function",
+    "familyId": "greatest_integer_value",
+    "questionText": "Find the value of [2.8], where [x] denotes the greatest integer function.",
+    "questionLatex": "[2.8]",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "2",
+      "latex": "2",
+      "value": 2
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Greatest Integer Function",
+    "familyId": "greatest_integer_negative",
+    "questionText": "Find the value of [-0.3].",
+    "questionLatex": "[-0.3]",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "-1",
+      "latex": "-1",
+      "value": -1
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Greatest Integer Function",
+    "familyId": "greatest_integer_definition",
+    "questionText": "The greatest integer function [x] gives:",
+    "questionLatex": "[x]",
+    "options": [
+      {
+        "text": "The smallest integer greater than or equal to x",
+        "latex": "\\text{The smallest integer greater than or equal to } x"
+      },
+      {
+        "text": "The greatest integer less than or equal to x",
+        "latex": "\\text{The greatest integer less than or equal to } x"
+      },
+      {
+        "text": "The nearest integer to x",
+        "latex": "\\text{The nearest integer to } x"
+      },
+      {
+        "text": "The integer part of x rounded off",
+        "latex": "\\text{The integer part of } x \\text{ rounded off}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The greatest integer less than or equal to x",
+      "latex": "\\text{The greatest integer less than or equal to } x",
+      "explanation": "The greatest integer function returns the greatest integer less than or equal to x."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Algebra of Functions",
+    "familyId": "addition_of_functions",
+    "questionText": "Let f(x) = x² and g(x) = 2x + 1. Find (f + g)(x).",
+    "questionLatex": "f(x) = x^2, \\; g(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x² + 2x + 1",
+      "latex": "x^2 + 2x + 1"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Algebra of Functions",
+    "familyId": "subtraction_of_functions",
+    "questionText": "Let f(x) = x² and g(x) = 2x + 1. Find (f − g)(x).",
+    "questionLatex": "f(x) = x^2, \\; g(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x² − 2x − 1",
+      "latex": "x^2 - 2x - 1"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Algebra of Functions",
+    "familyId": "product_of_functions",
+    "questionText": "Let f(x) = x² and g(x) = 2x + 1. Find (fg)(x).",
+    "questionLatex": "f(x) = x^2, \\; g(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "2x³ + x²",
+      "latex": "2x^3 + x^2"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Algebra of Functions",
+    "familyId": "quotient_of_functions",
+    "questionText": "Let f(x) = x² and g(x) = 2x + 1. Find (f / g)(x).",
+    "questionLatex": "f(x) = x^2, \\; g(x) = 2x + 1",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x²/(2x + 1), x ≠ -1/2",
+      "latex": "\\frac{x^2}{2x + 1}, \\; x \\neq -\\frac{1}{2}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Linear Function",
+    "familyId": "linear_function_evaluation",
+    "questionText": "If f(x) = 2x − 5, find f(7).",
+    "questionLatex": "f(x) = 2x - 5",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "9",
+      "latex": "9",
+      "value": 9
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Linear Function",
+    "familyId": "linear_function_evaluation_negative",
+    "questionText": "If f(x) = 2x − 5, find f(−3).",
+    "questionLatex": "f(x) = 2x - 5",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "-11",
+      "latex": "-11",
+      "value": -11
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Domain of Function",
+    "familyId": "rational_function_domain",
+    "questionText": "Find the domain of the function f(x) = (x² + 3x + 5)/(x² − 5x + 4).",
+    "questionLatex": "f(x) = \\frac{x^2 + 3x + 5}{x^2 - 5x + 4}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "R − {1, 4}",
+      "latex": "\\mathbb{R} - \\{1, 4\\}"
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  }
+]
