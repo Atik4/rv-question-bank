@@ -1,0 +1,1103 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Introduction to Nuclei",
+    "familyId": "nucleus_mass_concentration",
+    "questionText": "Where is most of the mass of an atom concentrated?",
+    "questionLatex": "$\\text{Mass Distribution in Atom}$",
+    "options": [
+      "Electron cloud",
+      "Outer shell",
+      "Nucleus",
+      "Entire atom uniformly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Nucleus"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Atomic Mass Unit",
+    "familyId": "amu_definition",
+    "questionText": "Define one atomic mass unit (1 u).",
+    "questionLatex": "$1\\,u = \\frac{1}{12} \\times \\text{mass of } \\,^{12}_{6}\\text{C atom}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "One atomic mass unit is defined as one-twelfth of the mass of a carbon-12 atom."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Atomic Mass Unit",
+    "familyId": "amu_value",
+    "questionText": "The value of one atomic mass unit is:",
+    "questionLatex": "$1\\,u$",
+    "options": [
+      "1.6605 × 10^-27 kg",
+      "9.11 × 10^-31 kg",
+      "1.67 × 10^-24 kg",
+      "6.63 × 10^-34 kg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "1.6605 × 10^-27 kg"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Isotopes",
+    "familyId": "isotope_definition",
+    "questionText": "What are isotopes?",
+    "questionLatex": "$\\text{Isotopes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Atoms of the same element having the same atomic number but different mass numbers are called isotopes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Hydrogen Isotopes",
+    "familyId": "hydrogen_isotopes",
+    "questionText": "Which of the following is not an isotope of hydrogen?",
+    "questionLatex": "$\\text{Hydrogen Isotopes}$",
+    "options": [
+      "Protium",
+      "Deuterium",
+      "Tritium",
+      "Helium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Helium"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Neutron Discovery",
+    "familyId": "neutron_discovery",
+    "questionText": "Who discovered the neutron?",
+    "questionLatex": "$\\text{Discovery of Neutron}$",
+    "options": [
+      "Rutherford",
+      "Bohr",
+      "James Chadwick",
+      "Einstein"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "James Chadwick"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Composition",
+    "familyId": "mass_number_relation",
+    "questionText": "Write the relation between mass number (A), atomic number (Z) and neutron number (N).",
+    "questionLatex": "$A = Z + N$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "A=Z+N"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Composition",
+    "familyId": "nucleon_definition",
+    "questionText": "What is meant by a nucleon?",
+    "questionLatex": "$\\text{Nucleon}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A nucleon is a constituent particle of the nucleus, namely a proton or a neutron."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclide Notation",
+    "familyId": "gold_nucleus_composition",
+    "questionText": "How many neutrons are present in the nucleus of $^{197}_{79}Au$?",
+    "questionLatex": "$N = A - Z = 197 - 79$",
+    "options": [
+      "79",
+      "118",
+      "197",
+      "276"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "118"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclides",
+    "familyId": "nuclide_representation",
+    "questionText": "What does the symbol X in the notation $^{A}_{Z}X$ represent?",
+    "questionLatex": "$^{A}_{Z}X$",
+    "options": [
+      "Mass number",
+      "Atomic number",
+      "Chemical symbol of the element",
+      "Number of neutrons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Chemical symbol of the element"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Classification of Nuclides",
+    "familyId": "isobars_definition",
+    "questionText": "What are isobars?",
+    "questionLatex": "$\\text{Isobars}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nuclides having the same mass number A but different atomic numbers Z are called isobars."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Classification of Nuclides",
+    "familyId": "isotones_definition",
+    "questionText": "What are isotones?",
+    "questionLatex": "$\\text{Isotones}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nuclides having the same neutron number N but different atomic numbers Z are called isotones."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Classification of Nuclides",
+    "familyId": "identify_isobars",
+    "questionText": "Which of the following pair represents isobars?",
+    "questionLatex": "$^{3}_{1}\\text{H and }^{3}_{2}\\text{He}$",
+    "options": [
+      "¹H and ²H",
+      "³H and ³He",
+      "¹²C and ¹³C",
+      "¹⁴N and ¹⁶O"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "³H and ³He"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Size",
+    "familyId": "nuclear_radius_formula",
+    "questionText": "Write the empirical relation for the radius of a nucleus.",
+    "questionLatex": "$R = R_0 A^{1/3}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "R = R_0 A^{1/3}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Size",
+    "familyId": "r0_value",
+    "questionText": "The value of R₀ used in the nuclear radius relation is approximately:",
+    "questionLatex": "$R_0$",
+    "options": [
+      "1.2 × 10^-15 m",
+      "1.2 × 10^-10 m",
+      "1.2 × 10^-12 m",
+      "1.2 × 10^-18 m"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "1.2 × 10^-15 m"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Density",
+    "familyId": "density_independence",
+    "questionText": "Why is nuclear density nearly independent of mass number?",
+    "questionLatex": "$R = R_0 A^{1/3}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Since nuclear volume is proportional to A and nuclear mass is also proportional to A, the ratio mass/volume remains nearly constant for all nuclei."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Density",
+    "familyId": "nuclear_density_value",
+    "questionText": "The approximate density of nuclear matter is:",
+    "questionLatex": "$\\rho$",
+    "options": [
+      "10^3 kg m^-3",
+      "10^10 kg m^-3",
+      "2.3 × 10^17 kg m^-3",
+      "10^25 kg m^-3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "2.3 × 10^17 kg m^-3"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mass-Energy Equivalence",
+    "familyId": "einstein_relation",
+    "questionText": "State Einstein's mass-energy equivalence relation.",
+    "questionLatex": "$E = mc^2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "E = mc^2"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mass-Energy Equivalence",
+    "familyId": "energy_of_one_gram",
+    "questionText": "Calculate the energy equivalent of 1 g of matter.",
+    "questionLatex": "$E = mc^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 9e13,
+      "unit": "J",
+      "steps": [
+        "$m = 10^{-3}\\,\\text{kg}$",
+        "$c = 3 \\times 10^8\\,\\text{m s}^{-1}$",
+        "$E = mc^2$",
+        "$E = 10^{-3} \\times (3 \\times 10^8)^2$",
+        "$E = 9 \\times 10^{13}\\,\\text{J}$"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Radius Numerical",
+    "familyId": "radius_carbon12",
+    "questionText": "Calculate the radius of a carbon nucleus (A = 12). Take R₀ = 1.2 × 10^-15 m.",
+    "questionLatex": "$R = R_0 A^{1/3}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2.75e-15,
+      "unit": "m",
+      "steps": [
+        "$R = 1.2 \\times 10^{-15} \\times 12^{1/3}$",
+        "$12^{1/3} \\approx 2.289$",
+        "$R \\approx 2.75 \\times 10^{-15}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mass Defect",
+    "familyId": "mass_defect_definition",
+    "questionText": "What is mass defect of a nucleus?",
+    "questionLatex": "$\\Delta m$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mass defect is the difference between the sum of the masses of the constituent nucleons and the actual mass of the nucleus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mass Defect",
+    "familyId": "mass_defect_formula",
+    "questionText": "Write the expression for mass defect of a nucleus containing Z protons and N neutrons.",
+    "questionLatex": "$\\Delta m = (Z m_p + N m_n) - M$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\Delta m = (Z m_p + N m_n) - M"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy",
+    "familyId": "binding_energy_definition",
+    "questionText": "Define binding energy of a nucleus.",
+    "questionLatex": "$\\text{Binding Energy}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Binding energy is the minimum energy required to separate a nucleus completely into its constituent protons and neutrons."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy",
+    "familyId": "binding_energy_relation",
+    "questionText": "Write the relation between binding energy and mass defect.",
+    "questionLatex": "$\\text{B.E.} = \\Delta m c^2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\text{B.E.} = \\Delta m c^2"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy",
+    "familyId": "one_amu_energy",
+    "questionText": "The energy equivalent of 1 atomic mass unit is:",
+    "questionLatex": "$1\\,u$",
+    "options": [
+      "931.5 MeV",
+      "13.6 eV",
+      "1.6 MeV",
+      "9.31 MeV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "931.5 MeV"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy per Nucleon",
+    "familyId": "binding_energy_per_nucleon_definition",
+    "questionText": "What is binding energy per nucleon?",
+    "questionLatex": "$\\frac{\\text{B.E.}}{A}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Binding energy per nucleon is the average binding energy associated with each nucleon in a nucleus and is obtained by dividing the total binding energy by the mass number."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy per Nucleon",
+    "familyId": "stable_nucleus_characteristic",
+    "questionText": "A nucleus is most stable when it has:",
+    "questionLatex": "$\\text{Stability}$",
+    "options": [
+      "Minimum mass number",
+      "Maximum binding energy per nucleon",
+      "Maximum atomic number",
+      "Minimum neutron number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Maximum binding energy per nucleon"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy Curve",
+    "familyId": "iron_stability",
+    "questionText": "The most stable nuclei are found near:",
+    "questionLatex": "$A \\approx 56$",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Iron",
+      "Uranium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Iron"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy Numerical",
+    "familyId": "binding_energy_from_mass_defect",
+    "questionText": "Calculate the binding energy corresponding to a mass defect of 0.005 u.",
+    "questionLatex": "$\\text{B.E.} = \\Delta m \\times 931.5\\,\\text{MeV}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 4.66,
+      "unit": "MeV",
+      "steps": [
+        "$\\Delta m = 0.005\\,u$",
+        "$\\text{B.E.} = 0.005 \\times 931.5$",
+        "$\\text{B.E.} = 4.6575\\,\\text{MeV}$",
+        "$\\text{B.E.} \\approx 4.66\\,\\text{MeV}$"
+      ]
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Binding Energy Numerical",
+    "familyId": "binding_energy_per_nucleon_calc",
+    "questionText": "A nucleus has a total binding energy of 64 MeV and mass number 8. Calculate its binding energy per nucleon.",
+    "questionLatex": "$\\frac{\\text{B.E.}}{A}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 8,
+      "unit": "MeV",
+      "steps": [
+        "$\\text{Binding energy per nucleon} = \\frac{\\text{Total binding energy}}{\\text{Mass number}}$",
+        "$= \\frac{64}{8}$",
+        "$= 8\\,\\text{MeV}$"
+      ]
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Force",
+    "familyId": "nuclear_force_definition",
+    "questionText": "What is nuclear force?",
+    "questionLatex": "$\\text{Nuclear Force}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nuclear force is the strong attractive force that binds protons and neutrons together inside the nucleus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Force",
+    "familyId": "nuclear_force_range",
+    "questionText": "The range of nuclear forces is approximately:",
+    "questionLatex": "$\\text{Range of Nuclear Force}$",
+    "options": [
+      "10^-10 m",
+      "10^-12 m",
+      "2 × 10^-15 m",
+      "10^-18 m"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "2 × 10^-15 m"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Force",
+    "familyId": "nuclear_force_property",
+    "questionText": "Which of the following is a characteristic property of nuclear forces?",
+    "questionLatex": "$\\text{Properties of Nuclear Force}$",
+    "options": [
+      "Long range force",
+      "Charge dependent force",
+      "Short range and saturating force",
+      "Purely repulsive force"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Short range and saturating force"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactivity",
+    "familyId": "radioactivity_definition",
+    "questionText": "Define radioactivity.",
+    "questionLatex": "$\\text{Radioactivity}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Radioactivity is the spontaneous disintegration of unstable atomic nuclei accompanied by the emission of alpha, beta or gamma radiations."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactivity",
+    "familyId": "radioactivity_discoverer",
+    "questionText": "Who discovered radioactivity?",
+    "questionLatex": "$\\text{Discovery of Radioactivity}$",
+    "options": [
+      "Ernest Rutherford",
+      "Henri Becquerel",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Henri Becquerel"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Alpha Decay",
+    "familyId": "alpha_particle_definition",
+    "questionText": "What is an alpha particle?",
+    "questionLatex": "$^{4}_{2}\\text{He}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An alpha particle is the nucleus of a helium atom consisting of two protons and two neutrons."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay",
+    "familyId": "alpha_decay_effect",
+    "questionText": "In alpha decay, the atomic number and mass number of the parent nucleus change respectively by:",
+    "questionLatex": "$^{A}_{Z}X \\rightarrow ^{A-4}_{Z-2}Y + ^{4}_{2}\\text{He}$",
+    "options": [
+      "-1, -1",
+      "-2, -4",
+      "-4, -2",
+      "+2, +4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "-2, -4"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Beta Decay",
+    "familyId": "beta_decay_equation",
+    "questionText": "During β⁻ decay, a neutron is converted into:",
+    "questionLatex": "$n \\rightarrow p + e^- + \\bar{\\nu}$",
+    "options": [
+      "Proton only",
+      "Proton and electron",
+      "Electron and positron",
+      "Proton and alpha particle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Proton and electron"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay Law",
+    "familyId": "radioactive_decay_law",
+    "questionText": "Write the radioactive decay law.",
+    "questionLatex": "$\\frac{dN}{dt} = -\\lambda N$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\frac{dN}{dt} = -\\lambda N"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay Numerical",
+    "familyId": "activity_calculation",
+    "questionText": "A radioactive sample contains 5 × 10^20 nuclei and has a decay constant of 2 × 10^-6 s^-1. Calculate its activity.",
+    "questionLatex": "$R = \\lambda N$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.0e15,
+      "unit": "Bq",
+      "steps": [
+        "$R = \\lambda N$",
+        "$\\lambda = 2 \\times 10^{-6}\\,\\text{s}^{-1}$",
+        "$N = 5 \\times 10^{20}$",
+        "$R = 2 \\times 10^{-6} \\times 5 \\times 10^{20}$",
+        "$R = 1 \\times 10^{15}\\,\\text{Bq}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay",
+    "familyId": "decay_constant_definition",
+    "questionText": "What is decay constant of a radioactive substance?",
+    "questionLatex": "$\\lambda$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Decay constant is the probability per unit time that a nucleus of a radioactive substance will decay."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Half Life",
+    "familyId": "half_life_definition",
+    "questionText": "Define half-life of a radioactive substance.",
+    "questionLatex": "$T_{1/2}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Half-life is the time required for the number of undecayed nuclei in a radioactive sample to reduce to half of its initial value."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Half Life",
+    "familyId": "half_life_relation",
+    "questionText": "Write the relation between half-life and decay constant.",
+    "questionLatex": "$T_{1/2} = \\frac{0.693}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "T_{1/2} = \\frac{0.693}{\\lambda}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mean Life",
+    "familyId": "mean_life_definition",
+    "questionText": "Define mean life of a radioactive substance.",
+    "questionLatex": "$\\tau$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mean life is the average lifetime of radioactive nuclei before decay."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Mean Life",
+    "familyId": "mean_life_relation",
+    "questionText": "Write the relation between mean life and decay constant.",
+    "questionLatex": "$\\tau = \\frac{1}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\tau = \\frac{1}{\\lambda}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay",
+    "familyId": "remaining_nuclei_formula",
+    "questionText": "Write the expression for the number of undecayed nuclei remaining after time t.",
+    "questionLatex": "$N = N_0 e^{-\\lambda t}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "N = N_0 e^{-\\lambda t}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Fission",
+    "familyId": "nuclear_fission_definition",
+    "questionText": "What is nuclear fission?",
+    "questionLatex": "$\\text{Nuclear Fission}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nuclear fission is the process in which a heavy nucleus splits into two or more lighter nuclei with the release of a large amount of energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Fusion",
+    "familyId": "nuclear_fusion_definition",
+    "questionText": "What is nuclear fusion?",
+    "questionLatex": "$\\text{Nuclear Fusion}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nuclear fusion is the process in which two light nuclei combine to form a heavier nucleus with the release of a large amount of energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Nuclear Reactions",
+    "familyId": "fission_vs_fusion",
+    "questionText": "Which nuclear process powers the Sun and other stars?",
+    "questionLatex": "$\\text{Stellar Energy Source}$",
+    "options": [
+      "Alpha decay",
+      "Beta decay",
+      "Nuclear fission",
+      "Nuclear fusion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Nuclear fusion"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Nuclei",
+    "topic": "Radioactive Decay Numerical",
+    "familyId": "half_life_calculation",
+    "questionText": "A radioactive substance has a decay constant of 1.0 × 10^-4 s^-1. Calculate its half-life.",
+    "questionLatex": "$T_{1/2} = \\frac{0.693}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 6930,
+      "unit": "s",
+      "steps": [
+        "$T_{1/2} = \\frac{0.693}{\\lambda}$",
+        "$\\lambda = 1.0 \\times 10^{-4}\\,\\text{s}^{-1}$",
+        "$T_{1/2} = \\frac{0.693}{1.0 \\times 10^{-4}}$",
+        "$T_{1/2} = 6.93 \\times 10^3\\,\\text{s}$",
+        "$T_{1/2} = 6930\\,\\text{s}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

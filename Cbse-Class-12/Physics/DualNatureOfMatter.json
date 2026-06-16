@@ -1,0 +1,1144 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Electron Emission",
+    "familyId": "work_function_definition",
+    "questionText": "What is the work function of a metal?",
+    "questionLatex": "$\\phi_0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The minimum energy required by an electron to escape from the surface of a metal is called the work function of the metal."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Electron Emission",
+    "familyId": "electron_volt_definition",
+    "questionText": "One electron volt (eV) is equal to:",
+    "questionLatex": "$1\\,\\text{eV} = ?$",
+    "options": [
+      "1.602 × 10^{-17} J",
+      "1.602 × 10^{-19} J",
+      "1.602 × 10^{-21} J",
+      "1.602 × 10^{-23} J"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1.602 × 10^{-19} J"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Electron Emission",
+    "familyId": "thermionic_emission",
+    "questionText": "What is thermionic emission?",
+    "questionLatex": "",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The emission of electrons from a metal surface by supplying sufficient thermal energy through heating is called thermionic emission."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Electron Emission",
+    "familyId": "field_emission",
+    "questionText": "Electrons can be emitted from a metal surface by applying:",
+    "questionLatex": "",
+    "options": [
+      "Strong magnetic field",
+      "Strong electric field",
+      "Strong gravitational field",
+      "Strong sound waves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Strong electric field"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "photoelectric_effect_definition",
+    "questionText": "Define photoelectric effect.",
+    "questionLatex": "",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Photoelectric effect is the phenomenon of emission of electrons from a metal surface when light of suitable frequency falls on it."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "photoelectron_definition",
+    "questionText": "The electrons emitted during photoelectric effect are called:",
+    "questionLatex": "",
+    "options": [
+      "Cathode rays",
+      "Thermions",
+      "Photoelectrons",
+      "Positrons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Photoelectrons"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "hertz_discovery",
+    "questionText": "Who discovered the photoelectric effect in 1887?",
+    "questionLatex": "",
+    "options": [
+      "J. J. Thomson",
+      "Albert Einstein",
+      "Heinrich Hertz",
+      "Millikan"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Heinrich Hertz"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "threshold_frequency_definition",
+    "questionText": "What is threshold frequency?",
+    "questionLatex": "$\\nu_0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Threshold frequency is the minimum frequency of incident radiation required to cause photoelectric emission from a given metal surface."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "photosensitive_metals",
+    "questionText": "Which of the following metals is sensitive even to visible light and exhibits photoelectric emission readily?",
+    "questionLatex": "",
+    "options": [
+      "Iron",
+      "Copper",
+      "Sodium",
+      "Nickel"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Sodium"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Work Function Numerical",
+    "familyId": "work_function_ev_to_joule",
+    "questionText": "Convert a work function of 2.5 eV into joules.",
+    "questionLatex": "$\\phi_0 = 2.5\\,\\text{eV}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 4.005e-19,
+      "unit": "J",
+      "steps": [
+        "$1\\,\\text{eV} = 1.602 \\times 10^{-19}\\,\\text{J}$",
+        "$\\text{Energy} = 2.5 \\times 1.602 \\times 10^{-19}\\,\\text{J}$",
+        "$\\text{Energy} = 4.005 \\times 10^{-19}\\,\\text{J}$"
+      ]
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Current",
+    "familyId": "photocurrent_intensity_relation",
+    "questionText": "How does photoelectric current vary with the intensity of incident light for a given frequency above threshold frequency?",
+    "questionLatex": "$I_p \\propto I$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The photoelectric current is directly proportional to the intensity of the incident light."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Current",
+    "familyId": "saturation_current_definition",
+    "questionText": "What is saturation current in a photoelectric experiment?",
+    "questionLatex": "$\\text{Saturation Current}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The maximum value of photoelectric current obtained when all emitted photoelectrons are collected by the collector plate is called saturation current."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "stopping_potential_definition",
+    "questionText": "Define stopping potential.",
+    "questionLatex": "$V_0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The minimum negative potential applied to the collector plate for which the photoelectric current becomes zero is called the stopping potential."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "stopping_potential_intensity",
+    "questionText": "For a given frequency of incident light, the stopping potential is:",
+    "questionLatex": "$V_0$",
+    "options": [
+      "Directly proportional to intensity",
+      "Inversely proportional to intensity",
+      "Independent of intensity",
+      "Zero for all intensities"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Independent of intensity"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "kinetic_energy_stopping_potential",
+    "questionText": "Write the relation between maximum kinetic energy of photoelectrons and stopping potential.",
+    "questionLatex": "$K_{max} = eV_0$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "K_{max} = eV_0"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "frequency_effect_on_ke",
+    "questionText": "The maximum kinetic energy of photoelectrons increases with:",
+    "questionLatex": "$K_{max} \\propto \\nu$",
+    "options": [
+      "Intensity only",
+      "Frequency of incident light",
+      "Area of emitter",
+      "Distance from source"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Frequency of incident light"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "threshold_frequency_condition",
+    "questionText": "Photoelectric emission is not possible when:",
+    "questionLatex": "$\\nu < \\nu_0$",
+    "options": [
+      "Intensity is high",
+      "Frequency exceeds threshold frequency",
+      "Frequency is below threshold frequency",
+      "Collector is positive"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Frequency is below threshold frequency"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "instantaneous_emission",
+    "questionText": "Photoelectric emission is observed to occur:",
+    "questionLatex": "$\\Delta t \\approx 10^{-9}\\,\\text{s}$",
+    "options": [
+      "After several minutes",
+      "After several seconds",
+      "Instantaneously",
+      "Only at high intensities"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Instantaneously"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Numerical",
+    "familyId": "kinetic_energy_from_stopping_potential",
+    "questionText": "Calculate the maximum kinetic energy of photoelectrons when the stopping potential is 2 V.",
+    "questionLatex": "$K_{max} = eV_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2,
+      "unit": "eV",
+      "steps": [
+        "$K_{max} = eV_0$",
+        "$V_0 = 2\\,\\text{V}$",
+        "$\\therefore K_{max} = 2\\,\\text{eV}$"
+      ]
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Numerical",
+    "familyId": "kinetic_energy_joule",
+    "questionText": "A stopping potential of 1.5 V is required to stop photoelectrons. Calculate their maximum kinetic energy in joules.",
+    "questionLatex": "$K_{max} = eV_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2.403e-19,
+      "unit": "J",
+      "steps": [
+        "$K_{max} = eV_0$",
+        "$e = 1.602 \\times 10^{-19}\\,\\text{C}$",
+        "$V_0 = 1.5\\,\\text{V}$",
+        "$K_{max} = 1.602 \\times 10^{-19} \\times 1.5\\,\\text{J}$",
+        "$K_{max} = 2.403 \\times 10^{-19}\\,\\text{J}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Einstein's Photoelectric Equation",
+    "familyId": "einstein_photoelectric_equation",
+    "questionText": "Write Einstein's photoelectric equation.",
+    "questionLatex": "$h\\nu = \\phi_0 + K_{max}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "h\\nu = \\phi_0 + K_{max}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Einstein's Photoelectric Equation",
+    "familyId": "photoelectric_equation_with_stopping_potential",
+    "questionText": "Express Einstein's photoelectric equation in terms of stopping potential.",
+    "questionLatex": "$h\\nu = \\phi_0 + eV_0$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "h\\nu = \\phi_0 + eV_0"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_energy_formula",
+    "questionText": "Write the expression for the energy of a photon.",
+    "questionLatex": "$E = h\\nu$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "E = h\\nu"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_momentum_formula",
+    "questionText": "Write the expression for the momentum of a photon.",
+    "questionLatex": "$p = \\frac{h}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "p = \\frac{h}{\\lambda}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_rest_mass",
+    "questionText": "The rest mass of a photon is:",
+    "questionLatex": "$m_0$",
+    "options": [
+      "9.1 × 10^{-31} kg",
+      "1.67 × 10^{-27} kg",
+      "Zero",
+      "Depends on frequency"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_properties",
+    "questionText": "Photons possess:",
+    "questionLatex": "$\\text{Photon}$",
+    "options": [
+      "Mass only",
+      "Charge only",
+      "Energy and momentum",
+      "Charge and rest mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Energy and momentum"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "einstein_explanation",
+    "questionText": "Einstein explained the photoelectric effect by assuming that light consists of:",
+    "questionLatex": "$\\text{Photon Theory}$",
+    "options": [
+      "Atoms",
+      "Electrons",
+      "Photons or quanta",
+      "Protons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Photons or quanta"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Numerical",
+    "familyId": "photon_energy_calculation",
+    "questionText": "Calculate the energy of a photon of frequency 6 × 10^{14} Hz. (h = 6.63 × 10^{-34} J s)",
+    "questionLatex": "$E = h\\nu$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.978e-19,
+      "unit": "J",
+      "steps": [
+        "$E = h\\nu$",
+        "$E = 6.63 \\times 10^{-34} \\times 6 \\times 10^{14}$",
+        "$E = 3.978 \\times 10^{-19}\\,\\text{J}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Numerical",
+    "familyId": "maximum_kinetic_energy_calculation",
+    "questionText": "Light of frequency 8 × 10^{14} Hz falls on a metal of work function 2.0 eV. Calculate the maximum kinetic energy of emitted photoelectrons. (h = 6.63 × 10^{-34} J s, 1 eV = 1.602 × 10^{-19} J)",
+    "questionLatex": "$K_{max} = h\\nu - \\phi_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.31,
+      "unit": "eV",
+      "steps": [
+        "$\\text{Photon energy} = h\\nu = 6.63 \\times 10^{-34} \\times 8 \\times 10^{14}$",
+        "$\\text{Photon energy} = 5.304 \\times 10^{-19}\\,\\text{J}$",
+        "$\\text{Photon energy} = 3.31\\,\\text{eV}$",
+        "$K_{max} = 3.31 - 2.0$",
+        "$K_{max} = 1.31\\,\\text{eV}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Numerical",
+    "familyId": "threshold_frequency_calculation",
+    "questionText": "Calculate the threshold frequency of a metal having work function 3.0 eV. (h = 6.63 × 10^{-34} J s, 1 eV = 1.602 × 10^{-19} J)",
+    "questionLatex": "$\\nu_0 = \\frac{\\phi_0}{h}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 7.25e14,
+      "unit": "Hz",
+      "steps": [
+        "$\\phi_0 = 3.0 \\times 1.602 \\times 10^{-19}\\,\\text{J}$",
+        "$\\phi_0 = 4.806 \\times 10^{-19}\\,\\text{J}$",
+        "$\\nu_0 = \\frac{\\phi_0}{h}$",
+        "$\\nu_0 = \\frac{4.806 \\times 10^{-19}}{6.63 \\times 10^{-34}}$",
+        "$\\nu_0 = 7.25 \\times 10^{14}\\,\\text{Hz}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "de Broglie Hypothesis",
+    "familyId": "de_broglie_hypothesis",
+    "questionText": "State de Broglie's hypothesis.",
+    "questionLatex": "$\\lambda = \\frac{h}{p}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to de Broglie, every moving material particle is associated with a wave called matter wave whose wavelength is inversely proportional to its momentum."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves",
+    "familyId": "de_broglie_wavelength_formula",
+    "questionText": "Write the de Broglie wavelength relation for a moving particle.",
+    "questionLatex": "$\\lambda = \\frac{h}{p}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\lambda = \\frac{h}{p}"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves",
+    "familyId": "momentum_relation",
+    "questionText": "The de Broglie wavelength of a particle is inversely proportional to its:",
+    "questionLatex": "$\\lambda \\propto \\frac{1}{p}$",
+    "options": [
+      "Mass",
+      "Velocity",
+      "Momentum",
+      "Energy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Momentum"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves",
+    "familyId": "de_broglie_for_electron",
+    "questionText": "Write the expression for the de Broglie wavelength of an electron accelerated through a potential difference V.",
+    "questionLatex": "$\\lambda = \\frac{h}{\\sqrt{2meV}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\lambda = \\frac{h}{\\sqrt{2meV}}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves",
+    "familyId": "matter_wave_property",
+    "questionText": "Matter waves are associated with:",
+    "questionLatex": "$\\text{Matter Waves}$",
+    "options": [
+      "Only electrons",
+      "Only protons",
+      "Only neutrons",
+      "All moving particles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "All moving particles"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Davisson-Germer Experiment",
+    "familyId": "davisson_germer_significance",
+    "questionText": "The Davisson-Germer experiment provided experimental verification of:",
+    "questionLatex": "$\\text{Davisson-Germer Experiment}$",
+    "options": [
+      "Photoelectric effect",
+      "Compton effect",
+      "de Broglie hypothesis",
+      "Bohr's postulates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "de Broglie hypothesis"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Davisson-Germer Experiment",
+    "familyId": "electron_diffraction",
+    "questionText": "The Davisson-Germer experiment demonstrated that electrons exhibit:",
+    "questionLatex": "$\\text{Electron Diffraction}$",
+    "options": [
+      "Only particle nature",
+      "Only charge property",
+      "Wave nature",
+      "Magnetic nature only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Wave nature"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves Numerical",
+    "familyId": "de_broglie_wavelength_particle",
+    "questionText": "Calculate the de Broglie wavelength of a particle having momentum 6.63 × 10^{-24} kg m s^{-1}. (h = 6.63 × 10^{-34} J s)",
+    "questionLatex": "$\\lambda = \\frac{h}{p}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1e-10,
+      "unit": "m",
+      "steps": [
+        "$\\lambda = \\frac{h}{p}$",
+        "$\\lambda = \\frac{6.63 \\times 10^{-34}}{6.63 \\times 10^{-24}}$",
+        "$\\lambda = 10^{-10}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves Numerical",
+    "familyId": "electron_wavelength_potential",
+    "questionText": "An electron is accelerated through a potential difference of 150 V. Calculate its de Broglie wavelength using λ(Å) = 12.27/√V.",
+    "questionLatex": "$\\lambda(\\text{\\AA}) = \\frac{12.27}{\\sqrt{V}}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.002,
+      "unit": "Å",
+      "steps": [
+        "$V = 150\\,\\text{V}$",
+        "$\\lambda = \\frac{12.27}{\\sqrt{150}}$",
+        "$\\lambda = \\frac{12.27}{12.247}$",
+        "$\\lambda \\approx 1.002\\,\\text{\\AA}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves Numerical",
+    "familyId": "electron_momentum_wavelength",
+    "questionText": "An electron has a de Broglie wavelength of 2 × 10^{-10} m. Calculate its momentum. (h = 6.63 × 10^{-34} J s)",
+    "questionLatex": "$p = \\frac{h}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.315e-24,
+      "unit": "kg m s^{-1}",
+      "steps": [
+        "$p = \\frac{h}{\\lambda}$",
+        "$p = \\frac{6.63 \\times 10^{-34}}{2 \\times 10^{-10}}$",
+        "$p = 3.315 \\times 10^{-24}\\,\\text{kg m s}^{-1}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Dual Nature Concept",
+    "familyId": "wave_particle_duality",
+    "questionText": "What is meant by the dual nature of radiation?",
+    "questionLatex": "$\\text{Wave-Particle Duality}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The dual nature of radiation means that light exhibits both wave-like and particle-like properties depending upon the experimental conditions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Dual Nature Concept",
+    "familyId": "matter_wave_concept",
+    "questionText": "According to de Broglie, matter possesses:",
+    "questionLatex": "$\\lambda = \\frac{h}{p}$",
+    "options": [
+      "Only particle nature",
+      "Only wave nature",
+      "Both wave and particle nature",
+      "Neither wave nor particle nature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both wave and particle nature"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "einstein_nobel_prize",
+    "questionText": "Albert Einstein received the Nobel Prize primarily for his explanation of:",
+    "questionLatex": "$\\text{Photoelectric Effect}$",
+    "options": [
+      "Relativity",
+      "Brownian motion",
+      "Photoelectric effect",
+      "Atomic structure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Photoelectric effect"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_energy_wavelength_relation",
+    "questionText": "Write the relation between photon energy and wavelength.",
+    "questionLatex": "$E = \\frac{hc}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "E = \\frac{hc}{\\lambda}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Theory",
+    "familyId": "photon_momentum_energy_relation",
+    "questionText": "Write the relation between the energy and momentum of a photon.",
+    "questionLatex": "$E = pc$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "E = pc"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "familyId": "work_function_threshold_relation",
+    "questionText": "Write the relation between work function and threshold frequency.",
+    "questionLatex": "$\\phi_0 = h\\nu_0$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "\\phi_0 = h\\nu_0"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves",
+    "familyId": "macroscopic_objects_wavelength",
+    "questionText": "Why are de Broglie wavelengths associated with macroscopic objects not observable?",
+    "questionLatex": "$\\lambda = \\frac{h}{p}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Macroscopic objects have very large momentum, making their de Broglie wavelengths extremely small and practically unobservable."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photon Numerical",
+    "familyId": "wavelength_from_energy",
+    "questionText": "Calculate the wavelength of a photon having energy 3.31 eV. (h = 6.63 × 10^{-34} J s, c = 3 × 10^8 m s^{-1}, 1 eV = 1.602 × 10^{-19} J)",
+    "questionLatex": "$\\lambda = \\frac{hc}{E}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.75e-7,
+      "unit": "m",
+      "steps": [
+        "$E = 3.31 \\times 1.602 \\times 10^{-19}\\,\\text{J}$",
+        "$E = 5.302 \\times 10^{-19}\\,\\text{J}$",
+        "$\\lambda = \\frac{hc}{E}$",
+        "$\\lambda = \\frac{6.63 \\times 10^{-34} \\times 3 \\times 10^8}{5.302 \\times 10^{-19}}$",
+        "$\\lambda = 3.75 \\times 10^{-7}\\,\\text{m}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Matter Waves Numerical",
+    "familyId": "electron_wavelength_100v",
+    "questionText": "Calculate the de Broglie wavelength of an electron accelerated through a potential difference of 100 V using λ(Å) = 12.27/√V.",
+    "questionLatex": "$\\lambda(\\text{\\AA}) = \\frac{12.27}{\\sqrt{V}}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.227,
+      "unit": "Å",
+      "steps": [
+        "$V = 100\\,\\text{V}$",
+        "$\\lambda = \\frac{12.27}{\\sqrt{100}}$",
+        "$\\lambda = \\frac{12.27}{10}$",
+        "$\\lambda = 1.227\\,\\text{\\AA}$"
+      ]
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Einstein Photoelectric Equation Numerical",
+    "familyId": "stopping_potential_calculation",
+    "questionText": "Light of frequency 9 × 10^{14} Hz falls on a metal of work function 2.0 eV. Calculate the stopping potential. (h = 6.63 × 10^{-34} J s, 1 eV = 1.602 × 10^{-19} J)",
+    "questionLatex": "$h\\nu = \\phi_0 + eV_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.72,
+      "unit": "V",
+      "steps": [
+        "$\\text{Photon energy} = h\\nu = 6.63 \\times 10^{-34} \\times 9 \\times 10^{14}$",
+        "$\\text{Photon energy} = 5.967 \\times 10^{-19}\\,\\text{J}$",
+        "$\\text{Photon energy} = 3.72\\,\\text{eV}$",
+        "$K_{max} = 3.72 - 2.0 = 1.72\\,\\text{eV}$",
+        "$V_0 = 1.72\\,\\text{V}$"
+      ]
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

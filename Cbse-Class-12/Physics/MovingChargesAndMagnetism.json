@@ -1,0 +1,1065 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Oersted Experiment",
+    "familyId": "oersted_discovery",
+    "questionText": "What conclusion was drawn by Oersted from his experiment with a current-carrying conductor and a magnetic compass needle?",
+    "questionLatex": "$\\text{Oersted's experiment}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Oersted concluded that moving charges or electric currents produce a magnetic field in the surrounding space."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Lorentz Force",
+    "familyId": "lorentz_force_expression",
+    "questionText": "Write the expression for the Lorentz force acting on a charged particle moving in electric and magnetic fields.",
+    "questionLatex": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Force",
+    "familyId": "magnetic_force_magnitude",
+    "questionText": "The magnitude of magnetic force on a charge $q$ moving with velocity $v$ in a magnetic field $B$ at an angle $\\theta$ is:",
+    "questionLatex": "$F = qvB \\sin\\theta$",
+    "options": [
+      "$F = qvB \\cos\\theta$",
+      "$F = qvB \\sin\\theta$",
+      "$F = \\frac{qB}{v}$",
+      "$F = \\frac{qv}{B}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$F = qvB \\sin\\theta$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Force",
+    "familyId": "force_zero_condition",
+    "questionText": "Under which condition does the magnetic force on a moving charged particle become zero?",
+    "questionLatex": "$F = qvB \\sin\\theta$",
+    "options": [
+      "$\\theta = 90^\\circ$",
+      "$\\theta = 45^\\circ$",
+      "$\\theta = 0^\\circ$ or $180^\\circ$",
+      "$\\theta = 60^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\theta = 0^\\circ$ or $180^\\circ$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field Unit",
+    "familyId": "tesla_definition",
+    "questionText": "Define one tesla ($1\\text{ T}$) magnetic field.",
+    "questionLatex": "$1\\text{ T}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "One tesla is the magnetic field that exerts a force of $1\\text{ N}$ on a charge of $1\\text{ C}$ moving perpendicular to the field with a speed of $1\\text{ m s}^{-1}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force on Current Carrying Conductor",
+    "familyId": "current_conductor_force",
+    "questionText": "Write the vector expression for the magnetic force acting on a straight current-carrying conductor placed in a magnetic field.",
+    "questionLatex": "$\\vec{F} = I\\vec{l} \\times \\vec{B}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{F} = I\\vec{l} \\times \\vec{B}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force on Current Carrying Conductor",
+    "familyId": "conductor_force_magnitude",
+    "questionText": "A straight conductor of length $0.5\\text{ m}$ carrying a current of $4\\text{ A}$ is placed perpendicular to a magnetic field of $0.3\\text{ T}$. Calculate the magnetic force acting on it.",
+    "questionLatex": "$F = I l B$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.6,
+      "unit": "$\\text{N}$",
+      "steps": [
+        "$F = I l B$",
+        "$F = 4\\text{ A} \\times 0.5\\text{ m} \\times 0.3\\text{ T}$",
+        "$F = 0.6\\text{ N}$"
+      ]
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Lorentz Force Direction",
+    "familyId": "lorentz_force_direction",
+    "questionText": "A proton moves along the positive $+x$-axis and a magnetic field acts along the positive $+y$-axis. The magnetic force acts along:",
+    "questionLatex": "$\\vec{F} = q(\\vec{v} \\times \\vec{B})$",
+    "options": [
+      "$+x$-axis",
+      "$-y$-axis",
+      "$+z$-axis",
+      "$-z$-axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$+z$-axis"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field Unit",
+    "familyId": "earth_magnetic_field",
+    "questionText": "The magnitude of Earth's magnetic field is approximately:",
+    "questionLatex": "$B_{\\text{earth}}$",
+    "options": [
+      "$3.6 \\times 10^{-2}\\text{ T}$",
+      "$3.6 \\times 10^{-5}\\text{ T}$",
+      "$3.6 \\times 10^{-8}\\text{ T}$",
+      "$3.6 \\times 10^{-10}\\text{ T}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$3.6 \\times 10^{-5}\\text{ T}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Motion in Magnetic Field",
+    "familyId": "magnetic_force_work",
+    "questionText": "Why does a magnetic field do no work on a moving charged particle?",
+    "questionLatex": "$\\vec{F}=q(\\vec{v}\\times\\vec{B})$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The magnetic force is always perpendicular to the velocity of the charged particle. Therefore, the work done by the magnetic force is zero and the speed of the particle remains unchanged."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Circular Motion in Magnetic Field",
+    "familyId": "radius_formula",
+    "questionText": "Write the expression for the radius of the circular path of a charged particle moving perpendicular to a uniform magnetic field.",
+    "questionLatex": "$r=\\frac{mv}{qB}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$r=\\frac{mv}{qB}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Circular Motion in Magnetic Field",
+    "familyId": "cyclotron_frequency",
+    "questionText": "The angular frequency of a charged particle moving in a uniform magnetic field is:",
+    "questionLatex": "$\\omega=\\frac{qB}{m}$",
+    "options": [
+      "$\\omega = \\frac{m}{qB}$",
+      "$\\omega = \\frac{qB}{m}$",
+      "$\\omega = qBm$",
+      "$\\omega = \\frac{B}{qm}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\omega = \\frac{qB}{m}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Helical Motion",
+    "familyId": "helical_motion_condition",
+    "questionText": "Under what condition does a charged particle move along a helical path in a magnetic field?",
+    "questionLatex": "$\\vec{v}=\\vec{v}_{\\perp}+\\vec{v}_{\\parallel}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A charged particle moves along a helical path when its velocity has both perpendicular and parallel components with respect to the magnetic field."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Helical Motion",
+    "familyId": "pitch_formula",
+    "questionText": "Write the expression for the pitch of the helical path of a charged particle in a uniform magnetic field.",
+    "questionLatex": "$p=\\frac{2\\pi mv_{\\parallel}}{qB}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$p=\\frac{2\\pi mv_{\\parallel}}{qB}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Circular Motion in Magnetic Field",
+    "familyId": "frequency_independence",
+    "questionText": "The frequency of revolution of a charged particle in a uniform magnetic field is independent of:",
+    "questionLatex": "$\\omega=\\frac{qB}{m}$",
+    "options": [
+      "Magnetic field",
+      "Charge of particle",
+      "Mass of particle",
+      "Speed of particle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Speed of particle"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Motion in Magnetic Field",
+    "familyId": "electron_radius_numerical",
+    "questionText": "An electron moves with a speed of $2 \\times 10^7\\text{ m s}^{-1}$ perpendicular to a magnetic field of $5 \\times 10^{-4}\\text{ T}$. Calculate the radius of its circular path. Take $m = 9.1 \\times 10^{-31}\\text{ kg}$ and $e = 1.6 \\times 10^{-19}\\text{ C}$.",
+    "questionLatex": "$r=\\frac{mv}{qB}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.2275,
+      "unit": "$\\text{m}$",
+      "steps": [
+        "$r = \\frac{mv}{qB}$",
+        "$r = \\frac{9.1 \\times 10^{-31}\\text{ kg} \\times 2 \\times 10^7\\text{ m s}^{-1}}{1.6 \\times 10^{-19}\\text{ C} \\times 5 \\times 10^{-4}\\text{ T}}$",
+        "$r = 0.2275\\text{ m}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "familyId": "biot_savart_statement",
+    "questionText": "State Biot-Savart law for the magnetic field due to a current element.",
+    "questionLatex": "$d\\vec{B}=\\frac{\\mu_0}{4\\pi}\\frac{I(d\\vec{l}\\times\\vec{r})}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to Biot-Savart law, the magnetic field due to a current element is directly proportional to the current and element length, and inversely proportional to the square of the distance from the element."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "familyId": "biot_savart_vector_form",
+    "questionText": "Write the vector form of Biot-Savart law.",
+    "questionLatex": "$d\\vec{B}=\\frac{\\mu_0}{4\\pi}\\frac{I(d\\vec{l}\\times\\vec{r})}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$d\\vec{B}=\\frac{\\mu_0}{4\\pi}\\frac{I(d\\vec{l}\\times\\vec{r})}{r^3}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "familyId": "biot_savart_direction",
+    "questionText": "The direction of magnetic field due to a current element is perpendicular to:",
+    "questionLatex": "$d\\vec{B}\\propto d\\vec{l}\\times\\vec{r}$",
+    "options": [
+      "Current element only",
+      "Displacement vector only",
+      "The plane containing $d\\vec{l}$ and $\\vec{r}$",
+      "The magnetic field axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "The plane containing $d\\vec{l}$ and $\\vec{r}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "familyId": "biot_savart_magnitude",
+    "questionText": "Write the expression for the magnitude of magnetic field due to a current element according to Biot-Savart law.",
+    "questionLatex": "$dB = \\frac{\\mu_0}{4\\pi}\\frac{I\\,dl\\sin\\theta}{r^2}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$dB = \\frac{\\mu_0}{4\\pi}\\frac{I\\,dl\\sin\\theta}{r^2}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Biot-Savart Law",
+    "familyId": "permeability_value",
+    "questionText": "What is the value of permeability of free space ($\\mu_0$) in SI units?",
+    "questionLatex": "$\\mu_0 = ?$",
+    "options": [
+      "$4\\pi \\times 10^{-7}\\text{ T m A}^{-1}$",
+      "$4\\pi \\times 10^{-5}\\text{ T m A}^{-1}$",
+      "$8\\pi \\times 10^{-7}\\text{ T m A}^{-1}$",
+      "$10^{-7}\\text{ T m A}^{-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$4\\pi \\times 10^{-7}\\text{ T m A}^{-1}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Circular Loop",
+    "familyId": "field_at_centre_loop",
+    "questionText": "Write the expression for the magnetic field at the centre of a circular current-carrying loop of radius $R$.",
+    "questionLatex": "$B = \\frac{\\mu_0 I}{2R}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B = \\frac{\\mu_0 I}{2R}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Circular Loop",
+    "familyId": "field_on_axis_loop",
+    "questionText": "Write the expression for the magnetic field on the axis of a circular current-carrying loop at a distance $x$ from its centre.",
+    "questionLatex": "$B = \\frac{\\mu_0 I R^2}{2(x^2 + R^2)^{3/2}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B = \\frac{\\mu_0 I R^2}{2(x^2 + R^2)^{3/2}}$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Circular Loop",
+    "familyId": "loop_direction_rule",
+    "questionText": "Which rule is used to determine the direction of magnetic field at the centre of a circular current loop?",
+    "questionLatex": "$\\text{Direction of } \\vec{B}$",
+    "options": [
+      "Fleming's Left-Hand Rule",
+      "Fleming's Right-Hand Rule",
+      "Right-Hand Thumb Rule",
+      "Lenz's Law"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Right-Hand Thumb Rule"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Circular Loop Numerical",
+    "familyId": "centre_field_numerical",
+    "questionText": "A circular loop of radius $0.1\\text{ m}$ carries a current of $5\\text{ A}$. Calculate the magnetic field at its centre.",
+    "questionLatex": "$B = \\frac{\\mu_0 I}{2R}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 3.14e-05,
+      "unit": "$\\text{T}$",
+      "steps": [
+        "$B = \\frac{\\mu_0 I}{2R}$",
+        "$B = \\frac{4\\pi \\times 10^{-7}\\text{ T m A}^{-1} \\times 5\\text{ A}}{2 \\times 0.1\\text{ m}}$",
+        "$B = 3.14 \\times 10^{-5}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Ampere's Circuital Law",
+    "familyId": "ampere_law_statement",
+    "questionText": "State Ampere's circuital law.",
+    "questionLatex": "$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 I$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ampere's circuital law states that the line integral of the magnetic field $\\vec{B}$ around any closed loop is equal to $\\mu_0$ times the total net current enclosed by that loop."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Ampere's Circuital Law",
+    "familyId": "ampere_law_formula",
+    "questionText": "Write the mathematical form of Ampere's circuital law.",
+    "questionLatex": "$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 I_{\\text{enc}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 I_{\\text{enc}}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Straight Conductor",
+    "familyId": "field_long_wire",
+    "questionText": "Write the expression for the magnetic field at a distance $r$ from a long straight current-carrying conductor.",
+    "questionLatex": "$B = \\frac{\\mu_0 I}{2\\pi r}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B = \\frac{\\mu_0 I}{2\\pi r}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Straight Conductor",
+    "familyId": "field_distance_dependence",
+    "questionText": "For a long straight current-carrying conductor, the magnetic field varies with distance $r$ as:",
+    "questionLatex": "$B \\propto ?$",
+    "options": [
+      "$r$",
+      "$r^2$",
+      "$\\frac{1}{r}$",
+      "$\\frac{1}{r^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{1}{r}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field Inside a Conductor",
+    "familyId": "field_inside_wire_formula",
+    "questionText": "Write the expression for the magnetic field inside a long straight conductor carrying uniformly distributed current at a distance $r$ from its centre, where $a$ is the radius of the conductor.",
+    "questionLatex": "$B = \\frac{\\mu_0 I r}{2\\pi a^2}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B = \\frac{\\mu_0 I r}{2\\pi a^2}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field Inside a Conductor",
+    "familyId": "field_inside_wire_variation",
+    "questionText": "Inside a long straight conductor carrying uniformly distributed current, the magnetic field varies with distance $r$ from the axis as:",
+    "questionLatex": "$B \\propto ?$",
+    "options": [
+      "$\\frac{1}{r}$",
+      "$\\frac{1}{r^2}$",
+      "$r$",
+      "$r^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$r$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Solenoid",
+    "familyId": "solenoid_definition",
+    "questionText": "What is a solenoid?",
+    "questionLatex": "\\text{Definition of Solenoid}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A solenoid consists of a long wire wound closely in the form of a helix where the neighboring turns are insulated from each other."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Solenoid",
+    "familyId": "field_inside_solenoid",
+    "questionText": "Write the expression for the magnetic field inside a long solenoid carrying current $I$ and having $n$ turns per unit length.",
+    "questionLatex": "$B = \\mu_0 n I$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B = \\mu_0 n I$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Solenoid",
+    "familyId": "solenoid_field_property",
+    "questionText": "The magnetic field inside a long current-carrying solenoid is:",
+    "questionLatex": "\\vec{B}",
+    "options": [
+      "Zero everywhere",
+      "Uniform and parallel to its axis",
+      "Radially outward",
+      "Perpendicular to its axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Uniform and parallel to its axis"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Solenoid",
+    "familyId": "solenoid_turn_density",
+    "questionText": "A long solenoid has $1200$ turns uniformly wound over a length of $0.6\\text{ m}$. Calculate the number of turns per unit length.",
+    "questionLatex": "$n = \\frac{N}{L}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2000,
+      "unit": "$\\text{turns m}^{-1}$",
+      "steps": [
+        "$n = \\frac{N}{L}$",
+        "$n = \\frac{1200}{0.6\\text{ m}}$",
+        "$n = 2000\\text{ turns m}^{-1}$"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Solenoid Numerical",
+    "familyId": "solenoid_field_numerical",
+    "questionText": "A long solenoid has $1000\\text{ turns per metre}$ and carries a current of $4\\text{ A}$. Calculate the magnetic field inside it.",
+    "questionLatex": "$B = \\mu_0 n I$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.00503,
+      "unit": "$\\text{T}$",
+      "steps": [
+        "$B = \\mu_0 n I$",
+        "$B = 4\\pi \\times 10^{-7}\\text{ T m A}^{-1} \\times 1000\\text{ m}^{-1} \\times 4\\text{ A}$",
+        "$B \\approx 5.03 \\times 10^{-3}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Currents",
+    "familyId": "parallel_current_force_formula",
+    "questionText": "Write the expression for the magnetic force per unit length between two long parallel straight conductors carrying currents $I_1$ and $I_2$ separated by a distance $d$.",
+    "questionLatex": "$f = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$f = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Currents",
+    "familyId": "parallel_currents_interaction",
+    "questionText": "Two long parallel straight conductors carry currents in the same direction. They will:",
+    "questionLatex": "\\text{Interaction of parallel currents}",
+    "options": [
+      "Repel each other",
+      "Attract each other",
+      "Exert no force",
+      "Rotate about each other"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Attract each other"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Currents",
+    "familyId": "antiparallel_currents_interaction",
+    "questionText": "Two long parallel straight conductors carrying currents in opposite directions will:",
+    "questionLatex": "\\text{Interaction of antiparallel currents}",
+    "options": [
+      "Attract each other",
+      "Repel each other",
+      "Produce no magnetic field",
+      "Experience equal torque only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Repel each other"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Ampere",
+    "familyId": "ampere_definition",
+    "questionText": "Define one ampere in terms of the force between two parallel current-carrying conductors.",
+    "questionLatex": "$1\\text{ A}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "One ampere is the steady current which, when maintained in each of two infinitely long, straight, parallel conductors placed one metre apart in vacuum, produces a force of $2 \\times 10^{-7}\\text{ N}$ per metre length between them."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Currents",
+    "familyId": "force_per_unit_length",
+    "questionText": "Write the expression for the force per unit length between two long parallel straight conductors carrying currents $I_1$ and $I_2$ separated by a distance $d$.",
+    "questionLatex": "$\\frac{F}{L} = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\frac{F}{L} = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Force Between Parallel Currents",
+    "familyId": "parallel_current_numerical",
+    "questionText": "Two long parallel straight conductors separated by $0.5\\text{ m}$ carry currents of $10\\text{ A}$ and $20\\text{ A}$ in the same direction. Calculate the force per unit length between them.",
+    "questionLatex": "$\\frac{F}{L} = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 8e-05,
+      "unit": "$\\text{N m}^{-1}$",
+      "steps": [
+        "$\\frac{F}{L} = \\frac{\\mu_0 I_1 I_2}{2\\pi d}$",
+        "$\\frac{F}{L} = \\frac{4\\pi \\times 10^{-7}\\text{ T m A}^{-1} \\times 10\\text{ A} \\times 20\\text{ A}}{2\\pi \\times 0.5\\text{ m}}$",
+        "$\\frac{F}{L} = 8 \\times 10^{-5}\\text{ N m}^{-1}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Torque on Current Loop",
+    "familyId": "torque_rectangular_loop",
+    "questionText": "A rectangular current-carrying loop placed in a uniform magnetic field experiences:",
+    "questionLatex": "$\\tau$",
+    "options": [
+      "Only a net force",
+      "Only a torque",
+      "Neither force nor torque",
+      "Infinite force"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Only a torque"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Torque on Current Loop",
+    "familyId": "torque_formula_special",
+    "questionText": "Write the expression for the torque on a rectangular current loop when the magnetic field lies in the plane of the loop.",
+    "questionLatex": "$\\tau = I A B$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\tau = I A B$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Torque on Current Loop",
+    "familyId": "torque_general_formula",
+    "questionText": "Write the general expression for the torque acting on a current-carrying loop placed in a uniform magnetic field.",
+    "questionLatex": "$\\tau = I A B \\sin\\theta$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\tau = I A B \\sin\\theta$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Dipole Moment",
+    "familyId": "magnetic_moment_definition",
+    "questionText": "Define magnetic dipole moment of a current-carrying loop.",
+    "questionLatex": "$\\vec{m} = I A \\hat{n}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The magnetic dipole moment of a current-carrying loop is equal to the product of the current and the area enclosed by the loop. Its direction is normal to the plane of the loop."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Dipole Moment",
+    "familyId": "magnetic_moment_formula",
+    "questionText": "Write the vector expression for magnetic dipole moment of a current loop.",
+    "questionLatex": "$\\vec{m} = I A \\hat{n}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{m} = I A \\hat{n}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Torque on Current Loop",
+    "familyId": "torque_magnetic_moment",
+    "questionText": "Express torque on a current loop in terms of magnetic dipole moment and magnetic field.",
+    "questionLatex": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Torque on Current Loop",
+    "familyId": "maximum_torque_condition",
+    "questionText": "The torque on a current-carrying loop in a magnetic field is maximum when the angle between the magnetic moment and magnetic field is:",
+    "questionLatex": "$\\tau = m B \\sin\\theta$",
+    "options": [
+      "$0^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$90^\\circ$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
