@@ -1,0 +1,1119 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Introduction",
+    "familyId": "emi_definition",
+    "questionText": "What is electromagnetic induction?",
+    "questionLatex": "$\\text{Electromagnetic Induction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electromagnetic induction is the phenomenon of generation of an induced electromotive force (emf) or electric current in a circuit due to a change in the magnetic flux linked with it."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday and Henry Experiments",
+    "familyId": "relative_motion_current",
+    "questionText": "In Faraday's experiment, current is induced in a coil when a bar magnet is moved towards or away from it because of:",
+    "questionLatex": "$\\text{Induced current}$",
+    "options": [
+      "Presence of magnetic poles",
+      "Relative motion between magnet and coil",
+      "Heating of the coil",
+      "Electrical contact with the magnet"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Relative motion between magnet and coil"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday and Henry Experiments",
+    "familyId": "stationary_magnet_no_current",
+    "questionText": "Why does a galvanometer show no deflection when the magnet is held stationary near the coil?",
+    "questionLatex": "$\\Delta\\Phi_B = 0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "When the magnet is stationary, the magnetic flux linked with the coil remains constant. Since there is no change in magnetic flux ($\\,d\\Phi_B/dt = 0\\,$), no induced emf or current is generated."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday and Henry Experiments",
+    "familyId": "induced_current_strength",
+    "questionText": "The induced current in a coil increases when the magnet is moved:",
+    "questionLatex": "$\\frac{d\\Phi_B}{dt}$",
+    "options": [
+      "More slowly",
+      "With constant acceleration only",
+      "Faster",
+      "In a circular path"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Faster"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux",
+    "familyId": "magnetic_flux_definition",
+    "questionText": "Define magnetic flux through a surface.",
+    "questionLatex": "$\\Phi_B = \\vec{B} \\cdot \\vec{A}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetic flux through a surface is the scalar product of the magnetic field vector $\\vec{B}$ and the area vector $\\vec{A}$ of the surface."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux",
+    "familyId": "magnetic_flux_formula",
+    "questionText": "Write the expression for magnetic flux through a plane surface of area $A$ placed in a uniform magnetic field $B$.",
+    "questionLatex": "$\\Phi_B = BA \\cos\\theta$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\Phi_B = BA \\cos\\theta$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux",
+    "familyId": "flux_unit",
+    "questionText": "The SI unit of magnetic flux is:",
+    "questionLatex": "$\\Phi_B$",
+    "options": [
+      "Tesla",
+      "Weber",
+      "Henry",
+      "Volt"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Weber"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux",
+    "familyId": "flux_scalar_quantity",
+    "questionText": "Magnetic flux is a:",
+    "questionLatex": "$\\Phi_B$",
+    "options": [
+      "Vector quantity",
+      "Scalar quantity",
+      "Tensor quantity",
+      "Dimensionless quantity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Scalar quantity"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux Numerical",
+    "familyId": "flux_numerical_basic",
+    "questionText": "A uniform magnetic field of $0.5\\text{ T}$ passes normally through a surface of area $0.2\\text{ m}^2$. Calculate the magnetic flux through the surface.",
+    "questionLatex": "$\\Phi_B = BA \\cos 0^\\circ$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.1,
+      "unit": "Wb",
+      "steps": [
+        "$\\Phi_B = BA \\cos\\theta$",
+        "$\\theta = 0^\\circ$ (field is normal to surface)",
+        "$\\Phi_B = 0.5 \\times 0.2 \\times \\cos(0^\\circ)$",
+        "$\\Phi_B = 0.1\\text{ Wb}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Magnetic Flux Numerical",
+    "familyId": "flux_zero_case",
+    "questionText": "A surface is placed parallel to a uniform magnetic field. If the angle between the magnetic field and the area vector is $90^\\circ$, what is the magnetic flux through the surface?",
+    "questionLatex": "$\\Phi_B = BA \\cos 90^\\circ$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0,
+      "unit": "Wb",
+      "steps": [
+        "$\\Phi_B = BA \\cos\\theta$",
+        "$\\theta = 90^\\circ$",
+        "$\\cos(90^\\circ) = 0$",
+        "$\\Phi_B = 0\\text{ Wb}$"
+      ]
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday's Law",
+    "familyId": "faraday_law_statement",
+    "questionText": "State Faraday's law of electromagnetic induction.",
+    "questionLatex": "$\\varepsilon = -\\frac{d\\Phi_B}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The magnitude of the induced emf in a circuit is equal to the time rate of change of magnetic flux linked with the circuit."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday's Law",
+    "familyId": "faraday_law_formula",
+    "questionText": "Write the mathematical expression for Faraday's law of electromagnetic induction.",
+    "questionLatex": "$\\varepsilon = -\\frac{d\\Phi_B}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = -\\frac{d\\Phi_B}{dt}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday's Law",
+    "familyId": "multiturn_coil_emf",
+    "questionText": "Write the expression for induced emf in a coil of $N$ closely wound turns.",
+    "questionLatex": "$\\varepsilon = -N\\frac{d\\Phi_B}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = -N\\frac{d\\Phi_B}{dt}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday's Law",
+    "familyId": "increase_emf_turns",
+    "questionText": "The induced emf in a coil can be increased by:",
+    "questionLatex": "$\\varepsilon \\propto N$",
+    "options": [
+      "Reducing the number of turns",
+      "Increasing the number of turns",
+      "Using a thicker wire only",
+      "Increasing resistance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Increasing the number of turns"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Faraday's Law",
+    "familyId": "methods_flux_change",
+    "questionText": "Which of the following can change magnetic flux through a coil?",
+    "questionLatex": "$\\Phi_B = BA \\cos\\theta$",
+    "options": [
+      "Changing magnetic field $B$ only",
+      "Changing area $A$ only",
+      "Changing angle $\\theta$ only",
+      "Any of the above"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Any of the above"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Induced EMF Numerical",
+    "familyId": "emf_basic_numerical",
+    "questionText": "The magnetic flux linked with a coil changes from $0.5\\text{ Wb}$ to $0.1\\text{ Wb}$ in $0.2\\text{ s}$. Calculate the magnitude of the induced emf.",
+    "questionLatex": "$\\varepsilon = \\left|\\frac{\\Delta\\Phi_B}{\\Delta t}\\right|$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2,
+      "unit": "V",
+      "steps": [
+        "$\\Delta\\Phi = 0.5\\text{ Wb} - 0.1\\text{ Wb} = 0.4\\text{ Wb}$",
+        "$\\varepsilon = \\frac{\\Delta\\Phi}{\\Delta t}$",
+        "$\\varepsilon = \\frac{0.4}{0.2}$",
+        "$\\varepsilon = 2\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Lenz's Law",
+    "familyId": "lenz_law_statement",
+    "questionText": "State Lenz's law.",
+    "questionLatex": "$\\text{Lenz's Law}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The induced emf is produced in such a direction that the induced current opposes the change in magnetic flux responsible for producing it."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Lenz's Law",
+    "familyId": "negative_sign_meaning",
+    "questionText": "The negative sign in Faraday's law represents:",
+    "questionLatex": "$\\varepsilon = -\\frac{d\\Phi_B}{dt}$",
+    "options": [
+      "Magnitude of flux",
+      "Conservation of charge",
+      "Lenz's law",
+      "Unit conversion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Lenz's law"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Lenz's Law",
+    "familyId": "energy_conservation",
+    "questionText": "Lenz's law is a consequence of:",
+    "questionLatex": "$\\text{Conservation principle}$",
+    "options": [
+      "Conservation of momentum",
+      "Conservation of charge",
+      "Conservation of energy",
+      "Conservation of mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Conservation of energy"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Lenz's Law",
+    "familyId": "approaching_magnet_effect",
+    "questionText": "A north pole of a magnet approaches a conducting coil. According to Lenz's law, the face of the coil towards the magnet behaves as:",
+    "questionLatex": "$\\text{Approaching North pole}$",
+    "options": [
+      "North pole",
+      "South pole",
+      "Neutral",
+      "Alternately north and south"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "North pole"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF",
+    "familyId": "motional_emf_definition",
+    "questionText": "What is motional emf?",
+    "questionLatex": "$\\varepsilon = B\\ell v$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The emf induced across a conductor when it moves through a magnetic field and cuts magnetic field lines is called motional emf."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF",
+    "familyId": "motional_emf_formula",
+    "questionText": "Write the expression for the motional emf induced across a conductor of length $\\ell$ moving with speed $v$ perpendicular to a magnetic field $B$.",
+    "questionLatex": "$\\varepsilon = B\\ell v$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = B\\ell v$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF",
+    "familyId": "motional_emf_dependence",
+    "questionText": "The motional emf induced in a conductor is directly proportional to:",
+    "questionLatex": "$\\varepsilon = B\\ell v$",
+    "options": [
+      "B, $\\ell$ and v",
+      "B only",
+      "$\\ell$ only",
+      "v only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "B, ℓ and v"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF",
+    "familyId": "motional_emf_zero",
+    "questionText": "Under which condition is the motional emf induced in a moving conductor zero?",
+    "questionLatex": "$\\varepsilon = B\\ell v \\sin\\theta$",
+    "options": [
+      "When the conductor moves parallel to the magnetic field",
+      "When the conductor moves perpendicular to the magnetic field",
+      "When magnetic field is uniform",
+      "When the conductor is metallic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "When the conductor moves parallel to the magnetic field"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Motional EMF Numerical",
+    "familyId": "motional_emf_numerical",
+    "questionText": "A conductor of length $0.5\\text{ m}$ moves with a speed of $4\\text{ m s}^{-1}$ perpendicular to a magnetic field of $0.2\\text{ T}$. Calculate the induced emf.",
+    "questionLatex": "$\\varepsilon = B\\ell v$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.4,
+      "unit": "V",
+      "steps": [
+        "$\\varepsilon = B\\ell v$",
+        "$\\varepsilon = 0.2 \\times 0.5 \\times 4$",
+        "$\\varepsilon = 0.4\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Eddy Currents",
+    "familyId": "eddy_current_definition",
+    "questionText": "What are eddy currents?",
+    "questionLatex": "$\\text{Eddy currents}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Eddy currents are circulating currents induced in the bulk of a conductor when the magnetic flux linked with it changes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Eddy Currents",
+    "familyId": "eddy_current_application",
+    "questionText": "Which of the following is an application of eddy currents?",
+    "questionLatex": "$\\text{Applications of eddy currents}$",
+    "options": [
+      "Electric fuse",
+      "Induction furnace",
+      "Simple cell",
+      "Potentiometer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Induction furnace"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Eddy Currents",
+    "familyId": "eddy_current_reduction",
+    "questionText": "How are eddy current losses reduced in transformer cores?",
+    "questionLatex": "$\\text{Laminated core}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Eddy current losses are reduced by using laminated iron cores separated by insulating layers, which increase the resistance to eddy currents."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Eddy Currents",
+    "familyId": "magnetic_braking",
+    "questionText": "Magnetic braking in trains is based on:",
+    "questionLatex": "$\\text{Magnetic braking}$",
+    "options": [
+      "Static electricity",
+      "Electrolysis",
+      "Eddy currents",
+      "Thermionic emission"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Eddy currents"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Eddy Currents",
+    "familyId": "eddy_current_lenz_law",
+    "questionText": "The direction of eddy currents is determined by:",
+    "questionLatex": "$\\text{Direction of eddy currents}$",
+    "options": [
+      "Ohm's law",
+      "Lenz's law",
+      "Ampere's law",
+      "Coulomb's law"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Lenz's law"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "self_induction_definition",
+    "questionText": "What is self-induction?",
+    "questionLatex": "$\\text{Self-induction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Self-induction is the phenomenon in which a changing current in a coil induces an emf in the same coil due to the change in magnetic flux linked with it."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "self_induced_emf_formula",
+    "questionText": "Write the expression for self-induced emf in a coil.",
+    "questionLatex": "$\\varepsilon = -L\\frac{dI}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = -L\\frac{dI}{dt}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "coefficient_self_induction",
+    "questionText": "Define coefficient of self-induction or self inductance.",
+    "questionLatex": "$L$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The self inductance of a coil is numerically equal to the induced emf produced when the rate of change of current through the coil is unity."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "inductance_flux_relation",
+    "questionText": "Write the relation between magnetic flux linkage and self inductance.",
+    "questionLatex": "$N\\Phi = LI$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$N\\Phi = LI$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "unit_of_inductance",
+    "questionText": "The SI unit of self inductance is:",
+    "questionLatex": "$L$",
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Farad"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Henry"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction",
+    "familyId": "one_henry_definition",
+    "questionText": "Define one henry.",
+    "questionLatex": "$1\\text{ H}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "One henry is the self inductance of a circuit in which an emf of $1\\text{ V}$ is induced when the current changes at the rate of $1\\text{ A s}^{-1}$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Mutual Induction",
+    "familyId": "mutual_induction_definition",
+    "questionText": "What is mutual induction?",
+    "questionLatex": "$\\text{Mutual induction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mutual induction is the phenomenon in which a change of current in one coil induces an emf in a nearby coil."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Mutual Induction",
+    "familyId": "mutual_induced_emf_formula",
+    "questionText": "Write the expression for the emf induced in a secondary coil due to mutual induction.",
+    "questionLatex": "$\\varepsilon = -M\\frac{dI}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = -M\\frac{dI}{dt}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Mutual Induction",
+    "familyId": "mutual_inductance_definition",
+    "questionText": "Define coefficient of mutual inductance.",
+    "questionLatex": "$M$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The coefficient of mutual inductance between two coils is numerically equal to the induced emf in one coil when the rate of change of current in the other coil is unity."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Self Induction Numerical",
+    "familyId": "self_induction_numerical",
+    "questionText": "A coil of inductance $2\\text{ H}$ carries a current that changes uniformly from $5\\text{ A}$ to $1\\text{ A}$ in $0.2\\text{ s}$. Calculate the magnitude of the induced emf.",
+    "questionLatex": "$\\varepsilon = L\\left|\\frac{dI}{dt}\\right|$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 40,
+      "unit": "V",
+      "steps": [
+        "$\\Delta I = 5\\text{ A} - 1\\text{ A} = 4\\text{ A}$",
+        "$\\Delta t = 0.2\\text{ s}$",
+        "$\\varepsilon = L\\frac{\\Delta I}{\\Delta t}$",
+        "$\\varepsilon = 2 \\times \\frac{4}{0.2}$",
+        "$\\varepsilon = 40\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "ac_generator_principle",
+    "questionText": "On which principle does an AC generator work?",
+    "questionLatex": "$\\text{Electromagnetic Induction}$",
+    "options": [
+      "Electrostatic induction",
+      "Electromagnetic induction",
+      "Electrolysis",
+      "Thermoelectric effect"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Electromagnetic induction"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "generator_components",
+    "questionText": "Name the components of a simple AC generator that help in collecting the induced current from the rotating coil.",
+    "questionLatex": "$\\text{AC Generator}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The induced current is collected using two slip rings and carbon brushes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "generator_flux_expression",
+    "questionText": "Write the expression for magnetic flux linked with a rotating coil of $N$ turns and area $A$ in a magnetic field $B$.",
+    "questionLatex": "$\\Phi = NBA \\cos(\\omega t)$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\Phi = NBA \\cos(\\omega t)$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "generator_emf_expression",
+    "questionText": "Write the expression for instantaneous emf generated in a rotating coil.",
+    "questionLatex": "$\\varepsilon = NBA\\omega \\sin(\\omega t)$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon = NBA\\omega \\sin(\\omega t)$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "peak_emf_formula",
+    "questionText": "The maximum or peak value of induced emf in an AC generator is:",
+    "questionLatex": "$\\varepsilon_0 = NBA\\omega$",
+    "options": [
+      "$NBA$",
+      "$NBA\\omega$",
+      "$BA\\omega$",
+      "$N\\omega$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$NBA\\omega$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "generator_frequency_relation",
+    "questionText": "If a coil rotates with angular speed $\\omega$, the frequency of the generated alternating emf is:",
+    "questionLatex": "$f = \\frac{\\omega}{2\\pi}$",
+    "options": [
+      "$\\omega$",
+      "$\\frac{\\omega}{\\pi}$",
+      "$\\frac{\\omega}{2\\pi}$",
+      "$2\\pi\\omega$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{\\omega}{2\\pi}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator",
+    "familyId": "generator_emf_zero",
+    "questionText": "At what position of the rotating coil is the induced emf zero?",
+    "questionLatex": "$\\varepsilon = \\varepsilon_0 \\sin(\\omega t)$",
+    "options": [
+      "When the plane of the coil is parallel to the magnetic field",
+      "When the plane of the coil is perpendicular to the magnetic field",
+      "At every quarter revolution",
+      "At every half revolution only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "When the plane of the coil is perpendicular to the magnetic field"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator Numerical",
+    "familyId": "peak_emf_numerical",
+    "questionText": "A coil of 100 turns and area $0.02\\text{ m}^2$ rotates with angular speed $50\\text{ rad s}^{-1}$ in a magnetic field of $0.1\\text{ T}$. Calculate the peak emf generated.",
+    "questionLatex": "$\\varepsilon_0 = NBA\\omega$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 10,
+      "unit": "V",
+      "steps": [
+        "$\\varepsilon_0 = NBA\\omega$",
+        "$\\varepsilon_0 = 100 \\times 0.1 \\times 0.02 \\times 50$",
+        "$\\varepsilon_0 = 10\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "AC Generator Numerical",
+    "familyId": "frequency_numerical",
+    "questionText": "A generator coil rotates with an angular speed of $314\\text{ rad s}^{-1}$. Calculate the frequency of the generated alternating emf.",
+    "questionLatex": "$f = \\frac{\\omega}{2\\pi}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 50,
+      "unit": "Hz",
+      "steps": [
+        "$f = \\frac{\\omega}{2\\pi}$",
+        "$f = \\frac{314}{2 \\times 3.14}$",
+        "$f = 50\\text{ Hz}$"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Applications of Electromagnetic Induction",
+    "familyId": "transformer_principle",
+    "questionText": "The working of a transformer is based on:",
+    "questionLatex": "$\\text{Transformer}$",
+    "options": [
+      "Self induction only",
+      "Mutual induction",
+      "Electrostatic induction",
+      "Thermionic emission"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Mutual induction"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

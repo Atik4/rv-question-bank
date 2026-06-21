@@ -1,0 +1,1302 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "kepler_first_law",
+    "questionText": "According to Kepler's first law of planetary motion (the law of orbits), all planets in the solar system move around the Sun in trajectories described by which geometric shape?",
+    "questionLatex": "\\text{According to Kepler's first law of planetary motion (the law of orbits), all planets in the solar system move around the Sun in trajectories described by which geometric shape?}",
+    "options": [
+      {"text": "Perfect circles with the Sun located at the geometric center", "latex": "\\text{Circular orbits}"},
+      {"text": "Ellipses with the Sun situated at one of the two focal points", "latex": "\\text{Elliptical orbits with the Sun at one focus}"},
+      {"text": "Parabolic paths with the Sun located at the focus of the curve", "latex": "\\text{Parabolic paths}"},
+      {"text": "Irregular and non-periodic open-ended random trajectories", "latex": "\\text{Random trajectories}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ellipses with the Sun situated at one of the two focal points",
+      "latex": "\\text{Elliptical orbits with the Sun at one focus}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "kepler_second_law",
+    "questionText": "Kepler's second law of planetary motion (the law of areas) mathematically establishes that for any planet orbiting the Sun:",
+    "questionLatex": "\\text{Kepler's second law of planetary motion (the law of areas) mathematically establishes that for any planet orbiting the Sun:}",
+    "options": [
+      {"text": "Equal linear distances along the orbital trajectory are covered in equal intervals of time", "latex": "\\text{Equal arc lengths in equal time intervals}"},
+      {"text": "The position vector joining the planet to the Sun sweeps out equal areas in equal intervals of time", "latex": "\\frac{\\Delta A}{\\Delta t} = \\text{constant}"},
+      {"text": "The instantaneous orbital speed of the planet remains perfectly uniform at all points in its trajectory", "latex": "v = \\text{constant}"},
+      {"text": "The planet moves in a path such that its distance from the central focus never changes", "latex": "r = \\text{constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The position vector joining the planet to the Sun sweeps out equal areas in equal intervals of time",
+      "latex": "\\frac{\\Delta A}{\\Delta t} = \\text{constant}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "kepler_third_law",
+    "questionText": "According to Kepler's third law of planetary motion (the law of periods), the relationship between the orbital time period T of a planet and the semi-major axis a of its elliptical orbit is best expressed as:",
+    "questionLatex": "\\text{According to Kepler's third law of planetary motion (the law of periods), the relationship between the orbital time period } T \\text{ of a planet and the semi-major axis } a \\text{ of its elliptical orbit is best expressed as:}",
+    "options": [
+      {"text": "T is directly proportional to a", "latex": "T \\propto a"},
+      {"text": "T² is directly proportional to a³", "latex": "T^2 \\propto a^3"},
+      {"text": "T³ is directly proportional to a²", "latex": "T^3 \\propto a^2"},
+      {"text": "T is directly proportional to a²", "latex": "T \\propto a^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "T² is directly proportional to a³",
+      "latex": "T^2 \\propto a^3"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "universal_gravitation_definition",
+    "questionText": "Newton's universal law of gravitation establishes that the magnitude of the attractive gravitational force between two point masses is directly proportional to the:",
+    "questionLatex": "\\text{Newton's universal law of gravitation establishes that the magnitude of the attractive gravitational force between two point masses is directly proportional to the:}",
+    "options": [
+      {"text": "Product of the masses and inversely proportional to the linear distance separating them", "latex": "F \\propto \\frac{m_1 m_2}{r}"},
+      {"text": "Product of the masses and inversely proportional to the square of the distance separating them", "latex": "F \\propto \\frac{m_1 m_2}{r^2}"},
+      {"text": "Sum of the masses and inversely proportional to the square of the distance separating them", "latex": "F \\propto \\frac{m_1 + m_2}{r^2}"},
+      {"text": "Product of the squares of the masses and inversely proportional to the distance separating them", "latex": "F \\propto \\frac{m_1^2 m_2^2}{r}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Product of the masses and inversely proportional to the square of the distance separating them",
+      "latex": "F \\propto \\frac{m_1 m_2}{r^2}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravitational_force_basic_mcq",
+    "questionText": "Two discrete masses of 10 kg and 20 kg are separated in a vacuum by a center-to-center distance of exactly 2 m. Using the universal gravitational constant G = 6.67 × 10⁻¹¹ N·m²/kg², calculate the magnitude of the mutual gravitational force acting between them.",
+    "questionLatex": "\\text{Two discrete masses of } 10 \\text{ kg and } 20 \\text{ kg are separated in a vacuum by a center-to-center distance of exactly } 2 \\text{ m. Using the universal gravitational constant } G = 6.67 \\times 10^{-11} \\text{ N}\\cdot\\text{m}^2/\\text{kg}^2\\text{, calculate the magnitude of the mutual gravitational force acting between them.}",
+    "options": [
+      {"text": "1.668 × 10⁻⁹ N", "latex": "1.668 \\times 10^{-9}\\text{ N}"},
+      {"text": "3.335 × 10⁻⁹ N", "latex": "3.335 \\times 10^{-9}\\text{ N}"},
+      {"text": "6.670 × 10⁻⁹ N", "latex": "6.670 \\times 10^{-9}\\text{ N}"},
+      {"text": "1.334 × 10⁻⁸ N", "latex": "1.334 \\times 10^{-8}\\text{ N}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3.335 × 10⁻⁹ N",
+      "latex": "3.335 \\times 10^{-9}\\text{ N}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravitational_constant_unit",
+    "questionText": "Which of the following represents the correct standard SI unit for expressing the universal gravitational constant G?",
+    "questionLatex": "\\text{Which of the following represents the correct standard SI unit for expressing the universal gravitational constant } G?",
+    "options": [
+      {"text": "N·m/kg", "latex": "\\text{N}\\cdot\\text{m}\\cdot\\text{kg}^{-1}"},
+      {"text": "N·m²/kg²", "latex": "\\text{N}\\cdot\\text{m}^2\\cdot\\text{kg}^{-2}"},
+      {"text": "N·kg²/m²", "latex": "\\text{N}\\cdot\\text{kg}^2\\cdot\\text{m}^{-2}"},
+      {"text": "m²/s²", "latex": "\\text{m}^2\\cdot\\text{s}^{-2}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "N·m²/kg²",
+      "latex": "\\text{N}\\cdot\\text{m}^2\\cdot\\text{kg}^{-2}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "cavendish_experiment",
+    "questionText": "The extremely small numerical value of the universal gravitational constant G was first determined experimentally using a sensitive torsion balance by which scientist?",
+    "questionLatex": "\\text{The extremely small numerical value of the universal gravitational constant } G \\text{ was first determined experimentally using a sensitive torsion balance by which scientist?}",
+    "options": [
+      {"text": "Sir Isaac Newton", "latex": "\\text{Sir Isaac Newton}"},
+      {"text": "Galileo Galilei", "latex": "\\text{Galileo Galilei}"},
+      {"text": "Henry Cavendish", "latex": "\\text{Henry Cavendish}"},
+      {"text": "Johannes Kepler", "latex": "\\text{Johannes Kepler}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Henry Cavendish",
+      "latex": "\\text{Henry Cavendish}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "acceleration_due_gravity_mcq",
+    "questionText": "Given that the mass of the Earth is 6.0 × 10²⁴ kg and its mean radius is 6.4 × 10⁶ m, calculate the acceleration due to gravity g on the surface of the Earth. Take G = 6.67 × 10⁻¹¹ N·m²/kg².",
+    "questionLatex": "\\text{Given that the mass of the Earth is } 6.0 \\times 10^{24} \\text{ kg and its mean radius is } 6.4 \\times 10^6 \\text{ m, calculate the acceleration due to gravity } g \\text{ on the surface of the Earth. Take } G = 6.67 \\times 10^{-11} \\text{ N}\\cdot\\text{m}^2/\\text{kg}^2\\text{.}",
+    "options": [
+      {"text": "4.90 m/s²", "latex": "4.90\\text{ m/s}^2"},
+      {"text": "9.77 m/s²", "latex": "9.77\\text{ m/s}^2"},
+      {"text": "11.20 m/s²", "latex": "11.20\\text{ m/s}^2"},
+      {"text": "39.20 m/s²", "latex": "39.20\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "9.77 m/s²",
+      "latex": "9.77\\text{ m/s}^2"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_central_force",
+    "questionText": "Because the line of action of the mutual gravitational interaction always points along the line intersecting the centers of mass of the interacting bodies, gravity is classified as a:",
+    "questionLatex": "\\text{Because the line of action of the mutual gravitational interaction always points along the line intersecting the centers of mass of the interacting bodies, gravity is classified as a:}",
+    "options": [
+      {"text": "Contact force requiring macroscopic spatial interaction", "latex": "\\text{Contact force}"},
+      {"text": "Central force directed toward or away from a fixed point", "latex": "\\text{Central force}"},
+      {"text": "Dissipative non-conservative frictional force field", "latex": "\\text{Frictional force}"},
+      {"text": "Non-inertial coordinate-dependent pseudo force", "latex": "\\text{Pseudo force}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Central force directed toward or away from a fixed point",
+      "latex": "\\text{Central force field}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_kepler",
+    "questionText": "Kepler's second law of planetary motion, which outlines that the areal velocity of a planet remains constant, is a direct physical manifestation of the conservation of which quantity?",
+    "questionLatex": "\\text{Kepler's second law of planetary motion, which outlines that the areal velocity of a planet remains constant, is a direct physical manifestation of the conservation of which quantity?}",
+    "options": [
+      {"text": "Total linear momentum vector", "latex": "\\mathbf{p}"},
+      {"text": "Total mechanical energy of the system", "latex": "E"},
+      {"text": "Total orbital angular momentum vector", "latex": "\\mathbf{L}"},
+      {"text": "Total rest mass of the individual body", "latex": "m"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Total orbital angular momentum vector",
+      "latex": "\\mathbf{L}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_height_variation",
+    "questionText": "The exact mathematical expression for the acceleration due to gravity g(h) at a radial height h above the Earth's surface, where M_E is the mass of the Earth and R_E is its radius, is given by:",
+    "questionLatex": "\\text{The exact mathematical expression for the acceleration due to gravity } g(h) \\text{ at a radial height h above the Earth's surface, where } M_E \\text{ is the mass of the Earth and } R_E \\text{ is its radius, is given by:}",
+    "options": [
+      {"text": "g(h) = GM_E / (R_E + h)", "latex": "g(h) = \\frac{GM_E}{R_E + h}"},
+      {"text": "g(h) = GM_E / (R_E + h)²", "latex": "g(h) = \\frac{GM_E}{(R_E + h)^2}"},
+      {"text": "g(h) = GM_E · (R_E + h)³", "latex": "g(h) = GM_E(R_E + h)^3"},
+      {"text": "g(h) = g", "latex": "g(h) = g"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "g(h) = GM_E / (R_E + h)²",
+      "latex": "g(h) = \\frac{GM_E}{(R_E + h)^2}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_depth_variation",
+    "questionText": "Assuming the Earth is a perfectly uniform sphere of radius R_E, the acceleration due to gravity g(d) at a depth d below its surface is related to the surface value g by:",
+    "questionLatex": "\\text{Assuming the Earth is a perfectly uniform sphere of radius } R_E\\text{, the acceleration due to gravity } g(d) \\text{ at a depth d below its surface is related to the surface value g by:}",
+    "options": [
+      {"text": "g(d) = g · (1 + d / R_E)", "latex": "g(d) = g\\left(1 + \\frac{d}{R_E}\\right)"},
+      {"text": "g(d) = g · (1 - d / R_E)", "latex": "g(d) = g\\left(1 - \\frac{d}{R_E}\\right)"},
+      {"text": "g(d) = g · (R_E / d)", "latex": "g(d) = g\\left(\\frac{R_E}{d}\\right)"},
+      {"text": "g(d) = g · (d / R_E)", "latex": "g(d) = g\\left(\\frac{d}{R_E}\\right)"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "g(d) = g · (1 - d / R_E)",
+      "latex": "g(d) = g\\left(1 - \\frac{d}{R_E}\\right)"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "maximum_g",
+    "questionText": "Considering the structural variation inside and outside a uniform spherical planet, the magnitude of the acceleration due to gravity achieves its absolute maximum value:",
+    "questionLatex": "\\text{Considering the structural variation inside and outside a uniform spherical planet, the magnitude of the acceleration due to gravity achieves its absolute maximum value:}",
+    "options": [
+      {"text": "At the precise physical geometric center of the Earth", "latex": "\\text{At the geometric center}"},
+      {"text": "At an infinite asymptotic distance away from the planet", "latex": "\\text{At } r = \\infty"},
+      {"text": "On the immediate spherical surface of the Earth", "latex": "\\text{On the spherical surface}"},
+      {"text": "At a subterranean depth exactly equal to half the planet's radius", "latex": "\\text{At depth } d = \\frac{R_E}{2}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "On the immediate spherical surface of the Earth",
+      "latex": "\\text{On the spherical surface}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_half_value_height_mcq",
+    "questionText": "Determine the exact radial height h above the Earth's surface at which the localized acceleration due to gravity reduces to precisely one-fourth of its standard surface value g (where R_E is the radius of the Earth).",
+    "questionLatex": "\\text{Determine the exact radial height h above the Earth's surface at which the localized acceleration due to gravity reduces to precisely one-fourth of its standard surface value g (where } R_E \\text{ is the radius of the Earth).}",
+    "options": [
+      {"text": "h = R_E / 2", "latex": "h = \\frac{1}{2}R_E"},
+      {"text": "h = R_E", "latex": "h = R_E"},
+      {"text": "h = 2R_E", "latex": "h = 2R_E"},
+      {"text": "h = 3R_E", "latex": "h = 3R_E"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "h = R_E",
+      "latex": "h = R_E"
+    },
+    "difficultyScore": 62,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "potential_energy_sign",
+    "questionText": "When the reference zero coordinate of gravitational potential energy for a two-particle system is conventionally established at an infinite separation distance, the potential energy of the bound system at any finite distance is:",
+    "questionLatex": "\\text{When the reference zero coordinate of gravitational potential energy for a two-particle system is conventionally established at an infinite separation distance, the potential energy of the bound system at any finite distance is:}",
+    "options": [
+      {"text": "Always positive, signifying mutual macroscopic repulsion", "latex": "\\text{Always positive}"},
+      {"text": "Always identically zero due to conservative path symmetries", "latex": "\\text{Always zero}"},
+      {"text": "Always negative, fundamentally indicating the attractive character of the force", "latex": "\\text{Always negative}"},
+      {"text": "Perfectly independent of the scalar separation distance", "latex": "\\text{Independent of distance}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Always negative, fundamentally indicating the attractive character of the force",
+      "latex": "\\text{Always negative}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "potential_energy_formula",
+    "questionText": "The standard expression for the mutual gravitational potential energy U between two point masses m_1 and m_2 separated by a scalar distance r (with zero potential energy chosen at infinity) is:",
+    "questionLatex": "\\text{The standard expression for the mutual gravitational potential energy U between two point masses } m_1 \\text{ and } m_2 \\text{ separated by a scalar distance r (with zero potential energy chosen at infinity) is:}",
+    "options": [
+      {"text": "U = G · m_1 · m_2 / r", "latex": "U = \\frac{Gm_1m_2}{r}"},
+      {"text": "U = -G · m_1 · m_2 / r", "latex": "U = -\\frac{Gm_1m_2}{r}"},
+      {"text": "U = -G · m_1 · m_2 / r²", "latex": "U = -\\frac{Gm_1m_2}{r^2}"},
+      {"text": "U = G · m_1 · m_2 / r³", "latex": "U = \\frac{Gm_1m_2}{r^3}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "U = -G · m_1 · m_2 / r",
+      "latex": "U = -\\frac{Gm_1m_2}{r}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "potential_energy_double_distance_mcq",
+    "questionText": "If the spatial separation distance between two interacting point particles is scaled to exactly twice its original value, how does the system's gravitational potential energy change relative to its initial value U?",
+    "questionLatex": "\\text{If the spatial separation distance between two interacting point particles is scaled to exactly twice its original value, how does the system's gravitational potential energy change relative to its initial value U?}",
+    "options": [
+      {"text": "It becomes 2U", "latex": "2U"},
+      {"text": "It becomes U / 2", "latex": "\\frac{1}{2}U"},
+      {"text": "It becomes 4U", "latex": "4U"},
+      {"text": "It becomes U / 4", "latex": "\\frac{1}{4}U"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "It becomes U / 2",
+      "latex": "\\frac{1}{2}U"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravitational_potential_definition",
+    "questionText": "The gravitational potential at a specific position within a gravitational field is fundamentally defined as the field's:",
+    "questionLatex": "\\text{The gravitational potential at a specific position within a gravitational field is fundamentally defined as the field's:}",
+    "options": [
+      {"text": "Gravitational force exerted per unit test mass", "latex": "\\frac{\\mathbf{F}}{m}"},
+      {"text": "Gravitational potential energy stored per unit test mass", "latex": "\\frac{U}{m}"},
+      {"text": "Total gravitational field energy concentrated per unit volume", "latex": "\\frac{E}{V}"},
+      {"text": "External mechanical work executed per unit vector force", "latex": "\\frac{W}{F}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Gravitational potential energy stored per unit test mass",
+      "latex": "\\frac{U}{m}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravitational_potential_formula",
+    "questionText": "The mathematical equation expressing the scalar gravitational potential V produced by the Earth (mass M_E) at a radial distance r from its center is:",
+    "questionLatex": "\\text{The mathematical equation expressing the scalar gravitational potential V produced by the Earth (mass } M_E\\text{) at a radial distance r from its center is:}",
+    "options": [
+      {"text": "V = -GM_E / r", "latex": "V = -\\frac{GM_E}{r}"},
+      {"text": "V = GM_E / r", "latex": "V = \\frac{GM_E}{r}"},
+      {"text": "-GM_E / r²", "latex": "V = -\\frac{GM_E}{r^2}"},
+      {"text": "GM_E / r²", "latex": "V = \\frac{GM_E}{r^2}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "V = -GM_E / r",
+      "latex": "V = -\\frac{GM_E}{r}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "work_done_in_gravity_mcq",
+    "questionText": "A massive block of 2 kg is lifted vertically upward through a displacement height of 10 m near the Earth's surface. Using g = 9.8 m/s², compute the total mechanical work done against the gravitational field.",
+    "questionLatex": "\\text{A massive block of } 2 \\text{ kg is lifted vertically upward through a displacement height of } 10 \\text{ m near the Earth's surface. Using } g = 9.8 \\text{ m/s}^2\\text{, compute the total mechanical work done against the gravitational field.}",
+    "options": [
+      {"text": "19.6 J", "latex": "19.6\\text{ J}"},
+      {"text": "98.0 J", "latex": "98.0\\text{ J}"},
+      {"text": "196.0 J", "latex": "196.0\\text{ J}"},
+      {"text": "392.0 J", "latex": "392.0\\text{ J}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "196.0 J",
+      "latex": "196.0\\text{ J}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_definition",
+    "questionText": "The escape velocity from a celestial body like the Earth is fundamentally defined as the minimum initial speed required for a projectile to:",
+    "questionLatex": "\\text{The escape velocity from a celestial body like the Earth is fundamentally defined as the minimum initial speed required for a projectile to:}",
+    "options": [
+      {"text": "Attain a maximum vertical displacement altitude exactly equal to the planet's mean radius", "latex": "h = R_E"},
+      {"text": "Enter into a stable closed circular trajectory immediately above the dense atmospheric layers", "latex": "\\text{Establish a closed orbit}"},
+      {"text": "Escape to an infinite distance from the planet's surface without experiencing any additional subsequent propulsion", "latex": "\\text{Escape the gravitational field completely}"},
+      {"text": "Traverse the intervening space and arrive within the local gravitational sphere of influence of the Moon", "latex": "\\text{Reach lunar orbit}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Escape to an infinite distance from the planet's surface without experiencing any additional subsequent propulsion",
+      "latex": "\\text{Escape the gravitational field completely}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_formula",
+    "questionText": "Which of the following mathematical equations correctly determines the escape velocity v_e from the surface of a spherical planet of mass M and radius R?",
+    "questionLatex": "\\text{Which of the following mathematical equations correctly determines the escape velocity } v_e \\text{ from the surface of a spherical planet of mass M and radius R?}",
+    "options": [
+      {"text": "v_e = √(GM / R)", "latex": "v_e = \\sqrt{\\frac{GM}{R}}"},
+      {"text": "v_e = √(2GM / R)", "latex": "v_e = \\sqrt{\\frac{2GM}{R}}"},
+      {"text": "v_e = 2GM / R", "latex": "v_e = \\frac{2GM}{R}"},
+      {"text": "v_e = GM / R²", "latex": "v_e = \\frac{GM}{R^2}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v_e = √(2GM / R)",
+      "latex": "v_e = \\sqrt{\\frac{2GM}{R}}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_relation",
+    "questionText": "The escape velocity v_e from the surface of the Earth is expressed in terms of the surface acceleration due to gravity g and the Earth's radius R by which equation?",
+    "questionLatex": "\\text{The escape velocity } v_e \\text{ from the surface of the Earth is expressed in terms of the surface acceleration due to gravity g and the Earth's radius R by which equation?}",
+    "options": [
+      {"text": "v_e = √(gR)", "latex": "v_e = \\sqrt{gR}"},
+      {"text": "v_e = √(2gR)", "latex": "v_e = \\sqrt{2gR}"},
+      {"text": "v_e = 2gR", "latex": "v_e = 2gR"},
+      {"text": "v_e = gR²", "latex": "v_e = gR^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v_e = √(2gR)",
+      "latex": "v_e = \\sqrt{2gR}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_earth_mcq",
+    "questionText": "Calculate the magnitude of the escape velocity from the surface of the Earth. Assume a mean radius R = 6.4 × 10⁶ m and surface acceleration due to gravity g = 9.8 m/s².",
+    "questionLatex": "\\text{Calculate the magnitude of the escape velocity from the surface of the Earth. Assume a mean radius } R = 6.4 \\times 10^6 \\text{ m and surface acceleration due to gravity } g = 9.8 \\text{ m/s}^2\\text{.}",
+    "options": [
+      {"text": "7.9 km/s", "latex": "7.9\\text{ km/s}"},
+      {"text": "11.2 km/s", "latex": "11.2\\text{ km/s}"},
+      {"text": "14.1 km/s", "latex": "14.1\\text{ km/s}"},
+      {"text": "22.4 km/s", "latex": "22.4\\text{ km/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "11.2 km/s",
+      "latex": "11.2\\text{ km/s}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "orbital_velocity_definition",
+    "questionText": "The orbital velocity of a satellite is explicitly defined as the specific velocity required to:",
+    "questionLatex": "\\text{The orbital velocity of a satellite is explicitly defined as the specific velocity required to:}",
+    "options": [
+      {"text": "Overcome the planet's gravitational pull and reach infinite separation distance", "latex": "\\text{Escape the gravitational domain}"},
+      {"text": "Establish and maintain a stable, closed equilibrium orbit around the central body", "latex": "\\text{Maintain a stable orbit}"},
+      {"text": "Execute a linear trajectory directly matching lunar coordinates", "latex": "\\text{Reach lunar space}"},
+      {"text": "Maintain a fixed, constant tangential acceleration profile along an open trajectory", "latex": "\\text{Accelerate uniformly}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Establish and maintain a stable, closed equilibrium orbit around the central body",
+      "latex": "\\text{Maintain a stable orbit}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "orbital_velocity_formula",
+    "questionText": "The orbital velocity v_o of an artificial satellite moving in a circular orbit at a radial distance r from the center of the Earth (mass M_E) is expressed as:",
+    "questionLatex": "\\text{The orbital velocity } v_o \\text{ of an artificial satellite moving in a circular orbit at a radial distance r from the center of the Earth (mass } M_E\\text{) is expressed as:}",
+    "options": [
+      {"text": "v_o = √(GM_E / r)", "latex": "v_o = \\sqrt{\\frac{GM_E}{r}}"},
+      {"text": "v_o = √(2GM_E / r)", "latex": "v_o = \\sqrt{\\frac{2GM_E}{r}}"},
+      {"text": "v_o = GM_E / r", "latex": "v_o = \\frac{GM_E}{r}"},
+      {"text": "v_o = GM_E / r²", "latex": "v_o = \\frac{GM_E}{r^2}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "v_o = √(GM_E / r)",
+      "latex": "v_o = \\sqrt{\\frac{GM_E}{r}}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_orbital_relation",
+    "questionText": "Which of the following equations accurately states the algebraic relationship between the escape velocity v_e and the orbital velocity v_o for a satellite operating extremely close to the Earth's surface?",
+    "questionLatex": "\\text{Which of the following equations accurately states the algebraic relationship between the escape velocity } v_e \\text{ and the orbital velocity } v_o \\text{ for a satellite operating extremely close to the Earth's surface?}",
+    "options": [
+      {"text": "v_e = v_o", "latex": "v_e = v_o"},
+      {"text": "v_e = 2 · v_o", "latex": "v_e = 2v_o"},
+      {"text": "v_e = √2 · v_o", "latex": "v_e = \\sqrt{2}v_o"},
+      {"text": "v_e = v_o / 2", "latex": "v_e = \\frac{v_o}{2}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "v_e = √2 · v_o",
+      "latex": "v_e = \\sqrt{2}v_o"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "orbital_velocity_earth_mcq",
+    "questionText": "Compute the orbital speed v_o required for a space satellite to maintain a stable circular orbit trailing immediately above the surface of the Earth. Take g = 9.8 m/s² and R = 6.4 × 10⁶ m.",
+    "questionLatex": "\\text{Compute the orbital speed } v_o \\text{ required for a space satellite to maintain a stable circular orbit trailing immediately above the surface of the Earth. Take } g = 9.8 \\text{ m/s}^2 \\text{ and } R = 6.4 \\times 10^6 \\text{ m.}",
+    "options": [
+      {"text": "5.6 km/s", "latex": "5.6\\text{ km/s}"},
+      {"text": "7.9 km/s", "latex": "7.9\\text{ km/s}"},
+      {"text": "11.2 km/s", "latex": "11.2\\text{ km/s}"},
+      {"text": "15.8 km/s", "latex": "15.8\\text{ km/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "7.9 km/s",
+      "latex": "7.9\\text{ km/s}"
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "satellite_energy",
+    "questionText": "The total mechanical energy E (sum of kinetic and potential energy) of a satellite orbiting in a stable, closed circular track under gravity is fundamentally evaluated as a:",
+    "questionLatex": "\\text{The total mechanical energy E (sum of kinetic and potential energy) of a satellite orbiting in a stable, closed circular track under gravity is fundamentally evaluated as a:}",
+    "options": [
+      {"text": "Positive value, indicating an unbound escaping configuration", "latex": "\\text{Positive quantity}"},
+      {"text": "Zero scalar value, representing asymptotic parabolic thresholds", "latex": "\\text{Zero value}"},
+      {"text": "Negative value, indicating a gravitationally bound state", "latex": "\\text{Negative quantity}"},
+      {"text": "Infinite value, resulting from divergent orbital limits", "latex": "\\text{Infinite magnitude}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Negative value, indicating a gravitationally bound state",
+      "latex": "\\text{Negative quantity}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "satellite_potential_kinetic",
+    "questionText": "For a satellite moving in a stable circular orbit with a constant kinetic energy K, the system's mutual gravitational potential energy U is related to K by:",
+    "questionLatex": "\\text{For a satellite moving in a stable circular orbit with a constant kinetic energy K, the system's mutual gravitational potential energy U is related to K by:}",
+    "options": [
+      {"text": "U = -K", "latex": "U = -K"},
+      {"text": "U = -2K", "latex": "U = -2K"},
+      {"text": "U = K / 2", "latex": "U = \\frac{1}{2}K"},
+      {"text": "U = 2K", "latex": "U = 2K"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "U = -2K",
+      "latex": "U = -2K"
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "kinetic_energy_satellite",
+    "questionText": "The kinetic energy K of a satellite of mass m moving in a stable circular orbit of radius r around a planet of mass M is given by which expression?",
+    "questionLatex": "\\text{The kinetic energy K of a satellite of mass m moving in a stable circular orbit of radius r around a planet of mass M is given by which expression?}",
+    "options": [
+      {"text": "GMm / r", "latex": "K = \\frac{GMm}{r}"},
+      {"text": "GMm / 2r", "latex": "K = \\frac{GMm}{2r}"},
+      {"text": "GMm / 4r", "latex": "K = \\frac{GMm}{4r}"},
+      {"text": "-GMm / 2r", "latex": "K = -\\frac{GMm}{2r}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "GMm / 2r",
+      "latex": "K = \\frac{GMm}{2r}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "geostationary_satellite_definition",
+    "questionText": "An artificial satellite launched into orbit is classified as a geostationary satellite primarily because it appears completely stationary to a ground-based observer. This phenomenon occurs because:",
+    "questionLatex": "\\text{An artificial satellite launched into orbit is classified as a geostationary satellite primarily because it appears completely stationary to a ground-based observer. This phenomenon occurs because:}",
+    "options": [
+      {"text": "Its linear velocity vector drops identically to zero relative to the Earth's center", "latex": "v = 0"},
+      {"text": "Its orbital time period precisely matches the sidereal rotational period of the Earth about its axis", "latex": "T = 24\\text{ h}"},
+      {"text": "It is positioned exactly at the core geometric center of the Earth's gravitational mass", "latex": "\\text{Positioned at center}"},
+      {"text": "Its tangential angular speed is significantly greater than the Earth's surface rotation velocity", "latex": "\\omega > \\omega_E"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Its orbital time period precisely matches the sidereal rotational period of the Earth about its axis",
+      "latex": "T = 24\\text{ h}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "geostationary_satellite_plane",
+    "questionText": "To remain completely synchronized with a fixed geographic location on the spinning surface of the Earth, a geostationary satellite must have its orbit restricted to:",
+    "questionLatex": "\\text{To remain completely synchronized with a fixed geographic location on the spinning surface of the Earth, a geostationary satellite must have its orbit restricted to:}",
+    "options": [
+      {"text": "Any arbitrary orbit inclined at an angle to the rotational axis", "latex": "\\text{Arbitrary inclined plane}"},
+      {"text": "A longitudinal polar orbit intersecting both geographic poles", "latex": "\\text{Polar orbital plane}"},
+      {"text": "The equatorial plane, moving from west to east", "latex": "\\text{Equatorial orbital plane}"},
+      {"text": "A fixed vertical plane orthogonal to the line of nodes", "latex": "\\text{Vertical plane}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The equatorial plane, moving from west to east",
+      "latex": "\\text{Equatorial orbital plane}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "geostationary_period",
+    "questionText": "The orbital time period required for a satellite to achieve a geostationary status relative to the Earth's surface rotation is approximately:",
+    "questionLatex": "\\text{The orbital time period required for a satellite to achieve a geostationary status relative to the Earth's surface rotation is approximately:}",
+    "options": [
+      {"text": "12 h", "latex": "12\\text{ h}"},
+      {"text": "18 h", "latex": "18\\text{ h}"},
+      {"text": "24 h", "latex": "24\\text{ h}"},
+      {"text": "48 h", "latex": "48\\text{ h}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "24 h",
+      "latex": "24\\text{ h}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "orbital_period_formula_mcq",
+    "questionText": "A satellite moves in a stable circular path around a planet of mass M at a center-to-center distance r. According to Kepler's third law, its orbital period T is directly proportional to:",
+    "questionLatex": "\\text{A satellite moves in a stable circular path around a planet of mass M at a center-to-center distance r. According to Kepler's third law, its orbital period T is directly proportional to:}",
+    "options": [
+      {"text": "r", "latex": "r"},
+      {"text": "r²", "latex": "r^2"},
+      {"text": "r^(3/2)", "latex": "r^{3/2}"},
+      {"text": "r^(2/3)", "latex": "r^{2/3}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "r^(3/2)",
+      "latex": "r^{3/2}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "weightlessness_reason",
+    "questionText": "Human astronauts inside an actively orbiting spacecraft experience a complete state of weightlessness. The underlying physical reason for this condition is that:",
+    "questionLatex": "\\text{Human astronauts inside an actively orbiting spacecraft experience a complete state of weightlessness. The underlying physical reason for this condition is that:}",
+    "options": [
+      {"text": "The local acceleration due to gravity drops identically to zero in space environments", "latex": "g = 0"},
+      {"text": "Both the spacecraft housing and the internal astronauts are undergoing a simultaneous free fall toward the Earth", "latex": "\\text{Simultaneous free fall}"},
+      {"text": "The intrinsic inertial rest mass of the individual human bodies diminishes to zero", "latex": "m = 0"},
+      {"text": "The absence of ambient atmospheric air pressure eliminates external resistive loading forces", "latex": "P = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Both the spacecraft housing and the internal astronauts are undergoing a simultaneous free fall toward the Earth",
+      "latex": "\\text{Simultaneous free fall}"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "weightlessness_definition",
+    "questionText": "In Newtonian mechanics, the physical condition of weightlessness is explicitly defined as a scenario where an object's:",
+    "questionLatex": "\\text{In Newtonian mechanics, the physical condition of weightlessness is explicitly defined as a scenario where an object's:}",
+    "options": [
+      {"text": "Intrinsic structural mass reduces to zero", "latex": "m = 0"},
+      {"text": "Net gravitational pull experienced from surrounding bodies becomes zero", "latex": "F_g = 0"},
+      {"text": "Apparent weight (the normal reaction force supporting it) becomes zero", "latex": "W_{\\text{app}} = 0"},
+      {"text": "Volumetric mass density profile drops down to zero", "latex": "\\rho = 0"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Apparent weight (the normal reaction force supporting it) becomes zero",
+      "latex": "W_{\\text{app}} = 0"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "binding_energy_definition",
+    "questionText": "The absolute minimum mechanical energy input required to completely separate a bound body from the Earth's restrictive field and move it to infinity is designated as its:",
+    "questionLatex": "\\text{The absolute minimum mechanical energy input required to completely separate a bound body from the Earth's restrictive field and move it to infinity is designated as its:}",
+    "options": [
+      {"text": "Orbiting kinetic energy", "latex": "K"},
+      {"text": "Local gravitational potential energy", "latex": "U"},
+      {"text": "Gravitational binding energy", "latex": "E_b"},
+      {"text": "Rotational kinetic energy", "latex": "E_r"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Gravitational binding energy",
+      "latex": "E_b"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_relation_g_mcq",
+    "questionText": "Consider an unmapped planet whose local acceleration due to gravity at the surface is exactly 4 times that of Earth's value, while its total radius remains identical to the Earth's radius. How does the surface escape velocity of this planet compare to the Earth's escape velocity v_e?",
+    "questionLatex": "\\text{Consider an unmapped planet whose local acceleration due to gravity at the surface is exactly } 4 \\text{ times that of Earth's value, while its total radius remains identical to the Earth's radius. How does the surface escape velocity of this planet compare to the Earth's escape velocity } v_e?",
+    "options": [
+      {"text": "v'_e = v_e", "latex": "v'_e = v_e"},
+      {"text": "v'_e = 2 · v_e", "latex": "v'_e = 2v_e"},
+      {"text": "v'_e = 4 · v_e", "latex": "v'_e = 4v_e"},
+      {"text": "v'_e = v_e / 2", "latex": "v'_e = \\frac{1}{2}v_e"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "v'_e = 2 · v_e",
+      "latex": "v'_e = 2v_e"
+    },
+    "difficultyScore": 65,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "satellite_application",
+    "questionText": "Which of the following activities matches a primary technological operational application of geostationary satellites?",
+    "questionLatex": "\\text{Which of the following activities matches a primary technological operational application of geostationary satellites?}",
+    "options": [
+      {"text": "Deep benthic oceanic exploration and structural imaging", "latex": "\\text{Oceanic exploration}"},
+      {"text": "Global electromagnetic telecommunications, internet, and data broadcasting links", "latex": "\\text{Telecommunications and broadcasting}"},
+      {"text": "Subterranean geological prospecting and core mining operations", "latex": "\\text{Subterranean mining}"},
+      {"text": "Civil engineering structural design for national highway frameworks", "latex": "\\text{Highway engineering}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Global electromagnetic telecommunications, internet, and data broadcasting links",
+      "latex": "\\text{Telecommunications and broadcasting}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "polar_satellite_definition",
+    "questionText": "A polar satellite revolves around the Earth in a stable, closed circular orbit contained within a plane that passes through:",
+    "questionLatex": "\\text{A polar satellite revolves around the Earth in a stable, closed circular orbit contained within a plane that passes through:}",
+    "options": [
+      {"text": "The Earth's equatorial plane only", "latex": "\\text{Equatorial plane}"},
+      {"text": "The Earth's geographic north and south poles", "latex": "\\text{Geographic poles}"},
+      {"text": "The structural plane of the Tropic of Cancer", "latex": "\\text{Tropic plane}"},
+      {"text": "The longitudinal plane of the prime meridian only", "latex": "\\text{Meridian plane}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The geographic north and south poles of the Earth",
+      "latex": "\\text{Geographic poles}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "polar_satellite_use",
+    "questionText": "Due to their low-altitude orbits and specific orbital orientations, polar satellites are optimized and primarily deployed for:",
+    "questionLatex": "\\text{Due to their low-altitude orbits and specific orbital orientations, polar satellites are optimized and primarily deployed for:}",
+    "options": [
+      {"text": "Commercial high-bandwidth television broadcasting networks", "latex": "\\text{Television broadcasting}"},
+      {"text": "Global weather forecasting, meteorological monitoring, and remote sensing", "latex": "\\text{Weather forecasting and remote sensing}"},
+      {"text": "Deep space interstellar travel tracking and radio communication", "latex": "\\text{Deep space communication}"},
+      {"text": "Localized maritime ship navigation networks exclusively", "latex": "\\text{Maritime navigation}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Global weather forecasting, meteorological monitoring, and remote sensing",
+      "latex": "\\text{Weather forecasting and remote sensing}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "earth_density_relation",
+    "questionText": "Assuming the Earth is a perfectly uniform sphere of radius R and mean mass density ρ, the acceleration due to gravity g at its immediate surface is expressed as:",
+    "questionLatex": "\\text{Assuming the Earth is a perfectly uniform sphere of radius R and mean mass density } \\rho\\text{, the acceleration due to gravity g at its immediate surface is expressed as:}",
+    "options": [
+      {"text": "g = (4/3) · π · G · ρ · R", "latex": "g = \\frac{4}{3}\\pi G\\rho R"},
+      {"text": "g = π · G · ρ · R", "latex": "g = \\pi G\\rho R"},
+      {"text": "g = 4 · π · G · ρ · R", "latex": "g = 4\\pi G\\rho R"},
+      {"text": "g = G · ρ / R", "latex": "g = \\frac{G\\rho}{R}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "g = (4/3) · π · G · ρ · R",
+      "latex": "g = \\frac{4}{3}\\pi G\\rho R"
+    },
+    "difficultyScore": 62,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "weight_on_moon_mcq",
+    "questionText": "An object exhibits a static weight of 600 N when measured on the surface of the Earth. Given that the acceleration due to gravity on the Moon is exactly one-sixth of that on the Earth, compute its weight on the lunar surface.",
+    "questionLatex": "\\text{An object exhibits a static weight of } 600 \\text{ N when measured on the surface of the Earth. Given that the acceleration due to gravity on the Moon is exactly one-sixth of that on the Earth, compute its weight on the lunar surface.}",
+    "options": [
+      {"text": "50 N", "latex": "50\\text{ N}"},
+      {"text": "100 N", "latex": "100\\text{ N}"},
+      {"text": "3600 N", "latex": "3600\\text{ N}"},
+      {"text": "600 N", "latex": "600\\text{ N}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "100 N",
+      "latex": "100\\text{ N}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "mass_and_weight_moon",
+    "questionText": "When a physical object is transported from the surface of the Earth to the surface of the Moon, what occurs to its fundamental mass and its measured gravitational weight?",
+    "questionLatex": "\\text{When a physical object is transported from the surface of the Earth to the surface of the Moon, what occurs to its fundamental mass and its measured gravitational weight?}",
+    "options": [
+      {"text": "Both its structural mass and its measured weight decrease due to lower gravity", "latex": "\\text{Mass decreases, weight decreases}"},
+      {"text": "Its structural mass decreases but its measured weight remains absolutely invariant", "latex": "\\text{Mass decreases, weight constant}"},
+      {"text": "Its intrinsic structural mass remains completely unchanged, whereas its measured weight decreases", "latex": "\\text{Mass constant, weight decreases}"},
+      {"text": "Both its intrinsic mass and its measured weight remain entirely invariant", "latex": "\\text{Mass constant, weight constant}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Its intrinsic structural mass remains completely unchanged, whereas its measured weight decreases",
+      "latex": "\\text{Mass constant, weight decreases}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_inside_shell",
+    "questionText": "According to the shell theorem in Newtonian mechanics, the net internal gravitational field intensity E inside an isolated, uniform, thin hollow spherical shell of mass M is:",
+    "questionLatex": "\\text{According to the shell theorem in Newtonian mechanics, the net internal gravitational field intensity E inside an isolated, uniform, thin hollow spherical shell of mass M is:}",
+    "options": [
+      {"text": "Maximum at the precise geometric core center of the shell", "latex": "\\text{Maximum at center}"},
+      {"text": "A non-zero constant value uniform throughout the interior volume", "latex": "E = \\text{constant} \\neq 0"},
+      {"text": "Identically zero at all points located within the hollow boundary", "latex": "E = 0"},
+      {"text": "Infinite at the exact geometric core center due to scaling limits", "latex": "E \\to \\infty"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Identically zero at all points located within the hollow boundary",
+      "latex": "E = 0"
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravity_shell_surface",
+    "questionText": "At external observation coordinates situated completely outside a uniform hollow spherical shell of mass M, the exterior gravitational field behaves mathematically as if:",
+    "questionLatex": "\\text{At external observation coordinates situated completely outside a uniform hollow spherical shell of mass M, the exterior gravitational field behaves mathematically as if:}",
+    "options": [
+      {"text": "The entire mass of the shell is concentrated exclusively at its geometric center point", "latex": "\\text{Mass at center}"},
+      {"text": "The total mass is uniformly bound strictly within the localized two-dimensional shell surface", "latex": "\\text{Mass on surface boundary}"},
+      {"text": "The mass distribution is continuously diluted out through all surrounding space", "latex": "\\text{Mass uniformly distributed in space}"},
+      {"text": "No gravitational field lines project outward, yielding zero force", "latex": "E = 0"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The entire mass of the shell is concentrated exclusively at its geometric center point",
+      "latex": "\\text{Mass at center}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "orbital_period_satellite_mcq",
+    "questionText": "An artificial space satellite launched into orbit completes exactly one full spatial revolution around the Earth in a period of 24 hours. This class of satellite is designated as a:",
+    "questionLatex": "\\text{An artificial space satellite launched into orbit completes exactly one full spatial revolution around the Earth in a period of 24 hours. This class of satellite is designated as a:}",
+    "options": [
+      {"text": "Low Earth polar mapping satellite", "latex": "\\text{Polar satellite}"},
+      {"text": "Geostationary satellite", "latex": "\\text{Geostationary satellite}"},
+      {"text": "Sun-synchronous tracking satellite", "latex": "\\text{Sun-synchronous satellite}"},
+      {"text": "Highly eccentric retrograde satellite", "latex": "\\text{Retrograde satellite}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Geostationary satellite",
+      "latex": "\\text{Geostationary satellite}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "escape_velocity_mass_dependence",
+    "questionText": "The minimum speed required for a projectile to escape a planet's gravitational well depends explicitly on which of the following physical parameters?",
+    "questionLatex": "\\text{The minimum speed required for a projectile to escape a planet's gravitational well depends explicitly on which of the following physical parameters?}",
+    "options": [
+      {"text": "The intrinsic mass of the projectile body being launched only", "latex": "m_{\\text{projectile}}"},
+      {"text": "The total gravitational mass and the core radius of the planet being exited", "latex": "M_{\\text{planet}}, R_{\\text{planet}}"},
+      {"text": "The mean geometric radius of the individual projectile only", "latex": "r_{\\text{projectile}}"},
+      {"text": "The overall geometric shape, cross-section, and volume of the projectile", "latex": "\\text{Shape of projectile}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The total gravitational mass and the core radius of the planet being exited",
+      "latex": "M_{\\text{planet}}, R_{\\text{planet}}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "questionType": "MCQ",
+    "familyId": "gravitational_force_nature",
+    "questionText": "According to Newton's universal law of gravitation, the mutual mechanical force generated between any two distinct massive particle aggregates in the universe is fundamentally:",
+    "questionLatex": "\\text{According to Newton's universal law of gravitation, the mutual mechanical force generated between any two distinct massive particle aggregates in the universe is fundamentally:}",
+    "options": [
+      {"text": "Repulsive under all structural orientations", "latex": "\\text{Repulsive}"},
+      {"text": "Attractive under all structural orientations", "latex": "\\text{Attractive}"},
+      {"text": "Alternating between attractive and repulsive depending on structural thresholds", "latex": "\\text{Variable}"},
+      {"text": "Identically zero due to scalar field cancellations", "latex": "F = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Attractive under all structural orientations",
+      "latex": "\\text{Attractive}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

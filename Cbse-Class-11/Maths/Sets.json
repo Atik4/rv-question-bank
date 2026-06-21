@@ -1,0 +1,1385 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Introduction to Sets",
+    "familyId": "identify_well_defined_set",
+    "questionText": "Which of the following collections is a well-defined set?",
+    "questionLatex": "\\text{Which of the following collections is a well-defined set?}",
+    "options": [
+      {
+        "text": "The collection of beautiful flowers",
+        "latex": "\\text{The collection of beautiful flowers}"
+      },
+      {
+        "text": "The collection of all vowels in the English alphabet",
+        "latex": "\\text{The collection of all vowels in the English alphabet}"
+      },
+      {
+        "text": "The collection of most talented singers",
+        "latex": "\\text{The collection of most talented singers}"
+      },
+      {
+        "text": "The collection of best books",
+        "latex": "\\text{The collection of best books}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The collection of all vowels in the English alphabet",
+      "latex": "\\text{The collection of all vowels in the English alphabet}",
+      "explanation": "The collection of vowels is well-defined because membership can be determined uniquely."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Set Representation",
+    "familyId": "roster_form_conversion",
+    "questionText": "Write the set of natural numbers less than 7 in roster form.",
+    "questionLatex": "\\text{Write the set of natural numbers less than } 7 \\text{ in roster form.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, 2, 3, 4, 5, 6}",
+      "latex": "\\{1, 2, 3, 4, 5, 6\\}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Set Builder Form",
+    "familyId": "set_builder_to_roster",
+    "questionText": "Write the set A = {x : x is a positive integer and x² < 40} in roster form.",
+    "questionLatex": "A = \\{x : x \\text{ is a positive integer and } x^2 < 40\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, 2, 3, 4, 5, 6}",
+      "latex": "\\{1, 2, 3, 4, 5, 6\\}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Membership",
+    "familyId": "element_membership",
+    "questionText": "Let A = {1, 2, 3, 4, 5, 6}. Determine whether 8 belongs to A.",
+    "questionLatex": "A = \\{1, 2, 3, 4, 5, 6\\}, \\; 8 \\notin A",
+    "options": [
+      {
+        "text": "8 ∈ A",
+        "latex": "8 \\in A"
+      },
+      {
+        "text": "8 ∉ A",
+        "latex": "8 \\notin A"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "8 ∉ A",
+      "latex": "8 \\notin A",
+      "explanation": "8 is not listed in set A."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Roster Form",
+    "familyId": "write_roster_form",
+    "questionText": "Write the solution set of x² + x − 2 = 0 in roster form.",
+    "questionLatex": "x^2 + x - 2 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, -2}",
+      "latex": "\\{1, -2\\}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Set Builder Form",
+    "familyId": "roster_to_set_builder",
+    "questionText": "Express the set {1, 4, 9, 16, 25, ...} in set-builder form.",
+    "questionLatex": "\\{1, 4, 9, 16, 25, \\ldots\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{x : x = n², n ∈ N}",
+      "latex": "\\{x : x = n^2, n \\in \\mathbb{N}\\}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Well Defined Collections",
+    "familyId": "identify_set",
+    "questionText": "State whether the collection of all even integers forms a set.",
+    "questionLatex": "\\text{State whether the collection of all even integers forms a set.}",
+    "options": [
+      {
+        "text": "Yes",
+        "latex": "\\text{Yes}"
+      },
+      {
+        "text": "No",
+        "latex": "\\text{No}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Yes",
+      "latex": "\\text{Yes}",
+      "explanation": "It is a well-defined collection."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Word Based Sets",
+    "familyId": "letters_of_word",
+    "questionText": "Write the set of letters of the word SCHOOL.",
+    "questionLatex": "\\text{Letters of the word SCHOOL}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{S, C, H, O, L}",
+      "latex": "\\{S, C, H, O, L\\}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Set Builder Form",
+    "familyId": "fraction_set_builder",
+    "questionText": "Express the set {1/2, 2/3, 3/4, 4/5, 5/6, 6/7} in set-builder form.",
+    "questionLatex": "\\left\\{\\frac{1}{2}, \\frac{2}{3}, \\frac{3}{4}, \\frac{4}{5}, \\frac{5}{6}, \\frac{6}{7}\\right\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{x : x = n/(n+1), 1 ≤ n ≤ 6, n ∈ N}",
+      "latex": "\\{x : x = n/(n+1), 1 \\leq n \\leq 6, n \\in \\mathbb{N}\\}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Roster Form",
+    "familyId": "integer_roster_form",
+    "questionText": "Write the set {x : x is an integer and -3 ≤ x < 7} in roster form.",
+    "questionLatex": "\\{x : x \\in \\mathbb{Z}, -3 \\leq x < 7\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6}",
+      "latex": "\\{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6\\}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Empty Set",
+    "familyId": "identify_empty_set",
+    "questionText": "Which of the following represents an empty set?",
+    "questionLatex": "\\text{Which of the following represents an empty set?}",
+    "options": [
+      {
+        "text": "{x : x is an even prime number}",
+        "latex": "\\{x : x \\text{ is an even prime number}\\}"
+      },
+      {
+        "text": "{x : x is an odd natural number divisible by 2}",
+        "latex": "\\{x : x \\text{ is an odd natural number divisible by 2}\\}"
+      },
+      {
+        "text": "{2}",
+        "latex": "\\{2\\}"
+      },
+      {
+        "text": "{1, 3, 5}",
+        "latex": "\\{1, 3, 5\\}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "{x : x is an odd natural number divisible by 2}",
+      "latex": "\\{x : x \\text{ is an odd natural number divisible by 2}\\}",
+      "explanation": "No odd natural number is divisible by 2."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Empty Set",
+    "familyId": "null_set_identification",
+    "questionText": "Determine whether the set A = {x : 1 < x < 2, x is a natural number} is empty.",
+    "questionLatex": "A = \\{x : 1 < x < 2, \\; x \\in \\mathbb{N}\\}",
+    "options": [
+      {
+        "text": "Empty set",
+        "latex": "\\text{Empty set}"
+      },
+      {
+        "text": "Non-empty set",
+        "latex": "\\text{Non-empty set}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Empty set",
+      "latex": "\\text{Empty set}",
+      "explanation": "There is no natural number between 1 and 2."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Finite and Infinite Sets",
+    "familyId": "finite_infinite_classification",
+    "questionText": "State whether the set of natural numbers is finite or infinite.",
+    "questionLatex": "\\text{State whether the set of natural numbers is finite or infinite.}",
+    "options": [
+      {
+        "text": "Finite",
+        "latex": "\\text{Finite}"
+      },
+      {
+        "text": "Infinite",
+        "latex": "\\text{Infinite}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Infinite",
+      "latex": "\\text{Infinite}",
+      "explanation": "The set of natural numbers contains infinitely many elements."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Finite and Infinite Sets",
+    "familyId": "finite_set_identification",
+    "questionText": "Find the number of elements in the set of days of a week.",
+    "questionLatex": "\\text{Find } n(W) \\text{ where } W \\text{ is the set of days of a week.}",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "7",
+      "latex": "7",
+      "value": 7
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Finite and Infinite Sets",
+    "familyId": "classify_set",
+    "questionText": "Classify the set of all prime numbers as finite or infinite.",
+    "questionLatex": "\\text{Classify the set of all prime numbers as finite or infinite.}",
+    "options": [
+      {
+        "text": "Finite",
+        "latex": "\\text{Finite}"
+      },
+      {
+        "text": "Infinite",
+        "latex": "\\text{Infinite}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Infinite",
+      "latex": "\\text{Infinite}",
+      "explanation": "There are infinitely many prime numbers."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Equal Sets",
+    "familyId": "equal_sets_identification",
+    "questionText": "Are the sets A = {1, 2, 3, 4} and B = {3, 1, 4, 2} equal?",
+    "questionLatex": "A = \\{1, 2, 3, 4\\}, \\; B = \\{3, 1, 4, 2\\}",
+    "options": [
+      {
+        "text": "Equal",
+        "latex": "\\text{Equal}"
+      },
+      {
+        "text": "Not Equal",
+        "latex": "\\text{Not Equal}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Equal",
+      "latex": "\\text{Equal}",
+      "explanation": "Both sets contain exactly the same elements."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Equal Sets",
+    "familyId": "equal_sets_reasoning",
+    "questionText": "Determine whether the sets {1, 2, 3} and {2, 2, 1, 3, 3} are equal.",
+    "questionLatex": "\\{1, 2, 3\\} \\text{ and } \\{2, 2, 1, 3, 3\\}",
+    "options": [
+      {
+        "text": "Equal",
+        "latex": "\\text{Equal}"
+      },
+      {
+        "text": "Not Equal",
+        "latex": "\\text{Not Equal}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Equal",
+      "latex": "\\text{Equal}",
+      "explanation": "Repeated elements do not affect a set."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Equal Sets",
+    "familyId": "solve_and_compare_sets",
+    "questionText": "Find the set of integral positive roots of x² − 2x − 15 = 0.",
+    "questionLatex": "x^2 - 2x - 15 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{5}",
+      "latex": "\\{5\\}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Equal Sets",
+    "familyId": "letters_set_equality",
+    "questionText": "Are the sets formed by the letters of the words ALLOY and LOYAL equal?",
+    "questionLatex": "\\text{Compare the sets formed by ALLOY and LOYAL}",
+    "options": [
+      {
+        "text": "Equal",
+        "latex": "\\text{Equal}"
+      },
+      {
+        "text": "Not Equal",
+        "latex": "\\text{Not Equal}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Equal",
+      "latex": "\\text{Equal}",
+      "explanation": "Both contain the same distinct letters A, L, O and Y."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Finite and Infinite Sets",
+    "familyId": "set_classification_equation",
+    "questionText": "State whether the set {x : x ∈ N and (x − 1)(x − 2) = 0} is finite or infinite.",
+    "questionLatex": "\\{x : x \\in \\mathbb{N}, \\, (x - 1)(x - 2) = 0\\}",
+    "options": [
+      {
+        "text": "Finite",
+        "latex": "\\text{Finite}"
+      },
+      {
+        "text": "Infinite",
+        "latex": "\\text{Infinite}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Finite",
+      "latex": "\\text{Finite}",
+      "explanation": "The set contains only the elements 1 and 2."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Subsets",
+    "familyId": "subset_identification",
+    "questionText": "Determine whether A = {1, 3, 5} is a subset of B = {1, 3, 5, 7, 9}.",
+    "questionLatex": "A = \\{1, 3, 5\\}, \\; B = \\{1, 3, 5, 7, 9\\}",
+    "options": [
+      {
+        "text": "A ⊆ B",
+        "latex": "A \\subseteq B"
+      },
+      {
+        "text": "A ⊄ B",
+        "latex": "A \\not\\subseteq B"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "A ⊆ B",
+      "latex": "A \\subseteq B",
+      "explanation": "Every element of A belongs to B."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Subsets",
+    "familyId": "empty_set_subset",
+    "questionText": "Is the empty set a subset of every set?",
+    "questionLatex": "\\emptyset \\text{ and subsets}",
+    "options": [
+      {
+        "text": "Yes",
+        "latex": "\\text{Yes}"
+      },
+      {
+        "text": "No",
+        "latex": "\\text{No}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Yes",
+      "latex": "\\text{Yes}",
+      "explanation": "The empty set is considered a subset of every set."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Proper Subsets",
+    "familyId": "proper_subset_identification",
+    "questionText": "State whether A = {1, 2, 3} is a proper subset of B = {1, 2, 3, 4}.",
+    "questionLatex": "A = \\{1, 2, 3\\}, \\; B = \\{1, 2, 3, 4\\}",
+    "options": [
+      {
+        "text": "Proper Subset",
+        "latex": "\\text{Proper Subset}"
+      },
+      {
+        "text": "Not a Proper Subset",
+        "latex": "\\text{Not a Proper Subset}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Proper Subset",
+      "latex": "\\text{Proper Subset}",
+      "explanation": "A ⊆ B and A ≠ B."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Singleton Set",
+    "familyId": "singleton_set",
+    "questionText": "What type of set is {a}?",
+    "questionLatex": "\\{a\\}",
+    "options": [
+      {
+        "text": "Empty Set",
+        "latex": "\\text{Empty Set}"
+      },
+      {
+        "text": "Singleton Set",
+        "latex": "\\text{Singleton Set}"
+      },
+      {
+        "text": "Infinite Set",
+        "latex": "\\text{Infinite Set}"
+      },
+      {
+        "text": "Universal Set",
+        "latex": "\\text{Universal Set}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Singleton Set",
+      "latex": "\\text{Singleton Set}",
+      "explanation": "A set containing exactly one element is called a singleton set."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Subsets of Real Numbers",
+    "familyId": "number_system_relation",
+    "questionText": "Which of the following relations is correct?",
+    "questionLatex": "\\text{Choose the correct relation}",
+    "options": [
+      {
+        "text": "N ⊂ Z",
+        "latex": "\\mathbb{N} \\subset \\mathbb{Z}"
+      },
+      {
+        "text": "Z ⊂ N",
+        "latex": "\\mathbb{Z} \\subset \\mathbb{N}"
+      },
+      {
+        "text": "Q ⊂ N",
+        "latex": "\\mathbb{Q} \\subset \\mathbb{N}"
+      },
+      {
+        "text": "R ⊂ Q",
+        "latex": "\\mathbb{R} \\subset \\mathbb{Q}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "N ⊂ Z",
+      "latex": "\\mathbb{N} \\subset \\mathbb{Z}",
+      "explanation": "Every natural number is an integer."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intervals",
+    "familyId": "interval_notation",
+    "questionText": "Write the set {x : x ∈ R, -4 < x ≤ 6} in interval notation.",
+    "questionLatex": "\\{x : x \\in \\mathbb{R}, -4 < x \\leq 6\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "(-4, 6]",
+      "latex": "(-4, 6]"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intervals",
+    "familyId": "set_builder_from_interval",
+    "questionText": "Write the interval [-3, 5) in set-builder form.",
+    "questionLatex": "[-3, 5)",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{x : x ∈ R, -3 ≤ x < 5}",
+      "latex": "\\{x : x \\in \\mathbb{R}, -3 \\leq x < 5\\}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intervals",
+    "familyId": "closed_interval",
+    "questionText": "Identify the closed interval among the following.",
+    "questionLatex": "\\text{Identify the closed interval}",
+    "options": [
+      {
+        "text": "(2, 5)",
+        "latex": "(2, 5)"
+      },
+      {
+        "text": "[2, 5]",
+        "latex": "[2, 5]"
+      },
+      {
+        "text": "(2, 5]",
+        "latex": "(2, 5]"
+      },
+      {
+        "text": "[2, 5)",
+        "latex": "[2, 5)"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "[2, 5]",
+      "latex": "[2, 5]",
+      "explanation": "A closed interval includes both end points."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Universal Set",
+    "familyId": "universal_set_concept",
+    "questionText": "Define a universal set.",
+    "questionLatex": "\\text{Define a universal set}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "A universal set is the basic set containing all elements under consideration in a particular context.",
+      "latex": "\\text{A universal set is the basic set containing all elements under consideration in a particular context.}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Subsets",
+    "familyId": "element_vs_subset",
+    "questionText": "Let A = {1, 2, {3, 4}, 5}. Determine whether {3, 4} ∈ A.",
+    "questionLatex": "A = \\{1, 2, \\{3, 4\\}, 5\\}",
+    "options": [
+      {
+        "text": "True",
+        "latex": "\\text{True}"
+      },
+      {
+        "text": "False",
+        "latex": "\\text{False}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "True",
+      "latex": "\\text{True}",
+      "explanation": "The set {3, 4} appears as an element of A."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Venn Diagrams",
+    "familyId": "venn_diagram_identification",
+    "questionText": "In a Venn diagram, what is usually used to represent the universal set?",
+    "questionLatex": "\\text{Representation of universal set in a Venn diagram}",
+    "options": [
+      {
+        "text": "Circle",
+        "latex": "\\text{Circle}"
+      },
+      {
+        "text": "Rectangle",
+        "latex": "\\text{Rectangle}"
+      },
+      {
+        "text": "Triangle",
+        "latex": "\\text{Triangle}"
+      },
+      {
+        "text": "Line Segment",
+        "latex": "\\text{Line Segment}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Rectangle",
+      "latex": "\\text{Rectangle}",
+      "explanation": "The universal set is usually represented by a rectangle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Union of Sets",
+    "familyId": "union_basic",
+    "questionText": "Find A ∪ B if A = {2, 4, 6, 8} and B = {6, 8, 10, 12}.",
+    "questionLatex": "A = \\{2, 4, 6, 8\\}, \\; B = \\{6, 8, 10, 12\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{2, 4, 6, 8, 10, 12}",
+      "latex": "\\{2, 4, 6, 8, 10, 12\\}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Union of Sets",
+    "familyId": "union_definition",
+    "questionText": "The union of two sets A and B consists of elements which are:",
+    "questionLatex": "\\text{Definition of union}",
+    "options": [
+      {
+        "text": "Only in A",
+        "latex": "\\text{Only in A}"
+      },
+      {
+        "text": "Only in B",
+        "latex": "\\text{Only in B}"
+      },
+      {
+        "text": "In both A and B only",
+        "latex": "\\text{In both A and B only}"
+      },
+      {
+        "text": "In A or B or both",
+        "latex": "\\text{In A or B or both}"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "In A or B or both",
+      "latex": "\\text{In A or B or both}",
+      "explanation": "Union contains all elements belonging to A or B or both."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Union Properties",
+    "familyId": "union_identity",
+    "questionText": "Evaluate A ∪ φ.",
+    "questionLatex": "A \\cup \\emptyset",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "A",
+      "latex": "A"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Union Properties",
+    "familyId": "union_subset_property",
+    "questionText": "If B ⊂ A, then find A ∪ B.",
+    "questionLatex": "B \\subset A",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "A",
+      "latex": "A"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intersection of Sets",
+    "familyId": "intersection_basic",
+    "questionText": "Find A ∩ B if A = {2, 4, 6, 8} and B = {6, 8, 10, 12}.",
+    "questionLatex": "A = \\{2, 4, 6, 8\\}, \\; B = \\{6, 8, 10, 12\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{6, 8}",
+      "latex": "\\{6, 8\\}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intersection of Sets",
+    "familyId": "intersection_definition",
+    "questionText": "The intersection of two sets A and B contains elements which are:",
+    "questionLatex": "\\text{Definition of intersection}",
+    "options": [
+      {
+        "text": "Only in A",
+        "latex": "\\text{Only in A}"
+      },
+      {
+        "text": "Only in B",
+        "latex": "\\text{Only in B}"
+      },
+      {
+        "text": "Common to both A and B",
+        "latex": "\\text{Common to both A and B}"
+      },
+      {
+        "text": "Neither in A nor B",
+        "latex": "\\text{Neither in A nor B}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Common to both A and B",
+      "latex": "\\text{Common to both A and B}",
+      "explanation": "Intersection contains only common elements."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intersection Properties",
+    "familyId": "intersection_subset_property",
+    "questionText": "If B ⊂ A, then find A ∩ B.",
+    "questionLatex": "B \\subset A",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "B",
+      "latex": "B"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Disjoint Sets",
+    "familyId": "disjoint_set_identification",
+    "questionText": "Are the sets A = {2, 4, 6, 8} and B = {1, 3, 5, 7} disjoint?",
+    "questionLatex": "A = \\{2, 4, 6, 8\\}, \\; B = \\{1, 3, 5, 7\\}",
+    "options": [
+      {
+        "text": "Yes",
+        "latex": "\\text{Yes}"
+      },
+      {
+        "text": "No",
+        "latex": "\\text{No}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Yes",
+      "latex": "\\text{Yes}",
+      "explanation": "The sets have no common element."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intersection Properties",
+    "familyId": "intersection_identity",
+    "questionText": "Evaluate U ∩ A, where U is the universal set.",
+    "questionLatex": "U \\cap A",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "A",
+      "latex": "A"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "difference_basic",
+    "questionText": "Find A − B if A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6, 8}.",
+    "questionLatex": "A = \\{1, 2, 3, 4, 5, 6\\}, \\; B = \\{2, 4, 6, 8\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{1, 3, 5}",
+      "latex": "\\{1, 3, 5\\}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "difference_reverse",
+    "questionText": "Find B − A if A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6, 8}.",
+    "questionLatex": "A = \\{1, 2, 3, 4, 5, 6\\}, \\; B = \\{2, 4, 6, 8\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{8}",
+      "latex": "\\{8\\}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "difference_definition",
+    "questionText": "The set A − B consists of elements which:",
+    "questionLatex": "\\text{Meaning of } A - B",
+    "options": [
+      {
+        "text": "Belong to both A and B",
+        "latex": "\\text{Belong to both A and B}"
+      },
+      {
+        "text": "Belong to A but not to B",
+        "latex": "\\text{Belong to A but not to B}"
+      },
+      {
+        "text": "Belong to B but not to A",
+        "latex": "\\text{Belong to B but not to A}"
+      },
+      {
+        "text": "Belong to neither A nor B",
+        "latex": "\\text{Belong to neither A nor B}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Belong to A but not to B",
+      "latex": "\\text{Belong to A but not to B}",
+      "explanation": "A − B contains all elements of A that are not elements of B."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "difference_not_commutative",
+    "questionText": "Which of the following statements is generally true?",
+    "questionLatex": "\\text{Property of difference of sets}",
+    "options": [
+      {
+        "text": "A − B = B − A",
+        "latex": "A - B = B - A"
+      },
+      {
+        "text": "A − B ≠ B − A",
+        "latex": "A - B \\neq B - A"
+      },
+      {
+        "text": "A − B = A ∩ B",
+        "latex": "A - B = A \\cap B"
+      },
+      {
+        "text": "A − B = A ∪ B",
+        "latex": "A - B = A \\cup B"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A − B ≠ B − A",
+      "latex": "A - B \\neq B - A",
+      "explanation": "Difference of sets is not commutative in general."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "vowel_difference",
+    "questionText": "Let V = {a, e, i, o, u} and B = {a, i, k, u}. Find V − B.",
+    "questionLatex": "V = \\{a, e, i, o, u\\}, \\; B = \\{a, i, k, u\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{e, o}",
+      "latex": "\\{e, o\\}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Difference of Sets",
+    "familyId": "vowel_difference_reverse",
+    "questionText": "Let V = {a, e, i, o, u} and B = {a, i, k, u}. Find B − V.",
+    "questionLatex": "V = \\{a, e, i, o, u\\}, \\; B = \\{a, i, k, u\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{k}",
+      "latex": "\\{k\\}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Complement of a Set",
+    "familyId": "complement_definition",
+    "questionText": "If U is the universal set and A is a subset of U, then A′ denotes:",
+    "questionLatex": "A'",
+    "options": [
+      {
+        "text": "Union of A",
+        "latex": "\\text{Union of A}"
+      },
+      {
+        "text": "Intersection of A",
+        "latex": "\\text{Intersection of A}"
+      },
+      {
+        "text": "Complement of A",
+        "latex": "\\text{Complement of A}"
+      },
+      {
+        "text": "Difference of A",
+        "latex": "\\text{Difference of A}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Complement of A",
+      "latex": "\\text{Complement of A}",
+      "explanation": "A′ represents the complement of A with respect to U."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Complement of a Set",
+    "familyId": "complement_basic",
+    "questionText": "Let U = {1,2,3,4,5,6,7,8,9,10} and A = {1,3,5,7,9}. Find A′.",
+    "questionLatex": "U = \\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}, \\; A = \\{1, 3, 5, 7, 9\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{2, 4, 6, 8, 10}",
+      "latex": "\\{2, 4, 6, 8, 10\\}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Complement of a Set",
+    "familyId": "complement_relation",
+    "questionText": "Which relation is always true for a universal set U and a subset A?",
+    "questionLatex": "\\text{Complement relation}",
+    "options": [
+      {
+        "text": "A′ = A ∪ U",
+        "latex": "A' = A \\cup U"
+      },
+      {
+        "text": "A′ = A ∩ U",
+        "latex": "A' = A \\cap U"
+      },
+      {
+        "text": "A′ = U − A",
+        "latex": "A' = U - A"
+      },
+      {
+        "text": "A′ = A − U",
+        "latex": "A' = A - U"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "A′ = U − A",
+      "latex": "A' = U - A",
+      "explanation": "The complement of A is the set of elements in U but not in A."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Sets",
+    "topic": "Intersection of Sets",
+    "familyId": "intersection_basic_2",
+    "questionText": "If A = {1,2,3,4} and B = {3,4,5,6}, find A ∩ B.",
+    "questionLatex": "A = \\{1, 2, 3, 4\\}, \\; B = \\{3, 4, 5, 6\\}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "{3, 4}",
+      "latex": "\\{3, 4\\}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

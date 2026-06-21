@@ -1,0 +1,1302 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Introduction to Fluids",
+    "familyId": "fluid_definition",
+    "questionText": "From a macroscopic continuum mechanics perspective, liquid and gaseous states of matter are collectively classified as fluids because:",
+    "questionLatex": "\\text{From a macroscopic continuum mechanics perspective, liquid and gaseous states of matter are collectively classified as fluids because:}",
+    "options": [
+      {"text": "They exhibit a fixed, unyielding geometric shape under high shear loading conditions", "latex": "\\text{Fixed structural shape}"},
+      {"text": "They possess the capacity to deform continuously and flow under the application of even infinitesimally small shear stresses", "latex": "\\text{Capacity to flow continuously}"},
+      {"text": "Their atomic bonds lack mass, thereby canceling gravitational field interactions", "latex": "\\text{Absence of mass fields}"},
+      {"text": "They invariably allow unhindered light transmission across their entire physical profiles", "latex": "\\text{Optical transparency profile}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "They possess the capacity to deform continuously and flow under the application of even infinitesimally small shear stresses",
+      "latex": "\\text{Capacity to flow continuously}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "familyId": "pressure_definition",
+    "questionText": "In fluid statics, the average macroscopic pressure P exerted by a static fluid at rest against an interface boundary surface is defined as the ratio of:",
+    "questionLatex": "\\text{In fluid statics, the average macroscopic pressure P exerted by a static fluid at rest against an interface boundary surface is defined as the ratio of:}",
+    "options": [
+      {"text": "The normal compressive force magnitude to the enclosed total physical volume", "latex": "\\frac{F}{V}"},
+      {"text": "The perpendicular compressive thrust magnitude to the contact cross-sectional surface area", "latex": "\\frac{F_\\perp}{A}"},
+      {"text": "The contact cross-sectional surface area to the perpendicular compressive thrust magnitude", "latex": "\\frac{A}{F_\\perp}"},
+      {"text": "The total fluid mass value to the distribution cross-sectional surface area", "latex": "\\frac{m}{A}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The perpendicular compressive thrust magnitude to the contact cross-sectional surface area",
+      "latex": "\\frac{F_\\perp}{A}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure",
+    "familyId": "pressure_unit",
+    "questionText": "In the International System of Units (SI), the derived unit assigned to systematically measure or report mechanical fluid pressure, structurally equivalent to one newton per square meter, is the:",
+    "questionLatex": "\\text{In the International System of Units (SI), the derived unit assigned to systematically measure or report mechanical fluid pressure, structurally equivalent to } 1\\text{ N m}^{-2}\\text{, is the:}",
+    "options": [
+      {"text": "Joule", "latex": "\\text{J}"},
+      {"text": "Pascal", "latex": "\\text{Pa}"},
+      {"text": "Newton", "latex": "\\text{N}"},
+      {"text": "Watt", "latex": "\\text{W}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal",
+      "latex": "\\text{Pa}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Density",
+    "familyId": "density_formula",
+    "questionText": "The average mass density ρ of a homogeneous fluid volume element is mathematically given by the algebraic expression:",
+    "questionLatex": "\\text{The average mass density } \\rho \\text{ of a homogeneous fluid volume element is mathematically given by the algebraic expression:}",
+    "options": [
+      {"text": "The product of the fluid mass and its total localized volume", "latex": "m \\cdot V"},
+      {"text": "The ratio of the fluid mass to its total localized volume", "latex": "\\frac{m}{V}"},
+      {"text": "The ratio of the fluid volume to its total localized mass", "latex": "\\frac{V}{m}"},
+      {"text": "The summation of the total mass and its profile surface cross-section", "latex": "m + A"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The ratio of the fluid mass to its total localized volume",
+      "latex": "\\frac{m}{V}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure in Fluids",
+    "familyId": "pressure_scalar",
+    "questionText": "When considering the mechanical properties of fluids in static equilibrium, fluid pressure is physically classified as a:",
+    "questionLatex": "\\text{When considering the mechanical properties of fluids in static equilibrium, fluid pressure is physically classified as a:}",
+    "options": [
+      {"text": "Vector quantity, since it acts strictly parallel to gravitational acceleration", "latex": "\\vec{P}"},
+      {"text": "Scalar quantity, since the force exerted is omnidirectional and always normal to any immersion boundary surface profile", "latex": "P"},
+      {"text": "Second-order tensor quantity, describing spatial coordinate orientations independently", "latex": "\\mathbf{T}"},
+      {"text": "Dimensionless pure number possessing no physical units", "latex": "1"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Scalar quantity, since the force exerted is omnidirectional and always normal to any immersion boundary surface profile",
+      "latex": "P"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pascal's Law",
+    "familyId": "pascal_law_statement",
+    "questionText": "According to Pascal's law for fluids in static equilibrium, neglecting gravitational gradients, any change in pressure applied to an enclosed, incompressible fluid matrix is:",
+    "questionLatex": "\\text{According to Pascal's law for fluids in static equilibrium, neglecting gravitational gradients, any change in pressure applied to an enclosed, incompressible fluid matrix is:}",
+    "options": [
+      {"text": "Transmitted unidirectionally toward the upper container lid boundary", "latex": "\\text{Upward directional propagation}"},
+      {"text": "Transmitted exclusively downward parallel to the local vertical axis", "latex": "\\text{Downward directional propagation}"},
+      {"text": "Transmitted entirely undiminished to every internal point of the fluid fluid and to the walls of its vessel", "latex": "\\text{Undiminished transmission omnidirectionally}"},
+      {"text": "Dissipated immediately across viscous boundaries, producing zero net transmission", "latex": "0"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Transmitted entirely undiminished to every internal point of the fluid fluid and to the walls of its vessel",
+      "latex": "\\text{Undiminished transmission omnidirectionally}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure Variation with Depth",
+    "familyId": "pressure_depth_formula",
+    "questionText": "For a static incompressible liquid of uniform mass density ρ open to the atmosphere, the absolute hydrostatic pressure P acting at a vertical distance h below the upper free liquid interface surface is expressed as:",
+    "questionLatex": "\\text{For a static incompressible liquid of uniform mass density } \\rho \\text{ open to the atmosphere, the absolute hydrostatic pressure P acting at a vertical distance h below the upper free liquid interface surface is expressed as:}",
+    "options": [
+      {"text": "P_a − ρ · g · h", "latex": "P = P_a - \\rho gh"},
+      {"text": "P_a + ρ · g · h", "latex": "P = P_a + \\rho gh"},
+      {"text": "ρ · g · h", "latex": "P = \\rho gh"},
+      {"text": "P_a / (ρ · g · h)", "latex": "P = \\frac{P_a}{\\rho gh}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "P_a + ρ · g · h",
+      "latex": "P = P_a + \\rho gh"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Gauge Pressure",
+    "familyId": "gauge_pressure",
+    "questionText": "In fluid experimental setups, the gauge pressure $P_g$ evaluated at a vertical depth h below the free exposed surface of an open liquid column represents the:",
+    "questionLatex": "\\text{In fluid experimental setups, the gauge pressure } P_g \\text{ evaluated at a vertical depth h below the free exposed surface of an open liquid column represents the:}",
+    "options": [
+      {"text": "Pure hydrostatic liquid column contribution given by ρ · g · h", "latex": "P_g = \\rho gh"},
+      {"text": "Summation of ambient atmospheric pressure and liquid weight given by P_a + ρ · g · h", "latex": "P_g = P_a + \\rho gh"},
+      {"text": "Subtraction of fluid column weight from atmospheric boundaries given by P_a − ρ · g · h", "latex": "P_g = P_a - \\rho gh"},
+      {"text": "Ratio of the fluid volume weight parameter to its depth axis given by ρ · g / h", "latex": "P_g = \\frac{\\rho g}{h}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Pure hydrostatic liquid column contribution given by ρ · g · h",
+      "latex": "P_g = \\rho gh"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure Numerical",
+    "familyId": "pressure_depth_numerical",
+    "questionText": "A container holds open water with a constant mass density of $1000\\text{ kg m}^{-3}$. Calculate the absolute gauge pressure developed due to the fluid weight at a vertical point exactly 5 m directly below the free surface layer. Assume $g = 10\\text{ m s}^{-2}$.",
+    "questionLatex": "\\text{A container holds open water with a constant mass density of } 1000\\text{ kg m}^{-3}.\\text{ Calculate the absolute gauge pressure developed due to the fluid weight at a vertical point exactly 5 m directly below the free surface layer. Assume } g = 10\\text{ m s}^{-2}.",
+    "options": [
+      {"text": "5,000 Pa", "latex": "5 \\times 10^3\\text{ Pa}"},
+      {"text": "25,000 Pa", "latex": "2.5 \\times 10^4\\text{ Pa}"},
+      {"text": "50,000 Pa", "latex": "5 \\times 10^4\\text{ Pa}"},
+      {"text": "500,000 Pa", "latex": "5 \\times 10^5\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "50,000 Pa",
+      "latex": "5 \\times 10^4\\text{ Pa}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Hydrostatic Pressure",
+    "familyId": "hydrostatic_paradox",
+    "questionText": "As demonstrated by the hydrostatic paradox experiment, the steady mechanical pressure registered at a baseline depth inside an interconnected fluid matrix depends explicitly upon:",
+    "questionLatex": "\\text{As demonstrated by the hydrostatic paradox experiment, the steady mechanical pressure registered at a baseline depth inside an interconnected fluid matrix depends explicitly upon:}",
+    "options": [
+      {"text": "The geometric contour shape profile of the surrounding vessel walls", "latex": "\\text{Container shape contours}"},
+      {"text": "The baseline bottom cross-sectional face area of the liquid container", "latex": "\\text{Base cross-sectional area } A"},
+      {"text": "The vertical column depth h and the volumetric mass density ρ of the fluid medium", "latex": "\\text{Parameters } \\rho \\text{ and } h"},
+      {"text": "The total volume allocation of liquid poured into the overall container system", "latex": "\\text{Total liquid volume } V"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The vertical column depth h and the volumetric mass density ρ of the fluid medium",
+      "latex": "\\text{Parameters } \\rho \\text{ and } h"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Atmospheric Pressure",
+    "familyId": "atmospheric_pressure_value",
+    "questionText": "The mean standard atmospheric pressure (1 atm) measured at global sea level under benchmark meteorological conditions is explicitly defined as:",
+    "questionLatex": "\\text{The mean standard atmospheric pressure (1 atm) measured at global sea level under benchmark meteorological conditions is explicitly defined as:}",
+    "options": [
+      {"text": "1.013 × 10³ Pa", "latex": "1.013 \\times 10^3\\text{ Pa}"},
+      {"text": "1.013 × 10⁴ Pa", "latex": "1.013 \\times 10^4\\text{ Pa}"},
+      {"text": "1.013 × 10⁵ Pa", "latex": "1.013 \\times 10^5\\text{ Pa}"},
+      {"text": "1.013 × 10⁶ Pa", "latex": "1.013 \\times 10^6\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1.013 × 10⁵ Pa",
+      "latex": "1.013 \\times 10^5\\text{ Pa}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Mercury Barometer",
+    "familyId": "barometer_height",
+    "questionText": "When executing a classical Torricellian laboratory experiment at sea level, the vertical height h of the balancing mercury column supported inside a pristine vacuum barometer is approximately:",
+    "questionLatex": "\\text{When executing a classical Torricellian laboratory experiment at sea level, the vertical height h of the balancing mercury column supported inside a pristine vacuum barometer is approximately:}",
+    "options": [
+      {"text": "7.6 cm", "latex": "7.6\\text{ cm}"},
+      {"text": "76 cm", "latex": "76\\text{ cm}"},
+      {"text": "760 cm", "latex": "760\\text{ cm}"},
+      {"text": "7600 cm", "latex": "7600\\text{ cm}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "76 cm",
+      "latex": "76\\text{ cm}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure Units",
+    "familyId": "torr_conversion",
+    "questionText": "In vacuum technology and gas kinetics, the localized gauge unit 'torr' (structurally matched to the pressure of a 1 mm vertical column of mercury) is exactly equal to which metric Pascal equivalence?",
+    "questionLatex": "\\text{In vacuum technology and gas kinetics, the localized gauge unit 'torr' is exactly equal to which metric Pascal equivalence?}",
+    "options": [
+      {"text": "13.3 Pa", "latex": "13.3\\text{ Pa}"},
+      {"text": "133 Pa", "latex": "133\\text{ Pa}"},
+      {"text": "1330 Pa", "latex": "1330\\text{ Pa}"},
+      {"text": "1.33 × 10⁵ Pa", "latex": "1.33 \\times 10^5\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "133 Pa",
+      "latex": "133\\text{ Pa}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Pressure Units",
+    "familyId": "bar_conversion",
+    "questionText": "The metric pressure unit 'bar', frequently applied across global atmospheric weather maps and high-pressure system metrics, is equivalent to exactly:",
+    "questionLatex": "\\text{The metric pressure unit 'bar', frequently applied across global atmospheric weather maps and high-pressure system metrics, is equivalent to exactly:}",
+    "options": [
+      {"text": "10⁴ Pa", "latex": "10^4\\text{ Pa}"},
+      {"text": "10⁵ Pa", "latex": "10^5\\text{ Pa}"},
+      {"text": "10⁶ Pa", "latex": "10^6\\text{ Pa}"},
+      {"text": "10⁷ Pa", "latex": "10^7\\text{ Pa}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "10⁵ Pa",
+      "latex": "10^5\\text{ Pa}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Hydraulic Lift",
+    "familyId": "hydraulic_principle",
+    "questionText": "Heavy industrialized machinery, such as automotive hydraulic brakes and vehicle service lifts, operate fundamentally by exploiting the pressure propagation mechanisms of:",
+    "questionLatex": "\\text{Heavy industrialized machinery, such as automotive hydraulic brakes and vehicle service lifts, operate fundamentally by exploiting the pressure propagation mechanisms of:}",
+    "options": [
+      {"text": "Bernoulli's hydrodynamical energy theorem", "latex": "\\text{Bernoulli's principle}"},
+      {"text": "Pascal's static fluid pressure law", "latex": "\\text{Pascal's law}"},
+      {"text": "Archimedes' buoyant fluid displacement principle", "latex": "\\text{Archimedes' principle}"},
+      {"text": "Stokes' viscous terminal velocity law", "latex": "\\text{Stokes' law}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal's static fluid pressure law",
+      "latex": "\\text{Pascal's law}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Hydraulic Machines",
+    "familyId": "hydraulic_mechanical_advantage",
+    "questionText": "In an ideal closed hydraulic force multiplier device, the theoretical mechanical advantage gained, defined as the output force amplification factor $\\frac{F_2}{F_1}$, matches the structural ratio of:",
+    "questionLatex": "\\text{In an ideal closed hydraulic force multiplier device, the theoretical mechanical advantage gained, defined as the output force amplification factor } \\frac{F_2}{F_1}\\text{, matches the structural ratio of:}",
+    "options": [
+      {"text": "A₁ / A₂", "latex": "\\frac{A_1}{A_2}"},
+      {"text": "A₂ / A₁", "latex": "\\frac{A_2}{A_1}"},
+      {"text": "F₁ / F₂", "latex": "\\frac{F_1}{F_2}"},
+      {"text": "1", "latex": "1"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A₂ / A₁",
+      "latex": "\\frac{A_2}{A_1}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Hydraulic Lift Numerical",
+    "familyId": "hydraulic_force_calculation",
+    "questionText": "A dual-piston hydraulic service system is constructed with a secondary platform area $A_2 = 100\\text{ cm}^2$ and an input control piston area $A_1 = 5\\text{ cm}^2$. If a perpendicular input drive force of 50 N is applied precisely to the smaller piston, calculate the absolute load force generated across the secondary platform.",
+    "questionLatex": "\\text{A dual-piston hydraulic service system is constructed with a secondary platform area } A_2 = 100\\text{ cm}^2 \\text{ and an input control piston area } A_1 = 5\\text{ cm}^2.\\text{ If a perpendicular input drive force of 50 N is applied precisely to the smaller piston, calculate the absolute load force generated across the secondary platform.}",
+    "options": [
+      {"text": "250 N", "latex": "250\\text{ N}"},
+      {"text": "500 N", "latex": "500\\text{ N}"},
+      {"text": "1000 N", "latex": "1000\\text{ N}"},
+      {"text": "2000 N", "latex": "2000\\text{ N}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1000 N",
+      "latex": "1000\\text{ N}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "familyId": "streamline_definition",
+    "questionText": "In steady-state fluid kinematics, a streamline is explicitly defined as a geometric locus curve constructed such that a directional tangent line drawn at any spatial point represents the local:",
+    "questionLatex": "\\text{In steady-state fluid kinematics, a streamline is explicitly defined as a geometric locus curve constructed such that a directional tangent line drawn at any spatial point represents the local:}",
+    "options": [
+      {"text": "Fluid static pressure gradient profile", "latex": "P"},
+      {"text": "Instantaneous hydrodynamic acceleration vector", "latex": "\\vec{a}"},
+      {"text": "Instantaneous local fluid velocity vector", "latex": "\\vec{v}"},
+      {"text": "Net internal frictional shear force axis", "latex": "\\vec{F}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Instantaneous local fluid velocity vector",
+      "latex": "\\vec{v}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "familyId": "streamline_intersection",
+    "questionText": "Under steady, non-turbulent fluid flow conditions, any two distinct independent streamlines tracking through the channel matrix:",
+    "questionLatex": "\\text{Under steady, non-turbulent fluid flow conditions, any two distinct independent streamlines tracking through the channel matrix:}",
+    "options": [
+      {"text": "May intersect at exactly one singular high-velocity stagnation node", "latex": "\\text{Single node intersection}"},
+      {"text": "May intersect at multiple boundary nodes during narrow tube convergence", "latex": "\\text{Multiple node intersections}"},
+      {"text": "Can never cross or intersect each other, as it would imply a physically impossible dual velocity vector at a single spatial point", "latex": "\\text{Complete mutual exclusion}"},
+      {"text": "Invariably converge and merge to minimize spatial boundary drag profiles", "latex": "\\text{Continuous intersection profiles}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Can never cross or intersect each other, as it would imply a physically impossible dual velocity vector at a single spatial point",
+      "latex": "\\text{Complete mutual exclusion}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Equation of Continuity",
+    "familyId": "continuity_equation",
+    "questionText": "Derived directly from the principles of classical conservation of mass, the mathematical formulation of the continuity equation for an incompressible, steady fluid stream traveling through a conduit of variable cross-section is expressed as:",
+    "questionLatex": "\\text{Derived directly from the principles of classical conservation of mass, the mathematical formulation of the continuity equation for an incompressible, steady fluid stream traveling through a conduit of variable cross-section is expressed as:}",
+    "options": [
+      {"text": "A / v = constant", "latex": "\\frac{A}{v} = \\text{constant}"},
+      {"text": "A · v = constant", "latex": "A \\cdot v = \\text{constant}"},
+      {"text": "A + v = constant", "latex": "A + v = \\text{constant}"},
+      {"text": "A · v² = constant", "latex": "A \\cdot v^2 = \\text{constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A · v = constant",
+      "latex": "A \\cdot v = \\text{constant}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Equation of Continuity",
+    "familyId": "continuity_area_velocity_relation",
+    "questionText": "According to the hydrodynamical equation of continuity for steady stream flow, if the internal cross-sectional area of a conduit decreases, the local flow velocity of the incompressible fluid must:",
+    "questionLatex": "\\text{According to the hydrodynamical equation of continuity for steady stream flow, if the internal cross-sectional area of a conduit decreases, the local flow velocity of the incompressible fluid must:}",
+    "options": [
+      {"text": "Decrease proportionally to balance systemic mass momentum", "latex": "v\\downarrow"},
+      {"text": "Remain perfectly invariant regardless of variations in tube geometry", "latex": "v = \\text{constant}"},
+      {"text": "Increase to ensure a uniform mass flow rate profile throughout the tube", "latex": "v\\uparrow"},
+      {"text": "Drop identically to zero due to localized stagnation thresholds", "latex": "v = 0"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increase to ensure a uniform mass flow rate profile throughout the tube",
+      "latex": "v\\uparrow"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Continuity Equation",
+    "familyId": "continuity_numerical_mcq",
+    "questionText": "An ideal fluid travels through a cylindrical pipeline section possessing a cross-sectional area of 20 cm² at a constant speed of 2 m/s. If the pipeline transitions down into a narrower choke section with an area of 5 cm², calculate the steady flow velocity within the narrower section.",
+    "questionLatex": "\\text{An ideal fluid travels through a cylindrical pipeline section possessing a cross-sectional area of } 20\\text{ cm}^2\\text{ at a constant speed of } 2\\text{ m/s}.\\text{ If the pipeline transitions down into a narrower choke section with an area of } 5\\text{ cm}^2,\\text{ calculate the steady flow velocity within the narrower section.}",
+    "options": [
+      {"text": "0.5 m/s", "latex": "0.5\\text{ m s}^{-1}"},
+      {"text": "2.0 m/s", "latex": "2.0\\text{ m s}^{-1}"},
+      {"text": "4.0 m/s", "latex": "4.0\\text{ m s}^{-1}"},
+      {"text": "8.0 m/s", "latex": "8.0\\text{ m s}^{-1}"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "8.0 m/s",
+      "latex": "8.0\\text{ m s}^{-1}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli Principle",
+    "familyId": "bernoulli_statement",
+    "questionText": "In fluid mechanics, Bernoulli's foundational principle for the steady, non-viscous flow of an incompressible fluid serves as an explicit manifestation of which core classical conservation law?",
+    "questionLatex": "\\text{In fluid mechanics, Bernoulli's foundational principle for the steady, non-viscous flow of an incompressible fluid serves as an explicit manifestation of which core classical conservation law?}",
+    "options": [
+      {"text": "Conservation of total linear momentum vector", "latex": "\\mathbf{p}"},
+      {"text": "Conservation of orbital angular momentum vector", "latex": "\\mathbf{L}"},
+      {"text": "Conservation of total mechanical energy per unit volume", "latex": "E"},
+      {"text": "Conservation of total system rest mass exclusively", "latex": "m"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Conservation of total mechanical energy per unit volume",
+      "latex": "E"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli Equation",
+    "familyId": "bernoulli_equation",
+    "questionText": "For the steady streamline flow of an ideal fluid having a mass density ρ, the mathematical expression of Bernoulli's equation along any given streamline path is written as:",
+    "questionLatex": "\\text{For the steady streamline flow of an ideal fluid having a mass density } \\rho\\text{, the mathematical expression of Bernoulli's equation along any given streamline path is written as:}",
+    "options": [
+      {"text": "P + ρ · v + g · h = constant", "latex": "P + \\rho v + gh = \\text{constant}"},
+      {"text": "P / ρ + v² / 2 + g · h = constant", "latex": "\\frac{P}{\\rho} + \\frac{v^2}{2} + gh = \\text{constant}"},
+      {"text": "P · v = constant", "latex": "P \\cdot v = \\text{constant}"},
+      {"text": "P + v² = constant", "latex": "P + v^2 = \\text{constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "P / ρ + v² / 2 + g · h = constant",
+      "latex": "\\frac{P}{\\rho} + \\frac{v^2}{2} + gh = \\text{constant}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli Principle",
+    "familyId": "velocity_pressure_relation",
+    "questionText": "Based directly on the energetic constraints of Bernoulli's theorem for a horizontal flow pipe, what occurs to the internal mechanical pressure within a fluid stream in regions where the flow velocity undergoes a local increase?",
+    "questionLatex": "\\text{Based directly on the energetic constraints of Bernoulli's theorem for a horizontal flow pipe, what occurs to the internal mechanical pressure within a fluid stream in regions where the flow velocity undergoes a local increase?}",
+    "options": [
+      {"text": "The pressure increases proportionally to maintain structural mass momentum balances", "latex": "P\\uparrow"},
+      {"text": "The localized internal pressure drops down to a lower value", "latex": "P\\downarrow"},
+      {"text": "The local mechanical pressure drops identically to zero at all constriction zones", "latex": "P = 0"},
+      {"text": "The internal static pressure remains entirely unchanged throughout the streamline profile", "latex": "P = \\text{constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The localized internal pressure drops down to a lower value",
+      "latex": "P\\downarrow"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Venturimeter",
+    "familyId": "venturimeter_application",
+    "questionText": "A venturimeter is a standard hydrodynamical device whose operational physics relies on Bernoulli's theorem, designed specifically to measure which parameter?",
+    "questionLatex": "\\text{A venturimeter is a standard hydrodynamical device whose operational physics relies on Bernoulli's theorem, designed specifically to measure which parameter?}",
+    "options": [
+      {"text": "The localized volumetric mass density of an unmapped fluid medium", "latex": "\\rho"},
+      {"text": "The absolute hydrostatic compression stress at a single spatial node", "latex": "P"},
+      {"text": "The volumetric flow rate or discharge speed of a fluid passing through a pipe", "latex": "Q"},
+      {"text": "The internal dynamic shear viscosity index of an engineering lubricant", "latex": "\\eta"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The volumetric flow rate or discharge speed of a fluid passing through a pipe",
+      "latex": "Q"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Aerodynamics",
+    "familyId": "airplane_lift",
+    "questionText": "The generation of the upward hydrodynamic lifting force (dynamic lift) across an asymmetric cambered aircraft wing traveling through the atmosphere is primarily modeled using:",
+    "questionLatex": "\\text{The generation of the upward hydrodynamic lifting force (dynamic lift) across an asymmetric cambered aircraft wing traveling through the atmosphere is primarily modeled using:}",
+    "options": [
+      {"text": "Pascal's omnidirectional fluid pressure propagation law", "latex": "\\text{Pascal's law}"},
+      {"text": "Archimedes' hydrostatic volumetric buoyant displacement theorem", "latex": "\\text{Archimedes' principle}"},
+      {"text": "Bernoulli's hydrodynamical pressure-velocity principle", "latex": "\\text{Bernoulli's principle}"},
+      {"text": "Hooke's linear elastic stress-strain formulation", "latex": "\\text{Hooke's law}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Bernoulli's hydrodynamical pressure-velocity principle",
+      "latex": "\\text{Bernoulli's principle}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Bernoulli Applications",
+    "familyId": "atomizer_working",
+    "questionText": "The macro-mechanical working mechanism underlying industrial paint atomizers, pesticide canisters, and aesthetic perfume sprayers is derived directly from:",
+    "questionLatex": "\\text{The macro-mechanical working mechanism underlying industrial paint atomizers, pesticide canisters, and aesthetic perfume sprayers is derived directly from:}",
+    "options": [
+      {"text": "Pascal's law of isotropic pressure distribution in enclosed cavities", "latex": "\\text{Pascal's law}"},
+      {"text": "Bernoulli's principle relating localized fluid velocity fields to static pressure reductions", "latex": "\\text{Bernoulli's principle}"},
+      {"text": "Newton's universal law of gravitation governing structural mass attractors", "latex": "\\text{Universal gravitation}"},
+      {"text": "Hooke's mechanical law of structural material elasticity limits", "latex": "\\text{Hooke's law}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Bernoulli's principle relating localized fluid velocity fields to static pressure reductions",
+      "latex": "\\text{Bernoulli's principle}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "familyId": "viscosity_definition",
+    "questionText": "In fluid continuum mechanics, the dynamic viscosity parameter η serves fundamentally as an experimental measure of which physical trait?",
+    "questionLatex": "\\text{In fluid continuum mechanics, the dynamic viscosity parameter } \\eta \\text{ serves fundamentally as an experimental measure of which physical trait?}",
+    "options": [
+      {"text": "The total spatial mass density concentration profile of the substance", "latex": "\\rho"},
+      {"text": "The internal fluid resistance and friction generated between adjacent moving layers", "latex": "\\text{Internal fluid friction}"},
+      {"text": "The isotropic hydrostatic compression stress sustained by the medium", "latex": "P"},
+      {"text": "The internal thermal kinetic energy field configuration", "latex": "T"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The internal fluid resistance and friction generated between adjacent moving layers",
+      "latex": "\\text{Internal fluid friction}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "familyId": "viscous_force_relation",
+    "questionText": "According to Newton's law of viscous flow for laminar fluid streams, the internal resistive viscous force F generated between two adjacent parallel shearing fluid layers is directly proportional to:",
+    "questionLatex": "\\text{According to Newton's law of viscous flow for laminar fluid streams, the internal resistive viscous force F generated between two adjacent parallel shearing fluid layers is directly proportional to:}",
+    "options": [
+      {"text": "The surface area of the shearing layer interfaces exclusively", "latex": "A"},
+      {"text": "The localized perpendicular velocity gradient exclusively", "latex": "\\frac{dv}{dx}"},
+      {"text": "The simultaneous product of the contact interface surface area and the localized velocity gradient", "latex": "A \\cdot \\frac{dv}{dx}"},
+      {"text": "The absolute magnitude of localized hydrostatic pressure acting across the channel", "latex": "P"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The simultaneous product of the contact interface surface area and the localized velocity gradient",
+      "latex": "A \\cdot \\frac{dv}{dx}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Coefficient of Viscosity",
+    "familyId": "viscosity_formula",
+    "questionText": "According to Newton's formula for viscous flow, the dynamic coefficient of viscosity η is related to the internal viscous drag force F, layer interface area A, and perpendicular velocity gradient dv/dx by which mathematical equation?",
+    "questionLatex": "\\text{According to Newton's formula for viscous flow, the dynamic coefficient of viscosity } \\eta \\text{ is related to the internal viscous drag force F, layer interface area A, and perpendicular velocity gradient } \\frac{dv}{dx} \\text{ by which mathematical equation?}",
+    "options": [
+      {"text": "F = η · A · (dv/dx)", "latex": "F = \\eta A \\frac{dv}{dx}"},
+      {"text": "F = η · A · v", "latex": "F = \\eta Av"},
+      {"text": "F = η · A / v", "latex": "F = \\frac{\\eta A}{v}"},
+      {"text": "F = η · v / A", "latex": "F = \\frac{\\eta v}{A}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "F = η · A · (dv/dx)",
+      "latex": "F = \\eta A \\frac{dv}{dx}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Coefficient of Viscosity",
+    "familyId": "viscosity_unit",
+    "questionText": "Which of the following represents the correct standard SI unit for measuring or reporting the dynamic coefficient of viscosity η of a fluid?",
+    "questionLatex": "\\text{Which of the following represents the correct standard SI unit for measuring or reporting the dynamic coefficient of viscosity } \\eta \\text{ of a fluid?}",
+    "options": [
+      {"text": "Pascal-second (Pa·s)", "latex": "\\text{Pa}\\cdot\\text{s}"},
+      {"text": "Newton (N)", "latex": "\\text{N}"},
+      {"text": "Pascal (Pa)", "latex": "\\text{Pa}"},
+      {"text": "Joule-second (J·s)", "latex": "\\text{J}\\cdot\\text{s}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Pascal-second (Pa·s)",
+      "latex": "\\text{Pa}\\cdot\\text{s}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Viscosity",
+    "familyId": "temperature_effect_liquid",
+    "questionText": "When the uniform thermodynamic temperature of a typical Newtonian liquid is increased, its dynamic coefficient of viscosity generally:",
+    "questionLatex": "\\text{When the uniform thermodynamic temperature of a typical Newtonian liquid is increased, its dynamic coefficient of viscosity generally:}",
+    "options": [
+      {"text": "Increases, due to accelerated momentum transfer exchanges", "latex": "\\eta\\uparrow"},
+      {"text": "Decreases, due to the reduction of cohesive intermolecular forces", "latex": "\\eta\\downarrow"},
+      {"text": "Remains perfectly constant across all thermal thresholds", "latex": "\\eta = \\text{constant}"},
+      {"text": "Drops identically to zero, converting the liquid into a perfect fluid", "latex": "\\eta = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases, due to the reduction of cohesive intermolecular forces",
+      "latex": "\\eta\\downarrow"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Streamline Flow",
+    "familyId": "streamline_characteristics",
+    "questionText": "In steady streamline (laminar) fluid flow, the localized velocity vector of every successive fluid particle arriving at any given fixed spatial position:",
+    "questionLatex": "\\text{In steady streamline (laminar) fluid flow, the localized velocity vector of every successive fluid particle arriving at any given fixed spatial position:}",
+    "options": [
+      {"text": "Fluctuates randomly and chaotically over time", "latex": "\\text{Fluctuates randomly}"},
+      {"text": "Remains constant in both magnitude and direction over time", "latex": "\\text{Remains constant over time}"},
+      {"text": "Reduces identically to zero due to localized stagnation thresholds", "latex": "\\vec{v} = 0"},
+      {"text": "Depends exclusively on the local static pressure gradient magnitude", "latex": "\\text{Depends on pressure alone}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Remains constant in both magnitude and direction over time",
+      "latex": "\\text{Remains constant over time}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Turbulent Flow",
+    "familyId": "turbulent_flow_definition",
+    "questionText": "A fluid flow regime characterized by rapid, chaotic, and irregular velocity fluctuations where the fluid particles move in highly cross-crossing paths with eddy formations is classified as:",
+    "questionLatex": "\\text{A fluid flow regime characterized by rapid, chaotic, and irregular velocity fluctuations where the fluid particles move in highly cross-crossing paths with eddy formations is classified as:}",
+    "options": [
+      {"text": "Steady flow", "latex": "\\text{Steady flow}"},
+      {"text": "Streamline flow", "latex": "\\text{Streamline flow}"},
+      {"text": "Turbulent flow", "latex": "\\text{Turbulent flow}"},
+      {"text": "Ideal flow", "latex": "\\text{Ideal flow}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Turbulent flow",
+      "latex": "\\text{Turbulent flow}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Reynolds Number",
+    "familyId": "reynolds_formula",
+    "questionText": "The dimensionless Reynolds number $R_e$, which indexes the ratio of inertial forces to viscous forces for fluid tracking inside a pipe of internal diameter d at average speed v, is given by:",
+    "questionLatex": "\\text{The dimensionless Reynolds number } R_e\\text{, which indexes the ratio of inertial forces to viscous forces for fluid tracking inside a pipe of internal diameter d at average speed v, is given by:}",
+    "options": [
+      {"text": "ρ · v · d / η", "latex": "R_e = \\frac{\\rho vd}{\\eta}"},
+      {"text": "η / (ρ · v · d)", "latex": "R_e = \\frac{\\eta}{\\rho vd}"},
+      {"text": "ρ · v / (η · d)", "latex": "R_e = \\frac{\\rho v}{\\eta d}"},
+      {"text": "ρ · d / (η · v)", "latex": "R_e = \\frac{\\rho d}{\\eta v}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ρ · v · d / η",
+      "latex": "R_e = \\frac{\\rho vd}{\\eta}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Reynolds Number",
+    "familyId": "critical_reynolds_number",
+    "questionText": "For a steady viscous fluid channeling inside a cylindrical conduit, the hydrodynamic transition from orderly laminar flow to complete chaotic turbulence typically becomes fully established when the Reynolds number exceeds approximately:",
+    "questionLatex": "\\text{For a steady viscous fluid channeling inside a cylindrical conduit, the hydrodynamic transition from orderly laminar flow to complete chaotic turbulence typically becomes fully established when the Reynolds number exceeds approximately:}",
+    "options": [
+      {"text": "200", "latex": "200"},
+      {"text": "2000", "latex": "2000"},
+      {"text": "20000", "latex": "20000"},
+      {"text": "20", "latex": "20"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2000",
+      "latex": "2000"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Critical Velocity",
+    "familyId": "critical_velocity_definition",
+    "questionText": "In fluid dynamics, the critical velocity is defined explicitly as the absolute maximum limiting speed up to which the fluid stream keeps its stable:",
+    "questionLatex": "\\text{In fluid dynamics, the critical velocity is defined explicitly as the absolute maximum limiting speed up to which the fluid stream keeps its stable:}",
+    "options": [
+      {"text": "Turbulent flow profile", "latex": "\\text{Turbulent profile}"},
+      {"text": "Highly compressible flow state", "latex": "\\text{Compressible state}"},
+      {"text": "Laminar streamline flow profile", "latex": "\\text{Streamline profile}"},
+      {"text": "Chaotic flow profile", "latex": "\\text{Chaotic profile}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Laminar streamline flow profile",
+      "latex": "\\text{Streamline profile}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Stokes Law",
+    "familyId": "stokes_law_formula",
+    "questionText": "According to Stokes' law, the viscous drag force F experienced by a small rigid sphere of radius r traveling at a terminal velocity v through an infinite viscous fluid of dynamic viscosity η is formulated as:",
+    "questionLatex": "\\text{According to Stokes' law, the viscous drag force F experienced by a small rigid sphere of radius r traveling at a terminal velocity v through an infinite viscous fluid of dynamic viscosity } \\eta \\text{ is formulated as:}",
+    "options": [
+      {"text": "6 · π · η · r · v", "latex": "F = 6\\pi\\eta rv"},
+      {"text": "π · η · r · v", "latex": "F = \\pi\\eta rv"},
+      {"text": "6 · π · η · r² · v", "latex": "F = 6\\pi\\eta r^2v"},
+      {"text": "6 · π · r · v", "latex": "F = 6\\pi rv"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "6 · π · η · r · v",
+      "latex": "F = 6\\pi\\eta rv"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Stokes Law",
+    "familyId": "stokes_drag_dependence",
+    "questionText": "According to the fundamental dimensional constraints of Stokes' law, the internal viscous drag force opposing the motion of a sphere falling slowly through a fluid medium is directly proportional to:",
+    "questionLatex": "\\text{According to the fundamental dimensional constraints of Stokes' law, the internal viscous drag force opposing the motion of a sphere falling slowly through a fluid medium is directly proportional to:}",
+    "options": [
+      {"text": "Both the physical radius and the translation velocity of the sphere simultaneously", "latex": "r \\cdot v"},
+      {"text": "The physical radius of the descending sphere exclusively", "latex": "r"},
+      {"text": "The linear translation velocity of the descending sphere exclusively", "latex": "v"},
+      {"text": "The mass density profile of the surrounding fluid medium exclusively", "latex": "\\rho"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Both the physical radius and the translation velocity of the sphere simultaneously",
+      "latex": "r \\cdot v"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Terminal Velocity",
+    "familyId": "terminal_velocity_definition",
+    "questionText": "The terminal velocity of a rigid spherical body falling through a column of a viscous fluid is explicitly defined as the steady-state velocity at which the body's:",
+    "questionLatex": "\\text{The terminal velocity of a rigid spherical body falling through a column of a viscous fluid is explicitly defined as the steady-state velocity at which the body's:}",
+    "options": [
+      {"text": "Instantaneous acceleration reaches its maximum possible numerical value", "latex": "a = a_{\\text{max}}"},
+      {"text": "Instantaneous acceleration becomes identically equal to zero", "latex": "a = 0"},
+      {"text": "Instantaneous downward translation velocity vector drops down to zero", "latex": "v = 0"},
+      {"text": "Opposing internal viscous drag force reduces identically to zero", "latex": "F_d = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Instantaneous acceleration becomes identically equal to zero",
+      "latex": "a = 0"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Terminal Velocity",
+    "familyId": "terminal_velocity_condition",
+    "questionText": "A solid macro-particle falling freely under gravity within an expansive fluid medium achieves a constant terminal velocity configuration precisely when:",
+    "questionLatex": "\\text{A solid macro-particle falling freely under gravity within an expansive fluid medium achieves a constant terminal velocity configuration precisely when:}",
+    "options": [
+      {"text": "The total gravitational weight of the body surpasses the maximum fluid drag force boundary", "latex": "W > F_d"},
+      {"text": "The total gravitational weight of the body is balanced exclusively by the dynamic drag force, neglecting buoyancy effects", "latex": "W = F_d"},
+      {"text": "The vector sum of the buoyant force and the dynamic fluid drag force exactly equals the downward gravitational weight of the body, making the net force zero", "latex": "\\mathbf{F}_{\\text{net}} = 0"},
+      {"text": "The static hydrostatic buoyant force experienced by the submerged object drops to zero", "latex": "F_b = 0"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The vector sum of the buoyant force and the dynamic fluid drag force exactly equals the downward gravitational weight of the body, making the net force zero",
+      "latex": "\\mathbf{F}_{\\text{net}} = 0"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Applications of Stokes Law",
+    "familyId": "stokes_application",
+    "questionText": "By measuring the steady terminal settling speed of a calibrated sphere inside an open glass column, Stokes' law is systematically applied in laboratory experiments to compute which fluid property?",
+    "questionLatex": "\\text{By measuring the steady terminal settling speed of a calibrated sphere inside an open glass column, Stokes' law is systematically applied in laboratory experiments to compute which fluid property?}",
+    "options": [
+      {"text": "The longitudinal tensile Young's modulus of elasticity coefficient", "latex": "Y"},
+      {"text": "The dynamic coefficient of viscosity of the fluid medium", "latex": "\\eta"},
+      {"text": "The omnidirectional volumetric bulk modulus of elasticity parameter", "latex": "B"},
+      {"text": "The macroscopic equilibrium surface tension coefficient exclusively", "latex": "S"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The dynamic coefficient of viscosity of the fluid medium",
+      "latex": "\\eta"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "familyId": "surface_tension_definition",
+    "questionText": "In fluid statics, the macroscopic surface tension coefficient S of a liquid boundary is fundamentally defined as the magnitude of the perpendicular force acting per unit:",
+    "questionLatex": "\\text{In fluid statics, the macroscopic surface tension coefficient S of a liquid boundary is fundamentally defined as the magnitude of the perpendicular force acting per unit:}",
+    "options": [
+      {"text": "Area of the flat boundary surface interface", "latex": "A"},
+      {"text": "Total localized volume element profile", "latex": "V"},
+      {"text": "Length of an imaginary straight line drawn on the free surface layer", "latex": "l"},
+      {"text": "Total gravitational mass of the surface fluid boundary", "latex": "m"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Length of an imaginary straight line drawn on the free surface layer",
+      "latex": "l"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "familyId": "surface_tension_unit",
+    "questionText": "Which of the following expressions represents the correct standard SI unit for quantifying or reporting the macroscopic surface tension coefficient of a liquid interface?",
+    "questionLatex": "\\text{Which of the following expressions represents the correct standard SI unit for quantifying or reporting the macroscopic surface tension coefficient of a liquid interface?}",
+    "options": [
+      {"text": "Newton per meter (N/m)", "latex": "\\text{N}\\cdot\\text{m}^{-1}"},
+      {"text": "Newton-meter (N·m)", "latex": "\\text{N}\\cdot\\text{m}"},
+      {"text": "Pascal (Pa)", "latex": "\\text{Pa}"},
+      {"text": "Joule (J)", "latex": "\\text{J}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Newton per meter (N/m)",
+      "latex": "\\text{N}\\cdot\\text{m}^{-1}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension",
+    "familyId": "surface_energy_relation",
+    "questionText": "From thermodynamic and mechanical work principles, the surface tension coefficient of a liquid interface is mathematically and numerically identical to the system's:",
+    "questionLatex": "\\text{From thermodynamic and mechanical work principles, the surface tension coefficient of a liquid interface is mathematically and numerically identical to the system's:}",
+    "options": [
+      {"text": "Hydrostatic pressure distributed across a unit cross-sectional face area", "latex": "\\frac{P}{A}"},
+      {"text": "Total elastic surface energy stored per unit surface area of the film", "latex": "\\frac{E}{A}"},
+      {"text": "Restoring molecular cohesive force generated per unit local fluid volume", "latex": "\\frac{F}{V}"},
+      {"text": "Volumetric mass density distributed over a unit surface area layer", "latex": "\\frac{\\rho}{A}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Total elastic surface energy stored per unit surface area of the film",
+      "latex": "\\frac{E}{A}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Molecular Theory",
+    "familyId": "surface_tension_origin",
+    "questionText": "From the perspective of molecular lattice theory, the macroscopic phenomenon of surface tension in liquids arises fundamentally due to the:",
+    "questionLatex": "\\text{From the perspective of molecular lattice theory, the macroscopic phenomenon of surface tension in liquids arises fundamentally due to the:}",
+    "options": [
+      {"text": "Long-range gravitational force field acting between distant liquid columns", "latex": "F_g"},
+      {"text": "Net unbalanced attractive cohesive forces acting downward on surface molecules from surrounding bulk molecules", "latex": "F_c"},
+      {"text": "Localized electromagnetic dipole forces tracking through external boundaries", "latex": "F_m"},
+      {"text": "Short-range strong nuclear force fields binding adjacent fluid isotopes", "latex": "F_n"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Net unbalanced attractive cohesive forces acting downward on surface molecules from surrounding bulk molecules",
+      "latex": "F_c"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Excess Pressure",
+    "familyId": "liquid_drop_pressure",
+    "questionText": "A spherical liquid drop of radius r possesses a single curved surface interface boundary with a surface tension coefficient S. The mathematical formula for the excess internal pressure ΔP over the external ambient pressure is given by:",
+    "questionLatex": "\\text{A spherical liquid drop of radius r possesses a single curved surface interface boundary with a surface tension coefficient S. The mathematical formula for the excess internal pressure } \\Delta P \\text{ over the external ambient pressure is given by:}",
+    "options": [
+      {"text": "ΔP = S / r", "latex": "\\Delta P = \\frac{S}{r}"},
+      {"text": "ΔP = 2S / r", "latex": "\\Delta P = \\frac{2S}{r}"},
+      {"text": "ΔP = 4S / r", "latex": "\\Delta P = \\frac{4S}{r}"},
+      {"text": "ΔP = 8S / r", "latex": "\\Delta P = \\frac{8S}{r}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ΔP = 2S / r",
+      "latex": "\\Delta P = \\frac{2S}{r}"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Excess Pressure",
+    "familyId": "soap_bubble_pressure",
+    "questionText": "Because a hollow spherical soap bubble suspended in air traps an internal core layer, it exhibits two distinct concentric surface films. If the surface tension coefficient is S and the mean radius is r, determine the exact equation for its interior excess pressure ΔP.",
+    "questionLatex": "\\text{Because a hollow spherical soap bubble suspended in air traps an internal core layer, it exhibits two distinct concentric surface films. If the surface tension coefficient is S and the mean radius is r, determine the exact equation for its interior excess pressure } \\Delta P\\text{.Formulated through work balance analysis, we obtain:} ",
+    "options": [
+      {"text": "ΔP = S / r", "latex": "\\Delta P = \\frac{S}{r}"},
+      {"text": "ΔP = 2S / r", "latex": "\\Delta P = \\frac{2S}{r}"},
+      {"text": "ΔP = 4S / r", "latex": "\\Delta P = \\frac{4S}{r}"},
+      {"text": "ΔP = 8S / r", "latex": "\\Delta P = \\frac{8S}{r}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "ΔP = 4S / r",
+      "latex": "\\Delta P = \\frac{4S}{r}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Capillarity",
+    "familyId": "capillary_rise_definition",
+    "questionText": "The physical macroscopic phenomenon describing the spontaneous vertical rise or depression of a wetting or non-wetting liquid column within an extremely narrow, fine bore glass tube immersed vertically is designated as:",
+    "questionLatex": "\\text{The physical macroscopic phenomenon describing the spontaneous vertical rise or depression of a wetting or non-wetting liquid column within an extremely narrow, fine bore glass tube immersed vertically is designated as:}",
+    "options": [
+      {"text": "Internal dynamic dynamic shear viscosity", "latex": "\\eta"},
+      {"text": "Hydrostatic volumetric buoyant displacement", "latex": "F_b"},
+      {"text": "Capillarity (capillary action)", "latex": "h"},
+      {"text": "Isotropic molecular diffusion kinetics", "latex": "D"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Capillarity (capillary action)",
+      "latex": "h"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

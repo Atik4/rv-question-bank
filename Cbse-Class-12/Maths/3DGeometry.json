@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Cosines",
+    "familyId": "direction_cosines_definition",
+    "questionText": "If a directed line makes angles $\\alpha$, $\\beta$ and $\\gamma$ with the positive x, y and z-axes respectively, then its direction cosines are",
+    "questionLatex": "$(\\cos\\alpha, \\cos\\beta, \\cos\\gamma)$",
+    "options": [
+      "$(\\sin\\alpha, \\sin\\beta, \\sin\\gamma)$",
+      "$(\\cos\\alpha, \\cos\\beta, \\cos\\gamma)$",
+      "$(\\tan\\alpha, \\tan\\beta, \\tan\\gamma)$",
+      "$(\\cot\\alpha, \\cot\\beta, \\cot\\gamma)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Direction cosines are defined as the cosines of the angles made by the line with the coordinate axes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Cosines",
+    "familyId": "sum_of_squares_dc",
+    "questionText": "If $l$, $m$ and $n$ are the direction cosines of a line, then the value of $l^2 + m^2 + n^2$ is",
+    "questionLatex": "$l^2 + m^2 + n^2$",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Depends on the line"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For any line in 3D space, the direction cosines satisfy the relation $l^2 + m^2 + n^2 = 1$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Ratios",
+    "familyId": "direction_ratios_definition",
+    "questionText": "Any three numbers proportional to the direction cosines of a line are called",
+    "questionLatex": "$\\text{Direction ratios}$",
+    "options": [
+      "Position ratios",
+      "Direction ratios",
+      "Section ratios",
+      "Coordinate ratios"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Direction ratios are defined as any three numbers that are proportional to the direction cosines."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Cosines",
+    "familyId": "find_dc_from_angles",
+    "questionText": "Find the direction cosines of a line making angles 90°, 60° and 30° with the positive x, y and z-axes respectively.",
+    "questionLatex": "$(\\cos 90^\\circ, \\cos 60^\\circ, \\cos 30^\\circ)$",
+    "options": [
+      "$(0, \\frac{1}{2}, \\frac{\\sqrt{3}}{2})$",
+      "$(1, \\frac{1}{2}, \\frac{\\sqrt{3}}{2})$",
+      "$(0, 1, \\frac{\\sqrt{3}}{2})$",
+      "$(0, \\frac{\\sqrt{3}}{2}, \\frac{1}{2})$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Direction cosines are given by $(\\cos 90^\\circ, \\cos 60^\\circ, \\cos 30^\\circ) = (0, \\frac{1}{2}, \\frac{\\sqrt{3}}{2})$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Ratios",
+    "familyId": "find_dc_from_dr",
+    "questionText": "If the direction ratios of a line are 2, -1, -2, find its direction cosines.",
+    "questionLatex": "$(a, b, c) = (2, -1, -2)$",
+    "options": [
+      "$(\\frac{2}{3}, -\\frac{1}{3}, -\\frac{2}{3})$",
+      "$(\\frac{1}{3}, -\\frac{1}{3}, -\\frac{2}{3})$",
+      "$(\\frac{2}{3}, \\frac{1}{3}, -\\frac{2}{3})$",
+      "$(\\frac{2}{5}, -\\frac{1}{5}, -\\frac{2}{5})$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The magnitude is $\\sqrt{2^2 + (-1)^2 + (-2)^2} = \\sqrt{4+1+4} = 3$. Dividing the direction ratios by 3 gives $(\\frac{2}{3}, -\\frac{1}{3}, -\\frac{2}{3})$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Line Through Two Points",
+    "familyId": "direction_cosines_two_points",
+    "questionText": "Find the direction ratios of the line joining the points (1, 2, 3) and (4, 6, 8).",
+    "questionLatex": "$(x_2-x_1, y_2-y_1, z_2-z_1)$",
+    "options": [
+      "$(3, 4, 5)$",
+      "$(4, 3, 5)$",
+      "$(3, 5, 4)$",
+      "$(1, 2, 3)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The direction ratios are $(4-1, 6-2, 8-3) = (3, 4, 5)$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Coordinate Axes",
+    "familyId": "dc_x_axis",
+    "questionText": "The direction cosines of the positive x-axis are",
+    "questionLatex": "$(l, m, n)$",
+    "options": [
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$",
+      "$(0, 0, 1)$",
+      "$(1, 1, 1)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The x-axis makes angles 0°, 90°, and 90° with the x, y, and z axes respectively. Thus, $(\\cos 0^\\circ, \\cos 90^\\circ, \\cos 90^\\circ) = (1, 0, 0)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Coordinate Axes",
+    "familyId": "dc_y_axis",
+    "questionText": "The direction cosines of the positive y-axis are",
+    "questionLatex": "$(l, m, n)$",
+    "options": [
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$",
+      "$(0, 0, 1)$",
+      "$(1, 1, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The y-axis makes angles 90°, 0°, and 90° with the x, y, and z axes respectively. Thus, $(\\cos 90^\\circ, \\cos 0^\\circ, \\cos 90^\\circ) = (0, 1, 0)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Coordinate Axes",
+    "familyId": "dc_z_axis",
+    "questionText": "The direction cosines of the positive z-axis are",
+    "questionLatex": "$(l, m, n)$",
+    "options": [
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$",
+      "$(0, 0, 1)$",
+      "$(1, 1, 1)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The z-axis makes angles 90°, 90°, and 0° with the x, y, and z axes respectively. Thus, $(\\cos 90^\\circ, \\cos 90^\\circ, \\cos 0^\\circ) = (0, 0, 1)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Collinearity",
+    "familyId": "collinear_points_dr",
+    "questionText": "The points A(2, 3, -4), B(1, -2, 3) and C(3, 8, -11) are",
+    "questionLatex": "$A(2, 3, -4), B(1, -2, 3), C(3, 8, -11)$",
+    "options": [
+      "Non-collinear",
+      "Vertices of an equilateral triangle",
+      "Collinear",
+      "Coplanar but not collinear"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Direction ratios of AB are $(1-2, -2-3, 3-(-4)) = (-1, -5, 7)$. Direction ratios of BC are $(3-1, 8-(-2), -11-3) = (2, 10, -14)$. Since they are proportional, the points are collinear."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Equation of Line",
+    "familyId": "vector_equation_line",
+    "questionText": "The vector equation of a line passing through a point with position vector $\\vec{a}$ and parallel to vector $\\vec{b}$ is",
+    "questionLatex": "$$\\vec{r}=\\vec{a}+\\lambda\\vec{b}$$",
+    "options": [
+      "$\\vec{r}=\\vec{a}\\times\\vec{b}$",
+      "$\\vec{r}=\\vec{a}+\\lambda\\vec{b}$",
+      "$\\vec{r}=\\vec{a}\\cdot\\vec{b}$",
+      "$\\vec{r}=\\lambda\\vec{a}+\\vec{b}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard vector equation of a line passing through a point $\\vec{a}$ and parallel to a given vector $\\vec{b}$ is $\\vec{r} = \\vec{a} + \\lambda \\vec{b}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Ratios",
+    "familyId": "direction_ratios_from_vector",
+    "questionText": "If a line is parallel to the vector $3\\hat{i}+2\\hat{j}-8\\hat{k}$, then a set of direction ratios of the line is",
+    "questionLatex": "$$3\\hat{i}+2\\hat{j}-8\\hat{k}$$",
+    "options": [
+      "$(3,2,-8)$",
+      "$(1,1,1)$",
+      "$(3,-2,8)$",
+      "$(2,3,-8)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For a vector $a\\hat{i} + b\\hat{j} + c\\hat{k}$, the coefficients $a, b, c$ represent the direction ratios."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Parametric Equation",
+    "familyId": "parametric_form_line",
+    "questionText": "For a line through $(x_1,y_1,z_1)$ with direction ratios $(a,b,c)$, the parametric equations are",
+    "questionLatex": "$$x=x_1+\\lambda a,\\ y=y_1+\\lambda b,\\ z=z_1+\\lambda c$$",
+    "options": [
+      "$x=x_1+a, y=y_1+b, z=z_1+c$",
+      "$x=x_1+\\lambda a, y=y_1+\\lambda b, z=z_1+\\lambda c$",
+      "$x=\\lambda a, y=\\lambda b, z=\\lambda c$",
+      "$x=a, y=b, z=c$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "These are the standard parametric equations representing any point $(x,y,z)$ on the line passing through $(x_1,y_1,z_1)$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Cartesian Equation of Line",
+    "familyId": "cartesian_form_line",
+    "questionText": "The Cartesian equation of a line passing through $(x_1,y_1,z_1)$ with direction ratios $(a,b,c)$ is",
+    "questionLatex": "$$\\frac{x-x_1}{a}=\\frac{y-y_1}{b}=\\frac{z-z_1}{c}$$",
+    "options": [
+      "$\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1$",
+      "$\\frac{x-x_1}{a}=\\frac{y-y_1}{b}=\\frac{z-z_1}{c}$",
+      "$ax+by+cz=0$",
+      "$x+y+z=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "This is the symmetric Cartesian form of a line in 3D space."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Equation of Line",
+    "familyId": "line_through_point_parallel_vector",
+    "questionText": "Find the Cartesian equation of the line passing through $(5,2,-4)$ and parallel to the vector $3\\hat{i}+2\\hat{j}-8\\hat{k}$.",
+    "questionLatex": "$$\\frac{x-5}{3}=\\frac{y-2}{2}=\\frac{z+4}{-8}$$",
+    "options": [
+      "$\\frac{x-5}{3}=\\frac{y-2}{2}=\\frac{z+4}{-8}$",
+      "$\\frac{x+5}{3}=\\frac{y+2}{2}=\\frac{z-4}{-8}$",
+      "$\\frac{x-5}{2}=\\frac{y-2}{3}=\\frac{z+4}{8}$",
+      "$\\frac{x+5}{2}=\\frac{y+2}{3}=\\frac{z-4}{8}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the formula $\\frac{x-x_1}{a}=\\frac{y-y_1}{b}=\\frac{z-z_1}{c}$ with point $(5,2,-4)$ and direction ratios $(3,2,-8)$ gives $\\frac{x-5}{3}=\\frac{y-2}{2}=\\frac{z+4}{-8}$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Lines",
+    "familyId": "angle_between_lines_formula",
+    "questionText": "If two lines have direction ratios $(a_1,b_1,c_1)$ and $(a_2,b_2,c_2)$, then $\\cos\\theta$ is given by",
+    "questionLatex": "$$\\cos\\theta=\\frac{a_1a_2+b_1b_2+c_1c_2}{\\sqrt{a_1^2+b_1^2+c_1^2}\\sqrt{a_2^2+b_2^2+c_2^2}}$$",
+    "options": [
+      "$\\frac{a_1a_2+b_1b_2+c_1c_2}{\\sqrt{a_1^2+b_1^2+c_1^2}\\sqrt{a_2^2+b_2^2+c_2^2}}$",
+      "$\\frac{a_1+a_2}{b_1+b_2}$",
+      "$\\frac{a_1b_2-a_2b_1}{c_1c_2}$",
+      "$\\frac{a_1a_2}{b_1b_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The formula for the cosine of the angle between two lines with direction ratios $(a_1, b_1, c_1)$ and $(a_2, b_2, c_2)$ is based on the dot product of their direction vectors."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Perpendicular Lines",
+    "familyId": "condition_perpendicular_lines",
+    "questionText": "Two lines with direction ratios $(a_1,b_1,c_1)$ and $(a_2,b_2,c_2)$ are perpendicular if",
+    "questionLatex": "$$a_1a_2+b_1b_2+c_1c_2=0$$",
+    "options": [
+      "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+      "$a_1a_2+b_1b_2+c_1c_2=0$",
+      "$a_1+b_1+c_1=0$",
+      "$a_2+b_2+c_2=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Two lines are perpendicular if the dot product of their direction vectors is zero, which means $a_1a_2+b_1b_2+c_1c_2=0$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Parallel Lines",
+    "familyId": "condition_parallel_lines",
+    "questionText": "Two lines are parallel if their direction ratios satisfy",
+    "questionLatex": "$$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$$",
+    "options": [
+      "$a_1a_2+b_1b_2+c_1c_2=0$",
+      "$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$",
+      "$a_1+b_1+c_1=1$",
+      "$a_2+b_2+c_2=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Parallel lines have proportional direction ratios."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Lines",
+    "familyId": "find_angle_lines",
+    "questionText": "Find the angle between the lines having direction ratios $(1,2,2)$ and $(3,2,6)$.",
+    "questionLatex": "$$\\cos\\theta=\\frac{1\\cdot3+2\\cdot2+2\\cdot6}{\\sqrt{1^2+2^2+2^2}\\sqrt{3^2+2^2+6^2}}$$",
+    "options": [
+      "$\\cos^{-1}\\left(\\frac{19}{21}\\right)$",
+      "$\\cos^{-1}\\left(\\frac{17}{21}\\right)$",
+      "$\\cos^{-1}\\left(\\frac{20}{21}\\right)$",
+      "$\\cos^{-1}\\left(\\frac{18}{21}\\right)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\cos \\theta = \\frac{1(3)+2(2)+2(6)}{\\sqrt{1+4+4}\\sqrt{9+4+36}} = \\frac{3+4+12}{3 \\times 7} = \\frac{19}{21}$. Therefore, $\\theta = \\cos^{-1}(\\frac{19}{21})$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Lines",
+    "familyId": "find_angle_cartesian_lines",
+    "questionText": "The direction ratios of the line $\\frac{x+3}{3}=\\frac{y-1}{5}=\\frac{z+3}{4}$ are",
+    "questionLatex": "$$\\frac{x+3}{3}=\\frac{y-1}{5}=\\frac{z+3}{4}$$",
+    "options": [
+      "$(3,5,4)$",
+      "$(1,5,4)$",
+      "$(3,1,4)$",
+      "$(3,4,5)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The denominators in the Cartesian form of a line equation, $\\frac{x-x_1}{a}=\\frac{y-y_1}{b}=\\frac{z-z_1}{c}$, represent the direction ratios $(a, b, c)$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane",
+    "familyId": "equation_of_plane_general",
+    "questionText": "The general equation of a plane in three-dimensional space is",
+    "questionLatex": "$$ax+by+cz+d=0$$",
+    "options": [
+      "$ax+by+cz+d=0$",
+      "$ax+by+d=0$",
+      "$ax^2+by^2+cz^2=0$",
+      "$x+y+z=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The general equation of a plane in three-dimensional space is given by $ax + by + cz + d = 0$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane",
+    "familyId": "normal_vector_plane",
+    "questionText": "For the plane $2x + 3y - z + 5 = 0$, a normal vector is",
+    "questionLatex": "$$2x+3y-z+5=0$$",
+    "options": [
+      "$(2,3,-1)$",
+      "$(2,3,5)$",
+      "$(1,1,1)$",
+      "$(3,-1,5)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The coefficients of $x$, $y$, and $z$ in the plane equation $ax+by+cz+d=0$ form a normal vector $(a, b, c)$ to the plane."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane Through a Point",
+    "familyId": "plane_point_normal_form",
+    "questionText": "The equation of a plane passing through $(x_1, y_1, z_1)$ and having normal vector $(a, b, c)$ is",
+    "questionLatex": "$$a(x-x_1)+b(y-y_1)+c(z-z_1)=0$$",
+    "options": [
+      "$a(x-x_1)+b(y-y_1)+c(z-z_1)=0$",
+      "$ax+by+cz=1$",
+      "$\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1$",
+      "$ax+by+cz+d=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The point-normal form of the equation of a plane is $a(x-x_1)+b(y-y_1)+c(z-z_1)=0$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Intercept Form of Plane",
+    "familyId": "intercept_form_plane",
+    "questionText": "The intercept form of the plane cutting intercepts $a$, $b$ and $c$ on the coordinate axes is",
+    "questionLatex": "$$\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1$$",
+    "options": [
+      "$\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1$",
+      "$ax+by+cz=1$",
+      "$x+y+z=abc$",
+      "$\\frac{x}{a}-\\frac{y}{b}+\\frac{z}{c}=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The standard intercept form of a plane cutting intercepts $a$, $b$, and $c$ on the $x$, $y$, and $z$ axes respectively is $\\frac{x}{a}+\\frac{y}{b}+\\frac{z}{c}=1$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Line and Plane",
+    "familyId": "angle_line_plane",
+    "questionText": "If $\\theta$ is the angle between a line with direction ratios $(a_1, b_1, c_1)$ and a plane with normal $(a, b, c)$, then $\\sin\\theta$ is given by",
+    "questionLatex": "$$\\sin\\theta=\\frac{|aa_1+bb_1+cc_1|}{\\sqrt{a^2+b^2+c^2}\\sqrt{a_1^2+b_1^2+c_1^2}}$$",
+    "options": [
+      "$\\frac{|aa_1+bb_1+cc_1|}{\\sqrt{a^2+b^2+c^2}\\sqrt{a_1^2+b_1^2+c_1^2}}$",
+      "$\\frac{aa_1+bb_1+cc_1}{a+b+c}$",
+      "$\\frac{a+b+c}{a_1+b_1+c_1}$",
+      "$\\frac{aa_1}{bb_1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The formula for the sine of the angle $\\theta$ between a line with direction ratios $(a_1, b_1, c_1)$ and a plane with normal vector $(a, b, c)$ is $\\sin\\theta=\\frac{|aa_1+bb_1+cc_1|}{\\sqrt{a^2+b^2+c^2}\\sqrt{a_1^2+b_1^2+c_1^2}}$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance of Point from Plane",
+    "familyId": "distance_point_plane_formula",
+    "questionText": "The distance of the point $(x_1, y_1, z_1)$ from the plane $ax + by + cz + d = 0$ is",
+    "questionLatex": "$$\\frac{|ax_1+by_1+cz_1+d|}{\\sqrt{a^2+b^2+c^2}}$$",
+    "options": [
+      "$\\frac{|ax_1+by_1+cz_1+d|}{\\sqrt{a^2+b^2+c^2}}$",
+      "$|ax_1+by_1+cz_1+d|$",
+      "$\\sqrt{a^2+b^2+c^2}$",
+      "$\\frac{|ax_1+by_1+cz_1+d|}{a+b+c}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The perpendicular distance of a point $(x_1, y_1, z_1)$ from a plane $ax + by + cz + d = 0$ is $\\frac{|ax_1+by_1+cz_1+d|}{\\sqrt{a^2+b^2+c^2}}$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance of Point from Plane",
+    "familyId": "distance_point_plane_numeric",
+    "questionText": "Find the distance of the point $(1, 2, 3)$ from the plane $x + 2y + 2z - 9 = 0$.",
+    "questionLatex": "$$\\frac{|1+2(2)+2(3)-9|}{\\sqrt{1^2+2^2+2^2}}$$",
+    "options": [
+      "$\\frac{2}{3}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{4}{3}$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Distance = $\\frac{|1+2(2)+2(3)-9|}{\\sqrt{1^2+2^2+2^2}} = \\frac{|1+4+6-9|}{\\sqrt{1+4+4}} = \\frac{|2|}{3} = \\frac{2}{3}$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Parallel Planes",
+    "familyId": "condition_parallel_planes",
+    "questionText": "Two planes $a_1x+b_1y+c_1z+d_1=0$ and $a_2x+b_2y+c_2z+d_2=0$ are parallel if",
+    "questionLatex": "$$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$$",
+    "options": [
+      "$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$",
+      "$a_1a_2+b_1b_2+c_1c_2=0$",
+      "$d_1=d_2$",
+      "$a_1+b_1+c_1=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Two planes are parallel if their normal vectors are proportional, i.e., $\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Perpendicular Planes",
+    "familyId": "condition_perpendicular_planes",
+    "questionText": "Two planes $a_1x+b_1y+c_1z+d_1=0$ and $a_2x+b_2y+c_2z+d_2=0$ are perpendicular if",
+    "questionLatex": "$$a_1a_2+b_1b_2+c_1c_2=0$$",
+    "options": [
+      "$\\frac{a_1}{a_2}=\\frac{b_1}{b_2}=\\frac{c_1}{c_2}$",
+      "$a_1a_2+b_1b_2+c_1c_2=0$",
+      "$d_1=d_2$",
+      "$a_1+b_1+c_1=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Two planes are perpendicular if the dot product of their normal vectors is zero, i.e., $a_1a_2+b_1b_2+c_1c_2=0$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance Between Parallel Planes",
+    "familyId": "distance_parallel_planes",
+    "questionText": "Find the distance between the parallel planes $2x + 3y - 6z + 4 = 0$ and $2x + 3y - 6z - 8 = 0$.",
+    "questionLatex": "$$\\frac{|4-(-8)|}{\\sqrt{2^2+3^2+(-6)^2}}$$",
+    "options": [
+      "$\\frac{12}{7}$",
+      "$\\frac{6}{7}$",
+      "$\\frac{24}{7}$",
+      "$\\frac{3}{7}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The distance between parallel planes $ax+by+cz+d_1=0$ and $ax+by+cz+d_2=0$ is $\\frac{|d_1-d_2|}{\\sqrt{a^2+b^2+c^2}}$. Here, $\\frac{|4-(-8)|}{\\sqrt{4+9+36}} = \\frac{12}{\\sqrt{49}} = \\frac{12}{7}$."
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Planes",
+    "familyId": "angle_between_planes_formula",
+    "questionText": "If two planes have normal vectors (a₁,b₁,c₁) and (a₂,b₂,c₂), then the angle θ between them is given by",
+    "questionLatex": "$$\\cos\\theta=\\frac{|a_1a_2+b_1b_2+c_1c_2|}{\\sqrt{a_1^2+b_1^2+c_1^2}\\sqrt{a_2^2+b_2^2+c_2^2}}$$",
+    "options": [
+      "$\\frac{|a_1a_2+b_1b_2+c_1c_2|}{\\sqrt{a_1^2+b_1^2+c_1^2}\\sqrt{a_2^2+b_2^2+c_2^2}}$",
+      "$\\frac{a_1+a_2}{b_1+b_2}$",
+      "$\\frac{a_1b_2-a_2b_1}{c_1c_2}$",
+      "$\\frac{a_1a_2}{b_1b_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The angle between two planes is equal to the angle between their normal vectors."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane Through Three Points",
+    "familyId": "plane_three_points",
+    "questionText": "How many non-collinear points are required to uniquely determine a plane?",
+    "questionLatex": "$$\\text{Plane determination}$$",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A unique plane is determined by three non-collinear points."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance Between Points",
+    "familyId": "distance_between_points_3d",
+    "questionText": "Find the distance between the points A(1,2,3) and B(4,6,3).",
+    "questionLatex": "$$\\sqrt{(4-1)^2+(6-2)^2+(3-3)^2}$$",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Distance = $\\sqrt{(3)^2+(4)^2+(0)^2} = \\sqrt{9+16} = \\sqrt{25} = 5$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Section Formula",
+    "familyId": "section_formula_internal",
+    "questionText": "Find the coordinates of the point dividing the line segment joining (1,2,3) and (4,8,9) internally in the ratio 1:2.",
+    "questionLatex": "$$\\left(\\frac{1\\cdot4+2\\cdot1}{3},\\frac{1\\cdot8+2\\cdot2}{3},\\frac{1\\cdot9+2\\cdot3}{3}\\right)$$",
+    "options": [
+      "(2,4,5)",
+      "(3,6,7)",
+      "(2,4,4)",
+      "(1,2,3)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the section formula, the coordinates are $(\\frac{6}{3}, \\frac{12}{3}, \\frac{15}{3}) = (2,4,5)$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Ratios",
+    "familyId": "direction_ratios_two_points",
+    "questionText": "Find the direction ratios of the line joining the points (2,-1,4) and (5,3,10).",
+    "questionLatex": "$$(5-2,\\;3-(-1),\\;10-4)$$",
+    "options": [
+      "(3,4,6)",
+      "(4,3,6)",
+      "(3,6,4)",
+      "(1,2,3)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Direction ratios are obtained by calculating the difference between corresponding coordinates: $(5-2, 3+1, 10-4) = (3,4,6)$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane Equation",
+    "familyId": "plane_parallel_xy",
+    "questionText": "The equation of a plane parallel to the XY-plane and passing through the point (2,3,5) is",
+    "questionLatex": "$$z=5$$",
+    "options": [
+      "x=5",
+      "y=5",
+      "z=5",
+      "x+y=5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Any plane parallel to the XY-plane has an equation of the form z = k."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane Equation",
+    "familyId": "plane_parallel_yz",
+    "questionText": "The equation of a plane parallel to the YZ-plane and passing through (-4,2,1) is",
+    "questionLatex": "$$x=-4$$",
+    "options": [
+      "x=-4",
+      "y=-4",
+      "z=-4",
+      "y+z=-4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A plane parallel to the YZ-plane has an equation of the form x = k."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Plane Equation",
+    "familyId": "plane_parallel_xz",
+    "questionText": "The equation of a plane parallel to the XZ-plane and passing through (3,-2,4) is",
+    "questionLatex": "$$y=-2$$",
+    "options": [
+      "x=-2",
+      "y=-2",
+      "z=-2",
+      "x+z=-2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A plane parallel to the XZ-plane has an equation of the form y = k."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Line and Plane",
+    "familyId": "line_parallel_plane",
+    "questionText": "A line is parallel to a plane if",
+    "questionLatex": "$$\\vec{d}\\cdot\\vec{n}=0$$",
+    "options": [
+      "Its direction vector is parallel to the normal vector of the plane",
+      "Its direction vector is perpendicular to the normal vector of the plane",
+      "It intersects the plane",
+      "It lies on the normal of the plane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a line to be parallel to a plane, its direction vector must be perpendicular to the plane's normal vector."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance of Point from Plane",
+    "familyId": "point_on_plane_distance",
+    "questionText": "Find the distance of the point (2,1,3) from the plane 2x-y+2z-9=0.",
+    "questionLatex": "$$\\frac{|2(2)-1+2(3)-9|}{\\sqrt{2^2+(-1)^2+2^2}}$$",
+    "options": [
+      "0",
+      "1/3",
+      "2/3",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Substituting the point into the plane equation: 4-1+6-9 = 0. Since the result is zero, the point lies on the plane, so the distance is 0."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Planes",
+    "familyId": "angle_between_coordinate_planes",
+    "questionText": "The angle between the coordinate planes XY and YZ is",
+    "questionLatex": "$$\\theta = 90^\\circ$$",
+    "options": [
+      "$0^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The normal to the XY-plane is the z-axis, and the normal to the YZ-plane is the x-axis. Since the axes are mutually perpendicular, the angle between the planes is $90^\\circ$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance Between Points",
+    "familyId": "midpoint_3d",
+    "questionText": "Find the midpoint of the line segment joining the points (2, 4, 6) and (4, 8, 10).",
+    "questionLatex": "$$\\left(\\frac{2+4}{2},\\frac{4+8}{2},\\frac{6+10}{2}\\right)$$",
+    "options": [
+      "$(3,6,8)$",
+      "$(2,6,8)$",
+      "$(3,4,8)$",
+      "$(6,12,16)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The midpoint is found using the formula $\\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}, \\frac{z_1+z_2}{2}\\right)$, which gives $\\left(\\frac{2+4}{2},\\frac{4+8}{2},\\frac{6+10}{2}\\right) = (3,6,8)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Direction Cosines",
+    "familyId": "find_dc_from_dr_advanced",
+    "questionText": "Find the direction cosines of a line whose direction ratios are (1, 2, 2).",
+    "questionLatex": "$$(a,b,c)=(1,2,2)$$",
+    "options": [
+      "$\\left(\\frac{1}{3},\\frac{2}{3},\\frac{2}{3}\\right)$",
+      "$\\left(\\frac{1}{2},\\frac{2}{3},\\frac{2}{3}\\right)$",
+      "$\\left(\\frac{1}{3},\\frac{1}{3},\\frac{2}{3}\\right)$",
+      "$(1,2,2)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The magnitude of the vector is $\\sqrt{1^2+2^2+2^2} = \\sqrt{9} = 3$. Dividing each direction ratio by 3 gives the direction cosines: $\\left(\\frac{1}{3},\\frac{2}{3},\\frac{2}{3}\\right)$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Equation of Plane",
+    "familyId": "plane_through_point_parallel_xy",
+    "questionText": "Find the equation of the plane passing through (2, -1, 4) and parallel to the XY-plane.",
+    "questionLatex": "$$z=4$$",
+    "options": [
+      "$x=4$",
+      "$y=4$",
+      "$z=4$",
+      "$x+y+z=4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Any plane parallel to the XY-plane has an equation of the form $z = k$. Since it passes through $(2, -1, 4)$, the equation is $z=4$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Equation of Plane",
+    "familyId": "plane_intercepts",
+    "questionText": "Find the intercepts made by the plane $\\frac{x}{2} + \\frac{y}{3} + \\frac{z}{4} = 1$ on the coordinate axes.",
+    "questionLatex": "$$\\frac{x}{2}+\\frac{y}{3}+\\frac{z}{4}=1$$",
+    "options": [
+      "$(2,3,4)$",
+      "$(1,1,1)$",
+      "$(2,4,6)$",
+      "$(3,4,5)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Comparing the given equation with the intercept form $\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$, the intercepts on the axes are $a=2, b=3, c=4$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Line Through Two Points",
+    "familyId": "cartesian_equation_two_points",
+    "questionText": "Find the Cartesian equation of the line passing through the points (1,2,3) and (4,5,6).",
+    "questionLatex": "$$\\frac{x-1}{3}=\\frac{y-2}{3}=\\frac{z-3}{3}$$",
+    "options": [
+      "$\\frac{x-1}{3}=\\frac{y-2}{3}=\\frac{z-3}{3}$",
+      "$\\frac{x+1}{3}=\\frac{y+2}{3}=\\frac{z+3}{3}$",
+      "$\\frac{x-1}{4}=\\frac{y-2}{5}=\\frac{z-3}{6}$",
+      "$\\frac{x}{1}=\\frac{y}{2}=\\frac{z}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The direction ratios are $(4-1, 5-2, 6-3) = (3,3,3)$. Using the point $(1,2,3)$, the equation is $\\frac{x-1}{3}=\\frac{y-2}{3}=\\frac{z-3}{3}$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Distance Between Parallel Planes",
+    "familyId": "distance_parallel_planes_numeric",
+    "questionText": "Find the distance between the planes $x + 2y + 2z - 3 = 0$ and $x + 2y + 2z + 6 = 0$.",
+    "questionLatex": "$$\\frac{|(-3)-6|}{\\sqrt{1^2+2^2+2^2}}$$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$\\frac{9}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The distance is given by $\\frac{|d_1 - d_2|}{\\sqrt{A^2 + B^2 + C^2}} = \\frac{|-3 - 6|}{\\sqrt{1^2+2^2+2^2}} = \\frac{|-9|}{3} = 3$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Angle Between Line and Plane",
+    "familyId": "line_plane_parallel_condition",
+    "questionText": "A line with direction ratios (1, -2, 1) is parallel to the plane $x + y + z = 5$ because",
+    "questionLatex": "$$1(1)+1(-2)+1(1)=0$$",
+    "options": [
+      "The line lies in the plane",
+      "The direction ratios are proportional to the normal vector",
+      "The dot product of the direction vector and normal vector is zero",
+      "The plane passes through the origin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For a line to be parallel to a plane, its direction vector must be perpendicular to the plane's normal vector. Here, $(1, -2, 1) \\cdot (1, 1, 1) = 1 - 2 + 1 = 0$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Coplanarity",
+    "familyId": "coplanar_points_condition",
+    "questionText": "Four points are coplanar if the volume of the tetrahedron formed by them is",
+    "questionLatex": "$$\\text{Volume}=0$$",
+    "options": [
+      "$1$",
+      "Maximum",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "If the volume of the tetrahedron formed by four points is zero, the points are coplanar."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Shortest Distance",
+    "familyId": "distance_point_line_concept",
+    "questionText": "The shortest distance from a point to a line is measured along",
+    "questionLatex": "$$\\text{Shortest distance}$$",
+    "options": [
+      "A parallel line",
+      "A perpendicular from the point to the line",
+      "Any arbitrary segment",
+      "The coordinate axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The shortest distance between a point and a line is always the perpendicular distance from the point to the line."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

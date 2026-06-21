@@ -1,0 +1,1527 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Periodic Motion",
+    "familyId": "periodic_motion_definition",
+    "questionText": "A motion that repeats itself after equal intervals of time is called:",
+    "questionLatex": "$\\text{Periodic Motion}$",
+    "options": [
+      {"text": "Random motion", "latex": "$\\text{Random}$"},
+      {"text": "Periodic motion", "latex": "$\\text{Periodic}$"},
+      {"text": "Projectile motion", "latex": "$\\text{Projectile}$"},
+      {"text": "Translatory motion", "latex": "$\\text{Translatory}$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Periodic motion",
+      "latex": "$\\text{Periodic}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Oscillatory Motion",
+    "familyId": "oscillatory_motion_definition",
+    "questionText": "Oscillatory motion is a periodic motion in which a body moves:",
+    "questionLatex": "$\\text{Oscillation}$",
+    "options": [
+      {"text": "In a circular path", "latex": "$\\text{Circle}$"},
+      {"text": "Along a straight line only", "latex": "$\\text{Line}$"},
+      {"text": "To and fro about a mean position", "latex": "$\\text{Mean Position}$"},
+      {"text": "With constant acceleration", "latex": "$a=\\text{constant}$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "To and fro about a mean position",
+      "latex": "$\\text{Mean Position}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Periodic and Oscillatory Motion",
+    "familyId": "periodic_vs_oscillatory",
+    "questionText": "Which of the following statements is correct?",
+    "questionLatex": "$\\text{Periodic and Oscillatory Motion}$",
+    "options": [
+      {"text": "Every periodic motion is oscillatory", "latex": "$P\\Rightarrow O$"},
+      {"text": "Every oscillatory motion is periodic", "latex": "$O\\Rightarrow P$"},
+      {"text": "Neither periodic nor oscillatory motions are related", "latex": "$P\\neq O$"},
+      {"text": "Oscillatory motion is never periodic", "latex": "$O\\not\\Rightarrow P$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Every oscillatory motion is periodic",
+      "latex": "$O\\Rightarrow P$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Period",
+    "familyId": "period_definition",
+    "questionText": "The smallest interval of time after which a periodic motion repeats itself is called:",
+    "questionLatex": "$T$",
+    "options": [
+      {"text": "Frequency", "latex": "$\\nu$"},
+      {"text": "Amplitude", "latex": "$A$"},
+      {"text": "Period", "latex": "$T$"},
+      {"text": "Phase", "latex": "$\\phi$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Period",
+      "latex": "$T$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Frequency",
+    "familyId": "frequency_relation",
+    "questionText": "The relation between frequency and time period is:",
+    "questionLatex": "$\\nu=\\frac{1}{T}$",
+    "options": [
+      {"text": "nu = T", "latex": "$\\nu=T$"},
+      {"text": "nu = 1/T", "latex": "$\\nu=\\frac{1}{T}$"},
+      {"text": "nu = T^2", "latex": "$\\nu=T^2$"},
+      {"text": "nu = 2 pi T", "latex": "$\\nu=2\\pi T$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "nu = 1/T",
+      "latex": "$\\nu=\\frac{1}{T}$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Frequency Unit",
+    "familyId": "hertz_unit",
+    "questionText": "One hertz is equal to:",
+    "questionLatex": "$1\\text{ Hz}$",
+    "options": [
+      {"text": "1 oscillation per minute", "latex": "$1\\text{ min}^{-1}$"},
+      {"text": "1 oscillation per second", "latex": "$1\\text{ s}^{-1}$"},
+      {"text": "10 oscillations per second", "latex": "$10\\text{ s}^{-1}$"},
+      {"text": "2 pi oscillations per second", "latex": "$2\\pi\\text{ s}^{-1}$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1 oscillation per second",
+      "latex": "$1\\text{ s}^{-1}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Frequency Numerical",
+    "familyId": "heart_beat_frequency",
+    "questionText": "A heart beats 72 times per minute. Calculate its frequency.",
+    "questionLatex": "$\\nu=\\frac{N}{t}$",
+    "answer": {
+      "type": "numeric",
+      "text": "1.2 Hz",
+      "latex": "$1.2\\text{ Hz}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Displacement",
+    "familyId": "displacement_variable",
+    "questionText": "In oscillatory motion, displacement is generally measured from:",
+    "questionLatex": "$x$",
+    "options": [
+      {"text": "Initial position", "latex": "$x_0$"},
+      {"text": "Mean position", "latex": "$x=0$"},
+      {"text": "Final position", "latex": "$x_f$"},
+      {"text": "Extreme position", "latex": "$x=A$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mean position",
+      "latex": "$x=0$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Periodic Functions",
+    "familyId": "periodic_function_cos",
+    "questionText": "The function f(t) = A cos(omega * t) has time period:",
+    "questionLatex": "$f(t)=A\\cos\\omega t$",
+    "options": [
+      {"text": "pi/omega", "latex": "$\\frac{\\pi}{\\omega}$"},
+      {"text": "omega/2pi", "latex": "$\\frac{\\omega}{2\\pi}$"},
+      {"text": "2pi/omega", "latex": "$\\frac{2\\pi}{\\omega}$"},
+      {"text": "1/omega", "latex": "$\\frac{1}{\\omega}$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "2pi/omega",
+      "latex": "$\\frac{\\2\\pi}{\\omega}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Fourier Analysis",
+    "familyId": "fourier_theorem",
+    "questionText": "According to Fourier's theorem, any periodic function can be expressed as a superposition of:",
+    "questionLatex": "$\\text{Fourier Series}$",
+    "options": [
+      {"text": "Polynomial functions only", "latex": "$P(x)$"},
+      {"text": "Exponential functions only", "latex": "$e^x$"},
+      {"text": "Sine and cosine functions", "latex": "$\\sin x, \\cos x$"},
+      {"text": "Logarithmic functions only", "latex": "$\\log x$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Sine and cosine functions",
+      "latex": "$\\sin x, \\cos x$"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Harmonic Motion",
+    "familyId": "shm_definition",
+    "questionText": "Simple harmonic motion is a periodic motion in which displacement varies with time as:",
+    "questionLatex": "$x(t)=A\\cos(\\omega t+\\phi)$",
+    "options": [
+      {
+        "text": "x = At",
+        "latex": "$x=At$"
+      },
+      {
+        "text": "x = A cos(omega * t + phi)",
+        "latex": "$x=A\\cos(\\omega t+\\phi)$"
+      },
+      {
+        "text": "x = At^2",
+        "latex": "$x=At^2$"
+      },
+      {
+        "text": "x = e^t",
+        "latex": "$x=e^t$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "x = A cos(omega * t + phi)",
+      "latex": "$x=A\\cos(\\omega t+\\phi)$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Amplitude",
+    "familyId": "amplitude_definition",
+    "questionText": "The amplitude of SHM is defined as the:",
+    "questionLatex": "$A$",
+    "options": [
+      {
+        "text": "Time taken for one complete oscillation",
+        "latex": "$T$"
+      },
+      {
+        "text": "Maximum displacement from the mean position",
+        "latex": "$A$"
+      },
+      {
+        "text": "Angular frequency of the motion",
+        "latex": "$\\omega$"
+      },
+      {
+        "text": "Initial phase angle",
+        "latex": "$\\phi$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Maximum displacement from the mean position",
+      "latex": "$A$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Amplitude",
+    "familyId": "maximum_displacement",
+    "questionText": "A particle executes SHM with an amplitude of 8 cm. Its maximum displacement from the mean position is:",
+    "questionLatex": "$A=8\\text{ cm}$",
+    "options": [
+      {
+        "text": "4 cm",
+        "latex": "$4\\text{ cm}$"
+      },
+      {
+        "text": "8 cm",
+        "latex": "$8\\text{ cm}$"
+      },
+      {
+        "text": "16 cm",
+        "latex": "$16\\text{ cm}$"
+      },
+      {
+        "text": "32 cm",
+        "latex": "$32\\text{ cm}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "8 cm",
+      "latex": "$8\\text{ cm}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Phase",
+    "familyId": "phase_definition",
+    "questionText": "In the SHM equation x = A cos(omega * t + phi), the quantity (omega * t + phi) is called the:",
+    "questionLatex": "$\\omega t+\\phi$",
+    "options": [
+      {
+        "text": "Amplitude",
+        "latex": "$A$"
+      },
+      {
+        "text": "Frequency",
+        "latex": "$\\nu$"
+      },
+      {
+        "text": "Phase",
+        "latex": "$\\omega t+\\phi$"
+      },
+      {
+        "text": "Period",
+        "latex": "$T$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Phase",
+      "latex": "$\\omega t+\\phi$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Phase Constant",
+    "familyId": "phase_constant",
+    "questionText": "The value of the phase angle at t = 0 is known as the:",
+    "questionLatex": "$\\phi$",
+    "options": [
+      {
+        "text": "Angular frequency",
+        "latex": "$\\omega$"
+      },
+      {
+        "text": "Phase constant",
+        "latex": "$\\phi$"
+      },
+      {
+        "text": "Amplitude",
+        "latex": "$A$"
+      },
+      {
+        "text": "Time period",
+        "latex": "$T$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Phase constant",
+      "latex": "$\\phi$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Angular Frequency",
+    "familyId": "angular_frequency_definition",
+    "questionText": "The angular frequency of SHM is related to the time period by the formula:",
+    "questionLatex": "$\\omega=\\frac{2\\pi}{T}$",
+    "options": [
+      {
+        "text": "omega = T / (2 * pi)",
+        "latex": "$\\omega=\\frac{T}{2\\pi}$"
+      },
+      {
+        "text": "omega = 2 * pi * T",
+        "latex": "$\\omega=2\\pi T$"
+      },
+      {
+        "text": "omega = 2 * pi / T",
+        "latex": "$\\omega=\\frac{2\\pi}{T}$"
+      },
+      {
+        "text": "omega = 1 / T^2",
+        "latex": "$\\omega=\\frac{1}{T^2}$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "omega = 2 * pi / T",
+      "latex": "$\\omega=\\frac{2\\pi}{T}$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Angular Frequency Numerical",
+    "familyId": "omega_from_period",
+    "questionText": "Calculate the angular frequency of a particle executing SHM with a time period of 2 s.",
+    "questionLatex": "$\\omega=\\frac{2\\pi}{T}$",
+    "answer": {
+      "type": "numeric",
+      "text": "pi rad s^-1",
+      "latex": "$\\pi\\text{ rad s}^{-1}$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Harmonic Motion",
+    "familyId": "shm_identification",
+    "questionText": "Which of the following mathematical functions does NOT represent a simple harmonic motion?",
+    "questionLatex": "$x(t)$",
+    "options": [
+      {
+        "text": "x = A sin(omega * t)",
+        "latex": "$x=A\\sin\\omega t$"
+      },
+      {
+        "text": "x = B cos(omega * t)",
+        "latex": "$x=B\\cos\\omega t$"
+      },
+      {
+        "text": "x = A sin(omega * t) + B cos(omega * t)",
+        "latex": "$x=A\\sin\\omega t + B\\cos\\omega t$"
+      },
+      {
+        "text": "x = A tan(omega * t)",
+        "latex": "$x=A\\tan\\omega t$"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "x = A tan(omega * t)",
+      "latex": "$x=A\\tan\\omega t$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "SHM Graph",
+    "familyId": "shm_extreme_positions",
+    "questionText": "For a particle executing SHM with amplitude A, the displacement x varies between which limits?",
+    "questionLatex": "$-A\\le x\\le A$",
+    "options": [
+      {
+        "text": "0 and A",
+        "latex": "$0\\le x\\le A$"
+      },
+      {
+        "text": "-A and A",
+        "latex": "$-A\\le x\\le A$"
+      },
+      {
+        "text": "-2A and 2A",
+        "latex": "$-2A\\le x\\le 2A$"
+      },
+      {
+        "text": "0 and 2A",
+        "latex": "$0\\le x\\le 2A$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-A and A",
+      "latex": "$-A\\le x\\le A$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "SHM Numerical",
+    "familyId": "displacement_calculation",
+    "questionText": "A particle executes SHM according to the equation x = 10 cos(pi * t) cm. Find the displacement at t = 1 s.",
+    "questionLatex": "$x=10\\cos(\\pi t)$",
+    "answer": {
+      "type": "numeric",
+      "text": "-10 cm",
+      "latex": "$-10\\text{ cm}$"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "SHM and Circular Motion",
+    "familyId": "shm_projection_definition",
+    "questionText": "Simple harmonic motion can be regarded as the projection of:",
+    "questionLatex": "$\\text{SHM Projection}$",
+    "options": [
+      {
+        "text": "Uniform linear motion",
+        "latex": "$v=\\text{constant}$"
+      },
+      {
+        "text": "Uniform circular motion on a diameter",
+        "latex": "$\\text{UCM}$"
+      },
+      {
+        "text": "Projectile motion",
+        "latex": "$\\text{Projectile}$"
+      },
+      {
+        "text": "Rotational motion about a fixed axis",
+        "latex": "$\\text{Rotation}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Uniform circular motion on a diameter",
+      "latex": "$\\text{UCM}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Reference Circle",
+    "familyId": "reference_circle_radius",
+    "questionText": "In the reference circle method, the radius of the circle represents:",
+    "questionLatex": "$A$",
+    "options": [
+      {
+        "text": "Frequency",
+        "latex": "$\\nu$"
+      },
+      {
+        "text": "Amplitude",
+        "latex": "$A$"
+      },
+      {
+        "text": "Phase constant",
+        "latex": "$\\phi$"
+      },
+      {
+        "text": "Time period",
+        "latex": "$T$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Amplitude",
+      "latex": "$A$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Velocity in SHM",
+    "familyId": "velocity_expression",
+    "questionText": "If the displacement of a particle executing SHM is x = A cos(omega * t + phi), its velocity is:",
+    "questionLatex": "$v=-A\\omega\\sin(\\omega t+\\phi)$",
+    "options": [
+      {
+        "text": "A * omega * cos(omega * t + phi)",
+        "latex": "$A\\omega\\cos(\\omega t+\\phi)$"
+      },
+      {
+        "text": "-A * omega * sin(omega * t + phi)",
+        "latex": "$-A\\omega\\sin(\\omega t+\\phi)$"
+      },
+      {
+        "text": "A * omega^2 * cos(omega * t + phi)",
+        "latex": "$A\\omega^2\\cos(\\omega t+\\phi)$"
+      },
+      {
+        "text": "-A * omega^2 * sin(omega * t + phi)",
+        "latex": "$-A\\omega^2\\sin(\\omega t+\\phi)$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-A * omega * sin(omega * t + phi)",
+      "latex": "$-A\\omega\\sin(\\omega t+\\phi)$"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Maximum Velocity",
+    "familyId": "maximum_velocity",
+    "questionText": "The maximum speed of a particle executing SHM is:",
+    "questionLatex": "$v_{\\text{max}}=A\\omega$",
+    "options": [
+      {
+        "text": "A * omega",
+        "latex": "$A\\omega$"
+      },
+      {
+        "text": "A * omega^2",
+        "latex": "$A\\omega^2$"
+      },
+      {
+        "text": "omega / A",
+        "latex": "$\\frac{\\omega}{A}$"
+      },
+      {
+        "text": "A^2 * omega",
+        "latex": "$A^2\\omega$"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "A * omega",
+      "latex": "$A\\omega$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Velocity at Mean Position",
+    "familyId": "velocity_mean_position",
+    "questionText": "The velocity of a particle executing SHM is maximum at:",
+    "questionLatex": "$x=0$",
+    "options": [
+      {
+        "text": "Extreme position",
+        "latex": "$x=A$"
+      },
+      {
+        "text": "Mean position",
+        "latex": "$x=0$"
+      },
+      {
+        "text": "Every position",
+        "latex": "$\\forall x$"
+      },
+      {
+        "text": "Quarter amplitude",
+        "latex": "$x=\\frac{A}{4}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mean position",
+      "latex": "$x=0$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Acceleration in SHM",
+    "familyId": "acceleration_shm",
+    "questionText": "The acceleration of a particle executing SHM is given by:",
+    "questionLatex": "$a=-\\omega^2 x$",
+    "options": [
+      {
+        "text": "a = omega * x",
+        "latex": "$a=\\omega x$"
+      },
+      {
+        "text": "a = -omega^2 * x",
+        "latex": "$a=-\\omega^2 x$"
+      },
+      {
+        "text": "a = omega^2 * x",
+        "latex": "$a=\\omega^2 x$"
+      },
+      {
+        "text": "a = -omega * x",
+        "latex": "$a=-\\omega x$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "a = -omega^2 * x",
+      "latex": "$a=-\\omega^2 x$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Acceleration",
+    "familyId": "maximum_acceleration",
+    "questionText": "The magnitude of maximum acceleration in SHM is:",
+    "questionLatex": "$a_{\\text{max}}=\\omega^2 A$",
+    "options": [
+      {
+        "text": "A * omega",
+        "latex": "$A\\omega$"
+      },
+      {
+        "text": "A * omega^2",
+        "latex": "$A\\omega^2$"
+      },
+      {
+        "text": "omega / A",
+        "latex": "$\\frac{\\omega}{A}$"
+      },
+      {
+        "text": "A^2 * omega^2",
+        "latex": "$A^2\\omega^2$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A * omega^2",
+      "latex": "$A\\omega^2$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Phase Relationship",
+    "familyId": "velocity_displacement_phase",
+    "questionText": "The phase difference between displacement and velocity in SHM is:",
+    "questionLatex": "$\\frac{\\pi}{2}$",
+    "options": [
+      {
+        "text": "0",
+        "latex": "$0$"
+      },
+      {
+        "text": "pi/4",
+        "latex": "$\\frac{\\pi}{4}$"
+      },
+      {
+        "text": "pi/2",
+        "latex": "$\\frac{\\pi}{2}$"
+      },
+      {
+        "text": "pi",
+        "latex": "$\\pi$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "pi/2",
+      "latex": "$\\frac{\\pi}{2}$"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Velocity Numerical",
+    "familyId": "maximum_velocity_numerical",
+    "questionText": "A particle executes SHM with amplitude 5 cm and angular frequency 20 rad s^-1. Calculate its maximum speed.",
+    "questionLatex": "$v_{\\text{max}}=A\\omega$",
+    "answer": {
+      "type": "numeric",
+      "text": "1.0 m s^-1",
+      "latex": "$1.0\\text{ m s}^{-1}$"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Acceleration Numerical",
+    "familyId": "maximum_acceleration_numerical",
+    "questionText": "A particle performs SHM with amplitude 0.1 m and angular frequency 10 rad s^-1. Find the maximum acceleration.",
+    "questionLatex": "$a_{\\text{max}}=\\omega^2 A$",
+    "answer": {
+      "type": "numeric",
+      "text": "10 m s^-2",
+      "latex": "$10\\text{ m s}^{-2}$"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Restoring Force",
+    "familyId": "restoring_force_definition",
+    "questionText": "The force responsible for bringing an oscillating particle back towards its mean position is called:",
+    "questionLatex": "$F$",
+    "options": [
+      {"text": "Applied force", "latex": "$F_a$"},
+      {"text": "Gravitational force", "latex": "$F_g$"},
+      {"text": "Restoring force", "latex": "$F_r$"},
+      {"text": "Centrifugal force", "latex": "$F_c$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Restoring force",
+      "latex": "$F_r$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Force Law in SHM",
+    "familyId": "hooke_law_shm",
+    "questionText": "The restoring force in simple harmonic motion is proportional to:",
+    "questionLatex": "$F=-kx$",
+    "options": [
+      {"text": "Velocity", "latex": "$v$"},
+      {"text": "Acceleration", "latex": "$a$"},
+      {"text": "Displacement from mean position", "latex": "$x$"},
+      {"text": "Time", "latex": "$t$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Displacement from mean position",
+      "latex": "$x$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Force Law in SHM",
+    "familyId": "force_equation_shm",
+    "questionText": "The mathematical expression for restoring force in SHM is:",
+    "questionLatex": "$F=-kx$",
+    "options": [
+      {"text": "F = kx", "latex": "$F=kx$"},
+      {"text": "F = -kx", "latex": "$F=-kx$"},
+      {"text": "F = k/x", "latex": "$F=\\frac{k}{x}$"},
+      {"text": "F = kx^2", "latex": "$F=kx^2$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "F = -kx",
+      "latex": "$F=-kx$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Potential Energy",
+    "familyId": "potential_energy_expression",
+    "questionText": "The potential energy of a particle executing SHM at displacement x is:",
+    "questionLatex": "$U=\\frac{1}{2}kx^2$",
+    "options": [
+      {"text": "U = kx", "latex": "$U=kx$"},
+      {"text": "U = kx^2", "latex": "$U=kx^2$"},
+      {"text": "U = (1/2)kx^2", "latex": "$U=\\frac{1}{2}kx^2$"},
+      {"text": "U = (1/2)mv^2", "latex": "$U=\\frac{1}{2}mv^2$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "U = (1/2)kx^2",
+      "latex": "$U=\\frac{1}{2}kx^2$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Potential Energy",
+    "familyId": "potential_energy_maximum",
+    "questionText": "The potential energy of a particle executing SHM is maximum at:",
+    "questionLatex": "$x=\\pm A$",
+    "options": [
+      {"text": "Mean position", "latex": "$x=0$"},
+      {"text": "Half amplitude", "latex": "$x=\\frac{A}{2}$"},
+      {"text": "Extreme positions", "latex": "$x=\\pm A$"},
+      {"text": "All positions equally", "latex": "$\\forall x$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Extreme positions",
+      "latex": "$x=\\pm A$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Kinetic Energy",
+    "familyId": "kinetic_energy_maximum",
+    "questionText": "The kinetic energy of a particle executing SHM is maximum at:",
+    "questionLatex": "$x=0$",
+    "options": [
+      {"text": "Extreme position", "latex": "$x=\\pm A$"},
+      {"text": "Mean position", "latex": "$x=0$"},
+      {"text": "Quarter amplitude", "latex": "$x=\\frac{A}{4}$"},
+      {"text": "Half amplitude", "latex": "$x=\\frac{A}{2}$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mean position",
+      "latex": "$x=0$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Total Energy",
+    "familyId": "total_energy_expression",
+    "questionText": "The total mechanical energy of a particle executing SHM is:",
+    "questionLatex": "$E=\\frac{1}{2}kA^2$",
+    "options": [
+      {"text": "(1/2)kx^2", "latex": "$\\frac{1}{2}kx^2$"},
+      {"text": "(1/2)mv^2", "latex": "$\\frac{1}{2}mv^2$"},
+      {"text": "(1/2)kA^2", "latex": "$\\frac{1}{2}kA^2$"},
+      {"text": "kxA", "latex": "$kxA$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "(1/2)kA^2",
+      "latex": "$\\frac{1}{2}kA^2$"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Conservation of Energy",
+    "familyId": "energy_conservation_shm",
+    "questionText": "During simple harmonic motion, the total mechanical energy remains:",
+    "questionLatex": "$E=\\text{constant}$",
+    "options": [
+      {"text": "Zero", "latex": "$0$"},
+      {"text": "Variable", "latex": "$\\Delta E$"},
+      {"text": "Constant", "latex": "$E=\\text{constant}$"},
+      {"text": "Infinite", "latex": "$\\infty$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Constant",
+      "latex": "$E=\\text{constant}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Energy Numerical",
+    "familyId": "total_energy_numerical",
+    "questionText": "A particle executes SHM with spring constant 200 N m^-1 and amplitude 0.10 m. Calculate its total energy.",
+    "questionLatex": "$E=\\frac{1}{2}kA^2$",
+    "answer": {
+      "type": "numeric",
+      "text": "1 J",
+      "latex": "$1\\text{ J}$"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Potential Energy Numerical",
+    "familyId": "potential_energy_numerical",
+    "questionText": "A particle in SHM has spring constant 100 N m^-1 and displacement 0.20 m from the mean position. Calculate its potential energy.",
+    "questionLatex": "$U=\\frac{1}{2}kx^2$",
+    "answer": {
+      "type": "numeric",
+      "text": "2 J",
+      "latex": "$2\\text{ J}$"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Pendulum",
+    "familyId": "simple_pendulum_definition",
+    "questionText": "A simple pendulum consists of:",
+    "questionLatex": "$\\text{Simple Pendulum}$",
+    "options": [
+      {
+        "text": "A rigid rod and a heavy sphere",
+        "latex": "$\\text{Rigid Rod}$"
+      },
+      {
+        "text": "A point mass suspended by a light inextensible string",
+        "latex": "$\\text{Point Mass}$"
+      },
+      {
+        "text": "Two masses connected by a spring",
+        "latex": "$\\text{Spring System}$"
+      },
+      {
+        "text": "A liquid column in a U-tube",
+        "latex": "$\\text{Liquid Column}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A point mass suspended by a light inextensible string",
+      "latex": "$\\text{Point Mass}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Pendulum",
+    "familyId": "pendulum_time_period",
+    "questionText": "The time period of a simple pendulum is given by:",
+    "questionLatex": "$T=2\\pi\\sqrt{\\frac{L}{g}}$",
+    "options": [
+      {
+        "text": "$T = 2\\pi\\sqrt{\\frac{L}{g}}$",
+        "latex": "$T=2\\pi\\sqrt{\\frac{L}{g}}$"
+      },
+      {
+        "text": "$T = 2\\pi\\sqrt{\\frac{g}{L}}$",
+        "latex": "$T=2\\pi\\sqrt{\\frac{g}{L}}$"
+      },
+      {
+        "text": "$T = \\pi\\sqrt{\\frac{L}{g}}$",
+        "latex": "$T=\\pi\\sqrt{\\frac{L}{g}}$"
+      },
+      {
+        "text": "$T = \\frac{L}{g}$",
+        "latex": "$T=\\frac{L}{g}$"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "$T = 2\\pi\\sqrt{\\frac{L}{g}}$",
+      "latex": "$T=2\\pi\\sqrt{\\frac{L}{g}}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Pendulum",
+    "familyId": "pendulum_length_dependence",
+    "questionText": "The time period of a simple pendulum is directly proportional to:",
+    "questionLatex": "$T\\propto\\sqrt{L}$",
+    "options": [
+      {
+        "text": "$L$",
+        "latex": "$L$"
+      },
+      {
+        "text": "$\\sqrt{L}$",
+        "latex": "$\\sqrt{L}$"
+      },
+      {
+        "text": "$L^2$",
+        "latex": "$L^2$"
+      },
+      {
+        "text": "$\\frac{1}{L}$",
+        "latex": "$\\frac{1}{L}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "$\\sqrt{L}$",
+      "latex": "$\\sqrt{L}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Pendulum",
+    "familyId": "pendulum_gravity_dependence",
+    "questionText": "The time period of a simple pendulum is inversely proportional to:",
+    "questionLatex": "$T\\propto\\frac{1}{\\sqrt{g}}$",
+    "options": [
+      {
+        "text": "$g$",
+        "latex": "$g$"
+      },
+      {
+        "text": "$g^2$",
+        "latex": "$g^2$"
+      },
+      {
+        "text": "$\\sqrt{g}$",
+        "latex": "$\\sqrt{g}$"
+      },
+      {
+        "text": "$\\frac{1}{g}$",
+        "latex": "$\\frac{1}{g}$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$\\sqrt{g}$",
+      "latex": "$\\sqrt{g}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Spring-Mass System",
+    "familyId": "spring_mass_period",
+    "questionText": "The time period of a spring-mass system is:",
+    "questionLatex": "$T=2\\pi\\sqrt{\\frac{m}{k}}$",
+    "options": [
+      {
+        "text": "$T = 2\\pi\\sqrt{\\frac{m}{k}}$",
+        "latex": "$T=2\\pi\\sqrt{\\frac{m}{k}}$"
+      },
+      {
+        "text": "$T = 2\\pi\\sqrt{\\frac{k}{m}}$",
+        "latex": "$T=2\\pi\\sqrt{\\frac{k}{m}}$"
+      },
+      {
+        "text": "$T = \\frac{m}{k}$",
+        "latex": "$T=\\frac{m}{k}$"
+      },
+      {
+        "text": "$T = \\frac{k}{m}$",
+        "latex": "$T=\\frac{k}{m}$"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "$T = 2\\pi\\sqrt{\\frac{m}{k}}$",
+      "latex": "$T=2\\pi\\sqrt{\\frac{m}{k}}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Damped Oscillations",
+    "familyId": "damped_definition",
+    "questionText": "Oscillations in which the amplitude gradually decreases with time are called:",
+    "questionLatex": "$\\text{Damped Oscillations}$",
+    "options": [
+      {
+        "text": "Free oscillations",
+        "latex": "$\\text{Free}$"
+      },
+      {
+        "text": "Forced oscillations",
+        "latex": "$\\text{Forced}$"
+      },
+      {
+        "text": "Damped oscillations",
+        "latex": "$\\text{Damped}$"
+      },
+      {
+        "text": "Harmonic oscillations",
+        "latex": "$\\text{Harmonic}$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Damped oscillations",
+      "latex": "$\\text{Damped}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Forced Oscillations",
+    "familyId": "forced_oscillation_definition",
+    "questionText": "Oscillations maintained by an external periodic force are called:",
+    "questionLatex": "$\\text{Forced Oscillations}$",
+    "options": [
+      {
+        "text": "Free oscillations",
+        "latex": "$\\text{Free}$"
+      },
+      {
+        "text": "Damped oscillations",
+        "latex": "$\\text{Damped}$"
+      },
+      {
+        "text": "Forced oscillations",
+        "latex": "$\\text{Forced}$"
+      },
+      {
+        "text": "Natural oscillations",
+        "latex": "$\\text{Natural}$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Forced oscillations",
+      "latex": "$\\text{Forced}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Resonance",
+    "familyId": "resonance_definition",
+    "questionText": "Resonance occurs when the frequency of the external periodic force becomes equal to:",
+    "questionLatex": "$\\nu=\\nu_0$",
+    "options": [
+      {
+        "text": "Half the natural frequency",
+        "latex": "$\\nu_0/2$"
+      },
+      {
+        "text": "Twice the natural frequency",
+        "latex": "$2\\nu_0$"
+      },
+      {
+        "text": "The natural frequency of the system",
+        "latex": "$\\nu_0$"
+      },
+      {
+        "text": "Zero",
+        "latex": "$0$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The natural frequency of the system",
+      "latex": "$\\nu_0$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Simple Pendulum Numerical",
+    "familyId": "pendulum_numerical",
+    "questionText": "Calculate the time period of a simple pendulum of length $1.0\\text{ m}$. Take $g = 9.8\\text{ m s}^{-2}$.",
+    "questionLatex": "$T=2\\pi\\sqrt{\\frac{L}{g}}$",
+    "answer": {
+      "type": "numeric",
+      "text": "2.0 s",
+      "latex": "$2.0\\text{ s}$"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "topic": "Spring-Mass Numerical",
+    "familyId": "spring_mass_numerical",
+    "questionText": "A mass of $0.5\\text{ kg}$ is attached to a spring of force constant $200\\text{ N m}^{-1}$. Calculate the time period of oscillation.",
+    "questionLatex": "$T=2\\pi\\sqrt{\\frac{m}{k}}$",
+    "answer": {
+      "type": "numeric",
+      "text": "0.314 s",
+      "latex": "$0.314\\text{ s}$"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

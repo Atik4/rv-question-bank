@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Introduction to Chemical Bonding",
+    "familyId": "chemical_bond_definition",
+    "questionText": "What is a chemical bond?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "A force that separates atoms",
+        "latex": null
+      },
+      {
+        "text": "An attractive force that holds atoms, ions or molecules together",
+        "latex": null
+      },
+      {
+        "text": "A force acting only between ions",
+        "latex": null
+      },
+      {
+        "text": "A force acting only between metals",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "An attractive force that holds atoms, ions or molecules together",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis and Kossel Theory",
+    "familyId": "noble_gas_stability",
+    "questionText": "According to Lewis and Kossel, atoms combine primarily to attain:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Maximum atomic mass",
+        "latex": null
+      },
+      {
+        "text": "Noble gas electronic configuration",
+        "latex": null
+      },
+      {
+        "text": "Higher temperature",
+        "latex": null
+      },
+      {
+        "text": "Greater density",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Noble gas electronic configuration",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis Symbols",
+    "familyId": "lewis_symbol_significance",
+    "questionText": "In Lewis symbols, the dots around an element represent:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Total electrons",
+        "latex": null
+      },
+      {
+        "text": "Neutrons",
+        "latex": null
+      },
+      {
+        "text": "Valence electrons",
+        "latex": null
+      },
+      {
+        "text": "Protons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Valence electrons",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Ionic Bond",
+    "familyId": "ionic_bond_definition",
+    "questionText": "The bond formed due to electrostatic attraction between oppositely charged ions is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Coordinate bond",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen bond",
+        "latex": null
+      },
+      {
+        "text": "Ionic bond",
+        "latex": null
+      },
+      {
+        "text": "Metallic bond",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Ionic bond",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Formation of Ionic Compounds",
+    "familyId": "nacl_formation",
+    "questionText": "During the formation of NaCl, sodium atom:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gains one electron",
+        "latex": null
+      },
+      {
+        "text": "Loses one electron",
+        "latex": null
+      },
+      {
+        "text": "Shares two electrons",
+        "latex": null
+      },
+      {
+        "text": "Gains two electrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Loses one electron",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Octet Rule",
+    "familyId": "octet_rule_definition",
+    "questionText": "According to the octet rule, atoms tend to achieve:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "2 electrons in valence shell",
+        "latex": null
+      },
+      {
+        "text": "6 electrons in valence shell",
+        "latex": null
+      },
+      {
+        "text": "8 electrons in valence shell",
+        "latex": null
+      },
+      {
+        "text": "10 electrons in valence shell",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "8 electrons in valence shell",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Covalent Bond",
+    "familyId": "covalent_bond_definition",
+    "questionText": "A covalent bond is formed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Transfer of electrons",
+        "latex": null
+      },
+      {
+        "text": "Sharing of electron pairs",
+        "latex": null
+      },
+      {
+        "text": "Transfer of protons",
+        "latex": null
+      },
+      {
+        "text": "Sharing of neutrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Sharing of electron pairs",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis Dot Structures",
+    "familyId": "cl2_bonding",
+    "questionText": "In Cl₂ molecule, each chlorine atom contributes how many electrons to the shared pair?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "0",
+        "latex": null
+      },
+      {
+        "text": "1",
+        "latex": null
+      },
+      {
+        "text": "2",
+        "latex": null
+      },
+      {
+        "text": "3",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Multiple Bonds",
+    "familyId": "double_bond_definition",
+    "questionText": "A double bond consists of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One shared electron pair",
+        "latex": null
+      },
+      {
+        "text": "Two shared electron pairs",
+        "latex": null
+      },
+      {
+        "text": "Three shared electron pairs",
+        "latex": null
+      },
+      {
+        "text": "Four shared electron pairs",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Two shared electron pairs",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Multiple Bonds",
+    "familyId": "triple_bond_example",
+    "questionText": "Which molecule contains a triple bond?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "O₂",
+        "latex": null
+      },
+      {
+        "text": "Cl₂",
+        "latex": null
+      },
+      {
+        "text": "N₂",
+        "latex": null
+      },
+      {
+        "text": "H₂",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "N₂",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis Structures",
+    "familyId": "central_atom_selection",
+    "questionText": "While writing Lewis structures, the central atom is generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "The most electronegative atom",
+        "latex": null
+      },
+      {
+        "text": "The least electronegative atom",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen atom",
+        "latex": null
+      },
+      {
+        "text": "The atom with highest atomic mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The least electronegative atom",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis Structures",
+    "familyId": "co2_central_atom",
+    "questionText": "In the Lewis structure of CO₂, the central atom is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Oxygen",
+        "latex": null
+      },
+      {
+        "text": "Carbon",
+        "latex": null
+      },
+      {
+        "text": "Either carbon or oxygen",
+        "latex": null
+      },
+      {
+        "text": "No central atom exists",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Carbon",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Formal Charge",
+    "familyId": "formal_charge_definition",
+    "questionText": "Formal charge on an atom in a molecule is calculated using:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic mass only",
+        "latex": null
+      },
+      {
+        "text": "Valence electrons, non-bonding electrons and bonding electrons",
+        "latex": null
+      },
+      {
+        "text": "Number of protons only",
+        "latex": null
+      },
+      {
+        "text": "Number of neutrons only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Valence electrons, non-bonding electrons and bonding electrons",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Formal Charge",
+    "familyId": "ozone_formal_charge",
+    "questionText": "In one Lewis structure of ozone (O₃), the central oxygen atom carries a formal charge of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "-1",
+        "latex": null
+      },
+      {
+        "text": "0",
+        "latex": null
+      },
+      {
+        "text": "+1",
+        "latex": null
+      },
+      {
+        "text": "+2",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+1",
+      "latex": null
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Octet Rule Limitations",
+    "familyId": "incomplete_octet",
+    "questionText": "Which of the following is an example of a molecule with an incomplete octet?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "CH₄",
+        "latex": "CH_4"
+      },
+      {
+        "text": "NH₃",
+        "latex": "NH_3"
+      },
+      {
+        "text": "BF₃",
+        "latex": "BF_3"
+      },
+      {
+        "text": "H₂O",
+        "latex": "H_2O"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "BF₃",
+      "latex": "BF_3"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Octet Rule Limitations",
+    "familyId": "odd_electron_molecule",
+    "questionText": "Which of the following is an odd-electron molecule?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "NO",
+        "latex": "NO"
+      },
+      {
+        "text": "CO₂",
+        "latex": "CO_2"
+      },
+      {
+        "text": "CH₄",
+        "latex": "CH_4"
+      },
+      {
+        "text": "NH₃",
+        "latex": "NH_3"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "NO",
+      "latex": "NO"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Expanded Octet",
+    "familyId": "expanded_octet_example",
+    "questionText": "Which of the following molecules has an expanded octet?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "NH₃",
+        "latex": "NH_3"
+      },
+      {
+        "text": "CH₄",
+        "latex": "CH_4"
+      },
+      {
+        "text": "SF₆",
+        "latex": "SF_6"
+      },
+      {
+        "text": "BF₃",
+        "latex": "BF_3"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "SF₆",
+      "latex": "SF_6"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Ionic Bond",
+    "familyId": "ionic_compound_formation",
+    "questionText": "Formation of ionic compounds is favored when the metal has:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "High ionization enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Low ionization enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Zero ionization enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Infinite ionization enthalpy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Low ionization enthalpy",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lattice Enthalpy",
+    "familyId": "lattice_enthalpy_definition",
+    "questionText": "Lattice enthalpy of an ionic solid is the energy required to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Melt one mole of the solid",
+        "latex": null
+      },
+      {
+        "text": "Convert one mole of solid into gaseous atoms",
+        "latex": null
+      },
+      {
+        "text": "Completely separate one mole of the ionic solid into gaseous ions",
+        "latex": null
+      },
+      {
+        "text": "Dissolve one mole of solid in water",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Completely separate one mole of the ionic solid into gaseous ions",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lattice Enthalpy",
+    "familyId": "nacl_lattice_enthalpy",
+    "questionText": "The lattice enthalpy of NaCl is approximately:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "788 kJ mol⁻¹",
+        "latex": "788\\ \\text{kJ mol}^{-1}"
+      },
+      {
+        "text": "495 kJ mol⁻¹",
+        "latex": "495\\ \\text{kJ mol}^{-1}"
+      },
+      {
+        "text": "349 kJ mol⁻¹",
+        "latex": "349\\ \\text{kJ mol}^{-1}"
+      },
+      {
+        "text": "946 kJ mol⁻¹",
+        "latex": "946\\ \\text{kJ mol}^{-1}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "788 kJ mol⁻¹",
+      "latex": "788\\ \\text{kJ mol}^{-1}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Parameters",
+    "familyId": "bond_length_definition",
+    "questionText": "Bond length is defined as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Distance between two bonded nuclei",
+        "latex": null
+      },
+      {
+        "text": "Distance between two valence electrons",
+        "latex": null
+      },
+      {
+        "text": "Radius of an atom",
+        "latex": null
+      },
+      {
+        "text": "Distance between two lone pairs",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Distance between two bonded nuclei",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Parameters",
+    "familyId": "bond_order_definition",
+    "questionText": "Bond order is defined as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Number of atoms in a molecule",
+        "latex": null
+      },
+      {
+        "text": "Number of bonds between two atoms",
+        "latex": null
+      },
+      {
+        "text": "Number of lone pairs",
+        "latex": null
+      },
+      {
+        "text": "Number of valence electrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Number of bonds between two atoms",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Parameters",
+    "familyId": "bond_order_o2",
+    "questionText": "The bond order of oxygen molecule (O₂) is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "1",
+        "latex": null
+      },
+      {
+        "text": "2",
+        "latex": null
+      },
+      {
+        "text": "3",
+        "latex": null
+      },
+      {
+        "text": "4",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Parameters",
+    "familyId": "bond_length_order_relation",
+    "questionText": "As bond order increases, bond length generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Parameters",
+    "familyId": "bond_enthalpy_definition",
+    "questionText": "Bond enthalpy is the energy required to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Form one mole of bonds",
+        "latex": null
+      },
+      {
+        "text": "Break one mole of bonds in gaseous state",
+        "latex": null
+      },
+      {
+        "text": "Melt one mole of substance",
+        "latex": null
+      },
+      {
+        "text": "Vaporize one mole of substance",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Break one mole of bonds in gaseous state",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Polarity",
+    "familyId": "bond_polarity_definition",
+    "questionText": "Bond polarity arises due to difference in:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic masses",
+        "latex": null
+      },
+      {
+        "text": "Electronegativity",
+        "latex": null
+      },
+      {
+        "text": "Neutron number",
+        "latex": null
+      },
+      {
+        "text": "Atomic volume",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Electronegativity",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Dipole Moment",
+    "familyId": "dipole_moment_definition",
+    "questionText": "Dipole moment is the product of magnitude of charge and:",
+    "questionLatex": "\\mu = q \\times r",
+    "options": [
+      {
+        "text": "Mass",
+        "latex": "m"
+      },
+      {
+        "text": "Distance separating charges",
+        "latex": "r"
+      },
+      {
+        "text": "Volume",
+        "latex": "V"
+      },
+      {
+        "text": "Energy",
+        "latex": "E"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Distance separating charges",
+      "latex": "r"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Dipole Moment",
+    "familyId": "co2_dipole",
+    "questionText": "Despite having polar C=O bonds, CO₂ is a non-polar molecule because:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Carbon has zero electronegativity",
+        "latex": null
+      },
+      {
+        "text": "The molecule is linear and bond dipoles cancel",
+        "latex": null
+      },
+      {
+        "text": "Oxygen atoms have no lone pairs",
+        "latex": null
+      },
+      {
+        "text": "CO₂ contains ionic bonds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The molecule is linear and bond dipoles cancel",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "vsepr_full_form",
+    "questionText": "The full form of VSEPR is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Valence Shell Electron Pair Repulsion",
+        "latex": null
+      },
+      {
+        "text": "Valence Shell Energy Pair Rotation",
+        "latex": null
+      },
+      {
+        "text": "Variable Shell Electron Pair Repulsion",
+        "latex": null
+      },
+      {
+        "text": "Valence State Electron Pair Reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Valence Shell Electron Pair Repulsion",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "vsepr_basic_postulate",
+    "questionText": "According to VSEPR theory, electron pairs around the central atom arrange themselves to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Maximize attraction",
+        "latex": null
+      },
+      {
+        "text": "Minimize repulsion",
+        "latex": null
+      },
+      {
+        "text": "Increase bond length",
+        "latex": null
+      },
+      {
+        "text": "Decrease electronegativity",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Minimize repulsion",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "methane_geometry",
+    "questionText": "According to VSEPR theory, the geometry of CH₄ molecule is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Bent",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Tetrahedral",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "methane_bond_angle",
+    "questionText": "The H-C-H bond angle in methane is:",
+    "questionLatex": "\\angle \\text{HCH}",
+    "options": [
+      {
+        "text": "90°",
+        "latex": "90^\\circ"
+      },
+      {
+        "text": "109.5°",
+        "latex": "109.5^\\circ"
+      },
+      {
+        "text": "120°",
+        "latex": "120^\\circ"
+      },
+      {
+        "text": "180°",
+        "latex": "180^\\circ"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "109.5°",
+      "latex": "109.5^\\circ"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "ammonia_geometry",
+    "questionText": "The shape of NH₃ molecule is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal pyramidal",
+        "latex": null
+      },
+      {
+        "text": "Bent",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Trigonal pyramidal",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "water_geometry",
+    "questionText": "The molecular shape of H₂O is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Bent or V-shaped",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Bent or V-shaped",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "VSEPR Theory",
+    "familyId": "lone_pair_repulsion",
+    "questionText": "Which type of electron pair repulsion is strongest?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Bond pair - Bond pair",
+        "latex": null
+      },
+      {
+        "text": "Bond pair - Lone pair",
+        "latex": null
+      },
+      {
+        "text": "Lone pair - Lone pair",
+        "latex": null
+      },
+      {
+        "text": "All are equal",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Lone pair - Lone pair",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "hybridisation_definition",
+    "questionText": "Hybridisation is defined as the mixing of atomic orbitals having comparable energies to form:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Molecular orbitals",
+        "latex": null
+      },
+      {
+        "text": "Hybrid orbitals",
+        "latex": null
+      },
+      {
+        "text": "Valence electrons",
+        "latex": null
+      },
+      {
+        "text": "Ionic bonds",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Hybrid orbitals",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp_hybridisation",
+    "questionText": "The number of hybrid orbitals formed in sp hybridisation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "1",
+        "latex": null
+      },
+      {
+        "text": "2",
+        "latex": null
+      },
+      {
+        "text": "3",
+        "latex": null
+      },
+      {
+        "text": "4",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp_geometry",
+    "questionText": "The geometry associated with sp hybridisation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Octahedral",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Linear",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp2_hybridisation",
+    "questionText": "The geometry associated with sp² hybridisation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Bent",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Trigonal planar",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp3_hybridisation",
+    "questionText": "The geometry associated with sp³ hybridisation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Square planar",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Tetrahedral",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp3d_hybridisation",
+    "questionText": "The hybridisation of the central atom in PCl₅ is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "sp",
+        "latex": null
+      },
+      {
+        "text": "sp²",
+        "latex": null
+      },
+      {
+        "text": "sp³",
+        "latex": null
+      },
+      {
+        "text": "sp³d",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "sp³d",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "pcl5_geometry",
+    "questionText": "The geometry of PCl₅ molecule is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Trigonal bipyramidal",
+        "latex": null
+      },
+      {
+        "text": "Octahedral",
+        "latex": null
+      },
+      {
+        "text": "Square pyramidal",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Trigonal bipyramidal",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sp3d2_hybridisation",
+    "questionText": "The hybridisation of sulfur in SF₆ is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "sp³",
+        "latex": null
+      },
+      {
+        "text": "sp³d",
+        "latex": null
+      },
+      {
+        "text": "sp³d²",
+        "latex": null
+      },
+      {
+        "text": "dsp²",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "sp³d²",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "familyId": "sf6_geometry",
+    "questionText": "The geometry of SF₆ molecule is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Trigonal bipyramidal",
+        "latex": null
+      },
+      {
+        "text": "Square planar",
+        "latex": null
+      },
+      {
+        "text": "Octahedral",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Octahedral",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Valence Bond Theory",
+    "familyId": "valence_bond_theory",
+    "questionText": "According to Valence Bond Theory, a covalent bond is formed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Transfer of electrons",
+        "latex": null
+      },
+      {
+        "text": "Overlap of atomic orbitals",
+        "latex": null
+      },
+      {
+        "text": "Transfer of protons",
+        "latex": null
+      },
+      {
+        "text": "Mixing of molecules",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Overlap of atomic orbitals",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Orbital Overlap",
+    "familyId": "overlap_strength",
+    "questionText": "Greater the extent of overlap between orbitals:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Weaker the bond formed",
+        "latex": null
+      },
+      {
+        "text": "Stronger the bond formed",
+        "latex": null
+      },
+      {
+        "text": "No bond is formed",
+        "latex": null
+      },
+      {
+        "text": "Bond length increases indefinitely",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Stronger the bond formed",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Sigma Bond",
+    "familyId": "sigma_bond_definition",
+    "questionText": "A σ (sigma) bond is formed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Sidewise overlap of orbitals",
+        "latex": null
+      },
+      {
+        "text": "End-to-end overlap of orbitals",
+        "latex": null
+      },
+      {
+        "text": "Overlap of nuclei",
+        "latex": null
+      },
+      {
+        "text": "Transfer of electrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "End-to-end overlap of orbitals",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Pi Bond",
+    "familyId": "pi_bond_definition",
+    "questionText": "A π (pi) bond is formed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "End-to-end overlap",
+        "latex": null
+      },
+      {
+        "text": "Sidewise overlap of parallel orbitals",
+        "latex": null
+      },
+      {
+        "text": "Complete transfer of electrons",
+        "latex": null
+      },
+      {
+        "text": "Hybridisation only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Sidewise overlap of parallel orbitals",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hydrogen Bonding",
+    "familyId": "hydrogen_bond_definition",
+    "questionText": "Hydrogen bonding occurs when hydrogen is bonded to highly electronegative atoms such as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Na, K, Li",
+        "latex": null
+      },
+      {
+        "text": "F, O, N",
+        "latex": null
+      },
+      {
+        "text": "Mg, Ca, Sr",
+        "latex": null
+      },
+      {
+        "text": "Cu, Ag, Au",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "F, O, N",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hydrogen Bonding",
+    "familyId": "water_hydrogen_bonding",
+    "questionText": "The unusually high boiling point of water is mainly due to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Ionic bonding",
+        "latex": null
+      },
+      {
+        "text": "Metallic bonding",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen bonding",
+        "latex": null
+      },
+      {
+        "text": "Coordinate bonding",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Hydrogen bonding",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  }
+]

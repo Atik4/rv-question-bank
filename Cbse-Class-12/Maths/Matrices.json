@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Introduction to Matrices",
+    "familyId": "matrix_definition",
+    "questionText": "A matrix is defined as an ordered rectangular array of",
+    "questionLatex": "\\text{A matrix is an ordered rectangular array of}",
+    "options": [
+      "Vectors only",
+      "Numbers or functions",
+      "Variables only",
+      "Equations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A matrix is an ordered rectangular array of numbers or functions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Order of Matrix",
+    "familyId": "matrix_order_identification",
+    "questionText": "Find the order of the matrix [[2, 5], [3, 1], [4, 7]].",
+    "questionLatex": "\\begin{bmatrix} 2 & 5 \\\\ 3 & 1 \\\\ 4 & 7 \\end{bmatrix}",
+    "options": [
+      "2 × 3",
+      "3 × 2",
+      "3 × 3",
+      "2 × 2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The matrix has 3 rows and 2 columns, so its order is 3 × 2."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Order of Matrix",
+    "familyId": "matrix_elements_count",
+    "questionText": "How many elements are present in a matrix of order 4 × 5?",
+    "questionLatex": "\\text{Number of elements in a } 4 \\times 5 \\text{ matrix}",
+    "options": [
+      "9",
+      "20",
+      "25",
+      "16"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A matrix of order m × n contains mn elements. Hence 4 × 5 = 20."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Elements",
+    "familyId": "matrix_element_position",
+    "questionText": "In a matrix A = [aᵢⱼ], what does a₂₃ represent?",
+    "questionLatex": "a_{23}",
+    "options": [
+      "Element in second row and third column",
+      "Element in third row and second column",
+      "Element in first row and third column",
+      "Element in third row and first column"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "a₂₃ denotes the element lying in the second row and third column."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Possible Orders",
+    "familyId": "matrix_order_from_elements",
+    "questionText": "A matrix contains 8 elements. Which of the following can be its order?",
+    "questionLatex": "\\text{Matrix with } 8 \\text{ elements}",
+    "options": [
+      "3 × 3",
+      "2 × 5",
+      "2 × 4",
+      "3 × 2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A matrix of order 2 × 4 contains 8 elements."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Construction of Matrix",
+    "familyId": "construct_matrix_basic",
+    "questionText": "Construct the matrix A = [aᵢⱼ] of order 2 × 2 where aᵢⱼ = i + j.",
+    "questionLatex": "a_{ij}=i+j, \\; 1 \\le i,j \\le 2",
+    "options": [
+      "\\begin{bmatrix} 2 & 3 \\\\ 3 & 4 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 2 \\\\ 2 & 3 \\end{bmatrix}",
+      "\\begin{bmatrix} 2 & 2 \\\\ 3 & 3 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 1 \\\\ 2 & 2 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "a₁₁=1+1=2, a₁₂=1+2=3, a₂₁=2+1=3, a₂₂=2+2=4."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Applications of Matrix",
+    "familyId": "matrix_representation_data",
+    "questionText": "The entry in the third row and second column of a data matrix is denoted by",
+    "questionLatex": "a_{32}",
+    "options": [
+      "a_{32}",
+      "a_{23}",
+      "a_{3,2}",
+      "a_{2,3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "a₃₂ denotes the element in the third row and second column."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Order of Matrix",
+    "familyId": "matrix_order_symbolic",
+    "questionText": "If A = [aᵢⱼ]₅×₄, then the number of rows and columns respectively are",
+    "questionLatex": "A=[a_{ij}]_{5\\times4}",
+    "options": [
+      "4, 5",
+      "5, 4",
+      "20, 5",
+      "5, 20"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The order 5 × 4 means 5 rows and 4 columns."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Point Representation",
+    "familyId": "point_matrix_representation",
+    "questionText": "Represent the point P(0, 1) as a column matrix.",
+    "questionLatex": "P(0,1)",
+    "options": [
+      "\\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 0 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A point (x, y) can be represented by the column matrix [x y]^T."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Construction of Matrix",
+    "familyId": "construct_matrix_formula",
+    "questionText": "Construct a 2 × 2 matrix A = [aᵢⱼ] if aᵢⱼ = i − j.",
+    "questionLatex": "a_{ij}=i-j, \\; 1 \\le i,j \\le 2",
+    "options": [
+      "\\begin{bmatrix} 0 & -1 \\\\ 1 & 0 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 1 \\\\ -1 & 0 \\end{bmatrix}",
+      "\\begin{bmatrix} -1 & 0 \\\\ 0 & 1 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "a₁₁=1-1=0, a₁₂=1-2=-1, a₂₁=2-1=1, a₂₂=2-2=0."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Types of Matrices",
+    "familyId": "column_matrix_identification",
+    "questionText": "A matrix having only one column is called",
+    "questionLatex": "\\text{Matrix with one column}",
+    "options": [
+      "Row matrix",
+      "Square matrix",
+      "Column matrix",
+      "Diagonal matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A matrix having exactly one column is called a column matrix."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Types of Matrices",
+    "familyId": "row_matrix_identification",
+    "questionText": "A matrix having only one row is called",
+    "questionLatex": "\\text{Matrix with one row}",
+    "options": [
+      "Row matrix",
+      "Column matrix",
+      "Scalar matrix",
+      "Identity matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A matrix with exactly one row is called a row matrix."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Square Matrix",
+    "familyId": "square_matrix_definition",
+    "questionText": "A matrix A = [aᵢⱼ]ₘ×ₙ is a square matrix if",
+    "questionLatex": "A=[a_{ij}]_{m\\times n}",
+    "options": [
+      "m > n",
+      "m < n",
+      "m = n",
+      "m + n = 0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A matrix is square when the number of rows equals the number of columns."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Diagonal Elements",
+    "familyId": "diagonal_elements_identification",
+    "questionText": "Find the diagonal elements of the matrix [[1, -3, 1], [2, 4, -1], [3, 5, 6]].",
+    "questionLatex": "\\begin{bmatrix} 1 & -3 & 1 \\\\ 2 & 4 & -1 \\\\ 3 & 5 & 6 \\end{bmatrix}",
+    "options": [
+      "1, -3, 6",
+      "1, 4, 6",
+      "2, 4, 5",
+      "1, 2, 3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The diagonal elements are a₁₁, a₂₂ and a₃₃, namely 1, 4 and 6."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Diagonal Matrix",
+    "familyId": "diagonal_matrix_definition",
+    "questionText": "Which of the following matrices is a diagonal matrix?",
+    "questionLatex": "\\text{Identify the diagonal matrix}",
+    "options": [
+      "\\begin{bmatrix} 1 & 2 \\\\ 0 & 3 \\end{bmatrix}",
+      "\\begin{bmatrix} 2 & 0 \\\\ 0 & 5 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 1 \\\\ 1 & 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In a diagonal matrix, all non-diagonal elements are zero."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Scalar Matrix",
+    "familyId": "scalar_matrix_definition",
+    "questionText": "Which of the following is a scalar matrix?",
+    "questionLatex": "\\text{Identify the scalar matrix}",
+    "options": [
+      "\\begin{bmatrix} 2 & 0 \\\\ 0 & 2 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 2 \\\\ 0 & 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 2 & 1 \\\\ 1 & 2 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 2 \\\\ 2 & 0 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A scalar matrix is a diagonal matrix whose diagonal elements are equal."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Identity Matrix",
+    "familyId": "identity_matrix_definition",
+    "questionText": "Which of the following is the identity matrix of order 3?",
+    "questionLatex": "I_3 = \\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 3 & 0 & 0 \\\\ 0 & 3 & 0 \\\\ 0 & 0 & 3 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 0 & 0 \\\\ 0 & 0 & 0 \\\\ 0 & 0 & 0 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "An identity matrix has 1s on the principal diagonal and 0s elsewhere."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Zero Matrix",
+    "familyId": "zero_matrix_definition",
+    "questionText": "A matrix in which every element is zero is called",
+    "questionLatex": "\\text{Matrix with all elements zero}",
+    "options": [
+      "Scalar matrix",
+      "Diagonal matrix",
+      "Identity matrix",
+      "Zero matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "A matrix whose every element is zero is called a zero or null matrix."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Types of Matrices",
+    "familyId": "classify_matrix",
+    "questionText": "Classify the matrix [[5,0,0],[0,5,0],[0,0,5]].",
+    "questionLatex": "\\begin{bmatrix} 5 & 0 & 0 \\\\ 0 & 5 & 0 \\\\ 0 & 0 & 5 \\end{bmatrix}",
+    "options": [
+      "Only diagonal matrix",
+      "Only scalar matrix",
+      "Diagonal and scalar matrix",
+      "Identity matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The matrix is diagonal and all diagonal entries are equal, hence scalar."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Types of Matrices",
+    "familyId": "identity_scalar_relation",
+    "questionText": "Every identity matrix is",
+    "questionLatex": "\\text{Identity matrix relation}",
+    "options": [
+      "A row matrix",
+      "A column matrix",
+      "A scalar matrix",
+      "A zero matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An identity matrix is a scalar matrix with scalar value equal to 1."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Equality of Matrices",
+    "familyId": "matrix_equality_condition",
+    "questionText": "Two matrices A and B are equal if",
+    "questionLatex": "A=B",
+    "options": [
+      "They have the same determinant",
+      "They have the same order and corresponding elements are equal",
+      "They have the same number of rows only",
+      "They have the same trace"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Matrices are equal when they have the same order and equal corresponding entries."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Equality of Matrices",
+    "familyId": "find_variable_matrix_equality",
+    "questionText": "If [[x, 2], [3, y]] = [[4, 2], [3, 5]], find x and y.",
+    "questionLatex": "\\begin{bmatrix}x&2\\\\3&y\\end{bmatrix}=\\begin{bmatrix}4&2\\\\3&5\\end{bmatrix}",
+    "options": [
+      "x = 4, y = 5",
+      "x = 5, y = 4",
+      "x = 4, y = 4",
+      "x = 5, y = 5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Corresponding elements of equal matrices are equal, hence x = 4 and y = 5."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Transpose of Matrix",
+    "familyId": "transpose_definition",
+    "questionText": "The transpose of a matrix A is obtained by",
+    "questionLatex": "A^T",
+    "options": [
+      "Replacing each element by its reciprocal",
+      "Interchanging rows and columns",
+      "Changing signs of all elements",
+      "Multiplying every element by −1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transpose is obtained by converting rows into columns and vice versa."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Transpose of Matrix",
+    "familyId": "find_transpose_basic",
+    "questionText": "Find the transpose of the matrix [[1, 2, 3], [4, 5, 6]].",
+    "questionLatex": "\\begin{bmatrix}1&2&3\\\\4&5&6\\end{bmatrix}^T",
+    "options": [
+      "\\begin{bmatrix}1&4\\\\2&5\\\\3&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&2\\\\3&4\\\\5&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&4&2\\\\5&3&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&2&3\\\\4&5&6\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Rows become columns in the transpose."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Symmetric Matrix",
+    "familyId": "symmetric_matrix_definition",
+    "questionText": "A square matrix A is symmetric if",
+    "questionLatex": "A=A^T",
+    "options": [
+      "A = -A^T",
+      "A = A^T",
+      "A^2 = A",
+      "A = I"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A matrix is symmetric when it is equal to its transpose."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Skew Symmetric Matrix",
+    "familyId": "skew_symmetric_definition",
+    "questionText": "A square matrix A is skew-symmetric if",
+    "questionLatex": "A=-A^T",
+    "options": [
+      "A = A^T",
+      "A = I",
+      "A = -A^T",
+      "A^2 = A"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A matrix is skew-symmetric when A = −Aᵀ."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Transpose",
+    "familyId": "transpose_property",
+    "questionText": "For any matrix A, (Aᵀ)ᵀ is equal to",
+    "questionLatex": "(A^T)^T",
+    "options": [
+      "I",
+      "0",
+      "A",
+      "-A"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The transpose of the transpose of a matrix is the matrix itself."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Transpose",
+    "familyId": "transpose_sum_property",
+    "questionText": "If A and B are matrices of the same order, then (A + B)ᵀ equals",
+    "questionLatex": "(A+B)^T",
+    "options": [
+      "A^T + B^T",
+      "A^T B^T",
+      "B^T A^T",
+      "A^T - B^T"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Transpose distributes over matrix addition."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Symmetric Matrix",
+    "familyId": "identify_symmetric_matrix",
+    "questionText": "Identify the symmetric matrix.",
+    "questionLatex": "\\text{Choose the symmetric matrix}",
+    "options": [
+      "\\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}",
+      "\\begin{bmatrix} 2 & -1 \\\\ -1 & 5 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 2 \\\\ -2 & 0 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 3 \\\\ 2 & 1 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The matrix equals its transpose (the off-diagonal elements are identical: -1 = -1)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Skew Symmetric Matrix",
+    "familyId": "identify_skew_symmetric_matrix",
+    "questionText": "Identify the skew-symmetric matrix.",
+    "questionLatex": "\\text{Choose the skew-symmetric matrix}",
+    "options": [
+      "\\begin{bmatrix} 0 & 3 \\\\ -3 & 0 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 2 \\\\ -2 & 1 \\end{bmatrix}",
+      "\\begin{bmatrix} 2 & 0 \\\\ 0 & 2 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & -1 \\\\ -1 & 1 \\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The matrix satisfies A = -Aᵀ and the diagonal elements are zero."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Equality of Matrices",
+    "familyId": "matrix_equality_condition",
+    "questionText": "Two matrices A and B are equal if",
+    "questionLatex": "A=B",
+    "options": [
+      "They have the same determinant",
+      "They have the same order and corresponding elements are equal",
+      "They have the same number of rows only",
+      "They have the same trace"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Matrices are equal when they have the same order and equal corresponding entries."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Equality of Matrices",
+    "familyId": "find_variable_matrix_equality",
+    "questionText": "If [[x, 2], [3, y]] = [[4, 2], [3, 5]], find x and y.",
+    "questionLatex": "\\begin{bmatrix}x&2\\\\3&y\\end{bmatrix}=\\begin{bmatrix}4&2\\\\3&5\\end{bmatrix}",
+    "options": [
+      "x = 4, y = 5",
+      "x = 5, y = 4",
+      "x = 4, y = 4",
+      "x = 5, y = 5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Corresponding elements of equal matrices are equal. Comparing entries gives x = 4 and y = 5."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Transpose of Matrix",
+    "familyId": "transpose_definition",
+    "questionText": "The transpose of a matrix A is obtained by",
+    "questionLatex": "A^T",
+    "options": [
+      "Replacing each element by its reciprocal",
+      "Interchanging rows and columns",
+      "Changing signs of all elements",
+      "Multiplying every element by -1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transpose is obtained by converting rows into columns and vice versa."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Transpose of Matrix",
+    "familyId": "find_transpose_basic",
+    "questionText": "Find the transpose of the matrix [[1, 2, 3], [4, 5, 6]].",
+    "questionLatex": "\\begin{bmatrix}1&2&3\\\\4&5&6\\end{bmatrix}^T",
+    "options": [
+      "\\begin{bmatrix}1&4\\\\2&5\\\\3&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&2\\\\3&4\\\\5&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&4&2\\\\5&3&6\\end{bmatrix}",
+      "\\begin{bmatrix}1&2&3\\\\4&5&6\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Rows become columns in the transpose."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Symmetric Matrix",
+    "familyId": "symmetric_matrix_definition",
+    "questionText": "A square matrix A is symmetric if",
+    "questionLatex": "A=A^T",
+    "options": [
+      "A = -A^T",
+      "A = A^T",
+      "A^2 = A",
+      "A = I"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A matrix is symmetric when it is equal to its transpose (A = A^T)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Skew Symmetric Matrix",
+    "familyId": "skew_symmetric_definition",
+    "questionText": "A square matrix A is skew-symmetric if",
+    "questionLatex": "A=-A^T",
+    "options": [
+      "A = A^T",
+      "A = I",
+      "A = -A^T",
+      "A^2 = A"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A matrix is skew-symmetric when A = -A^T."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Transpose",
+    "familyId": "transpose_property",
+    "questionText": "For any matrix A, (A^T)^T is equal to",
+    "questionLatex": "(A^T)^T",
+    "options": [
+      "I",
+      "0",
+      "A",
+      "-A"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The transpose of the transpose of a matrix is the original matrix itself."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Transpose",
+    "familyId": "transpose_sum_property",
+    "questionText": "If A and B are matrices of the same order, then (A + B)^T equals",
+    "questionLatex": "(A+B)^T",
+    "options": [
+      "A^T + B^T",
+      "A^T B^T",
+      "B^T A^T",
+      "A^T - B^T"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Transpose distributes over matrix addition: (A + B)^T = A^T + B^T."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Symmetric Matrix",
+    "familyId": "identify_symmetric_matrix",
+    "questionText": "Identify the symmetric matrix.",
+    "questionLatex": "\\text{Choose the symmetric matrix}",
+    "options": [
+      "\\begin{bmatrix}1&2\\\\3&4\\end{bmatrix}",
+      "\\begin{bmatrix}2&-1\\\\-1&5\\end{bmatrix}",
+      "\\begin{bmatrix}0&2\\\\-2&0\\end{bmatrix}",
+      "\\begin{bmatrix}1&3\\\\2&1\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A matrix is symmetric if A = A^T. For the second option, the matrix is equal to its transpose because its off-diagonal elements are identical."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Skew Symmetric Matrix",
+    "familyId": "identify_skew_symmetric_matrix",
+    "questionText": "Identify the skew-symmetric matrix.",
+    "questionLatex": "\\text{Choose the skew-symmetric matrix}",
+    "options": [
+      "\\begin{bmatrix}0&3\\\\-3&0\\end{bmatrix}",
+      "\\begin{bmatrix}1&2\\\\-2&1\\end{bmatrix}",
+      "\\begin{bmatrix}2&0\\\\0&2\\end{bmatrix}",
+      "\\begin{bmatrix}1&-1\\\\-1&1\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A matrix is skew-symmetric if A = -A^T, which requires the diagonal elements to be 0 and a_{ij} = -a_{ji}."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Addition",
+    "familyId": "matrix_addition_definition",
+    "questionText": "Matrix addition A + B is defined only when",
+    "questionLatex": "A+B",
+    "options": [
+      "A and B have the same number of rows",
+      "A and B have the same number of columns",
+      "A and B are square matrices",
+      "A and B have the same order"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Two matrices can be added only when they have the same order."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Addition",
+    "familyId": "matrix_addition_basic",
+    "questionText": "Find A + B where A = [[1, 2], [3, 4]] and B = [[5, 6], [7, 8]].",
+    "questionLatex": "A=\\begin{bmatrix}1&2\\\\3&4\\end{bmatrix},\\;B=\\begin{bmatrix}5&6\\\\7&8\\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix}6&8\\\\10&12\\end{bmatrix}",
+      "\\begin{bmatrix}4&4\\\\4&4\\end{bmatrix}",
+      "\\begin{bmatrix}5&12\\\\21&32\\end{bmatrix}",
+      "\\begin{bmatrix}6&6\\\\10&10\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Corresponding elements are added: (1+5), (2+6), (3+7), (4+8)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Subtraction",
+    "familyId": "matrix_subtraction_basic",
+    "questionText": "Find A − B where A = [[8, 7], [6, 5]] and B = [[3, 2], [1, 4]].",
+    "questionLatex": "A=\\begin{bmatrix}8&7\\\\6&5\\end{bmatrix},\\;B=\\begin{bmatrix}3&2\\\\1&4\\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix}5&5\\\\5&1\\end{bmatrix}",
+      "\\begin{bmatrix}11&9\\\\7&9\\end{bmatrix}",
+      "\\begin{bmatrix}5&9\\\\5&1\\end{bmatrix}",
+      "\\begin{bmatrix}5&5\\\\7&1\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Subtract corresponding elements of B from A: (8-3), (7-2), (6-1), (5-4)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Scalar Multiplication",
+    "familyId": "scalar_multiplication_basic",
+    "questionText": "Find 3A if A = [[2, -1], [4, 0]].",
+    "questionLatex": "A=\\begin{bmatrix}2&-1\\\\4&0\\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix}6&-3\\\\12&0\\end{bmatrix}",
+      "\\begin{bmatrix}5&-2\\\\7&0\\end{bmatrix}",
+      "\\begin{bmatrix}6&-1\\\\12&0\\end{bmatrix}",
+      "\\begin{bmatrix}3&-3\\\\4&0\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Multiply every element of A by 3: 3(2), 3(-1), 3(4), 3(0)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Addition",
+    "familyId": "addition_commutative_property",
+    "questionText": "Which property is illustrated by A + B = B + A?",
+    "questionLatex": "A+B=B+A",
+    "options": [
+      "Associative property",
+      "Commutative property",
+      "Distributive property",
+      "Identity property"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Matrix addition is commutative."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Properties of Addition",
+    "familyId": "addition_associative_property",
+    "questionText": "Which property is represented by (A + B) + C = A + (B + C)?",
+    "questionLatex": "(A+B)+C=A+(B+C)",
+    "options": [
+      "Commutative property",
+      "Associative property",
+      "Distributive property",
+      "Transpose property"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Matrix addition satisfies the associative law."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Zero Matrix",
+    "familyId": "additive_identity_matrix",
+    "questionText": "The additive identity in matrix algebra is",
+    "questionLatex": "A+O=A",
+    "options": [
+      "Identity matrix",
+      "Scalar matrix",
+      "Zero matrix",
+      "Diagonal matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Adding a zero matrix (null matrix) leaves a matrix unchanged."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Negative of Matrix",
+    "familyId": "additive_inverse_matrix",
+    "questionText": "If A = [[2, -3], [1, 4]], find −A.",
+    "questionLatex": "A=\\begin{bmatrix}2&-3\\\\1&4\\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix}-2&3\\\\-1&-4\\end{bmatrix}",
+      "\\begin{bmatrix}2&3\\\\1&-4\\end{bmatrix}",
+      "\\begin{bmatrix}-2&-3\\\\-1&4\\end{bmatrix}",
+      "\\begin{bmatrix}0&0\\\\0&0\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Each element changes sign for the additive inverse."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Multiplication by Scalar",
+    "familyId": "scalar_distribution",
+    "questionText": "If k is a scalar and A, B are matrices of the same order, then k(A + B) equals",
+    "questionLatex": "k(A+B)",
+    "options": [
+      "kA + kB",
+      "kA − kB",
+      "AB",
+      "BA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Scalar multiplication distributes over matrix addition."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Matrices",
+    "topic": "Matrix Equality and Operations",
+    "familyId": "solve_matrix_equation",
+    "questionText": "If A + [[1, 2], [3, 4]] = [[5, 7], [8, 10]], find matrix A.",
+    "questionLatex": "A+\\begin{bmatrix}1&2\\\\3&4\\end{bmatrix}=\\begin{bmatrix}5&7\\\\8&10\\end{bmatrix}",
+    "options": [
+      "\\begin{bmatrix}4&5\\\\5&6\\end{bmatrix}",
+      "\\begin{bmatrix}6&9\\\\11&14\\end{bmatrix}",
+      "\\begin{bmatrix}4&7\\\\5&6\\end{bmatrix}",
+      "\\begin{bmatrix}5&5\\\\5&5\\end{bmatrix}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Subtract the matrix from the sum to obtain A: (5-1), (7-2), (8-3), (10-4)."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Rate of Change of Quantities",
+    "familyId": "rate_change_area_circle",
+    "questionText": "Find the rate of change of the area of a circle with respect to its radius when $r = 5$ cm.",
+    "questionLatex": "$$A=\\pi r^2, r=5$$",
+    "options": [
+      "$5\\pi$",
+      "$10\\pi$",
+      "$15\\pi$",
+      "$20\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$A=\\pi r^2 \\Rightarrow \\frac{dA}{dr}=2\\pi r$. At $r=5$, $\\frac{dA}{dr}=10\\pi$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Rate of Change of Quantities",
+    "familyId": "area_circle_general",
+    "questionText": "The rate of change of the area of a circle with respect to its radius is",
+    "questionLatex": "$$\\frac{d}{dr}(\\pi r^2)$$",
+    "options": [
+      "$\\pi r$",
+      "$2\\pi r$",
+      "$\\pi r^2$",
+      "$2\\pi r^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Differentiating $A=\\pi r^2$ with respect to $r$ gives $\\frac{dA}{dr}=2\\pi r$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Related Rates",
+    "familyId": "cube_surface_area_rate",
+    "questionText": "The volume of a cube is increasing at the rate of $9$ cm³/s. Find the rate at which its surface area is increasing when the edge length is $10$ cm.",
+    "questionLatex": "$$V=x^3, S=6x^2, \\frac{dV}{dt}=9, x=10$$",
+    "options": [
+      "$3.6$ cm²/s",
+      "$6$ cm²/s",
+      "$9$ cm²/s",
+      "$12$ cm²/s"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using $\\frac{dV}{dt}=3x^2\\frac{dx}{dt}$, $\\frac{dx}{dt}=\\frac{3}{x^2}$. Then $\\frac{dS}{dt}=12x\\frac{dx}{dt}=12x(\\frac{3}{x^2}) = \\frac{36}{x}$. At $x=10$, $\\frac{dS}{dt}=3.6$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Related Rates",
+    "familyId": "wave_area_rate",
+    "questionText": "A circular wave expands with radius increasing at $4$ cm/s. Find the rate of increase of area when the radius is $10$ cm.",
+    "questionLatex": "$$\\frac{dr}{dt}=4, r=10$$",
+    "options": [
+      "$40\\pi$",
+      "$60\\pi$",
+      "$80\\pi$",
+      "$100\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\frac{dA}{dt}=2\\pi r \\frac{dr}{dt}=2\\pi \\times 10 \\times 4 = 80\\pi$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Related Rates",
+    "familyId": "rectangle_perimeter_rate",
+    "questionText": "The length of a rectangle decreases at $3$ cm/min while its width increases at $2$ cm/min. Find the rate of change of its perimeter.",
+    "questionLatex": "$$\\frac{dx}{dt}=-3, \\frac{dy}{dt}=2, P=2(x+y)$$",
+    "options": [
+      "$-2$ cm/min",
+      "$2$ cm/min",
+      "$-1$ cm/min",
+      "$1$ cm/min"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\frac{dP}{dt}=2(\\frac{dx}{dt}+\\frac{dy}{dt})=2(-3+2)=-2$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Related Rates",
+    "familyId": "rectangle_area_rate",
+    "questionText": "The length of a rectangle decreases at $3$ cm/min and width increases at $2$ cm/min. When $x=10$ cm and $y=6$ cm, find the rate of change of area.",
+    "questionLatex": "$$\\frac{dx}{dt}=-3, \\frac{dy}{dt}=2, x=10, y=6$$",
+    "options": [
+      "$2$ cm²/min",
+      "$4$ cm²/min",
+      "$-2$ cm²/min",
+      "$8$ cm²/min"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\frac{dA}{dt}=y\\frac{dx}{dt}+x\\frac{dy}{dt}=6(-3)+10(2)=-18+20=2$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Marginal Cost",
+    "familyId": "marginal_cost_definition",
+    "questionText": "Marginal cost is defined as",
+    "questionLatex": "$$MC=\\frac{dC}{dx}$$",
+    "options": [
+      "Total cost",
+      "Average cost",
+      "Rate of change of total cost with respect to output",
+      "Revenue per unit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Marginal cost is the instantaneous rate of change of total cost with respect to output."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Marginal Cost",
+    "familyId": "marginal_cost_computation",
+    "questionText": "If $C(x)=0.005x^3−0.02x^2+30x+5000$, find the marginal cost when $x=3$.",
+    "questionLatex": "$$C(x)=0.005x^3-0.02x^2+30x+5000$$",
+    "options": [
+      "$30.015$",
+      "$30.12$",
+      "$29.015$",
+      "$31.015$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$MC=\\frac{dC}{dx}=0.015x^2−0.04x+30$. At $x=3$, $MC=0.015(9)-0.04(3)+30 = 0.135 - 0.12 + 30 = 30.015$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Marginal Revenue",
+    "familyId": "marginal_revenue_definition",
+    "questionText": "Marginal revenue is",
+    "questionLatex": "$$MR=\\frac{dR}{dx}$$",
+    "options": [
+      "Total revenue",
+      "Rate of change of total revenue with respect to units sold",
+      "Average revenue",
+      "Profit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Marginal revenue is the instantaneous rate of change of revenue with respect to output."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Marginal Revenue",
+    "familyId": "marginal_revenue_calculation",
+    "questionText": "If $R(x)=3x^2+36x+5$, find the marginal revenue when $x=5$.",
+    "questionLatex": "$$R(x)=3x^2+36x+5$$",
+    "options": [
+      "$56$",
+      "$60$",
+      "$66$",
+      "$72$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$MR=\\frac{dR}{dx}=6x+36$. At $x=5$, $MR=6(5)+36=66$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Increasing and Decreasing Functions",
+    "familyId": "increasing_function_definition",
+    "questionText": "A function $f$ is said to be increasing on an interval $I$ if",
+    "questionLatex": "$$x_1 < x_2 \\Rightarrow f(x_1) < f(x_2)$$",
+    "options": [
+      "$f(x_1) = f(x_2)$",
+      "$f(x_1) > f(x_2)$",
+      "$f(x_1) < f(x_2)$",
+      "$f'(x) = 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A function is increasing if larger values of $x$ correspond to larger values of $f(x)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Increasing and Decreasing Functions",
+    "familyId": "decreasing_function_definition",
+    "questionText": "A function $f$ is said to be decreasing on an interval $I$ if",
+    "questionLatex": "$$x_1 < x_2 \\Rightarrow ?$$",
+    "options": [
+      "$f(x_1) < f(x_2)$",
+      "$f(x_1) = f(x_2)$",
+      "$f(x_1) > f(x_2)$",
+      "$f'(x) > 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A decreasing function satisfies $f(x_1) > f(x_2)$ whenever $x_1 < x_2$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "First Derivative Test",
+    "familyId": "positive_derivative_increasing",
+    "questionText": "If $f'(x) > 0$ for every $x$ in an interval, then $f(x)$ is",
+    "questionLatex": "$$f'(x) > 0$$",
+    "options": [
+      "Decreasing",
+      "Constant",
+      "Increasing",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A positive derivative throughout an interval implies the function is increasing there."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "First Derivative Test",
+    "familyId": "negative_derivative_decreasing",
+    "questionText": "If $f'(x) < 0$ for every $x$ in an interval, then $f(x)$ is",
+    "questionLatex": "$$f'(x) < 0$$",
+    "options": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Periodic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A negative derivative throughout an interval implies the function is decreasing."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "First Derivative Test",
+    "familyId": "zero_derivative_constant",
+    "questionText": "If $f'(x) = 0$ for every $x$ in an interval, then the function is",
+    "questionLatex": "$$f'(x) = 0$$",
+    "options": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Discontinuous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A function whose derivative is zero everywhere on an interval is constant on that interval."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Increasing Functions",
+    "familyId": "linear_function_increasing",
+    "questionText": "Show that $f(x) = 7x - 3$ is increasing on $\\mathbb{R}$. The value of $f'(x)$ is",
+    "questionLatex": "$$f(x) = 7x - 3$$",
+    "options": [
+      "$-7$",
+      "$0$",
+      "$7$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$f'(x) = 7 > 0$ for all $x \\in \\mathbb{R}$, hence $f$ is increasing on $\\mathbb{R}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Increasing Functions",
+    "familyId": "cubic_function_increasing",
+    "questionText": "For $f(x) = x^3 - 3x^2 + 4x$, determine the nature of the function on $\\mathbb{R}$.",
+    "questionLatex": "$$f(x) = x^3 - 3x^2 + 4x$$",
+    "options": [
+      "Increasing on $\\mathbb{R}$",
+      "Decreasing on $\\mathbb{R}$",
+      "Constant on $\\mathbb{R}$",
+      "Neither increasing nor decreasing"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$f'(x) = 3x^2 - 6x + 4 = 3(x - 1)^2 + 1 > 0$ for all real $x$, so the function is increasing everywhere."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Trigonometric Functions",
+    "familyId": "cosx_decreasing_interval",
+    "questionText": "The function $f(x) = \\cos x$ is decreasing in which interval?",
+    "questionLatex": "$$f(x) = \\cos x$$",
+    "options": [
+      "$(0, \\pi)$",
+      "$(\\pi, 2\\pi)$",
+      "$(0, 2\\pi)$",
+      "$(-\\pi, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$f'(x) = -\\sin x < 0$ for $x \\in (0, \\pi)$, therefore $\\cos x$ decreases on $(0, \\pi)$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Trigonometric Functions",
+    "familyId": "cosx_increasing_interval",
+    "questionText": "The function $f(x) = \\cos x$ is increasing in which interval?",
+    "questionLatex": "$$f(x) = \\cos x$$",
+    "options": [
+      "$(0, \\pi)$",
+      "$(\\pi, 2\\pi)$",
+      "$(0, 2\\pi)$",
+      "$(-\\infty, \\infty)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $f'(x) = -\\sin x > 0$ for $x \\in (\\pi, 2\\pi)$, $\\cos x$ increases on $(\\pi, 2\\pi)$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Intervals of Increase and Decrease",
+    "familyId": "quadratic_interval_analysis",
+    "questionText": "Find the intervals in which $f(x) = x^2 - 4x + 6$ is increasing.",
+    "questionLatex": "$$f(x) = x^2 - 4x + 6$$",
+    "options": [
+      "$(-\\infty, 2)$",
+      "$(2, \\infty)$",
+      "$(-\\infty, \\infty)$",
+      "$(0, 2)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f'(x) = 2x - 4$. It is positive for $x > 2$, so the function increases on $(2, \\infty)$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Local Maxima and Minima",
+    "familyId": "critical_point_definition",
+    "questionText": "A critical point of a function $f$ is a point where",
+    "questionLatex": "$$f'(x)=0 \\text{ or } f'(x) \\text{ does not exist}$$",
+    "options": [
+      "$f(x)=0$",
+      "$f''(x)=0$",
+      "$f'(x)=0 \\text{ or } f'(x) \\text{ does not exist}$",
+      "$f(x)=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Critical points occur where the first derivative is zero or undefined."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "First Derivative Test",
+    "familyId": "local_maximum_condition",
+    "questionText": "A function has a local maximum at $x=a$ if $f'(x)$ changes from",
+    "questionLatex": "$$f'(x): + \\to -$$",
+    "options": [
+      "Negative to positive",
+      "Positive to negative",
+      "Positive to zero",
+      "Negative to zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A change in derivative from positive to negative indicates a local maximum."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "First Derivative Test",
+    "familyId": "local_minimum_condition",
+    "questionText": "A function has a local minimum at $x=a$ if $f'(x)$ changes from",
+    "questionLatex": "$$f'(x): - \\to +$$",
+    "options": [
+      "Positive to negative",
+      "Negative to positive",
+      "Positive to zero",
+      "Negative to zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A change in derivative from negative to positive indicates a local minimum."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Second Derivative Test",
+    "familyId": "second_derivative_maximum",
+    "questionText": "If $f'(a)=0$ and $f''(a)<0$, then $x=a$ is a point of",
+    "questionLatex": "$$f'(a)=0, f''(a)<0$$",
+    "options": [
+      "Local minimum",
+      "Local maximum",
+      "Point of inflection",
+      "Discontinuity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A negative second derivative indicates the curve is concave downward, giving a local maximum."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Second Derivative Test",
+    "familyId": "second_derivative_minimum",
+    "questionText": "If $f'(a)=0$ and $f''(a)>0$, then $x=a$ is a point of",
+    "questionLatex": "$$f'(a)=0, f''(a)>0$$",
+    "options": [
+      "Local minimum",
+      "Local maximum",
+      "Discontinuity",
+      "No extremum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A positive second derivative indicates the curve is concave upward, giving a local minimum."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Maxima and Minima",
+    "familyId": "quadratic_minimum_value",
+    "questionText": "Find the minimum value of $f(x)=x^2-6x+13$.",
+    "questionLatex": "$$f(x)=x^2-6x+13$$",
+    "options": [
+      "$2$",
+      "$4$",
+      "$6$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f'(x)=2x-6=0$ gives $x=3$. Since $f''(x)=2>0$, minimum value is $f(3)=4$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Maxima and Minima",
+    "familyId": "cubic_local_extrema",
+    "questionText": "For $f(x)=x^3-3x$, the local maximum value is",
+    "questionLatex": "$$f(x)=x^3-3x$$",
+    "options": [
+      "$-2$",
+      "$2$",
+      "$0$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f'(x)=3x^2-3=0$ gives $x=\\pm 1$. At $x=-1$, $f''(-1)=-6<0$, hence local maximum value is $f(-1)=2$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "tangent_parallel_xaxis",
+    "questionText": "The tangent to the curve $y=f(x)$ is parallel to the x-axis when",
+    "questionLatex": "$$\\frac{dy}{dx}=0$$",
+    "options": [
+      "$\\frac{dy}{dx}=1$",
+      "$\\frac{dy}{dx}=0$",
+      "$\\frac{dy}{dx}=\\infty$",
+      "$\\frac{dy}{dx}=-1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A horizontal tangent has slope zero."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "normal_slope_relation",
+    "questionText": "If the slope of the tangent to a curve at a point is $m$, then the slope of the normal at that point is",
+    "questionLatex": "$$m_n=-\\frac{1}{m}$$",
+    "options": [
+      "$m$",
+      "$\\frac{1}{m}$",
+      "$-m$",
+      "$-\\frac{1}{m}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The tangent and normal are perpendicular, so their slopes are negative reciprocals."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "tangent_equation_basic",
+    "questionText": "Find the slope of the tangent to the curve $y=x^2$ at the point $(2,4)$.",
+    "questionLatex": "$$y=x^2, (2,4)$$",
+    "options": [
+      "$2$",
+      "$4$",
+      "$6$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$\\frac{dy}{dx}=2x$. At $x=2$, the slope is $4$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "equation_tangent_parabola",
+    "questionText": "Find the equation of the tangent to the curve $y = x^2$ at the point $(1,1)$.",
+    "questionLatex": "$$y=x^2, (1,1)$$",
+    "options": [
+      "$y=2x-1$",
+      "$y=x+1$",
+      "$y=2x+1$",
+      "$y=x-1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\frac{dy}{dx}=2x$. At $x=1$, slope=$2$. Hence $y-1=2(x-1)$, i.e., $y=2x-1$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "equation_normal_parabola",
+    "questionText": "Find the equation of the normal to the curve $y = x^2$ at the point $(1,1)$.",
+    "questionLatex": "$$y=x^2, (1,1)$$",
+    "options": [
+      "$x+2y-3=0$",
+      "$2x+y-3=0$",
+      "$x-y=0$",
+      "$x+2y+3=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Slope of tangent = $2$, so slope of normal = $-1/2$. Equation: $y-1=-\\frac{1}{2}(x-1)$, which simplifies to $x+2y-3=0$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Approximation",
+    "familyId": "approximation_formula",
+    "questionText": "For small changes $\\Delta x$, the approximate change in $y=f(x)$ is given by",
+    "questionLatex": "$$\\Delta y \\approx dy$$",
+    "options": [
+      "$dy=f(x)$",
+      "$dy=f'(x)dx$",
+      "$dy=dx$",
+      "$dy=f''(x)dx$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Differentials give $dy=f'(x)dx$, which approximates $\\Delta y$ for small changes."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Approximation",
+    "familyId": "approximate_square_root",
+    "questionText": "Using differentials, approximate $\\sqrt{101}$.",
+    "questionLatex": "$$\\sqrt{101}$$",
+    "options": [
+      "$10.005$",
+      "$10.05$",
+      "$10.5$",
+      "$10.0005$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Let $y=\\sqrt{x}$. At $x=100$, $y=10$ and $dy=\\frac{1}{2\\sqrt{100}}(1)=0.05$. Hence $\\sqrt{101}\\approx 10.05$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Approximation",
+    "familyId": "approximate_cube_root",
+    "questionText": "Using differentials, approximate $\\sqrt[3]{28}$.",
+    "questionLatex": "$$\\sqrt[3]{28}$$",
+    "options": [
+      "$3.03$",
+      "$3.11$",
+      "$3.25$",
+      "$2.98$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let $y=x^{1/3}$. At $x=27$, $y=3$ and $dy=\\frac{1}{3(27)^{2/3}}(1)=\\frac{1}{27}\\approx 0.037$. Thus $\\sqrt[3]{28}\\approx 3.037 \\approx 3.03$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Approximation",
+    "familyId": "percentage_error_radius_area",
+    "questionText": "If the radius of a circle increases by 2%, then the approximate percentage increase in its area is",
+    "questionLatex": "$$A=\\pi r^2$$",
+    "options": [
+      "$1\\%$",
+      "$2\\%$",
+      "$4\\%$",
+      "$8\\%$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\frac{dA}{A} = 2\\frac{dr}{r}$. Therefore percentage increase $\\approx 2 \\times 2\\% = 4\\%$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Maxima and Minima",
+    "familyId": "maximum_area_rectangle",
+    "questionText": "Among all rectangles with a fixed perimeter, the rectangle of maximum area is",
+    "questionLatex": "$$\\text{Maximum Area Rectangle}$$",
+    "options": [
+      "A square",
+      "A rhombus",
+      "A parallelogram",
+      "A trapezium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using derivatives, area is maximized when length equals breadth, i.e., a square."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "maximum_product_two_numbers",
+    "questionText": "The product of two positive numbers whose sum is constant is maximum when",
+    "questionLatex": "$$x+y=k$$",
+    "options": [
+      "$x=0$",
+      "$y=0$",
+      "$x=y$",
+      "$x=2y$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For fixed sum, the product $x(k-x)$ is maximum at $x=k/2$ (i.e., $x=y$)."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "minimum_surface_area_cylinder",
+    "questionText": "For a closed cylindrical can of fixed volume, the surface area is minimum when",
+    "questionLatex": "$$V=\\pi r^2 h$$",
+    "options": [
+      "$h=r$",
+      "$h=2r$",
+      "$h=3r$",
+      "$h=\\frac{r}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For minimum surface area with fixed volume, the height equals the diameter of the base ($h=2r$)."
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "maximum_area_rectangle_under_parabola",
+    "questionText": "Optimization problems in Applications of Derivatives are generally solved by",
+    "questionLatex": "$$f'(x)=0$$",
+    "options": [
+      "Finding only the function value",
+      "Equating the first derivative to zero and testing critical points",
+      "Using integration",
+      "Using matrices"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Optimization requires identifying critical points using derivatives and testing them."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "minimum_distance_point_line",
+    "questionText": "The shortest distance from a point to a straight line is measured along",
+    "questionLatex": "$$\\text{Shortest Distance}$$",
+    "options": [
+      "A tangent",
+      "A secant",
+      "The perpendicular",
+      "Any line segment"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The perpendicular segment from a point to a line gives the minimum distance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "maximum_area_square",
+    "questionText": "Among all rectangles having a fixed perimeter of 40 units, find the maximum possible area.",
+    "questionLatex": "$$2(l+b)=40$$",
+    "options": [
+      "$25$ square units",
+      "$50$ square units",
+      "$100$ square units",
+      "$200$ square units"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The rectangle of maximum area is a square. Side = 10 units, so area = 100 square units."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "maximum_product_numbers",
+    "questionText": "Find the maximum product of two positive numbers whose sum is 20.",
+    "questionLatex": "$$x+y=20$$",
+    "options": [
+      "$25$",
+      "$50$",
+      "$100$",
+      "$400$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The product is maximum when the numbers are equal. Hence 10 x 10 = 100."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "minimum_sum_square",
+    "questionText": "Find the minimum value of $x^2 + 16/x$, where $x > 0$.",
+    "questionLatex": "$$f(x)=x^2+\\frac{16}{x}$$",
+    "options": [
+      "$12$",
+      "$16$",
+      "$18$",
+      "$20$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$f'(x)=2x-\\frac{16}{x^2}=0$ gives $x=2$. Then $f(2)=4+8=12$. Also $f''(2)>0$."
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "minimum_cost_fencing",
+    "questionText": "Optimization problems involving minimization of cost are solved by",
+    "questionLatex": "$$\\text{Cost Minimization}$$",
+    "options": [
+      "Finding the maximum value of the objective function",
+      "Finding critical points and testing for minimum value",
+      "Using integration only",
+      "Using determinants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Minimization problems require determining critical points and verifying minimum values."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Tangents and Normals",
+    "familyId": "normal_line_slope",
+    "questionText": "Find the slope of the normal to the curve $y=x^3$ at $x=1$.",
+    "questionLatex": "$$y=x^3, x=1$$",
+    "options": [
+      "$-1/3$",
+      "$1/3$",
+      "$-3$",
+      "$3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\frac{dy}{dx}=3x^2$. At $x=1$, tangent slope=3, so normal slope = $-1/3$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Approximations",
+    "familyId": "approximate_value",
+    "questionText": "Using differentials, approximate the value of $(8.02)^3$.",
+    "questionLatex": "$$(8.02)^3$$",
+    "options": [
+      "$515.84$",
+      "$515.85$",
+      "$515.86$",
+      "$516.00$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let $y=x^3$. At $x=8$, $y=512$ and $dy=3(8^2)(0.02)=3.84$. Hence $y \\approx 512 + 3.84 = 515.84$."
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Rate of Change",
+    "familyId": "volume_sphere_rate",
+    "questionText": "The radius of a sphere increases at 2 cm/s. Find the rate of increase of volume when $r=3$ cm.",
+    "questionLatex": "$$V=\\frac{4}{3}\\pi r^3, \\frac{dr}{dt}=2, r=3$$",
+    "options": [
+      "$24\\pi$",
+      "$48\\pi$",
+      "$72\\pi$",
+      "$96\\pi$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\frac{dV}{dt}=4\\pi r^2(\\frac{dr}{dt})=4\\pi(9)(2)=72\\pi$ cm$^3$/s."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Maxima and Minima",
+    "familyId": "absolute_extrema",
+    "questionText": "The absolute maximum value of a continuous function on a closed interval occurs",
+    "questionLatex": "$$[a,b]$$",
+    "options": [
+      "Only at critical points",
+      "Only at endpoints",
+      "At critical points or endpoints",
+      "Nowhere necessarily"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Absolute extrema on a closed interval are found by comparing function values at critical points and endpoints."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Applications of Derivatives",
+    "topic": "Optimization",
+    "familyId": "optimization_general_principle",
+    "questionText": "In optimization problems, candidate points for maxima or minima are obtained by solving",
+    "questionLatex": "$$f'(x)=0$$",
+    "options": [
+      "$f(x)=0$",
+      "$f''(x)=0$",
+      "$f'(x)=0$",
+      "$f(x)=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Critical points are obtained by setting the first derivative equal to zero."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

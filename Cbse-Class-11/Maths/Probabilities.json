@@ -1,0 +1,1240 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Events",
+    "familyId": "event_definition",
+    "questionText": "Any subset of a sample space is called an:",
+    "questionLatex": "$\\text{Any subset of sample space } S$",
+    "options": [
+      "Outcome",
+      "Trial",
+      "Event",
+      "Experiment"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Event"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Sample Space",
+    "familyId": "sample_space_coin_toss",
+    "questionText": "Write the sample space obtained when a coin is tossed twice.",
+    "questionLatex": "$S=\\{?\\}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "{HH, HT, TH, TT}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Types of Events",
+    "familyId": "impossible_event",
+    "questionText": "An event corresponding to the empty set is called:",
+    "questionLatex": "$\\phi$",
+    "options": [
+      "Sure event",
+      "Simple event",
+      "Impossible event",
+      "Compound event"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Impossible event"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Types of Events",
+    "familyId": "sure_event",
+    "questionText": "The whole sample space S represents:",
+    "questionLatex": "$S$",
+    "options": [
+      "Impossible event",
+      "Sure event",
+      "Simple event",
+      "Complementary event"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Sure event"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Simple Event",
+    "familyId": "simple_event_die",
+    "questionText": "When a die is rolled, the event 'getting 4' is:",
+    "questionLatex": "$\\text{Event } \\{4\\}$",
+    "options": [
+      "Compound event",
+      "Impossible event",
+      "Simple event",
+      "Sure event"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Simple event"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Compound Event",
+    "familyId": "compound_event_definition",
+    "questionText": "An event containing more than one sample point is called:",
+    "questionLatex": "$\\text{Event with more than one sample point}$",
+    "options": [
+      "Simple event",
+      "Compound event",
+      "Sure event",
+      "Null event"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Compound event"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Complementary Event",
+    "familyId": "complement_event",
+    "questionText": "If A is an event, then the complementary event of A is:",
+    "questionLatex": "$A'$",
+    "options": [
+      "$A \\cup S$",
+      "$A \\cap S$",
+      "$S - A$",
+      "$A - A$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$S - A$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Algebra of Events",
+    "familyId": "union_event",
+    "questionText": "The event 'A or B' is represented by:",
+    "questionLatex": "$A \\text{ or } B$",
+    "options": [
+      "$A \\cap B$",
+      "$A - B$",
+      "$A'$",
+      "$A \\cup B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$A \\cup B$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Algebra of Events",
+    "familyId": "intersection_event",
+    "questionText": "The event 'A and B' is represented by:",
+    "questionLatex": "$A \\text{ and } B$",
+    "options": [
+      "$A \\cup B$",
+      "$A \\cap B$",
+      "$A'$",
+      "$A - B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$A \\cap B$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mutually Exclusive Events",
+    "familyId": "mutually_exclusive_definition",
+    "questionText": "Two events A and B are mutually exclusive if:",
+    "questionLatex": "$A \\cap B$",
+    "options": [
+      "$A \\cup B = S$",
+      "$A \\cap B = \\phi$",
+      "$A = B$",
+      "$A' = B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$A \\cap B = \\phi$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mutually Exclusive Events",
+    "familyId": "odd_even_die",
+    "questionText": "When a die is rolled, the events 'getting an odd number' and 'getting an even number' are:",
+    "questionLatex": "$A=\\{1,3,5\\},\\;B=\\{2,4,6\\}$",
+    "options": [
+      "Independent",
+      "Exhaustive only",
+      "Mutually exclusive",
+      "Complementary only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Mutually exclusive"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Exhaustive Events",
+    "familyId": "exhaustive_definition",
+    "questionText": "Events $E_1, E_2, \\dots, E_n$ are exhaustive if:",
+    "questionLatex": "$E_1\\cup E_2\\cup\\dots\\cup E_n$",
+    "options": [
+      "$=\\phi$",
+      "$=S$",
+      "$=A$",
+      "$=B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "S"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Events on Die",
+    "familyId": "prime_numbers_die",
+    "questionText": "When a die is rolled, write the event of getting a prime number.",
+    "questionLatex": "$S=\\{1,2,3,4,5,6\\}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "{2,3,5}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Algebra of Events",
+    "familyId": "event_difference",
+    "questionText": "The event 'A but not B' is represented by:",
+    "questionLatex": "$A \\text{ but not } B$",
+    "options": [
+      "$A \\cap B$",
+      "$A \\cup B$",
+      "$A - B$",
+      "$B - A$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "A-B"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Axiomatic Probability",
+    "familyId": "probability_range",
+    "questionText": "For any event E, the probability P(E) satisfies:",
+    "questionLatex": "$P(E)$",
+    "options": [
+      "$P(E)>1$",
+      "$P(E)<0$",
+      "$0 \\leq P(E) \\leq 1$",
+      "$P(E) \\geq 2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0≤P(E)≤1"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Axiomatic Probability",
+    "familyId": "probability_sample_space",
+    "questionText": "According to the axiomatic approach, P(S) is equal to:",
+    "questionLatex": "$P(S)$",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Axiomatic Probability",
+    "familyId": "probability_empty_set",
+    "questionText": "The probability of an impossible event is:",
+    "questionLatex": "$P(\\phi)$",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "-1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Equally Likely Outcomes",
+    "familyId": "coin_probability",
+    "questionText": "For a fair coin, the probability of getting a head is:",
+    "questionLatex": "$P(H)$",
+    "options": [
+      "0",
+      "1",
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{4}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "\\frac{1}{2}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "coin_twice_same_result",
+    "questionText": "A coin is tossed twice. Find the probability of getting the same result on both tosses.",
+    "questionLatex": "$S=\\{HH,HT,TH,TT\\}$",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{4}$",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "\\frac{1}{2}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Equally Likely Outcomes",
+    "familyId": "probability_formula",
+    "questionText": "For equally likely outcomes, probability of an event E is:",
+    "questionLatex": "$P(E)$",
+    "options": [
+      "$\\frac{n(S)}{n(E)}$",
+      "$\\frac{n(E)}{n(S)}$",
+      "$n(E)+n(S)$",
+      "$n(E)-n(S)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "\\frac{n(E)}{n(S)}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "die_even_number",
+    "questionText": "A die is rolled once. Find the probability of getting an even number.",
+    "questionLatex": "$P(E)=\\frac{n(E)}{n(S)}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{1}{2}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "die_prime_number",
+    "questionText": "A die is rolled once. Find the probability of getting a prime number.",
+    "questionLatex": "$E=\\{2,3,5\\}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{1}{2}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "die_number_greater_than_four",
+    "questionText": "A die is rolled once. Find the probability of getting a number greater than 4.",
+    "questionLatex": "$E=\\{5,6\\}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{3}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "deck_red_card",
+    "questionText": "A card is drawn from a well-shuffled deck of 52 cards. Find the probability of drawing a red card.",
+    "questionLatex": "$P(\\text{Red Card})$",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{13}{52}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{2}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "deck_ace",
+    "questionText": "A card is drawn from a standard deck of 52 cards. Find the probability of getting an ace.",
+    "questionLatex": "$P(\\text{Ace})$",
+    "options": [
+      "$\\frac{1}{13}$",
+      "$\\frac{1}{26}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{4}{13}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{1}{13}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "familyId": "complement_probability",
+    "questionText": "If $P(A)=0.35$, find $P(A')$.",
+    "questionLatex": "$P(A')=1-P(A)$",
+    "options": [
+      "0.35",
+      "0.45",
+      "0.65",
+      "0.75"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.65"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "familyId": "complement_probability_fraction",
+    "questionText": "If $P(A)=\\frac{3}{8}$, find $P(A')$.",
+    "questionLatex": "$P(A')=1-\\frac{3}{8}$",
+    "options": [
+      "$\\frac{3}{8}$",
+      "$\\frac{5}{8}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{7}{8}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{5}{8}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Addition Theorem",
+    "familyId": "addition_theorem_statement",
+    "questionText": "For any two events A and B, $P(A \\cup B)$ is equal to:",
+    "questionLatex": "$P(A\\cup B)$",
+    "options": [
+      "$P(A)+P(B)$",
+      "$P(A)P(B)$",
+      "$P(A)+P(B)-P(A\\cap B)$",
+      "$P(A)-P(B)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$P(A)+P(B)-P(A\\cap B)$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mutually Exclusive Events",
+    "familyId": "addition_theorem_mutually_exclusive",
+    "questionText": "If A and B are mutually exclusive events with $P(A)=0.4$ and $P(B)=0.3$, find $P(A \\cup B)$.",
+    "questionLatex": "$P(A\\cup B)=P(A)+P(B)$",
+    "options": [
+      "0.1",
+      "0.4",
+      "0.7",
+      "1.2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.7"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Addition Theorem",
+    "familyId": "union_probability_calculation",
+    "questionText": "If $P(A)=0.5, P(B)=0.4$ and $P(A \\cap B)=0.2$, find $P(A \\cup B)$.",
+    "questionLatex": "$P(A\\cup B)=P(A)+P(B)-P(A\\cap B)$",
+    "options": [
+      "0.5",
+      "0.7",
+      "0.9",
+      "1.1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "0.7"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Addition Theorem",
+    "familyId": "union_probability_basic",
+    "questionText": "If P(A)=0.6, P(B)=0.5 and P(A∩B)=0.2, find P(A∪B).",
+    "questionLatex": "$P(A\\cup B)=P(A)+P(B)-P(A\\cap B)$",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.9"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mutually Exclusive Events",
+    "familyId": "union_mutually_exclusive_decimal",
+    "questionText": "If A and B are mutually exclusive events with P(A)=0.25 and P(B)=0.45, find P(A∪B).",
+    "questionLatex": "$P(A\\cup B)=P(A)+P(B)$",
+    "options": [
+      "0.20",
+      "0.45",
+      "0.70",
+      "1.00"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.70"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "familyId": "probability_not_event",
+    "questionText": "If the probability of an event A is 0.82, find the probability that A does not occur.",
+    "questionLatex": "$P(A')=1-P(A)$",
+    "options": [
+      "0.12",
+      "0.18",
+      "0.28",
+      "0.82"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "0.18"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "die_less_than_four",
+    "questionText": "A die is rolled once. Find the probability of getting a number less than 4.",
+    "questionLatex": "$E=\\{1,2,3\\}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{1}{2}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability of Event",
+    "familyId": "die_multiple_of_three",
+    "questionText": "A die is rolled once. Find the probability of getting a multiple of 3.",
+    "questionLatex": "$E=\\{3,6\\}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{3}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Cards",
+    "familyId": "face_card_probability",
+    "questionText": "A card is drawn from a pack of 52 cards. Find the probability of drawing a face card.",
+    "questionLatex": "$P(\\text{Face Card})$",
+    "options": [
+      "$\\frac{3}{13}$",
+      "$\\frac{1}{13}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{9}{52}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{3}{13}$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Cards",
+    "familyId": "king_probability",
+    "questionText": "A card is drawn from a standard deck. Find the probability of getting a king.",
+    "questionLatex": "$P(\\text{King})$",
+    "options": [
+      "$\\frac{1}{13}$",
+      "$\\frac{1}{26}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{4}{13}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{1}{13}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Sample Space",
+    "familyId": "two_dice_sample_points",
+    "questionText": "When two dice are thrown simultaneously, the total number of outcomes in the sample space is:",
+    "questionLatex": "$n(S)=6\\times6=36$",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "72"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "36"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Two Dice",
+    "familyId": "sum_seven_probability",
+    "questionText": "Two dice are thrown simultaneously. Find the probability that the sum of the numbers obtained is 7.",
+    "questionLatex": "$E=\\{(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)\\}$",
+    "options": [
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{6}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Two Dice",
+    "familyId": "doublet_probability",
+    "questionText": "Two dice are thrown simultaneously. Find the probability of getting a doublet.",
+    "questionLatex": "$E=\\{(1,1),(2,2),(3,3),(4,4),(5,5),(6,6)\\}$",
+    "options": [
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{6}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Two Dice",
+    "familyId": "sum_less_than_five",
+    "questionText": "Two dice are thrown simultaneously. Find the probability that the sum of the numbers obtained is less than 5.",
+    "questionLatex": "$E=\\{(1,1),(1,2),(2,1),(1,3),(2,2),(3,1)\\}$",
+    "options": [
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{3}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{6}$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Two Dice",
+    "familyId": "sum_greater_than_ten",
+    "questionText": "Two dice are thrown simultaneously. Find the probability that the sum of the numbers obtained is greater than 10.",
+    "questionLatex": "$E=\\{(5,6),(6,5),(6,6)\\}$",
+    "options": [
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{12}$",
+      "$\\frac{1}{18}$",
+      "$\\frac{1}{9}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{12}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Cards",
+    "familyId": "queen_probability",
+    "questionText": "A card is drawn from a standard deck of 52 cards. Find the probability of drawing a queen.",
+    "questionLatex": "$P(\\text{Queen})$",
+    "options": [
+      "$\\frac{1}{13}$",
+      "$\\frac{1}{26}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{4}{13}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{1}{13}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Cards",
+    "familyId": "black_card_probability",
+    "questionText": "A card is drawn from a well-shuffled deck of 52 cards. Find the probability of drawing a black card.",
+    "questionLatex": "$P(\\text{Black Card})$",
+    "options": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{13}{52}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{2}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Cards",
+    "familyId": "heart_card_probability",
+    "questionText": "A card is drawn from a standard deck of cards. Find the probability of drawing a heart.",
+    "questionLatex": "$P(\\heartsuit)$",
+    "options": [
+      "$\\frac{1}{13}$",
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{4}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{4}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Complementary Events",
+    "familyId": "complement_of_union",
+    "questionText": "If P(A)=0.4, P(B)=0.3 and A and B are mutually exclusive, find $P((A\\cup B)')$.",
+    "questionLatex": "$P((A\\cup B)')=1-P(A\\cup B)$",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.3"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Axioms",
+    "familyId": "probability_certainty",
+    "questionText": "The probability of a sure event is:",
+    "questionLatex": "$P(S)$",
+    "options": [
+      "0",
+      "$\\frac{1}{2}$",
+      "1",
+      "2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "1"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Axioms",
+    "familyId": "probability_impossible",
+    "questionText": "The probability of an impossible event is:",
+    "questionLatex": "$P(\\phi)$",
+    "options": [
+      "0",
+      "$\\frac{1}{2}$",
+      "1",
+      "-1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Sample Space",
+    "familyId": "three_coin_tosses",
+    "questionText": "Three coins are tossed simultaneously. The number of outcomes in the sample space is:",
+    "questionLatex": "$n(S)=2^3=8$",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "16"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "8"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Three Coins",
+    "familyId": "exactly_two_heads",
+    "questionText": "Three coins are tossed simultaneously. Find the probability of getting exactly two heads.",
+    "questionLatex": "$E=\\{HHT,HTH,THH\\}$",
+    "options": [
+      "$\\frac{1}{8}$",
+      "$\\frac{3}{8}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{5}{8}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{3}{8}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

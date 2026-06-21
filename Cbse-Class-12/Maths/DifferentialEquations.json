@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Basic Concepts",
+    "familyId": "identify_differential_equation",
+    "questionText": "Which of the following is a differential equation?",
+    "questionLatex": "",
+    "options": [
+      "$x^2-3x+2=0$",
+      "$\\sin x+\\cos x=0$",
+      "$\\frac{dy}{dx}+y=0$",
+      "$x+y=5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A differential equation contains derivatives of dependent variables."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Order of Differential Equation",
+    "familyId": "order_first",
+    "questionText": "Find the order of the differential equation $\\frac{dy}{dx} = e^x$.",
+    "questionLatex": "$\\frac{dy}{dx}=e^x$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The highest derivative present is of first order."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Order of Differential Equation",
+    "familyId": "order_second",
+    "questionText": "Determine the order of the differential equation $\\frac{d^2y}{dx^2} + y = 0$.",
+    "questionLatex": "$\\frac{d^2y}{dx^2}+y=0$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The highest derivative involved is $\\frac{d^2y}{dx^2}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Degree of Differential Equation",
+    "familyId": "degree_one",
+    "questionText": "Find the degree of the differential equation $\\frac{d^3y}{dx^3} + \\left(\\frac{d^2y}{dx^2}\\right)^2 = 0$.",
+    "questionLatex": "$\\frac{d^3y}{dx^3}+\\left(\\frac{d^2y}{dx^2}\\right)^2=0$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The highest order derivative is third order and its power is 1."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Degree of Differential Equation",
+    "familyId": "degree_not_defined",
+    "questionText": "The degree of the differential equation $\\sin\\left(\\frac{dy}{dx}\\right) + \\frac{dy}{dx} = 0$ is",
+    "questionLatex": "$\\sin\\left(\\frac{dy}{dx}\\right)+\\frac{dy}{dx}=0$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Degree is defined only when the equation is a polynomial in derivatives."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "General Solution",
+    "familyId": "general_solution_concept",
+    "questionText": "The solution containing arbitrary constants is called",
+    "questionLatex": "",
+    "options": [
+      "Particular solution",
+      "General solution",
+      "Singular solution",
+      "Complementary function"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A solution containing arbitrary constants is called the general solution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Particular Solution",
+    "familyId": "particular_solution_concept",
+    "questionText": "A solution obtained by assigning specific values to arbitrary constants in the general solution is called",
+    "questionLatex": "",
+    "options": [
+      "Primitive",
+      "General solution",
+      "Particular solution",
+      "Differential equation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A particular solution contains no arbitrary constants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Verification of Solution",
+    "familyId": "verify_exponential_solution",
+    "questionText": "Verify whether $y = e^{3x}$ is a solution of $\\frac{d^2y}{dx^2} + 3\\frac{dy}{dx} - 18y = 0$.",
+    "questionLatex": "$y=e^{3x},\\;\\frac{d^2y}{dx^2}+3\\frac{dy}{dx}-18y=0$",
+    "options": [
+      "Yes",
+      "No",
+      "Only for $x = 0$",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Substitution gives $9e^{3x} + 9e^{3x} - 18e^{3x} = 0$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Arbitrary Constants",
+    "familyId": "constants_general_solution",
+    "questionText": "The number of arbitrary constants in the general solution of a fourth-order differential equation is",
+    "questionLatex": "",
+    "options": [
+      "$2$",
+      "$3$",
+      "$4$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A general solution contains as many arbitrary constants as the order of the differential equation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Arbitrary Constants",
+    "familyId": "constants_particular_solution",
+    "questionText": "The number of arbitrary constants in a particular solution of a third-order differential equation is",
+    "questionLatex": "",
+    "options": [
+      "$3$",
+      "$2$",
+      "$1$",
+      "$0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "A particular solution contains no arbitrary constants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "separable_identification",
+    "questionText": "A differential equation of the form $\\frac{dy}{dx} = h(y)g(x)$ is called",
+    "questionLatex": "$$\\frac{dy}{dx}=h(y)g(x)$$",
+    "options": [
+      "Homogeneous differential equation",
+      "Linear differential equation",
+      "Variable separable differential equation",
+      "Exact differential equation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Such equations can be solved by separating variables."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "general_solution_simple",
+    "questionText": "Find the general solution of the differential equation $\\frac{dy}{dx} = x$.",
+    "questionLatex": "$$\\frac{dy}{dx}=x$$",
+    "options": [
+      "$y = x + C$",
+      "$y = \\frac{x^2}{2} + C$",
+      "$y = x^2 + C$",
+      "$y = \\frac{x^3}{3} + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Integrating both sides, $y = \\int x dx = \\frac{x^2}{2} + C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "general_solution_exponential",
+    "questionText": "Find the general solution of $\\frac{dy}{dx} = e^x$.",
+    "questionLatex": "$$\\frac{dy}{dx}=e^x$$",
+    "options": [
+      "$y = e^x + C$",
+      "$y = xe^x + C$",
+      "$y = e^{-x} + C$",
+      "$y = x + e^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating $e^x$ gives $e^x + C$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_separable_trigonometric",
+    "questionText": "Find the general solution of the differential equation $\\frac{dy}{dx} = \\frac{1 + y^2}{1 + x^2}$.",
+    "questionLatex": "$$\\frac{dy}{dx}=\\frac{1+y^2}{1+x^2}$$",
+    "options": [
+      "$\\tan^{-1}y = \\tan^{-1}x + C$",
+      "$\\tan^{-1}y = x + C$",
+      "$y = x + C$",
+      "$\\log y = \\log x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables and integrating gives $\\tan^{-1}y = \\tan^{-1}x + C$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_variable_separable",
+    "questionText": "Find the general solution of $\\frac{dy}{dx} = y$.",
+    "questionLatex": "$$\\frac{dy}{dx}=y$$",
+    "options": [
+      "$y = Ce^x$",
+      "$y = Cx$",
+      "$y = e^x + C$",
+      "$y = C + x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $\\int \\frac{dy}{y} = \\int dx$ and hence $y = Ce^x$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Particular Solution",
+    "familyId": "particular_solution_condition",
+    "questionText": "Find the particular solution of $\\frac{dy}{dx} = y$ satisfying $y = 2$ when $x = 0$.",
+    "questionLatex": "$$\\frac{dy}{dx}=y, y(0)=2$$",
+    "options": [
+      "$y = 2e^x$",
+      "$y = e^x$",
+      "$y = 2 + e^x$",
+      "$y = e^{2x}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "General solution is $y = Ce^x$. Using $y(0)=2$ gives $C=2$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Formation of Differential Equations",
+    "familyId": "curve_equation",
+    "questionText": "Find the equation of the curve passing through $(1,1)$ whose differential equation is $x\\frac{dy}{dx}=2x^2+1$.",
+    "questionLatex": "$$x\\frac{dy}{dx}=2x^2+1$$",
+    "options": [
+      "$y=x^2+\\log|x|$",
+      "$y=x^2+\\log|x|+1$",
+      "$y=x^2+1$",
+      "$y=\\log|x|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating gives $y=x^2+\\log|x|+C$. Using $(1,1)$ gives $C=0$."
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "growth_problem",
+    "questionText": "If a principal grows continuously at the rate of $5\\%$ per annum, the differential equation representing the growth is",
+    "questionLatex": "$$\\frac{dP}{dt}=\\frac{P}{20}$$",
+    "options": [
+      "$\\frac{dP}{dt}=20P$",
+      "$\\frac{dP}{dt}=\\frac{P}{20}$",
+      "$\\frac{dP}{dt}=\\frac{20}{P}$",
+      "$\\frac{dP}{dt}=5P$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rate of growth is proportional to the principal with proportionality constant $5/100 = 1/20$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "continuous_compounding",
+    "questionText": "A sum doubles itself under continuous growth at rate $5\\%$ per annum after",
+    "questionLatex": "$$P=1000e^{t/20}$$",
+    "options": [
+      "$10\\log_e2 \\text{ years}$",
+      "$20\\log_e2 \\text{ years}$",
+      "$40\\log_e2 \\text{ years}$",
+      "$5\\log_e2 \\text{ years}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using $2000=1000e^{t/20}$, we get $t=20\\log_e2$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_curve_from_slope",
+    "questionText": "Find the family of curves whose slope at any point $(x,y)$ is $\\frac{2x}{y^2}$.",
+    "questionLatex": "$$\\frac{dy}{dx}=\\frac{2x}{y^2}$$",
+    "options": [
+      "$\\frac{y^3}{3}=x^2+C$",
+      "$y^2=x^2+C$",
+      "$y=x^2+C$",
+      "$\\frac{y^2}{2}=x^2+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $y^2 dy = 2x dx$ and hence $\\frac{y^3}{3}=x^2+C$."
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "linear_equation_identification",
+    "questionText": "Which of the following is a first-order linear differential equation?",
+    "questionLatex": "$$\\frac{dy}{dx} + Py = Q$$",
+    "options": [
+      "$\\frac{dy}{dx}+y=x$",
+      "$\\left(\\frac{dy}{dx}\\right)^2+y=0$",
+      "$\\frac{dy}{dx}=y^2$",
+      "$\\sin\\left(\\frac{dy}{dx}\\right)=x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A first-order linear differential equation has the form $\\frac{dy}{dx} + P(x)y = Q(x)$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "integrating_factor_definition",
+    "questionText": "For the differential equation $\\frac{dy}{dx} + P(x)y = Q(x)$, the integrating factor is",
+    "questionLatex": "$$IF=e^{\\int P(x)dx}$$",
+    "options": [
+      "$e^{\\int Q(x)dx}$",
+      "$\\int P(x)dx$",
+      "$e^{\\int P(x)dx}$",
+      "$P(x)Q(x)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The integrating factor for a linear differential equation is $e^{\\int P(x)dx}$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_basic",
+    "questionText": "Solve the differential equation $\\frac{dy}{dx} + y = 0$.",
+    "questionLatex": "$$\\frac{dy}{dx}+y=0$$",
+    "options": [
+      "$y=Ce^x$",
+      "$y=Ce^{-x}$",
+      "$y=x+C$",
+      "$y=e^x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Separating variables gives $\\frac{dy}{y} = -dx$, hence $y = Ce^{-x}$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_constant_rhs",
+    "questionText": "Solve the differential equation $\\frac{dy}{dx} + y = 1$.",
+    "questionLatex": "$$\\frac{dy}{dx}+y=1$$",
+    "options": [
+      "$y=1+Ce^{-x}$",
+      "$y=e^{-x}+C$",
+      "$y=x+Ce^{-x}$",
+      "$y=Ce^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating factor is $e^x$. Solution is $ye^x = \\int e^x dx = e^x + C$, so $y = 1 + Ce^{-x}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_x_rhs",
+    "questionText": "Find the integrating factor of the equation $\\frac{dy}{dx} + \\frac{2}{x}y = x$.",
+    "questionLatex": "$$\\frac{dy}{dx}+\\frac{2}{x}y=x$$",
+    "options": [
+      "$x$",
+      "$x^2$",
+      "$e^x$",
+      "$1/x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "IF $= e^{\\int (2/x)dx} = e^{2\\ln x} = x^2$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_exact",
+    "questionText": "Solve the differential equation $\\frac{dy}{dx} + y = e^x$.",
+    "questionLatex": "$$\\frac{dy}{dx}+y=e^x$$",
+    "options": [
+      "$y=\\frac{e^x}{2}+Ce^{-x}$",
+      "$y=e^x+Ce^{-x}$",
+      "$y=e^{2x}+C$",
+      "$y=Ce^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using IF $= e^x$, we get $ye^x = \\int e^{2x} dx = \\frac{e^{2x}}{2} + C$, so $y = \\frac{e^x}{2} + Ce^{-x}$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Growth and Decay",
+    "familyId": "population_growth_model",
+    "questionText": "If population growth is proportional to the population $P$, the differential equation is",
+    "questionLatex": "$$\\frac{dP}{dt}=kP$$",
+    "options": [
+      "$\\frac{dP}{dt}=k$",
+      "$\\frac{dP}{dt}=\\frac{k}{P}$",
+      "$\\frac{dP}{dt}=kP$",
+      "$\\frac{dP}{dt}=P+k$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Population growth proportional to population gives $\\frac{dP}{dt} = kP$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Growth and Decay",
+    "familyId": "radioactive_decay_model",
+    "questionText": "If $N$ denotes the quantity of a radioactive substance, the law of decay is represented by",
+    "questionLatex": "$$\\frac{dN}{dt}=-kN$$",
+    "options": [
+      "$\\frac{dN}{dt}=kN$",
+      "$\\frac{dN}{dt}=-kN$",
+      "$\\frac{dN}{dt}=N+k$",
+      "$\\frac{dN}{dt}=k$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The rate of decay is proportional to the quantity present: $\\frac{dN}{dt} = -kN$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "particular_solution_linear",
+    "questionText": "Find the particular solution of $\\frac{dy}{dx} + y = 0$ satisfying $y(0)=5$.",
+    "questionLatex": "$$\\frac{dy}{dx}+y=0, y(0)=5$$",
+    "options": [
+      "$y=5e^{-x}$",
+      "$y=5e^x$",
+      "$y=e^{-5x}$",
+      "$y=5+x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "General solution is $y=Ce^{-x}$. Using $y(0)=5$ gives $C=5$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "newtons_cooling_intro",
+    "questionText": "Newton's law of cooling states that the rate of change of temperature is proportional to",
+    "questionLatex": "$$\\frac{dT}{dt}\\propto (T-T_s)$$",
+    "options": [
+      "The temperature itself",
+      "The square of the temperature",
+      "The difference between the body temperature and surrounding temperature",
+      "The surrounding temperature only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Newton's law of cooling states that the rate of cooling is proportional to the temperature difference between the object and the surrounding medium."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "linear_equation_standard_form",
+    "questionText": "The standard form of a first-order linear differential equation is",
+    "questionLatex": "$$\\frac{dy}{dx}+P(x)y=Q(x)$$",
+    "options": [
+      "$\\frac{dy}{dx}=P(x)Q(x)$",
+      "$\\frac{dy}{dx}+P(x)y=Q(x)$",
+      "$\\frac{d^2y}{dx^2}+P(x)y=Q(x)$",
+      "$P(x)dy+Q(x)dx=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A first-order linear differential equation is expressed as $\\frac{dy}{dx} + P(x)y = Q(x)$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Integrating Factor",
+    "familyId": "integrating_factor_basic",
+    "questionText": "Find the integrating factor of the differential equation $\\frac{dy}{dx} + 3y = x$.",
+    "questionLatex": "$$\\frac{dy}{dx}+3y=x$$",
+    "options": [
+      "$e^x$",
+      "$e^{3x}$",
+      "$3e^x$",
+      "$x^3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The integrating factor $IF = e^{\\int P(x) dx} = e^{\\int 3 dx} = e^{3x}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_with_if",
+    "questionText": "Solve the differential equation $\\frac{dy}{dx} + 2y = 0$.",
+    "questionLatex": "$$\\frac{dy}{dx}+2y=0$$",
+    "options": [
+      "$y=Ce^{-2x}$",
+      "$y=Ce^{2x}$",
+      "$y=2Ce^{-x}$",
+      "$y=C+x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $\\int \\frac{dy}{y} = \\int -2 dx$, which leads to $\\ln|y| = -2x + C$, hence $y=Ce^{-2x}$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_constant",
+    "questionText": "Solve the differential equation $\\frac{dy}{dx} + 2y = 4$.",
+    "questionLatex": "$$\\frac{dy}{dx}+2y=4$$",
+    "options": [
+      "$y=2+Ce^{-2x}$",
+      "$y=4+Ce^{-2x}$",
+      "$y=2e^{-2x}+C$",
+      "$y=Ce^{2x}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using $IF=e^{\\int 2 dx} = e^{2x}$, the solution is $y e^{2x} = \\int 4 e^{2x} dx = 2 e^{2x} + C$, so $y = 2 + Ce^{-2x}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_trigonometric",
+    "questionText": "Find the integrating factor of $\\frac{dy}{dx} + (\\tan x)y = \\sin x$.",
+    "questionLatex": "$$\\frac{dy}{dx}+\\tan x\\,y=\\sin x$$",
+    "options": [
+      "$\\cos x$",
+      "$\\sec x$",
+      "$\\tan x$",
+      "$\\sin x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The integrating factor $IF = e^{\\int \\tan x dx} = e^{\\ln|\\sec x|} = \\sec x$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Exponential Growth",
+    "familyId": "growth_equation_solution",
+    "questionText": "If $\\frac{dP}{dt} = kP$, then the general solution is",
+    "questionLatex": "$$\\frac{dP}{dt}=kP$$",
+    "options": [
+      "$P=C+kt$",
+      "$P=Ce^{kt}$",
+      "$P=kt+C$",
+      "$P=e^k+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Separating variables gives $\\int \\frac{dP}{P} = \\int k dt$, which leads to $\\ln P = kt + C$, hence $P = Ce^{kt}$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Exponential Decay",
+    "familyId": "decay_equation_solution",
+    "questionText": "If $\\frac{dN}{dt} = -kN$, then the general solution is",
+    "questionLatex": "$$\\frac{dN}{dt}=-kN$$",
+    "options": [
+      "$N=Ce^{-kt}$",
+      "$N=Ce^{kt}$",
+      "$N=C-kt$",
+      "$N=e^{-k}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $\\int \\frac{dN}{N} = \\int -k dt$, which leads to $\\ln N = -kt + C$, hence $N = Ce^{-kt}$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "population_doubling",
+    "questionText": "A population satisfies $\\frac{dP}{dt} = 0.02P$. If $P(0)=1000$, then $P(t)$ equals",
+    "questionLatex": "$$\\frac{dP}{dt}=0.02P,\\;P(0)=1000$$",
+    "options": [
+      "$1000e^{0.02t}$",
+      "$1000e^{-0.02t}$",
+      "$1000+0.02t$",
+      "$0.02e^{1000t}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using $P=Ce^{0.02t}$ and $P(0)=1000$ gives $C=1000$, so $P=1000e^{0.02t}$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "radioactive_half_life",
+    "questionText": "The differential equation used to model radioactive decay is based on the fact that the rate of decay is proportional to",
+    "questionLatex": "$$\\frac{dN}{dt}\\propto -N$$",
+    "options": [
+      "Time elapsed",
+      "Square of the quantity",
+      "Quantity present",
+      "Initial quantity only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Radioactive decay rate is proportional to the amount of substance present."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "newton_cooling_equation",
+    "questionText": "If $T$ is the temperature of a body and $T_s$ is the surrounding temperature, Newton's law of cooling is represented by",
+    "questionLatex": "$$\\frac{dT}{dt}=-k(T-T_s)$$",
+    "options": [
+      "$\\frac{dT}{dt}=kT$",
+      "$\\frac{dT}{dt}=k(T-T_s)$",
+      "$\\frac{dT}{dt}=-k(T-T_s)$",
+      "$\\frac{dT}{dt}=T_s$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The rate of cooling is proportional to the negative of the temperature difference between the body and the surroundings: $\\frac{dT}{dt} = -k(T-T_s)$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_separable_logarithmic",
+    "questionText": "Solve the differential equation dy/dx = x/y.",
+    "questionLatex": "$$\\frac{dy}{dx}=\\frac{x}{y}$$",
+    "options": [
+      "$y^2 = x^2 + C$",
+      "$y = x + C$",
+      "$y^2 = 2x + C$",
+      "$\\log y = x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $y \\, dy = x \\, dx$. Integrating both sides, $\\frac{y^2}{2} = \\frac{x^2}{2} + C'$, which simplifies to $y^2 = x^2 + C$ (where $C = 2C'$)."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_separable_trig",
+    "questionText": "Solve the differential equation dy/dx = sec²x.",
+    "questionLatex": "$$\\frac{dy}{dx}=\\sec^2x$$",
+    "options": [
+      "$y = \\tan x + C$",
+      "$y = \\sec x + C$",
+      "$y = \\sin x + C$",
+      "$y = \\cos x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating both sides with respect to $x$ gives $y = \\int \\sec^2 x \\, dx = \\tan x + C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "linear_solution_polynomial",
+    "questionText": "Solve the differential equation dy/dx - y = x.",
+    "questionLatex": "$$\\frac{dy}{dx}-y=x$$",
+    "options": [
+      "$y = Ce^x - x - 1$",
+      "$y = Ce^{-x} + x + 1$",
+      "$y = x + C$",
+      "$y = Ce^x + x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The integrating factor is $IF = e^{\\int -1 dx} = e^{-x}$. Multiplying the equation by $IF$: $\\frac{d}{dx}(y e^{-x}) = x e^{-x}$. Integrating by parts, $y e^{-x} = -x e^{-x} - e^{-x} + C$, which simplifies to $y = Ce^x - x - 1$."
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "linear_solution_trig_rhs",
+    "questionText": "Find the integrating factor of the differential equation dy/dx + y tan x = sin x.",
+    "questionLatex": "$$\\frac{dy}{dx}+y\\tan x=\\sin x$$",
+    "options": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$\\sec x$",
+      "$\\tan x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The integrating factor $IF = e^{\\int \\tan x dx} = e^{\\ln|\\sec x|} = \\sec x$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Formation of Differential Equations",
+    "familyId": "family_of_circles",
+    "questionText": "The differential equation corresponding to the family of curves y = mx + c contains how many arbitrary constants?",
+    "questionLatex": "$$y=mx+c$$",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The family $y = mx + c$ depends on two arbitrary constants, $m$ and $c$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Verification of Solutions",
+    "familyId": "verify_solution_basic",
+    "questionText": "Verify whether y = x² + C is the general solution of dy/dx = 2x.",
+    "questionLatex": "$$y=x^2+C,\\;\\frac{dy}{dx}=2x$$",
+    "options": [
+      "Yes",
+      "No",
+      "Only for C=0",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Differentiating $y = x^2 + C$ with respect to $x$ yields $\\frac{dy}{dx} = 2x$, which matches the given differential equation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "growth_constant",
+    "questionText": "If a population grows according to dP/dt = 0.03P, then the growth constant is",
+    "questionLatex": "$$\\frac{dP}{dt}=0.03P$$",
+    "options": [
+      "0.03",
+      "3",
+      "30",
+      "0.003"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Comparing the given equation with the standard model $\\frac{dP}{dt} = kP$, we identify $k = 0.03$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Applications",
+    "familyId": "decay_model",
+    "questionText": "A substance decays according to dN/dt = -0.1N. If N(0)=500, then N(t) is",
+    "questionLatex": "$$\\frac{dN}{dt}=-0.1N,\\;N(0)=500$$",
+    "options": [
+      "$500e^{-0.1t}$",
+      "$500e^{0.1t}$",
+      "$500-0.1t$",
+      "$0.1e^{500t}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The solution to $\\frac{dN}{dt} = -kN$ is $N(t) = N(0)e^{-kt}$. Here $N(0)=500$ and $k=0.1$, so $N(t) = 500e^{-0.1t}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Variables Separable",
+    "familyId": "solve_exponential_separable",
+    "questionText": "Solve the differential equation dy/dx = xy.",
+    "questionLatex": "$$\\frac{dy}{dx}=xy$$",
+    "options": [
+      "$y = Ce^{x^2/2}$",
+      "$y = Ce^{-x^2/2}$",
+      "$y = xe^C$",
+      "$y = x^2 + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Separating variables gives $\\frac{dy}{y} = x \\, dx$. Integrating both sides: $\\ln|y| = \\frac{x^2}{2} + C'$, which gives $y = e^{x^2/2 + C'} = Ce^{x^2/2}$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "familyId": "solve_linear_fraction",
+    "questionText": "Find the integrating factor of the differential equation dy/dx + (1/x)y = x².",
+    "questionLatex": "$$\\frac{dy}{dx}+\\frac{1}{x}y=x^2$$",
+    "options": [
+      "$x$",
+      "$x^2$",
+      "$1/x$",
+      "$e^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The integrating factor $IF = e^{\\int (1/x) dx} = e^{\\ln|x|} = x$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]
