@@ -1,0 +1,1242 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Types of Relations",
+    "familyId": "identify_empty_relation",
+    "questionText": "A relation R on the set A = {1, 2, 3, 4} is defined by R = {(a, b) : a - b = 10}. Identify the relation.",
+    "questionLatex": "R=\\{(a,b):a-b=10\\}",
+    "options": [
+      "Reflexive relation",
+      "Universal relation",
+      "Empty relation",
+      "Equivalence relation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "No ordered pair in A × A satisfies a - b = 10."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Types of Relations",
+    "familyId": "identify_universal_relation",
+    "questionText": "A relation R on A = {1, 2, 3, 4} is defined by R = {(a, b) : |a - b| ≥ 0}. What type of relation is R?",
+    "questionLatex": "R=\\{(a,b):|a-b|\\ge 0\\}",
+    "options": [
+      "Empty relation",
+      "Universal relation",
+      "Symmetric but not reflexive",
+      "Transitive only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since |a-b| ≥ 0 for all ordered pairs, R = A × A."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Reflexive Relations",
+    "familyId": "check_reflexive",
+    "questionText": "State whether the relation R = {(1,1), (2,2), (3,3), (1,2), (2,3)} on A = {1,2,3} is reflexive.",
+    "questionLatex": "R=\\{(1,1),(2,2),(3,3),(1,2),(2,3)\\}",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "All pairs (a,a) for a ∈ A belong to R."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Symmetric Relations",
+    "familyId": "check_symmetric",
+    "questionText": "For the relation R = {(1,1), (2,2), (3,3), (1,2), (2,3)} on A = {1,2,3}, determine whether R is symmetric.",
+    "questionLatex": "R=\\{(1,1),(2,2),(3,3),(1,2),(2,3)\\}",
+    "options": [
+      "Symmetric",
+      "Not symmetric"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "(1,2) ∈ R but (2,1) ∉ R."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Transitive Relations",
+    "familyId": "check_transitive",
+    "questionText": "For the relation R = {(1,1), (2,2), (3,3), (1,2), (2,3)} on A = {1,2,3}, determine whether R is transitive.",
+    "questionLatex": "R=\\{(1,1),(2,2),(3,3),(1,2),(2,3)\\}",
+    "options": [
+      "Transitive",
+      "Not transitive"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "(1,2) and (2,3) belong to R but (1,3) does not."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Equivalence Relations",
+    "familyId": "even_difference_relation",
+    "questionText": "Consider the relation R on Z defined by R = {(a, b) : 2 divides (a - b)}. Which of the following is true?",
+    "questionLatex": "R=\\{(a,b):2\\mid(a-b)\\}",
+    "options": [
+      "Only reflexive",
+      "Reflexive and symmetric only",
+      "Reflexive, symmetric and transitive",
+      "Symmetric and transitive only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The relation represents congruence modulo 2 and is an equivalence relation."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Equivalence Classes",
+    "familyId": "equivalence_class_mod2",
+    "questionText": "Under the relation R = {(a, b) : 2 divides (a - b)} on Z, find the equivalence class [0].",
+    "questionLatex": "[0]=\\{x\\in\\mathbb{Z}:2\\mid(x-0)\\}",
+    "options": [
+      "All odd integers",
+      "All even integers",
+      "All integers",
+      "Only {0}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "All even integers differ from 0 by a multiple of 2."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Equivalence Classes",
+    "familyId": "equivalence_class_mod3",
+    "questionText": "For the relation R = {(a, b) : 3 divides (a - b)} on Z, how many distinct equivalence classes are obtained?",
+    "questionLatex": "R=\\{(a,b):3\\mid(a-b)\\}",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The classes are [0], [1] and [2]."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Equivalence Relations",
+    "familyId": "odd_even_relation",
+    "questionText": "Let A = {1,2,3,4,5,6,7}. Define R = {(a,b): both a and b are either odd or even}. Is R an equivalence relation?",
+    "questionLatex": "R=\\{(a,b):a,b\\text{ are both odd or both even}\\}",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The relation is reflexive, symmetric and transitive."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Relations Classification",
+    "familyId": "relation_classification",
+    "questionText": "Determine the nature of the relation R in A = {1,2,3,4} given by R = {(1,2), (2,2), (1,1), (4,4), (1,3), (3,3), (3,2)}.",
+    "questionLatex": "R=\\{(1,2),(2,2),(1,1),(4,4),(1,3),(3,3),(3,2)\\}",
+    "options": [
+      "Reflexive and symmetric but not transitive",
+      "Reflexive and transitive but not symmetric",
+      "Symmetric and transitive but not reflexive",
+      "Equivalence relation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "R contains all reflexive pairs and satisfies transitivity but is not symmetric."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "One-One Functions",
+    "familyId": "injective_definition",
+    "questionText": "A function $f : X \\to Y$ is called one-one if",
+    "questionLatex": "f:X\\to Y",
+    "options": [
+      "Every element of Y has a pre-image",
+      "Distinct elements of X have distinct images",
+      "Every element of X has two images",
+      "Range is a proper subset of codomain"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A function is injective when $f(x_1) = f(x_2)$ implies $x_1 = x_2$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Onto Functions",
+    "familyId": "surjective_definition",
+    "questionText": "A function $f : X \\to Y$ is onto if",
+    "questionLatex": "f:X\\to Y",
+    "options": [
+      "Every element of Y is the image of some element of X",
+      "Every element of X has two images",
+      "$f(x_1) = f(x_2)$",
+      "Domain and codomain are unequal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Every element of the codomain must have at least one pre-image."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Bijective Functions",
+    "familyId": "bijective_definition",
+    "questionText": "A function is bijective if it is",
+    "questionLatex": "\\text{Bijective Function}",
+    "options": [
+      "Only one-one",
+      "Only onto",
+      "Both one-one and onto",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A bijection is both injective and surjective."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "One-One Functions",
+    "familyId": "natural_numbers_double",
+    "questionText": "Consider $f : \\mathbb{N} \\to \\mathbb{N}$ defined by $f(x) = 2x$. Determine the nature of $f$.",
+    "questionLatex": "f(x)=2x",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Distinct inputs have distinct outputs, but odd natural numbers are not images."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Bijective Functions",
+    "familyId": "real_numbers_double",
+    "questionText": "For $f : \\mathbb{R} \\to \\mathbb{R}$ defined by $f(x) = 2x$, determine whether the function is one-one and onto.",
+    "questionLatex": "f(x)=2x",
+    "options": [
+      "One-one only",
+      "Onto only",
+      "Neither one-one nor onto",
+      "One-one and onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "For every $y \\in \\mathbb{R}$, $x = y/2$ exists and is unique."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Many-One Functions",
+    "familyId": "square_function_real",
+    "questionText": "Determine the nature of the function $f : \\mathbb{R} \\to \\mathbb{R}$ given by $f(x) = x^2$.",
+    "questionLatex": "f(x)=x^2",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Neither one-one nor onto",
+      "Onto but not one-one"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$f(-1) = f(1) = 1$ and negative real numbers are not in the range."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Onto Functions",
+    "familyId": "onto_not_injective",
+    "questionText": "Let $f : \\mathbb{N} \\to \\mathbb{N}$ be defined by $f(1) = f(2) = 1$ and $f(x) = x - 1$ for $x > 2$. Then $f$ is",
+    "questionLatex": "f(1)=f(2)=1,\\;f(x)=x-1\\;(x>2)",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every natural number has a pre-image, but $f(1) = f(2)$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Bijective Functions",
+    "familyId": "odd_even_mapping",
+    "questionText": "Consider $f : \\mathbb{N} \\to \\mathbb{N}$ defined by $f(x) = x+1$ if $x$ is odd and $f(x) = x-1$ if $x$ is even. Determine the nature of $f$.",
+    "questionLatex": "f(x)=\\begin{cases}x+1,&x\\text{ odd}\\\\x-1,&x\\text{ even}\\end{cases}",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Every natural number has a unique pre-image."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Finite Sets",
+    "familyId": "onto_implies_oneone",
+    "questionText": "An onto function $f : \\{1,2,3\\} \\to \\{1,2,3\\}$ must be",
+    "questionLatex": "f:\\{1,2,3\\}\\to\\{1,2,3\\}",
+    "options": [
+      "Many-one",
+      "One-one",
+      "Constant",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For finite sets of equal size, onto implies one-one."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Finite Sets",
+    "familyId": "oneone_implies_onto",
+    "questionText": "A one-one function $f : \\{1,2,3\\} \\to \\{1,2,3\\}$ is necessarily",
+    "questionLatex": "f:\\{1,2,3\\}\\to\\{1,2,3\\}",
+    "options": [
+      "Onto",
+      "Many-one",
+      "Constant",
+      "Not onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For finite sets having equal cardinality, injective implies surjective."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Special Functions",
+    "familyId": "reciprocal_function_nonzero_reals",
+    "questionText": "Consider the function f : R* → R* defined by f(x) = 1/x, where R* denotes the set of all non-zero real numbers. Determine the nature of the function.",
+    "questionLatex": "f(x)=\\frac{1}{x},\\;x\\in\\mathbb{R}^{*}",
+    "options": [
+      "One-one only",
+      "Onto only",
+      "One-one and onto",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every non-zero real number has a unique reciprocal and every element of the codomain has a pre-image."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Injective and Surjective Functions",
+    "familyId": "square_function_natural_numbers",
+    "questionText": "Determine whether the function f : N → N defined by f(x) = x² is one-one and/or onto.",
+    "questionLatex": "f(x)=x^2",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Distinct natural numbers have distinct squares, but non-perfect squares are not images."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Injective and Surjective Functions",
+    "familyId": "cube_function_integers",
+    "questionText": "Determine whether the function f : Z → Z defined by f(x) = x³ is one-one and/or onto.",
+    "questionLatex": "f(x)=x^3",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The function is injective on integers, but integers that are not perfect cubes have no pre-image."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Greatest Integer Function",
+    "familyId": "greatest_integer_function",
+    "questionText": "The greatest integer function f : R → R defined by f(x) = [x] is",
+    "questionLatex": "f(x)=[x]",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Many real numbers have the same greatest integer value and non-integer real numbers are not in the range."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Modulus Function",
+    "familyId": "modulus_function_properties",
+    "questionText": "Determine the nature of the modulus function f : R → R defined by f(x) = |x|.",
+    "questionLatex": "f(x)=|x|",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "f(1)=f(-1)=1 and negative real numbers are not images."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Signum Function",
+    "familyId": "signum_function_properties",
+    "questionText": "The signum function f : R → R defined by f(x) = 1 for x > 0, f(x) = 0 for x = 0 and f(x) = -1 for x < 0 is",
+    "questionLatex": "f(x)=\\begin{cases}1,&x>0\\\\0,&x=0\\\\-1,&x<0\\end{cases}",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Many inputs map to the same value and the range is only {-1,0,1}."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "One-One Functions",
+    "familyId": "mapping_between_finite_sets",
+    "questionText": "Let A = {1,2,3}, B = {4,5,6,7} and f = {(1,4), (2,5), (3,6)} be a function from A to B. Then f is",
+    "questionLatex": "f=\\{(1,4),(2,5),(3,6)\\}",
+    "options": [
+      "One-one",
+      "Many-one",
+      "Onto",
+      "Constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Distinct elements of A have distinct images in B."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Bijective Functions",
+    "familyId": "linear_function_bijective",
+    "questionText": "State whether the function f : R → R defined by f(x) = 3 - 4x is one-one, onto or bijective.",
+    "questionLatex": "f(x)=3-4x",
+    "options": [
+      "One-one only",
+      "Onto only",
+      "Bijective",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A non-constant linear function on R is both one-one and onto."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Many-One Functions",
+    "familyId": "quadratic_shift_function",
+    "questionText": "Determine the nature of the function f : R → R defined by f(x) = 1 + x².",
+    "questionLatex": "f(x)=1+x^2",
+    "options": [
+      "Bijective",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "f(1)=f(-1)=2 and values less than 1 are not in the range."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions on Cartesian Products",
+    "familyId": "cartesian_product_bijection",
+    "questionText": "Let f : A × B → B × A be defined by f(a,b) = (b,a). The function f is",
+    "questionLatex": "f(a,b)=(b,a)",
+    "options": [
+      "Only one-one",
+      "Only onto",
+      "Bijective",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every ordered pair has a unique image and a unique pre-image."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Bijective Functions",
+    "familyId": "piecewise_function_bijective",
+    "questionText": "Let $f : \\mathbb{N} \\to \\mathbb{N}$ be defined by $f(n) = \\frac{n + 1}{2}$ if $n$ is odd and $f(n) = \\frac{n}{2}$ if $n$ is even. Determine the nature of the function.",
+    "questionLatex": "f(n)=\\begin{cases}\\frac{n+1}{2},&n\\text{ odd}\\\\\\frac{n}{2},&n\\text{ even}\\end{cases}",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Each natural number has a unique pre-image and image, making the function bijective."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Rational Functions",
+    "familyId": "fractional_linear_function",
+    "questionText": "Let $A = \\mathbb{R} \\setminus \\{3\\}$ and $B = \\mathbb{R} \\setminus \\{1\\}$. Consider the function $f : A \\to B$ defined by $f(x) = \\frac{x - 2}{x - 3}$. Determine the nature of the function.",
+    "questionLatex": "f(x)=\\frac{x-2}{x-3}",
+    "options": [
+      "One-one only",
+      "Onto only",
+      "One-one and onto",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The function is injective and every element of B has a unique pre-image in A."
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions Classification",
+    "familyId": "power_function_fourth",
+    "questionText": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = x^4$. Choose the correct option.",
+    "questionLatex": "f(x)=x^4",
+    "options": [
+      "One-one and onto",
+      "Many-one and onto",
+      "One-one but not onto",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "$f(1)=f(-1)=1$ and negative real numbers are not in the range."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Functions Classification",
+    "familyId": "linear_function_three_x",
+    "questionText": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be defined by $f(x) = 3x$. Choose the correct option.",
+    "questionLatex": "f(x)=3x",
+    "options": [
+      "One-one and onto",
+      "Many-one and onto",
+      "One-one but not onto",
+      "Neither one-one nor onto"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Every real number y has a unique pre-image y/3."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "composition_definition",
+    "questionText": "If $f : A \\to B$ and $g : B \\to C$ are functions, then the composition $g \\circ f$ is defined by",
+    "questionLatex": "(g\\circ f)(x)=?",
+    "options": [
+      "f(g(x))",
+      "g(f(x))",
+      "g(x)+f(x)",
+      "g(x)-f(x)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, $(g\\circ f)(x)=g(f(x))$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "evaluate_composition_simple",
+    "questionText": "If $f(x) = 2x + 1$ and $g(x) = x^2$, find $(g \\circ f)(2)$.",
+    "questionLatex": "f(x)=2x+1,\\;g(x)=x^2,\\;(g\\circ f)(2)=?",
+    "options": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f(2)=5$ and $g(5)=25$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "evaluate_composite_expression",
+    "questionText": "If $f(x) = x + 3$ and $g(x) = 3x - 2$, find $(f \\circ g)(x)$.",
+    "questionLatex": "f(x)=x+3,\\;g(x)=3x-2",
+    "options": [
+      "3x + 1",
+      "3x - 5",
+      "x + 1",
+      "3x + 3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$(f\\circ g)(x)=f(3x-2)=3x-2+3=3x+1$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "domain_of_composite",
+    "questionText": "If $f(x) = \\sqrt{x}$ and $g(x) = x - 1$, then the domain of $(f \\circ g)(x)$ is",
+    "questionLatex": "(f\\circ g)(x)=\\sqrt{x-1}",
+    "options": [
+      "x ≥ 0",
+      "x > 0",
+      "x ≥ 1",
+      "All real numbers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For $\\sqrt{x-1}$ to be defined, $x-1 \\geq 0$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "composite_function_numeric",
+    "questionText": "If $f(x) = x^2$ and $g(x) = x + 1$, find $(f \\circ g)(3)$.",
+    "questionLatex": "f(x)=x^2,\\;g(x)=x+1",
+    "options": [
+      "9",
+      "12",
+      "16",
+      "25"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$g(3)=4$ and $f(4)=16$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "composite_function_algebraic",
+    "questionText": "If $f(x) = x - 1$ and $g(x) = x^2 + 1$, then $(g \\circ f)(x)$ equals",
+    "questionLatex": "f(x)=x-1,\\;g(x)=x^2+1",
+    "options": [
+      "(x-1)^2 + 1",
+      "x^2",
+      "x^2 + 1",
+      "(x+1)^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$(g\\circ f)(x)=g(x-1)=(x-1)^2+1$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Invertible Functions",
+    "familyId": "inverse_definition",
+    "questionText": "A function $f : A \\to B$ is invertible if and only if it is",
+    "questionLatex": "\\text{A function }f:A\\to B\\text{ is invertible if and only if it is}",
+    "options": [
+      "Only one-one",
+      "Only onto",
+      "Bijective",
+      "Constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A function must be both one-one and onto to possess an inverse."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Inverse Functions",
+    "familyId": "inverse_linear_function",
+    "questionText": "Find the inverse of the function $f : \\mathbb{R} \\to \\mathbb{R}$ defined by $f(x) = 2x + 3$.",
+    "questionLatex": "f(x)=2x+3",
+    "options": [
+      "\\frac{x - 3}{2}",
+      "\\frac{x + 3}{2}",
+      "2x - 3",
+      "3 - 2x"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let $y = 2x + 3$. Then $x = \\frac{y - 3}{2}$, hence $f^{-1}(x) = \\frac{x - 3}{2}$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Inverse Functions",
+    "familyId": "verify_inverse",
+    "questionText": "If $f(x) = 5x - 2$, then $f^{-1}(x)$ is",
+    "questionLatex": "f(x)=5x-2",
+    "options": [
+      "\\frac{x + 2}{5}",
+      "\\frac{x - 2}{5}",
+      "5x + 2",
+      "\\frac{1}{5x - 2}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let $y = 5x - 2$. Then $x = \\frac{y + 2}{5}$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Inverse Functions",
+    "familyId": "inverse_reciprocal",
+    "questionText": "For the function $f : \\mathbb{R}^* \\to \\mathbb{R}^*$ defined by $f(x) = \\frac{1}{x}$, find $f^{-1}(x)$.",
+    "questionLatex": "f(x)=\\frac{1}{x}",
+    "options": [
+      "x",
+      "-x",
+      "\\frac{1}{x}",
+      "x^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The reciprocal function is self-inverse."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition and Inverse",
+    "familyId": "identity_composition",
+    "questionText": "If $f$ is invertible, then $f^{-1} \\circ f$ equals",
+    "questionLatex": "f^{-1}\\circ f",
+    "options": [
+      "f",
+      "f^{-1}",
+      "Identity function",
+      "Zero function"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Composition of a function with its inverse gives the identity function."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Binary Operations",
+    "familyId": "binary_operation_definition",
+    "questionText": "A binary operation on a set $A$ is a function from",
+    "questionLatex": "\\ast:A\\times A\\to ?",
+    "options": [
+      "A \\to A",
+      "A \\times A \\to A",
+      "A \\times A \\to \\mathbb{R}",
+      "\\mathbb{R} \\times \\mathbb{R} \\to A"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A binary operation combines two elements of A to produce another element of A."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Binary Operations",
+    "familyId": "check_binary_operation",
+    "questionText": "On the set $\\mathbb{Z}$ of integers, define $a * b = a + b$. Is $*$ a binary operation on $\\mathbb{Z}$?",
+    "questionLatex": "a*b=a+b",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The sum of two integers is always an integer."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Binary Operations",
+    "familyId": "closure_property",
+    "questionText": "Which property ensures that an operation on a set $A$ is a binary operation?",
+    "questionLatex": "\\text{Closure Property}",
+    "options": [
+      "Commutativity",
+      "Associativity",
+      "Closure",
+      "Distributivity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The result of the operation must belong to the same set."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Composition of Functions",
+    "familyId": "compute_double_composition",
+    "questionText": "If $f(x) = x + 2$ and $g(x) = 2x$, find $(g \\circ f)(4)$.",
+    "questionLatex": "f(x)=x+2,\\;g(x)=2x",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f(4) = 6$ and $g(6) = 12$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "teacher_created"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Relations and Functions",
+    "topic": "Mixed Concepts",
+    "familyId": "relation_function_conceptual",
+    "questionText": "Which of the following statements is always true?",
+    "questionLatex": "\\text{Choose the correct statement}",
+    "options": [
+      "Every relation is a function",
+      "Every function is a relation",
+      "Every equivalence relation is a function",
+      "Every symmetric relation is a function"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A function is a special type of relation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
