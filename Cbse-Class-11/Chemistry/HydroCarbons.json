@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Introduction to Hydrocarbons",
+    "familyId": "hydrocarbon_definition",
+    "questionText": "Hydrocarbons are compounds containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Carbon, hydrogen and oxygen only",
+        "latex": null
+      },
+      {
+        "text": "Carbon and hydrogen only",
+        "latex": null
+      },
+      {
+        "text": "Carbon and nitrogen only",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen and oxygen only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Carbon and hydrogen only",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Hydrocarbons in Daily Life",
+    "familyId": "lpg_full_form",
+    "questionText": "The abbreviation LPG stands for:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Liquid Petroleum Gas",
+        "latex": null
+      },
+      {
+        "text": "Liquefied Petroleum Gas",
+        "latex": null
+      },
+      {
+        "text": "Low Pressure Gas",
+        "latex": null
+      },
+      {
+        "text": "Liquefied Propane Gas",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Liquefied Petroleum Gas",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Hydrocarbons in Daily Life",
+    "familyId": "cng_full_form",
+    "questionText": "CNG used as an automobile fuel stands for:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Compressed Natural Gas",
+        "latex": null
+      },
+      {
+        "text": "Combined Natural Gas",
+        "latex": null
+      },
+      {
+        "text": "Compressed Nitrogen Gas",
+        "latex": null
+      },
+      {
+        "text": "Controlled Natural Gas",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Compressed Natural Gas",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification of Hydrocarbons",
+    "familyId": "hydrocarbon_classification",
+    "questionText": "Hydrocarbons are broadly classified into saturated, unsaturated and:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Heterocyclic hydrocarbons",
+        "latex": null
+      },
+      {
+        "text": "Aromatic hydrocarbons",
+        "latex": null
+      },
+      {
+        "text": "Polymeric hydrocarbons",
+        "latex": null
+      },
+      {
+        "text": "Functional hydrocarbons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Aromatic hydrocarbons",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Classification of Hydrocarbons",
+    "familyId": "alkane_definition",
+    "questionText": "Alkanes are hydrocarbons containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only carbon-carbon single bonds",
+        "latex": null
+      },
+      {
+        "text": "At least one double bond",
+        "latex": null
+      },
+      {
+        "text": "At least one triple bond",
+        "latex": null
+      },
+      {
+        "text": "A benzene ring",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Only carbon-carbon single bonds",
+      "latex": null
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "familyId": "general_formula_alkanes",
+    "questionText": "What is the general formula of open-chain alkanes?",
+    "questionLatex": "C_nH_{2n+2}",
+    "options": [
+      {
+        "text": "CnH2n",
+        "latex": "C_nH_{2n}"
+      },
+      {
+        "text": "CnH2n+2",
+        "latex": "C_nH_{2n+2}"
+      },
+      {
+        "text": "CnH2n-2",
+        "latex": "C_nH_{2n-2}"
+      },
+      {
+        "text": "CnHn",
+        "latex": "C_nH_n"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "CnH2n+2",
+      "latex": "C_nH_{2n+2}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "familyId": "methane_geometry",
+    "questionText": "The geometry of methane molecule is:",
+    "questionLatex": "CH_4",
+    "options": [
+      {
+        "text": "Linear",
+        "latex": null
+      },
+      {
+        "text": "Trigonal planar",
+        "latex": null
+      },
+      {
+        "text": "Tetrahedral",
+        "latex": null
+      },
+      {
+        "text": "Trigonal pyramidal",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Tetrahedral",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkanes",
+    "familyId": "methane_bond_angle",
+    "questionText": "The H-C-H bond angle in methane is approximately:",
+    "questionLatex": "109.5^{\\circ}",
+    "options": [
+      {
+        "text": "90°",
+        "latex": "90^{\\circ}"
+      },
+      {
+        "text": "120°",
+        "latex": "120^{\\circ}"
+      },
+      {
+        "text": "109.5°",
+        "latex": "109.5^{\\circ}"
+      },
+      {
+        "text": "180°",
+        "latex": "180^{\\circ}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "109.5°",
+      "latex": "109.5^{\\circ}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Isomerism in Alkanes",
+    "familyId": "butane_isomers",
+    "questionText": "How many chain isomers are possible for butane?",
+    "questionLatex": "C_4H_{10}",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "2",
+        "latex": "2"
+      },
+      {
+        "text": "3",
+        "latex": "3"
+      },
+      {
+        "text": "4",
+        "latex": "4"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2",
+      "latex": "2"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Isomerism in Alkanes",
+    "familyId": "pentane_isomers",
+    "questionText": "How many chain isomers are possible for pentane?",
+    "questionLatex": "C_5H_{12}",
+    "options": [
+      {
+        "text": "2",
+        "latex": "2"
+      },
+      {
+        "text": "3",
+        "latex": "3"
+      },
+      {
+        "text": "4",
+        "latex": "4"
+      },
+      {
+        "text": "5",
+        "latex": "5"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3",
+      "latex": "3"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Carbon Atom Classification",
+    "familyId": "primary_carbon_definition",
+    "questionText": "A primary (1°) carbon atom is attached to how many other carbon atoms?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Zero or one carbon atom",
+        "latex": null
+      },
+      {
+        "text": "Two carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Three carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Four carbon atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Zero or one carbon atom",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Carbon Atom Classification",
+    "familyId": "secondary_carbon_definition",
+    "questionText": "A secondary (2°) carbon atom is attached to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One carbon atom",
+        "latex": null
+      },
+      {
+        "text": "Two carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Three carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Four carbon atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Two carbon atoms",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Carbon Atom Classification",
+    "familyId": "tertiary_carbon_definition",
+    "questionText": "A tertiary (3°) carbon atom is attached directly to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One carbon atom",
+        "latex": null
+      },
+      {
+        "text": "Two carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Three carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Four carbon atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Three carbon atoms",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Carbon Atom Classification",
+    "familyId": "quaternary_carbon_definition",
+    "questionText": "A quaternary (4°) carbon atom is attached directly to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Two carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Three carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Four carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Five carbon atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Four carbon atoms",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkyl Groups",
+    "familyId": "alkyl_group_definition",
+    "questionText": "Alkyl groups are derived from alkanes by removal of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One carbon atom",
+        "latex": null
+      },
+      {
+        "text": "One hydrogen atom",
+        "latex": null
+      },
+      {
+        "text": "Two hydrogen atoms",
+        "latex": null
+      },
+      {
+        "text": "One methyl group",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "One hydrogen atom",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkyl Groups",
+    "familyId": "alkyl_general_formula",
+    "questionText": "The general formula of an alkyl group is:",
+    "questionLatex": "C_nH_{2n+1}",
+    "options": [
+      {
+        "text": "CnH2n+2",
+        "latex": "C_nH_{2n+2}"
+      },
+      {
+        "text": "CnH2n",
+        "latex": "C_nH_{2n}"
+      },
+      {
+        "text": "CnH2n+1",
+        "latex": "C_nH_{2n+1}"
+      },
+      {
+        "text": "CnH2n-1",
+        "latex": "C_nH_{2n-1}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "CnH2n+1",
+      "latex": "C_nH_{2n+1}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkanes",
+    "familyId": "hydrogenation_definition",
+    "questionText": "Addition of hydrogen to alkenes or alkynes in the presence of Ni, Pt or Pd catalyst is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Halogenation",
+        "latex": null
+      },
+      {
+        "text": "Hydrogenation",
+        "latex": null
+      },
+      {
+        "text": "Nitration",
+        "latex": null
+      },
+      {
+        "text": "Dehydrogenation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Hydrogenation",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkanes",
+    "familyId": "wurtz_reaction",
+    "questionText": "Alkyl halides react with sodium metal in dry ether to give higher alkanes. This reaction is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kolbe reaction",
+        "latex": null
+      },
+      {
+        "text": "Wurtz reaction",
+        "latex": null
+      },
+      {
+        "text": "Cannizzaro reaction",
+        "latex": null
+      },
+      {
+        "text": "Friedel-Crafts reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Wurtz reaction",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkanes",
+    "familyId": "decarboxylation_definition",
+    "questionText": "Heating sodium salts of carboxylic acids with soda lime produces alkanes through:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "latex": null
+      },
+      {
+        "text": "Dehalogenation",
+        "latex": null
+      },
+      {
+        "text": "Decarboxylation",
+        "latex": null
+      },
+      {
+        "text": "Oxidation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Decarboxylation",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkanes",
+    "familyId": "kolbe_electrolysis",
+    "questionText": "Kolbe's electrolytic method generally produces alkanes containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Odd number of carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "Even number of carbon atoms",
+        "latex": null
+      },
+      {
+        "text": "One carbon atom only",
+        "latex": null
+      },
+      {
+        "text": "No carbon-carbon bond",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Even number of carbon atoms",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkanes",
+    "familyId": "combustion_of_alkanes",
+    "questionText": "The complete combustion of alkanes produces:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Carbon monoxide and water",
+        "latex": null
+      },
+      {
+        "text": "Carbon dioxide and water",
+        "latex": null
+      },
+      {
+        "text": "Carbon and hydrogen",
+        "latex": null
+      },
+      {
+        "text": "Methane and water",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Carbon dioxide and water",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkanes",
+    "familyId": "halogenation_of_methane",
+    "questionText": "Chlorination of methane in the presence of sunlight proceeds through:",
+    "questionLatex": "\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{h\\nu} \\text{CH}_3\\text{Cl} + \\text{HCl}",
+    "options": [
+      {
+        "text": "Electrophilic substitution",
+        "latex": null
+      },
+      {
+        "text": "Nucleophilic substitution",
+        "latex": null
+      },
+      {
+        "text": "Free radical substitution",
+        "latex": null
+      },
+      {
+        "text": "Addition reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Free radical substitution",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkanes",
+    "familyId": "chlorination_initiation_step",
+    "questionText": "In the chlorination of methane, the initiation step involves:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Formation of CH₃ radicals",
+        "latex": "\\text{CH}_3"
+      },
+      {
+        "text": "Homolytic cleavage of Cl₂",
+        "latex": "\\text{Cl}_2"
+      },
+      {
+        "text": "Formation of HCl",
+        "latex": "\\text{HCl}"
+      },
+      {
+        "text": "Termination of radicals",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Homolytic cleavage of Cl₂",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkanes",
+    "familyId": "pyrolysis_definition",
+    "questionText": "The process of breaking larger hydrocarbon molecules into smaller molecules by heating is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "latex": null
+      },
+      {
+        "text": "Cracking or pyrolysis",
+        "latex": null
+      },
+      {
+        "text": "Halogenation",
+        "latex": null
+      },
+      {
+        "text": "Polymerisation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Cracking or pyrolysis",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "familyId": "alkene_definition",
+    "questionText": "Alkenes are hydrocarbons containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only single bonds",
+        "latex": null
+      },
+      {
+        "text": "At least one carbon-carbon double bond",
+        "latex": null
+      },
+      {
+        "text": "At least one carbon-carbon triple bond",
+        "latex": null
+      },
+      {
+        "text": "A benzene ring",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "At least one carbon-carbon double bond",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkenes",
+    "familyId": "general_formula_alkenes",
+    "questionText": "The general formula of open-chain alkenes is:",
+    "questionLatex": "C_nH_{2n}",
+    "options": [
+      {
+        "text": "CnH2n+2",
+        "latex": "C_nH_{2n+2}"
+      },
+      {
+        "text": "CnH2n",
+        "latex": "C_nH_{2n}"
+      },
+      {
+        "text": "CnH2n-2",
+        "latex": "C_nH_{2n-2}"
+      },
+      {
+        "text": "CnHn",
+        "latex": "C_nH_n"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "CnH2n",
+      "latex": "C_nH_{2n}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Structure of Alkenes",
+    "familyId": "ethene_hybridisation",
+    "questionText": "The hybridisation of each carbon atom in ethene is:",
+    "questionLatex": "\\text{CH}_2=\\text{CH}_2",
+    "options": [
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "sp³d",
+        "latex": "sp^3d"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "sp²",
+      "latex": "sp^2"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Structure of Alkenes",
+    "familyId": "ethene_bond_angle",
+    "questionText": "The approximate bond angle around each carbon atom in ethene is:",
+    "questionLatex": "120^{\\circ}",
+    "options": [
+      {
+        "text": "109.5°",
+        "latex": "109.5^{\\circ}"
+      },
+      {
+        "text": "180°",
+        "latex": "180^{\\circ}"
+      },
+      {
+        "text": "120°",
+        "latex": "120^{\\circ}"
+      },
+      {
+        "text": "90°",
+        "latex": "90^{\\circ}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "120°",
+      "latex": "120^{\\circ}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkenes",
+    "familyId": "dehydration_of_alcohols",
+    "questionText": "Alkenes can be prepared by dehydration of alcohols using:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dilute HCl",
+        "latex": null
+      },
+      {
+        "text": "Concentrated H₂SO₄",
+        "latex": "\\text{H}_2\\text{SO}_4"
+      },
+      {
+        "text": "NaOH solution",
+        "latex": null
+      },
+      {
+        "text": "Aqueous ammonia",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Concentrated H₂SO₄",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkenes",
+    "familyId": "dehydrohalogenation",
+    "questionText": "Removal of HX from an alkyl halide to form an alkene is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Hydrogenation",
+        "latex": null
+      },
+      {
+        "text": "Dehydrohalogenation",
+        "latex": null
+      },
+      {
+        "text": "Hydration",
+        "latex": null
+      },
+      {
+        "text": "Halogenation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Dehydrohalogenation",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkenes",
+    "familyId": "electrophilic_addition_definition",
+    "questionText": "The characteristic reaction of alkenes is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Substitution reaction",
+        "latex": null
+      },
+      {
+        "text": "Electrophilic addition reaction",
+        "latex": null
+      },
+      {
+        "text": "Condensation reaction",
+        "latex": null
+      },
+      {
+        "text": "Neutralisation reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Electrophilic addition reaction",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkenes",
+    "familyId": "hydrogenation_of_ethene",
+    "questionText": "Ethene reacts with hydrogen in the presence of Ni catalyst to form:",
+    "questionLatex": "\\text{CH}_2=\\text{CH}_2 + \\text{H}_2 \\rightarrow ?",
+    "options": [
+      {
+        "text": "Ethyne",
+        "latex": "\\text{C}_2\\text{H}_2"
+      },
+      {
+        "text": "Ethanol",
+        "latex": "\\text{C}_2\\text{H}_5\\text{OH}"
+      },
+      {
+        "text": "Ethane",
+        "latex": "\\text{C}_2\\text{H}_6"
+      },
+      {
+        "text": "Ethanal",
+        "latex": "\\text{CH}_3\\text{CHO}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Ethane",
+      "latex": "\\text{CH}_2=\\text{CH}_2 + \\text{H}_2 \\rightarrow \\text{CH}_3-\\text{CH}_3"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkenes",
+    "familyId": "bromine_test_alkenes",
+    "questionText": "Alkenes decolourise bromine water because they undergo:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Substitution reaction",
+        "latex": null
+      },
+      {
+        "text": "Addition reaction",
+        "latex": null
+      },
+      {
+        "text": "Oxidation only",
+        "latex": null
+      },
+      {
+        "text": "Reduction only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Addition reaction",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkenes",
+    "familyId": "baeyer_test",
+    "questionText": "Cold dilute alkaline KMnO₄ solution used for testing unsaturation is known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Tollen's reagent",
+        "latex": null
+      },
+      {
+        "text": "Fehling's solution",
+        "latex": null
+      },
+      {
+        "text": "Baeyer's reagent",
+        "latex": null
+      },
+      {
+        "text": "Nessler's reagent",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Baeyer's reagent",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Markovnikov's Rule",
+    "familyId": "markovnikov_definition",
+    "questionText": "Markovnikov's rule predicts the orientation of addition of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "HX to unsymmetrical alkenes",
+        "latex": null
+      },
+      {
+        "text": "H₂ to alkynes",
+        "latex": null
+      },
+      {
+        "text": "O₂ to alkanes",
+        "latex": null
+      },
+      {
+        "text": "Cl₂ to methane",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "HX to unsymmetrical alkenes",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Markovnikov's Rule",
+    "familyId": "markovnikov_product",
+    "questionText": "According to Markovnikov's rule, during addition of HBr to propene, hydrogen attaches to the carbon atom having:",
+    "questionLatex": "\\text{CH}_3\\text{CH}=\\text{CH}_2 + \\text{HBr}",
+    "options": [
+      {
+        "text": "Fewer hydrogen atoms",
+        "latex": null
+      },
+      {
+        "text": "More hydrogen atoms",
+        "latex": null
+      },
+      {
+        "text": "Positive charge",
+        "latex": null
+      },
+      {
+        "text": "Double bond only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "More hydrogen atoms",
+      "latex": null
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Peroxide Effect",
+    "familyId": "anti_markovnikov_hbr",
+    "questionText": "The anti-Markovnikov addition in the presence of peroxides is observed mainly with:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "HCl",
+        "latex": null
+      },
+      {
+        "text": "HI",
+        "latex": null
+      },
+      {
+        "text": "HBr",
+        "latex": null
+      },
+      {
+        "text": "HF",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "HBr",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "familyId": "alkyne_definition",
+    "questionText": "Alkynes are hydrocarbons containing:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only single bonds",
+        "latex": null
+      },
+      {
+        "text": "At least one double bond",
+        "latex": null
+      },
+      {
+        "text": "At least one triple bond",
+        "latex": null
+      },
+      {
+        "text": "A benzene ring",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "At least one triple bond",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Alkynes",
+    "familyId": "general_formula_alkynes",
+    "questionText": "The general formula of open-chain alkynes is:",
+    "questionLatex": "C_nH_{2n-2}",
+    "options": [
+      {
+        "text": "CnH2n+2",
+        "latex": "C_nH_{2n+2}"
+      },
+      {
+        "text": "CnH2n",
+        "latex": "C_nH_{2n}"
+      },
+      {
+        "text": "CnH2n-2",
+        "latex": "C_nH_{2n-2}"
+      },
+      {
+        "text": "CnHn",
+        "latex": "C_nH_n"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "CnH2n-2",
+      "latex": "C_nH_{2n-2}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Structure of Alkynes",
+    "familyId": "ethyne_hybridisation",
+    "questionText": "The hybridisation of each carbon atom in ethyne is:",
+    "questionLatex": "\\text{HC} \\equiv \\text{CH}",
+    "options": [
+      {
+        "text": "sp",
+        "latex": "sp"
+      },
+      {
+        "text": "sp²",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp³",
+        "latex": "sp^3"
+      },
+      {
+        "text": "sp³d",
+        "latex": "sp^3d"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sp",
+      "latex": "sp"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Preparation of Alkynes",
+    "familyId": "ethyne_from_calcium_carbide",
+    "questionText": "Ethyne is prepared industrially by the reaction of calcium carbide with:",
+    "questionLatex": "\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\rightarrow \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2",
+    "options": [
+      {
+        "text": "Hydrogen",
+        "latex": "\\text{H}_2"
+      },
+      {
+        "text": "Water",
+        "latex": "\\text{H}_2\\text{O}"
+      },
+      {
+        "text": "Oxygen",
+        "latex": "\\text{O}_2"
+      },
+      {
+        "text": "Hydrochloric acid",
+        "latex": "\\text{HCl}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Water",
+      "latex": "\\text{CaC}_2 + 2\\text{H}_2\\text{O} \\rightarrow \\text{C}_2\\text{H}_2 + \\text{Ca(OH)}_2"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkynes",
+    "familyId": "alkyne_addition",
+    "questionText": "The characteristic reactions of alkynes are mainly:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Substitution reactions",
+        "latex": null
+      },
+      {
+        "text": "Addition reactions",
+        "latex": null
+      },
+      {
+        "text": "Condensation reactions",
+        "latex": null
+      },
+      {
+        "text": "Polymerisation reactions only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Addition reactions",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Alkynes",
+    "familyId": "ethyne_hydrogenation",
+    "questionText": "Complete hydrogenation of ethyne produces:",
+    "questionLatex": "\\text{HC} \\equiv \\text{CH} + 2\\text{H}_2 \\rightarrow ?",
+    "options": [
+      {
+        "text": "Ethene",
+        "latex": "\\text{C}_2\\text{H}_4"
+      },
+      {
+        "text": "Ethane",
+        "latex": "\\text{C}_2\\text{H}_6"
+      },
+      {
+        "text": "Ethanol",
+        "latex": "\\text{C}_2\\text{H}_5\\text{OH}"
+      },
+      {
+        "text": "Ethanal",
+        "latex": "\\text{CH}_3\\text{CHO}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ethane",
+      "latex": "\\text{HC} \\equiv \\text{CH} + 2\\text{H}_2 \\rightarrow \\text{CH}_3\\text{CH}_3"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Acidity of Alkynes",
+    "familyId": "terminal_alkyne_acidity",
+    "questionText": "Terminal alkynes are acidic because the hydrogen atom is attached to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "sp³ hybridised carbon",
+        "latex": "sp^3"
+      },
+      {
+        "text": "sp² hybridised carbon",
+        "latex": "sp^2"
+      },
+      {
+        "text": "sp hybridised carbon",
+        "latex": "sp"
+      },
+      {
+        "text": "Aromatic carbon",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "sp hybridised carbon",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Tests for Terminal Alkynes",
+    "familyId": "ammoniacal_agno3_test",
+    "questionText": "Terminal alkynes form a precipitate with:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Bromine water",
+        "latex": null
+      },
+      {
+        "text": "Dilute HCl",
+        "latex": "\\text{HCl}"
+      },
+      {
+        "text": "Ammoniacal silver nitrate",
+        "latex": "\\text{AgNO}_3\\text{ in NH}_3"
+      },
+      {
+        "text": "Concentrated sulphuric acid",
+        "latex": "\\text{H}_2\\text{SO}_4"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Ammoniacal silver nitrate",
+      "latex": null
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "familyId": "benzene_formula",
+    "questionText": "The molecular formula of benzene is:",
+    "questionLatex": "\\text{C}_6\\text{H}_6",
+    "options": [
+      {
+        "text": "C₆H₁₂",
+        "latex": "\\text{C}_6\\text{H}_{12}"
+      },
+      {
+        "text": "C₆H₆",
+        "latex": "\\text{C}_6\\text{H}_6"
+      },
+      {
+        "text": "C₆H₁₄",
+        "latex": "\\text{C}_6\\text{H}_{14}"
+      },
+      {
+        "text": "C₇H₈",
+        "latex": "\\text{C}_7\\text{H}_8"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "C₆H₆",
+      "latex": "\\text{C}_6\\text{H}_6"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Aromatic Hydrocarbons",
+    "familyId": "benzene_structure",
+    "questionText": "Benzene possesses:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Three localized double bonds",
+        "latex": null
+      },
+      {
+        "text": "Delocalised π-electron cloud over the ring",
+        "latex": null
+      },
+      {
+        "text": "Only single bonds",
+        "latex": null
+      },
+      {
+        "text": "A triple bond in the ring",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Delocalised π-electron cloud over the ring",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Benzene",
+    "familyId": "benzene_nitration",
+    "questionText": "Nitration of benzene is carried out using a mixture of concentrated HNO₃ and:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Concentrated HCl",
+        "latex": "\\text{HCl}"
+      },
+      {
+        "text": "Concentrated H₂SO₄",
+        "latex": "\\text{H}_2\\text{SO}_4"
+      },
+      {
+        "text": "Dilute H₂SO₄",
+        "latex": "\\text{H}_2\\text{SO}_4"
+      },
+      {
+        "text": "NaOH",
+        "latex": "\\text{NaOH}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Concentrated H₂SO₄",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Chemical Properties of Benzene",
+    "familyId": "benzene_halogenation",
+    "questionText": "Chlorination of benzene in the presence of FeCl₃ is an example of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Addition reaction",
+        "latex": null
+      },
+      {
+        "text": "Free radical substitution",
+        "latex": null
+      },
+      {
+        "text": "Electrophilic substitution",
+        "latex": null
+      },
+      {
+        "text": "Elimination reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Electrophilic substitution",
+      "latex": null
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Hydrocarbons",
+    "topic": "Environmental Chemistry",
+    "familyId": "soot_pollution",
+    "questionText": "Incomplete combustion of hydrocarbons generally produces:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only carbon dioxide",
+        "latex": "\\text{CO}_2"
+      },
+      {
+        "text": "Only water vapour",
+        "latex": "\\text{H}_2\\text{O}"
+      },
+      {
+        "text": "Carbon monoxide and soot",
+        "latex": "\\text{CO}, \\text{C}"
+      },
+      {
+        "text": "Only oxygen",
+        "latex": "\\text{O}_2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Carbon monoxide and soot",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

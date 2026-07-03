@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Introduction to Integration",
+    "familyId": "integration_inverse_process",
+    "questionText": "Integration is defined as the inverse process of",
+    "questionLatex": "$$\\text{Integration is the inverse process of } ?$$",
+    "options": [
+      "Factorisation",
+      "Differentiation",
+      "Multiplication",
+      "Simplification"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Integration is the inverse process of differentiation."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Anti Derivatives",
+    "familyId": "antiderivative_cosx",
+    "questionText": "Find an anti-derivative of $\\cos x$.",
+    "questionLatex": "$$\\int \\cos x\\,dx$$",
+    "options": [
+      "$\\cos x + C$",
+      "$-\\sin x + C$",
+      "$\\sin x + C$",
+      "$-\\cos x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since $\\frac{d}{dx}(\\sin x)=\\cos x$, $\\int \\cos x\\,dx = \\sin x + C$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_xn",
+    "questionText": "Evaluate $\\int x^4\\,dx$.",
+    "questionLatex": "$$\\int x^4\\,dx$$",
+    "options": [
+      "$\\frac{x^5}{4}+C$",
+      "$\\frac{x^5}{5}+C$",
+      "$5x^4+C$",
+      "$\\frac{x^4}{5}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using $\\int x^n\\,dx = \\frac{x^{n+1}}{n+1}+C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_ex",
+    "questionText": "Evaluate $\\int e^x\\,dx$.",
+    "questionLatex": "$$\\int e^x\\,dx$$",
+    "options": [
+      "$xe^x+C$",
+      "$e^x+C$",
+      "$\\ln x+C$",
+      "$e^{x+1}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $e^x$ is $e^x$ itself, so $\\int e^x\\,dx = e^x+C$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_one_by_x",
+    "questionText": "Evaluate $\\int \\frac{1}{x}\\,dx$.",
+    "questionLatex": "$$\\int \\frac{1}{x}\\,dx$$",
+    "options": [
+      "$\\frac{1}{x}+C$",
+      "$\\log |x|+C$",
+      "$\\ln(x^2)+C$",
+      "$x\\log x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$\\int \\frac{1}{x}\\,dx = \\log |x| + C$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Terminology",
+    "familyId": "integrand_identification",
+    "questionText": "In the integral $\\int f(x)\\,dx$, the function $f(x)$ is called",
+    "questionLatex": "$$\\int f(x)\\,dx$$",
+    "options": [
+      "Variable of integration",
+      "Integrand",
+      "Constant of integration",
+      "Derivative"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The function inside the integral sign is called the integrand."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Terminology",
+    "familyId": "constant_of_integration",
+    "questionText": "The symbol $C$ appearing in an indefinite integral represents",
+    "questionLatex": "$$\\int f(x)\\,dx = F(x)+C$$",
+    "options": [
+      "A variable",
+      "An integer",
+      "An arbitrary constant",
+      "A coefficient"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$C$ denotes an arbitrary constant called the constant of integration."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_sinx",
+    "questionText": "Evaluate $\\int \\sin x\\,dx$.",
+    "questionLatex": "$$\\int \\sin x\\,dx$$",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\sin x+C$",
+      "$-\\cos x+C$",
+      "$\\tan x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since $\\frac{d}{dx}(-\\cos x) = \\sin x$, $\\int \\sin x\\,dx = -\\cos x + C$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_sec2x",
+    "questionText": "Evaluate $\\int \\sec^2 x\\,dx$.",
+    "questionLatex": "$$\\int \\sec^2 x\\,dx$$",
+    "options": [
+      "$\\sec x+C$",
+      "$\\tan x+C$",
+      "$\\cot x+C$",
+      "$-\\tan x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $\\frac{d}{dx}(\\tan x) = \\sec^2 x$, $\\int \\sec^2 x\\,dx = \\tan x + C$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Standard Integrals",
+    "familyId": "integral_one_by_one_plus_x2",
+    "questionText": "Evaluate $\\int \\frac{dx}{1+x^2}$.",
+    "questionLatex": "$$\\int \\frac{dx}{1+x^2}$$",
+    "options": [
+      "$\\sin^{-1}x+C$",
+      "$\\cos^{-1}x+C$",
+      "$\\tan^{-1}x+C$",
+      "$\\log|x|+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\int \\frac{dx}{1+x^2} = \\tan^{-1}x + C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Properties of Indefinite Integrals",
+    "familyId": "integration_differentiation_inverse",
+    "questionText": "Evaluate $\\frac{d}{dx}\\left(\\int f(x)\\,dx\\right)$.",
+    "questionLatex": "$$\\frac{d}{dx}\\left(\\int f(x)\\,dx\\right)$$",
+    "options": [
+      "$0$",
+      "$f(x)$",
+      "$f'(x)$",
+      "$x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Differentiation and integration are inverse processes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Properties of Indefinite Integrals",
+    "familyId": "integral_derivative_property",
+    "questionText": "Evaluate $\\int f'(x)\\,dx$.",
+    "questionLatex": "$$\\int f'(x)\\,dx$$",
+    "options": [
+      "$f(x)$",
+      "$f(x)+C$",
+      "$f'(x)+C$",
+      "$C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The integral of a derivative is the original function plus a constant of integration."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Linearity of Integration",
+    "familyId": "integral_sum_property",
+    "questionText": "Evaluate $\\int (x^2 + \\sin x)\\,dx$.",
+    "questionLatex": "$$\\int (x^2+\\sin x)\\,dx$$",
+    "options": [
+      "$\\frac{x^3}{3}-\\cos x+C$",
+      "$\\frac{x^2}{2}+\\sin x+C$",
+      "$\\frac{x^3}{3}+\\cos x+C$",
+      "$x^3-\\cos x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using linearity, $\\int x^2\\,dx + \\int \\sin x\\,dx = \\frac{x^3}{3} - \\cos x + C$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Linearity of Integration",
+    "familyId": "constant_multiple_property",
+    "questionText": "Evaluate $\\int 5x^3\\,dx$.",
+    "questionLatex": "$$\\int 5x^3\\,dx$$",
+    "options": [
+      "$5x^4+C$",
+      "$\\frac{5x^4}{4}+C$",
+      "$\\frac{x^4}{4}+C$",
+      "$20x^3+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using $k\\int f(x)\\,dx = \\int kf(x)\\,dx$, we get $5 \\cdot \\frac{x^4}{4} + C$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Method of Inspection",
+    "familyId": "inspection_cos2x",
+    "questionText": "Find an anti-derivative of $\\cos 2x$.",
+    "questionLatex": "$$\\int \\cos 2x\\,dx$$",
+    "options": [
+      "$\\frac{1}{2}\\sin 2x+C$",
+      "$\\sin 2x+C$",
+      "$\\frac{1}{2}\\cos 2x+C$",
+      "$-\\frac{1}{2}\\sin 2x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since $\\frac{d}{dx}\\left(\\frac{1}{2}\\sin 2x\\right) = \\cos 2x$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Method of Inspection",
+    "familyId": "inspection_polynomial",
+    "questionText": "Find an anti-derivative of $3x^2 + 4x^3$.",
+    "questionLatex": "$$\\int (3x^2+4x^3)\\,dx$$",
+    "options": [
+      "$x^3+x^4+C$",
+      "$3x^3+4x^4+C$",
+      "$x^2+x^3+C$",
+      "$x^3+4x^4+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since $\\frac{d}{dx}(x^3+x^4) = 3x^2+4x^3$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Basic Integrals",
+    "familyId": "integral_x3_minus1_by_x2",
+    "questionText": "Evaluate $\\int \\frac{x^3-1}{x^2}\\,dx$.",
+    "questionLatex": "$$\\int \\frac{x^3-1}{x^2}\\,dx$$",
+    "options": [
+      "$\\frac{x^2}{2}+\\frac{1}{x}+C$",
+      "$\\frac{x^2}{2}-\\frac{1}{x}+C$",
+      "$x^2+\\frac{1}{x}+C$",
+      "$\\frac{x^3}{3}+\\frac{1}{x}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Rewrite as $\\int (x - x^{-2})\\,dx = \\frac{x^2}{2} - \\frac{x^{-1}}{-1} + C = \\frac{x^2}{2} + \\frac{1}{x} + C$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Basic Integrals",
+    "familyId": "integral_x_power_two_thirds",
+    "questionText": "Evaluate $\\int (x^{2/3}+1)\\,dx$.",
+    "questionLatex": "$$\\int (x^{2/3}+1)\\,dx$$",
+    "options": [
+      "$\\frac{3}{5}x^{5/3}+x+C$",
+      "$\\frac{2}{3}x^{5/3}+x+C$",
+      "$\\frac{3}{5}x^{2/3}+x+C$",
+      "$\\frac{5}{3}x^{5/3}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Apply the power rule $\\int x^n\\,dx = \\frac{x^{n+1}}{n+1}+C$ separately to each term."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Basic Integrals",
+    "familyId": "integral_x_power_three_by_two",
+    "questionText": "Evaluate $\\int \\left(x^{3/2}+2e^x-\\frac{1}{x}\\right)dx$.",
+    "questionLatex": "$$\\int \\left(x^{3/2}+2e^x-\\frac{1}{x}\\right)dx$$",
+    "options": [
+      "$\\frac{2}{5}x^{5/2}+2e^x-\\log|x|+C$",
+      "$\\frac{5}{2}x^{5/2}+2e^x-\\log|x|+C$",
+      "$\\frac{2}{3}x^{3/2}+2e^x+\\log|x|+C$",
+      "$\\frac{2}{5}x^{5/2}+e^x-\\log|x|+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrate each term separately using standard formulas."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Initial Value Problems",
+    "familyId": "antiderivative_initial_condition",
+    "questionText": "Find $F(x)$ if $F'(x)=4x^3-6$ and $F(0)=3$.",
+    "questionLatex": "$$F'(x)=4x^3-6, F(0)=3$$",
+    "options": [
+      "$x^4-6x+3$",
+      "$x^4-6x$",
+      "$4x^3-6x+3$",
+      "$x^4+6x+3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating gives $F(x)=x^4-6x+C$. Using $F(0)=3$ gives $C=3$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Substitution",
+    "familyId": "substitution_cosx",
+    "questionText": "Evaluate ∫cos(3x) dx.",
+    "questionLatex": "$$\\int \\cos(3x)\\,dx$$",
+    "options": [
+      "$\\sin(3x)+C$",
+      "$\\frac{1}{3}\\sin(3x)+C$",
+      "$\\frac{1}{3}\\cos(3x)+C$",
+      "$-\\frac{1}{3}\\sin(3x)+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using substitution t=3x, ∫cos(3x)dx=(1/3)sin(3x)+C."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Substitution",
+    "familyId": "substitution_exponential",
+    "questionText": "Evaluate ∫e^(2x) dx.",
+    "questionLatex": "$$\\int e^{2x}\\,dx$$",
+    "options": [
+      "$\\frac{1}{2}e^{2x}+C$",
+      "$e^{2x}+C$",
+      "$2e^{2x}+C$",
+      "$\\frac{e^x}{2}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let t=2x. Then dt=2dx and ∫e^(2x)dx=(1/2)e^(2x)+C."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Substitution",
+    "familyId": "substitution_one_plus_x_square",
+    "questionText": "Evaluate ∫(2x/(1+x²)) dx.",
+    "questionLatex": "$$\\int \\frac{2x}{1+x^2}\\,dx$$",
+    "options": [
+      "$\\log(1+x^2)+C$",
+      "$\\tan^{-1}x+C$",
+      "$\\frac{1}{1+x^2}+C$",
+      "$x^2+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let t=1+x². Then dt=2x dx, giving ∫dt/t=log|1+x²|+C."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Substitution",
+    "familyId": "substitution_root",
+    "questionText": "Evaluate ∫(x/√(x²+1)) dx.",
+    "questionLatex": "$$\\int \\frac{x}{\\sqrt{x^2+1}}\\,dx$$",
+    "options": [
+      "$\\sqrt{x^2+1}+C$",
+      "$\\log(x^2+1)+C$",
+      "$\\frac{1}{\\sqrt{x^2+1}}+C$",
+      "$x\\sqrt{x^2+1}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let t=x²+1. Then dt=2x dx, and the integral becomes (1/2)∫t^(-1/2)dt = t^(1/2) + C = √(x²+1)+C."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "parts_formula",
+    "questionText": "The formula for integration by parts is",
+    "questionLatex": "$$\\int u\\,dv$$",
+    "options": [
+      "$\\int u\\,dv=uv+\\int v\\,du$",
+      "$\\int u\\,dv=uv-\\int v\\,du$",
+      "$\\int u\\,dv=u+v$",
+      "$\\int u\\,dv=v-u$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Integration by parts is based on ∫u dv = uv − ∫v du."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "integral_xex",
+    "questionText": "Evaluate ∫xeˣ dx.",
+    "questionLatex": "$$\\int xe^x\\,dx$$",
+    "options": [
+      "$xe^x+C$",
+      "$(x-1)e^x+C$",
+      "$(x+1)e^x+C$",
+      "$e^x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using integration by parts with u=x and dv=e^x dx gives xe^x - e^x + C = (x-1)e^x+C."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "integral_xsinx",
+    "questionText": "Evaluate ∫x sin x dx.",
+    "questionLatex": "$$\\int x\\sin x\\,dx$$",
+    "options": [
+      "$-x\\cos x+\\sin x+C$",
+      "$x\\cos x-\\sin x+C$",
+      "$\\sin x-x\\cos x+C$",
+      "$x\\sin x+\\cos x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying integration by parts gives -xcos x - ∫(-cos x) dx = -xcos x + sin x + C."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "integral_logx",
+    "questionText": "Evaluate ∫log x dx.",
+    "questionLatex": "$$\\int \\log x\\,dx$$",
+    "options": [
+      "$x\\log x-x+C$",
+      "$\\log^2x+C$",
+      "$\\frac{x^2}{2}\\log x+C$",
+      "$x\\log x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using integration by parts with u=log x and dv=dx gives xlog x - ∫(1/x)*x dx = xlog x - x + C."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Special Integrals",
+    "familyId": "integral_tanx",
+    "questionText": "Evaluate ∫tan x dx.",
+    "questionLatex": "$$\\int \\tan x\\,dx$$",
+    "options": [
+      "$\\log|\\sec x|+C$",
+      "$\\sec x+C$",
+      "$\\tan x+C$",
+      "$-\\log|\\cos x|+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since tan x = sin x / cos x, let cos x = t, then -sin x dx = dt. Thus, ∫-(1/t)dt = -log|t|+C = -log|cos x|+C = log|sec x|+C. Note: Option 3 is also correct mathematically, but log|sec x| is the standard form."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Special Integrals",
+    "familyId": "integral_cotx",
+    "questionText": "Evaluate ∫cot x dx.",
+    "questionLatex": "$$\\int \\cot x\\,dx$$",
+    "options": [
+      "$\\log|\\sin x|+C$",
+      "$\\tan x+C$",
+      "$-\\log|\\sin x|+C$",
+      "$\\sec x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since cot x = cos x / sin x, let sin x = t, then cos x dx = dt. Thus, ∫(1/t)dt = log|sin x|+C."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Trigonometric Integrals",
+    "familyId": "integral_secx_tanx",
+    "questionText": "Evaluate $\\int \\sec x \\tan x \\, dx$.",
+    "questionLatex": "$$\\int \\sec x \\tan x \\, dx$$",
+    "options": [
+      "$\\tan x + C$",
+      "$\\sec x + C$",
+      "$\\csc x + C$",
+      "$\\log|\\sec x| + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $\\frac{d}{dx}(\\sec x) = \\sec x \\tan x$, the integral is $\\sec x + C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Trigonometric Integrals",
+    "familyId": "integral_cosecx_cotx",
+    "questionText": "Evaluate $\\int \\csc x \\cot x \\, dx$.",
+    "questionLatex": "$$\\int \\csc x \\cot x \\, dx$$",
+    "options": [
+      "$\\csc x + C$",
+      "$-\\csc x + C$",
+      "$\\cot x + C$",
+      "$-\\cot x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $\\frac{d}{dx}(\\csc x) = -\\csc x \\cot x$, the integral is $-\\csc x + C$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Partial Fractions",
+    "familyId": "partial_fraction_simple",
+    "questionText": "Evaluate $\\int \\frac{dx}{(x+1)(x+2)}$.",
+    "questionLatex": "$$\\int \\frac{dx}{(x+1)(x+2)}$$",
+    "options": [
+      "$\\log\\left|\\frac{x+1}{x+2}\\right| + C$",
+      "$\\log|(x+1)(x+2)| + C$",
+      "$\\frac{1}{x+1} + C$",
+      "$\\frac{1}{x+2} + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using partial fractions: $\\frac{1}{(x+1)(x+2)} = \\frac{1}{x+1} - \\frac{1}{x+2}$. Integrating gives $\\log|x+1| - \\log|x+2| + C = \\log\\left|\\frac{x+1}{x+2}\\right| + C$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Partial Fractions",
+    "familyId": "partial_fraction_repeated_factor",
+    "questionText": "Evaluate $\\int \\frac{dx}{x(x+1)}$.",
+    "questionLatex": "$$\\int \\frac{dx}{x(x+1)}$$",
+    "options": [
+      "$\\log\\left|\\frac{x}{x+1}\\right| + C$",
+      "$\\log|x(x+1)| + C$",
+      "$\\frac{1}{x} + C$",
+      "$\\frac{1}{x+1} + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using partial fractions: $\\frac{1}{x(x+1)} = \\frac{1}{x} - \\frac{1}{x+1}$. Integrating gives $\\log|x| - \\log|x+1| + C = \\log\\left|\\frac{x}{x+1}\\right| + C$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Partial Fractions",
+    "familyId": "integral_quadratic_factor",
+    "questionText": "Evaluate $\\int \\frac{x}{x^2+1} \\, dx$.",
+    "questionLatex": "$$\\int \\frac{x}{x^2+1} \\, dx$$",
+    "options": [
+      "$\\frac{1}{2}\\log(x^2+1) + C$",
+      "$\\tan^{-1}x + C$",
+      "$\\log(x^2+1) + C$",
+      "$\\frac{x^2}{2} + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let $t = x^2+1$. Then $dt = 2x \\, dx$. The integral becomes $\\frac{1}{2} \\int \\frac{dt}{t} = \\frac{1}{2}\\log|t| + C = \\frac{1}{2}\\log(x^2+1) + C$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integrals of Special Forms",
+    "familyId": "integral_one_by_root_a2_minus_x2",
+    "questionText": "Evaluate $\\int \\frac{dx}{\\sqrt{1-x^2}}$.",
+    "questionLatex": "$$\\int \\frac{dx}{\\sqrt{1-x^2}}$$",
+    "options": [
+      "$\\tan^{-1}x + C$",
+      "$\\sin^{-1}x + C$",
+      "$\\cos^{-1}x + C$",
+      "$\\log|x| + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "This is a standard integral: $\\int \\frac{dx}{\\sqrt{a^2-x^2}} = \\sin^{-1}(\\frac{x}{a}) + C$. For $a=1$, it is $\\sin^{-1}x + C$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integrals of Special Forms",
+    "familyId": "integral_one_by_a2_plus_x2",
+    "questionText": "Evaluate $\\int \\frac{dx}{4+x^2}$.",
+    "questionLatex": "$$\\int \\frac{dx}{4+x^2}$$",
+    "options": [
+      "$\\frac{1}{2}\\tan^{-1}\\left(\\frac{x}{2}\\right) + C$",
+      "$\\tan^{-1}x + C$",
+      "$\\frac{1}{4}\\tan^{-1}x + C$",
+      "$\\log(4+x^2) + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using $\\int \\frac{dx}{a^2+x^2} = \\frac{1}{a}\\tan^{-1}(\\frac{x}{a}) + C$ with $a=2$, we get $\\frac{1}{2}\\tan^{-1}(\\frac{x}{2}) + C$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integrals of Special Forms",
+    "familyId": "integral_one_by_root_x2_plus_a2",
+    "questionText": "Evaluate $\\int \\frac{dx}{\\sqrt{x^2+1}}$.",
+    "questionLatex": "$$\\int \\frac{dx}{\\sqrt{x^2+1}}$$",
+    "options": [
+      "$\\log|x+\\sqrt{x^2+1}| + C$",
+      "$\\sin^{-1}x + C$",
+      "$\\tan^{-1}x + C$",
+      "$\\sqrt{x^2+1} + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A standard result is $\\int \\frac{dx}{\\sqrt{x^2+a^2}} = \\log|x+\\sqrt{x^2+a^2}| + C$. For $a=1$, this is $\\log|x+\\sqrt{x^2+1}| + C$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Properties of Integrals",
+    "familyId": "integral_equivalent_forms",
+    "questionText": "If $F(x)$ is an anti-derivative of $f(x)$, then all anti-derivatives of $f(x)$ are of the form",
+    "questionLatex": "$$F(x)+C$$",
+    "options": [
+      "$F(x)$",
+      "$F(x)+C$",
+      "$CF(x)$",
+      "$F'(x)+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Any two anti-derivatives of the same function differ by a constant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Mixed Integrals",
+    "familyId": "integral_polynomial_trigonometric",
+    "questionText": "Evaluate $\\int (2x + \\cos x) \\, dx$.",
+    "questionLatex": "$$\\int (2x+\\cos x) \\, dx$$",
+    "options": [
+      "$x^2+\\sin x + C$",
+      "$2x^2+\\sin x + C$",
+      "$x^2-\\sin x + C$",
+      "$x+\\sin x + C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrating term by term gives $\\int 2x \\, dx + \\int \\cos x \\, dx = x^2 + \\sin x + C$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Partial Fractions",
+    "familyId": "partial_fraction_quadratic_linear",
+    "questionText": "Evaluate ∫(2x+3)/(x²+3x+2) dx.",
+    "questionLatex": "$$\\int \\frac{2x+3}{x^2+3x+2}\\,dx$$",
+    "options": [
+      "$\\log|x^2+3x+2|+C$",
+      "$\\frac{1}{x+1}+C$",
+      "$\\tan^{-1}x+C$",
+      "$\\frac{x^2}{2}+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since the numerator is the derivative of the denominator, the integral equals log|x²+3x+2|+C."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "integral_xcosx",
+    "questionText": "Evaluate ∫x cos x dx.",
+    "questionLatex": "$$\\int x\\cos x\\,dx$$",
+    "options": [
+      "$x\\sin x+\\cos x+C$",
+      "$x\\sin x-\\cos x+C$",
+      "$\\sin x+\\cos x+C$",
+      "$x\\cos x+\\sin x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using integration by parts, ∫x cos x dx = x sin x + cos x + C."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Integration by Parts",
+    "familyId": "integral_x2ex",
+    "questionText": "Evaluate ∫x²eˣ dx.",
+    "questionLatex": "$$\\int x^2e^x\\,dx$$",
+    "options": [
+      "$e^x(x^2-2x+2)+C$",
+      "$e^x(x^2+2x+2)+C$",
+      "$x^2e^x+C$",
+      "$e^x(x^2-2)+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying integration by parts twice gives e^x(x²−2x+2)+C."
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Special Integrals",
+    "familyId": "integral_secx",
+    "questionText": "Evaluate ∫sec x dx.",
+    "questionLatex": "$$\\int \\sec x\\,dx$$",
+    "options": [
+      "$\\log|\\sec x+\\tan x|+C$",
+      "$\\tan x+C$",
+      "$\\sec x\\tan x+C$",
+      "$\\log|\\cos x|+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A standard result is ∫sec x dx = log|sec x + tan x| + C."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Special Integrals",
+    "familyId": "integral_cosecx",
+    "questionText": "Evaluate ∫cosec x dx.",
+    "questionLatex": "$$\\int \\csc x\\,dx$$",
+    "options": [
+      "$\\log|\\csc x-\\cot x|+C$",
+      "$\\log|\\sin x|+C$",
+      "$\\csc x+C$",
+      "$-\\cot x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A standard result is ∫cosec x dx = log|cosec x − cot x| + C."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Substitution Method",
+    "familyId": "integral_sinx_cosx",
+    "questionText": "Evaluate ∫sin x cos x dx.",
+    "questionLatex": "$$\\int \\sin x\\cos x\\,dx$$",
+    "options": [
+      "$\\frac{1}{2}\\sin^2x+C$",
+      "$\\sin^2x+C$",
+      "$-\\frac{1}{2}\\cos^2x+C$",
+      "$\\tan x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Let t = sin x. Then dt = cos x dx and the integral becomes ∫t dt."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Special Integrals",
+    "familyId": "integral_inverse_trig",
+    "questionText": "Evaluate ∫dx/(1−x²).",
+    "questionLatex": "$$\\int \\frac{dx}{1-x^2}$$",
+    "options": [
+      "$\\frac{1}{2}\\log\\left|\\frac{1+x}{1-x}\\right|+C$",
+      "$\\tan^{-1}x+C$",
+      "$\\sin^{-1}x+C$",
+      "$\\log|1-x^2|+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using partial fractions, 1/(1−x²) = 1/2[(1/(1+x)) + (1/(1−x))]."
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Verification of Integrals",
+    "familyId": "verify_antiderivative",
+    "questionText": "If F(x)=x³−3x+7, then F'(x) is",
+    "questionLatex": "$$F(x)=x^3-3x+7$$",
+    "options": [
+      "$3x^2−3$",
+      "$x^2−3$",
+      "$3x^2+7$",
+      "$x^3−3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Differentiating F(x) gives F'(x)=3x²−3."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Mixed Integrals",
+    "familyId": "integral_mixed_expression",
+    "questionText": "Evaluate ∫(eˣ + 1/x + sec²x) dx.",
+    "questionLatex": "$$\\int \\left(e^x+\\frac{1}{x}+\\sec^2x\\right)dx$$",
+    "options": [
+      "$e^x+\\log|x|+\\tan x+C$",
+      "$e^x+\\log|x|+\\sec x+C$",
+      "$e^x+\\tan^{-1}x+\\tan x+C$",
+      "$e^x+\\log|x|+x+C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Integrate each term separately using standard formulas."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Integrals",
+    "topic": "Properties of Integrals",
+    "familyId": "family_of_antiderivatives",
+    "questionText": "If two anti-derivatives of the same function are F(x) and G(x), then F(x)−G(x) is",
+    "questionLatex": "$$F'(x)=G'(x)$$",
+    "options": [
+      "A variable function",
+      "Zero only",
+      "A constant",
+      "Equal to x"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Any two anti-derivatives of the same function differ by a constant."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

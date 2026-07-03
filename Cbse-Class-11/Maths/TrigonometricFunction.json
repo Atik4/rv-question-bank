@@ -1,0 +1,1746 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Angles",
+    "familyId": "angle_measure_definition",
+    "questionText": "The measure of an angle represents:",
+    "questionLatex": "\\text{Measure of an angle}",
+    "options": [
+      {
+        "text": "Length of the ray",
+        "latex": "\\text{Length of the ray}"
+      },
+      {
+        "text": "Amount of rotation from initial side to terminal side",
+        "latex": "\\text{Amount of rotation from initial side to terminal side}"
+      },
+      {
+        "text": "Distance between two points",
+        "latex": "\\text{Distance between two points}"
+      },
+      {
+        "text": "Radius of a circle",
+        "latex": "\\text{Radius of a circle}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Amount of rotation from initial side to terminal side",
+      "latex": "\\text{Amount of rotation from initial side to terminal side}",
+      "explanation": "An angle measures the amount of rotation of a ray about its initial point."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Angles",
+    "familyId": "positive_angle",
+    "questionText": "An angle is said to be positive when the rotation is:",
+    "questionLatex": "\\text{Positive angle}",
+    "options": [
+      {
+        "text": "Clockwise",
+        "latex": "\\text{Clockwise}"
+      },
+      {
+        "text": "Anticlockwise",
+        "latex": "\\text{Anticlockwise}"
+      },
+      {
+        "text": "Horizontal",
+        "latex": "\\text{Horizontal}"
+      },
+      {
+        "text": "Vertical",
+        "latex": "\\text{Vertical}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Anticlockwise",
+      "latex": "\\text{Anticlockwise}",
+      "explanation": "Anticlockwise rotation gives a positive angle."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Angles",
+    "familyId": "negative_angle",
+    "questionText": "An angle is said to be negative when the rotation is:",
+    "questionLatex": "\\text{Negative angle}",
+    "options": [
+      {
+        "text": "Anticlockwise",
+        "latex": "\\text{Anticlockwise}"
+      },
+      {
+        "text": "Clockwise",
+        "latex": "\\text{Clockwise}"
+      },
+      {
+        "text": "Horizontal",
+        "latex": "\\text{Horizontal}"
+      },
+      {
+        "text": "Complete revolution",
+        "latex": "\\text{Complete revolution}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Clockwise",
+      "latex": "\\text{Clockwise}",
+      "explanation": "Clockwise rotation gives a negative angle."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree Measure",
+    "familyId": "degree_minute_second",
+    "questionText": "How many minutes are there in 1 degree?",
+    "questionLatex": "1^\\circ = \\text{?}",
+    "options": [
+      {
+        "text": "60′",
+        "latex": "60'"
+      },
+      {
+        "text": "100′",
+        "latex": "100'"
+      },
+      {
+        "text": "360′",
+        "latex": "360'"
+      },
+      {
+        "text": "30′",
+        "latex": "30'"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "60′",
+      "latex": "60'",
+      "explanation": "1° = 60′."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree Measure",
+    "familyId": "minute_second",
+    "questionText": "How many seconds are there in 1 minute?",
+    "questionLatex": "1' = \\text{?}",
+    "options": [
+      {
+        "text": "100″",
+        "latex": "100''"
+      },
+      {
+        "text": "30″",
+        "latex": "30''"
+      },
+      {
+        "text": "60″",
+        "latex": "60''"
+      },
+      {
+        "text": "360″",
+        "latex": "360''"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "60″",
+      "latex": "60''",
+      "explanation": "1 minute = 60 seconds."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Radian Measure",
+    "familyId": "radian_definition",
+    "questionText": "One radian is the angle subtended at the centre of a unit circle by an arc of length:",
+    "questionLatex": "\\text{Definition of radian}",
+    "options": [
+      {
+        "text": "π units",
+        "latex": "\\pi \\text{ units}"
+      },
+      {
+        "text": "2 units",
+        "latex": "2 \\text{ units}"
+      },
+      {
+        "text": "1 unit",
+        "latex": "1 \\text{ unit}"
+      },
+      {
+        "text": "1/2 unit",
+        "latex": "1/2 \\text{ unit}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1 unit",
+      "latex": "1 \\text{ unit}",
+      "explanation": "An arc of length 1 unit in a unit circle subtends an angle of 1 radian."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Radian Measure",
+    "familyId": "circumference_unit_circle",
+    "questionText": "The angle subtended by one complete revolution in radian measure is:",
+    "questionLatex": "\\text{One complete revolution}",
+    "options": [
+      {
+        "text": "π",
+        "latex": "\\pi"
+      },
+      {
+        "text": "π/2",
+        "latex": "\\frac{\\pi}{2}"
+      },
+      {
+        "text": "2π",
+        "latex": "2\\pi"
+      },
+      {
+        "text": "4π",
+        "latex": "4\\pi"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "2π",
+      "latex": "2\\pi",
+      "explanation": "One complete revolution corresponds to 2π radians."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Arc Length",
+    "familyId": "arc_length_formula",
+    "questionText": "If an arc of length l subtends an angle θ radians at the centre of a circle of radius r, then:",
+    "questionLatex": "l = \\text{?}",
+    "options": [
+      {
+        "text": "l = r + θ",
+        "latex": "l = r + \\theta"
+      },
+      {
+        "text": "l = rθ",
+        "latex": "l = r \\theta"
+      },
+      {
+        "text": "l = r/θ",
+        "latex": "l = \\frac{r}{\\theta}"
+      },
+      {
+        "text": "l = θ − r",
+        "latex": "l = \\theta - r"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "l = rθ",
+      "latex": "l = r \\theta",
+      "explanation": "Arc length is given by l = rθ."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Arc Length",
+    "familyId": "find_arc_length",
+    "questionText": "Find the length of an arc subtending an angle of 2 radians in a circle of radius 5 cm.",
+    "questionLatex": "r = 5, \\; \\theta = 2",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "10",
+      "latex": "10",
+      "value": 10
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "degree_to_radian_30",
+    "questionText": "Convert 30° into radian measure.",
+    "questionLatex": "30^\\circ",
+    "options": [
+      {
+        "text": "π/2",
+        "latex": "\\frac{\\pi}{2}"
+      },
+      {
+        "text": "π/6",
+        "latex": "\\frac{\\pi}{6}"
+      },
+      {
+        "text": "π/3",
+        "latex": "\\frac{\\pi}{3}"
+      },
+      {
+        "text": "π",
+        "latex": "\\pi"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "π/6",
+      "latex": "\\frac{\\pi}{6}",
+      "explanation": "30° = π/6 radians."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "degree_to_radian_45",
+    "questionText": "Convert 45° into radian measure.",
+    "questionLatex": "45^\\circ",
+    "options": [
+      {
+        "text": "π/3",
+        "latex": "\\frac{\\pi}{3}"
+      },
+      {
+        "text": "π/6",
+        "latex": "\\frac{\\pi}{6}"
+      },
+      {
+        "text": "π/4",
+        "latex": "\\frac{\\pi}{4}"
+      },
+      {
+        "text": "3π/4",
+        "latex": "\\frac{3\\pi}{4}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "π/4",
+      "latex": "\\frac{\\pi}{4}",
+      "explanation": "45° = π/4 radians."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "degree_to_radian_60",
+    "questionText": "Convert 60° into radian measure.",
+    "questionLatex": "60^\\circ",
+    "options": [
+      {
+        "text": "π/2",
+        "latex": "\\frac{\\pi}{2}"
+      },
+      {
+        "text": "π/3",
+        "latex": "\\frac{\\pi}{3}"
+      },
+      {
+        "text": "π/6",
+        "latex": "\\frac{\\pi}{6}"
+      },
+      {
+        "text": "π",
+        "latex": "\\pi"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "π/3",
+      "latex": "\\frac{\\pi}{3}",
+      "explanation": "60° = π/3 radians."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "radian_to_degree_pi",
+    "questionText": "Convert π radians into degree measure.",
+    "questionLatex": "\\pi",
+    "options": [
+      {
+        "text": "90°",
+        "latex": "90^\\circ"
+      },
+      {
+        "text": "180°",
+        "latex": "180^\\circ"
+      },
+      {
+        "text": "270°",
+        "latex": "270^\\circ"
+      },
+      {
+        "text": "360°",
+        "latex": "360^\\circ"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "180°",
+      "latex": "180^\\circ",
+      "explanation": "π radians = 180°."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "convert_240_degree",
+    "questionText": "Convert 240° into radian measure.",
+    "questionLatex": "240^\\circ",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "4π/3",
+      "latex": "\\frac{4\\pi}{3}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "convert_520_degree",
+    "questionText": "Convert 520° into radian measure.",
+    "questionLatex": "520^\\circ",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "26π/9",
+      "latex": "\\frac{26\\pi}{9}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Degree-Radian Conversion",
+    "familyId": "convert_radian_degree",
+    "questionText": "Convert 5π/3 radians into degrees.",
+    "questionLatex": "\\frac{5\\pi}{3}",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "300",
+      "latex": "300^\\circ",
+      "value": 300
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Arc Length",
+    "familyId": "radius_from_arc",
+    "questionText": "Find the radius of a circle if an arc of length 37.4 cm subtends an angle of 60° at the centre. Use π = 22/7.",
+    "questionLatex": "l = 37.4 \\text{ cm}, \\; \\theta = 60^\\circ",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "35.7",
+      "latex": "35.7",
+      "value": 35.7
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Arc Length",
+    "familyId": "minute_hand_distance",
+    "questionText": "The minute hand of a watch is 1.5 cm long. How far does its tip move in 40 minutes? Use π = 3.14.",
+    "questionLatex": "r = 1.5 \\text{ cm}",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "6.28",
+      "latex": "6.28",
+      "value": 6.28
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Arc Length",
+    "familyId": "ratio_of_radii",
+    "questionText": "If arcs of equal length in two circles subtend angles 65° and 110° at the centre, find the ratio of their radii.",
+    "questionLatex": "\\theta_1 = 65^\\circ, \\; \\theta_2 = 110^\\circ",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "22:13",
+      "latex": "22:13"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Ratios",
+    "familyId": "sin_theta_definition",
+    "questionText": "In a right triangle, sin θ is equal to:",
+    "questionLatex": "\\sin \\theta",
+    "options": [
+      {
+        "text": "Adjacent side / Hypotenuse",
+        "latex": "\\text{Adjacent side / Hypotenuse}"
+      },
+      {
+        "text": "Opposite side / Adjacent side",
+        "latex": "\\text{Opposite side / Adjacent side}"
+      },
+      {
+        "text": "Opposite side / Hypotenuse",
+        "latex": "\\text{Opposite side / Hypotenuse}"
+      },
+      {
+        "text": "Hypotenuse / Opposite side",
+        "latex": "\\text{Hypotenuse / Opposite side}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Opposite side / Hypotenuse",
+      "latex": "\\text{Opposite side / Hypotenuse}",
+      "explanation": "sin θ = Opposite side / Hypotenuse."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Ratios",
+    "familyId": "cos_theta_definition",
+    "questionText": "In a right triangle, cos θ is equal to:",
+    "questionLatex": "\\cos \\theta",
+    "options": [
+      {
+        "text": "Adjacent side / Hypotenuse",
+        "latex": "\\text{Adjacent side / Hypotenuse}"
+      },
+      {
+        "text": "Opposite side / Hypotenuse",
+        "latex": "\\text{Opposite side / Hypotenuse}"
+      },
+      {
+        "text": "Opposite side / Adjacent side",
+        "latex": "\\text{Opposite side / Adjacent side}"
+      },
+      {
+        "text": "Hypotenuse / Adjacent side",
+        "latex": "\\text{Hypotenuse / Adjacent side}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Adjacent side / Hypotenuse",
+      "latex": "\\text{Adjacent side / Hypotenuse}",
+      "explanation": "cos θ = Adjacent side / Hypotenuse."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Ratios",
+    "familyId": "tan_theta_definition",
+    "questionText": "In a right triangle, tan θ is equal to:",
+    "questionLatex": "\\tan \\theta",
+    "options": [
+      {
+        "text": "Opposite side / Adjacent side",
+        "latex": "\\text{Opposite side / Adjacent side}"
+      },
+      {
+        "text": "Adjacent side / Opposite side",
+        "latex": "\\text{Adjacent side / Opposite side}"
+      },
+      {
+        "text": "Hypotenuse / Opposite side",
+        "latex": "\\text{Hypotenuse / Opposite side}"
+      },
+      {
+        "text": "Adjacent side / Hypotenuse",
+        "latex": "\\text{Adjacent side / Hypotenuse}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Opposite side / Adjacent side",
+      "latex": "\\text{Opposite side / Adjacent side}",
+      "explanation": "tan θ = Opposite side / Adjacent side."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "reciprocal_relation_sec",
+    "questionText": "sec θ is the reciprocal of:",
+    "questionLatex": "\\sec \\theta",
+    "options": [
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "tan θ",
+        "latex": "\\tan \\theta"
+      },
+      {
+        "text": "cot θ",
+        "latex": "\\cot \\theta"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "cos θ",
+      "latex": "\\cos \\theta",
+      "explanation": "sec θ = 1/cos θ."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "reciprocal_relation_cosec",
+    "questionText": "cosec θ is the reciprocal of:",
+    "questionLatex": "\\csc \\theta",
+    "options": [
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "tan θ",
+        "latex": "\\tan \\theta"
+      },
+      {
+        "text": "sec θ",
+        "latex": "\\sec \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sin θ",
+      "latex": "\\sin \\theta",
+      "explanation": "cosec θ = 1/sin θ."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Unit Circle",
+    "familyId": "coordinates_unit_circle",
+    "questionText": "If a point P on the unit circle corresponds to an angle θ, then the coordinates of P are:",
+    "questionLatex": "P(?,?)",
+    "options": [
+      {
+        "text": "(sin θ, cos θ)",
+        "latex": "(\\sin \\theta, \\cos \\theta)"
+      },
+      {
+        "text": "(tan θ, sec θ)",
+        "latex": "(\\tan \\theta, \\sec \\theta)"
+      },
+      {
+        "text": "(cos θ, sin θ)",
+        "latex": "(\\cos \\theta, \\sin \\theta)"
+      },
+      {
+        "text": "(sec θ, tan θ)",
+        "latex": "(\\sec \\theta, \\tan \\theta)"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "(cos θ, sin θ)",
+      "latex": "(\\cos \\theta, \\sin \\theta)",
+      "explanation": "Coordinates on the unit circle are (cos θ, sin θ)."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "sin_zero",
+    "questionText": "Find the value of sin 0°.",
+    "questionLatex": "\\sin 0^\\circ",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "1/2",
+        "latex": "\\frac{1}{2}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0",
+      "latex": "0",
+      "explanation": "sin 0° = 0."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "cos_zero",
+    "questionText": "Find the value of cos 0°.",
+    "questionLatex": "\\cos 0^\\circ",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "1/2",
+        "latex": "\\frac{1}{2}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1",
+      "explanation": "cos 0° = 1."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "sin_pi_by_2",
+    "questionText": "Find the value of sin(π/2).",
+    "questionLatex": "\\sin\\left(\\frac{\\pi}{2}\\right)",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "1/2",
+        "latex": "\\frac{1}{2}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1",
+      "explanation": "sin(π/2) = 1."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "cos_pi",
+    "questionText": "Find the value of cos π.",
+    "questionLatex": "\\cos \\pi",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "1/2",
+        "latex": "\\frac{1}{2}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1",
+      "explanation": "cos π = -1."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "tan_zero",
+    "questionText": "Find the value of tan 0°.",
+    "questionLatex": "\\tan 0^\\circ",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "Not Defined",
+        "latex": "\\text{Not Defined}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0",
+      "latex": "0",
+      "explanation": "tan 0° = 0."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "tan_pi_by_4",
+    "questionText": "Find the value of tan(π/4).",
+    "questionLatex": "\\tan\\left(\\frac{\\pi}{4}\\right)",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "√3",
+        "latex": "\\sqrt{3}"
+      },
+      {
+        "text": "Not Defined",
+        "latex": "\\text{Not Defined}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1",
+      "explanation": "tan(π/4) = 1."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Signs of Trigonometric Functions",
+    "familyId": "signs_first_quadrant",
+    "questionText": "In the first quadrant, which trigonometric functions are positive?",
+    "questionLatex": "\\text{First Quadrant}",
+    "options": [
+      {
+        "text": "Only sin and cos",
+        "latex": "\\text{Only } \\sin \\text{ and } \\cos"
+      },
+      {
+        "text": "Only tan",
+        "latex": "\\text{Only } \\tan"
+      },
+      {
+        "text": "All trigonometric functions",
+        "latex": "\\text{All trigonometric functions}"
+      },
+      {
+        "text": "Only sec and cosec",
+        "latex": "\\text{Only } \\sec \\text{ and } \\csc"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "All trigonometric functions",
+      "latex": "\\text{All trigonometric functions}",
+      "explanation": "All trigonometric functions are positive in the first quadrant."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Signs of Trigonometric Functions",
+    "familyId": "signs_second_quadrant",
+    "questionText": "Which trigonometric functions are positive in the second quadrant?",
+    "questionLatex": "\\text{Second Quadrant}",
+    "options": [
+      {
+        "text": "sin θ and cosec θ",
+        "latex": "\\sin \\theta \\text{ and } \\csc \\theta"
+      },
+      {
+        "text": "cos θ and sec θ",
+        "latex": "\\cos \\theta \\text{ and } \\sec \\theta"
+      },
+      {
+        "text": "tan θ and cot θ",
+        "latex": "\\tan \\theta \\text{ and } \\cot \\theta"
+      },
+      {
+        "text": "All functions",
+        "latex": "\\text{All functions}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sin θ and cosec θ",
+      "latex": "\\sin \\theta \\text{ and } \\csc \\theta",
+      "explanation": "Only sine and cosecant are positive in the second quadrant."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Signs of Trigonometric Functions",
+    "familyId": "signs_third_quadrant",
+    "questionText": "Which trigonometric functions are positive in the third quadrant?",
+    "questionLatex": "\\text{Third Quadrant}",
+    "options": [
+      {
+        "text": "sin θ and cosec θ",
+        "latex": "\\sin \\theta \\text{ and } \\csc \\theta"
+      },
+      {
+        "text": "cos θ and sec θ",
+        "latex": "\\cos \\theta \\text{ and } \\sec \\theta"
+      },
+      {
+        "text": "tan θ and cot θ",
+        "latex": "\\tan \\theta \\text{ and } \\cot \\theta"
+      },
+      {
+        "text": "All functions",
+        "latex": "\\text{All functions}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "tan θ and cot θ",
+      "latex": "\\tan \\theta \\text{ and } \\cot \\theta",
+      "explanation": "Only tangent and cotangent are positive in the third quadrant."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Signs of Trigonometric Functions",
+    "familyId": "signs_fourth_quadrant",
+    "questionText": "Which trigonometric functions are positive in the fourth quadrant?",
+    "questionLatex": "\\text{Fourth Quadrant}",
+    "options": [
+      {
+        "text": "sin θ and cosec θ",
+        "latex": "\\sin \\theta \\text{ and } \\csc \\theta"
+      },
+      {
+        "text": "cos θ and sec θ",
+        "latex": "\\cos \\theta \\text{ and } \\sec \\theta"
+      },
+      {
+        "text": "tan θ and cot θ",
+        "latex": "\\tan \\theta \\text{ and } \\cot \\theta"
+      },
+      {
+        "text": "All functions",
+        "latex": "\\text{All functions}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "cos θ and sec θ",
+      "latex": "\\cos \\theta \\text{ and } \\sec \\theta",
+      "explanation": "Only cosine and secant are positive in the fourth quadrant."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "sin_negative_theta",
+    "questionText": "Evaluate sin(-θ).",
+    "questionLatex": "\\sin(-\\theta)",
+    "options": [
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "-sin θ",
+        "latex": "-\\sin \\theta"
+      },
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "-cos θ",
+        "latex": "-\\cos \\theta"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-sin θ",
+      "latex": "-\\sin \\theta",
+      "explanation": "Sine is an odd function."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Functions",
+    "familyId": "cos_negative_theta",
+    "questionText": "Evaluate cos(-θ).",
+    "questionLatex": "\\cos(-\\theta)",
+    "options": [
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "-cos θ",
+        "latex": "-\\cos \\theta"
+      },
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "-sin θ",
+        "latex": "-\\sin \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "cos θ",
+      "latex": "\\cos \\theta",
+      "explanation": "Cosine is an even function."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "pythagorean_identity",
+    "questionText": "Which of the following is a fundamental trigonometric identity?",
+    "questionLatex": "\\text{Fundamental Identity}",
+    "options": [
+      {
+        "text": "sin²θ + cos²θ = 1",
+        "latex": "\\sin^2 \\theta + \\cos^2 \\theta = 1"
+      },
+      {
+        "text": "sin θ + cos θ = 1",
+        "latex": "\\sin \\theta + \\cos \\theta = 1"
+      },
+      {
+        "text": "tan θ + cot θ = 1",
+        "latex": "\\tan \\theta + \\cot \\theta = 1"
+      },
+      {
+        "text": "sec θ + csc θ = 1",
+        "latex": "\\sec \\theta + \\csc \\theta = 1"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sin²θ + cos²θ = 1",
+      "latex": "\\sin^2 \\theta + \\cos^2 \\theta = 1",
+      "explanation": "This is the basic Pythagorean identity."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "identity_application",
+    "questionText": "If sin θ = 3/5 and θ is acute, find cos θ.",
+    "questionLatex": "\\sin \\theta = \\frac{3}{5}",
+    "options": [
+      {
+        "text": "4/5",
+        "latex": "\\frac{4}{5}"
+      },
+      {
+        "text": "3/4",
+        "latex": "\\frac{3}{4}"
+      },
+      {
+        "text": "5/4",
+        "latex": "\\frac{5}{4}"
+      },
+      {
+        "text": "2/5",
+        "latex": "\\frac{2}{5}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "4/5",
+      "latex": "\\frac{4}{5}",
+      "explanation": "Using sin²θ + cos²θ = 1, cos θ = 4/5."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "tan_sec_identity",
+    "questionText": "Which of the following identities is correct?",
+    "questionLatex": "\\text{Choose the correct identity}",
+    "options": [
+      {
+        "text": "1 + tan²θ = sec²θ",
+        "latex": "1 + \\tan^2 \\theta = \\sec^2 \\theta"
+      },
+      {
+        "text": "1 + sec²θ = tan²θ",
+        "latex": "1 + \\sec^2 \\theta = \\tan^2 \\theta"
+      },
+      {
+        "text": "tan²θ = 1 + sec²θ",
+        "latex": "\\tan^2 \\theta = 1 + \\sec^2 \\theta"
+      },
+      {
+        "text": "sec²θ = 1 − tan²θ",
+        "latex": "\\sec^2 \\theta = 1 - \\tan^2 \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1 + tan²θ = sec²θ",
+      "latex": "1 + \\tan^2 \\theta = \\sec^2 \\theta",
+      "explanation": "The identity is 1 + tan²θ = sec²θ."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "cot_cosec_identity",
+    "questionText": "Which of the following identities is correct?",
+    "questionLatex": "\\text{Choose the correct identity}",
+    "options": [
+      {
+        "text": "1 + cot²θ = cosec²θ",
+        "latex": "1 + \\cot^2 \\theta = \\csc^2 \\theta"
+      },
+      {
+        "text": "1 + cosec²θ = cot²θ",
+        "latex": "1 + \\csc^2 \\theta = \\cot^2 \\theta"
+      },
+      {
+        "text": "cot²θ = 1 + cosec²θ",
+        "latex": "\\cot^2 \\theta = 1 + \\csc^2 \\theta"
+      },
+      {
+        "text": "cosec²θ = 1 − cot²θ",
+        "latex": "\\csc^2 \\theta = 1 - \\cot^2 \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1 + cot²θ = cosec²θ",
+      "latex": "1 + \\cot^2 \\theta = \\csc^2 \\theta",
+      "explanation": "The identity is 1 + cot²θ = cosec²θ."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "find_sec_from_tan",
+    "questionText": "If tan θ = 3/4 and θ is acute, find sec θ.",
+    "questionLatex": "\\tan \\theta = \\frac{3}{4}",
+    "options": [
+      {
+        "text": "5/4",
+        "latex": "\\frac{5}{4}"
+      },
+      {
+        "text": "4/5",
+        "latex": "\\frac{4}{5}"
+      },
+      {
+        "text": "3/5",
+        "latex": "\\frac{3}{5}"
+      },
+      {
+        "text": "5/3",
+        "latex": "\\frac{5}{3}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "5/4",
+      "latex": "\\frac{5}{4}",
+      "explanation": "Using sec²θ = 1 + tan²θ, sec θ = 5/4."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Trigonometric Identities",
+    "familyId": "find_cosec_from_cot",
+    "questionText": "If cot θ = 8/15 and θ is acute, find cosec θ.",
+    "questionLatex": "\\cot \\theta = \\frac{8}{15}",
+    "options": [
+      {
+        "text": "17/15",
+        "latex": "\\frac{17}{15}"
+      },
+      {
+        "text": "15/17",
+        "latex": "\\frac{15}{17}"
+      },
+      {
+        "text": "8/17",
+        "latex": "\\frac{8}{17}"
+      },
+      {
+        "text": "17/8",
+        "latex": "\\frac{17}{8}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "17/15",
+      "latex": "\\frac{17}{15}",
+      "explanation": "Using cosec²θ = 1 + cot²θ, cosec θ = 17/15."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Allied Angles",
+    "familyId": "sin_pi_minus_theta",
+    "questionText": "Evaluate sin(π − θ).",
+    "questionLatex": "\\sin(\\pi - \\theta)",
+    "options": [
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "-sin θ",
+        "latex": "-\\sin \\theta"
+      },
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "-cos θ",
+        "latex": "-\\cos \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sin θ",
+      "latex": "\\sin \\theta",
+      "explanation": "sin(π − θ) = sin θ."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Allied Angles",
+    "familyId": "cos_pi_minus_theta",
+    "questionText": "Evaluate cos(π − θ).",
+    "questionLatex": "\\cos(\\pi - \\theta)",
+    "options": [
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "-cos θ",
+        "latex": "-\\cos \\theta"
+      },
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "-sin θ",
+        "latex": "-\\sin \\theta"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-cos θ",
+      "latex": "-\\cos \\theta",
+      "explanation": "cos(π − θ) = -cos θ."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Allied Angles",
+    "familyId": "tan_pi_plus_theta",
+    "questionText": "Evaluate tan(π + θ).",
+    "questionLatex": "\\tan(\\pi + \\theta)",
+    "options": [
+      {
+        "text": "tan θ",
+        "latex": "\\tan \\theta"
+      },
+      {
+        "text": "-tan θ",
+        "latex": "-\\tan \\theta"
+      },
+      {
+        "text": "cot θ",
+        "latex": "\\cot \\theta"
+      },
+      {
+        "text": "-cot θ",
+        "latex": "-\\cot \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "tan θ",
+      "latex": "\\tan \\theta",
+      "explanation": "tan(π + θ) = tan θ."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "Allied Angles",
+    "familyId": "sin_two_pi_plus_theta",
+    "questionText": "Evaluate sin(2π + θ).",
+    "questionLatex": "\\sin(2\\pi + \\theta)",
+    "options": [
+      {
+        "text": "sin θ",
+        "latex": "\\sin \\theta"
+      },
+      {
+        "text": "-sin θ",
+        "latex": "-\\sin \\theta"
+      },
+      {
+        "text": "cos θ",
+        "latex": "\\cos \\theta"
+      },
+      {
+        "text": "-cos θ",
+        "latex": "-\\cos \\theta"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "sin θ",
+      "latex": "\\sin \\theta",
+      "explanation": "Sine has period 2π."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "General Solutions",
+    "familyId": "general_solution_sin_zero",
+    "questionText": "Find the general solution of sin x = 0.",
+    "questionLatex": "\\sin x = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x = nπ, n ∈ Z",
+      "latex": "x = n\\pi, \\; n \\in \\mathbb{Z}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Trigonometric Functions",
+    "topic": "General Solutions",
+    "familyId": "general_solution_cos_one",
+    "questionText": "Find the general solution of cos x = 1.",
+    "questionLatex": "\\cos x = 1",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x = 2nπ, n ∈ Z",
+      "latex": "x = 2n\\pi, \\; n \\in \\mathbb{Z}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+] 

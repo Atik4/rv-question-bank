@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Introduction to Cell",
+    "familyId": "cell_basic_unit",
+    "questionText": "The fundamental structural and functional unit of all living organisms is:",
+    "questionLatex": "$\\text{The fundamental structural and functional unit of all living organisms is:}$",
+    "options": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "Organ system"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell is the basic structural and functional unit of all living organisms."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "History of Cell",
+    "familyId": "leeuwenhoek_discovery",
+    "questionText": "Who first observed and described a living cell?",
+    "questionLatex": "$\\text{Who first observed and described a living cell?}$",
+    "options": [
+      "Robert Hooke",
+      "Robert Brown",
+      "Antonie van Leeuwenhoek",
+      "Rudolf Virchow"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Antonie van Leeuwenhoek was the first to observe and describe living cells using a microscope."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Theory",
+    "familyId": "cell_theory_scientists",
+    "questionText": "The cell theory was jointly proposed by:",
+    "questionLatex": "$\\text{The cell theory was jointly proposed by:}$",
+    "options": [
+      "Schleiden and Schwann",
+      "Hooke and Brown",
+      "Virchow and Brown",
+      "Leeuwenhoek and Hooke"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Matthias Schleiden and Theodor Schwann jointly formulated the cell theory."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Theory",
+    "familyId": "virchow_contribution",
+    "questionText": "Who modified the cell theory by stating 'Omnis cellula e cellula'?",
+    "questionLatex": "$\\text{Who modified the cell theory by stating 'Omnis cellula e cellula'?}$",
+    "options": [
+      "Robert Brown",
+      "Rudolf Virchow",
+      "Schwann",
+      "Hooke"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rudolf Virchow stated that all cells arise from pre-existing cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Theory",
+    "familyId": "cell_theory_statement",
+    "questionText": "According to modern cell theory, all cells arise from:",
+    "questionLatex": "$\\text{According to modern cell theory, all cells arise from:}$",
+    "options": [
+      "Cell sap",
+      "Cell wall",
+      "Pre-existing cells",
+      "Cytoplasm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Modern cell theory states that all cells arise from pre-existing cells."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Overview of Cell",
+    "familyId": "prokaryotic_definition",
+    "questionText": "Cells lacking a membrane-bound nucleus are called:",
+    "questionLatex": "$\\text{Cells lacking a membrane-bound nucleus are called:}$",
+    "options": [
+      "Eukaryotic cells",
+      "Prokaryotic cells",
+      "Somatic cells",
+      "Germ cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Prokaryotic cells do not possess a membrane-bound nucleus."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Overview of Cell",
+    "familyId": "eukaryotic_definition",
+    "questionText": "Which of the following is a characteristic feature of eukaryotic cells?",
+    "questionLatex": "$\\text{Which of the following is a characteristic feature of eukaryotic cells?}$",
+    "options": [
+      "Absence of nucleus",
+      "Presence of membrane-bound organelles",
+      "Absence of DNA",
+      "Lack of cytoplasm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Eukaryotic cells possess membrane-bound organelles and a membrane-bound nucleus."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Organelles",
+    "familyId": "ribosome_presence",
+    "questionText": "Which organelle is present in both prokaryotic and eukaryotic cells?",
+    "questionLatex": "$\\text{Which organelle is present in both prokaryotic and eukaryotic cells?}$",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Ribosome",
+      "Mitochondrion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ribosomes are non-membrane-bound organelles found in both prokaryotic and eukaryotic cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Size and Shape",
+    "familyId": "smallest_cell",
+    "questionText": "The smallest known living cells are:",
+    "questionLatex": "$\\text{The smallest known living cells are:}$",
+    "options": [
+      "Bacteria",
+      "Mycoplasma",
+      "Yeast",
+      "Amoeba"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mycoplasma are the smallest known living cells, approximately 0.3 μm in size."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Theory",
+    "familyId": "cell_theory_short",
+    "questionText": "State any two postulates of the modern cell theory.",
+    "questionLatex": "$\\text{State any two postulates of the modern cell theory.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "1. All living organisms are composed of cells and cell products. 2. All cells arise only from pre-existing cells."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cells",
+    "familyId": "prokaryotic_examples",
+    "questionText": "Which of the following is NOT a prokaryotic organism?",
+    "questionLatex": "$\\text{Which of the following is NOT a prokaryotic organism?}$",
+    "options": [
+      "Bacteria",
+      "Mycoplasma",
+      "Blue-green algae",
+      "Amoeba"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Amoeba is a eukaryotic protist, whereas bacteria, mycoplasma and blue-green algae (cyanobacteria) are prokaryotes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cells",
+    "familyId": "bacterial_shapes",
+    "questionText": "The comma-shaped bacterium is known as:",
+    "questionLatex": "$\\text{The comma-shaped bacterium is known as:}$",
+    "options": [
+      "Coccus",
+      "Bacillus",
+      "Vibrio",
+      "Spirillum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vibrio bacteria are characteristically comma-shaped."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cell Structure",
+    "familyId": "plasmid_dna",
+    "questionText": "Plasmids are:",
+    "questionLatex": "$\\text{Plasmids are:}$",
+    "options": [
+      "Membrane-bound organelles",
+      "Small circular DNA molecules present outside genomic DNA",
+      "Protein granules",
+      "Parts of ribosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plasmids are small circular DNA molecules found outside the bacterial chromosome and often carry useful genes such as antibiotic resistance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cell Envelope",
+    "familyId": "cell_envelope_layers",
+    "questionText": "The correct sequence of layers in the bacterial cell envelope from outside to inside is:",
+    "questionLatex": "$\\text{The correct sequence of layers in the bacterial cell envelope from outside to inside is:}$",
+    "options": [
+      "Cell wall → Glycocalyx → Plasma membrane",
+      "Glycocalyx → Cell wall → Plasma membrane",
+      "Plasma membrane → Cell wall → Glycocalyx",
+      "Cell wall → Plasma membrane → Glycocalyx"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The bacterial cell envelope consists of glycocalyx, cell wall and plasma membrane from outside to inside."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cell Structure",
+    "familyId": "mesosome_function",
+    "questionText": "Mesosomes in prokaryotic cells are mainly associated with:",
+    "questionLatex": "$\\text{Mesosomes in prokaryotic cells are mainly associated with:}$",
+    "options": [
+      "Photosynthesis only",
+      "Protein synthesis",
+      "Cell wall formation and DNA replication",
+      "Storage of food"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Mesosomes are plasma membrane infoldings involved in cell wall formation, DNA replication and respiration."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Prokaryotic Cell Structure",
+    "familyId": "bacterial_flagella",
+    "questionText": "The longest part of a bacterial flagellum is called the:",
+    "questionLatex": "$\\text{The longest part of a bacterial flagellum is called the:}$",
+    "options": [
+      "Hook",
+      "Basal body",
+      "Filament",
+      "Capsule"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The filament is the longest part of the bacterial flagellum and extends outside the cell."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Ribosomes",
+    "familyId": "prokaryotic_ribosomes",
+    "questionText": "The ribosomes present in prokaryotic cells are:",
+    "questionLatex": "$\\text{The ribosomes present in prokaryotic cells are:}$",
+    "options": [
+      "80S",
+      "60S",
+      "70S",
+      "90S"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Prokaryotic ribosomes are 70S, consisting of 50S and 30S subunits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Eukaryotic Cells",
+    "familyId": "plant_animal_difference",
+    "questionText": "Which structure is present in animal cells but absent in almost all plant cells?",
+    "questionLatex": "$\\text{Which structure is present in animal cells but absent in almost all plant cells?}$",
+    "options": [
+      "Cell wall",
+      "Large central vacuole",
+      "Centriole",
+      "Chloroplast"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Centrioles are typically present in animal cells and absent in almost all higher plant cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Comparison",
+    "familyId": "prokaryote_vs_eukaryote",
+    "questionText": "Which of the following features is common to both prokaryotic and eukaryotic cells?",
+    "questionLatex": "$\\text{Which of the following features is common to both prokaryotic and eukaryotic cells?}$",
+    "options": [
+      "Membrane-bound nucleus",
+      "Membrane-bound organelles",
+      "Ribosomes",
+      "Mitochondria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Both prokaryotic and eukaryotic cells possess ribosomes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Types",
+    "familyId": "prokaryote_eukaryote_difference",
+    "questionText": "Differentiate between prokaryotic and eukaryotic cells on the basis of nucleus and membrane-bound organelles.",
+    "questionLatex": "$\\text{Differentiate between prokaryotic and eukaryotic cells on the basis of nucleus and membrane-bound organelles.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles. Eukaryotic cells possess a well-defined membrane-bound nucleus along with membrane-bound organelles such as mitochondria, endoplasmic reticulum and Golgi apparatus."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Plasma Membrane",
+    "familyId": "fluid_mosaic_model",
+    "questionText": "The Fluid Mosaic Model of plasma membrane was proposed by:",
+    "questionLatex": "$\\text{The Fluid Mosaic Model of plasma membrane was proposed by:}$",
+    "options": [
+      "Robert Hooke and Virchow",
+      "Singer and Nicolson",
+      "Schleiden and Schwann",
+      "Watson and Crick"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Singer and Nicolson proposed the Fluid Mosaic Model in 1972 to explain the structure of the plasma membrane."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Plasma Membrane",
+    "familyId": "plasma_membrane_composition",
+    "questionText": "The plasma membrane is mainly composed of:",
+    "questionLatex": "$\\text{The plasma membrane is mainly composed of:}$",
+    "options": [
+      "Proteins and nucleic acids",
+      "Lipids and proteins",
+      "Cellulose and proteins",
+      "Chitin and lipids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The plasma membrane mainly consists of lipids and proteins arranged according to the fluid mosaic model."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Plasma Membrane",
+    "familyId": "selective_permeability",
+    "questionText": "The plasma membrane is described as selectively permeable because it:",
+    "questionLatex": "$\\text{The plasma membrane is described as selectively permeable because it:}$",
+    "options": [
+      "Allows all substances to pass freely",
+      "Allows only selected substances to pass through",
+      "Prevents movement of all molecules",
+      "Contains only lipid molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A selectively permeable membrane permits only specific molecules to enter or leave the cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Wall",
+    "familyId": "cell_wall_composition",
+    "questionText": "The primary component of the plant cell wall is:",
+    "questionLatex": "$\\text{The primary component of the plant cell wall is:}$",
+    "options": [
+      "Chitin",
+      "Peptidoglycan",
+      "Cellulose",
+      "Glycogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The plant cell wall is primarily composed of cellulose along with hemicellulose and pectin."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Wall",
+    "familyId": "middle_lamella",
+    "questionText": "The middle lamella is mainly composed of:",
+    "questionLatex": "$\\text{The middle lamella is mainly composed of:}$",
+    "options": [
+      "Cellulose",
+      "Pectin as calcium and magnesium pectate",
+      "Lignin",
+      "Suberin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The middle lamella is rich in calcium and magnesium pectate, which cements adjacent plant cells together."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Endomembrane System",
+    "familyId": "endomembrane_components",
+    "questionText": "Which of the following is NOT a component of the endomembrane system?",
+    "questionLatex": "$\\text{Which of the following is NOT a component of the endomembrane system?}$",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosomes",
+      "Mitochondria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Mitochondria function independently and are not considered part of the endomembrane system."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Endoplasmic Reticulum",
+    "familyId": "rough_er",
+    "questionText": "Rough endoplasmic reticulum appears rough because:",
+    "questionLatex": "$\\text{Rough endoplasmic reticulum appears rough because:}$",
+    "options": [
+      "It has folds",
+      "It contains ribosomes on its surface",
+      "It contains DNA",
+      "It stores lipids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rough ER bears ribosomes on its cytoplasmic surface, giving it a rough appearance."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Endoplasmic Reticulum",
+    "familyId": "smooth_er_function",
+    "questionText": "Smooth endoplasmic reticulum is mainly involved in:",
+    "questionLatex": "$\\text{Smooth endoplasmic reticulum is mainly involved in:}$",
+    "options": [
+      "Protein synthesis",
+      "Lipid synthesis and detoxification",
+      "ATP synthesis",
+      "Photosynthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Smooth ER synthesizes lipids and plays an important role in detoxification of drugs and poisons."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Golgi Apparatus",
+    "familyId": "golgi_function",
+    "questionText": "The Golgi apparatus is mainly responsible for:",
+    "questionLatex": "$\\text{The Golgi apparatus is mainly responsible for:}$",
+    "options": [
+      "Protein synthesis",
+      "Modification, packaging and secretion of cellular products",
+      "ATP production",
+      "DNA replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Golgi apparatus modifies, packages and transports proteins and lipids to their destinations."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Membrane and ER",
+    "familyId": "plasma_membrane_vs_cell_wall",
+    "questionText": "Differentiate between the plasma membrane and the plant cell wall.",
+    "questionLatex": "$\\text{Differentiate between the plasma membrane and the plant cell wall.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The plasma membrane is a living, selectively permeable membrane composed mainly of lipids and proteins that regulates the movement of substances into and out of the cell. The cell wall is a non-living, rigid outer covering composed primarily of cellulose that provides shape, mechanical support and protection to plant cells."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Lysosomes",
+    "familyId": "lysosome_definition",
+    "questionText": "Lysosomes are popularly known as:",
+    "questionLatex": "$\\text{Lysosomes are popularly known as:}$",
+    "options": [
+      "Powerhouses of the cell",
+      "Suicidal bags of the cell",
+      "Protein factories",
+      "Control centres of the cell"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lysosomes contain hydrolytic enzymes capable of digesting cellular components and are therefore called the suicidal bags of the cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Vacuoles",
+    "familyId": "plant_vacuole",
+    "questionText": "The membrane surrounding the vacuole is called:",
+    "questionLatex": "$\\text{The membrane surrounding the vacuole is called:}$",
+    "options": [
+      "Tonoplast",
+      "Plasmalemma",
+      "Cristae",
+      "Thylakoid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The vacuolar membrane is known as the tonoplast and encloses the cell sap."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Mitochondria",
+    "familyId": "mitochondria_powerhouse",
+    "questionText": "Mitochondria are called the powerhouse of the cell because they:",
+    "questionLatex": "$\\text{Mitochondria are called the powerhouse of the cell because they:}$",
+    "options": [
+      "Store genetic material",
+      "Synthesize ATP through cellular respiration",
+      "Carry out protein synthesis",
+      "Produce lysosomal enzymes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mitochondria generate ATP through aerobic respiration and supply energy to the cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Mitochondria",
+    "familyId": "mitochondria_membranes",
+    "questionText": "The folds of the inner mitochondrial membrane are called:",
+    "questionLatex": "$\\text{The folds of the inner mitochondrial membrane are called:}$",
+    "options": [
+      "Grana",
+      "Cristae",
+      "Thylakoids",
+      "Cisternae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cristae increase the surface area of the inner mitochondrial membrane for ATP synthesis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Plastids",
+    "familyId": "plastid_types",
+    "questionText": "Which of the following plastids is responsible for photosynthesis?",
+    "questionLatex": "$\\text{Which of the following plastids is responsible for photosynthesis?}$",
+    "options": [
+      "Leucoplast",
+      "Chromoplast",
+      "Chloroplast",
+      "Amyloplast"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Chloroplasts contain chlorophyll pigments and are the sites of photosynthesis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Chloroplast",
+    "familyId": "granum_definition",
+    "questionText": "A stack of thylakoids in a chloroplast is called:",
+    "questionLatex": "$\\text{A stack of thylakoids in a chloroplast is called:}$",
+    "options": [
+      "Crista",
+      "Granum",
+      "Matrix",
+      "Stroma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each granum consists of several thylakoids stacked one above another."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Ribosomes",
+    "familyId": "ribosome_function",
+    "questionText": "The primary function of ribosomes is:",
+    "questionLatex": "$\\text{The primary function of ribosomes is:}$",
+    "options": [
+      "ATP synthesis",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ribosomes are the sites of protein synthesis in both prokaryotic and eukaryotic cells."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Centrosome",
+    "familyId": "centrosome_function",
+    "questionText": "The centrosome primarily functions in:",
+    "questionLatex": "$\\text{The centrosome primarily functions in:}$",
+    "options": [
+      "Photosynthesis",
+      "Formation of spindle fibres during cell division",
+      "Protein packaging",
+      "Digestion of worn-out organelles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The centrosome organizes microtubules and forms spindle fibres during cell division in animal cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Nucleus",
+    "familyId": "nucleus_control",
+    "questionText": "Which organelle is regarded as the control centre of the eukaryotic cell?",
+    "questionLatex": "$\\text{Which organelle is regarded as the control centre of the eukaryotic cell?}$",
+    "options": [
+      "Golgi apparatus",
+      "Nucleus",
+      "Lysosome",
+      "Vacuole"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The nucleus contains genetic material and regulates all cellular activities."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Organelles",
+    "familyId": "mitochondria_chloroplast_difference",
+    "questionText": "Differentiate between mitochondria and chloroplast on the basis of function and occurrence.",
+    "questionLatex": "$\\text{Differentiate between mitochondria and chloroplast on the basis of function and occurrence.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mitochondria are the sites of aerobic respiration and ATP synthesis and are present in almost all eukaryotic cells. Chloroplasts are the sites of photosynthesis, contain chlorophyll pigments, and are found only in photosynthetic plant cells and algae."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Nucleus",
+    "familyId": "nuclear_envelope",
+    "questionText": "The nuclear envelope consists of:",
+    "questionLatex": "$\\text{The nuclear envelope consists of:}$",
+    "options": [
+      "A single membrane",
+      "A double membrane with nuclear pores",
+      "Three membranes",
+      "Only a protein layer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The nucleus is surrounded by a double membrane called the nuclear envelope, which contains nuclear pores for exchange of materials."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Nucleus",
+    "familyId": "nucleolus_function",
+    "questionText": "The nucleolus is primarily responsible for:",
+    "questionLatex": "$\\text{The nucleolus is primarily responsible for:}$",
+    "options": [
+      "ATP synthesis",
+      "Lipid synthesis",
+      "Ribosome formation",
+      "DNA replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The nucleolus synthesizes rRNA and is the site of ribosome assembly."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Chromosomes",
+    "familyId": "chromatin_definition",
+    "questionText": "During interphase, the genetic material inside the nucleus exists in the form of:",
+    "questionLatex": "$\\text{During interphase, the genetic material inside the nucleus exists in the form of:}$",
+    "options": [
+      "Chromosomes",
+      "Chromatin",
+      "Centrioles",
+      "Spindle fibres"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During interphase, DNA remains as an extended chromatin network that condenses into chromosomes during cell division."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Chromosomes",
+    "familyId": "chromosome_structure",
+    "questionText": "The primary constriction of a chromosome is called the:",
+    "questionLatex": "$\\text{The primary constriction of a chromosome is called the:}$",
+    "options": [
+      "Chromatid",
+      "Telomere",
+      "Centromere",
+      "Chromonema"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The centromere is the primary constriction where spindle fibres attach during cell division."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Chromosomes",
+    "familyId": "chromosome_types",
+    "questionText": "Chromosomes with the centromere located exactly in the middle are called:",
+    "questionLatex": "$\\text{Chromosomes with the centromere located exactly in the middle are called:}$",
+    "options": [
+      "Acrocentric",
+      "Submetacentric",
+      "Metacentric",
+      "Telocentric"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Metacentric chromosomes possess a centrally located centromere, producing two equal arms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Microbodies",
+    "familyId": "peroxisome_function",
+    "questionText": "Peroxisomes primarily function in:",
+    "questionLatex": "$\\text{Peroxisomes primarily function in:}$",
+    "options": [
+      "Protein synthesis",
+      "Breakdown of hydrogen peroxide and fatty acid metabolism",
+      "Photosynthesis",
+      "Packaging of proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Peroxisomes contain oxidative enzymes including catalase that detoxify hydrogen peroxide."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cytoskeleton",
+    "familyId": "cytoskeleton_function",
+    "questionText": "The cytoskeleton mainly helps in:",
+    "questionLatex": "$\\text{The cytoskeleton mainly helps in:}$",
+    "options": [
+      "ATP synthesis",
+      "Maintaining cell shape and intracellular transport",
+      "Formation of ribosomes",
+      "Photosynthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cytoskeleton provides mechanical support, maintains cell shape and facilitates intracellular movement."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cilia and Flagella",
+    "familyId": "axoneme_structure",
+    "questionText": "The characteristic arrangement of microtubules in the axoneme of cilia and flagella is:",
+    "questionLatex": "$\\text{The characteristic arrangement of microtubules in the axoneme of cilia and flagella is:}$",
+    "options": [
+      "9 + 0",
+      "9 + 2",
+      "8 + 2",
+      "7 + 2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The axoneme exhibits a 9 + 2 arrangement consisting of nine peripheral doublets surrounding two central singlet microtubules."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Centrosome",
+    "familyId": "centriole_structure",
+    "questionText": "Each centriole is composed of:",
+    "questionLatex": "$\\text{Each centriole is composed of:}$",
+    "options": [
+      "Nine doublet microtubules",
+      "Nine triplets of microtubules",
+      "Thirteen protofilaments only",
+      "Nine singlet microtubules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each centriole is formed by nine peripheral triplets of microtubules arranged cylindrically."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell: Basic Unit of Life",
+    "topic": "Cell Organelles",
+    "familyId": "endomembrane_vs_energy_organelles",
+    "questionText": "Differentiate between the endomembrane system and energy-transforming organelles.",
+    "questionLatex": "$\\text{Differentiate between the endomembrane system and energy-transforming organelles.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The endomembrane system includes the endoplasmic reticulum, Golgi apparatus, lysosomes and vacuoles, which work together in synthesis, modification, packaging and transport of biomolecules. Energy-transforming organelles include mitochondria and chloroplasts, which convert energy into usable forms through cellular respiration and photosynthesis, respectively."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

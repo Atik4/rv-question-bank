@@ -1,0 +1,1097 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electric Current",
+    "familyId": "current_definition",
+    "questionText": "Define electric current. Write its SI unit.",
+    "questionLatex": "$\\text{Define electric current and write its SI unit.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electric current is defined as the rate of flow of electric charge through any cross-section of a conductor. Mathematically, $I = \\frac{\\mathrm{d}Q}{\\mathrm{d}t}$. Its SI unit is ampere ($\\text{A}$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electric Current",
+    "familyId": "current_formula_mcq",
+    "questionText": "Which of the following correctly represents electric current?",
+    "questionLatex": "$I = ?$",
+    "options": [
+      "$I = Qt$",
+      "$I = \\frac{\\mathrm{d}Q}{\\mathrm{d}t}$",
+      "$I = \\frac{V}{R^2}$",
+      "$I = QR$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$I = \\frac{\\mathrm{d}Q}{\\mathrm{d}t}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Conductors",
+    "familyId": "current_carriers",
+    "questionText": "What are the charge carriers responsible for electric current in metallic conductors?",
+    "questionLatex": "$\\text{Identify the charge carriers in metallic conductors.}$",
+    "options": [
+      "Protons",
+      "Neutrons",
+      "Free electrons",
+      "Positive ions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Free electrons"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Ohm's Law",
+    "familyId": "ohms_law_statement",
+    "questionText": "State Ohm's law.",
+    "questionLatex": "$\\text{State Ohm's law.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ohm's law states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided its temperature and other physical conditions remain constant. Mathematically, $V = IR$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Resistance",
+    "familyId": "resistance_formula",
+    "questionText": "A wire has length $l$ and cross-sectional area $A$. Write the expression for its resistance in terms of resistivity.",
+    "questionLatex": "$R = ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$R = \\frac{\\rho l}{A}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Resistivity",
+    "familyId": "resistivity_definition",
+    "questionText": "Define resistivity of a material.",
+    "questionLatex": "$\\rho = \\frac{RA}{l}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Resistivity is defined as the resistance of a conductor of unit length and unit cross-sectional area. It is given by $\\rho = \\frac{RA}{l}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Current Density",
+    "familyId": "current_density",
+    "questionText": "Write the expression for current density and mention its SI unit.",
+    "questionLatex": "$j = \\frac{I}{A}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Current density is defined as the electric current per unit cross-sectional area of a conductor. Mathematically, $j = \\frac{I}{A}$. Its SI unit is ampere per square metre ($\\text{A m}^{-2}$)."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Microscopic Ohm's Law",
+    "familyId": "microscopic_ohm",
+    "questionText": "The relation between current density and electric field in a conductor is:",
+    "questionLatex": "$j = ?$",
+    "options": [
+      "$j = \\rho E$",
+      "$j = \\frac{E}{\\sigma}$",
+      "$j = \\sigma E$",
+      "$j = \\frac{\\sigma}{E}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$j = \\sigma E$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Conductivity",
+    "familyId": "conductivity_relation",
+    "questionText": "How is conductivity related to resistivity?",
+    "questionLatex": "$\\sigma = ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\sigma = \\frac{1}{\\rho}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Numerical on Current",
+    "familyId": "charge_flow_numerical",
+    "questionText": "A charge of $120\\text{ C}$ flows through a conductor in $2\\text{ minutes}$. Calculate the current.",
+    "questionLatex": "$I = \\frac{Q}{t}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1,
+      "unit": "$\\text{A}$",
+      "steps": [
+        "Given: Charge $Q = 120\\text{ C}$, Time $t = 2\\text{ min} = 2 \\times 60\\text{ s} = 120\\text{ s}$",
+        "Formula for electric current: $I = \\frac{Q}{t}$",
+        "Substituting the values: $I = \\frac{120\\text{ C}}{120\\text{ s}} = 1\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Drift Velocity",
+    "familyId": "drift_velocity_definition",
+    "questionText": "What is drift velocity of electrons in a conductor?",
+    "questionLatex": "$\\text{Define drift velocity } (v_d).$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Drift velocity is defined as the average velocity acquired by free electrons in a conductor under the influence of an applied external electric field."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Drift Velocity",
+    "familyId": "drift_velocity_formula",
+    "questionText": "Write the expression for drift velocity in terms of electric field and relaxation time.",
+    "questionLatex": "$v_d = -\\frac{eE\\tau}{m}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$v_d = -\\frac{eE\\tau}{m}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Relaxation Time",
+    "familyId": "relaxation_time",
+    "questionText": "What is relaxation time in the context of electrical conduction?",
+    "questionLatex": "$\\tau$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Relaxation time is the average time interval that elapses between two successive collisions of a conduction electron with the fixed ions or atoms of the conductor."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Current Density",
+    "familyId": "current_density_drift",
+    "questionText": "Write the relation between current density and drift velocity.",
+    "questionLatex": "$j = n e v_d$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$j = n e v_d$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Conductivity",
+    "familyId": "conductivity_expression",
+    "questionText": "The electrical conductivity of a metal is given by the expression:",
+    "questionLatex": "$\\sigma = ?$",
+    "options": [
+      "$\\sigma = \\frac{n e \\tau}{m}$",
+      "$\\sigma = \\frac{n e^2 \\tau}{m}$",
+      "$\\sigma = \\frac{m}{n e^2 \\tau}$",
+      "$\\sigma = \\frac{n e}{m \\tau}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\sigma = \\frac{n e^2 \\tau}{m}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Mobility",
+    "familyId": "mobility_definition",
+    "questionText": "Define mobility of charge carriers.",
+    "questionLatex": "$\\mu = \\frac{v_d}{E}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mobility is defined as the magnitude of the drift velocity acquired by a charge carrier per unit electric field. Mathematically, $\\mu = \\frac{v_d}{E}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Mobility",
+    "familyId": "mobility_relation",
+    "questionText": "Express mobility in terms of relaxation time, charge and mass of an electron.",
+    "questionLatex": "$\\mu = \\frac{e\\tau}{m}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\mu = \\frac{e\\tau}{m}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Limitations of Ohm's Law",
+    "familyId": "ohm_law_limitation",
+    "questionText": "Which of the following devices does not obey Ohm's law?",
+    "questionLatex": "$\\text{Choose the non-ohmic device.}$",
+    "options": [
+      "Metallic resistor",
+      "Nichrome wire",
+      "Diode",
+      "Manganin wire"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Diode"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Drift Velocity Numerical",
+    "familyId": "drift_velocity_numerical",
+    "questionText": "A conductor carries a current of $4\\text{ A}$. The number density of free electrons is $8 \\times 10^{28}\\text{ m}^{-3}$ and its cross-sectional area is $2 \\times 10^{-6}\\text{ m}^2$. Find the drift velocity. Take $e = 1.6 \\times 10^{-19}\\text{ C}$.",
+    "questionLatex": "$v_d = \\frac{I}{n e A}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.000156,
+      "unit": "$\\text{m s}^{-1}$",
+      "steps": [
+        "Given: Current $I = 4\\text{ A}$, Number density $n = 8 \\times 10^{28}\\text{ m}^{-3}$, Area $A = 2 \\times 10^{-6}\\text{ m}^2$, Charge $e = 1.6 \\times 10^{-19}\\text{ C}$",
+        "Formula: $v_d = \\frac{I}{n e A}$",
+        "Calculation: $v_d = \\frac{4}{8 \\times 10^{28} \\times 1.6 \\times 10^{-19} \\times 2 \\times 10^{-6}}$",
+        "$v_d = \\frac{4}{25.6 \\times 10^{3}} = 1.5625 \\times 10^{-4}\\text{ m s}^{-1}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Mobility Numerical",
+    "familyId": "mobility_numerical",
+    "questionText": "An electron in a conductor acquires a drift velocity of $2 \\times 10^{-4}\\text{ m s}^{-1}$ under an electric field of $50\\text{ V m}^{-1}$. Calculate its mobility.",
+    "questionLatex": "$\\mu = \\frac{v_d}{E}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.000004,
+      "unit": "$\\text{m}^2\\text{ V}^{-1}\\text{ s}^{-1}$",
+      "steps": [
+        "Given: Drift velocity $v_d = 2 \\times 10^{-4}\\text{ m s}^{-1}$, Electric field $E = 50\\text{ V m}^{-1}$",
+        "Formula: $\\mu = \\frac{v_d}{E}$",
+        "Calculation: $\\mu = \\frac{2 \\times 10^{-4}}{50} = 4 \\times 10^{-6}\\text{ m}^2\\text{ V}^{-1}\\text{ s}^{-1}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Resistivity",
+    "familyId": "material_classification",
+    "questionText": "Arrange the following in increasing order of resistivity: Conductors, Semiconductors, Insulators.",
+    "questionLatex": "$\\text{Arrange materials in increasing order of resistivity.}$",
+    "options": [
+      "$\\text{Insulators} < \\text{Semiconductors} < \\text{Conductors}$",
+      "$\\text{Conductors} < \\text{Semiconductors} < \\text{Insulators}$",
+      "$\\text{Semiconductors} < \\text{Conductors} < \\text{Insulators}$",
+      "$\\text{Conductors} < \\text{Insulators} < \\text{Semiconductors}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\text{Conductors} < \\text{Semiconductors} < \\text{Insulators}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Dependence of Resistivity",
+    "familyId": "temperature_coefficient_definition",
+    "questionText": "What is the temperature coefficient of resistivity?",
+    "questionLatex": "$\\alpha$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The temperature coefficient of resistivity is defined as the fractional change in resistivity per unit rise in temperature. It is denoted by $\\alpha$ and its SI unit is $\\text{K}^{-1}$ or $\\text{}^{\\circ}\\text{C}^{-1}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Dependence of Resistivity",
+    "familyId": "resistivity_temperature_relation",
+    "questionText": "Write the relation between resistivity and temperature for a metallic conductor.",
+    "questionLatex": "$\\rho_T = \\rho_0 [1 + \\alpha (T - T_0)]$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\rho_T = \\rho_0 [1 + \\alpha (T - T_0)]$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Dependence of Resistivity",
+    "familyId": "metal_resistivity_trend",
+    "questionText": "How does the resistivity of metals vary with temperature?",
+    "questionLatex": "$\\rho \\propto T$",
+    "options": [
+      "Decreases rapidly",
+      "Remains constant",
+      "Increases approximately linearly",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Increases approximately linearly"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Semiconductors",
+    "familyId": "semiconductor_resistivity",
+    "questionText": "How does the resistivity of a semiconductor vary with temperature?",
+    "questionLatex": "$\\rho \\downarrow \\text{ as } T \\uparrow$",
+    "options": [
+      "Increases with temperature",
+      "Remains constant",
+      "Decreases with temperature",
+      "First increases then decreases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Decreases with temperature"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Resistance Materials",
+    "familyId": "nichrome_property",
+    "questionText": "Why are alloys such as nichrome used for making standard resistors?",
+    "questionLatex": "$\\text{Nichrome resistors}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Nichrome has a very small temperature coefficient of resistance, so its resistance changes very little with temperature."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Temperature Dependence Numerical",
+    "familyId": "resistance_temperature_numerical",
+    "questionText": "The resistance of a wire at $20^{\\circ}\\text{C}$ is $10\\ \\Omega$. If the temperature coefficient of resistance is $0.004\\text{ }^{\\circ}\\text{C}^{-1}$, calculate its resistance at $70^{\\circ}\\text{C}$.",
+    "questionLatex": "$R_T = R_0 [1 + \\alpha (T - T_0)]$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 12,
+      "unit": "$\\Omega$",
+      "steps": [
+        "$\\Delta T = 70^{\\circ}\\text{C} - 20^{\\circ}\\text{C} = 50^{\\circ}\\text{C}$",
+        "$R = 10 [1 + 0.004 \\times 50]$",
+        "$R = 10(1.2) = 12\\ \\Omega$"
+      ]
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electrical Energy",
+    "familyId": "electrical_energy_expression",
+    "questionText": "Write the expression for electrical energy dissipated in a resistor in time $t$.",
+    "questionLatex": "$W = ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$W = VIt$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electric Power",
+    "familyId": "power_formula_mcq",
+    "questionText": "Which of the following is the correct expression for electrical power dissipated in a resistor?",
+    "questionLatex": "$P = ?$",
+    "options": [
+      "$P = VI$",
+      "$P = I^2R$",
+      "$P = \\frac{V^2}{R}$",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "All of these"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electric Power Numerical",
+    "familyId": "power_numerical",
+    "questionText": "A resistor of resistance $20\\ \\Omega$ carries a current of $2\\text{ A}$. Calculate the power dissipated in it.",
+    "questionLatex": "$P = I^2R$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 80,
+      "unit": "$\\text{W}$",
+      "steps": [
+        "$P = I^2R$",
+        "$P = (2)^2 \\times 20$",
+        "$P = 80\\text{ W}$"
+      ]
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cells and EMF",
+    "familyId": "emf_definition",
+    "questionText": "Define the electromotive force (emf) of a cell.",
+    "questionLatex": "$\\varepsilon$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The electromotive force (emf) of a cell is the potential difference between its terminals when no current is drawn from the cell (open circuit condition)."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Internal Resistance",
+    "familyId": "internal_resistance_definition",
+    "questionText": "What is meant by the internal resistance of a cell?",
+    "questionLatex": "$r$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The resistance offered by the electrolyte and electrodes inside a cell to the flow of current is called the internal resistance of the cell."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Terminal Voltage",
+    "familyId": "terminal_voltage_relation",
+    "questionText": "Write the relation between terminal potential difference, emf and internal resistance of a cell supplying current.",
+    "questionLatex": "$V = \\varepsilon - I r$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$V = \\varepsilon - I r$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cell Current",
+    "familyId": "cell_current_formula",
+    "questionText": "A cell of emf $\\varepsilon$ and internal resistance $r$ is connected to an external resistance $R$. Write the expression for the current in the circuit.",
+    "questionLatex": "$I = \\frac{\\varepsilon}{R+r}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$I = \\frac{\\varepsilon}{R+r}$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Maximum Current",
+    "familyId": "maximum_current_cell",
+    "questionText": "The maximum current obtainable from a cell of emf $\\varepsilon$ and internal resistance $r$ is:",
+    "questionLatex": "$I_{\\text{max}} = ?$",
+    "options": [
+      "$\\varepsilon r$",
+      "$\\frac{r}{\\varepsilon}$",
+      "$\\frac{\\varepsilon}{R+r}$",
+      "$\\frac{\\varepsilon}{r}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$\\frac{\\varepsilon}{r}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cells in Series",
+    "familyId": "series_cells_emf",
+    "questionText": "Two cells of emf $\\varepsilon_1$ and $\\varepsilon_2$ are connected in series aiding. Write the equivalent emf of the combination.",
+    "questionLatex": "$\\varepsilon_{\\text{eq}} = \\varepsilon_1 + \\varepsilon_2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\varepsilon_{\\text{eq}} = \\varepsilon_1 + \\varepsilon_2$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cells in Series",
+    "familyId": "series_cells_resistance",
+    "questionText": "Two cells having internal resistances $r_1$ and $r_2$ are connected in series. What is the equivalent internal resistance?",
+    "questionLatex": "$r_{\\text{eq}} = r_1 + r_2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$r_{\\text{eq}} = r_1 + r_2$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cells in Parallel",
+    "familyId": "parallel_cells_resistance",
+    "questionText": "For two cells of internal resistances $r_1$ and $r_2$ connected in parallel, the equivalent internal resistance is:",
+    "questionLatex": "$r_{\\text{eq}} = \\frac{r_1 r_2}{r_1 + r_2}$",
+    "options": [
+      "$r_1 + r_2$",
+      "$r_1 r_2$",
+      "$\\frac{r_1 r_2}{r_1 + r_2}$",
+      "$\\frac{r_1 + r_2}{r_1 r_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{r_1 r_2}{r_1 + r_2}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Terminal Voltage Numerical",
+    "familyId": "terminal_voltage_numerical",
+    "questionText": "A cell of emf $12\\text{ V}$ and internal resistance $1\\ \\Omega$ supplies a current of $2\\text{ A}$. Calculate the terminal potential difference.",
+    "questionLatex": "$V = \\varepsilon - I r$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 10.0,
+      "unit": "$\\text{V}$",
+      "steps": [
+        "Given: $\\varepsilon = 12\\text{ V}$, $r = 1\\ \\Omega$, $I = 2\\text{ A}$",
+        "Formula: $V = \\varepsilon - I r$",
+        "Calculation: $V = 12 - (2 \\times 1) = 10\\text{ V}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Cell Current Numerical",
+    "familyId": "cell_current_numerical",
+    "questionText": "A cell of emf $6\\text{ V}$ and internal resistance $0.5\\ \\Omega$ is connected to an external resistance of $2.5\\ \\Omega$. Calculate the current drawn from the cell.",
+    "questionLatex": "$I = \\frac{\\varepsilon}{R+r}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2.0,
+      "unit": "$\\text{A}$",
+      "steps": [
+        "Given: $\\varepsilon = 6\\text{ V}$, $r = 0.5\\ \\Omega$, $R = 2.5\\ \\Omega$",
+        "Formula: $I = \\frac{\\varepsilon}{R+r}$",
+        "Calculation: $I = \\frac{6}{2.5 + 0.5} = \\frac{6}{3.0} = 2\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff's Rules",
+    "familyId": "junction_rule_definition",
+    "questionText": "State Kirchhoff's junction rule.",
+    "questionLatex": "$\\sum I_{\\text{in}} = \\sum I_{\\text{out}}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Kirchhoff's junction rule states that at any junction in an electrical circuit, the sum of currents entering the junction is equal to the sum of currents leaving the junction."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff's Rules",
+    "familyId": "loop_rule_definition",
+    "questionText": "State Kirchhoff's loop rule.",
+    "questionLatex": "$\\sum \\Delta V = 0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Kirchhoff's loop rule states that the algebraic sum of all potential differences around any closed loop in a circuit is zero."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff's Rules",
+    "familyId": "junction_rule_application",
+    "questionText": "Three currents $I_1 = 2\\text{ A}$, $I_2 = 3\\text{ A}$ and $I_3$ enter a junction. If a current of $7\\text{ A}$ leaves the junction, find $I_3$.",
+    "questionLatex": "$I_1 + I_2 + I_3 = 7$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 2,
+      "unit": "$\\text{A}$",
+      "steps": [
+        "Using Kirchhoff's junction rule:",
+        "$2\\text{ A} + 3\\text{ A} + I_3 = 7\\text{ A}$",
+        "$I_3 = 2\\text{ A}$"
+      ]
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Kirchhoff's Rules",
+    "familyId": "loop_rule_concept",
+    "questionText": "The algebraic sum of potential differences around a closed loop is:",
+    "questionLatex": "$\\sum \\Delta V = ?$",
+    "options": [
+      "$1\\text{ V}$",
+      "Equal to emf",
+      "Infinite",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Zero"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electrical Power Transmission",
+    "familyId": "power_loss_formula",
+    "questionText": "Write the expression for power loss in transmission wires of resistance $R_c$ carrying current $I$.",
+    "questionLatex": "$P_c = I^2 R_c$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$P_c = I^2 R_c$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electrical Power Transmission",
+    "familyId": "high_voltage_transmission",
+    "questionText": "Why is electric power transmitted at very high voltages over long distances?",
+    "questionLatex": "$\\text{Power transmission}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Electric power is transmitted at high voltages to reduce current for a given power. Since power loss is proportional to $I^2 R$, lower current reduces transmission losses significantly."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Electrical Power Transmission",
+    "familyId": "transmission_loss_relation",
+    "questionText": "For a fixed power transmission, power loss in transmission wires is proportional to:",
+    "questionLatex": "$P_c \\propto ?$",
+    "options": [
+      "$V^2$",
+      "$\\frac{1}{V}$",
+      "$\\frac{1}{V^2}$",
+      "$V$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\frac{1}{V^2}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Conductivity and Resistivity",
+    "familyId": "conductivity_unit",
+    "questionText": "What is the SI unit of conductivity?",
+    "questionLatex": "$\\sigma$",
+    "options": [
+      "$\\Omega\\ \\text{m}$",
+      "$\\text{S}\\ \\text{m}^{-1}$",
+      "$\\Omega^{-1}$",
+      "$\\text{A}\\ \\text{m}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\text{S}\\ \\text{m}^{-1}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Conductivity and Resistivity",
+    "familyId": "resistivity_unit",
+    "questionText": "What is the SI unit of resistivity?",
+    "questionLatex": "$\\rho$",
+    "options": [
+      "$\\Omega\\ \\text{m}$",
+      "$\\Omega/\\text{m}$",
+      "$\\text{S}\\ \\text{m}^{-1}$",
+      "$\\text{A}\\ \\text{m}^{-2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\Omega\\ \\text{m}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "topic": "Power Dissipation Numerical",
+    "familyId": "electrical_energy_numerical",
+    "questionText": "A $100\\text{ W}$ electric bulb operates for $5\\text{ hours}$. Calculate the electrical energy consumed in kilowatt-hour ($\\text{kWh}$).",
+    "questionLatex": "$E = P t$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.5,
+      "unit": "$\\text{kWh}$",
+      "steps": [
+        "$\\text{Power} = 100\\text{ W} = 0.1\\text{ kW}$",
+        "$\\text{Time} = 5\\text{ h}$",
+        "$\\text{Energy} = 0.1\\text{ kW} \\times 5\\text{ h} = 0.5\\text{ kWh}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

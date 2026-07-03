@@ -1,0 +1,1046 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Introduction",
+    "familyId": "measurement_concept",
+    "questionText": "Measurement of a physical quantity involves comparison with a:",
+    "questionLatex": "\\text{Measurement of a physical quantity involves comparison with a:}",
+    "options": [
+      {"text": "Physical law", "latex": "\\text{Physical law}"},
+      {"text": "Reference standard", "latex": "\\text{Reference standard}"},
+      {"text": "Mathematical formula", "latex": "\\text{Mathematical formula}"},
+      {"text": "Physical constant", "latex": "\\text{Physical constant}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reference standard",
+      "latex": "\\text{Reference standard}"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "si_base_units",
+    "questionText": "Which of the following is the SI base unit of thermodynamic temperature?",
+    "questionLatex": "\\text{Which of the following is the SI base unit of thermodynamic temperature?}",
+    "options": [
+      {"text": "Kelvin", "latex": "K"},
+      {"text": "Celsius", "latex": "^\\circ C"},
+      {"text": "Joule", "latex": "J"},
+      {"text": "Calorie", "latex": "\\text{cal}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Kelvin",
+      "latex": "K"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "si_base_units",
+    "questionText": "Which among the following is a derived quantity?",
+    "questionLatex": "\\text{Which among the following is a derived quantity?}",
+    "options": [
+      {"text": "Mass", "latex": "\\text{Mass}"},
+      {"text": "Time", "latex": "\\text{Time}"},
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Length", "latex": "\\text{Length}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Velocity",
+      "latex": "\\text{Velocity}"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "plane_angle",
+    "questionText": "The SI unit of plane angle is:",
+    "questionLatex": "\\text{The SI unit of plane angle is:}",
+    "options": [
+      {"text": "Degree", "latex": "^\\circ"},
+      {"text": "Radian", "latex": "\\text{rad}"},
+      {"text": "Steradian", "latex": "\\text{sr}"},
+      {"text": "Metre", "latex": "m"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Radian",
+      "latex": "\\text{rad}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "solid_angle",
+    "questionText": "The SI unit of solid angle is:",
+    "questionLatex": "\\text{The SI unit of solid angle is:}",
+    "options": [
+      {"text": "Degree", "latex": "^\\circ"},
+      {"text": "Radian", "latex": "\\text{rad}"},
+      {"text": "Steradian", "latex": "\\text{sr}"},
+      {"text": "Candela", "latex": "\\text{cd}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Steradian",
+      "latex": "\\text{sr}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures",
+    "questionText": "How many significant figures are present in 0.00520?",
+    "questionLatex": "\\text{How many significant figures are present in }0.00520\\text{ ?}",
+    "options": [
+      {"text": "2", "latex": "2"},
+      {"text": "3", "latex": "3"},
+      {"text": "4", "latex": "4"},
+      {"text": "5", "latex": "5"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3",
+      "latex": "3"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Scientific Notation",
+    "familyId": "scientific_notation",
+    "questionText": "Express 0.00045 in scientific notation.",
+    "questionLatex": "\\text{Express }0.00045\\text{ in scientific notation.}",
+    "options": [
+      {"text": "4.5 × 10⁻⁴", "latex": "4.5\\times10^{-4}"},
+      {"text": "4.5 × 10⁻⁵", "latex": "4.5\\times10^{-5}"},
+      {"text": "45 × 10⁻⁵", "latex": "45\\times10^{-5}"},
+      {"text": "0.45 × 10⁻³", "latex": "0.45\\times10^{-3}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "4.5 × 10⁻⁴",
+      "latex": "4.5\\times10^{-4}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of velocity.",
+    "questionLatex": "\\text{Find the dimensional formula of velocity.}",
+    "options": [
+      {"text": "[M⁰LT⁻¹]", "latex": "[M^0LT^{-1}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[M⁰L²T⁻¹]", "latex": "[M^0L^2T^{-1}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[M⁰LT⁻¹]",
+      "latex": "[M^0LT^{-1}]"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of force.",
+    "questionLatex": "\\text{Find the dimensional formula of force.}",
+    "options": [
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[M⁰LT⁻¹]", "latex": "[M^0LT^{-1}]"},
+      {"text": "[ML⁻¹T⁻²]", "latex": "[ML^{-1}T^{-2}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[MLT⁻²]",
+      "latex": "[MLT^{-2}]"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "homogeneity_principle",
+    "questionText": "According to the principle of homogeneity, quantities can be added or subtracted only if they have:",
+    "questionLatex": "\\text{According to the principle of homogeneity, quantities can be added or subtracted only if they have:}",
+    "options": [
+      {"text": "Same dimensions", "latex": "\\text{Same dimensions}"},
+      {"text": "Same units only", "latex": "\\text{Same units only}"},
+      {"text": "Same magnitude", "latex": "\\text{Same magnitude}"},
+      {"text": "Same symbols", "latex": "\\text{Same symbols}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Same dimensions",
+      "latex": "\\text{Same dimensions}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures",
+    "questionText": "How many significant figures are present in 3.500?",
+    "questionLatex": "\\text{How many significant figures are present in }3.500\\text{?}",
+    "options": [
+      {"text": "2", "latex": "2"},
+      {"text": "3", "latex": "3"},
+      {"text": "4", "latex": "4"},
+      {"text": "5", "latex": "5"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "4",
+      "latex": "4"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures",
+    "questionText": "How many significant figures are present in 0.02308?",
+    "questionLatex": "\\text{How many significant figures are present in }0.02308\\text{?}",
+    "options": [
+      {"text": "3", "latex": "3"},
+      {"text": "4", "latex": "4"},
+      {"text": "5", "latex": "5"},
+      {"text": "6", "latex": "6"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4",
+      "latex": "4"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Scientific Notation",
+    "familyId": "order_of_magnitude",
+    "questionText": "The diameter of Earth is approximately 1.28 × 10⁷ m. What is its order of magnitude?",
+    "questionLatex": "\\text{The diameter of Earth is approximately }1.28\\times10^{7}\\text{ m. What is its order of magnitude?}",
+    "options": [
+      {"text": "10⁵ m", "latex": "10^{5}\\text{ m}"},
+      {"text": "10⁶ m", "latex": "10^{6}\\text{ m}"},
+      {"text": "10⁷ m", "latex": "10^{7}\\text{ m}"},
+      {"text": "10⁸ m", "latex": "10^{8}\\text{ m}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "10⁷ m",
+      "latex": "10^{7}\\text{ m}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Arithmetic Operations",
+    "familyId": "significant_figures_arithmetic",
+    "questionText": "Find the result of 436.32 + 227.2 + 0.301 according to significant figure rules.",
+    "questionLatex": "\\text{Find the result of }436.32 + 227.2 + 0.301\\text{ according to significant figure rules.}",
+    "options": [
+      {"text": "663.821", "latex": "663.821"},
+      {"text": "663.8", "latex": "663.8"},
+      {"text": "664", "latex": "664"},
+      {"text": "663.82", "latex": "663.82"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "663.8",
+      "latex": "663.8"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Rounding Off",
+    "familyId": "rounding_rules",
+    "questionText": "Round off 2.746 to three significant figures.",
+    "questionLatex": "\\text{Round off }2.746\\text{ to three significant figures.}",
+    "options": [
+      {"text": "2.74", "latex": "2.74"},
+      {"text": "2.75", "latex": "2.75"},
+      {"text": "2.70", "latex": "2.70"},
+      {"text": "2.76", "latex": "2.76"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2.75",
+      "latex": "2.75"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of acceleration.",
+    "questionLatex": "\\text{Find the dimensional formula of acceleration.}",
+    "options": [
+      {"text": "[LT⁻²]", "latex": "[LT^{-2}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[LT⁻¹]", "latex": "[LT^{-1}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[LT⁻²]",
+      "latex": "[LT^{-2}]"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of density.",
+    "questionLatex": "\\text{Find the dimensional formula of density.}",
+    "options": [
+      {"text": "[ML⁻³]", "latex": "[ML^{-3}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[M⁰LT⁻¹]", "latex": "[M^0LT^{-1}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[ML⁻³]",
+      "latex": "[ML^{-3}]"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimension_identify",
+    "questionText": "Which of the following quantities has dimensions [LT⁻¹]?",
+    "questionLatex": "\\text{Which of the following quantities has dimensions }[LT^{-1}]\\text{?}",
+    "options": [
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Force", "latex": "\\text{Force}"},
+      {"text": "Density", "latex": "\\text{Density}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Velocity",
+      "latex": "\\text{Velocity}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "equation_validation",
+    "questionText": "Which of the following equations is dimensionally correct?",
+    "questionLatex": "\\text{Which of the following equations is dimensionally correct?}",
+    "options": [
+      {"text": "v = u + at", "latex": "v=u+at"},
+      {"text": "s = ut + a", "latex": "s=ut+a"},
+      {"text": "F = mv + t", "latex": "F=mv+t"},
+      {"text": "v² = u + 2as", "latex": "v^2=u+2as"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "v = u + at",
+      "latex": "v=u+at"
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimension_identify",
+    "questionText": "The dimensional formula of energy is:",
+    "questionLatex": "\\text{The dimensional formula of energy is:}",
+    "options": [
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML⁻¹T⁻²]", "latex": "[ML^{-1}T^{-2}]"},
+      {"text": "[LT⁻²]", "latex": "[LT^{-2}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[ML²T⁻²]",
+      "latex": "[ML^2T^{-2}]"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "si_base_quantities",
+    "questionText": "How many SI base quantities are there?",
+    "questionLatex": "\\text{How many SI base quantities are there?}",
+    "options": [
+      {"text": "5", "latex": "5"},
+      {"text": "6", "latex": "6"},
+      {"text": "7", "latex": "7"},
+      {"text": "8", "latex": "8"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "7",
+      "latex": "7"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "si_base_quantities",
+    "questionText": "Which of the following is NOT an SI base quantity?",
+    "questionLatex": "\\text{Which of the following is NOT an SI base quantity?}",
+    "options": [
+      {"text": "Length", "latex": "\\text{Length}"},
+      {"text": "Mass", "latex": "\\text{Mass}"},
+      {"text": "Force", "latex": "\\text{Force}"},
+      {"text": "Time", "latex": "\\text{Time}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Force",
+      "latex": "\\text{Force}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "unit_identification",
+    "questionText": "The SI unit of electric current is:",
+    "questionLatex": "\\text{The SI unit of electric current is:}",
+    "options": [
+      {"text": "Volt", "latex": "V"},
+      {"text": "Ampere", "latex": "A"},
+      {"text": "Coulomb", "latex": "C"},
+      {"text": "Ohm", "latex": "\\Omega"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ampere",
+      "latex": "A"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures",
+    "questionText": "How many significant figures are present in 23080?",
+    "questionLatex": "\\text{How many significant figures are present in }23080\\text{?}",
+    "options": [
+      {"text": "3", "latex": "3"},
+      {"text": "4", "latex": "4"},
+      {"text": "5", "latex": "5"},
+      {"text": "6", "latex": "6"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4",
+      "latex": "4"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Rounding Off",
+    "familyId": "rounding_rules",
+    "questionText": "Round off 2.735 to three significant figures.",
+    "questionLatex": "\\text{Round off }2.735\\text{ to three significant figures.}",
+    "options": [
+      {"text": "2.73", "latex": "2.73"},
+      {"text": "2.74", "latex": "2.74"},
+      {"text": "2.75", "latex": "2.75"},
+      {"text": "2.76", "latex": "2.76"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "2.74",
+      "latex": "2.74"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of momentum.",
+    "questionLatex": "\\text{Find the dimensional formula of momentum.}",
+    "options": [
+      {"text": "[MLT⁻¹]", "latex": "[MLT^{-1}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[LT⁻¹]", "latex": "[LT^{-1}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[MLT⁻¹]",
+      "latex": "[MLT^{-1}]"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of pressure.",
+    "questionLatex": "\\text{Find the dimensional formula of pressure.}",
+    "options": [
+      {"text": "[ML⁻¹T⁻²]", "latex": "[ML^{-1}T^{-2}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"},
+      {"text": "[MLT⁻¹]", "latex": "[MLT^{-1}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[ML⁻¹T⁻²]",
+      "latex": "[ML^{-1}T^{-2}]"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimension_identify",
+    "questionText": "Which quantity has dimensions [ML²T⁻²]?",
+    "questionLatex": "\\text{Which quantity has dimensions }[ML^2T^{-2}]\\text{?}",
+    "options": [
+      {"text": "Energy", "latex": "\\text{Energy}"},
+      {"text": "Force", "latex": "\\text{Force}"},
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Energy",
+      "latex": "\\text{Energy}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "dimensional_consistency",
+    "questionText": "Dimensions of the arguments of trigonometric functions should be:",
+    "questionLatex": "\\text{Dimensions of arguments of trigonometric functions should be:}",
+    "options": [
+      {"text": "Length", "latex": "L"},
+      {"text": "Force", "latex": "F"},
+      {"text": "Dimensionless", "latex": "1"},
+      {"text": "Velocity", "latex": "v"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Dimensionless",
+      "latex": "1"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "equation_validation",
+    "questionText": "Which of the following pairs of quantities can be added according to the principle of homogeneity?",
+    "questionLatex": "\\text{Which of the following pairs of quantities can be added according to the principle of homogeneity?}",
+    "options": [
+      {"text": "Velocity and acceleration", "latex": "v+a"},
+      {"text": "Force and energy", "latex": "F+E"},
+      {"text": "Distance and displacement", "latex": "s+d"},
+      {"text": "Momentum and force", "latex": "p+F"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Distance and displacement",
+      "latex": "s+d"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "unit_identification",
+    "questionText": "The SI unit of mass is:",
+    "questionLatex": "\\text{The SI unit of mass is:}",
+    "options": [
+      {"text": "Gram", "latex": "g"},
+      {"text": "Kilogram", "latex": "kg"},
+      {"text": "Pound", "latex": "lb"},
+      {"text": "Newton", "latex": "N"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kilogram",
+      "latex": "kg"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "unit_identification",
+    "questionText": "The SI unit of time is:",
+    "questionLatex": "\\text{The SI unit of time is:}",
+    "options": [
+      {"text": "Minute", "latex": "\\text{min}"},
+      {"text": "Hour", "latex": "h"},
+      {"text": "Second", "latex": "s"},
+      {"text": "Day", "latex": "d"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Second",
+      "latex": "s"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "SI Units",
+    "familyId": "unit_conversion",
+    "questionText": "Which prefix represents 10⁻⁶?",
+    "questionLatex": "\\text{Which SI prefix represents }10^{-6}\\text{?}",
+    "options": [
+      {"text": "Milli", "latex": "\\text{milli}"},
+      {"text": "Micro", "latex": "\\text{micro}"},
+      {"text": "Nano", "latex": "\\text{nano}"},
+      {"text": "Pico", "latex": "\\text{pico}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Micro",
+      "latex": "\\text{micro}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures",
+    "questionText": "How many significant figures are present in 0.00230?",
+    "questionLatex": "\\text{How many significant figures are present in }0.00230\\text{?}",
+    "options": [
+      {"text": "2", "latex": "2"},
+      {"text": "3", "latex": "3"},
+      {"text": "4", "latex": "4"},
+      {"text": "5", "latex": "5"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3",
+      "latex": "3"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Arithmetic Operations",
+    "familyId": "significant_figures_arithmetic",
+    "questionText": "Calculate 12.9 − 7.06 according to significant figure rules.",
+    "questionLatex": "\\text{Calculate }12.9-7.06\\text{ according to significant figure rules.}",
+    "options": [
+      {"text": "5.84", "latex": "5.84"},
+      {"text": "5.8", "latex": "5.8"},
+      {"text": "5.9", "latex": "5.9"},
+      {"text": "6", "latex": "6"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "5.8",
+      "latex": "5.8"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of frequency.",
+    "questionLatex": "\\text{Find the dimensional formula of frequency.}",
+    "options": [
+      {"text": "[T⁻¹]", "latex": "[T^{-1}]"},
+      {"text": "[LT⁻¹]", "latex": "[LT^{-1}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^2T^{-2}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[T⁻¹]",
+      "latex": "[T^{-1}]"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimensional_formula",
+    "questionText": "Find the dimensional formula of gravitational constant G.",
+    "questionLatex": "\\text{Find the dimensional formula of gravitational constant }G.",
+    "options": [
+      {"text": "[M⁻¹L³T⁻²]", "latex": "[M^{-1}L^{3}T^{-2}]"},
+      {"text": "[ML²T⁻²]", "latex": "[ML^{2}T^{-2}]"},
+      {"text": "[MLT⁻²]", "latex": "[MLT^{-2}]"},
+      {"text": "[M⁰LT⁻¹]", "latex": "[M^0LT^{-1}]"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "[M⁻¹L³T⁻²]",
+      "latex": "[M^{-1}L^{3}T^{-2}]"
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensions",
+    "familyId": "dimension_identify",
+    "questionText": "Which quantity has dimensions [M⁰L⁰T⁰]?",
+    "questionLatex": "\\text{Which quantity has dimensions }[M^0L^0T^0]\\text{?}",
+    "options": [
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Refractive Index", "latex": "\\text{Refractive Index}"},
+      {"text": "Momentum", "latex": "\\text{Momentum}"},
+      {"text": "Force", "latex": "\\text{Force}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Refractive Index",
+      "latex": "\\text{Refractive Index}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "homogeneity_principle",
+    "questionText": "Which of the following pairs of quantities cannot be added?",
+    "questionLatex": "\\text{Which of the following pairs of quantities cannot be added?}",
+    "options": [
+      {"text": "Speed and velocity", "latex": "v+u"},
+      {"text": "Distance and displacement", "latex": "s+d"},
+      {"text": "Force and energy", "latex": "F+E"},
+      {"text": "Radius and diameter", "latex": "r+d"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Force and energy",
+      "latex": "F+E"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "familyId": "equation_validation",
+    "questionText": "Check whether the equation s = ut + 1/2 at² is dimensionally correct.",
+    "questionLatex": "\\text{Check dimensional correctness of }s=ut+\\frac{1}{2}at^2",
+    "options": [
+      {"text": "Dimensionally correct", "latex": "\\text{Dimensionally correct}"},
+      {"text": "Dimensionally incorrect", "latex": "\\text{Dimensionally incorrect}"},
+      {"text": "Cannot determine", "latex": "\\text{Cannot determine}"},
+      {"text": "Depends on units", "latex": "\\text{Depends on units}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Dimensionally correct",
+      "latex": "\\text{Dimensionally correct}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  }
+ 
+]

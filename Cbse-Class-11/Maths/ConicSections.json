@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Introduction to Conics",
+    "familyId": "conic_sections_definition",
+    "questionText": "Conic sections are curves obtained by the intersection of a plane with a:",
+    "questionLatex": "\\text{Conic sections are curves obtained by intersecting a plane with a cone.}",
+    "options": [
+      "Cylinder",
+      "Sphere",
+      "Right circular cone",
+      "Cube"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Conic sections are curves formed when a plane intersects a double right circular cone at various angles."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Types of Conics",
+    "familyId": "circle_section_cone",
+    "questionText": "When the cutting plane is perpendicular to the axis of the cone, the section obtained is a/an:",
+    "questionLatex": "$\\beta=90^{\\circ}$",
+    "options": [
+      "Ellipse",
+      "Circle",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "When the angle $\\beta$ between the cutting plane and the axis of the cone is exactly $90^{\\circ}$, the resulting cross-section is a circle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Types of Conics",
+    "familyId": "ellipse_section_cone",
+    "questionText": "If $\\alpha$ is the semi-vertical angle of a cone and $\\beta$ is the angle made by the intersecting plane with the axis of the cone, then the section obtained when $\\alpha < \\beta < 90^{\\circ}$ is a/an:",
+    "questionLatex": "$\\alpha<\\beta<90^{\\circ}$",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Ellipse",
+      "Hyperbola"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "When the intersecting plane cuts completely across one nappe of the cone such that $\\alpha < \\beta < 90^{\\circ}$, the resulting closed curve is an ellipse."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Types of Conics",
+    "familyId": "parabola_section_cone",
+    "questionText": "If $\\alpha$ is the semi-vertical angle of a cone and $\\beta$ is the angle made by the cutting plane with the axis of the cone, a parabola is obtained when:",
+    "questionLatex": "$\\beta=\\alpha$",
+    "options": [
+      "$\\beta = 90^{\\circ}$",
+      "$\\beta = \\alpha$",
+      "$\\beta < \\alpha$",
+      "$\\beta > 90^{\\circ}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "When the cutting plane is parallel to a generator of the cone, the angle $\\beta$ between the plane and the axis is exactly equal to the semi-vertical angle $\\alpha$ ($\\beta = \\alpha$), forming a parabola."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Types of Conics",
+    "familyId": "hyperbola_section_cone",
+    "questionText": "If $\\alpha$ is the semi-vertical angle of a double cone and $\\beta$ is the angle made by the cutting plane with its axis, a hyperbola is obtained when:",
+    "questionLatex": "$0\\leq\\beta<\\alpha$",
+    "options": [
+      "$\\beta = 90^{\\circ}$",
+      "$\\beta = \\alpha$",
+      "$\\alpha < \\beta < 90^{\\circ}$",
+      "$0 \\le \\beta < \\alpha$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "A hyperbola is formed when the intersecting plane cuts across both nappes of the double cone, which occurs when the plane angle satisfies $0 \\le \\beta < \\alpha$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle",
+    "familyId": "circle_definition",
+    "questionText": "A circle is the set of all points in a plane that are equidistant from a fixed:",
+    "questionLatex": "\\text{A circle is the locus of a point moving at a constant distance from a fixed point.}",
+    "options": [
+      "Line",
+      "Point",
+      "Axis",
+      "Diameter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, a circle consists of all points in a plane at a fixed distance (the radius) from a fixed point (the centre)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle Equation",
+    "familyId": "circle_standard_equation",
+    "questionText": "Find the equation of the circle with centre $(0, 0)$ and radius $5$.",
+    "questionLatex": "$x^2+y^2=r^2$",
+    "options": [
+      "$x^2+y^2=5$",
+      "$x^2+y^2=10$",
+      "$x^2+y^2=25$",
+      "$x^2+y^2=50$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The standard equation of a circle centred at the origin is $x^2 + y^2 = r^2$. Substituting $r = 5$ gives $x^2 + y^2 = 5^2 \\implies x^2 + y^2 = 25$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle Equation",
+    "familyId": "circle_center_radius",
+    "questionText": "Find the equation of the circle with centre $(-3, 2)$ and radius $4$.",
+    "questionLatex": "$(x+3)^2+(y-2)^2=16$",
+    "options": [
+      "$(x+3)^2+(y-2)^2=16$",
+      "$(x-3)^2+(y+2)^2=16$",
+      "$(x+3)^2+(y-2)^2=8$",
+      "$(x-3)^2+(y-2)^2=16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The central form of a circle equation is $(x - h)^2 + (y - k)^2 = r^2$. Substituting $h = -3$, $k = 2$, and $r = 4$ yields $(x - (-3))^2 + (y - 2)^2 = 4^2 \\implies (x + 3)^2 + (y - 2)^2 = 16$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle",
+    "familyId": "find_center_radius",
+    "questionText": "Find the radius of the circle $x^2 + y^2 + 8x + 10y - 8 = 0$.",
+    "questionLatex": "$x^2+y^2+8x+10y-8=0$",
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rearrange and complete the square for the general form: $(x^2 + 8x + 16) + (y^2 + 10y + 25) = 8 + 16 + 25 \\implies (x + 4)^2 + (y + 5)^2 = 49$. Comparing this with $(x-h)^2 + (y-k)^2 = r^2$ gives $r^2 = 49$, so the radius $r = 7$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle",
+    "familyId": "circle_general_form",
+    "questionText": "Find the centre of the circle $x^2 + y^2 - 4x - 8y - 45 = 0$.",
+    "questionLatex": "$x^2+y^2-4x-8y-45=0$",
+    "options": [
+      "$(2, 4)$",
+      "$(-2, -4)$",
+      "$(4, 2)$",
+      "$(-4, -2)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Group terms and complete the squares: $(x^2 - 4x + 4) + (y^2 - 8y + 16) = 45 + 4 + 16 \\implies (x - 2)^2 + (y - 4)^2 = 65$. The centre $(h, k)$ is $(2, 4)$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "parabola_definition",
+    "questionText": "A parabola is the set of all points in a plane that are equidistant from a fixed point and a fixed:",
+    "questionLatex": "\\text{A parabola is the locus of a point moving such that its distance from a fixed point equals its distance from a fixed line.}",
+    "options": [
+      "Circle",
+      "Line",
+      "Axis",
+      "Vertex"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, a parabola is the locus of points equidistant from a fixed point (the focus) and a fixed straight line (the directrix)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "standard_parabola_right",
+    "questionText": "The standard equation of a parabola opening towards the positive $x$-axis is:",
+    "questionLatex": "$y^2=4ax$",
+    "options": [
+      "$x^2=4ay$",
+      "$y^2=4ax$",
+      "$y^2=-4ax$",
+      "$x^2=-4ay$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard equation $y^2 = 4ax$ (where $a > 0$) represents a parabola whose vertex is at the origin and which opens towards the positive direction of the $x$-axis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "focus_of_parabola",
+    "questionText": "Find the coordinates of the focus of the parabola $y^2 = 12x$.",
+    "questionLatex": "$y^2=12x$",
+    "options": [
+      "$(3, 0)$",
+      "$(0, 3)$",
+      "$(6, 0)$",
+      "$(0, 6)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Comparing $y^2 = 12x$ with the standard form $y^2 = 4ax$, we get $4a = 12 \\implies a = 3$. Since it opens along the positive $x$-axis, its focus is $(a, 0) = (3, 0)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "directrix_of_parabola",
+    "questionText": "Find the equation of the directrix of the parabola $y^2 = 12x$.",
+    "questionLatex": "$y^2=12x$",
+    "options": [
+      "$x = 3$",
+      "$x = -3$",
+      "$y = 3$",
+      "$y = -3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Comparing $y^2 = 12x$ with $y^2 = 4ax$, we get $4a = 12 \\implies a = 3$. The equation of the directrix for a rightward-opening standard parabola is $x = -a$, which gives $x = -3$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "latus_rectum_length",
+    "questionText": "Find the length of the latus rectum of the parabola $y^2 = 12x$.",
+    "questionLatex": "$y^2=12x$",
+    "options": [
+      "$3$",
+      "$6$",
+      "$9$",
+      "$12$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The length of the latus rectum for any standard parabola of the form $y^2 = 4ax$ is given by the coefficient of $x$, which is $4a$. Here, $4a = 12$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "equation_from_focus_directrix",
+    "questionText": "Find the equation of the parabola with focus $(2, 0)$ and directrix $x = -2$.",
+    "questionLatex": "$F(2,0),\\;x=-2$",
+    "options": [
+      "$y^2=4x$",
+      "$y^2=8x$",
+      "$x^2=8y$",
+      "$y^2=-8x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The focus is at $(2, 0)$, which lies on the positive $x$-axis, meaning $a = 2$. The standard equation is $y^2 = 4ax$. Substituting $a = 2$ gives $y^2 = 4(2)x \\implies y^2 = 8x$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "equation_focus_yaxis",
+    "questionText": "Find the equation of the parabola with vertex at the origin and focus at $(0, 2)$.",
+    "questionLatex": "$F(0,2)$",
+    "options": [
+      "$x^2=8y$",
+      "$y^2=8x$",
+      "$x^2=-8y$",
+      "$y^2=-8x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since the focus $(0, 2)$ lies on the positive $y$-axis, the parabola opens upwards and has the standard form $x^2 = 4ay$. With $a = 2$, the equation becomes $x^2 = 4(2)y \\implies x^2 = 8y$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "identify_axis_symmetry",
+    "questionText": "For the parabola $x^2 = -4ay$, the axis of symmetry is the:",
+    "questionLatex": "$x^2=-4ay$",
+    "options": [
+      "$x$-axis",
+      "$y$-axis",
+      "Line $y = x$",
+      "Line $y = -x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The equation $x^2 = -4ay$ is symmetric with respect to the $y$-axis because replacing $x$ with $-x$ leaves the equation unchanged."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "parabola_through_point",
+    "questionText": "Find the equation of the parabola symmetric about the $y$-axis and passing through the point $(2, -3)$.",
+    "questionLatex": "$(2,-3)$",
+    "options": [
+      "$3x^2=4y$",
+      "$3x^2=-4y$",
+      "$x^2=-12y$",
+      "$x^2=12y$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A parabola symmetric about the $y$-axis has the standard form $x^2 = 4ay$. Since it passes through $(2, -3)$, which is in the fourth quadrant, it must open downwards ($a < 0$). Substituting the point: $(2)^2 = 4a(-3) \\implies 4 = -12a \\implies 4a = -\\frac{4}{3}$. Substituting $4a$ back gives $x^2 = -\\frac{4}{3}y \\implies 3x^2 = -4y$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_definition",
+    "questionText": "An ellipse is the set of all points in a plane such that the sum of their distances from two fixed points is a:",
+    "questionLatex": "$PF_1 + PF_2 = \\text{constant}$",
+    "options": [
+      "Variable",
+      "Constant",
+      "Zero",
+      "Equal to the radius"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, for any point $P$ lying on an ellipse, the sum of its distances from two fixed points $F_1$ and $F_2$ (called foci) is constant and always greater than the distance between the two fixed points ($PF_1 + PF_2 = 2a$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_standard_equation",
+    "questionText": "The standard equation of an ellipse centered at the origin with its major axis along the $x$-axis is:",
+    "questionLatex": "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1,\\;a>b$",
+    "options": [
+      "$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$",
+      "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$",
+      "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=0$",
+      "$x^2+y^2=a^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard form of an ellipse centered at the origin with its major axis along the $x$-axis is given by $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, where $a > b$ and $b^2 = a^2(1 - e^2)$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_vertices",
+    "questionText": "Find the coordinates of the vertices of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}+\\frac{y^2}{9}=1",
+    "options": [
+      "$(\\pm 3, 0)$",
+      "$(0, \\pm 5)$",
+      "$(\\pm 5, 0)$",
+      "$(0, \\pm 3)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Comparing the equation with the standard form $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, we find $a^2 = 25 \\implies a = 5$ and $b^2 = 9 \\implies b = 3$. Since $a > b$, the major axis is along the $x$-axis, meaning the vertices are at $(\\pm a, 0) = \\pm(5, 0)$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_foci",
+    "questionText": "Find the coordinates of the foci of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}+\\frac{y^2}{9}=1",
+    "options": [
+      "$(\\pm 4, 0)$",
+      "$(0, \\pm 4)$",
+      "$(\\pm 3, 0)$",
+      "$(0, \\pm 3)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Here $a^2 = 25$ and $b^2 = 9$. The distance of the foci from the origin is given by $c = \\sqrt{a^2 - b^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4$. Since the major axis is along the $x$-axis, the coordinates of the foci are $(\\pm c, 0) = (\\pm 4, 0)$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_eccentricity",
+    "questionText": "Find the eccentricity of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}+\\frac{y^2}{9}=1",
+    "options": [
+      "$\\frac{4}{5}$",
+      "$\\frac{3}{5}$",
+      "$\\frac{5}{4}$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Given $a^2 = 25 \\implies a = 5$ and $b^2 = 9 \\implies b = 3$. The focus distance parameter is $c = \\sqrt{a^2 - b^2} = \\sqrt{16} = 4$. The eccentricity is $e = \\frac{c}{a} = \\frac{4}{5}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_major_axis_length",
+    "questionText": "Find the length of the major axis of the ellipse $\\frac{x^2}{36} + \\frac{y^2}{16} = 1$.",
+    "questionLatex": "\\frac{x^2}{36}+\\frac{y^2}{16}=1",
+    "options": [
+      "$6$",
+      "$12$",
+      "$16$",
+      "$36$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Comparing with the standard equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, we get $a^2 = 36 \\implies a = 6$. The length of the major axis is $2a = 2 \\times 6 = 12$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_minor_axis_length",
+    "questionText": "Find the length of the minor axis of the ellipse $\\frac{x^2}{36} + \\frac{y^2}{16} = 1$.",
+    "questionLatex": "\\frac{x^2}{36}+\\frac{y^2}{16}=1",
+    "options": [
+      "$4$",
+      "$6$",
+      "$8$",
+      "$12$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Comparing with the standard equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, we get $b^2 = 16 \\implies b = 4$. The length of the minor axis is $2b = 2 \\times 4 = 8$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_latus_rectum",
+    "questionText": "Find the length of the latus rectum of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}+\\frac{y^2}{9}=1",
+    "options": [
+      "$\\frac{18}{5}$",
+      "$\\frac{25}{9}$",
+      "$\\frac{9}{5}$",
+      "$6$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Here $a^2 = 25 \\implies a = 5$ and $b^2 = 9 \\implies b = 3$. The length of the latus rectum is calculated using the formula $\\frac{2b^2}{a} = \\frac{2 \\times 9}{5} = \\frac{18}{5}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_center",
+    "questionText": "Find the coordinates of the centre of the ellipse $\\frac{x^2}{49} + \\frac{y^2}{16} = 1$.",
+    "questionLatex": "\\frac{x^2}{49}+\\frac{y^2}{16}=1",
+    "options": [
+      "$(0, 0)$",
+      "$(7, 4)$",
+      "$(4, 7)$",
+      "$(1, 1)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The given equation matches the standard base form $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$. All standard profiles without shifts of $x$ and $y$ have their centre located at the origin $(0, 0)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_eccentricity_range",
+    "questionText": "For any non-degenerate ellipse, the value of eccentricity $e$ satisfies the condition:",
+    "questionLatex": "$0 < e < 1$",
+    "options": [
+      "$e = 1$",
+      "$e > 1$",
+      "$0 < e < 1$",
+      "$e = 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The eccentricity $e$ measures the deviation of a conic profile from being a circle. For a circle $e=0$, for a parabola $e=1$, for a hyperbola $e>1$, and for an ellipse it lies strictly in the open interval $0 < e < 1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_definition",
+    "questionText": "A hyperbola is the set of all points in a plane such that the absolute difference of their distances from two fixed points is:",
+    "questionLatex": "$|PF_1-PF_2|=\\text{constant}$",
+    "options": [
+      "Variable",
+      "Zero",
+      "Constant",
+      "Equal to radius"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "By definition, for any point $P$ lying on a hyperbola, the absolute difference of its distances from two fixed points $F_1$ and $F_2$ (called foci) remains constant and is equal to the length of the transverse axis ($2a$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_standard_equation",
+    "questionText": "The standard equation of a hyperbola with its transverse axis along the $x$-axis is:",
+    "questionLatex": "$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$",
+    "options": [
+      "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$",
+      "$\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$",
+      "$\\frac{y^2}{a^2}-\\frac{x^2}{b^2}=1$",
+      "$x^2+y^2=a^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard form of a hyperbola centered at the origin with its transverse axis along the $x$-axis is $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, where the vertices are located at $(\\pm a, 0)$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_vertices",
+    "questionText": "Find the coordinates of the vertices of the hyperbola $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{16}-\\frac{y^2}{9}=1",
+    "options": [
+      "$(\\pm 3, 0)$",
+      "$(0, \\pm 4)$",
+      "$(\\pm 4, 0)$",
+      "$(0, \\pm 3)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Comparing with the standard equation $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, we get $a^2 = 16 \\implies a = 4$. Since the positive term contains $x$, the transverse axis lies along the $x$-axis. Thus, the vertices are $(\\pm a, 0) = (\\pm 4, 0)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_foci",
+    "questionText": "Find the coordinates of the foci of the hyperbola $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{16}-\\frac{y^2}{9}=1",
+    "options": [
+      "$(\\pm 5, 0)$",
+      "$(0, \\pm 5)$",
+      "$(\\pm 4, 0)$",
+      "$(0, \\pm 4)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Here $a^2 = 16$ and $b^2 = 9$. For a hyperbola, the focal relationship is $c^2 = a^2 + b^2 = 16 + 9 = 25 \\implies c = 5$. Since the transverse axis is along the $x$-axis, the coordinates of the foci are $(\\pm c, 0) = (\\pm 5, 0)$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_eccentricity",
+    "questionText": "Find the eccentricity of the hyperbola $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{16}-\\frac{y^2}{9}=1",
+    "options": [
+      "$\\frac{5}{4}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{3}{4}$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Given $a^2 = 16 \\implies a = 4$ and $b^2 = 9 \\implies b = 3$. The focal parameter distance is $c = \\sqrt{a^2 + b^2} = \\sqrt{16 + 9} = 5$. The eccentricity is given by $e = \\frac{c}{a} = \\frac{5}{4}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_transverse_axis",
+    "questionText": "Find the length of the transverse axis of the hyperbola $\\frac{x^2}{25} - \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}-\\frac{y^2}{9}=1",
+    "options": [
+      "$5$",
+      "$10$",
+      "$18$",
+      "$25$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Comparing with the standard form, we find $a^2 = 25 \\implies a = 5$. The length of the transverse axis is equal to $2a = 2 \\times 5 = 10$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_conjugate_axis",
+    "questionText": "Find the length of the conjugate axis of the hyperbola $\\frac{x^2}{25} - \\frac{y^2}{16} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}-\\frac{y^2}{16}=1",
+    "options": [
+      "$4$",
+      "$8$",
+      "$10$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Comparing the equation with $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, we find $b^2 = 16 \\implies b = 4$. The length of the conjugate axis is given by $2b = 2 \\times 4 = 8$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_latus_rectum",
+    "questionText": "Find the length of the latus rectum of the hyperbola $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{16}-\\frac{y^2}{9}=1",
+    "options": [
+      "$\\frac{9}{2}$",
+      "$9$",
+      "$\\frac{18}{4}$",
+      "$\\frac{36}{4}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Here $a^2 = 16 \\implies a = 4$ and $b^2 = 9$. The length of the latus rectum of a hyperbola is calculated using the formula $\\frac{2b^2}{a} = \\frac{2 \\times 9}{4} = \\frac{18}{4} = \\frac{9}{2}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_asymptotes",
+    "questionText": "The equations of the asymptotes of the hyperbola $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$ are:",
+    "questionLatex": "\\frac{x^2}{16}-\\frac{y^2}{9}=1",
+    "options": [
+      "$y=\\pm\\frac{4}{3}x$",
+      "$y=\\pm\\frac{3}{4}x$",
+      "$y=\\pm x$",
+      "$y=\\pm\\frac{9}{16}x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a standard hyperbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, the asymptotic straight lines pass through the origin and satisfy $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 0 \\implies y = \\pm \\frac{b}{a}x$. Substituting $a = 4$ and $b = 3$ gives $y = \\pm\\frac{3}{4}x$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_eccentricity_property",
+    "questionText": "For any non-degenerate hyperbola, its eccentricity $e$ always satisfies the condition:",
+    "questionLatex": "$e > 1$",
+    "options": [
+      "$0 < e < 1$",
+      "$e = 1$",
+      "$e > 1$",
+      "$e = 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since $c = \\sqrt{a^2 + b^2}$, the distance to the foci $c$ is always greater than the distance to the vertices $a$ ($c > a$). Therefore, the ratio expressing eccentricity $e = \\frac{c}{a}$ is always strictly greater than $1$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Circle",
+    "familyId": "circle_diameter_endpoints",
+    "questionText": "Find the equation of the circle whose diameter has endpoints $(2, 3)$ and $(8, 7)$.",
+    "questionLatex": "\\text{Diameter endpoints } (2,3), (8,7)",
+    "options": [
+      "$x^2 + y^2 - 10x - 10y + 37 = 0$",
+      "$x^2 + y^2 - 10x - 10y - 37 = 0$",
+      "$x^2 + y^2 + 10x + 10y + 37 = 0$",
+      "$x^2 + y^2 - 5x - 5y + 13 = 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the diameter form of a circle's equation: $(x - x_1)(x - x_2) + (y - y_1)(y - y_2) = 0$. Substituting $(2,3)$ and $(8,7)$ gives: $(x - 2)(x - 8) + (y - 3)(y - 7) = 0 \\implies x^2 - 10x + 16 + y^2 - 10y + 21 = 0 \\implies x^2 + y^2 - 10x - 10y + 37 = 0$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "vertex_of_parabola",
+    "questionText": "Find the coordinates of the vertex of the parabola $y^2 = 16x$.",
+    "questionLatex": "y^2=16x",
+    "options": [
+      "$(0, 0)$",
+      "$(4, 0)$",
+      "$(0, 4)$",
+      "$(-4, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The standard equation of a rightward-opening parabola is $y^2 = 4ax$. For all standard unmodified base positions, the vertex sits precisely at the origin $(0, 0)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Parabola",
+    "familyId": "focus_of_x2_parabola",
+    "questionText": "Find the coordinates of the focus of the parabola $x^2 = 20y$.",
+    "questionLatex": "x^2=20y",
+    "options": [
+      "$(0, 5)$",
+      "$(5, 0)$",
+      "$(0, -5)$",
+      "$(-5, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Comparing $x^2 = 20y$ with the standard form $x^2 = 4ay$, we get $4a = 20 \\implies a = 5$. Since it symmetric with respect to the $y$-axis and opens upwards, its focus is at $(0, a) = (0, 5)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "ellipse_director_circle",
+    "questionText": "Find the radius of the director circle of the ellipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+    "questionLatex": "\\frac{x^2}{25}+\\frac{y^2}{9}=1",
+    "options": [
+      "$3$",
+      "$4$",
+      "$5$",
+      "$\\sqrt{34}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The equation of the director circle of an ellipse $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ is $x^2 + y^2 = a^2 + b^2$. Here, $a^2 = 25$ and $b^2 = 9$. Thus, the radius of the director circle is $R = \\sqrt{a^2 + b^2} = \\sqrt{25 + 9} = \\sqrt{34}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "familyId": "minor_vertices_ellipse",
+    "questionText": "Find the coordinates of the co-vertices (endpoints of the minor axis) of the ellipse $\\frac{x^2}{36} + \\frac{y^2}{16} = 1$.",
+    "questionLatex": "\\frac{x^2}{36}+\\frac{y^2}{16}=1",
+    "options": [
+      "$(\\pm 6, 0)$",
+      "$(0, \\pm 6)$",
+      "$(0, \\pm 4)$",
+      "$(\\pm 4, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Comparing with $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, we get $a^2 = 36 \\implies a = 6$ and $b^2 = 16 \\implies b = 4$. Since $a > b$, the minor axis is along the $y$-axis, giving co-vertices at $(0, \\pm b) = (0, \\pm 4)$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_center",
+    "questionText": "Find the coordinates of the centre of the hyperbola $\\frac{x^2}{49} - \\frac{y^2}{25} = 1$.",
+    "questionLatex": "\\frac{x^2}{49}-\\frac{y^2}{25}=1",
+    "options": [
+      "$(0, 0)$",
+      "$(7, 5)$",
+      "$(5, 7)$",
+      "$(1, 1)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The equation fits the untranslated form $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$. Hence, the centre of symmetry lies at the origin $(0, 0)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_transverse_vertices",
+    "questionText": "Find the coordinates of the vertices of the hyperbola $\\frac{x^2}{49} - \\frac{y^2}{25} = 1$.",
+    "questionLatex": "\\frac{x^2}{49}-\\frac{y^2}{25}=1",
+    "options": [
+      "$(\\pm 5, 0)$",
+      "$(0, \\pm 7)$",
+      "$(\\pm 7, 0)$",
+      "$(0, \\pm 5)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Comparing with $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, we find $a^2 = 49 \\implies a = 7$. The transverse axis lies along the $x$-axis, so the vertices are situated at $(\\pm a, 0) = (\\pm 7, 0)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Hyperbola",
+    "familyId": "hyperbola_asymptotes_formula",
+    "questionText": "The equations of the asymptotes of the standard hyperbola $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ are given by:",
+    "questionLatex": "\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1",
+    "options": [
+      "$y=\\pm\\frac{a}{b}x$",
+      "$y=\\pm\\frac{b}{a}x$",
+      "$y=\\pm x$",
+      "$x=\\pm y$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The equations of asymptotes of a horizontal standard hyperbola are obtained from setting the constant term to zero, yielding $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 0 \\implies y = \\pm\\frac{b}{a}x$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Conic Identification",
+    "familyId": "identify_conic",
+    "questionText": "Identify the conic curve represented by the equation $x^2 + 4y^2 = 16$.",
+    "questionLatex": "x^2+4y^2=16",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dividing both sides by $16$ fields $\\frac{x^2}{16} + \\frac{y^2}{4} = 1$. This matches the standard profile $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ representing an ellipse."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Conic Sections",
+    "topic": "Conic Identification",
+    "familyId": "identify_hyperbola",
+    "questionText": "Identify the conic curve represented by the equation $9x^2 - 16y^2 = 144$.",
+    "questionLatex": "9x^2-16y^2=144",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Dividing both sides by $144$ yields $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$. This satisfies the negative relative term framework $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, representing a hyperbola."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

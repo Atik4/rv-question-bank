@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Introduction to Plant Kingdom",
+    "familyId": "plant_kingdom_scope",
+    "questionText": "According to modern classification, which of the following groups has been excluded from Kingdom Plantae?",
+    "questionLatex": "$$\\text{According to modern classification, which of the following groups has been excluded from Kingdom Plantae?}$$",
+    "options": [
+      "Bryophytes",
+      "Gymnosperms",
+      "Fungi",
+      "Angiosperms"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Modern classification excludes fungi, Monera and Protista from Kingdom Plantae although earlier systems included some of them."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification Systems",
+    "familyId": "artificial_classification",
+    "questionText": "Artificial systems of plant classification were mainly based on:",
+    "questionLatex": "$$\\text{Artificial systems of plant classification were mainly based on:}$$",
+    "options": [
+      "Evolutionary relationships",
+      "Gross superficial morphological characters",
+      "DNA sequencing",
+      "Chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Artificial systems relied mainly on superficial morphological characters such as habit, colour and leaf shape."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification Systems",
+    "familyId": "natural_classification",
+    "questionText": "Who proposed the widely accepted natural system of classification for flowering plants?",
+    "questionLatex": "$$\\text{Who proposed the widely accepted natural system of classification for flowering plants?}$$",
+    "options": [
+      "Carolus Linnaeus",
+      "George Bentham and Joseph Dalton Hooker",
+      "R.H. Whittaker",
+      "Charles Darwin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bentham and Hooker proposed the natural classification system based on natural affinities."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification Systems",
+    "familyId": "numerical_taxonomy",
+    "questionText": "Numerical taxonomy is based on:",
+    "questionLatex": "$$\\text{Numerical taxonomy is based on:}$$",
+    "options": [
+      "Only reproductive characters",
+      "Only anatomical characters",
+      "All observable characters with equal weightage",
+      "Only chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Numerical taxonomy assigns equal importance to all observable characters and processes them using computers."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification Systems",
+    "familyId": "cytotaxonomy_definition",
+    "questionText": "Cytotaxonomy is primarily based on:",
+    "questionLatex": "$$\\text{Cytotaxonomy is primarily based on:}$$",
+    "options": [
+      "Chemical constituents of plants",
+      "Ecological adaptations",
+      "Cytological information such as chromosome number and behaviour",
+      "Geographical distribution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cytotaxonomy uses cytological information including chromosome number, structure and behaviour."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_characteristics",
+    "questionText": "Which of the following best describes algae?",
+    "questionLatex": "$$\\text{Which of the following best describes algae?}$$",
+    "options": [
+      "Non-chlorophyllous terrestrial plants",
+      "Chlorophyll-bearing, thalloid and largely aquatic organisms",
+      "Vascular seed-bearing plants",
+      "Non-photosynthetic fungi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_habitat",
+    "questionText": "Besides aquatic habitats, algae commonly occur on:",
+    "questionLatex": "$$\\text{Besides aquatic habitats, algae commonly occur on:}$$",
+    "options": [
+      "Dry desert sand only",
+      "Moist stones, soil and wood",
+      "Snow-covered peaks only",
+      "Underground caves only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Algae also occur on moist stones, soils and wood, besides aquatic habitats."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_examples",
+    "questionText": "Which of the following is a colonial green alga?",
+    "questionLatex": "$$\\text{Which of the following is a colonial green alga?}$$",
+    "options": [
+      "Spirogyra",
+      "Ulothrix",
+      "Volvox",
+      "Fucus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Volvox is a colonial green alga, whereas Ulothrix is filamentous."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_vegetative_reproduction",
+    "questionText": "Vegetative reproduction in algae commonly occurs through:",
+    "questionLatex": "$$\\text{Vegetative reproduction in algae commonly occurs through:}$$",
+    "options": [
+      "Binary fission",
+      "Fragmentation",
+      "Conjugation",
+      "Budding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vegetative reproduction in algae takes place by fragmentation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_asexual_reproduction",
+    "questionText": "The most common asexual reproductive structures in algae are:",
+    "questionLatex": "$$\\text{The most common asexual reproductive structures in algae are:}$$",
+    "options": [
+      "Conidia",
+      "Gemmae",
+      "Zoospores",
+      "Seeds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Asexual reproduction in algae commonly occurs through flagellated zoospores."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_isogamy",
+    "questionText": "Fusion of two flagellated gametes that are similar in size is known as:",
+    "questionLatex": "$$\\text{Fusion of two flagellated gametes that are similar in size is known as:}$$",
+    "options": [
+      "Anisogamy",
+      "Oogamy",
+      "Isogamy",
+      "Parthenogenesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Isogamy involves fusion of morphologically similar gametes, as seen in Ulothrix."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_anisogamy",
+    "questionText": "Fusion of gametes that differ in size is called:",
+    "questionLatex": "$$\\text{Fusion of gametes that differ in size is called:}$$",
+    "options": [
+      "Isogamy",
+      "Anisogamy",
+      "Oogamy",
+      "Vegetative reproduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Anisogamy involves fusion of two gametes of unequal size, as in Eudorina."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Algae",
+    "familyId": "algae_oogamy",
+    "questionText": "Oogamy is characterised by:",
+    "questionLatex": "$$\\text{Oogamy is characterised by:}$$",
+    "options": [
+      "Fusion of two similar motile gametes",
+      "Fusion of two non-motile gametes",
+      "Fusion of a large non-motile female gamete with a smaller motile male gamete",
+      "Fusion of spores"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oogamy involves a large non-motile egg and a small motile male gamete."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Economic Importance of Algae",
+    "familyId": "algae_carbondioxide",
+    "questionText": "Approximately what fraction of the total carbon dioxide fixation on Earth is carried out by algae?",
+    "questionLatex": "$$\\text{Approximately what fraction of the total carbon dioxide fixation on Earth is carried out by algae?}$$",
+    "options": [
+      "One-fourth",
+      "One-third",
+      "One-half",
+      "Three-fourths"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Algae contribute nearly half of the global carbon dioxide fixation through photosynthesis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Economic Importance of Algae",
+    "familyId": "algae_primary_producers",
+    "questionText": "Algae are considered primary producers in aquatic ecosystems because they:",
+    "questionLatex": "$$\\text{Algae are considered primary producers in aquatic ecosystems because they:}$$",
+    "options": [
+      "Consume dead organic matter",
+      "Produce energy-rich organic compounds through photosynthesis",
+      "Feed on plankton",
+      "Fix atmospheric nitrogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Photosynthetic algae produce organic food that forms the base of aquatic food chains."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Economic Importance of Algae",
+    "familyId": "agar_source",
+    "questionText": "Agar is commercially obtained from which of the following algae?",
+    "questionLatex": "$$\\text{Agar is commercially obtained from which of the following algae?}$$",
+    "options": [
+      "Gelidium and Gracilaria",
+      "Volvox and Ulothrix",
+      "Fucus and Laminaria",
+      "Spirogyra and Chara"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Agar is extracted mainly from the red algae Gelidium and Gracilaria."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Economic Importance of Algae",
+    "familyId": "chlorella_use",
+    "questionText": "Why is Chlorella used as a food supplement?",
+    "questionLatex": "$$\\text{Why is } \\textit{Chlorella} \\text{ used as a food supplement?}$$",
+    "options": [
+      "It is rich in proteins",
+      "It produces antibiotics",
+      "It fixes atmospheric nitrogen",
+      "It contains lignin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Chlorella is a unicellular alga rich in proteins and is used as a food supplement."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification of Algae",
+    "familyId": "algae_classes",
+    "questionText": "The three major classes of algae are:",
+    "questionLatex": "$$\\text{The three major classes of algae are:}$$",
+    "options": [
+      "Bryophyceae, Pteridophyceae and Gymnospermae",
+      "Chlorophyceae, Phaeophyceae and Rhodophyceae",
+      "Dicotyledonae, Monocotyledonae and Gymnospermae",
+      "Psilopsida, Lycopsida and Pteropsida"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Algae are classified into Chlorophyceae, Phaeophyceae and Rhodophyceae."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Chlorophyceae",
+    "familyId": "green_algae_pigments",
+    "questionText": "Green algae possess which photosynthetic pigments predominantly?",
+    "questionLatex": "$$\\text{Green algae possess which photosynthetic pigments predominantly?}$$",
+    "options": [
+      "Chlorophyll a and c",
+      "Chlorophyll a and d",
+      "Chlorophyll a and b",
+      "Fucoxanthin only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The characteristic green colour of Chlorophyceae is due to chlorophyll a and b."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Chlorophyceae",
+    "familyId": "pyrenoids_function",
+    "questionText": "What is the primary function of pyrenoids present in the chloroplasts of green algae?",
+    "questionLatex": "$$\\text{What is the primary function of pyrenoids present in the chloroplasts of green algae?}$$",
+    "options": [
+      "Respiration",
+      "Storage of protein and starch",
+      "Nitrogen fixation",
+      "Water absorption"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pyrenoids are storage bodies containing protein in addition to starch."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Chlorophyceae",
+    "familyId": "chlorophyceae_food_storage",
+    "questionText": "The reserve food material in members of Chlorophyceae is mainly:",
+    "questionLatex": "$$\\text{The reserve food material in members of Chlorophyceae is mainly:}$$",
+    "options": [
+      "Laminarin and mannitol",
+      "Floridean starch",
+      "Starch",
+      "Glycogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Green algae store food mainly as starch, usually associated with pyrenoids."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Chlorophyceae",
+    "familyId": "chlorophyceae_cell_wall",
+    "questionText": "The cell wall of most green algae is primarily composed of:",
+    "questionLatex": "$$\\text{The cell wall of most green algae is primarily composed of:}$$",
+    "options": [
+      "Chitin",
+      "Cellulose",
+      "Silica",
+      "Lignin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell wall of Chlorophyceae is mainly made up of cellulose."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Chlorophyceae",
+    "familyId": "chlorophyceae_examples",
+    "questionText": "Which of the following is NOT a member of Chlorophyceae?",
+    "questionLatex": "$$\\text{Which of the following is NOT a member of Chlorophyceae?}$$",
+    "options": [
+      "Volvox",
+      "Chlamydomonas",
+      "Ulothrix",
+      "Sargassum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Sargassum belongs to Phaeophyceae (brown algae), whereas the others belong to Chlorophyceae."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "brown_algae_colour",
+    "questionText": "The characteristic brown colour of brown algae is mainly due to the pigment:",
+    "questionLatex": "$$\\text{The characteristic brown colour of brown algae is mainly due to the pigment:}$$",
+    "options": [
+      "Chlorophyll b",
+      "Fucoxanthin",
+      "Phycoerythrin",
+      "Carotene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fucoxanthin is the dominant xanthophyll pigment responsible for the brown colour of Phaeophyceae."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_habitat",
+    "questionText": "Most members of Phaeophyceae are found in:",
+    "questionLatex": "$$\\text{Most members of Phaeophyceae are found in:}$$",
+    "options": [
+      "Freshwater ponds",
+      "Marine habitats",
+      "Desert soil",
+      "Snow-covered mountains"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Brown algae are predominantly marine organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_food_reserve",
+    "questionText": "The reserve food material in brown algae is mainly:",
+    "questionLatex": "$$\\text{The reserve food material in brown algae is mainly:}$$",
+    "options": [
+      "Starch",
+      "Floridean starch",
+      "Laminarin and mannitol",
+      "Glycogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Brown algae store food mainly as laminarin and mannitol."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_body_parts",
+    "questionText": "The plant body of large brown algae is differentiated into:",
+    "questionLatex": "$$\\text{The plant body of large brown algae is differentiated into:}$$",
+    "options": [
+      "Root, stem and leaves",
+      "Holdfast, stipe and frond",
+      "Rhizoid, cauloid and phylloid",
+      "Root and shoot only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Brown algae possess a holdfast for attachment, a stipe and a leaf-like frond."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_examples",
+    "questionText": "Which of the following is an example of Phaeophyceae?",
+    "questionLatex": "$$\\text{Which of the following is an example of Phaeophyceae?}$$",
+    "options": [
+      "Ectocarpus",
+      "Spirogyra",
+      "Polysiphonia",
+      "Chara"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Ectocarpus is a brown alga belonging to Phaeophyceae."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_reproduction",
+    "questionText": "The pear-shaped zoospores produced by brown algae possess:",
+    "questionLatex": "$$\\text{The pear-shaped zoospores produced by brown algae possess:}$$",
+    "options": [
+      "One flagellum",
+      "Two laterally attached unequal flagella",
+      "Many flagella",
+      "No flagella"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Zoospores and gametes of brown algae possess two unequal laterally attached flagella."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Phaeophyceae",
+    "familyId": "phaeophyceae_sexual_reproduction",
+    "questionText": "Sexual reproduction in brown algae may exhibit:",
+    "questionLatex": "$$\\text{Sexual reproduction in brown algae may exhibit:}$$",
+    "options": [
+      "Only isogamy",
+      "Only oogamy",
+      "Isogamy, anisogamy and oogamy",
+      "Only anisogamy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Brown algae exhibit all three types of sexual reproduction: isogamy, anisogamy and oogamy."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Rhodophyceae",
+    "familyId": "rhodophyceae_colour",
+    "questionText": "The characteristic red colour of Rhodophyceae is mainly due to the pigment:",
+    "questionLatex": "$$\\text{The characteristic red colour of Rhodophyceae is mainly due to the pigment:}$$",
+    "options": [
+      "Fucoxanthin",
+      "Chlorophyll b",
+      "Phycoerythrin",
+      "Xanthophyll"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The red pigment phycoerythrin masks the green colour of chlorophyll in Rhodophyceae."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Rhodophyceae",
+    "familyId": "rhodophyceae_habitat",
+    "questionText": "Most members of Rhodophyceae are commonly found in:",
+    "questionLatex": "$$\\text{Most members of Rhodophyceae are commonly found in:}$$",
+    "options": [
+      "Freshwater ponds",
+      "Marine habitats",
+      "Deserts",
+      "Tree bark"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most red algae are marine, and many occur in deeper waters where blue light penetrates."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Rhodophyceae",
+    "familyId": "rhodophyceae_food_storage",
+    "questionText": "The reserve food material in Rhodophyceae is:",
+    "questionLatex": "$$\\text{The reserve food material in Rhodophyceae is:}$$",
+    "options": [
+      "Starch",
+      "Laminarin",
+      "Floridean starch",
+      "Mannitol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Red algae store reserve food in the form of floridean starch."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Rhodophyceae",
+    "familyId": "rhodophyceae_flagella",
+    "questionText": "Motile cells with flagella are absent in:",
+    "questionLatex": "$$\\text{Motile cells with flagella are absent in:}$$",
+    "options": [
+      "Chlorophyceae",
+      "Phaeophyceae",
+      "Rhodophyceae",
+      "All algae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Neither the gametes nor the spores of Rhodophyceae possess flagella."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Rhodophyceae",
+    "familyId": "rhodophyceae_examples",
+    "questionText": "Which of the following is an example of Rhodophyceae?",
+    "questionLatex": "$$\\text{Which of the following is an example of Rhodophyceae?}$$",
+    "options": [
+      "Volvox",
+      "Sargassum",
+      "Polysiphonia",
+      "Ulothrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Polysiphonia is a well-known member of Rhodophyceae."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_definition",
+    "questionText": "Bryophytes are commonly known as:",
+    "questionLatex": "$$\\text{Bryophytes are commonly known as:}$$",
+    "options": [
+      "Seed plants",
+      "Amphibians of the plant kingdom",
+      "Vascular cryptogams",
+      "Marine algae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bryophytes are called the amphibians of the plant kingdom because they require water for sexual reproduction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_habitat",
+    "questionText": "Bryophytes generally grow in:",
+    "questionLatex": "$$\\text{Bryophytes generally grow in:}$$",
+    "options": [
+      "Dry sandy deserts",
+      "Moist and shaded places",
+      "Deep oceans",
+      "Snow-covered mountains only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bryophytes are commonly found in moist and shaded habitats."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_body",
+    "questionText": "The dominant plant body in bryophytes is the:",
+    "questionLatex": "$$\\text{The dominant plant body in bryophytes is the:}$$",
+    "options": [
+      "Sporophyte",
+      "Gametophyte",
+      "Embryo",
+      "Seedling"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The free-living, photosynthetic gametophyte is the dominant generation in bryophytes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_rhizoids",
+    "questionText": "Instead of true roots, bryophytes possess:",
+    "questionLatex": "$$\\text{Instead of true roots, bryophytes possess:}$$",
+    "options": [
+      "Root hairs",
+      "Rhizoids",
+      "Adventitious roots",
+      "Haustoria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bryophytes lack true roots and possess rhizoids for anchorage and absorption."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_reproduction",
+    "questionText": "Why is water essential for sexual reproduction in bryophytes?",
+    "questionLatex": "$$\\text{Why is water essential for sexual reproduction in bryophytes?}$$",
+    "options": [
+      "It dissolves spores.",
+      "It transports food to the sporophyte.",
+      "The motile male gametes require water to reach the archegonium.",
+      "It initiates seed germination."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The flagellated antherozoids swim through a film of water to reach the egg present in the archegonium."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_sporophyte",
+    "questionText": "The sporophyte of bryophytes is:",
+    "questionLatex": "$$\\text{The sporophyte of bryophytes is:}$$",
+    "options": [
+      "Independent and dominant",
+      "Dependent on the gametophyte for nutrition",
+      "Absent throughout the life cycle",
+      "Photosynthetic and free-living in all bryophytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sporophyte remains attached to and is nutritionally dependent on the gametophyte."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "bryophyte_examples",
+    "questionText": "Which of the following is an example of a liverwort?",
+    "questionLatex": "$$\\text{Which of the following is an example of a liverwort?}$$",
+    "options": [
+      "Funaria",
+      "Sphagnum",
+      "Marchantia",
+      "Selaginella"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Marchantia is a common liverwort, whereas Funaria and Sphagnum are mosses."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "moss_examples",
+    "questionText": "Which of the following is NOT a moss?",
+    "questionLatex": "$$\\text{Which of the following is NOT a moss?}$$",
+    "options": [
+      "Funaria",
+      "Polytrichum",
+      "Marchantia",
+      "Sphagnum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Marchantia is a liverwort, while Funaria, Polytrichum and Sphagnum are mosses."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "familyId": "peat_moss",
+    "questionText": "Peat is commercially obtained from:",
+    "questionLatex": "$$\\text{Peat is commercially obtained from:}$$",
+    "options": [
+      "Marchantia",
+      "Riccia",
+      "Sphagnum",
+      "Funaria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Sphagnum, commonly called peat moss, is the source of peat used as fuel and soil conditioner."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "pteridophyte_definition",
+    "questionText": "Pteridophytes are regarded as:",
+    "questionLatex": "$$\\text{Pteridophytes are regarded as:}$$",
+    "options": [
+      "First seed-bearing plants",
+      "First terrestrial plants to possess vascular tissues",
+      "First flowering plants",
+      "Non-vascular plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pteridophytes are the first terrestrial plants to possess well-developed vascular tissues."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "pteridophyte_body",
+    "questionText": "The dominant phase in the life cycle of pteridophytes is:",
+    "questionLatex": "$$\\text{The dominant phase in the life cycle of pteridophytes is:}$$",
+    "options": [
+      "Gametophyte",
+      "Sporophyte",
+      "Embryo",
+      "Protonema"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sporophyte is the dominant, independent and photosynthetic generation in pteridophytes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "pteridophyte_vascular_tissue",
+    "questionText": "Which tissues constitute the vascular system of pteridophytes?",
+    "questionLatex": "$$\\text{Which tissues constitute the vascular system of pteridophytes?}$$",
+    "options": [
+      "Parenchyma and collenchyma",
+      "Xylem and phloem",
+      "Epidermis and cortex",
+      "Sclerenchyma and collenchyma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pteridophytes possess well-developed vascular tissues consisting of xylem and phloem."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "homospory_heterospory",
+    "questionText": "Pteridophytes producing spores of two different sizes are known as:",
+    "questionLatex": "$$\\text{Pteridophytes producing spores of two different sizes are known as:}$$",
+    "options": [
+      "Homosporous",
+      "Heterosporous",
+      "Isogamous",
+      "Oogamous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heterosporous pteridophytes produce microspores and megaspores."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "heterosporous_examples",
+    "questionText": "Which pair of pteridophytes is heterosporous?",
+    "questionLatex": "$$\\text{Which pair of pteridophytes is heterosporous?}$$",
+    "options": [
+      "Psilotum and Lycopodium",
+      "Equisetum and Adiantum",
+      "Selaginella and Salvinia",
+      "Dryopteris and Pteris"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Selaginella and Salvinia are heterosporous pteridophytes and represent an important step towards the evolution of seed habit."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "familyId": "seed_habit_origin",
+    "questionText": "The evolution of seed habit in plants is associated with the development of:",
+    "questionLatex": "$$\\text{The evolution of seed habit in plants is associated with the development of:}$$",
+    "options": [
+      "Homospory",
+      "Heterospory",
+      "Vegetative propagation",
+      "Fragmentation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heterospory and the retention of the female gametophyte are considered important evolutionary steps towards the origin of seeds."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

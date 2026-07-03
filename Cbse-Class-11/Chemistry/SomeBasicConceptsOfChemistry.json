@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Chemistry and Its Scope",
+    "familyId": "definition_of_chemistry",
+    "questionText": "Chemistry is the branch of science that studies:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Motion of celestial bodies",
+        "latex": null
+      },
+      {
+        "text": "Preparation, properties, structure and reactions of material substances",
+        "latex": null
+      },
+      {
+        "text": "Living organisms only",
+        "latex": null
+      },
+      {
+        "text": "Earth and atmosphere only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Preparation, properties, structure and reactions of material substances",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Development of Chemistry",
+    "familyId": "alchemy_objectives",
+    "questionText": "The search for which two ideas contributed significantly to the early development of chemistry?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic theory and periodic table",
+        "latex": null
+      },
+      {
+        "text": "Philosopher's stone and elixir of life",
+        "latex": null
+      },
+      {
+        "text": "Nuclear energy and electricity",
+        "latex": null
+      },
+      {
+        "text": "Vaccines and antibiotics",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Philosopher's stone and elixir of life",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Ancient Indian Chemistry",
+    "familyId": "rasayan_shastra",
+    "questionText": "In ancient India, chemistry was commonly known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Jyotish Shastra",
+        "latex": null
+      },
+      {
+        "text": "Vastu Shastra",
+        "latex": null
+      },
+      {
+        "text": "Rasayan Shastra",
+        "latex": null
+      },
+      {
+        "text": "Ayurveda",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Rasayan Shastra",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Importance of Chemistry",
+    "familyId": "drug_application",
+    "questionText": "Which drug mentioned in the chapter is used in helping AIDS patients?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Taxol",
+        "latex": null
+      },
+      {
+        "text": "Cisplatin",
+        "latex": null
+      },
+      {
+        "text": "AZT",
+        "latex": null
+      },
+      {
+        "text": "Penicillin",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "AZT",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Nature of Matter",
+    "familyId": "definition_of_matter",
+    "questionText": "Anything that has mass and occupies space is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Energy",
+        "latex": null
+      },
+      {
+        "text": "Matter",
+        "latex": null
+      },
+      {
+        "text": "Force",
+        "latex": null
+      },
+      {
+        "text": "Radiation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Matter",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "States of Matter",
+    "familyId": "solid_properties",
+    "questionText": "Which of the following is a characteristic property of solids?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Definite volume but no definite shape",
+        "latex": null
+      },
+      {
+        "text": "Neither definite shape nor definite volume",
+        "latex": null
+      },
+      {
+        "text": "Definite shape and definite volume",
+        "latex": null
+      },
+      {
+        "text": "Completely fills the container",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Definite shape and definite volume",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "States of Matter",
+    "familyId": "gas_properties",
+    "questionText": "Gases:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Have definite shape only",
+        "latex": null
+      },
+      {
+        "text": "Have definite volume only",
+        "latex": null
+      },
+      {
+        "text": "Have neither definite shape nor definite volume",
+        "latex": null
+      },
+      {
+        "text": "Have definite mass but no particles",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Have neither definite shape nor definite volume",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Classification of Matter",
+    "familyId": "pure_substance",
+    "questionText": "A pure substance is one in which:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Composition varies from sample to sample",
+        "latex": null
+      },
+      {
+        "text": "Constituent particles are identical in chemical nature",
+        "latex": null
+      },
+      {
+        "text": "Components can always be separated physically",
+        "latex": null
+      },
+      {
+        "text": "Particles are visible to the naked eye",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Constituent particles are identical in chemical nature",
+      "latex": null
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Mixtures",
+    "familyId": "homogeneous_mixture",
+    "questionText": "Which of the following is a homogeneous mixture?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Sand and iron filings",
+        "latex": null
+      },
+      {
+        "text": "Oil and water",
+        "latex": null
+      },
+      {
+        "text": "Sugar solution",
+        "latex": null
+      },
+      {
+        "text": "Grains mixed with stones",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Sugar solution",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Elements and Compounds",
+    "familyId": "compound_definition",
+    "questionText": "When atoms of different elements combine in a fixed ratio, they form a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mixture",
+        "latex": null
+      },
+      {
+        "text": "Element",
+        "latex": null
+      },
+      {
+        "text": "Compound",
+        "latex": null
+      },
+      {
+        "text": "Solution",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Compound",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Physical and Chemical Properties",
+    "familyId": "physical_property_definition",
+    "questionText": "Which of the following is a physical property of a substance?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Combustibility",
+        "latex": null
+      },
+      {
+        "text": "Acidity",
+        "latex": null
+      },
+      {
+        "text": "Density",
+        "latex": null
+      },
+      {
+        "text": "Reactivity with acids",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Density",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Physical and Chemical Properties",
+    "familyId": "chemical_property_definition",
+    "questionText": "Which of the following is a chemical property?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Boiling point",
+        "latex": null
+      },
+      {
+        "text": "Density",
+        "latex": null
+      },
+      {
+        "text": "Colour",
+        "latex": null
+      },
+      {
+        "text": "Combustibility",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Combustibility",
+      "latex": null
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "SI Units",
+    "familyId": "si_length_unit",
+    "questionText": "The SI unit of length is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Centimetre",
+        "latex": null
+      },
+      {
+        "text": "Kilometre",
+        "latex": null
+      },
+      {
+        "text": "Metre",
+        "latex": null
+      },
+      {
+        "text": "Millimetre",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Metre",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "SI Units",
+    "familyId": "si_base_units_count",
+    "questionText": "The International System of Units (SI) consists of how many base units?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "5",
+        "latex": null
+      },
+      {
+        "text": "6",
+        "latex": null
+      },
+      {
+        "text": "7",
+        "latex": null
+      },
+      {
+        "text": "8",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "7",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "SI Units",
+    "familyId": "amount_of_substance_unit",
+    "questionText": "The SI unit of amount of substance is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gram",
+        "latex": null
+      },
+      {
+        "text": "Mole",
+        "latex": null
+      },
+      {
+        "text": "Kilogram",
+        "latex": null
+      },
+      {
+        "text": "Atom",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mole",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Mass and Weight",
+    "familyId": "mass_definition",
+    "questionText": "Mass of a substance is defined as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Force exerted by gravity",
+        "latex": null
+      },
+      {
+        "text": "Amount of matter present in it",
+        "latex": null
+      },
+      {
+        "text": "Volume occupied by it",
+        "latex": null
+      },
+      {
+        "text": "Density multiplied by volume",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Amount of matter present in it",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Volume",
+    "familyId": "litre_conversion",
+    "questionText": "One litre is equal to:",
+    "questionLatex": "1\\text{ L} = ?",
+    "options": [
+      {
+        "text": "10 mL",
+        "latex": "10\\text{ mL}"
+      },
+      {
+        "text": "100 mL",
+        "latex": "100\\text{ mL}"
+      },
+      {
+        "text": "1000 mL",
+        "latex": "1000\\text{ mL}"
+      },
+      {
+        "text": "10000 mL",
+        "latex": "10000\\text{ mL}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1000 mL",
+      "latex": "1000\\text{ mL}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Density",
+    "familyId": "density_formula",
+    "questionText": "Density is defined as:",
+    "questionLatex": "\\rho = \\frac{m}{V}",
+    "options": [
+      {
+        "text": "Mass × Volume",
+        "latex": "m \\times V"
+      },
+      {
+        "text": "Volume / Mass",
+        "latex": "\\frac{V}{m}"
+      },
+      {
+        "text": "Mass / Volume",
+        "latex": "\\frac{m}{V}"
+      },
+      {
+        "text": "Mass + Volume",
+        "latex": "m + V"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Mass / Volume",
+      "latex": "\\frac{m}{V}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Temperature",
+    "familyId": "kelvin_relation",
+    "questionText": "The relation between Kelvin and Celsius scales is:",
+    "questionLatex": "K = {}^\\circ\\text{C} + 273.15",
+    "options": [
+      {
+        "text": "K = °C − 273.15",
+        "latex": "K = {}^\\circ\\text{C} - 273.15"
+      },
+      {
+        "text": "K = °C + 273.15",
+        "latex": "K = {}^\\circ\\text{C} + 273.15"
+      },
+      {
+        "text": "K = °C × 273.15",
+        "latex": "K = {}^\\circ\\text{C} \\times 273.15"
+      },
+      {
+        "text": "K = °C / 273.15",
+        "latex": "K = \\frac{{}^\\circ\\text{C}}{273.15}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "K = °C + 273.15",
+      "latex": "K = {}^\\circ\\text{C} + 273.15"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Scientific Notation",
+    "familyId": "scientific_notation_basic",
+    "questionText": "Express 0.00016 in scientific notation.",
+    "questionLatex": "0.00016 = \\, ?",
+    "options": [
+      {
+        "text": "1.6 × 10⁻⁴",
+        "latex": "1.6 \\times 10^{-4}"
+      },
+      {
+        "text": "1.6 × 10⁴",
+        "latex": "1.6 \\times 10^{4}"
+      },
+      {
+        "text": "16 × 10⁻⁴",
+        "latex": "16 \\times 10^{-4}"
+      },
+      {
+        "text": "0.16 × 10⁻⁴",
+        "latex": "0.16 \\times 10^{-4}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1.6 × 10⁻⁴",
+      "latex": "1.6 \\times 10^{-4}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures_definition",
+    "questionText": "Significant figures in a measurement include:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only certain digits",
+        "latex": null
+      },
+      {
+        "text": "Only uncertain digits",
+        "latex": null
+      },
+      {
+        "text": "All certain digits and the first uncertain digit",
+        "latex": null
+      },
+      {
+        "text": "Only digits before decimal point",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "All certain digits and the first uncertain digit",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Significant Figures",
+    "familyId": "significant_figures_count",
+    "questionText": "How many significant figures are present in 0.00450?",
+    "questionLatex": "0.00450",
+    "options": [
+      {
+        "text": "2",
+        "latex": "2"
+      },
+      {
+        "text": "3",
+        "latex": "3"
+      },
+      {
+        "text": "4",
+        "latex": "4"
+      },
+      {
+        "text": "5",
+        "latex": "5"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3",
+      "latex": "3"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Significant Figures",
+    "familyId": "zero_rules",
+    "questionText": "The number of significant figures in 2005 is:",
+    "questionLatex": "2005",
+    "options": [
+      {
+        "text": "2",
+        "latex": "2"
+      },
+      {
+        "text": "3",
+        "latex": "3"
+      },
+      {
+        "text": "4",
+        "latex": "4"
+      },
+      {
+        "text": "5",
+        "latex": "5"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "4",
+      "latex": "4"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Significant Figures",
+    "familyId": "addition_significant_figures",
+    "questionText": "According to significant figure rules, calculate 12.11 + 18.0.",
+    "questionLatex": "12.11 + 18.0",
+    "options": [
+      {
+        "text": "30.11",
+        "latex": "30.11"
+      },
+      {
+        "text": "30.1",
+        "latex": "30.1"
+      },
+      {
+        "text": "30",
+        "latex": "30"
+      },
+      {
+        "text": "30.110",
+        "latex": "30.110"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "30.1",
+      "latex": "30.1"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Dimensional Analysis",
+    "familyId": "dimensional_analysis_definition",
+    "questionText": "Dimensional analysis is primarily used for:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Preparing compounds",
+        "latex": null
+      },
+      {
+        "text": "Unit conversion and checking equations",
+        "latex": null
+      },
+      {
+        "text": "Measuring temperature only",
+        "latex": null
+      },
+      {
+        "text": "Determining atomic masses",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Unit conversion and checking equations",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Laws of Chemical Combination",
+    "familyId": "law_of_conservation_mass",
+    "questionText": "The Law of Conservation of Mass was proposed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dalton",
+        "latex": null
+      },
+      {
+        "text": "Lavoisier",
+        "latex": null
+      },
+      {
+        "text": "Proust",
+        "latex": null
+      },
+      {
+        "text": "Avogadro",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Lavoisier",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Law of Conservation of Mass",
+    "familyId": "conservation_mass_statement",
+    "questionText": "According to the law of conservation of mass:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass can be created",
+        "latex": null
+      },
+      {
+        "text": "Mass can be destroyed",
+        "latex": null
+      },
+      {
+        "text": "Mass can neither be created nor destroyed in a chemical reaction",
+        "latex": null
+      },
+      {
+        "text": "Mass depends on volume",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Mass can neither be created nor destroyed in a chemical reaction",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Law of Definite Proportions",
+    "familyId": "proust_law",
+    "questionText": "The law of definite proportions was given by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Lavoisier",
+        "latex": null
+      },
+      {
+        "text": "Dalton",
+        "latex": null
+      },
+      {
+        "text": "Proust",
+        "latex": null
+      },
+      {
+        "text": "Gay-Lussac",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Proust",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Law of Definite Proportions",
+    "familyId": "water_composition",
+    "questionText": "In pure water, hydrogen and oxygen are always present in a fixed mass ratio of:",
+    "questionLatex": "\\text{H} : \\text{O} = ?",
+    "options": [
+      {
+        "text": "1:8",
+        "latex": "1:8"
+      },
+      {
+        "text": "2:1",
+        "latex": "2:1"
+      },
+      {
+        "text": "8:1",
+        "latex": "8:1"
+      },
+      {
+        "text": "1:16",
+        "latex": "1:16"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1:8",
+      "latex": "1:8"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Law of Multiple Proportions",
+    "familyId": "multiple_proportions_definition",
+    "questionText": "The law of multiple proportions was proposed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dalton",
+        "latex": null
+      },
+      {
+        "text": "Lavoisier",
+        "latex": null
+      },
+      {
+        "text": "Proust",
+        "latex": null
+      },
+      {
+        "text": "Berzelius",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Dalton",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Gay-Lussac's Law",
+    "familyId": "gay_lussac_law_definition",
+    "questionText": "The law of gaseous volumes was proposed by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dalton",
+        "latex": null
+      },
+      {
+        "text": "Gay-Lussac",
+        "latex": null
+      },
+      {
+        "text": "Avogadro",
+        "latex": null
+      },
+      {
+        "text": "Proust",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Gay-Lussac",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Gay-Lussac's Law",
+    "familyId": "gaseous_volume_ratio",
+    "questionText": "According to Gay-Lussac's law, gaseous reactants and products combine in:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Any volume ratio",
+        "latex": null
+      },
+      {
+        "text": "Simple whole-number volume ratios",
+        "latex": null
+      },
+      {
+        "text": "Equal mass ratios only",
+        "latex": null
+      },
+      {
+        "text": "Equal density ratios",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Simple whole-number volume ratios",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Avogadro's Law",
+    "familyId": "avogadro_law_definition",
+    "questionText": "Avogadro's law states that equal volumes of all gases at the same temperature and pressure contain:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Equal masses",
+        "latex": null
+      },
+      {
+        "text": "Equal densities",
+        "latex": null
+      },
+      {
+        "text": "Equal number of molecules",
+        "latex": null
+      },
+      {
+        "text": "Equal atomic masses",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Equal number of molecules",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Dalton's Atomic Theory",
+    "familyId": "dalton_postulate",
+    "questionText": "According to Dalton's atomic theory, atoms are:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Divisible in chemical reactions",
+        "latex": null
+      },
+      {
+        "text": "Created during chemical reactions",
+        "latex": null
+      },
+      {
+        "text": "Indestructible in chemical reactions",
+        "latex": null
+      },
+      {
+        "text": "Different for all isotopes",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Indestructible in chemical reactions",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Atomic Mass",
+    "familyId": "amu_definition",
+    "questionText": "One atomic mass unit (u) is defined as:",
+    "questionLatex": "1\\text{ u}",
+    "options": [
+      {
+        "text": "Mass of one hydrogen atom",
+        "latex": null
+      },
+      {
+        "text": "1/12 of the mass of a carbon-12 atom",
+        "latex": "\\frac{1}{12} \\times m(^{12}\\text{C})"
+      },
+      {
+        "text": "Mass of one proton",
+        "latex": null
+      },
+      {
+        "text": "1/16 of oxygen atom mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1/12 of the mass of a carbon-12 atom",
+      "latex": "\\frac{1}{12} \\times m(^{12}\\text{C})"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Atomic Mass",
+    "familyId": "relative_atomic_mass",
+    "questionText": "Relative atomic mass is the ratio of average mass of an atom to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass of hydrogen atom",
+        "latex": null
+      },
+      {
+        "text": "1/12 mass of carbon-12 atom",
+        "latex": null
+      },
+      {
+        "text": "Mass of oxygen atom",
+        "latex": null
+      },
+      {
+        "text": "Mass of one mole of atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1/12 mass of carbon-12 atom",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Molecular Mass",
+    "familyId": "molecular_mass_definition",
+    "questionText": "Molecular mass is obtained by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Multiplying atomic masses",
+        "latex": null
+      },
+      {
+        "text": "Subtracting atomic masses",
+        "latex": null
+      },
+      {
+        "text": "Adding atomic masses of all atoms present in a molecule",
+        "latex": null
+      },
+      {
+        "text": "Dividing atomic masses by number of atoms",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Adding atomic masses of all atoms present in a molecule",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Formula Mass",
+    "familyId": "formula_mass_definition",
+    "questionText": "Formula mass is used for:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Molecular substances only",
+        "latex": null
+      },
+      {
+        "text": "Ionic compounds",
+        "latex": null
+      },
+      {
+        "text": "Elements only",
+        "latex": null
+      },
+      {
+        "text": "Gaseous substances only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ionic compounds",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Molecular Mass Calculation",
+    "familyId": "water_molecular_mass",
+    "questionText": "The molecular mass of water (H₂O) is:",
+    "questionLatex": "\\text{H}_2\\text{O}",
+    "options": [
+      {
+        "text": "16 u",
+        "latex": "16\\text{ u}"
+      },
+      {
+        "text": "17 u",
+        "latex": "17\\text{ u}"
+      },
+      {
+        "text": "18 u",
+        "latex": "18\\text{ u}"
+      },
+      {
+        "text": "20 u",
+        "latex": "20\\text{ u}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "18 u",
+      "latex": "18\\text{ u}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Formula Mass Calculation",
+    "familyId": "nacl_formula_mass",
+    "questionText": "The formula mass of NaCl is approximately:",
+    "questionLatex": "\\text{NaCl}",
+    "options": [
+      {
+        "text": "23.0 u",
+        "latex": "23.0\\text{ u}"
+      },
+      {
+        "text": "35.5 u",
+        "latex": "35.5\\text{ u}"
+      },
+      {
+        "text": "58.5 u",
+        "latex": "58.5\\text{ u}"
+      },
+      {
+        "text": "60.0 u",
+        "latex": "60.0\\text{ u}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "58.5 u",
+      "latex": "58.5\\text{ u}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Mole Concept",
+    "familyId": "mole_definition",
+    "questionText": "One mole of a substance contains:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "6.022 × 10²⁰ particles",
+        "latex": "6.022 \\times 10^{20}"
+      },
+      {
+        "text": "6.022 × 10²² particles",
+        "latex": "6.022 \\times 10^{22}"
+      },
+      {
+        "text": "6.022 × 10²³ particles",
+        "latex": "6.022 \\times 10^{23}"
+      },
+      {
+        "text": "6.022 × 10²⁴ particles",
+        "latex": "6.022 \\times 10^{24}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "6.022 × 10²³ particles",
+      "latex": "6.022 \\times 10^{23}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Avogadro Constant",
+    "familyId": "avogadro_constant",
+    "questionText": "The Avogadro constant is represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "R",
+        "latex": "R"
+      },
+      {
+        "text": "Nₐ",
+        "latex": "N_A"
+      },
+      {
+        "text": "M",
+        "latex": "M"
+      },
+      {
+        "text": "K",
+        "latex": "K"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Nₐ",
+      "latex": "N_A"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Molar Mass",
+    "familyId": "molar_mass_definition",
+    "questionText": "Molar mass is defined as the mass of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One atom",
+        "latex": null
+      },
+      {
+        "text": "One molecule",
+        "latex": null
+      },
+      {
+        "text": "One mole of a substance",
+        "latex": null
+      },
+      {
+        "text": "One gram of a substance",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "One mole of a substance",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Mole Calculations",
+    "familyId": "moles_from_mass",
+    "questionText": "Calculate the number of moles present in 18 g of water.",
+    "questionLatex": "n = \\frac{m}{M}",
+    "options": [
+      {
+        "text": "0.5 mol",
+        "latex": "0.5"
+      },
+      {
+        "text": "1 mol",
+        "latex": "1"
+      },
+      {
+        "text": "2 mol",
+        "latex": "2"
+      },
+      {
+        "text": "18 mol",
+        "latex": "18"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1 mol",
+      "latex": "1"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Mole Calculations",
+    "familyId": "particles_in_mole",
+    "questionText": "The number of molecules present in 2 moles of oxygen gas is:",
+    "questionLatex": "N = n N_A",
+    "options": [
+      {
+        "text": "6.022 × 10²³",
+        "latex": "6.022 \\times 10^{23}"
+      },
+      {
+        "text": "1.2044 × 10²⁴",
+        "latex": "1.2044 \\times 10^{24}"
+      },
+      {
+        "text": "3.011 × 10²³",
+        "latex": "3.011 \\times 10^{23}"
+      },
+      {
+        "text": "2.4088 × 10²⁴",
+        "latex": "2.4088 \\times 10^{24}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1.2044 × 10²⁴",
+      "latex": "1.2044 \\times 10^{24}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Percentage Composition",
+    "familyId": "percentage_composition_definition",
+    "questionText": "Percentage composition of an element in a compound is calculated using:",
+    "questionLatex": "\\% \\text{ element} = \\frac{\\text{mass of element}}{\\text{molar mass}} \\times 100",
+    "options": [
+      {
+        "text": "Mass of compound / Mass of element × 100",
+        "latex": null
+      },
+      {
+        "text": "Mass of element / Molar mass of compound × 100",
+        "latex": null
+      },
+      {
+        "text": "Molar mass / Mass of element × 100",
+        "latex": null
+      },
+      {
+        "text": "Mass of element × Molar mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mass of element / Molar mass of compound × 100",
+      "latex": null
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Empirical Formula",
+    "familyId": "empirical_formula_definition",
+    "questionText": "The empirical formula of a compound represents:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Actual number of atoms present",
+        "latex": null
+      },
+      {
+        "text": "Simplest whole-number ratio of atoms",
+        "latex": null
+      },
+      {
+        "text": "Total number of molecules",
+        "latex": null
+      },
+      {
+        "text": "Molecular mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Simplest whole-number ratio of atoms",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Molecular Formula",
+    "familyId": "molecular_formula_relation",
+    "questionText": "The molecular formula is related to empirical formula by:",
+    "questionLatex": "\\text{MF} = n \\times \\text{EF}",
+    "options": [
+      {
+        "text": "MF = EF / n",
+        "latex": "\\text{MF} = \\frac{\\text{EF}}{n}"
+      },
+      {
+        "text": "MF = n × EF",
+        "latex": "\\text{MF} = n \\times \\text{EF}"
+      },
+      {
+        "text": "MF = EF + n",
+        "latex": "\\text{MF} = \\text{EF} + n"
+      },
+      {
+        "text": "MF = EF − n",
+        "latex": "\\text{MF} = \\text{EF} - n"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "MF = n × EF",
+      "latex": "\\text{MF} = n \\times \\text{EF}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Stoichiometry",
+    "familyId": "stoichiometry_definition",
+    "questionText": "Stoichiometry deals with the quantitative relationships between:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atoms only",
+        "latex": null
+      },
+      {
+        "text": "Reactants and products in a chemical reaction",
+        "latex": null
+      },
+      {
+        "text": "Elements and compounds only",
+        "latex": null
+      },
+      {
+        "text": "Temperature and pressure",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reactants and products in a chemical reaction",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Limiting Reagent",
+    "familyId": "limiting_reagent_definition",
+    "questionText": "The reactant that gets completely consumed first in a chemical reaction is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Excess reagent",
+        "latex": null
+      },
+      {
+        "text": "Catalyst",
+        "latex": null
+      },
+      {
+        "text": "Limiting reagent",
+        "latex": null
+      },
+      {
+        "text": "Product reagent",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Limiting reagent",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  }
+]

@@ -1,0 +1,1199 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "familyId": "types_of_solutions_identification",
+    "questionText": "Which of the following is an example of a gaseous solution in which both solute and solvent are gases?",
+    "questionLatex": "$\\text{Identify the gaseous solution where both solute and solvent are gases.}$",
+    "options": [
+      "Oxygen dissolved in water",
+      "Mixture of oxygen and nitrogen gases",
+      "Glucose dissolved in water",
+      "Hydrogen dissolved in palladium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A mixture of oxygen and nitrogen gases is a gaseous solution with both components in the gaseous state."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Types of Solutions",
+    "familyId": "solid_solution_example",
+    "questionText": "Amalgam of mercury with sodium is classified as which type of solution?",
+    "questionLatex": "$\\text{Classify amalgam of mercury with sodium.}$",
+    "options": [
+      "Gas in liquid",
+      "Liquid in solid",
+      "Solid in liquid",
+      "Gas in solid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Amalgam of mercury with sodium is a liquid solute dissolved in a solid solvent."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Mass Percentage",
+    "familyId": "mass_percentage_calculation",
+    "questionText": "Calculate the mass percentage of glucose in a solution prepared by dissolving 10 g of glucose in 90 g of water.",
+    "questionLatex": "$\\text{Calculate mass \\% of glucose in a solution containing } 10\\text{ g glucose and } 90\\text{ g water.}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 10,
+      "unit": "%",
+      "steps": [
+        "Mass of solute (glucose) = 10 g",
+        "Mass of solvent (water) = 90 g",
+        "Total mass of solution = 10 g + 90 g = 100 g",
+        "Mass % = (Mass of solute / Total mass of solution) * 100 = (10 / 100) * 100 = 10%"
+      ]
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Volume Percentage",
+    "familyId": "volume_percentage_definition",
+    "questionText": "A 10% (v/v) ethanol solution means:",
+    "questionLatex": "$\\text{Interpret } 10\\% (v/v) \\text{ ethanol solution.}$",
+    "options": [
+      "10 g ethanol in 100 g solution",
+      "10 mL ethanol in 100 mL solution",
+      "10 mol ethanol in 1 L solution",
+      "10 mL ethanol in 90 mL water exactly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Volume percentage represents volume of solute per 100 mL of total solution."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Parts Per Million",
+    "familyId": "ppm_concept",
+    "questionText": "Which concentration unit is most suitable for expressing the concentration of pollutants present in trace amounts in water?",
+    "questionLatex": "$\\text{Choose the suitable unit for trace pollutants in water.}$",
+    "options": [
+      "Molality",
+      "Molarity",
+      "Parts per million (ppm)",
+      "Mass percentage"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Trace concentrations are conveniently expressed in ppm."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Mole Fraction",
+    "familyId": "mole_fraction_formula",
+    "questionText": "In a binary solution containing nA moles of A and nB moles of B, the mole fraction of A is:",
+    "questionLatex": "$x_A = ?$",
+    "options": [
+      "$\\frac{n_A}{n_B}$",
+      "$\\frac{n_A}{n_A + n_B}$",
+      "$\\frac{n_B}{n_A + n_B}$",
+      "$n_A + n_B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mole fraction is the ratio of moles of a component to total moles present."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Mole Fraction",
+    "familyId": "mole_fraction_sum",
+    "questionText": "What is the sum of mole fractions of all components present in a solution?",
+    "questionLatex": "$\\sum x_i = ?$",
+    "options": [
+      "0",
+      "1",
+      "Depends on concentration",
+      "100"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sum of mole fractions of all components in a solution is always unity."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Molarity",
+    "familyId": "molarity_definition",
+    "questionText": "Define molarity of a solution.",
+    "questionLatex": "$M = \\frac{\\text{moles of solute}}{\\text{volume of solution in litre}}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Molarity is the number of moles of solute dissolved in one litre of solution."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Molarity Calculation",
+    "familyId": "molarity_numerical",
+    "questionText": "Calculate the molarity of a solution containing 5 g of NaOH in 450 mL of solution.",
+    "questionLatex": "$\\text{Given: } 5\\text{ g NaOH in } 450\\text{ mL solution. Calculate molarity.}$",
+    "options": [
+      "0.125 M",
+      "0.278 M",
+      "0.500 M",
+      "1.000 M"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Moles of NaOH = 5/40 = 0.125 mol. Molarity = 0.125 / 0.450 = 0.278 M."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Molality",
+    "familyId": "molality_definition",
+    "questionText": "Which expression correctly represents molality?",
+    "questionLatex": "$m = ?$",
+    "options": [
+      "$\\frac{\\text{moles of solute}}{\\text{litre of solution}}$",
+      "$\\frac{\\text{moles of solute}}{\\text{kg of solvent}}$",
+      "$\\frac{\\text{mass of solute}}{\\text{mass of solution}}$",
+      "$\\frac{\\text{moles of solvent}}{\\text{kg of solute}}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Molality is defined as moles of solute per kilogram of solvent."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Molality Calculation",
+    "familyId": "molality_numerical",
+    "questionText": "Calculate the molality of a solution prepared by dissolving 2.5 g of ethanoic acid (CH3COOH) in 75 g of benzene.",
+    "questionLatex": "$\\text{Calculate molality of } 2.5\\text{ g } CH_3COOH \\text{ dissolved in } 75\\text{ g benzene.}$",
+    "options": [
+      "0.278 mol kg⁻¹",
+      "0.556 mol kg⁻¹",
+      "1.112 mol kg⁻¹",
+      "0.0417 mol kg⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Molar mass of CH3COOH = 60 g/mol. Moles = 2.5 g / 60 g/mol = 0.0417 mol. Mass of solvent (benzene) = 0.075 kg. Molality = 0.0417 mol / 0.075 kg = 0.556 mol kg⁻¹."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Concentration Units",
+    "familyId": "temperature_dependence_units",
+    "questionText": "Which of the following concentration units depends on temperature?",
+    "questionLatex": "$\\text{Identify the concentration unit that depends on temperature.}$",
+    "options": [
+      "Molality",
+      "Mass percentage",
+      "Mole fraction",
+      "Molarity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Molarity depends on the volume of the solution, which changes with temperature."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Solubility",
+    "familyId": "solubility_definition",
+    "questionText": "Define solubility of a substance.",
+    "questionLatex": "$\\text{Define solubility.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Solubility is the maximum amount of a solute that can be dissolved in a specified amount of solvent at a specified temperature."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Solubility of Solids",
+    "familyId": "like_dissolves_like",
+    "questionText": "Which statement correctly explains the dissolution of substances?",
+    "questionLatex": "$\\text{Choose the correct statement regarding dissolution.}$",
+    "options": [
+      "Polar solutes dissolve only in non-polar solvents",
+      "Non-polar solutes dissolve only in polar solvents",
+      "Like dissolves like",
+      "All solutes dissolve equally in all solvents"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The principle 'like dissolves like' implies that polar solutes dissolve in polar solvents, and non-polar solutes dissolve in non-polar solvents."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Saturated Solution",
+    "familyId": "saturated_solution_definition",
+    "questionText": "What is a saturated solution?",
+    "questionLatex": "$\\text{Define saturated solution.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A saturated solution is a solution in which no more solute can be dissolved at a given temperature and pressure."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Dynamic Equilibrium",
+    "familyId": "dissolution_crystallisation",
+    "questionText": "At saturation, dissolution and crystallisation occur:",
+    "questionLatex": "$\\text{At saturation, dissolution and crystallisation occur at:}$",
+    "options": [
+      "Different rates",
+      "Zero rate",
+      "Equal rates",
+      "Infinite rates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "At saturation, the system reaches dynamic equilibrium where the rate of dissolution equals the rate of crystallisation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Effect of Temperature",
+    "familyId": "solubility_temperature_solid",
+    "questionText": "For a solid whose dissolution process is endothermic, solubility generally:",
+    "questionLatex": "$\\Delta H_{sol} > 0 \\Rightarrow \\text{Solubility ?}$",
+    "options": [
+      "Decreases with temperature",
+      "Remains constant",
+      "Increases with temperature",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "According to Le Chatelier's principle, if the dissolution process is endothermic, an increase in temperature shifts the equilibrium to favour the forward direction, increasing solubility."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Effect of Pressure",
+    "familyId": "pressure_effect_solids",
+    "questionText": "Pressure has negligible effect on the solubility of solids in liquids because:",
+    "questionLatex": "$\\text{Reason for negligible pressure effect on solid-liquid solubility.}$",
+    "options": [
+      "Solids are highly compressible",
+      "Liquids evaporate rapidly",
+      "Solids and liquids are nearly incompressible",
+      "Pressure changes temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Solids and liquids are nearly incompressible, so their volume does not change significantly with pressure, leading to a negligible effect on their solubility."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Henry's Law",
+    "familyId": "henry_law_statement",
+    "questionText": "State Henry's law.",
+    "questionLatex": "$p = K_H x$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Henry's law states that at a constant temperature, the partial pressure of a gas in vapour phase (p) is proportional to the mole fraction of the gas (x) in the solution: p = KH x."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Henry's Law",
+    "familyId": "henry_law_formula",
+    "questionText": "According to Henry's law, the relationship between partial pressure (p) and mole fraction (x) of a gas dissolved in a liquid is:",
+    "questionLatex": "$\\text{Select the correct Henry's law equation.}$",
+    "options": [
+      "p = x / K_H",
+      "p = K_H x",
+      "K_H = p x",
+      "x = p K_H"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Henry's law is mathematically expressed as p = KH x, where KH is Henry's law constant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Henry's Law Constant",
+    "familyId": "henry_constant_solubility",
+    "questionText": "At a given pressure, a gas having a higher value of Henry's law constant (KH) will have:",
+    "questionLatex": "$p = K_H x$",
+    "options": [
+      "Higher solubility",
+      "Lower solubility",
+      "Infinite solubility",
+      "No change in solubility"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to Henry's law, for a given pressure, a larger KH value corresponds to a smaller mole fraction and hence lower solubility."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Gas Solubility",
+    "familyId": "gas_solubility_temperature",
+    "questionText": "The solubility of gases in liquids generally:",
+    "questionLatex": "$\\text{Effect of temperature on gas solubility}$",
+    "options": [
+      "Increases with increase in temperature",
+      "Decreases with increase in temperature",
+      "Remains constant with temperature",
+      "First increases then decreases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dissolution of gases is generally exothermic; therefore, gas solubility decreases with rise in temperature."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Applications of Henry's Law",
+    "familyId": "soft_drinks_henry",
+    "questionText": "Why are soft drink bottles sealed under high pressure?",
+    "questionLatex": "$\\text{Application of Henry's law in soft drinks}$",
+    "options": [
+      "To decrease solubility of CO2",
+      "To increase solubility of CO2",
+      "To increase sweetness",
+      "To reduce bottle volume"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Higher pressure increases the solubility of CO2 in the liquid according to Henry's law."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Scuba Diving",
+    "familyId": "bends_condition",
+    "questionText": "The painful and dangerous condition experienced by scuba divers due to formation of nitrogen bubbles in blood is called:",
+    "questionLatex": "$\\text{Name the condition caused by nitrogen bubbles in blood.}$",
+    "options": [
+      "Anoxia",
+      "Bends",
+      "Hypothermia",
+      "Acidosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rapid decrease in pressure releases dissolved nitrogen, causing bends."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "High Altitude Physiology",
+    "familyId": "anoxia_definition",
+    "questionText": "What is anoxia?",
+    "questionLatex": "$\\text{Define anoxia}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Anoxia is a condition caused by low oxygen concentration in blood and tissues, commonly experienced at high altitudes."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Raoult's Law",
+    "familyId": "raoults_law_statement",
+    "questionText": "State Raoult's law for a binary solution of volatile liquids.",
+    "questionLatex": "$p_i = x_i p_i^0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The partial vapour pressure of each volatile component of a solution is directly proportional to its mole fraction in the solution at a given temperature."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Raoult's Law",
+    "familyId": "raoults_law_formula",
+    "questionText": "According to Raoult's law, the partial vapour pressure of component 1 is given by:",
+    "questionLatex": "$p_1 = ?$",
+    "options": [
+      "$p_1 = x_1 + p_1^0$",
+      "$p_1 = x_1 p_1^0$",
+      "$p_1 = \\frac{p_1^0}{x_1}$",
+      "$p_1 = x_2 p_1^0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Raoult's law states that the partial vapour pressure equals mole fraction multiplied by vapour pressure of the pure component."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Dalton's Law",
+    "familyId": "total_vapour_pressure",
+    "questionText": "For a binary solution of volatile liquids, the total vapour pressure is:",
+    "questionLatex": "$p_{total} = ?$",
+    "options": [
+      "$p_1 - p_2$",
+      "$p_1 \\times p_2$",
+      "$p_1 + p_2$",
+      "$\\frac{p_1}{p_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "According to Dalton's law of partial pressures, total pressure equals the sum of partial pressures."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure Calculation",
+    "familyId": "raoult_numerical_simple",
+    "questionText": "A solution contains a volatile liquid with mole fraction 0.40. If the vapour pressure of the pure liquid is 500 mm Hg, calculate its partial vapour pressure in the solution.",
+    "questionLatex": "$x = 0.40, p^0 = 500 \\text{ mm Hg}. \\text{ Find } p.$",
+    "options": [
+      "100 mm Hg",
+      "200 mm Hg",
+      "250 mm Hg",
+      "400 mm Hg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "p = xp° = 0.40 × 500 = 200 mm Hg."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Vapour Phase Composition",
+    "familyId": "dalton_law_vapour_phase",
+    "questionText": "If p1 and ptotal represent the partial pressure of component 1 and total vapour pressure respectively, the mole fraction of component 1 in the vapour phase is:",
+    "questionLatex": "$y_1 = ?$",
+    "options": [
+      "$\\frac{p_{total}}{p_1}$",
+      "$\\frac{p_1}{p_{total}}$",
+      "$p_1 + p_{total}$",
+      "$p_1 - p_{total}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using Dalton's law, y1 = p1/ptotal."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Henry's Law and Raoult's Law",
+    "familyId": "raoult_special_case_henry",
+    "questionText": "Raoult's law becomes a special case of Henry's law when:",
+    "questionLatex": "$p = K_H x$ and $p = x p^0$",
+    "options": [
+      "$K_H = 0$",
+      "$K_H = x$",
+      "$K_H = p^0$",
+      "$K_H = 1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Raoult's law becomes a special case of Henry's law when Henry's constant ($K_H$) equals the vapour pressure of the pure component ($p^0$)."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Vapour Pressure of Solutions",
+    "familyId": "nonvolatile_solute_effect",
+    "questionText": "The vapour pressure of a solvent decreases on adding a non-volatile solute because:",
+    "questionLatex": "$\\text{Reason for lowering of vapour pressure}$",
+    "options": [
+      "The solute increases the kinetic energy of solvent molecules",
+      "The solute occupies part of the surface, reducing escaping solvent molecules",
+      "The solute converts solvent into gas",
+      "The atmospheric pressure decreases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Non-volatile solute particles occupy part of the surface, reducing the number of solvent molecules escaping into the vapour phase."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Raoult's Law",
+    "familyId": "vapour_pressure_nonvolatile",
+    "questionText": "For a binary solution containing a non-volatile solute, the vapour pressure is contributed by:",
+    "questionLatex": "$\\text{Source of vapour pressure in solution containing non-volatile solute}$",
+    "options": [
+      "Solute only",
+      "Both solute and solvent equally",
+      "Solvent only",
+      "Neither solute nor solvent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since the solute is non-volatile, only solvent molecules contribute to the vapour pressure."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Ideal Solutions",
+    "familyId": "ideal_solution_definition",
+    "questionText": "What is an ideal solution?",
+    "questionLatex": "$\\text{Define ideal solution}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An ideal solution is one that obeys Raoult's law over the entire range of concentration."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Ideal Solutions",
+    "familyId": "ideal_solution_properties",
+    "questionText": "Which pair of conditions is satisfied by an ideal solution?",
+    "questionLatex": "$\\Delta H_{mix} = 0, \\Delta V_{mix} = 0$",
+    "options": [
+      "$\\Delta H_{mix} > 0$ and $\\Delta V_{mix} > 0$",
+      "$\\Delta H_{mix} = 0$ and $\\Delta V_{mix} = 0$",
+      "$\\Delta H_{mix} < 0$ and $\\Delta V_{mix} < 0$",
+      "$\\Delta H_{mix} = 0$ and $\\Delta V_{mix} > 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ideal solutions have zero enthalpy of mixing and zero volume change on mixing."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Ideal Solutions",
+    "familyId": "ideal_solution_examples",
+    "questionText": "Which of the following pairs forms a nearly ideal solution?",
+    "questionLatex": "$\\text{Choose the nearly ideal solution pair}$",
+    "options": [
+      "Ethanol and water",
+      "Phenol and aniline",
+      "Benzene and toluene",
+      "Acetone and chloroform"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Benzene and toluene are examples of nearly ideal solutions because intermolecular interactions are similar."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Non-Ideal Solutions",
+    "familyId": "nonideal_solution_definition",
+    "questionText": "A solution that does not obey Raoult's law over the entire range of concentration is called:",
+    "questionLatex": "$\\text{Identify the solution type}$",
+    "options": [
+      "Ideal solution",
+      "Saturated solution",
+      "Non-ideal solution",
+      "Dilute solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Solutions that deviate from Raoult's law are called non-ideal solutions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Positive Deviation",
+    "familyId": "positive_deviation_reason",
+    "questionText": "A solution shows positive deviation from Raoult's law when:",
+    "questionLatex": "$\\text{Condition for positive deviation}$",
+    "options": [
+      "A-B interactions are stronger than A-A and B-B interactions",
+      "A-B interactions are weaker than A-A and B-B interactions",
+      "A-B interactions are absent",
+      "A-A interactions are zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Weaker A-B interactions increase the escaping tendency of molecules, resulting in higher vapour pressure and positive deviation."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Positive Deviation",
+    "familyId": "positive_deviation_example",
+    "questionText": "Which of the following solutions exhibits positive deviation from Raoult's law?",
+    "questionLatex": "$\\text{Select the solution showing positive deviation}$",
+    "options": [
+      "Phenol and aniline",
+      "Acetone and chloroform",
+      "Ethanol and acetone",
+      "Nitric acid and water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ethanol and acetone exhibit positive deviation because acetone disrupts hydrogen bonding in ethanol."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Negative Deviation",
+    "familyId": "negative_deviation_example",
+    "questionText": "Which mixture shows negative deviation from Raoult's law due to stronger intermolecular attraction between unlike molecules?",
+    "questionLatex": "$\\text{Select the mixture showing negative deviation}$",
+    "options": [
+      "Ethanol and acetone",
+      "Carbon disulphide and acetone",
+      "Benzene and toluene",
+      "Phenol and aniline"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Phenol and aniline form stronger intermolecular hydrogen bonds between unlike molecules, causing negative deviation."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Negative Deviation",
+    "familyId": "negative_deviation_reason",
+    "questionText": "A solution exhibits negative deviation from Raoult's law when:",
+    "questionLatex": "$\\text{Condition for negative deviation from Raoult's law}$",
+    "options": [
+      "A-B interactions are weaker than A-A and B-B interactions",
+      "A-B interactions are stronger than A-A and B-B interactions",
+      "A-B interactions are absent",
+      "All intermolecular interactions are equal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Negative deviation occurs when intermolecular attractions between unlike molecules (A-B) are stronger than those between like molecules."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Negative Deviation",
+    "familyId": "acetone_chloroform_negative_deviation",
+    "questionText": "The mixture of chloroform and acetone shows negative deviation from Raoult's law because:",
+    "questionLatex": "$\\text{Reason for negative deviation in CHCl}_3\\text{-acetone mixture}$",
+    "options": [
+      "Hydrogen bonding is absent",
+      "Strong hydrogen bonding forms between unlike molecules",
+      "The molecules do not mix",
+      "The solution is ideal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chloroform forms hydrogen bonds with acetone molecules, decreasing vapour pressure and causing negative deviation."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Azeotropes",
+    "familyId": "azeotrope_definition",
+    "questionText": "What is an azeotrope?",
+    "questionLatex": "$\\text{Define azeotrope}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An azeotrope is a binary liquid mixture having the same composition in liquid and vapour phases and boiling at a constant temperature."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Azeotropes",
+    "familyId": "minimum_boiling_azeotrope",
+    "questionText": "Solutions showing large positive deviation from Raoult's law generally form:",
+    "questionLatex": "$\\text{Positive deviation leads to formation of}$",
+    "options": [
+      "Maximum boiling azeotrope",
+      "Minimum boiling azeotrope",
+      "Ideal solution",
+      "Unsaturated solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Large positive deviation results in minimum boiling azeotropes."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Azeotropes",
+    "familyId": "maximum_boiling_azeotrope",
+    "questionText": "Solutions showing large negative deviation from Raoult's law generally form:",
+    "questionLatex": "$\\text{Negative deviation leads to formation of}$",
+    "options": [
+      "Minimum boiling azeotrope",
+      "Ideal solution",
+      "Maximum boiling azeotrope",
+      "Dilute solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Large negative deviation leads to maximum boiling azeotropes."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Azeotropes",
+    "familyId": "ethanol_water_azeotrope",
+    "questionText": "The ethanol-water azeotrope obtained by fractional distillation contains approximately what percentage of ethanol by volume?",
+    "questionLatex": "$\\text{Ethanol percentage in ethanol-water azeotrope}$",
+    "options": [
+      "68%",
+      "75%",
+      "95%",
+      "100%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The ethanol-water azeotrope contains approximately 95% ethanol by volume."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Azeotropes",
+    "familyId": "nitric_acid_water_azeotrope",
+    "questionText": "Nitric acid and water form a maximum boiling azeotrope containing approximately:",
+    "questionLatex": "$\\text{Composition of HNO}_3\\text{-water azeotrope}$",
+    "options": [
+      "95% HNO3 and 5% water",
+      "68% HNO3 and 32% water",
+      "50% HNO3 and 50% water",
+      "32% HNO3 and 68% water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The nitric acid-water azeotrope contains approximately 68% nitric acid and 32% water by mass."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties",
+    "familyId": "colligative_property_definition",
+    "questionText": "What are colligative properties?",
+    "questionLatex": "$\\text{Define colligative properties}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Colligative properties are properties of solutions that depend only on the number of solute particles present and not on their chemical nature."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties",
+    "familyId": "identify_colligative_property",
+    "questionText": "Which of the following is a colligative property?",
+    "questionLatex": "$\\text{Identify the colligative property}$",
+    "options": [
+      "Surface tension",
+      "Viscosity",
+      "Elevation of boiling point",
+      "Density"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Elevation of boiling point is one of the four colligative properties."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Solutions",
+    "topic": "Relative Lowering of Vapour Pressure",
+    "familyId": "relative_lowering_formula",
+    "questionText": "For a dilute solution containing a non-volatile solute, the relative lowering of vapour pressure is equal to:",
+    "questionLatex": "$\\frac{p_1^0-p_1}{p_1^0} = ?$",
+    "options": [
+      "Mole fraction of solvent",
+      "Molality of solution",
+      "Molarity of solution",
+      "Mole fraction of solute"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "According to Raoult's law, relative lowering of vapour pressure equals the mole fraction of the solute."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

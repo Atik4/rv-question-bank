@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Introduction to Linear Programming",
+    "familyId": "lpp_definition",
+    "questionText": "A Linear Programming Problem is concerned with finding the optimal value of a linear function subject to",
+    "questionLatex": "$$\\text{Linear Programming Problem}$$",
+    "options": [
+      "Quadratic equations only",
+      "Linear constraints and non-negative restrictions",
+      "Trigonometric identities only",
+      "Differential equations only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A linear programming problem seeks the optimal value of a linear objective function subject to linear constraints and non-negative restrictions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Objective Function",
+    "familyId": "objective_function_identification",
+    "questionText": "In the linear programming problem Maximise Z = 250x + 75y, the expression 250x + 75y is called",
+    "questionLatex": "$$Z=250x+75y$$",
+    "options": [
+      "Constraint",
+      "Feasible region",
+      "Objective function",
+      "Corner point"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The function to be maximised or minimised is called the objective function."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Decision Variables",
+    "familyId": "decision_variables",
+    "questionText": "In a linear programming problem, the variables whose values are to be determined are called",
+    "questionLatex": "$$\\text{Decision Variables}$$",
+    "options": [
+      "Slack variables",
+      "Decision variables",
+      "Corner variables",
+      "Optimal variables"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The variables involved in the objective function are called decision variables."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Constraints",
+    "familyId": "constraint_identification",
+    "questionText": "The inequalities restricting the values of decision variables in an LPP are called",
+    "questionLatex": "$$\\text{Constraints}$$",
+    "options": [
+      "Parameters",
+      "Objectives",
+      "Constraints",
+      "Vertices"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Restrictions on decision variables are called constraints."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Non-Negative Restrictions",
+    "familyId": "non_negative_constraints",
+    "questionText": "The conditions x ≥ 0 and y ≥ 0 in a linear programming problem are known as",
+    "questionLatex": "$$x\\ge0,\\;y\\ge0$$",
+    "options": [
+      "Objective constraints",
+      "Corner conditions",
+      "Non-negative restrictions",
+      "Feasibility equations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Variables in an LPP are generally restricted to non-negative values."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Mathematical Formulation",
+    "familyId": "furniture_problem_constraint",
+    "questionText": "For the furniture dealer problem, if 2500x + 500y ≤ 50000 represents the investment constraint, the simplified form is",
+    "questionLatex": "$$2500x+500y\\le50000$$",
+    "options": [
+      "5x + y ≥ 100",
+      "5x + y ≤ 100",
+      "x + y ≤ 100",
+      "x + y ≥ 60"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dividing the inequality 2500x + 500y ≤ 50000 by 500 gives 5x + y ≤ 100."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Mathematical Formulation",
+    "familyId": "storage_constraint",
+    "questionText": "In the furniture dealer problem, the storage constraint is",
+    "questionLatex": "$$x+y\\le60$$",
+    "options": [
+      "x + y ≤ 60",
+      "x + y ≥ 60",
+      "5x + y ≤ 60",
+      "5x + y ≥ 60"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The dealer can store at most 60 items, giving x + y ≤ 60."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Objective Function",
+    "familyId": "furniture_objective",
+    "questionText": "The objective function for the furniture dealer problem is",
+    "questionLatex": "$$Z=250x+75y$$",
+    "options": [
+      "Z = 250x + 500y",
+      "Z = 250x + 75y",
+      "Z = 500x + 250y",
+      "Z = 75x + 250y"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Profit per table is Rs 250 and profit per chair is Rs 75, so the objective is Z = 250x + 75y."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Feasible Region",
+    "familyId": "feasible_region_definition",
+    "questionText": "The common region satisfying all constraints of a linear programming problem is called",
+    "questionLatex": "$$\\text{Feasible Region}$$",
+    "options": [
+      "Objective region",
+      "Feasible region",
+      "Optimal region",
+      "Constraint region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The feasible region contains all points satisfying every constraint."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Feasible Solution",
+    "familyId": "feasible_solution_concept",
+    "questionText": "A point lying inside or on the boundary of the feasible region is called",
+    "questionLatex": "$$\\text{Feasible Solution}$$",
+    "options": [
+      "Optimal solution",
+      "Infeasible solution",
+      "Feasible solution",
+      "Decision point"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every point in the feasible region represents a feasible solution."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Infeasible Solution",
+    "familyId": "infeasible_solution_definition",
+    "questionText": "A point lying outside the feasible region of a linear programming problem is called",
+    "questionLatex": "$$\\text{Infeasible Solution}$$",
+    "options": [
+      "Feasible solution",
+      "Optimal solution",
+      "Infeasible solution",
+      "Corner point"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Any point outside the feasible region does not satisfy all constraints simultaneously and is called an infeasible solution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Optimal Solution",
+    "familyId": "optimal_solution_definition",
+    "questionText": "A feasible solution which gives the maximum or minimum value of the objective function is called",
+    "questionLatex": "$$\\text{Optimal Solution}$$",
+    "options": [
+      "Decision variable",
+      "Constraint point",
+      "Optimal solution",
+      "Infeasible solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The feasible point yielding the optimum value of the objective function is called the optimal solution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Theorem",
+    "familyId": "corner_point_theorem",
+    "questionText": "According to the fundamental theorem of linear programming, the optimal value of the objective function occurs at",
+    "questionLatex": "$$\\text{Optimal value occurs at a vertex}$$",
+    "options": [
+      "Any point inside the feasible region",
+      "The origin only",
+      "A corner point of the feasible region",
+      "Any point on the x-axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "If an optimal value exists, it occurs at a corner point (vertex) of the feasible region."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Bounded Region",
+    "familyId": "bounded_region_definition",
+    "questionText": "A feasible region that can be enclosed within a circle is called",
+    "questionLatex": "$$\\text{Bounded Feasible Region}$$",
+    "options": [
+      "Unbounded region",
+      "Convex region",
+      "Bounded region",
+      "Infeasible region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A feasible region that can be enclosed within a circle is bounded."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Unbounded Region",
+    "familyId": "unbounded_region_definition",
+    "questionText": "A feasible region extending indefinitely in at least one direction is called",
+    "questionLatex": "$$\\text{Unbounded Feasible Region}$$",
+    "options": [
+      "Bounded region",
+      "Unbounded region",
+      "Corner region",
+      "Optimal region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A region that extends indefinitely in any direction is called unbounded."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "evaluate_vertices",
+    "questionText": "In the Corner Point Method, after determining the vertices of the feasible region, the next step is to",
+    "questionLatex": "$$\\text{Corner Point Method}$$",
+    "options": [
+      "Draw a circle around the region",
+      "Evaluate the objective function at each vertex",
+      "Remove the constraints",
+      "Find the midpoint of the region"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The objective function is evaluated at all corner points to determine the optimum value."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "maximum_value_example",
+    "questionText": "For the LPP Maximise Z = 4x + y subject to x + y ≤ 50, 3x + y ≤ 90, x ≥ 0, y ≥ 0, the maximum value of Z is",
+    "questionLatex": "$$Z=4x+y$$",
+    "options": [
+      "110",
+      "120",
+      "100",
+      "90"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The maximum value 120 occurs at the corner point (30,0)."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "minimum_value_example",
+    "questionText": "For the LPP Minimise Z = 200x + 500y subject to x + 2y ≥ 10, 3x + 4y ≤ 24, x ≥ 0, y ≥ 0, the minimum value of Z is",
+    "questionLatex": "$$Z=200x+500y$$",
+    "options": [
+      "2500",
+      "3000",
+      "2300",
+      "2000"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The minimum value is 2300 at the corner point (4,3)."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Convex Region",
+    "familyId": "convex_region_property",
+    "questionText": "The feasible region of a linear programming problem is always",
+    "questionLatex": "$$\\text{Feasible Region}$$",
+    "options": [
+      "Circular",
+      "Triangular",
+      "Convex",
+      "Rectangular"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The feasible region determined by linear inequalities is always a convex region."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Multiple Optimal Solutions",
+    "familyId": "multiple_optimal_solutions",
+    "questionText": "If two corner points of a feasible region give the same maximum value of the objective function, then",
+    "questionLatex": "$$\\text{Multiple Optimal Solutions}$$",
+    "options": [
+      "No optimal solution exists",
+      "Only those two points are optimal",
+      "Every point on the line segment joining them gives the same optimal value",
+      "The feasible region becomes unbounded"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "When two adjacent vertices yield the same optimum value, every point on the line segment joining them is also optimal."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Graphical Method",
+    "familyId": "graphical_solution_method",
+    "questionText": "The graphical method of solving a linear programming problem is generally applicable when the number of decision variables is",
+    "questionLatex": "$$\\text{Number of decision variables}$$",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "More than three"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The graphical method is suitable for visualizing and solving LPPs when there are only two decision variables."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Feasible Region",
+    "familyId": "empty_feasible_region",
+    "questionText": "If no point satisfies all the constraints of a linear programming problem simultaneously, then the feasible region is",
+    "questionLatex": "$$\\text{Feasible Region}$$",
+    "options": [
+      "Bounded",
+      "Unbounded",
+      "Empty",
+      "Convex"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "When the given system of linear constraints is inconsistent, no feasible solution exists and the feasible region is empty."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "corner_points_count",
+    "questionText": "The optimal solution of an LPP obtained by the Corner Point Method must occur at",
+    "questionLatex": "$$\\text{Corner Point Method}$$",
+    "options": [
+      "A boundary point only",
+      "A corner point of the feasible region",
+      "The origin only",
+      "The midpoint of a constraint"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to the fundamental theorem of linear programming, if an optimal solution exists, it must occur at one of the corner points (vertices) of the feasible region."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Constraint Graphing",
+    "familyId": "half_plane_identification",
+    "questionText": "The inequality x + y ≤ 8 represents",
+    "questionLatex": "$$x+y\\le 8$$",
+    "options": [
+      "A line only",
+      "A half-plane including the boundary line",
+      "Two parallel lines",
+      "A point"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A linear inequality in two variables represents a half-plane, and the '≤' symbol indicates the boundary line is included."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "evaluate_objective_function",
+    "questionText": "For the objective function Z = 3x + 5y, find Z at the point (4, 2).",
+    "questionLatex": "$$Z=3x+5y$$",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Substituting $x = 4$ and $y = 2$ gives $Z = 3(4) + 5(2) = 12 + 10 = 22$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "maximum_profit_problem",
+    "questionText": "A company earns a profit of Rs 40 per unit of product A and Rs 30 per unit of product B. If x and y denote the units produced, the objective function for maximum profit is",
+    "questionLatex": "$$Z=40x+30y$$",
+    "options": [
+      "Z = 40x - 30y",
+      "Z = 30x + 40y",
+      "Z = 40x + 30y",
+      "Z = x + y"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Total profit is the sum of products of profit per unit and the quantity produced: Z = 40x + 30y."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Graphical Solution",
+    "familyId": "intersection_point_constraints",
+    "questionText": "Find the point of intersection of the lines x + y = 6 and x - y = 2.",
+    "questionLatex": "$$\\begin{cases}x+y=6\\\\x-y=2\\end{cases}$$",
+    "options": [
+      "(2,4)",
+      "(3,3)",
+      "(4,2)",
+      "(5,1)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Adding the equations $x+y=6$ and $x-y=2$ gives $2x = 8$, so $x = 4$. Substituting $x=4$ into $x+y=6$ gives $y = 2$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Bounded and Unbounded Regions",
+    "familyId": "bounded_region_identification",
+    "questionText": "A bounded feasible region always contains",
+    "questionLatex": "$$\\text{Bounded Feasible Region}$$",
+    "options": [
+      "Infinitely distant points",
+      "A finite area",
+      "No corner points",
+      "No feasible solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A bounded region is a closed set in the plane with a finite area."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Optimal Solution",
+    "familyId": "optimal_value_calculation",
+    "questionText": "If the objective function is Z = 2x + 3y, find Z at the corner point (5, 4).",
+    "questionLatex": "$$Z=2x+3y$$",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$Z = 2(5) + 3(4) = 10 + 12 = 22$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Special Cases",
+    "familyId": "alternate_optimal_solution",
+    "questionText": "When the objective function is parallel to a boundary segment of the feasible region and attains the same optimum value at two adjacent vertices, the problem has",
+    "questionLatex": "$$\\text{Alternate Optimal Solutions}$$",
+    "options": [
+      "No feasible solution",
+      "A unique optimal solution",
+      "Multiple optimal solutions",
+      "An unbounded solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "If the objective function is parallel to a side of the feasible region, every point on that line segment provides the same optimal value, leading to multiple optimal solutions."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Graphical Method",
+    "familyId": "origin_test_method",
+    "questionText": "To determine the required half-plane for the inequality x + y ≤ 5, a commonly used test point is",
+    "questionLatex": "$$x+y\\le5$$",
+    "options": [
+      "(1,1)",
+      "(5,0)",
+      "(0,0)",
+      "(2,3)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The origin (0,0) is generally used as a test point if it does not lie on the boundary line, as it makes calculation simple."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Constraint Graphing",
+    "familyId": "boundary_line",
+    "questionText": "The boundary line corresponding to the inequality 2x + 3y ≤ 12 is",
+    "questionLatex": "$$2x+3y\\le12$$",
+    "options": [
+      "2x + 3y = 12",
+      "2x + 3y = 0",
+      "2x - 3y = 12",
+      "x + y = 12"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The boundary of a linear inequality is obtained by replacing the inequality sign with an equality sign."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "corner_point_identification",
+    "questionText": "For the feasible region bounded by x ≥ 0, y ≥ 0, x ≤ 4 and y ≤ 3, how many corner points are there?",
+    "questionLatex": "$$0\\le x\\le4,\\;0\\le y\\le3$$",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The feasible region is a rectangle defined by the vertices (0,0), (4,0), (4,3), and (0,3), resulting in four corner points."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Objective Function",
+    "familyId": "objective_function_value",
+    "questionText": "Find the value of the objective function Z = 5x + 2y at the point (3, 4).",
+    "questionLatex": "$$Z=5x+2y$$",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Substituting x=3 and y=4 into the objective function: Z = 5(3) + 2(4) = 15 + 8 = 23."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Maximization Problem",
+    "familyId": "maximization_corner_points",
+    "questionText": "For the objective function Z = x + y and feasible region with corner points (0,0), (4,0), (2,3) and (0,5), the maximum value of Z is",
+    "questionLatex": "$$Z=x+y$$",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Evaluating Z at each corner point: Z(0,0)=0, Z(4,0)=4, Z(2,3)=5, Z(0,5)=5. The maximum value is 5."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Minimization Problem",
+    "familyId": "minimization_corner_points",
+    "questionText": "For the objective function Z = 3x + 2y and feasible region having corner points (1,2), (2,1), (4,0), find the minimum value of Z.",
+    "questionLatex": "$$Z=3x+2y$$",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Evaluating Z at each corner point: Z(1,2)=3(1)+2(2)=7; Z(2,1)=3(2)+2(1)=8; Z(4,0)=3(4)+0=12. The minimum value is 7."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Feasible Region",
+    "familyId": "convex_combination_property",
+    "questionText": "A feasible region of a linear programming problem is always",
+    "questionLatex": "$$\\text{Feasible Region}$$",
+    "options": [
+      "Concave",
+      "Convex",
+      "Circular",
+      "Parabolic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The intersection of half-planes defined by linear inequalities always results in a convex polygon."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Special Cases",
+    "familyId": "unbounded_optimal_solution",
+    "questionText": "An unbounded feasible region may still have",
+    "questionLatex": "$$\\text{Unbounded Feasible Region}$$",
+    "options": [
+      "No feasible points",
+      "An optimal solution",
+      "No corner points",
+      "Only one constraint"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An unbounded feasible region can possess a finite optimal value if the objective function's gradient directs it towards the region's finite boundary."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Graphical Solution",
+    "familyId": "intersection_of_constraints",
+    "questionText": "Find the point of intersection of the lines 2x + y = 8 and x + y = 5.",
+    "questionLatex": "$$\\begin{cases}2x+y=8\\\\x+y=5\\end{cases}$$",
+    "options": [
+      "(2,3)",
+      "(3,2)",
+      "(4,1)",
+      "(1,4)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Subtracting (x+y=5) from (2x+y=8) gives x = 3. Substituting x=3 into x+y=5 gives y = 2. The intersection is (3,2)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Linear Programming Applications",
+    "familyId": "resource_allocation_problem",
+    "questionText": "In a product-mix problem, the quantities of products to be manufactured are represented by",
+    "questionLatex": "$$\\text{Decision Variables}$$",
+    "options": [
+      "Constraints",
+      "Objective values",
+      "Decision variables",
+      "Feasible points"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The variables whose values are to be determined in an optimization problem are called decision variables."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "optimal_value_vertex_check",
+    "questionText": "For the objective function Z = 4x + 3y, find the value of Z at the point (2, 5).",
+    "questionLatex": "$$Z=4x+3y$$",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Substituting x = 2 and y = 5 gives Z = 4(2) + 3(5) = 8 + 15 = 23."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Corner Point Method",
+    "familyId": "maximum_value_vertices",
+    "questionText": "The corner points of a feasible region are (0,0), (2,6), (6,2) and (0,8). Find the maximum value of Z = x + y.",
+    "questionLatex": "$$Z=x+y$$",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Values of Z at corner points are: Z(0,0)=0, Z(2,6)=8, Z(6,2)=8, Z(0,8)=8. The maximum value is 8."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Multiple Optimal Solutions",
+    "familyId": "multiple_optimum_identification",
+    "questionText": "If the objective function has the same value at two adjacent corner points of the feasible region, then",
+    "questionLatex": "$$\\text{Multiple Optimal Solutions}$$",
+    "options": [
+      "The problem has no solution",
+      "The problem has a unique optimal solution",
+      "The problem has infinitely many optimal solutions on the joining segment",
+      "The feasible region becomes empty"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every point on the line segment joining those adjacent vertices gives the same optimal value."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Feasible Region",
+    "familyId": "feasible_region_intersection",
+    "questionText": "The feasible region of a linear programming problem is obtained as",
+    "questionLatex": "$$\\text{Feasible Region}$$",
+    "options": [
+      "Union of all half-planes",
+      "Intersection of all constraint regions",
+      "Intersection of coordinate axes",
+      "Union of corner points"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The feasible region consists of all points satisfying every constraint simultaneously, which is the intersection of all constraint regions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Constraint Verification",
+    "familyId": "constraint_check_point",
+    "questionText": "Which of the following points satisfies the constraints x + y ≤ 6, x ≥ 0, y ≥ 0?",
+    "questionLatex": "$$x+y\\le6$$",
+    "options": [
+      "(4,3)",
+      "(2,5)",
+      "(3,2)",
+      "(5,4)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For (3,2), 3 + 2 = 5, which is ≤ 6. Both 3 and 2 are non-negative."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Bounded Feasible Region",
+    "familyId": "bounded_region_optimum",
+    "questionText": "For a bounded feasible region, the optimum value of the objective function",
+    "questionLatex": "$$\\text{Bounded Feasible Region}$$",
+    "options": [
+      "Always exists",
+      "Never exists",
+      "Exists only for maximization problems",
+      "Exists only for minimization problems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A bounded feasible region guarantees the existence of both maximum and minimum values of a linear objective function."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Objective Function",
+    "familyId": "minimize_cost_function",
+    "questionText": "A company incurs costs of Rs 120 and Rs 80 for producing one unit of products A and B respectively. The cost function is",
+    "questionLatex": "$$Z=120x+80y$$",
+    "options": [
+      "Z = 120x + 80y",
+      "Z = 80x + 120y",
+      "Z = 120x - 80y",
+      "Z = x + y"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Total cost is obtained by multiplying the cost per unit by the number of units produced."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Graphical Solution",
+    "familyId": "corner_point_evaluation",
+    "questionText": "For the objective function Z = 6x + 4y, find Z at the corner point (3, 5).",
+    "questionLatex": "$$Z=6x+4y$$",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Z = 6(3) + 4(5) = 18 + 20 = 38."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Special Cases",
+    "familyId": "infeasible_lpp",
+    "questionText": "If the constraints x + y ≤ 2 and x + y ≥ 8 are imposed simultaneously along with x ≥ 0 and y ≥ 0, then the feasible region is",
+    "questionLatex": "$$\\begin{cases}x+y\\le2\\\\x+y\\ge8\\end{cases}$$",
+    "options": [
+      "Bounded",
+      "Unbounded",
+      "A line segment",
+      "Empty"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "No point can satisfy both inequalities x + y ≤ 2 and x + y ≥ 8 simultaneously; hence the feasible region is empty."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Linear Programming",
+    "topic": "Linear Programming Applications",
+    "familyId": "resource_utilization",
+    "questionText": "The primary objective of a linear programming problem is to determine",
+    "questionLatex": "$$\\text{Optimization}$$",
+    "options": [
+      "The number of constraints",
+      "The graph of every inequality",
+      "The best feasible value of the objective function",
+      "The equation of each boundary line"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Linear programming is an optimization technique used to maximize or minimize a linear objective function."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

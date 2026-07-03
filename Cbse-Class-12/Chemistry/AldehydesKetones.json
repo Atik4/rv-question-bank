@@ -1,0 +1,1118 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Introduction",
+    "familyId": "carbonyl_group_definition",
+    "questionText": "What is a carbonyl group?",
+    "questionLatex": "$\\text{Define carbonyl group}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The carbonyl group is a functional group containing a carbon-oxygen double bond ($>C=O$)."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Classification",
+    "familyId": "aldehyde_definition",
+    "questionText": "What are aldehydes?",
+    "questionLatex": "$\\text{Define aldehydes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aldehydes are carbonyl compounds in which the carbonyl carbon is bonded to one hydrogen atom and one carbon atom or aryl group."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Classification",
+    "familyId": "ketone_definition",
+    "questionText": "What are ketones?",
+    "questionLatex": "$\\text{Define ketones}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ketones are carbonyl compounds in which the carbonyl carbon is bonded to two carbon atoms."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Classification",
+    "familyId": "carboxylic_acid_definition",
+    "questionText": "What are carboxylic acids?",
+    "questionLatex": "$\\text{Define carboxylic acids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Carboxylic acids are organic compounds containing the carboxyl functional group ($-COOH$)."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nomenclature",
+    "familyId": "methanal_name",
+    "questionText": "What is the IUPAC name of formaldehyde?",
+    "questionLatex": "$\\text{Formaldehyde}$",
+    "options": [
+      "Methanal",
+      "Ethanal",
+      "Methanone",
+      "Methanoic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The IUPAC name of formaldehyde is methanal."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nomenclature",
+    "familyId": "ethanal_common_name",
+    "questionText": "The common name of ethanal is:",
+    "questionLatex": "$CH_3CHO$",
+    "options": [
+      "Acetaldehyde",
+      "Propionaldehyde",
+      "Formaldehyde",
+      "Acetone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Ethanal is commonly known as acetaldehyde."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nomenclature",
+    "familyId": "acetone_iupac_name",
+    "questionText": "What is the IUPAC name of acetone?",
+    "questionLatex": "$(CH_3)_2CO$",
+    "options": [
+      "Propanal",
+      "Propan-2-one",
+      "Propan-1-one",
+      "Propanoic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Acetone is the common name of propan-2-one."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Structure of Carbonyl Group",
+    "familyId": "carbonyl_hybridisation",
+    "questionText": "What is the hybridisation of the carbonyl carbon atom?",
+    "questionLatex": "$>C=O$",
+    "options": [
+      "sp",
+      "sp^2",
+      "sp^3",
+      "dsp^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The carbonyl carbon atom is $sp^2$ hybridised and has trigonal planar geometry."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Structure of Carbonyl Group",
+    "familyId": "carbonyl_polarity",
+    "questionText": "Why is the carbonyl group polar in nature?",
+    "questionLatex": "$\\text{Polarity of } C=O$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The carbonyl group is polar because oxygen is more electronegative than carbon, causing electron density to shift towards oxygen and creating partial charges on the atoms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aldehydes and Ketones",
+    "familyId": "oxidation_primary_alcohol",
+    "questionText": "Primary alcohols on controlled oxidation generally produce:",
+    "questionLatex": "$RCH_2OH \\xrightarrow{[O]} ?$",
+    "options": [
+      "Ketones",
+      "Aldehydes",
+      "Carboxylic acids",
+      "Ethers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Controlled oxidation of primary alcohols gives aldehydes."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aldehydes and Ketones",
+    "familyId": "oxidation_secondary_alcohol",
+    "questionText": "Secondary alcohols on oxidation yield:",
+    "questionLatex": "$R_2CHOH \\xrightarrow{[O]} ?$",
+    "options": [
+      "Aldehydes",
+      "Ketones",
+      "Carboxylic acids",
+      "Alcohols"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Secondary alcohols are oxidized to ketones."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aldehydes",
+    "familyId": "rosenmund_reduction",
+    "questionText": "Name the reaction in which an acyl chloride is hydrogenated over Pd/BaSO4 to form an aldehyde.",
+    "questionLatex": "$RCOCl + H_2 \\xrightarrow{Pd/BaSO_4} RCHO$",
+    "options": [
+      "Stephen reaction",
+      "Etard reaction",
+      "Rosenmund reduction",
+      "Cannizzaro reaction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hydrogenation of acyl chlorides over palladium on barium sulphate is called Rosenmund reduction."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aldehydes",
+    "familyId": "stephen_reaction",
+    "questionText": "Which reaction converts nitriles into aldehydes using SnCl2/HCl followed by hydrolysis?",
+    "questionLatex": "$RCN \\rightarrow RCHO$",
+    "options": [
+      "Stephen reaction",
+      "Gattermann-Koch reaction",
+      "Etard reaction",
+      "Cannizzaro reaction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Reduction of nitriles with SnCl2/HCl followed by hydrolysis is called Stephen reaction."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aromatic Aldehydes",
+    "familyId": "etard_reaction",
+    "questionText": "Chromyl chloride oxidation of toluene to benzaldehyde is known as:",
+    "questionLatex": "$C_6H_5CH_3 \\xrightarrow{CrO_2Cl_2} C_6H_5CHO$",
+    "options": [
+      "Etard reaction",
+      "Friedel-Crafts reaction",
+      "Stephen reaction",
+      "Aldol condensation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Oxidation of toluene with chromyl chloride to form benzaldehyde is called the Etard reaction."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Aromatic Aldehydes",
+    "familyId": "gattermann_koch",
+    "questionText": "Benzene reacts with carbon monoxide and hydrogen chloride in the presence of AlCl3/CuCl to form:",
+    "questionLatex": "$C_6H_6 + CO + HCl \\rightarrow ?$",
+    "options": [
+      "Benzoic acid",
+      "Benzaldehyde",
+      "Acetophenone",
+      "Benzyl alcohol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Gattermann-Koch reaction converts benzene into benzaldehyde."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Ketones",
+    "familyId": "friedel_crafts_acylation",
+    "questionText": "Ketones can be prepared from benzene using acid chlorides in the presence of anhydrous AlCl3. This reaction is called:",
+    "questionLatex": "$C_6H_6 + RCOCl \\xrightarrow{AlCl_3} ArCOR$",
+    "options": [
+      "Friedel-Crafts acylation",
+      "Cannizzaro reaction",
+      "Wolff-Kishner reduction",
+      "Rosenmund reduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Friedel-Crafts acylation produces aryl ketones from benzene and acid chlorides."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Physical Properties",
+    "familyId": "boiling_point_reason",
+    "questionText": "Why do aldehydes and ketones have higher boiling points than hydrocarbons of comparable molecular masses?",
+    "questionLatex": "$\\text{Boiling points of aldehydes and ketones}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aldehydes and ketones possess polar carbonyl groups and exhibit dipole-dipole interactions, resulting in higher boiling points than hydrocarbons."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Physical Properties",
+    "familyId": "water_solubility_carbonyls",
+    "questionText": "Lower aldehydes and ketones are soluble in water because:",
+    "questionLatex": "$\\text{Solubility of carbonyl compounds}$",
+    "options": [
+      "They are ionic compounds",
+      "They form hydrogen bonds with water",
+      "They contain double bonds",
+      "They undergo hydrolysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The oxygen atom of the carbonyl group forms hydrogen bonds with water molecules."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nucleophilic Addition Reactions",
+    "familyId": "nucleophilic_addition_definition",
+    "questionText": "Why do aldehydes and ketones undergo nucleophilic addition reactions?",
+    "questionLatex": "$\\text{Nucleophilic addition to carbonyl compounds}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The carbonyl carbon carries a partial positive charge due to the polarity of the $C=O$ bond, making it susceptible to attack by nucleophiles."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nucleophilic Addition Reactions",
+    "familyId": "hcn_addition",
+    "questionText": "The product formed when ethanal reacts with HCN is known as:",
+    "questionLatex": "$CH_3CHO + HCN \\rightarrow ?$",
+    "options": [
+      "Oxime",
+      "Cyanohydrin",
+      "Hydrazone",
+      "Acetal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Addition of HCN to aldehydes and ketones produces cyanohydrins."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Nucleophilic Addition Reactions",
+    "familyId": "sodium_bisulphite_addition",
+    "questionText": "Which reagent forms crystalline addition compounds with many aldehydes and ketones?",
+    "questionLatex": "$\\text{Addition reaction reagent}$",
+    "options": [
+      "NaHSO_3",
+      "NaOH",
+      "KMnO_4",
+      "HNO_3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Sodium hydrogen sulphite forms crystalline addition compounds with aldehydes and many ketones."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Addition of Ammonia Derivatives",
+    "familyId": "oxime_formation",
+    "questionText": "Aldehydes and ketones react with hydroxylamine to form:",
+    "questionLatex": "$RCHO + NH_2OH \\rightarrow ?$",
+    "options": [
+      "Hydrazones",
+      "Oximes",
+      "Acetals",
+      "Alcohols"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Reaction with hydroxylamine produces oximes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Addition of Ammonia Derivatives",
+    "familyId": "hydrazone_formation",
+    "questionText": "What type of compounds are formed when aldehydes react with hydrazine?",
+    "questionLatex": "$RCHO + NH_2NH_2 \\rightarrow ?$",
+    "options": [
+      "Oximes",
+      "Hydrazones",
+      "Alcohols",
+      "Esters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hydrazine reacts with carbonyl compounds to form hydrazones."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reduction Reactions",
+    "familyId": "aldehyde_reduction",
+    "questionText": "Reduction of an aldehyde produces:",
+    "questionLatex": "$RCHO \\xrightarrow{[H]} ?$",
+    "options": [
+      "Primary alcohol",
+      "Secondary alcohol",
+      "Ketone",
+      "Carboxylic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Aldehydes are reduced to primary alcohols."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reduction Reactions",
+    "familyId": "ketone_reduction",
+    "questionText": "Reduction of a ketone gives:",
+    "questionLatex": "$RCOR' \\xrightarrow{[H]} ?$",
+    "options": [
+      "Primary alcohol",
+      "Secondary alcohol",
+      "Tertiary alcohol",
+      "Carboxylic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ketones are reduced to secondary alcohols."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reduction Reactions",
+    "familyId": "clemmensen_reduction",
+    "questionText": "Which reagent is used in Clemmensen reduction?",
+    "questionLatex": "$RCOR' \\xrightarrow{?} RCH_2R'$",
+    "options": [
+      "Zn(Hg)/HCl",
+      "NH_2NH_2/KOH",
+      "NaBH_4",
+      "LiAlH_4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Clemmensen reduction uses zinc amalgam and concentrated hydrochloric acid."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reduction Reactions",
+    "familyId": "wolff_kishner_reduction",
+    "questionText": "Wolff-Kishner reduction employs which reagent combination?",
+    "questionLatex": "$RCOR' \\xrightarrow{?} RCH_2R'$",
+    "options": [
+      "Zn(Hg)/HCl",
+      "NH_2NH_2/KOH",
+      "NaOH only",
+      "NaBH_4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Wolff-Kishner reduction uses hydrazine and potassium hydroxide in a high-boiling solvent."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Oxidation Reactions",
+    "familyId": "aldehyde_oxidation",
+    "questionText": "Aldehydes are readily oxidized to:",
+    "questionLatex": "$RCHO \\xrightarrow{[O]} ?$",
+    "options": [
+      "Alcohols",
+      "Ketones",
+      "Carboxylic acids",
+      "Esters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Aldehydes are easily oxidized to the corresponding carboxylic acids."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Oxidation Reactions",
+    "familyId": "tollens_reagent",
+    "questionText": "What is Tollens' reagent?",
+    "questionLatex": "$\\text{Define Tollens' reagent}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Tollens' reagent is an ammoniacal silver nitrate solution containing the complex ion $[Ag(NH_3)_2]^+$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Oxidation Reactions",
+    "familyId": "tollens_test_observation",
+    "questionText": "What observation is obtained when an aldehyde is treated with Tollens' reagent?",
+    "questionLatex": "$RCHO + [Ag(NH_3)_2]^+ \\rightarrow ?$",
+    "options": [
+      "Blue coloration",
+      "Silver mirror formation",
+      "Brown precipitate",
+      "Green solution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aldehydes reduce Tollens' reagent to metallic silver, producing a silver mirror."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Oxidation Reactions",
+    "familyId": "fehling_solution",
+    "questionText": "Which class of compounds gives a positive Fehling's test?",
+    "questionLatex": "$\\text{Fehling's test}$",
+    "options": [
+      "Most aldehydes",
+      "All ketones",
+      "Ethers",
+      "Alcohols"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Most aliphatic aldehydes reduce Fehling's solution to give a red precipitate of $Cu_2O$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Oxidation Reactions",
+    "familyId": "fehling_observation",
+    "questionText": "What is the characteristic observation in a positive Fehling's test?",
+    "questionLatex": "$\\text{Positive Fehling's test}$",
+    "options": [
+      "Silver mirror",
+      "Yellow precipitate",
+      "Brick-red precipitate",
+      "Violet coloration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Reduction of $Cu^{2+}$ ions produces a brick-red precipitate of $Cu_2O$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Distinguishing Tests",
+    "familyId": "aldehyde_ketone_difference",
+    "questionText": "Why do aldehydes undergo oxidation more readily than ketones?",
+    "questionLatex": "$\\text{Oxidation of aldehydes and ketones}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aldehydes contain a hydrogen atom attached to the carbonyl carbon, making oxidation easier. Ketones lack this hydrogen and resist oxidation under mild conditions."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Aldol Condensation",
+    "familyId": "aldol_definition",
+    "questionText": "What is aldol condensation?",
+    "questionLatex": "$\\text{Define aldol condensation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aldol condensation is the reaction in which aldehydes or ketones containing at least one $\\alpha$-hydrogen atom undergo self-condensation in the presence of dilute alkali to form $\\beta$-hydroxy aldehydes or $\\beta$-hydroxy ketones."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Aldol Condensation",
+    "familyId": "aldol_requirement",
+    "questionText": "Aldol condensation occurs only in aldehydes or ketones containing:",
+    "questionLatex": "$\\text{Requirement for aldol condensation}$",
+    "options": [
+      "Halogen atom",
+      "Aromatic ring",
+      "$\\alpha$-Hydrogen atom",
+      "Hydroxyl group"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The presence of at least one $\\alpha$-hydrogen atom is necessary for aldol condensation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Cannizzaro Reaction",
+    "familyId": "cannizzaro_definition",
+    "questionText": "What is the Cannizzaro reaction?",
+    "questionLatex": "$\\text{Define Cannizzaro reaction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aldehydes lacking $\\alpha$-hydrogen atoms undergo self-oxidation and self-reduction in the presence of concentrated alkali to form an alcohol and a carboxylate salt. This is called the Cannizzaro reaction."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Cannizzaro Reaction",
+    "familyId": "cannizzaro_condition",
+    "questionText": "Which aldehyde readily undergoes the Cannizzaro reaction?",
+    "questionLatex": "$\\text{Cannizzaro reaction substrate}$",
+    "options": [
+      "Ethanal",
+      "Propanal",
+      "Benzaldehyde",
+      "Butanal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Benzaldehyde does not contain any $\\alpha$-hydrogen atoms and therefore undergoes the Cannizzaro reaction."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Haloform Reaction",
+    "familyId": "iodoform_test_positive",
+    "questionText": "Which of the following compounds gives a positive iodoform test?",
+    "questionLatex": "$\\text{Iodoform test}$",
+    "options": [
+      "Methanal",
+      "Benzaldehyde",
+      "Acetone",
+      "Formic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Acetone contains the $CH_3CO−$ group and therefore gives a positive iodoform test."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Haloform Reaction",
+    "familyId": "iodoform_observation",
+    "questionText": "What is the characteristic observation in a positive iodoform test?",
+    "questionLatex": "$\\text{Observation in iodoform test}$",
+    "options": [
+      "Silver mirror formation",
+      "Brick-red precipitate",
+      "Yellow precipitate of iodoform",
+      "Violet coloration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A positive iodoform test produces a yellow precipitate of triiodomethane ($CHI_3$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Carboxylic Acids",
+    "familyId": "carboxyl_group_structure",
+    "questionText": "What functional group is present in carboxylic acids?",
+    "questionLatex": "$\\text{Functional group of carboxylic acids}$",
+    "options": [
+      "-CHO",
+      "-COOH",
+      ">C=O",
+      "-OH"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carboxylic acids contain the carboxyl functional group ($-COOH$)."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Carboxylic Acids",
+    "familyId": "acidic_nature_carboxylic",
+    "questionText": "Why are carboxylic acids more acidic than alcohols?",
+    "questionLatex": "$\\text{Acidity of carboxylic acids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Carboxylic acids are more acidic because the carboxylate ion formed after loss of a proton is stabilized by resonance, whereas alkoxide ions are not similarly stabilized."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Carboxylic Acids",
+    "familyId": "acid_sodium_bicarbonate",
+    "questionText": "Which reagent can be used to distinguish carboxylic acids from phenols?",
+    "questionLatex": "$\\text{Distinguishing test for carboxylic acids}$",
+    "options": [
+      "Neutral FeCl_3",
+      "NaHCO_3 solution",
+      "Lucas reagent",
+      "Bromine water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carboxylic acids react with sodium bicarbonate to release carbon dioxide, whereas phenols do not."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Carboxylic Acids",
+    "familyId": "sodium_bicarbonate_reaction",
+    "questionText": "Write the reaction of ethanoic acid with sodium bicarbonate.",
+    "questionLatex": "$CH_3COOH + NaHCO_3 \\rightarrow ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + CO_2 + H_2O$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Carboxylic Acids",
+    "familyId": "oxidation_aldehyde_acid",
+    "questionText": "Aldehydes on oxidation produce:",
+    "questionLatex": "$RCHO \\xrightarrow{[O]} ?$",
+    "options": [
+      "Alcohols",
+      "Ketones",
+      "Carboxylic acids",
+      "Esters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxidation of aldehydes yields the corresponding carboxylic acids."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Preparation of Carboxylic Acids",
+    "familyId": "primary_alcohol_to_acid",
+    "questionText": "Primary alcohols on strong oxidation generally form:",
+    "questionLatex": "$RCH_2OH \\xrightarrow{[O]} ?$",
+    "options": [
+      "Aldehydes only",
+      "Ketones",
+      "Carboxylic acids",
+      "Ethers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Strong oxidizing agents convert primary alcohols into carboxylic acids."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reactions of Carboxylic Acids",
+    "familyId": "esterification_definition",
+    "questionText": "What is esterification?",
+    "questionLatex": "$RCOOH + R'OH \\rightleftharpoons RCOOR' + H_2O$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Esterification is the reaction between a carboxylic acid and an alcohol in the presence of an acid catalyst to form an ester and water."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reactions of Carboxylic Acids",
+    "familyId": "esterification_catalyst",
+    "questionText": "Which catalyst is commonly used in esterification reactions?",
+    "questionLatex": "$\\text{Catalyst used in esterification}$",
+    "options": [
+      "Dilute HCl",
+      "Concentrated H_2SO_4",
+      "NaOH",
+      "Zn dust"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Concentrated sulfuric acid acts as both an acid catalyst and a dehydrating agent."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Reactions of Carboxylic Acids",
+    "familyId": "ethanoic_acid_esterification",
+    "questionText": "Name the ester formed when ethanoic acid reacts with ethanol.",
+    "questionLatex": "$CH_3COOH + C_2H_5OH \\rightarrow ?$",
+    "options": [
+      "Methyl ethanoate",
+      "Ethyl methanoate",
+      "Ethyl ethanoate",
+      "Propyl ethanoate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ethanoic acid reacts with ethanol to form ethyl ethanoate."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
