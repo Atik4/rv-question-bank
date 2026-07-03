@@ -1,0 +1,1246 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Introduction to Respiration",
+    "familyId": "cellular_respiration_definition",
+    "questionText": "The breaking of C-C bonds of complex organic molecules through oxidation within cells, leading to the release of energy, is called:",
+    "questionLatex": "\\text{The breaking of C-C bonds of complex organic molecules through oxidation within cells, leading to the release of energy, is called:}",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Respiration is the oxidative breakdown of complex organic compounds to release energy in a controlled manner."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Substrates",
+    "familyId": "respiratory_substrate",
+    "questionText": "The compounds that are oxidised during respiration to release energy are known as:",
+    "questionLatex": "\\text{The compounds that are oxidised during respiration to release energy are known as:}",
+    "options": [
+      "Catalysts",
+      "Respiratory substrates",
+      "Photosynthetic pigments",
+      "Coenzymes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Respiratory substrates are compounds such as carbohydrates, fats and proteins that undergo oxidation to release energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "ATP",
+    "familyId": "energy_currency",
+    "questionText": "ATP is commonly referred to as the:",
+    "questionLatex": "\\text{ATP is commonly referred to as the:}",
+    "options": [
+      "Storage carbohydrate",
+      "Energy currency of the cell",
+      "Respiratory enzyme",
+      "Structural protein"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ATP stores and transfers energy required for cellular activities and is therefore called the energy currency of the cell."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Gas Exchange",
+    "familyId": "plant_gas_exchange",
+    "questionText": "Which structures are mainly responsible for gaseous exchange in higher plants?",
+    "questionLatex": "\\text{Which structures are mainly responsible for gaseous exchange in higher plants?}",
+    "options": [
+      "Xylem vessels",
+      "Stomata and lenticels",
+      "Phloem sieve tubes",
+      "Root hairs only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plants exchange gases mainly through stomata in leaves and lenticels in woody stems."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Plant Respiration",
+    "familyId": "plants_breathe",
+    "questionText": "Why do plants not require specialised respiratory organs like animals?",
+    "questionLatex": "\\text{Why do plants not require specialised respiratory organs like animals?}",
+    "options": [
+      "Plants do not respire",
+      "Each plant part exchanges gases independently and has relatively low respiratory demand",
+      "Plants absorb oxygen only through roots",
+      "Only leaves require oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each plant part meets its own gaseous exchange requirements, and the overall demand for oxygen is comparatively low."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiration Equation",
+    "familyId": "respiration_products",
+    "questionText": "The complete oxidation of glucose during aerobic respiration produces:",
+    "questionLatex": "\\text{The complete oxidation of glucose during aerobic respiration produces: } \\mathrm{C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + Energy}",
+    "options": [
+      "Carbon dioxide, water and energy",
+      "Lactic acid and energy",
+      "Ethanol and carbon dioxide only",
+      "Only ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Complete oxidation of glucose produces carbon dioxide, water and releases energy that is captured in ATP."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Glycolysis",
+    "familyId": "glycolysis_definition",
+    "questionText": "Glycolysis refers to:",
+    "questionLatex": "\\text{Glycolysis refers to:}",
+    "options": [
+      "Complete oxidation of glucose to carbon dioxide",
+      "Partial oxidation of glucose to pyruvic acid",
+      "Conversion of pyruvate to acetyl CoA",
+      "Formation of ATP in mitochondria only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Glycolysis is the partial oxidation of glucose into two molecules of pyruvic acid."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Glycolysis",
+    "familyId": "glycolysis_location",
+    "questionText": "Glycolysis takes place in the:",
+    "questionLatex": "\\text{Glycolysis takes place in the:}",
+    "options": [
+      "Mitochondrial matrix",
+      "Inner mitochondrial membrane",
+      "Cytoplasm",
+      "Chloroplast stroma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glycolysis occurs in the cytoplasm of both prokaryotic and eukaryotic cells."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "EMP Pathway",
+    "familyId": "emp_pathway",
+    "questionText": "The glycolytic pathway is also known as the:",
+    "questionLatex": "\\text{The glycolytic pathway is also known as the:}",
+    "options": [
+      "Calvin pathway",
+      "Hatch-Slack pathway",
+      "EMP pathway",
+      "Krebs pathway"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glycolysis is also called the Embden-Meyerhof-Parnas (EMP) pathway."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Plant Respiration",
+    "familyId": "plants_breathe_explain",
+    "questionText": "Explain why plants do not require specialised respiratory organs.",
+    "questionLatex": "\\text{Explain why plants do not require specialised respiratory organs.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Plants do not require specialised respiratory organs because each part exchanges gases independently through stomata and lenticels. Their respiratory rate is much lower than that of animals, living cells are located close to the surface, and large intercellular air spaces facilitate diffusion of gases."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Glycolysis",
+    "familyId": "glycolysis_end_product",
+    "questionText": "The end product of glycolysis is:",
+    "questionLatex": "\\text{The end product of glycolysis is:}",
+    "options": [
+      "Acetyl CoA",
+      "Pyruvic acid",
+      "Lactic acid",
+      "Citric acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "One molecule of glucose is partially oxidised to form two molecules of pyruvic acid during glycolysis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Glycolysis",
+    "familyId": "glycolysis_atp_utilisation",
+    "questionText": "ATP is consumed during glycolysis in the conversion of:",
+    "questionLatex": "\\text{ATP is consumed during glycolysis in the conversion of:}",
+    "options": [
+      "Glucose to glucose-6-phosphate and fructose-6-phosphate to fructose-1,6-bisphosphate",
+      "Pyruvate to acetyl CoA",
+      "PEP to pyruvate",
+      "Succinate to fumarate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "ATP is utilised at two phosphorylation steps during glycolysis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Glycolysis",
+    "familyId": "glycolysis_nadh",
+    "questionText": "NADH + H⁺ is produced during the conversion of:",
+    "questionLatex": "\\text{NADH } + \\text{ H}^+ \\text{ is produced during the conversion of:}",
+    "options": [
+      "Glucose to glucose-6-phosphate",
+      "Fructose-6-phosphate to fructose-1,6-bisphosphate",
+      "3-Phosphoglyceraldehyde (PGAL) to 1,3-bisphosphoglycerate",
+      "PEP to pyruvate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "NAD⁺ is reduced to NADH + H⁺ during oxidation of PGAL."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Fermentation",
+    "familyId": "pyruvate_fates",
+    "questionText": "Under different cellular conditions, pyruvic acid may undergo:",
+    "questionLatex": "\\text{Under different cellular conditions, pyruvic acid may undergo:}",
+    "options": [
+      "Only alcoholic fermentation",
+      "Only aerobic respiration",
+      "Lactic acid fermentation, alcoholic fermentation or aerobic respiration",
+      "Only lactic acid fermentation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pyruvate has three major metabolic fates depending on oxygen availability and the organism."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Alcoholic Fermentation",
+    "familyId": "alcoholic_products",
+    "questionText": "Alcoholic fermentation in yeast produces:",
+    "questionLatex": "\\text{Alcoholic fermentation in yeast produces:}",
+    "options": [
+      "Lactic acid and ATP",
+      "Acetyl CoA and CO₂",
+      "Ethanol and CO₂",
+      "Citric acid and ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Yeast converts pyruvic acid into ethanol and carbon dioxide under anaerobic conditions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Alcoholic Fermentation",
+    "familyId": "fermentation_enzymes",
+    "questionText": "The enzymes involved in alcoholic fermentation are:",
+    "questionLatex": "\\text{The enzymes involved in alcoholic fermentation are:}",
+    "options": [
+      "Hexokinase and citrate synthase",
+      "Pyruvate decarboxylase and alcohol dehydrogenase",
+      "Pyruvate dehydrogenase and ATP synthase",
+      "Lactate dehydrogenase and invertase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alcoholic fermentation is catalysed by pyruvate decarboxylase and alcohol dehydrogenase."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Lactic Acid Fermentation",
+    "familyId": "lactic_acid_formation",
+    "questionText": "During vigorous exercise in humans, pyruvic acid is converted into lactic acid by the enzyme:",
+    "questionLatex": "\\text{During vigorous exercise, pyruvic acid is converted into lactic acid by:}",
+    "options": [
+      "Alcohol dehydrogenase",
+      "Pyruvate decarboxylase",
+      "Lactate dehydrogenase",
+      "Citrate synthase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Lactate dehydrogenase catalyses the conversion of pyruvate into lactic acid."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Fermentation",
+    "familyId": "fermentation_atp",
+    "questionText": "The net ATP yield from fermentation of one molecule of glucose is:",
+    "questionLatex": "\\text{The net ATP yield from fermentation of one molecule of glucose is:}",
+    "options": [
+      "38 ATP",
+      "36 ATP",
+      "2 ATP",
+      "4 ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fermentation yields only the 2 ATP produced during glycolysis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Aerobic Respiration",
+    "familyId": "pyruvate_transport",
+    "questionText": "Before entering the Krebs cycle, pyruvate is transported from the cytoplasm into the:",
+    "questionLatex": "\\text{Before entering the Krebs cycle, pyruvate is transported into the:}",
+    "options": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondrion",
+      "Endoplasmic reticulum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pyruvate enters the mitochondrial matrix where aerobic respiration continues."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Pyruvate Oxidation",
+    "familyId": "pyruvate_dehydrogenase",
+    "questionText": "Oxidative decarboxylation of pyruvate to acetyl CoA is catalysed by:",
+    "questionLatex": "\\text{Oxidative decarboxylation of pyruvate to acetyl CoA is catalysed by:}",
+    "options": [
+      "Alcohol dehydrogenase",
+      "Pyruvate dehydrogenase",
+      "Hexokinase",
+      "ATP synthase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pyruvate dehydrogenase converts pyruvate into acetyl CoA before it enters the Krebs cycle."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Aerobic Respiration",
+    "familyId": "acetyl_coa_formation",
+    "questionText": "The conversion of pyruvate into acetyl CoA occurs in the:",
+    "questionLatex": "\\text{The conversion of pyruvate into acetyl CoA occurs in the:}",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrial matrix",
+      "Inner mitochondrial membrane",
+      "Chloroplast stroma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pyruvate undergoes oxidative decarboxylation in the mitochondrial matrix to form acetyl CoA."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Krebs Cycle",
+    "familyId": "krebs_cycle_location",
+    "questionText": "The Krebs cycle takes place in the:",
+    "questionLatex": "\\text{The Krebs cycle takes place in the:}",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrial matrix",
+      "Outer mitochondrial membrane",
+      "Thylakoid membrane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Krebs cycle occurs in the mitochondrial matrix in eukaryotic cells."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Krebs Cycle",
+    "familyId": "krebs_discovery",
+    "questionText": "The Krebs cycle was discovered by:",
+    "questionLatex": "\\text{The Krebs cycle was discovered by:}",
+    "options": [
+      "Hans Krebs",
+      "Louis Pasteur",
+      "Otto Warburg",
+      "Melvin Calvin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The citric acid cycle was discovered by Sir Hans Krebs in 1937."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Krebs Cycle",
+    "familyId": "first_product_krebs",
+    "questionText": "Acetyl CoA combines with oxaloacetic acid to form:",
+    "questionLatex": "\\text{Acetyl CoA combines with oxaloacetic acid to form:}",
+    "options": [
+      "Malic acid",
+      "Citric acid",
+      "Succinic acid",
+      "Fumaric acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Acetyl CoA condenses with oxaloacetate to form citrate (citric acid), the first stable product of the Krebs cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Krebs Cycle",
+    "familyId": "co2_release_krebs",
+    "questionText": "How many molecules of carbon dioxide are released during one turn of the Krebs cycle for each acetyl CoA molecule?",
+    "questionLatex": "\\text{How many molecules of } \\text{CO}_2 \\text{ are released during one turn of the Krebs cycle?}",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each acetyl CoA entering the Krebs cycle releases two molecules of carbon dioxide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Krebs Cycle",
+    "familyId": "krebs_energy_products",
+    "questionText": "One turn of the Krebs cycle produces:",
+    "questionLatex": "\\text{One turn of the Krebs cycle produces:}",
+    "options": [
+      "2 ATP, 2 NADH and 2 FADH₂",
+      "1 ATP (or GTP), 3 NADH and 1 FADH₂",
+      "4 ATP, 2 NADH and 2 FADH₂",
+      "2 ATP, 1 NADH and 3 FADH₂"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each turn of the Krebs cycle generates 3 NADH, 1 FADH₂, 1 ATP (or GTP) and 2 CO₂."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "familyId": "ets_location",
+    "questionText": "The Electron Transport System (ETS) in aerobic respiration is located on the:",
+    "questionLatex": "\\text{The Electron Transport System (ETS) is located on the:}",
+    "options": [
+      "Outer mitochondrial membrane",
+      "Inner mitochondrial membrane",
+      "Mitochondrial matrix",
+      "Cytoplasmic membrane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The components of the electron transport chain are embedded in the inner mitochondrial membrane."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "familyId": "final_acceptor",
+    "questionText": "The final electron acceptor in the Electron Transport System is:",
+    "questionLatex": "\\text{The final electron acceptor in the Electron Transport System is:}",
+    "options": [
+      "Carbon dioxide",
+      "Water",
+      "Oxygen",
+      "NAD⁺"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxygen acts as the terminal electron acceptor and combines with electrons and protons to form water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Oxidative Phosphorylation",
+    "familyId": "oxidative_phosphorylation_definition",
+    "questionText": "ATP synthesis coupled with electron transport is known as:",
+    "questionLatex": "\\text{ATP synthesis coupled with electron transport is known as:}",
+    "options": [
+      "Photophosphorylation",
+      "Substrate-level phosphorylation",
+      "Oxidative phosphorylation",
+      "Fermentation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxidative phosphorylation is the synthesis of ATP driven by the electron transport chain."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Balance Sheet",
+    "familyId": "total_atp_yield",
+    "questionText": "According to the NCERT chapter, the theoretical maximum ATP yield from the complete aerobic oxidation of one glucose molecule is approximately:",
+    "questionLatex": "\\text{The theoretical maximum ATP yield from complete aerobic oxidation of one glucose molecule is:}",
+    "options": [
+      "2 ATP",
+      "18 ATP",
+      "36-38 ATP",
+      "64 ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The theoretical maximum yield is approximately 36–38 ATP molecules, although the actual yield may be lower in living cells."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "familyId": "ets_complexes",
+    "questionText": "The Electron Transport System (ETS) consists of a series of electron carriers located in the:",
+    "questionLatex": "\\text{The Electron Transport System (ETS) consists of electron carriers located in the:}",
+    "options": [
+      "Outer mitochondrial membrane",
+      "Inner mitochondrial membrane",
+      "Mitochondrial matrix",
+      "Cytoplasm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The electron transport chain is embedded in the inner mitochondrial membrane."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "familyId": "nadh_entry",
+    "questionText": "Electrons donated by NADH enter the Electron Transport System initially through:",
+    "questionLatex": "\\text{Electrons donated by NADH enter the Electron Transport System initially through:}",
+    "options": [
+      "Complex I (NADH dehydrogenase)",
+      "Complex II (Succinate dehydrogenase)",
+      "Cytochrome c",
+      "ATP synthase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "NADH transfers electrons to Complex I (NADH dehydrogenase), initiating the electron transport chain."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "familyId": "fadh2_entry",
+    "questionText": "FADH₂ donates its electrons directly to:",
+    "questionLatex": "\\text{FADH}_2 \\text{ donates its electrons directly to:}",
+    "options": [
+      "Complex I",
+      "Complex II",
+      "Complex III",
+      "Complex IV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "FADH₂ transfers its electrons directly to Complex II (succinate dehydrogenase)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Oxidative Phosphorylation",
+    "familyId": "chemiosmotic_hypothesis",
+    "questionText": "According to the chemiosmotic hypothesis, ATP synthesis is driven by:",
+    "questionLatex": "\\text{According to the chemiosmotic hypothesis, ATP synthesis is driven by:}",
+    "options": [
+      "Direct oxidation of glucose",
+      "A proton gradient across the inner mitochondrial membrane",
+      "Carbon dioxide concentration",
+      "Lactic acid accumulation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The proton gradient generated during electron transport powers ATP synthesis through ATP synthase."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "ATP Synthase",
+    "familyId": "atp_synthase_function",
+    "questionText": "ATP synthase catalyses the formation of ATP by utilizing the energy released during the movement of:",
+    "questionLatex": "\\text{ATP synthase catalyses ATP formation by utilizing the movement of:}",
+    "options": [
+      "Electrons",
+      "Carbon dioxide molecules",
+      "Protons (H⁺ ions)",
+      "Pyruvate molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "ATP synthase synthesizes ATP when protons move down their electrochemical gradient."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_definition",
+    "questionText": "Respiratory Quotient (RQ) is defined as the ratio of:",
+    "questionLatex": "\\text{Respiratory Quotient (RQ) is defined as the ratio of:}",
+    "options": [
+      "Oxygen consumed / Carbon dioxide released",
+      "Carbon dioxide released / Oxygen consumed",
+      "ATP produced / Oxygen consumed",
+      "Glucose oxidised / Oxygen consumed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RQ is the ratio of the volume of carbon dioxide evolved to the volume of oxygen consumed during respiration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_carbohydrates",
+    "questionText": "The Respiratory Quotient (RQ) for carbohydrates is generally:",
+    "questionLatex": "\\text{The Respiratory Quotient (RQ) for carbohydrates is generally:}",
+    "options": [
+      "0.7",
+      "0.9",
+      "1.0",
+      "1.5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During carbohydrate respiration, the amount of carbon dioxide released equals the oxygen consumed, giving an RQ of 1."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_fats",
+    "questionText": "The Respiratory Quotient (RQ) for fats is typically:",
+    "questionLatex": "\\text{The Respiratory Quotient (RQ) for fats is typically:}",
+    "options": [
+      "0.7",
+      "1.0",
+      "1.3",
+      "2.0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Fats require more oxygen for oxidation; therefore, their RQ is generally around 0.7."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_organic_acids",
+    "questionText": "The Respiratory Quotient (RQ) of organic acids is generally:",
+    "questionLatex": "\\text{The Respiratory Quotient (RQ) of organic acids is generally:}",
+    "options": [
+      "Less than 1",
+      "Equal to 1",
+      "Greater than 1",
+      "Equal to 0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Organic acids contain relatively more oxygen, so their oxidation generally results in an RQ greater than 1."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiration",
+    "familyId": "complete_aerobic_process",
+    "questionText": "Which of the following correctly represents the sequence of stages in aerobic respiration?",
+    "questionLatex": "\\text{Which of the following correctly represents the sequence of stages in aerobic respiration?}",
+    "options": [
+      "Krebs cycle → Glycolysis → ETS",
+      "Glycolysis → Electron Transport System → Krebs cycle",
+      "Glycolysis → Pyruvate oxidation → Krebs cycle → Electron Transport System",
+      "Fermentation → Krebs cycle → ETS"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Aerobic respiration proceeds through glycolysis, oxidative decarboxylation of pyruvate, the Krebs cycle and finally the electron transport system."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_proteins",
+    "questionText": "The Respiratory Quotient (RQ) for proteins is generally:",
+    "questionLatex": "\\text{The Respiratory Quotient (RQ) for proteins is generally:}",
+    "options": [
+      "0.7",
+      "0.9",
+      "1.0",
+      "1.5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Proteins generally have a respiratory quotient of approximately 0.9, although it may vary depending on the amino acid being oxidised."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Quotient",
+    "familyId": "rq_anaerobic",
+    "questionText": "During anaerobic respiration in yeast, the Respiratory Quotient (RQ) is:",
+    "questionLatex": "\\text{During anaerobic respiration in yeast, the Respiratory Quotient (RQ) is:}",
+    "options": [
+      "0.7",
+      "1.0",
+      "Greater than 1",
+      "Infinity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "During anaerobic respiration, oxygen consumption is zero, making the denominator of the RQ expression zero. Hence, RQ is considered infinite."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Substrates",
+    "familyId": "substrate_priority",
+    "questionText": "Under normal physiological conditions, the preferred respiratory substrate in plants is:",
+    "questionLatex": "\\text{Under normal physiological conditions, the preferred respiratory substrate in plants is:}",
+    "options": [
+      "Proteins",
+      "Lipids",
+      "Organic acids",
+      "Carbohydrates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Carbohydrates, particularly glucose, are the preferred respiratory substrates because they are readily available and efficiently metabolised."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Balance Sheet",
+    "familyId": "glucose_complete_oxidation",
+    "questionText": "Complete oxidation of one molecule of glucose during aerobic respiration produces:",
+    "questionLatex": "\\text{Complete oxidation of one molecule of glucose produces:}",
+    "options": [
+      "Only ATP",
+      "CO₂, H₂O and ATP",
+      "Lactic acid and ATP",
+      "Ethanol, CO₂ and ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aerobic respiration completely oxidises glucose into carbon dioxide and water while releasing energy in the form of ATP."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Aerobic vs Anaerobic Respiration",
+    "familyId": "oxygen_requirement",
+    "questionText": "Which of the following processes requires molecular oxygen as the final electron acceptor?",
+    "questionLatex": "\\text{Which process requires molecular oxygen as the final electron acceptor?}",
+    "options": [
+      "Alcoholic fermentation",
+      "Lactic acid fermentation",
+      "Aerobic respiration",
+      "Glycolysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In aerobic respiration, oxygen serves as the terminal electron acceptor in the electron transport chain."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "ATP Production",
+    "familyId": "substrate_level_phosphorylation",
+    "questionText": "ATP formed directly during glycolysis and the Krebs cycle is produced by:",
+    "questionLatex": "\\text{ATP formed directly during glycolysis and the Krebs cycle is produced by:}",
+    "options": [
+      "Oxidative phosphorylation",
+      "Photophosphorylation",
+      "Substrate-level phosphorylation",
+      "Chemiosmosis only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Substrate-level phosphorylation involves the direct transfer of a phosphate group from a substrate molecule to ADP."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiration",
+    "familyId": "mitochondria_role",
+    "questionText": "Mitochondria are popularly known as the 'powerhouse of the cell' because they:",
+    "questionLatex": "\\text{Mitochondria are popularly known as the 'powerhouse of the cell' because they:}",
+    "options": [
+      "Store chlorophyll",
+      "Carry out photosynthesis",
+      "Generate most of the ATP during aerobic respiration",
+      "Synthesize proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Most ATP required by the cell is synthesized in mitochondria through oxidative phosphorylation."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiratory Balance Sheet",
+    "familyId": "maximum_energy_release",
+    "questionText": "Which respiratory stage contributes the maximum ATP through oxidative phosphorylation?",
+    "questionLatex": "\\text{Which respiratory stage contributes the maximum ATP through oxidative phosphorylation?}",
+    "options": [
+      "Glycolysis",
+      "Fermentation",
+      "Electron Transport System",
+      "Pyruvate oxidation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Electron Transport System generates the largest amount of ATP through oxidative phosphorylation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Respiration",
+    "familyId": "energy_release",
+    "questionText": "Why is the oxidation of glucose during respiration carried out in several enzyme-catalysed steps rather than a single step?",
+    "questionLatex": "\\text{Why is the oxidation of glucose during respiration carried out in several enzyme-catalysed steps?}",
+    "options": [
+      "To prevent ATP synthesis",
+      "To ensure gradual release and efficient trapping of energy in ATP",
+      "To increase oxygen consumption only",
+      "To reduce carbon dioxide production"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Stepwise oxidation allows energy to be released gradually and efficiently captured in ATP instead of being lost as heat."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Respiration in Plants",
+    "topic": "Overall Chapter",
+    "familyId": "chapter_conceptual",
+    "questionText": "Which one of the following statements regarding respiration in plants is correct?",
+    "questionLatex": "\\text{Which one of the following statements regarding respiration in plants is correct?}",
+    "options": [
+      "Respiration occurs only during the night.",
+      "Only leaves perform respiration.",
+      "Respiration occurs continuously in all living cells of the plant throughout day and night.",
+      "Respiration occurs only in mitochondria."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Respiration is a continuous process that occurs in all living cells. While glycolysis occurs in the cytoplasm, aerobic stages occur in mitochondria."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

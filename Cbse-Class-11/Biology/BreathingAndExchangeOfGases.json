@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Organs",
+    "familyId": "breathing_definition",
+    "questionText": "Breathing is defined as the process of:",
+    "questionLatex": "\\text{Breathing is defined as the process of:}",
+    "options": [
+      "Oxidation of glucose inside cells",
+      "Exchange of O₂ from the atmosphere with CO₂ produced by cells",
+      "Transport of oxygen by haemoglobin",
+      "Formation of ATP inside mitochondria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Breathing is the process by which oxygen is taken from the atmosphere and carbon dioxide produced by cells is released outside."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Organs in Animals",
+    "familyId": "animal_respiration",
+    "questionText": "Lower invertebrates such as sponges and coelenterates exchange gases primarily by:",
+    "questionLatex": "\\text{Lower invertebrates exchange gases primarily by:}",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Simple diffusion through body surface",
+      "Tracheal tubes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Sponges, coelenterates and flatworms exchange gases through simple diffusion across the body surface."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Organs in Animals",
+    "familyId": "earthworm_respiration",
+    "questionText": "Respiration in earthworms occurs mainly through:",
+    "questionLatex": "\\text{Respiration in earthworms occurs mainly through:}",
+    "options": [
+      "Gills",
+      "Moist cuticle",
+      "Tracheae",
+      "Lungs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Earthworms exchange gases through their moist cuticle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Organs in Animals",
+    "familyId": "insect_respiration",
+    "questionText": "In insects, atmospheric air is transported within the body through:",
+    "questionLatex": "\\text{Atmospheric air in insects is transported through:}",
+    "options": [
+      "Bronchi",
+      "Alveoli",
+      "Tracheal tubes",
+      "Gill lamellae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Insects possess a tracheal system that carries atmospheric air directly to tissues."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Organs in Animals",
+    "familyId": "frog_respiration",
+    "questionText": "Besides lungs, adult frogs can also respire through their:",
+    "questionLatex": "\\text{Adult frogs can also respire through their:}",
+    "options": [
+      "Scales",
+      "Moist skin",
+      "Gill slits",
+      "Air sacs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Amphibians such as frogs perform cutaneous respiration through their moist skin."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Human Respiratory System",
+    "familyId": "larynx_function",
+    "questionText": "The larynx is commonly known as the:",
+    "questionLatex": "\\text{The larynx is commonly known as the:}",
+    "options": [
+      "Voice box",
+      "Air sac",
+      "Bronchial chamber",
+      "Pleural cavity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The cartilaginous larynx helps in sound production and is therefore called the voice box."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Human Respiratory System",
+    "familyId": "epiglottis_function",
+    "questionText": "During swallowing, the epiglottis prevents food from entering the:",
+    "questionLatex": "\\text{During swallowing, the epiglottis prevents food from entering the:}",
+    "options": [
+      "Oesophagus",
+      "Pharynx",
+      "Larynx",
+      "Nasal chamber"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The epiglottis covers the glottis during swallowing and prevents food from entering the larynx."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Human Respiratory System",
+    "familyId": "trachea_division",
+    "questionText": "The trachea divides into the right and left primary bronchi at the level of the:",
+    "questionLatex": "\\text{The trachea divides into the right and left primary bronchi at the level of the:}",
+    "options": [
+      "3rd cervical vertebra",
+      "5th thoracic vertebra",
+      "12th thoracic vertebra",
+      "1st lumbar vertebra"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to NCERT, the trachea divides into primary bronchi at the level of the fifth thoracic vertebra."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Human Respiratory System",
+    "familyId": "alveoli_function",
+    "questionText": "The actual site of gaseous exchange in the human respiratory system is:",
+    "questionLatex": "\\text{The actual site of gaseous exchange is:}",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Bronchioles",
+      "Alveoli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Alveoli provide a large surface area where oxygen and carbon dioxide diffuse between air and blood."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Pleura",
+    "familyId": "pleural_fluid",
+    "questionText": "The primary function of pleural fluid present between the two pleural membranes is to:",
+    "questionLatex": "\\text{The primary function of pleural fluid is to:}",
+    "options": [
+      "Increase lung elasticity",
+      "Prevent collapse of alveoli",
+      "Reduce friction during breathing",
+      "Store oxygen for respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pleural fluid acts as a lubricant and reduces friction between the lungs and thoracic wall during breathing."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Conducting and Respiratory Parts",
+    "familyId": "conducting_part_definition",
+    "questionText": "The conducting part of the human respiratory system extends from the:",
+    "questionLatex": "\\text{The conducting part of the human respiratory system extends from the:}",
+    "options": [
+      "External nostrils to terminal bronchioles",
+      "Nasal chamber to alveoli",
+      "Pharynx to alveolar ducts",
+      "Larynx to bronchi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The conducting part extends from the external nostrils up to the terminal bronchioles and conducts atmospheric air to the alveoli."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Conducting Part",
+    "familyId": "conducting_part_function",
+    "questionText": "Which of the following is NOT a function of the conducting part of the respiratory system?",
+    "questionLatex": "\\text{Which of the following is NOT a function of the conducting part of the respiratory system?}",
+    "options": [
+      "Humidification of inspired air",
+      "Removal of foreign particles",
+      "Exchange of oxygen and carbon dioxide",
+      "Warming inspired air to body temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The conducting part transports, filters, humidifies and warms air. Actual gaseous exchange occurs only in the alveoli."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Part",
+    "familyId": "exchange_part",
+    "questionText": "The respiratory (exchange) part of the respiratory system consists of:",
+    "questionLatex": "\\text{The respiratory (exchange) part of the respiratory system consists of:}",
+    "options": [
+      "Nasal cavity and pharynx",
+      "Trachea and bronchi",
+      "Alveoli and alveolar ducts",
+      "Bronchioles only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The respiratory or exchange part comprises the alveoli and their ducts where diffusion of gases takes place."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Steps in Respiration",
+    "familyId": "respiration_steps",
+    "questionText": "Which of the following is the correct sequence of events in respiration?",
+    "questionLatex": "\\text{Which of the following is the correct sequence of events in respiration?}",
+    "options": [
+      "Transport of gases → Breathing → Cellular respiration → Diffusion",
+      "Breathing → Diffusion across alveoli → Transport of gases → Diffusion between blood and tissues → Cellular respiration",
+      "Cellular respiration → Transport → Breathing → Diffusion",
+      "Breathing → Cellular respiration → Diffusion → Transport"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Respiration involves breathing, alveolar diffusion, transport of gases, tissue diffusion and finally cellular respiration."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Mechanism of Breathing",
+    "familyId": "inspiration_condition",
+    "questionText": "Inspiration occurs when the intrapulmonary pressure is:",
+    "questionLatex": "\\text{Inspiration occurs when the intrapulmonary pressure is:}",
+    "options": [
+      "Greater than atmospheric pressure",
+      "Equal to atmospheric pressure",
+      "Less than atmospheric pressure",
+      "Twice the atmospheric pressure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Air enters the lungs when intrapulmonary pressure falls below atmospheric pressure."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Mechanism of Breathing",
+    "familyId": "expiration_condition",
+    "questionText": "Expiration takes place when the intrapulmonary pressure becomes:",
+    "questionLatex": "\\text{Expiration takes place when the intrapulmonary pressure becomes:}",
+    "options": [
+      "Lower than atmospheric pressure",
+      "Higher than atmospheric pressure",
+      "Equal to atmospheric pressure throughout",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Expiration occurs when intrapulmonary pressure exceeds atmospheric pressure, forcing air out of the lungs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Mechanism of Inspiration",
+    "familyId": "diaphragm_function",
+    "questionText": "During normal inspiration, the diaphragm:",
+    "questionLatex": "\\text{During normal inspiration, the diaphragm:}",
+    "options": [
+      "Relaxes and arches upward",
+      "Contracts and flattens",
+      "Moves laterally only",
+      "Remains stationary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Contraction of the diaphragm increases the thoracic volume and facilitates inspiration."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Mechanism of Inspiration",
+    "familyId": "external_intercostals",
+    "questionText": "During inspiration, contraction of the external intercostal muscles results in:",
+    "questionLatex": "\\text{During inspiration, contraction of the external intercostal muscles results in:}",
+    "options": [
+      "Lowering of ribs and sternum",
+      "Lifting of ribs and sternum",
+      "Closure of bronchioles",
+      "Constriction of alveoli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "External intercostal muscles elevate the ribs and sternum, increasing the thoracic cavity volume."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Breathing",
+    "familyId": "breathing_rate",
+    "questionText": "The average breathing rate of a healthy adult human at rest is approximately:",
+    "questionLatex": "\\text{The average breathing rate of a healthy adult human at rest is approximately:}",
+    "options": [
+      "4–6 breaths per minute",
+      "8–10 breaths per minute",
+      "12–16 breaths per minute",
+      "20–25 breaths per minute"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A healthy adult breathes about 12–16 times per minute under resting conditions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Spirometer",
+    "familyId": "spirometer_use",
+    "questionText": "A spirometer is primarily used to:",
+    "questionLatex": "\\text{A spirometer is primarily used to:}",
+    "options": [
+      "Measure blood pressure",
+      "Measure pulmonary volumes and capacities",
+      "Estimate blood oxygen concentration",
+      "Measure heart rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A spirometer measures respiratory volumes and capacities and is used for clinical assessment of pulmonary function."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Volumes",
+    "familyId": "tidal_volume_definition",
+    "questionText": "The volume of air inspired or expired during a normal breath is called:",
+    "questionLatex": "\\text{The volume of air inspired or expired during a normal breath is called:}",
+    "options": [
+      "Inspiratory Reserve Volume (IRV)",
+      "Tidal Volume (TV)",
+      "Expiratory Reserve Volume (ERV)",
+      "Residual Volume (RV)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tidal Volume (TV) is the amount of air inspired or expired during normal quiet breathing and is about 500 mL in a healthy adult."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Volumes",
+    "familyId": "irv_definition",
+    "questionText": "Inspiratory Reserve Volume (IRV) is the:",
+    "questionLatex": "\\text{Inspiratory Reserve Volume (IRV) is the:}",
+    "options": [
+      "Air remaining in lungs after forceful expiration",
+      "Additional volume of air that can be inspired after a normal inspiration",
+      "Air expired during normal breathing",
+      "Maximum volume of air expelled after normal expiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "IRV is the additional volume of air that can be inhaled forcibly after a normal inspiration."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Volumes",
+    "familyId": "erv_definition",
+    "questionText": "Expiratory Reserve Volume (ERV) refers to the:",
+    "questionLatex": "\\text{Expiratory Reserve Volume (ERV) refers to the:}",
+    "options": [
+      "Volume of air expired during normal breathing",
+      "Additional air that can be forcibly expired after a normal expiration",
+      "Air remaining in lungs after forceful expiration",
+      "Maximum amount of air inspired"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ERV is the additional volume of air that can be forcibly exhaled after a normal expiration."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Volumes",
+    "familyId": "residual_volume",
+    "questionText": "Residual Volume (RV) is the volume of air:",
+    "questionLatex": "\\text{Residual Volume (RV) is the volume of air:}",
+    "options": [
+      "Inspired during normal breathing",
+      "Expired during forceful expiration",
+      "Remaining in the lungs even after forceful expiration",
+      "Inspired after normal inspiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Residual Volume prevents collapse of the lungs by remaining even after forceful expiration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Capacities",
+    "familyId": "vital_capacity",
+    "questionText": "Vital Capacity (VC) is equal to:",
+    "questionLatex": "\\text{Vital Capacity (VC) is equal to:}",
+    "options": [
+      "TV + RV",
+      "TV + IRV + ERV",
+      "IRV + RV",
+      "TV + RV + ERV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vital Capacity is the maximum volume of air that can be exhaled after a maximum inspiration and equals TV + IRV + ERV."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Capacities",
+    "familyId": "total_lung_capacity",
+    "questionText": "Total Lung Capacity (TLC) is calculated as:",
+    "questionLatex": "\\text{Total Lung Capacity (TLC) is calculated as:}",
+    "options": [
+      "TV + ERV",
+      "VC + RV",
+      "IRV + TV",
+      "ERV + RV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Total Lung Capacity is the total amount of air the lungs can hold and equals Vital Capacity plus Residual Volume."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Alveolar Gas Exchange",
+    "familyId": "diffusion_principle",
+    "questionText": "Exchange of gases across the alveolar membrane occurs primarily by:",
+    "questionLatex": "\\text{Exchange of gases across the alveolar membrane occurs primarily by:}",
+    "options": [
+      "Active transport",
+      "Facilitated diffusion",
+      "Simple diffusion",
+      "Osmosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxygen and carbon dioxide move across the respiratory membrane by simple diffusion along their partial pressure gradients."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Gas Exchange",
+    "familyId": "oxygen_diffusion_direction",
+    "questionText": "During alveolar gas exchange, oxygen diffuses from:",
+    "questionLatex": "\\text{During alveolar gas exchange, oxygen diffuses from:}",
+    "options": [
+      "Blood into alveoli",
+      "Alveoli into deoxygenated blood",
+      "Tissues into blood",
+      "Blood into tissues"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Oxygen diffuses from alveolar air, where its partial pressure is higher, into deoxygenated pulmonary blood."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Gas Exchange",
+    "familyId": "carbon_dioxide_diffusion",
+    "questionText": "Carbon dioxide diffuses from pulmonary blood into the alveoli because:",
+    "questionLatex": "\\text{Carbon dioxide diffuses from pulmonary blood into the alveoli because:}",
+    "options": [
+      "Its partial pressure is higher in alveolar air",
+      "Its partial pressure is higher in pulmonary blood",
+      "It is actively transported",
+      "Oxygen pushes it into the alveoli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbon dioxide diffuses from pulmonary blood, where its partial pressure is higher, into the alveoli."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Membrane",
+    "familyId": "respiratory_membrane_layers",
+    "questionText": "The respiratory membrane across which gaseous exchange occurs consists of:",
+    "questionLatex": "\\text{The respiratory membrane across which gaseous exchange occurs consists of:}",
+    "options": [
+      "Alveolar epithelium only",
+      "Alveolar epithelium, fused basement membrane and capillary endothelium",
+      "Capillary endothelium only",
+      "Pleural membrane and alveolar epithelium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The respiratory membrane is formed by the thin squamous epithelium of alveoli, the fused basement membrane and the capillary endothelium, enabling efficient gas exchange."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Gases",
+    "familyId": "oxygen_transport",
+    "questionText": "Approximately what percentage of oxygen is transported by haemoglobin in the blood?",
+    "questionLatex": "\\text{Approximately what percentage of oxygen is transported by haemoglobin in blood?}",
+    "options": [
+      "3%",
+      "25%",
+      "97%",
+      "100%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "About 97% of oxygen is transported as oxyhaemoglobin, while the remaining 3% is dissolved in plasma."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Gases",
+    "familyId": "oxygen_dissolved",
+    "questionText": "The remaining oxygen not bound to haemoglobin is transported in blood:",
+    "questionLatex": "\\text{The remaining oxygen is transported in blood:}",
+    "options": [
+      "As bicarbonate ions",
+      "Combined with plasma proteins",
+      "Dissolved in plasma",
+      "As carbamino compounds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "About 3% of oxygen is transported dissolved in plasma."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Oxyhaemoglobin Dissociation Curve",
+    "familyId": "oxyhaemoglobin_curve",
+    "questionText": "The relationship between the partial pressure of oxygen (pO₂) and percentage saturation of haemoglobin is represented by a:",
+    "questionLatex": "\\text{The relationship between } p\\text{O}_2 \\text{ and haemoglobin saturation is represented by a:}",
+    "options": [
+      "Linear curve",
+      "Parabolic curve",
+      "Sigmoid (S-shaped) curve",
+      "Hyperbolic curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The oxyhaemoglobin dissociation curve is sigmoid due to cooperative binding of oxygen to haemoglobin."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Oxygen",
+    "familyId": "oxygen_dissociation",
+    "questionText": "Release of oxygen from oxyhaemoglobin in the tissues is facilitated by:",
+    "questionLatex": "\\text{Release of oxygen from oxyhaemoglobin in tissues is facilitated by:}",
+    "options": [
+      "High pO₂ and low pCO₂",
+      "High pCO₂, high H⁺ concentration and higher temperature",
+      "Low temperature and low pCO₂",
+      "High pH only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "High pCO₂, increased H⁺ concentration (low pH) and higher temperature promote dissociation of oxyhaemoglobin in tissues."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Carbon Dioxide",
+    "familyId": "co2_transport_forms",
+    "questionText": "The largest proportion of carbon dioxide is transported in blood as:",
+    "questionLatex": "\\text{The largest proportion of carbon dioxide is transported in blood as:}",
+    "options": [
+      "Dissolved CO₂",
+      "Carbaminohaemoglobin",
+      "Bicarbonate ions",
+      "Carbonic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Approximately 70% of carbon dioxide is transported as bicarbonate (HCO₃⁻) ions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Carbon Dioxide",
+    "familyId": "carbonic_anhydrase",
+    "questionText": "The enzyme that catalyses the reversible conversion of carbon dioxide and water into carbonic acid is:",
+    "questionLatex": "\\text{The enzyme catalysing } \\text{CO}_2 + \\text{H}_2\\text{O} \\leftrightarrow \\text{H}_2\\text{CO}_3 \\text{ is:}",
+    "options": [
+      "Catalase",
+      "Carbonic anhydrase",
+      "Peroxidase",
+      "Cytochrome oxidase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbonic anhydrase, present in RBCs, rapidly catalyses the hydration of carbon dioxide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Transport of Carbon Dioxide",
+    "familyId": "co2_carbamino",
+    "questionText": "Approximately what percentage of carbon dioxide is transported as carbaminohaemoglobin?",
+    "questionLatex": "\\text{Approximately what percentage of } \\text{CO}_2 \\text{ is transported as carbaminohaemoglobin?}",
+    "options": [
+      "7%",
+      "20-23%",
+      "70%",
+      "97%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "About 20-23% of carbon dioxide combines with haemoglobin to form carbaminohaemoglobin."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Regulation of Respiration",
+    "familyId": "respiratory_centre",
+    "questionText": "The respiratory rhythm centre responsible for regulating breathing is located in the:",
+    "questionLatex": "\\text{The respiratory rhythm centre is located in the:}",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The respiratory rhythm centre controlling the basic rhythm of breathing is present in the medulla oblongata."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Regulation of Respiration",
+    "familyId": "chemoreceptor_stimulus",
+    "questionText": "The most important stimulus for regulation of respiration under normal conditions is an increase in:",
+    "questionLatex": "\\text{The most important stimulus for regulation of respiration is an increase in:}",
+    "options": [
+      "Blood oxygen concentration",
+      "Blood carbon dioxide concentration",
+      "Blood glucose concentration",
+      "Blood calcium concentration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An increase in carbon dioxide concentration and associated increase in H⁺ concentration strongly stimulates the respiratory centre."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Regulation of Respiration",
+    "familyId": "chemoreceptors_location",
+    "questionText": "Peripheral chemoreceptors that monitor changes in blood gases are primarily located in the:",
+    "questionLatex": "\\text{Peripheral chemoreceptors are primarily located in the:}",
+    "options": [
+      "Carotid and aortic bodies",
+      "Pulmonary alveoli",
+      "Bronchioles",
+      "Pleural membrane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Peripheral chemoreceptors present in the carotid and aortic bodies detect changes in blood O₂, CO₂ and H⁺ concentrations."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Disorders of Respiratory System",
+    "familyId": "asthma_definition",
+    "questionText": "Asthma is primarily characterized by:",
+    "questionLatex": "\\text{Asthma is primarily characterized by:}",
+    "options": [
+      "Loss of alveolar surface area",
+      "Inflammation and narrowing of bronchi and bronchioles due to allergic reactions",
+      "Bacterial infection of alveoli only",
+      "Fibrosis of pleural membranes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Asthma is an allergic condition in which bronchi and bronchioles become inflamed and constricted, causing difficulty in breathing."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Disorders of Respiratory System",
+    "familyId": "emphysema_definition",
+    "questionText": "Emphysema is a disorder in which:",
+    "questionLatex": "\\text{Emphysema is a disorder in which:}",
+    "options": [
+      "The alveolar walls are damaged, reducing the respiratory surface",
+      "The trachea becomes blocked by mucus",
+      "The diaphragm becomes paralysed",
+      "The pleural cavity fills with blood"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "In emphysema, the alveolar walls are destroyed, decreasing the surface area available for gaseous exchange."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Disorders of Respiratory System",
+    "familyId": "emphysema_cause",
+    "questionText": "According to NCERT, emphysema is most commonly caused by:",
+    "questionLatex": "\\text{According to NCERT, emphysema is most commonly caused by:}",
+    "options": [
+      "Vitamin deficiency",
+      "Smoking",
+      "High altitude",
+      "Excessive exercise"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Smoking is the major cause of emphysema because it damages the alveolar walls and reduces respiratory efficiency."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Disorders of Respiratory System",
+    "familyId": "occupational_disorders",
+    "questionText": "Occupational respiratory disorders are commonly caused by prolonged exposure to:",
+    "questionLatex": "\\text{Occupational respiratory disorders are commonly caused by prolonged exposure to:}",
+    "options": [
+      "Clean atmospheric air",
+      "Dust, fumes and harmful gases",
+      "High humidity only",
+      "Cold drinking water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Long-term exposure to dust, silica, asbestos and industrial fumes can cause occupational respiratory diseases."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Disorders of Respiratory System",
+    "familyId": "occupational_fibrosis",
+    "questionText": "Continuous exposure to harmful dust particles in industries may ultimately lead to:",
+    "questionLatex": "\\text{Continuous exposure to harmful dust particles in industries may ultimately lead to:}",
+    "options": [
+      "Enhanced lung elasticity",
+      "Inflammation followed by fibrosis of lung tissue",
+      "Increase in alveolar surface area",
+      "Rapid regeneration of alveoli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Occupational exposure to harmful dust causes chronic inflammation and fibrosis, reducing respiratory efficiency."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Gas Transport",
+    "familyId": "bohr_effect",
+    "questionText": "Which factor decreases the affinity of haemoglobin for oxygen and facilitates oxygen unloading in tissues?",
+    "questionLatex": "\\text{Which factor decreases the affinity of haemoglobin for oxygen and facilitates oxygen unloading in tissues?}",
+    "options": [
+      "Decrease in carbon dioxide concentration",
+      "Increase in pH",
+      "Increase in carbon dioxide concentration",
+      "Decrease in body temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An increase in carbon dioxide concentration lowers the affinity of haemoglobin for oxygen, promoting oxygen release to tissues (Bohr effect)."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Gas Exchange",
+    "familyId": "alveolar_surface",
+    "questionText": "The large number of alveoli in human lungs mainly helps to:",
+    "questionLatex": "\\text{The large number of alveoli in human lungs mainly helps to:}",
+    "options": [
+      "Reduce lung volume",
+      "Increase the surface area available for gaseous exchange",
+      "Increase blood pressure",
+      "Store carbon dioxide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Millions of alveoli provide an enormous surface area for efficient diffusion of respiratory gases."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory Pigments",
+    "familyId": "haemoglobin_location",
+    "questionText": "Haemoglobin, the respiratory pigment responsible for oxygen transport, is present in:",
+    "questionLatex": "\\text{Haemoglobin, the respiratory pigment responsible for oxygen transport, is present in:}",
+    "options": [
+      "Blood plasma",
+      "Red blood cells",
+      "Platelets",
+      "White blood cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Haemoglobin is present inside erythrocytes (red blood cells), where it binds and transports oxygen."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Respiratory System",
+    "familyId": "alveoli_structure",
+    "questionText": "The wall of each alveolus is lined by:",
+    "questionLatex": "\\text{The wall of each alveolus is lined by:}",
+    "options": [
+      "Cuboidal epithelium",
+      "Stratified squamous epithelium",
+      "Simple squamous epithelium",
+      "Ciliated columnar epithelium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The alveoli are lined by thin simple squamous epithelium to facilitate rapid diffusion of gases."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Breathing and Exchange of Gases",
+    "topic": "Chapter Revision",
+    "familyId": "integrated_concept",
+    "questionText": "Which one of the following statements regarding human respiration is correct?",
+    "questionLatex": "\\text{Which one of the following statements regarding human respiration is correct?}",
+    "options": [
+      "Carbon dioxide is transported only in dissolved form.",
+      "Gas exchange occurs in the bronchi.",
+      "Most oxygen is transported as oxyhaemoglobin, while most carbon dioxide is transported as bicarbonate ions.",
+      "Expiration occurs when intrapulmonary pressure becomes lower than atmospheric pressure."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Approximately 97% of oxygen is transported as oxyhaemoglobin, whereas nearly 70% of carbon dioxide is transported as bicarbonate ions."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
