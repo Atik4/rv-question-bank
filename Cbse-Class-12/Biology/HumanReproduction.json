@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Introduction",
+    "familyId": "human_reproduction_events",
+    "questionText": "Which of the following is the correct sequence of major reproductive events in humans?",
+    "questionLatex": "\\text{Which of the following is the correct sequence of major reproductive events in humans?}",
+    "options": [
+      "Implantation → Gametogenesis → Fertilisation → Parturition",
+      "Gametogenesis → Insemination → Fertilisation → Implantation → Gestation → Parturition",
+      "Fertilisation → Gametogenesis → Implantation → Gestation",
+      "Insemination → Implantation → Fertilisation → Parturition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Human reproduction involves gametogenesis, insemination, fertilisation, implantation, gestation and finally parturition."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Reproductive System",
+    "familyId": "scrotum_function",
+    "questionText": "The primary function of the scrotum is to:",
+    "questionLatex": "\\text{The primary function of the scrotum is to:}",
+    "options": [
+      "Store mature sperms",
+      "Maintain the testes at a temperature 2-2.5°C below body temperature",
+      "Produce testosterone",
+      "Secrete seminal fluid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The scrotum maintains a lower temperature necessary for spermatogenesis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Reproductive System",
+    "familyId": "seminiferous_tubules",
+    "questionText": "Sperms are produced in the:",
+    "questionLatex": "\\text{Sperms are produced in the:}",
+    "options": [
+      "Rete testis",
+      "Epididymis",
+      "Seminiferous tubules",
+      "Vas deferens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Seminiferous tubules are the site of spermatogenesis."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Reproductive System",
+    "familyId": "sertoli_cells",
+    "questionText": "The primary role of Sertoli cells is to:",
+    "questionLatex": "\\text{The primary role of Sertoli cells is to:}",
+    "options": [
+      "Secrete testosterone",
+      "Provide nourishment to developing germ cells",
+      "Store sperms",
+      "Produce seminal plasma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sertoli cells support and nourish developing sperm cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Reproductive System",
+    "familyId": "leydig_cells",
+    "questionText": "Leydig cells are responsible for the synthesis and secretion of:",
+    "questionLatex": "\\text{Leydig cells are responsible for the synthesis and secretion of:}",
+    "options": [
+      "Estrogens",
+      "Progesterone",
+      "Androgens",
+      "FSH"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Interstitial (Leydig) cells produce the male sex hormones called androgens."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Accessory Ducts",
+    "familyId": "sperm_pathway",
+    "questionText": "Which of the following correctly represents the pathway of sperm movement from the seminiferous tubules?",
+    "questionLatex": "\\text{Which of the following correctly represents the pathway of sperm movement from the seminiferous tubules?}",
+    "options": [
+      "Seminiferous tubules → Epididymis → Rete testis → Vas deferens",
+      "Seminiferous tubules → Rete testis → Vasa efferentia → Epididymis → Vas deferens",
+      "Seminiferous tubules → Vas deferens → Epididymis → Urethra",
+      "Seminiferous tubules → Urethra → Epididymis → Vas deferens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The correct pathway is seminiferous tubules → rete testis → vasa efferentia → epididymis → vas deferens."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Male Accessory Glands",
+    "familyId": "seminal_plasma",
+    "questionText": "Seminal plasma is rich in:",
+    "questionLatex": "\\text{Seminal plasma is rich in:}",
+    "options": [
+      "Glucose, sodium and urea",
+      "Fructose, calcium and enzymes",
+      "Glycogen, iron and proteins",
+      "Lipids and cholesterol only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Seminal plasma contains fructose, calcium and enzymes that support sperm viability."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "ovary_function",
+    "questionText": "The primary female sex organs are the ovaries because they:",
+    "questionLatex": "\\text{The primary female sex organs are the ovaries because they:}",
+    "options": [
+      "Store embryos",
+      "Produce ova and ovarian hormones",
+      "Carry out fertilisation",
+      "Form the birth canal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ovaries produce ova and secrete steroid hormones such as estrogen and progesterone."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "ovarian_stroma",
+    "questionText": "The ovarian stroma is differentiated into:",
+    "questionLatex": "\\text{The ovarian stroma is differentiated into:}",
+    "options": [
+      "Medulla and cortex",
+      "Perimetrium and myometrium",
+      "Endometrium and myometrium",
+      "Ampulla and isthmus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The ovarian stroma consists of an outer cortex and an inner medulla."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "fimbriae_function",
+    "questionText": "The finger-like projections present on the infundibulum of the fallopian tube are called fimbriae. Their main function is to:",
+    "questionLatex": "\\text{The finger-like projections present on the infundibulum of the fallopian tube are called fimbriae. Their main function is to:}",
+    "options": [
+      "Secrete ovarian hormones",
+      "Collect the ovum after ovulation",
+      "Store the zygote",
+      "Support implantation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fimbriae collect the ovum released from the ovary and guide it into the oviduct."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "oviduct_parts",
+    "questionText": "Arrange the parts of the fallopian tube from the ovarian end towards the uterus.",
+    "questionLatex": "\\text{Arrange the parts of the fallopian tube from the ovarian end towards the uterus.}",
+    "options": [
+      "Isthmus → Ampulla → Infundibulum",
+      "Infundibulum → Ampulla → Isthmus",
+      "Ampulla → Isthmus → Infundibulum",
+      "Ampulla → Infundibulum → Isthmus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The fallopian tube consists of the infundibulum, ampulla and isthmus in sequence from the ovary towards the uterus."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "uterine_layers",
+    "questionText": "The innermost glandular layer of the uterus is known as:",
+    "questionLatex": "\\text{The innermost glandular layer of the uterus is known as:}",
+    "options": [
+      "Perimetrium",
+      "Myometrium",
+      "Endometrium",
+      "Mesometrium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The endometrium is the innermost glandular layer lining the uterine cavity."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "myometrium_function",
+    "questionText": "The myometrium mainly functions to:",
+    "questionLatex": "\\text{The primary function of the myometrium is to:}",
+    "options": [
+      "Produce ova",
+      "Undergo cyclical shedding",
+      "Bring about strong uterine contractions during childbirth",
+      "Secrete estrogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The thick muscular myometrium contracts powerfully during parturition."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female Reproductive System",
+    "familyId": "birth_canal",
+    "questionText": "The birth canal in human females is formed by the:",
+    "questionLatex": "\\text{The birth canal is formed by the:}",
+    "options": [
+      "Uterus and ovaries",
+      "Cervical canal and vagina",
+      "Oviduct and uterus",
+      "Vagina and urethra"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cervical canal together with the vagina forms the birth canal."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Female External Genitalia",
+    "familyId": "clitoris_location",
+    "questionText": "The clitoris is located:",
+    "questionLatex": "\\text{The clitoris is located:}",
+    "options": [
+      "At the lower end of the vagina",
+      "Above the urethral opening at the junction of the labia minora",
+      "Inside the cervical canal",
+      "Within the ovary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The clitoris is a small finger-like structure situated at the upper junction of the two labia minora."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Mammary Gland",
+    "familyId": "alveoli_function",
+    "questionText": "Milk is secreted by the cells present in the:",
+    "questionLatex": "\\text{Milk is secreted by the cells present in the:}",
+    "options": [
+      "Lactiferous ducts",
+      "Ampulla",
+      "Alveoli",
+      "Nipple"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The alveolar cells of the mammary gland synthesize and secrete milk."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Mammary Gland",
+    "familyId": "milk_pathway",
+    "questionText": "Which sequence correctly represents the pathway followed by milk from its site of secretion to the exterior?",
+    "questionLatex": "\\text{Select the correct pathway of milk flow.}",
+    "options": [
+      "Alveoli → Mammary tubules → Mammary ducts → Mammary ampulla → Lactiferous duct → Nipple",
+      "Mammary ducts → Alveoli → Mammary ampulla → Nipple",
+      "Alveoli → Lactiferous duct → Mammary ampulla → Nipple",
+      "Mammary tubules → Alveoli → Mammary ducts → Nipple"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Milk flows from alveoli through mammary tubules, mammary ducts, mammary ampulla and lactiferous duct before being released through the nipple."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "gametogenesis_definition",
+    "questionText": "The process by which sperms are produced in the testes is known as:",
+    "questionLatex": "\\text{The process by which sperms are produced is called:}",
+    "options": [
+      "Oogenesis",
+      "Spermatogenesis",
+      "Spermiation",
+      "Spermiogenesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Spermatogenesis is the process of formation of sperm cells in the testes."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "primary_spermatocyte_chromosomes",
+    "questionText": "A primary spermatocyte in humans contains:",
+    "questionLatex": "\\text{Number of chromosomes in a primary spermatocyte = ?}",
+    "options": [
+      "23 chromosomes",
+      "46 chromosomes",
+      "92 chromosomes",
+      "44 chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary spermatocytes are diploid (2n) cells with 46 chromosomes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "secondary_spermatocyte",
+    "questionText": "A primary spermatocyte undergoes meiosis I to produce:",
+    "questionLatex": "\\text{Primary spermatocyte} \\xrightarrow{\\text{Meiosis I}} \\ ?",
+    "options": [
+      "Two primary spermatocytes",
+      "Two secondary spermatocytes",
+      "Four spermatids",
+      "Two spermatozoa"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meiosis I in a primary spermatocyte produces two haploid secondary spermatocytes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "meiosis_ii_products",
+    "questionText": "Each secondary spermatocyte undergoes meiosis II to produce:",
+    "questionLatex": "\\text{Each secondary spermatocyte undergoes meiosis II to produce:}",
+    "options": [
+      "Two primary spermatocytes",
+      "Two spermatids",
+      "Four spermatids",
+      "One spermatozoon"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each haploid secondary spermatocyte undergoes meiosis II to form two haploid spermatids."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "spermiogenesis_definition",
+    "questionText": "The transformation of spermatids into mature spermatozoa is known as:",
+    "questionLatex": "\\text{Transformation of spermatids into spermatozoa is called:}",
+    "options": [
+      "Spermatogenesis",
+      "Spermiogenesis",
+      "Spermiation",
+      "Capacitation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Spermiogenesis is the differentiation of spermatids into mature spermatozoa."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Spermatogenesis",
+    "familyId": "spermiation_definition",
+    "questionText": "Release of mature spermatozoa from Sertoli cells into the lumen of seminiferous tubules is called:",
+    "questionLatex": "\\text{Release of mature spermatozoa into the lumen is called:}",
+    "options": [
+      "Spermiogenesis",
+      "Spermiation",
+      "Capacitation",
+      "Insemination"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Spermiation is the process by which mature spermatozoa are released from Sertoli cells into the seminiferous tubule lumen."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Hormonal Control of Spermatogenesis",
+    "familyId": "gnrh_function",
+    "questionText": "Gonadotropin-releasing hormone (GnRH) secreted by the hypothalamus stimulates the anterior pituitary to release:",
+    "questionLatex": "\\text{GnRH stimulates the anterior pituitary to release:}",
+    "options": [
+      "Oxytocin and ADH",
+      "FSH and LH",
+      "Estrogen and progesterone",
+      "Testosterone and inhibin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "GnRH stimulates the anterior pituitary gland to secrete the gonadotropins FSH and LH."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Hormonal Control of Spermatogenesis",
+    "familyId": "fsh_role",
+    "questionText": "Follicle stimulating hormone (FSH) primarily acts on:",
+    "questionLatex": "\\text{FSH primarily acts on:}",
+    "options": [
+      "Leydig cells",
+      "Sertoli cells",
+      "Epididymis",
+      "Vas deferens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "FSH stimulates Sertoli cells to support spermatogenesis and secrete factors required for sperm development."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Hormonal Control of Spermatogenesis",
+    "familyId": "lh_role",
+    "questionText": "Luteinizing hormone (LH) stimulates Leydig cells to secrete:",
+    "questionLatex": "\\text{LH stimulates Leydig cells to secrete:}",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Testosterone",
+      "Inhibin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "LH stimulates Leydig cells to synthesize and secrete testosterone, which supports spermatogenesis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Sperm Structure",
+    "familyId": "sperm_parts",
+    "questionText": "A mature human sperm consists of:",
+    "questionLatex": "\\text{A mature human sperm consists of:}",
+    "options": [
+      "Head, neck, middle piece and tail",
+      "Head, body and tail",
+      "Acrosome, nucleus and flagellum",
+      "Head, acrosome and middle piece"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A mature sperm has four main parts: head, neck, middle piece and tail."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Sperm Structure",
+    "familyId": "acrosome_function",
+    "questionText": "The acrosome of a sperm contains enzymes that help in:",
+    "questionLatex": "\\text{The acrosome contains enzymes that help in:}",
+    "options": [
+      "ATP synthesis",
+      "Penetration of the ovum",
+      "DNA replication",
+      "Sperm maturation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Acrosomal enzymes facilitate penetration of the egg coverings during fertilisation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Sperm Structure",
+    "familyId": "middle_piece_function",
+    "questionText": "The middle piece of the sperm is rich in mitochondria primarily to:",
+    "questionLatex": "\\text{The middle piece is rich in mitochondria to:}",
+    "options": [
+      "Store genetic material",
+      "Produce ATP for sperm motility",
+      "Secrete enzymes",
+      "Protect the nucleus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The mitochondria in the middle piece generate ATP required for sperm movement."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Semen",
+    "familyId": "normal_sperm_count",
+    "questionText": "A normal human ejaculate generally contains approximately:",
+    "questionLatex": "\\text{A normal human ejaculate generally contains approximately:}",
+    "options": [
+      "10-50 thousand sperms",
+      "1-5 million sperms",
+      "200-300 million sperms",
+      "2-3 billion sperms"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A normal ejaculate contains about 200 to 300 million spermatozoa suspended in seminal plasma."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Oogenesis",
+"familyId": "oogenesis_definition",
+"questionText": "The process of formation of a mature female gamete in the ovary is known as:",
+"questionLatex": "\text{The process of formation of a mature female gamete is known as:}",
+"options": [
+"Spermatogenesis",
+"Oogenesis",
+"Ovulation",
+"Menstruation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Oogenesis is the process by which functional ova are formed in the ovaries."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Oogenesis",
+"familyId": "oogonia_origin",
+"questionText": "Primary oogonia are formed in the foetal ovary by repeated:",
+"questionLatex": "\text{Primary oogonia are formed by repeated:}",
+"options": [
+"Meiosis",
+"Mitosis",
+"Binary fission",
+"Budding"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Oogonia proliferate by mitotic divisions during foetal development."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Oogenesis",
+"familyId": "primary_oocyte_arrest",
+"questionText": "Primary oocytes remain arrested in which stage of meiosis until puberty?",
+"questionLatex": "\text{Primary oocytes remain arrested in which stage of meiosis until puberty?}",
+"options": [
+"Metaphase I",
+"Prophase I",
+"Anaphase I",
+"Metaphase II"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Primary oocytes remain arrested in the diplotene stage of Prophase I from birth until puberty."
+},
+"difficultyScore": 26,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Follicular Development",
+"familyId": "graafian_follicle",
+"questionText": "The fully mature ovarian follicle ready for ovulation is called the:",
+"questionLatex": "\text{The mature ovarian follicle is called the:}",
+"options": [
+"Primary follicle",
+"Secondary follicle",
+"Graafian follicle",
+"Corpus luteum"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The Graafian follicle is the mature follicle that ruptures during ovulation."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Ovulation",
+"familyId": "ovulation_definition",
+"questionText": "Ovulation refers to the:",
+"questionLatex": "\text{Ovulation refers to the:}",
+"options": [
+"Formation of primary follicles",
+"Release of a secondary oocyte from the Graafian follicle",
+"Implantation of the embryo",
+"Formation of the corpus luteum"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Ovulation is the release of the secondary oocyte from the mature Graafian follicle."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Oogenesis",
+"familyId": "meiosis_completion",
+"questionText": "The secondary oocyte completes meiosis II only after:",
+"questionLatex": "\text{The secondary oocyte completes meiosis II only after:}",
+"options": [
+"Ovulation",
+"Puberty",
+"Fertilisation",
+"Menstruation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Meiosis II remains arrested at metaphase II and is completed only after sperm entry during fertilisation."
+},
+"difficultyScore": 28,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Menstrual Cycle",
+"familyId": "menstrual_cycle_duration",
+"questionText": "The average duration of the menstrual cycle in human females is:",
+"questionLatex": "\text{Average duration of the menstrual cycle = ?}",
+"options": [
+"14 days",
+"21 days",
+"28 days",
+"35 days"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The normal menstrual cycle averages about 28 days, although slight variation is common."
+},
+"difficultyScore": 16,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Menstrual Cycle",
+"familyId": "menstrual_phase",
+"questionText": "The menstrual phase of the menstrual cycle generally lasts for:",
+"questionLatex": "\text{The menstrual phase generally lasts for:}",
+"options": [
+"1-2 days",
+"3-5 days",
+"7-10 days",
+"12-14 days"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The menstrual phase usually extends from about day 1 to day 3-5 of the cycle."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Menstrual Cycle",
+"familyId": "follicular_phase_hormone",
+"questionText": "During the follicular phase, the hormone primarily responsible for stimulating follicular growth is:",
+"questionLatex": "\text{During the follicular phase, follicular growth is primarily stimulated by:}",
+"options": [
+"LH",
+"FSH",
+"Progesterone",
+"Oxytocin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "FSH stimulates the growth and maturation of ovarian follicles during the follicular phase."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Human Reproduction",
+"topic": "Menstrual Cycle",
+"familyId": "lh_surge",
+"questionText": "The sudden surge in the secretion of which hormone triggers ovulation?",
+"questionLatex": "\text{The surge of which hormone triggers ovulation?}",
+"options": [
+"FSH",
+"Estrogen",
+"LH",
+"Progesterone"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "A sharp increase (LH surge) induces rupture of the Graafian follicle and ovulation."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Menstrual Cycle",
+    "familyId": "luteal_phase",
+    "questionText": "The phase of the menstrual cycle immediately following ovulation is called the:",
+    "questionLatex": "\\text{The phase of the menstrual cycle immediately following ovulation is called the:}",
+    "options": [
+      "Menstrual phase",
+      "Follicular phase",
+      "Luteal phase",
+      "Proliferative phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The luteal (secretory) phase begins after ovulation with the formation of the corpus luteum."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Corpus Luteum",
+    "familyId": "corpus_luteum_function",
+    "questionText": "The corpus luteum primarily secretes:",
+    "questionLatex": "\\text{The corpus luteum primarily secretes:}",
+    "options": [
+      "FSH",
+      "LH",
+      "Progesterone",
+      "Oxytocin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The corpus luteum secretes progesterone, which prepares and maintains the endometrium for implantation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Menstrual Cycle",
+    "familyId": "menstruation_cause",
+    "questionText": "Menstruation occurs due to the degeneration of the corpus luteum in the absence of:",
+    "questionLatex": "\\text{Menstruation occurs due to the degeneration of the corpus luteum in the absence of:}",
+    "options": [
+      "Ovulation",
+      "Fertilisation",
+      "Menopause",
+      "Lactation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "If fertilisation does not occur, the corpus luteum degenerates, progesterone levels fall and menstruation begins."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Fertilisation",
+    "familyId": "site_of_fertilisation",
+    "questionText": "In humans, fertilisation generally occurs at the:",
+    "questionLatex": "\\text{In humans, fertilisation generally occurs at the:}",
+    "options": [
+      "Infundibulum",
+      "Ampullary-isthmic junction",
+      "Uterus",
+      "Cervix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fertilisation normally takes place at the ampullary-isthmic junction of the fallopian tube."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Fertilisation",
+    "familyId": "zygote_formation",
+    "questionText": "The immediate product formed after the fusion of male and female gametes is the:",
+    "questionLatex": "\\text{The immediate product formed after the fusion of male and female gametes is the:}",
+    "options": [
+      "Morula",
+      "Blastocyst",
+      "Zygote",
+      "Embryo"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fusion of the sperm and ovum produces the diploid zygote."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Cleavage",
+    "familyId": "morula_stage",
+    "questionText": "The solid ball of 8–16 blastomeres formed during early embryonic development is called the:",
+    "questionLatex": "\\text{The solid ball of 8–16 blastomeres formed during early embryonic development is called the:}",
+    "options": [
+      "Blastocyst",
+      "Morula",
+      "Gastrula",
+      "Zygote"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The morula is a solid mass of approximately 8–16 blastomeres formed by cleavage."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Blastocyst",
+    "familyId": "blastocyst_structure",
+    "questionText": "The cells of the blastocyst that ultimately form the embryo are collectively called the:",
+    "questionLatex": "\\text{The cells of the blastocyst that ultimately form the embryo are collectively called the:}",
+    "options": [
+      "Trophoblast",
+      "Inner cell mass",
+      "Blastocoel",
+      "Zona pellucida"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The inner cell mass develops into the embryo, while the trophoblast contributes to the placenta."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Implantation",
+    "familyId": "implantation_definition",
+    "questionText": "Implantation refers to the:",
+    "questionLatex": "\\text{Implantation refers to the:}",
+    "options": [
+      "Fusion of male and female gametes",
+      "Attachment and embedding of the blastocyst into the endometrium",
+      "Formation of the morula",
+      "Release of the ovum from the ovary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Implantation is the attachment and embedding of the blastocyst into the uterine endometrium."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Pregnancy",
+    "familyId": "pregnancy_hcg",
+    "questionText": "The hormone detected in pregnancy tests is:",
+    "questionLatex": "\\text{The hormone detected in pregnancy tests is:}",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Human chorionic gonadotropin (hCG)",
+      "Oxytocin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pregnancy test kits detect the presence of human chorionic gonadotropin (hCG), secreted by trophoblastic cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Reproduction",
+    "topic": "Placenta",
+    "familyId": "placenta_functions",
+    "questionText": "Which of the following is NOT a function of the placenta?",
+    "questionLatex": "\\text{Which of the following is NOT a function of the placenta?}",
+    "options": [
+      "Exchange of oxygen and carbon dioxide",
+      "Transfer of nutrients to the foetus",
+      "Production of hCG, hPL and progesterone",
+      "Production of mature ova"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The placenta functions in exchange of materials and hormone secretion but does not produce ova."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
