@@ -1,0 +1,1246 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Basis of Classification",
+    "familyId": "levels_of_organisation",
+    "questionText": "The level of organisation exhibited by members of Porifera is:",
+    "questionLatex": "$$\\text{The level of organisation exhibited by members of Porifera is:}$$",
+    "options": [
+      "Cellular level",
+      "Tissue level",
+      "Organ level",
+      "Organ system level"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Sponges exhibit cellular level of organisation where cells are loosely aggregated."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Basis of Classification",
+    "familyId": "tissue_level_organisation",
+    "questionText": "Animals exhibiting tissue level of organisation belong to:",
+    "questionLatex": "$$\\text{Animals exhibiting tissue level of organisation belong to:}$$",
+    "options": [
+      "Porifera",
+      "Cnidaria",
+      "Annelida",
+      "Chordata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cnidarians exhibit tissue level of organisation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Digestive System",
+    "familyId": "digestive_system_types",
+    "questionText": "An incomplete digestive system is characterised by:",
+    "questionLatex": "$$\\text{An incomplete digestive system is characterised by:}$$",
+    "options": [
+      "Only mouth is present",
+      "Separate mouth and anus",
+      "A single opening serving as both mouth and anus",
+      "Absence of digestive cavity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An incomplete digestive system has a single opening functioning as both mouth and anus."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Circulatory System",
+    "familyId": "open_closed_circulation",
+    "questionText": "In an open circulatory system:",
+    "questionLatex": "$$\\text{In an open circulatory system:}$$",
+    "options": [
+      "Blood flows only through arteries.",
+      "Blood circulates through capillaries only.",
+      "Blood directly bathes tissues and cells.",
+      "Blood always remains confined within vessels."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In an open circulatory system, blood is pumped out of the heart and directly bathes tissues."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Symmetry",
+    "familyId": "body_symmetry",
+    "questionText": "Animals in which any plane passing through the central axis divides the body into two identical halves exhibit:",
+    "questionLatex": "$$\\text{Animals in which any plane passing through the central axis divides the body into two identical halves exhibit:}$$",
+    "options": [
+      "Bilateral symmetry",
+      "Radial symmetry",
+      "Asymmetry",
+      "Spherical symmetry"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Radially symmetrical animals can be divided into identical halves by any plane passing through the central axis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Germ Layers",
+    "familyId": "diploblastic_animals",
+    "questionText": "Diploblastic animals possess:",
+    "questionLatex": "$$\\text{Diploblastic animals possess:}$$",
+    "options": [
+      "Ectoderm, mesoderm and endoderm",
+      "Only ectoderm",
+      "Ectoderm and endoderm",
+      "Mesoderm and endoderm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Diploblastic animals possess two germ layers—ectoderm and endoderm."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Coelom",
+    "familyId": "coelom_definition",
+    "questionText": "The body cavity completely lined by mesoderm is called:",
+    "questionLatex": "$$\\text{The body cavity completely lined by mesoderm is called:}$$",
+    "options": [
+      "Haemocoel",
+      "Pseudocoelom",
+      "Coelom",
+      "Blastocoel"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A coelom is a body cavity lined by mesoderm."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Segmentation",
+    "familyId": "metamerism",
+    "questionText": "Metamerism refers to:",
+    "questionLatex": "$$\\text{Metamerism refers to:}$$",
+    "options": [
+      "Presence of radial symmetry",
+      "Body divided into repeated segments",
+      "Absence of body cavity",
+      "Presence of pseudocoelom"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Metamerism is the serial repetition of body segments."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Notochord",
+    "familyId": "notochord_definition",
+    "questionText": "The notochord is:",
+    "questionLatex": "$$\\text{The notochord is:}$$",
+    "options": [
+      "An ectodermal rod",
+      "A mesodermally derived rod-like structure",
+      "An endodermal tube",
+      "A nervous tissue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The notochord is a mesodermally derived rod-like supporting structure."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_characteristics",
+    "questionText": "Water enters the body of sponges through:",
+    "questionLatex": "$$\\text{Water enters the body of sponges through:}$$",
+    "options": [
+      "Osculum",
+      "Spongocoel",
+      "Ostia",
+      "Canal cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Water enters through minute pores called ostia and exits through the osculum."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_canal_system",
+    "questionText": "The central cavity present in the body of sponges is known as:",
+    "questionLatex": "$$\\text{The central cavity present in the body of sponges is known as:}$$",
+    "options": [
+      "Coelom",
+      "Spongocoel",
+      "Gastrovascular cavity",
+      "Pseudocoel"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The central cavity of sponges is called the spongocoel."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_choanocytes",
+    "questionText": "Choanocytes in sponges are primarily responsible for:",
+    "questionLatex": "$$\\text{Choanocytes in sponges are primarily responsible for:}$$",
+    "options": [
+      "Locomotion",
+      "Food gathering through water current",
+      "Reproduction only",
+      "Skeleton formation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Choanocytes or collar cells generate water currents and help in food capture."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_skeleton",
+    "questionText": "The skeleton of sponges is made up of:",
+    "questionLatex": "$$\\text{The skeleton of sponges is made up of:}$$",
+    "options": [
+      "Chitin only",
+      "Calcium carbonate only",
+      "Spicules or spongin fibres",
+      "Collagen fibres only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sponge skeleton consists of calcareous or siliceous spicules or spongin fibres."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_reproduction",
+    "questionText": "Sponges are described as hermaphrodites because:",
+    "questionLatex": "$$\\text{Sponges are described as hermaphrodites because:}$$",
+    "options": [
+      "They reproduce only asexually.",
+      "Eggs and sperms are produced by the same individual.",
+      "They lack reproductive organs.",
+      "They undergo budding only."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In hermaphrodites, both male and female gametes are produced by the same individual."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Porifera",
+    "familyId": "porifera_examples",
+    "questionText": "Which one of the following is a freshwater sponge?",
+    "questionLatex": "$$\\text{Which one of the following is a freshwater sponge?}$$",
+    "options": [
+      "Sycon",
+      "Euspongia",
+      "Spongilla",
+      "Hydra"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Spongilla is a freshwater sponge, whereas Sycon and Euspongia are marine."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Cnidaria",
+    "familyId": "cnidaria_cnidoblast",
+    "questionText": "The stinging cells of cnidarians are called:",
+    "questionLatex": "$$\\text{The stinging cells of cnidarians are called:}$$",
+    "options": [
+      "Choanocytes",
+      "Cnidoblasts",
+      "Flame cells",
+      "Nephridia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cnidoblasts or cnidocytes contain nematocysts used for defence and prey capture."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Cnidaria",
+    "familyId": "cnidaria_body_forms",
+    "questionText": "The umbrella-shaped, free-swimming body form of cnidarians is called:",
+    "questionLatex": "$$\\text{The umbrella-shaped, free-swimming body form of cnidarians is called:}$$",
+    "options": [
+      "Polyp",
+      "Medusa",
+      "Trochophore",
+      "Planula"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The medusa is the umbrella-shaped free-swimming form of cnidarians."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Cnidaria",
+    "familyId": "cnidaria_metagenesis",
+    "questionText": "Alternation between polyp and medusa forms in certain cnidarians is known as:",
+    "questionLatex": "$$\\text{Alternation between polyp and medusa forms in certain cnidarians is known as:}$$",
+    "options": [
+      "Metamerism",
+      "Metagenesis",
+      "Metamorphosis",
+      "Parthenogenesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Metagenesis is the alternation between asexual polyp and sexual medusa generations."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Cnidaria",
+    "familyId": "cnidaria_examples",
+    "questionText": "Which of the following is an example of a cnidarian exhibiting metagenesis?",
+    "questionLatex": "$$\\text{Which of the following is an example of a cnidarian exhibiting metagenesis?}$$",
+    "options": [
+      "Hydra",
+      "Obelia",
+      "Spongilla",
+      "Pleurobrachia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Obelia exhibits alternation of generations between polyp and medusa forms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Cnidaria",
+    "familyId": "cnidaria_digestion",
+    "questionText": "Digestion in cnidarians is:",
+    "questionLatex": "$$\\text{Digestion in cnidarians is:}$$",
+    "options": [
+      "Only intracellular",
+      "Only extracellular",
+      "Both extracellular and intracellular",
+      "Absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cnidarians perform extracellular digestion in the gastrovascular cavity followed by intracellular digestion."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Ctenophora",
+    "familyId": "ctenophora_identification",
+    "questionText": "Members of the phylum Ctenophora are commonly known as:",
+    "questionLatex": "$$\\text{Members of the phylum Ctenophora are commonly known as:}$$",
+    "options": [
+      "Sea anemones",
+      "Comb jellies",
+      "Sea lilies",
+      "Sea cucumbers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ctenophores are commonly called comb jellies due to the presence of comb plates."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Ctenophora",
+    "familyId": "ctenophora_locomotion",
+    "questionText": "Locomotion in ctenophores occurs by means of:",
+    "questionLatex": "$$\\text{Locomotion in ctenophores occurs by means of:}$$",
+    "options": [
+      "Tube feet",
+      "Comb plates",
+      "Parapodia",
+      "Jointed appendages"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Eight rows of ciliary comb plates are used for locomotion in ctenophores."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Ctenophora",
+    "familyId": "ctenophora_bioluminescence",
+    "questionText": "The property of emitting light shown by ctenophores is called:",
+    "questionLatex": "$$\\text{The property of emitting light shown by ctenophores is called:}$$",
+    "options": [
+      "Fluorescence",
+      "Bioluminescence",
+      "Phosphorescence",
+      "Iridescence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ctenophores exhibit bioluminescence, the ability to emit light from living cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Ctenophora",
+    "familyId": "ctenophora_examples",
+    "questionText": "Which of the following is an example of a ctenophore?",
+    "questionLatex": "$$\\text{Which of the following is an example of a ctenophore?}$$",
+    "options": [
+      "Hydra",
+      "Pleurobrachia",
+      "Obelia",
+      "Aurelia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pleurobrachia is a representative member of the phylum Ctenophora."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_body_plan",
+    "questionText": "Animals belonging to Platyhelminthes are:",
+    "questionLatex": "$$\\text{Animals belonging to Platyhelminthes are:}$$",
+    "options": [
+      "Roundworms",
+      "Flatworms",
+      "Segmented worms",
+      "Spiny-skinned animals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Platyhelminthes are dorsoventrally flattened animals commonly known as flatworms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_body_cavity",
+    "questionText": "Members of Platyhelminthes are:",
+    "questionLatex": "$$\\text{Members of Platyhelminthes are:}$$",
+    "options": [
+      "Coelomates",
+      "Pseudocoelomates",
+      "Acoelomates",
+      "Haemocoelomates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Platyhelminthes lack a body cavity and are therefore acoelomates."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_parasitic",
+    "questionText": "Parasitic flatworms possess specialised organs called ______ for attachment to the host.",
+    "questionLatex": "$$\\text{Parasitic flatworms possess specialised organs called \\rule{2cm}{0.15mm} for attachment to the host.}$$",
+    "options": [
+      "Nephridia",
+      "Setae",
+      "Hooks and suckers",
+      "Parapodia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hooks and suckers help parasitic flatworms remain attached to their hosts."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_examples",
+    "questionText": "Which of the following is an example of Platyhelminthes?",
+    "questionLatex": "$$\\text{Which of the following is an example of Platyhelminthes?}$$",
+    "options": [
+      "Ascaris",
+      "Taenia",
+      "Pheretima",
+      "Nereis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Taenia (tapeworm) belongs to the phylum Platyhelminthes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_excretion",
+    "questionText": "The excretory organs of flatworms are:",
+    "questionLatex": "$$\\text{The excretory organs of flatworms are:}$$",
+    "options": [
+      "Malpighian tubules",
+      "Green glands",
+      "Flame cells",
+      "Nephridia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Flame cells (protonephridia) perform excretion and osmoregulation in flatworms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Platyhelminthes",
+    "familyId": "platyhelminthes_reproduction",
+    "questionText": "State one characteristic feature of reproduction in most members of Platyhelminthes.",
+    "questionLatex": "$$\\text{State one characteristic feature of reproduction in most members of Platyhelminthes.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Most platyhelminths are hermaphrodites, with both male and female reproductive organs present in the same individual."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Aschelminthes",
+    "familyId": "aschelminthes_body_cavity",
+    "questionText": "Members of Aschelminthes are characterised by the presence of:",
+    "questionLatex": "$$\\text{Members of Aschelminthes are characterised by the presence of:}$$",
+    "options": [
+      "True coelom",
+      "Pseudocoelom",
+      "Haemocoel",
+      "No body cavity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aschelminthes possess a pseudocoelom, a body cavity not completely lined by mesoderm."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Aschelminthes",
+    "familyId": "aschelminthes_digestive_system",
+    "questionText": "The digestive system of Aschelminthes is:",
+    "questionLatex": "$$\\text{The digestive system of Aschelminthes is:}$$",
+    "options": [
+      "Incomplete with a single opening",
+      "Completely absent",
+      "Complete with separate mouth and anus",
+      "Present only in larvae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Aschelminthes possess a complete digestive tract with separate mouth and anus."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Aschelminthes",
+    "familyId": "aschelminthes_reproduction",
+    "questionText": "Members of Aschelminthes are generally:",
+    "questionLatex": "$$\\text{Members of Aschelminthes are generally:}$$",
+    "options": [
+      "Hermaphrodites",
+      "Monoecious",
+      "Dioecious with sexual dimorphism",
+      "Parthenogenetic only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Most aschelminths are dioecious, and males and females show sexual dimorphism."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Aschelminthes",
+    "familyId": "aschelminthes_examples",
+    "questionText": "Which of the following is an example of Aschelminthes?",
+    "questionLatex": "$$\\text{Which of the following is an example of Aschelminthes?}$$",
+    "options": [
+      "Taenia",
+      "Ascaris",
+      "Pheretima",
+      "Sycon"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ascaris is a roundworm belonging to the phylum Aschelminthes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Annelida",
+    "familyId": "annelida_metamerism",
+    "questionText": "Which characteristic feature distinguishes members of Annelida?",
+    "questionLatex": "$$\\text{Which characteristic feature distinguishes members of Annelida?}$$",
+    "options": [
+      "Pseudocoelom",
+      "Jointed appendages",
+      "True metameric segmentation",
+      "Calcareous shell"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "True metameric segmentation is a defining characteristic of annelids."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Annelida",
+    "familyId": "annelida_circulation",
+    "questionText": "The circulatory system of annelids is:",
+    "questionLatex": "$$\\text{The circulatory system of annelids is:}$$",
+    "options": [
+      "Open",
+      "Closed",
+      "Absent",
+      "Mixed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Annelids possess a closed circulatory system."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Annelida",
+    "familyId": "annelida_excretion",
+    "questionText": "The excretory organs of annelids are:",
+    "questionLatex": "$$\\text{The excretory organs of annelids are:}$$",
+    "options": [
+      "Malpighian tubules",
+      "Flame cells",
+      "Nephridia",
+      "Green glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nephridia perform excretion and osmoregulation in annelids."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Annelida",
+    "familyId": "annelida_examples",
+    "questionText": "Which of the following belongs to phylum Annelida?",
+    "questionLatex": "$$\\text{Which of the following belongs to phylum Annelida?}$$",
+    "options": [
+      "Nereis",
+      "Ascaris",
+      "Taenia",
+      "Limulus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Nereis is a marine annelid."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_largest_phylum",
+    "questionText": "Which is the largest phylum in the animal kingdom?",
+    "questionLatex": "$$\\text{Which is the largest phylum in the animal kingdom?}$$",
+    "options": [
+      "Mollusca",
+      "Chordata",
+      "Arthropoda",
+      "Annelida"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Arthropoda is the largest phylum of the animal kingdom."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_appendages",
+    "questionText": "The name Arthropoda refers to the presence of:",
+    "questionLatex": "$$\\text{The name Arthropoda refers to the presence of:}$$",
+    "options": [
+      "Jointed appendages",
+      "Segmented kidneys",
+      "Radial symmetry",
+      "Tube feet"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The word Arthropoda literally means 'jointed legs', referring to jointed appendages."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_exoskeleton",
+    "questionText": "The exoskeleton of arthropods is primarily composed of:",
+    "questionLatex": "$$\\text{The exoskeleton of arthropods is primarily composed of:}$$",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Keratin",
+      "Calcium carbonate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Arthropods possess a hard chitinous exoskeleton that provides protection and support."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_circulation",
+    "questionText": "The circulatory system of arthropods is:",
+    "questionLatex": "$$\\text{The circulatory system of arthropods is:}$$",
+    "options": [
+      "Closed",
+      "Open",
+      "Absent",
+      "Double circulation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Arthropods possess an open circulatory system in which haemolymph bathes the organs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_excretion",
+    "questionText": "The chief excretory organs in insects are:",
+    "questionLatex": "$$\\text{The chief excretory organs in insects are:}$$",
+    "options": [
+      "Nephridia",
+      "Flame cells",
+      "Malpighian tubules",
+      "Green glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Malpighian tubules are the principal excretory organs in insects."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Arthropoda",
+    "familyId": "arthropoda_examples",
+    "questionText": "Which of the following is an arachnid?",
+    "questionLatex": "$$\\text{Which of the following is an arachnid?}$$",
+    "options": [
+      "Periplaneta",
+      "Apis",
+      "Scorpion",
+      "Prawn"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Scorpions belong to class Arachnida of phylum Arthropoda."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Mollusca",
+    "familyId": "mollusca_characteristics",
+    "questionText": "The muscular ventral foot of molluscs is mainly used for:",
+    "questionLatex": "$$\\text{The muscular ventral foot of molluscs is mainly used for:}$$",
+    "options": [
+      "Respiration",
+      "Locomotion",
+      "Digestion",
+      "Excretion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The muscular foot enables locomotion in most molluscs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Mollusca",
+    "familyId": "mollusca_radula",
+    "questionText": "The rasping organ used for feeding in most molluscs is called:",
+    "questionLatex": "$$\\text{The rasping organ used for feeding in most molluscs is called:}$$",
+    "options": [
+      "Mantle",
+      "Radula",
+      "Gizzard",
+      "Proboscis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The radula is a file-like feeding organ present in most molluscs."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Mollusca",
+    "familyId": "mollusca_examples",
+    "questionText": "Which of the following belongs to phylum Mollusca?",
+    "questionLatex": "$$\\text{Which of the following belongs to phylum Mollusca?}$$",
+    "options": [
+      "Pila",
+      "Nereis",
+      "Starfish",
+      "Cockroach"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Pila (apple snail) is a mollusc."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Echinodermata",
+    "familyId": "echinodermata_water_vascular",
+    "questionText": "The unique water vascular system of echinoderms primarily functions in:",
+    "questionLatex": "$$\\text{The unique water vascular system of echinoderms primarily functions in:}$$",
+    "options": [
+      "Blood circulation only",
+      "Locomotion, food capture and respiration",
+      "Excretion only",
+      "Digestion only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The water vascular system helps in locomotion, feeding and gaseous exchange."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Echinodermata",
+    "familyId": "echinodermata_examples",
+    "questionText": "Which of the following is an echinoderm?",
+    "questionLatex": "$$\\text{Which of the following is an echinoderm?}$$",
+    "options": [
+      "Asterias",
+      "Pila",
+      "Periplaneta",
+      "Nereis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Asterias (starfish) belongs to phylum Echinodermata."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Animal Kingdom",
+    "topic": "Chordata",
+    "familyId": "chordata_characteristics",
+    "questionText": "Which of the following is a characteristic feature present in all chordates at some stage of their life?",
+    "questionLatex": "$$\\text{Which of the following is a characteristic feature present in all chordates at some stage of their life?}$$",
+    "options": [
+      "Jointed appendages",
+      "Water vascular system",
+      "Notochord",
+      "Mantle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The presence of a notochord at least during some stage of development is the defining feature of chordates."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

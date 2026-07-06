@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Discovery of Electron",
+    "familyId": "cathode_rays_electron_discovery",
+    "questionText": "The discovery of electron was based on the study of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Canal rays",
+        "latex": null
+      },
+      {
+        "text": "Cathode rays",
+        "latex": null
+      },
+      {
+        "text": "Alpha rays",
+        "latex": null
+      },
+      {
+        "text": "X-rays",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Cathode rays",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Cathode Ray Properties",
+    "familyId": "cathode_ray_characteristics",
+    "questionText": "Which statement regarding cathode rays is correct?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "They are positively charged particles",
+        "latex": null
+      },
+      {
+        "text": "They move from anode to cathode",
+        "latex": null
+      },
+      {
+        "text": "They are deflected towards the positive plate in an electric field",
+        "latex": null
+      },
+      {
+        "text": "Their properties depend upon the gas present in the discharge tube",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "They are deflected towards the positive plate in an electric field",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "J.J. Thomson Experiment",
+    "familyId": "charge_mass_ratio",
+    "questionText": "J.J. Thomson determined which of the following quantities for the electron?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass of electron",
+        "latex": null
+      },
+      {
+        "text": "Charge of electron",
+        "latex": null
+      },
+      {
+        "text": "Charge-to-mass ratio of electron",
+        "latex": null
+      },
+      {
+        "text": "Atomic number",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Charge-to-mass ratio of electron",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Charge-to-Mass Ratio",
+    "familyId": "electron_em_ratio",
+    "questionText": "The charge-to-mass ratio of electron is:",
+    "questionLatex": "\\frac{e}{m_e}",
+    "options": [
+      {
+        "text": "1.7588 × 10¹¹ C kg⁻¹",
+        "latex": "1.7588 \\times 10^{11} \\text{ C kg}^{-1}"
+      },
+      {
+        "text": "1.602 × 10⁻¹⁹ C",
+        "latex": "1.602 \\times 10^{-19} \\text{ C}"
+      },
+      {
+        "text": "9.109 × 10⁻³¹ kg",
+        "latex": "9.109 \\times 10^{-31} \\text{ kg}"
+      },
+      {
+        "text": "6.022 × 10²³ mol⁻¹",
+        "latex": "6.022 \\times 10^{23} \\text{ mol}^{-1}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1.7588 × 10¹¹ C kg⁻¹",
+      "latex": "1.7588 \\times 10^{11} \\text{ C kg}^{-1}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Millikan Oil Drop Experiment",
+    "familyId": "electron_charge",
+    "questionText": "Millikan's oil drop experiment was used to determine:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass of electron",
+        "latex": null
+      },
+      {
+        "text": "Charge on electron",
+        "latex": null
+      },
+      {
+        "text": "Atomic number",
+        "latex": null
+      },
+      {
+        "text": "Mass number",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Charge on electron",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Electron Charge",
+    "familyId": "electron_charge_value",
+    "questionText": "The charge on an electron is:",
+    "questionLatex": "e = ?",
+    "options": [
+      {
+        "text": "+1.602 × 10⁻¹⁹ C",
+        "latex": "+1.602 \\times 10^{-19} \\text{ C}"
+      },
+      {
+        "text": "-1.602 × 10⁻¹⁹ C",
+        "latex": "-1.602 \\times 10^{-19} \\text{ C}"
+      },
+      {
+        "text": "+1.758 × 10¹¹ C",
+        "latex": "+1.758 \\times 10^{11} \\text{ C}"
+      },
+      {
+        "text": "0 C",
+        "latex": "0 \\text{ C}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1.602 × 10⁻¹⁹ C",
+      "latex": "-1.602 \\times 10^{-19} \\text{ C}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Electron Mass",
+    "familyId": "electron_mass_value",
+    "questionText": "The mass of an electron is approximately:",
+    "questionLatex": "m_e = ?",
+    "options": [
+      {
+        "text": "9.109 × 10⁻³¹ kg",
+        "latex": "9.109 \\times 10^{-31} \\text{ kg}"
+      },
+      {
+        "text": "1.673 × 10⁻²⁷ kg",
+        "latex": "1.673 \\times 10^{-27} \\text{ kg}"
+      },
+      {
+        "text": "1.675 × 10⁻²⁷ kg",
+        "latex": "1.675 \\times 10^{-27} \\text{ kg}"
+      },
+      {
+        "text": "1.0 × 10⁻²³ kg",
+        "latex": "1.0 \\times 10^{-23} \\text{ kg}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "9.109 × 10⁻³¹ kg",
+      "latex": "9.109 \\times 10^{-31} \\text{ kg}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Discovery of Proton",
+    "familyId": "proton_discovery",
+    "questionText": "The lightest positively charged particle obtained from hydrogen is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Electron",
+        "latex": null
+      },
+      {
+        "text": "Neutron",
+        "latex": null
+      },
+      {
+        "text": "Proton",
+        "latex": null
+      },
+      {
+        "text": "Positron",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Proton",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Discovery of Neutron",
+    "familyId": "neutron_discovery",
+    "questionText": "The neutron was discovered by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "J.J. Thomson",
+        "latex": null
+      },
+      {
+        "text": "Rutherford",
+        "latex": null
+      },
+      {
+        "text": "Millikan",
+        "latex": null
+      },
+      {
+        "text": "James Chadwick",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "James Chadwick",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Fundamental Particles",
+    "familyId": "particle_charge_comparison",
+    "questionText": "Which of the following fundamental particles carries no electrical charge?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Electron",
+        "latex": null
+      },
+      {
+        "text": "Proton",
+        "latex": null
+      },
+      {
+        "text": "Neutron",
+        "latex": null
+      },
+      {
+        "text": "Alpha particle",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Neutron",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Thomson Model of Atom",
+    "familyId": "thomson_model_concept",
+    "questionText": "According to J.J. Thomson's model, the positive charge in an atom is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Concentrated in the nucleus",
+        "latex": null
+      },
+      {
+        "text": "Uniformly distributed throughout the atom",
+        "latex": null
+      },
+      {
+        "text": "Present only on the surface",
+        "latex": null
+      },
+      {
+        "text": "Absent from the atom",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Uniformly distributed throughout the atom",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Thomson Model",
+    "familyId": "plum_pudding_model",
+    "questionText": "Thomson's atomic model is also known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Planetary model",
+        "latex": null
+      },
+      {
+        "text": "Quantum mechanical model",
+        "latex": null
+      },
+      {
+        "text": "Plum pudding model",
+        "latex": null
+      },
+      {
+        "text": "Nuclear shell model",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Plum pudding model",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Rutherford Scattering Experiment",
+    "familyId": "gold_foil_experiment",
+    "questionText": "In Rutherford's α-particle scattering experiment, the metal foil used was:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Silver",
+        "latex": null
+      },
+      {
+        "text": "Copper",
+        "latex": null
+      },
+      {
+        "text": "Gold",
+        "latex": null
+      },
+      {
+        "text": "Platinum",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Gold",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Rutherford Observations",
+    "familyId": "alpha_particle_observation",
+    "questionText": "Most α-particles passed through the gold foil undeflected. This indicates that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atoms are completely filled with matter",
+        "latex": null
+      },
+      {
+        "text": "Most of the space inside an atom is empty",
+        "latex": null
+      },
+      {
+        "text": "Electrons are positively charged",
+        "latex": null
+      },
+      {
+        "text": "The nucleus occupies the entire atom",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Most of the space inside an atom is empty",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Rutherford Observations",
+    "familyId": "nucleus_conclusion",
+    "questionText": "The observation that a few α-particles were deflected through large angles led Rutherford to conclude that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Positive charge is uniformly distributed",
+        "latex": null
+      },
+      {
+        "text": "Electrons are embedded in positive matter",
+        "latex": null
+      },
+      {
+        "text": "Positive charge is concentrated in a very small region",
+        "latex": null
+      },
+      {
+        "text": "Atoms have no internal structure",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Positive charge is concentrated in a very small region",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Rutherford Model",
+    "familyId": "nuclear_model_postulate",
+    "questionText": "According to Rutherford's nuclear model, electrons:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Are embedded in a positively charged sphere",
+        "latex": null
+      },
+      {
+        "text": "Remain stationary around the nucleus",
+        "latex": null
+      },
+      {
+        "text": "Move around the nucleus in circular paths",
+        "latex": null
+      },
+      {
+        "text": "Exist inside the nucleus",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Move around the nucleus in circular paths",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Atomic Number",
+    "familyId": "atomic_number_definition",
+    "questionText": "Atomic number (Z) of an element is equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Number of neutrons",
+        "latex": null
+      },
+      {
+        "text": "Number of nucleons",
+        "latex": null
+      },
+      {
+        "text": "Number of protons in the nucleus",
+        "latex": null
+      },
+      {
+        "text": "Mass number",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Number of protons in the nucleus",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Mass Number",
+    "familyId": "mass_number_definition",
+    "questionText": "Mass number (A) is equal to:",
+    "questionLatex": "A = Z + n",
+    "options": [
+      {
+        "text": "Protons + Electrons",
+        "latex": "p + e"
+      },
+      {
+        "text": "Protons + Neutrons",
+        "latex": "p + n"
+      },
+      {
+        "text": "Neutrons + Electrons",
+        "latex": "n + e"
+      },
+      {
+        "text": "Protons − Neutrons",
+        "latex": "p - n"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Protons + Neutrons",
+      "latex": "p + n"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Atomic Calculations",
+    "familyId": "neutron_calculation",
+    "questionText": "An atom has atomic number 17 and mass number 35. The number of neutrons present is:",
+    "questionLatex": "n = A - Z",
+    "options": [
+      {
+        "text": "17",
+        "latex": "17"
+      },
+      {
+        "text": "18",
+        "latex": "18"
+      },
+      {
+        "text": "35",
+        "latex": "35"
+      },
+      {
+        "text": "52",
+        "latex": "52"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "18",
+      "latex": "18"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Atomic Calculations",
+    "familyId": "bromine_particle_count",
+    "questionText": "Calculate the number of protons present in the isotope bromine-80.",
+    "questionLatex": "^{80}_{35}\\text{Br}",
+    "options": [
+      {
+        "text": "35",
+        "latex": "35"
+      },
+      {
+        "text": "45",
+        "latex": "45"
+      },
+      {
+        "text": "80",
+        "latex": "80"
+      },
+      {
+        "text": "115",
+        "latex": "115"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "35",
+      "latex": "35"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Isotopes",
+    "familyId": "isotope_definition",
+    "questionText": "Isotopes are atoms of the same element having:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Same mass number but different atomic numbers",
+        "latex": null
+      },
+      {
+        "text": "Same atomic number but different mass numbers",
+        "latex": null
+      },
+      {
+        "text": "Different atomic numbers and mass numbers",
+        "latex": null
+      },
+      {
+        "text": "Same number of neutrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Same atomic number but different mass numbers",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Isobars",
+    "familyId": "isobar_definition",
+    "questionText": "Isobars are atoms having:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Same atomic number but different mass numbers",
+        "latex": null
+      },
+      {
+        "text": "Same mass number but different atomic numbers",
+        "latex": null
+      },
+      {
+        "text": "Same numbers of protons and neutrons",
+        "latex": null
+      },
+      {
+        "text": "Same chemical properties only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Same mass number but different atomic numbers",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Electromagnetic Radiation",
+    "familyId": "electromagnetic_wave_definition",
+    "questionText": "Electromagnetic radiation consists of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only electric field",
+        "latex": null
+      },
+      {
+        "text": "Only magnetic field",
+        "latex": null
+      },
+      {
+        "text": "Oscillating electric and magnetic fields",
+        "latex": null
+      },
+      {
+        "text": "Charged particles",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Oscillating electric and magnetic fields",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Velocity of Light",
+    "familyId": "speed_of_light_value",
+    "questionText": "The speed of light in vacuum is approximately:",
+    "questionLatex": "c = ?",
+    "options": [
+      {
+        "text": "3.0 × 10⁶ m s⁻¹",
+        "latex": "3.0 \\times 10^6 \\text{ m s}^{-1}"
+      },
+      {
+        "text": "3.0 × 10⁸ m s⁻¹",
+        "latex": "3.0 \\times 10^8 \\text{ m s}^{-1}"
+      },
+      {
+        "text": "3.0 × 10¹⁰ m s⁻¹",
+        "latex": "3.0 \\times 10^{10} \\text{ m s}^{-1}"
+      },
+      {
+        "text": "3.0 × 10¹² m s⁻¹",
+        "latex": "3.0 \\times 10^{12} \\text{ m s}^{-1}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3.0 × 10⁸ m s⁻¹",
+      "latex": "3.0 \\times 10^8 \\text{ m s}^{-1}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Wave Parameters",
+    "familyId": "wavelength_definition",
+    "questionText": "The distance between two successive crests or troughs of a wave is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Frequency",
+        "latex": null
+      },
+      {
+        "text": "Amplitude",
+        "latex": null
+      },
+      {
+        "text": "Wavelength",
+        "latex": null
+      },
+      {
+        "text": "Velocity",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Wavelength",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Wave Parameters",
+    "familyId": "frequency_definition",
+    "questionText": "Frequency is defined as the number of waves passing through a point per:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Minute",
+        "latex": null
+      },
+      {
+        "text": "Hour",
+        "latex": null
+      },
+      {
+        "text": "Second",
+        "latex": null
+      },
+      {
+        "text": "Day",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Second",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Wave Equation",
+    "familyId": "wave_equation",
+    "questionText": "The relationship between velocity, frequency and wavelength is:",
+    "questionLatex": "c = \\nu \\lambda",
+    "options": [
+      {
+        "text": "c = ν + λ",
+        "latex": "c = \\nu + \\lambda"
+      },
+      {
+        "text": "c = νλ",
+        "latex": "c = \\nu \\lambda"
+      },
+      {
+        "text": "c = ν/λ",
+        "latex": "c = \\frac{\\nu}{\\lambda}"
+      },
+      {
+        "text": "c = λ/ν",
+        "latex": "c = \\frac{\\lambda}{\\nu}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "c = νλ",
+      "latex": "c = \\nu \\lambda"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Planck's Quantum Theory",
+    "familyId": "planck_quantum_theory",
+    "questionText": "According to Planck's quantum theory, radiant energy is emitted or absorbed in the form of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atoms",
+        "latex": null
+      },
+      {
+        "text": "Electrons",
+        "latex": null
+      },
+      {
+        "text": "Continuous waves",
+        "latex": null
+      },
+      {
+        "text": "Discrete packets called quanta",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Discrete packets called quanta",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Planck Equation",
+    "familyId": "planck_equation",
+    "questionText": "The energy of a quantum is given by:",
+    "questionLatex": "E = h \\nu",
+    "options": [
+      {
+        "text": "E = mc²",
+        "latex": "E = mc^2"
+      },
+      {
+        "text": "E = hν",
+        "latex": "E = h \\nu"
+      },
+      {
+        "text": "E = PV",
+        "latex": "E = PV"
+      },
+      {
+        "text": "E = RT",
+        "latex": "E = RT"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "E = hν",
+      "latex": "E = h \\nu"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Planck Constant",
+    "familyId": "planck_constant_value",
+    "questionText": "The value of Planck's constant is:",
+    "questionLatex": "h = ?",
+    "options": [
+      {
+        "text": "6.626 × 10⁻³⁴ J s",
+        "latex": "6.626 \\times 10^{-34} \\text{ J s}"
+      },
+      {
+        "text": "1.602 × 10⁻¹⁹ J s",
+        "latex": "1.602 \\times 10^{-19} \\text{ J s}"
+      },
+      {
+        "text": "9.109 × 10⁻³¹ J s",
+        "latex": "9.109 \\times 10^{-31} \\text{ J s}"
+      },
+      {
+        "text": "3.0 × 10⁸ J s",
+        "latex": "3.0 \\times 10^8 \\text{ J s}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "6.626 × 10⁻³⁴ J s",
+      "latex": "6.626 \\times 10^{-34} \\text{ J s}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Photoelectric Effect",
+    "familyId": "photoelectric_effect_definition",
+    "questionText": "The phenomenon of ejection of electrons from a metal surface on exposure to light of suitable frequency is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Photoelectric effect",
+        "latex": null
+      },
+      {
+        "text": "Compton effect",
+        "latex": null
+      },
+      {
+        "text": "Zeeman effect",
+        "latex": null
+      },
+      {
+        "text": "Hall effect",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Photoelectric effect",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Photoelectric Effect",
+    "familyId": "einstein_explanation",
+    "questionText": "Einstein explained the photoelectric effect using the concept of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic orbitals",
+        "latex": null
+      },
+      {
+        "text": "Photons",
+        "latex": null
+      },
+      {
+        "text": "Neutrons",
+        "latex": null
+      },
+      {
+        "text": "Magnetic fields",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Photons",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Photoelectric Effect",
+    "familyId": "threshold_frequency",
+    "questionText": "The minimum frequency of radiation required to eject electrons from a metal surface is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Resonance frequency",
+        "latex": null
+      },
+      {
+        "text": "Threshold frequency",
+        "latex": null
+      },
+      {
+        "text": "Angular frequency",
+        "latex": null
+      },
+      {
+        "text": "Fundamental frequency",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Threshold frequency",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Bohr's Model",
+    "familyId": "bohr_first_postulate",
+    "questionText": "According to Bohr's model, electrons revolve around the nucleus only in certain permitted circular paths called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Shells or stationary orbits",
+        "latex": null
+      },
+      {
+        "text": "Wave fronts",
+        "latex": null
+      },
+      {
+        "text": "Trajectories",
+        "latex": null
+      },
+      {
+        "text": "Nodes",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Shells or stationary orbits",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Bohr's Model",
+    "familyId": "angular_momentum_quantization",
+    "questionText": "According to Bohr, the angular momentum of an electron is quantized and is given by:",
+    "questionLatex": "mvr = \\frac{nh}{2\\pi}",
+    "options": [
+      {
+        "text": "mvr = nh",
+        "latex": "mvr = nh"
+      },
+      {
+        "text": "mvr = nh/2π",
+        "latex": "mvr = \\frac{nh}{2\\pi}"
+      },
+      {
+        "text": "mvr = h/n",
+        "latex": "mvr = \\frac{h}{n}"
+      },
+      {
+        "text": "mvr = 2πnh",
+        "latex": "mvr = 2\\pi nh"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "mvr = nh/2π",
+      "latex": "mvr = \\frac{nh}{2\\pi}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Bohr's Model",
+    "familyId": "energy_emission_absorption",
+    "questionText": "Radiation is emitted or absorbed when an electron:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Remains in the same orbit",
+        "latex": null
+      },
+      {
+        "text": "Moves between two energy levels",
+        "latex": null
+      },
+      {
+        "text": "Rotates about its axis",
+        "latex": null
+      },
+      {
+        "text": "Collides with a neutron",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Moves between two energy levels",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "line_spectrum_definition",
+    "questionText": "The spectrum consisting of a series of discrete lines is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Continuous spectrum",
+        "latex": null
+      },
+      {
+        "text": "Emission line spectrum",
+        "latex": null
+      },
+      {
+        "text": "Band spectrum",
+        "latex": null
+      },
+      {
+        "text": "Solar spectrum",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Emission line spectrum",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "lyman_series",
+    "questionText": "The Lyman series of hydrogen spectrum lies in the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Visible region",
+        "latex": null
+      },
+      {
+        "text": "Infrared region",
+        "latex": null
+      },
+      {
+        "text": "Ultraviolet region",
+        "latex": null
+      },
+      {
+        "text": "Microwave region",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Ultraviolet region",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "balmer_series",
+    "questionText": "The Balmer series of hydrogen spectrum appears in the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Visible region",
+        "latex": null
+      },
+      {
+        "text": "Ultraviolet region",
+        "latex": null
+      },
+      {
+        "text": "X-ray region",
+        "latex": null
+      },
+      {
+        "text": "Gamma-ray region",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Visible region",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Hydrogen Spectrum",
+    "familyId": "paschen_series",
+    "questionText": "The Paschen series of hydrogen spectrum lies in the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Infrared region",
+        "latex": null
+      },
+      {
+        "text": "Visible region",
+        "latex": null
+      },
+      {
+        "text": "Ultraviolet region",
+        "latex": null
+      },
+      {
+        "text": "X-ray region",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Infrared region",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "de Broglie Theory",
+    "familyId": "de_broglie_hypothesis",
+    "questionText": "According to de Broglie, particles in motion possess:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only particle nature",
+        "latex": null
+      },
+      {
+        "text": "Only wave nature",
+        "latex": null
+      },
+      {
+        "text": "Both particle and wave nature",
+        "latex": null
+      },
+      {
+        "text": "Neither particle nor wave nature",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Both particle and wave nature",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "de Broglie Equation",
+    "familyId": "de_broglie_wavelength",
+    "questionText": "The de Broglie wavelength associated with a moving particle is given by:",
+    "questionLatex": "\\lambda = \\frac{h}{mv}",
+    "options": [
+      {
+        "text": "λ = mv/h",
+        "latex": "\\lambda = \\frac{mv}{h}"
+      },
+      {
+        "text": "λ = h/mv",
+        "latex": "\\lambda = \\frac{h}{mv}"
+      },
+      {
+        "text": "λ = hv",
+        "latex": "\\lambda = hv"
+      },
+      {
+        "text": "λ = h + mv",
+        "latex": "\\lambda = h + mv"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "λ = h/mv",
+      "latex": "\\lambda = \\frac{h}{mv}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Heisenberg Uncertainty Principle",
+    "familyId": "uncertainty_principle_statement",
+    "questionText": "According to Heisenberg's uncertainty principle, it is impossible to simultaneously determine with absolute accuracy:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass and charge of a particle",
+        "latex": null
+      },
+      {
+        "text": "Position and momentum of a particle",
+        "latex": null
+      },
+      {
+        "text": "Mass and velocity of a particle",
+        "latex": null
+      },
+      {
+        "text": "Charge and energy of a particle",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Position and momentum of a particle",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Uncertainty Principle",
+    "familyId": "uncertainty_equation",
+    "questionText": "The mathematical expression for Heisenberg's uncertainty principle is:",
+    "questionLatex": "\\Delta x \\Delta p \\geq \\frac{h}{4\\pi}",
+    "options": [
+      {
+        "text": "ΔxΔp = h",
+        "latex": "\\Delta x \\Delta p = h"
+      },
+      {
+        "text": "ΔxΔp ≥ h/4π",
+        "latex": "\\Delta x \\Delta p \\geq \\frac{h}{4\\pi}"
+      },
+      {
+        "text": "ΔxΔp = h/2",
+        "latex": "\\Delta x \\Delta p = \\frac{h}{2}"
+      },
+      {
+        "text": "ΔxΔp ≤ h/4π",
+        "latex": "\\Delta x \\Delta p \\leq \\frac{h}{4\\pi}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ΔxΔp ≥ h/4π",
+      "latex": "\\Delta x \\Delta p \\geq \\frac{h}{4\\pi}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Quantum Mechanical Model",
+    "familyId": "schrodinger_wave_equation",
+    "questionText": "The quantum mechanical model of atom is based on:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Bohr equation",
+        "latex": null
+      },
+      {
+        "text": "Rutherford equation",
+        "latex": null
+      },
+      {
+        "text": "Schrödinger wave equation",
+        "latex": null
+      },
+      {
+        "text": "Planck equation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Schrödinger wave equation",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Atomic Orbitals",
+    "familyId": "orbital_definition",
+    "questionText": "An atomic orbital is defined as the region in space around the nucleus where the probability of finding an electron is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Zero",
+        "latex": null
+      },
+      {
+        "text": "Minimum",
+        "latex": null
+      },
+      {
+        "text": "Maximum",
+        "latex": null
+      },
+      {
+        "text": "Constant",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Maximum",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Quantum Numbers",
+    "familyId": "principal_quantum_number",
+    "questionText": "The principal quantum number is represented by:",
+    "questionLatex": "n",
+    "options": [
+      {
+        "text": "n",
+        "latex": "n"
+      },
+      {
+        "text": "l",
+        "latex": "l"
+      },
+      {
+        "text": "m_l",
+        "latex": "m_l"
+      },
+      {
+        "text": "m_s",
+        "latex": "m_s"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "n",
+      "latex": "n"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Quantum Numbers",
+    "familyId": "azimuthal_quantum_number",
+    "questionText": "The azimuthal quantum number determines:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Size of orbital",
+        "latex": null
+      },
+      {
+        "text": "Shape of orbital",
+        "latex": null
+      },
+      {
+        "text": "Orientation of orbital",
+        "latex": null
+      },
+      {
+        "text": "Spin of electron",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Shape of orbital",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Quantum Numbers",
+    "familyId": "magnetic_quantum_number",
+    "questionText": "The magnetic quantum number determines:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Energy of orbital",
+        "latex": null
+      },
+      {
+        "text": "Orientation of orbital in space",
+        "latex": null
+      },
+      {
+        "text": "Spin of electron",
+        "latex": null
+      },
+      {
+        "text": "Mass of electron",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Orientation of orbital in space",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Quantum Numbers",
+    "familyId": "spin_quantum_number",
+    "questionText": "The spin quantum number of an electron can have the values:",
+    "questionLatex": "m_s = \\pm\\frac{1}{2}",
+    "options": [
+      {
+        "text": "0 and 1",
+        "latex": "0, 1"
+      },
+      {
+        "text": "±1",
+        "latex": "\\pm 1"
+      },
+      {
+        "text": "±1/2",
+        "latex": "\\pm\\frac{1}{2}"
+      },
+      {
+        "text": "1/2 and 3/2",
+        "latex": "\\frac{1}{2}, \\frac{3}{2}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "±1/2",
+      "latex": "\\pm\\frac{1}{2}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  }
+]

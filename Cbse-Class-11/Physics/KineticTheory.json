@@ -1,0 +1,1368 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Introduction",
+    "familyId": "kinetic_theory_definition",
+    "questionText": "The kinetic theory explains the behaviour of gases by assuming that gases consist of:",
+    "questionLatex": "\\text{Kinetic Theory}",
+    "options": [
+      {"text":"Stationary particles","latex":"0"},
+      {"text":"Rapidly moving molecules","latex":"v>0"},
+      {"text":"Continuous matter","latex":"\\infty"},
+      {"text":"Only charged particles","latex":"q"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Rapidly moving molecules",
+      "latex": "v>0"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Molecular Nature of Matter",
+    "familyId": "atomic_hypothesis",
+    "questionText": "According to the atomic hypothesis, matter is made up of:",
+    "questionLatex": "\\text{Atoms}",
+    "options": [
+      {"text":"Continuous substance","latex":"\\text{Continuous}"},
+      {"text":"Atoms in perpetual motion","latex":"\\text{Atoms}"},
+      {"text":"Only molecules","latex":"\\text{Molecules}"},
+      {"text":"Only electrons","latex":"e^-"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atoms in perpetual motion",
+      "latex": "\\text{Atoms}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Avogadro Hypothesis",
+    "familyId": "avogadro_hypothesis",
+    "questionText": "Avogadro's hypothesis states that equal volumes of all gases at the same temperature and pressure contain:",
+    "questionLatex": "N",
+    "options": [
+      {"text":"Equal masses","latex":"m"},
+      {"text":"Equal densities","latex":"\\rho"},
+      {"text":"Equal number of molecules","latex":"N"},
+      {"text":"Equal kinetic energies","latex":"E"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Equal number of molecules",
+      "latex": "N"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ideal Gas Equation",
+    "familyId": "ideal_gas_equation",
+    "questionText": "The ideal gas equation is:",
+    "questionLatex": "PV=\\mu RT",
+    "options": [
+      {"text":"PV = μRT","latex":"PV=\\mu RT"},
+      {"text":"PV = RT","latex":"PV=RT"},
+      {"text":"P/T = V","latex":"\\frac{P}{T}=V"},
+      {"text":"PV = μ/T","latex":"PV=\\frac{\\mu}{T}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "PV = μRT",
+      "latex": "PV=\\mu RT"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Boltzmann Constant",
+    "familyId": "boltzmann_constant",
+    "questionText": "The SI unit of Boltzmann constant is:",
+    "questionLatex": "k_B",
+    "options": [
+      {"text":"J K⁻¹","latex":"JK^{-1}"},
+      {"text":"J mol⁻¹","latex":"Jmol^{-1}"},
+      {"text":"Pa m³","latex":"Pam^3"},
+      {"text":"kg m s⁻¹","latex":"kgms^{-1}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "J K⁻¹",
+      "latex": "JK^{-1}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Avogadro Number",
+    "familyId": "avogadro_number_value",
+    "questionText": "The value of Avogadro number is approximately:",
+    "questionLatex": "N_A",
+    "options": [
+      {"text":"6.02 × 10²³","latex":"6.02\\times10^{23}"},
+      {"text":"6.02 × 10²²","latex":"6.02\\times10^{22}"},
+      {"text":"1.38 × 10⁻²³","latex":"1.38\\times10^{-23}"},
+      {"text":"8.31 × 10²³","latex":"8.31\\times10^{23}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "6.02 × 10²³",
+      "latex": "6.02\\times10^{23}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Boyle's Law",
+    "familyId": "boyles_law",
+    "questionText": "For a fixed mass of gas at constant temperature, Boyle's law states:",
+    "questionLatex": "PV=\\text{constant}",
+    "options": [
+      {"text":"P ∝ V","latex":"P\\propto V"},
+      {"text":"PV = constant","latex":"PV=\\text{constant}"},
+      {"text":"V ∝ T","latex":"V\\propto T"},
+      {"text":"P ∝ T","latex":"P\\propto T"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "PV = constant",
+      "latex": "PV=\\text{constant}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Charles Law",
+    "familyId": "charles_law",
+    "questionText": "At constant pressure, volume of a gas is directly proportional to:",
+    "questionLatex": "V\\propto T",
+    "options": [
+      {"text":"Pressure","latex":"P"},
+      {"text":"Mass","latex":"m"},
+      {"text":"Temperature","latex":"T"},
+      {"text":"Density","latex":"\\rho"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Temperature",
+      "latex": "T"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Dalton Law",
+    "familyId": "dalton_law",
+    "questionText": "According to Dalton's law, the total pressure of a mixture of ideal gases is:",
+    "questionLatex": "P=P_1+P_2+...",
+    "options": [
+      {"text":"Product of partial pressures","latex":"P_1P_2"},
+      {"text":"Average of partial pressures","latex":"\\bar P"},
+      {"text":"Sum of partial pressures","latex":"P_1+P_2+..."},
+      {"text":"Difference of partial pressures","latex":"P_1-P_2"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Sum of partial pressures",
+      "latex": "P_1+P_2+..."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ideal Gas Numerical",
+    "familyId": "ideal_gas_numerical",
+    "questionText": "Calculate the number of moles present in 44.8 L of an ideal gas at STP.",
+    "questionLatex": "PV=\\mu RT",
+    "answer": {
+      "type": "numeric",
+      "text": "2 mol",
+      "latex": "2\\,mol"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Pressure of Ideal Gas",
+    "familyId": "pressure_formula",
+    "questionText": "According to kinetic theory, the pressure of an ideal gas is given by:",
+    "questionLatex": "$P = \\frac{1}{3}nm\\overline{v^2}$",
+    "options": [
+      {"text": "$P = nm\\overline{v^2}$", "latex": "$P = nm\\overline{v^2}$"},
+      {"text": "$P = \\frac{1}{2}nm\\overline{v^2}$", "latex": "$P = \\frac{1}{2}nm\\overline{v^2}$"},
+      {"text": "$P = \\frac{1}{3}nm\\overline{v^2}$", "latex": "$P = \\frac{1}{3}nm\\overline{v^2}$"},
+      {"text": "$P = \\frac{2}{3}nm\\overline{v^2}$", "latex": "$P = \\frac{2}{3}nm\\overline{v^2}$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$P = \\frac{1}{3}nm\\overline{v^2}$",
+      "latex": "$P = \\frac{1}{3}nm\\overline{v^2}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Pressure of Ideal Gas",
+    "familyId": "pressure_origin",
+    "questionText": "Gas pressure arises due to:",
+    "questionLatex": "$\\text{Pressure}$",
+    "options": [
+      {"text": "Mutual attraction between molecules", "latex": "$F$"},
+      {"text": "Collisions of molecules with container walls", "latex": "$mv$"},
+      {"text": "Weight of molecules only", "latex": "$mg$"},
+      {"text": "Volume of molecules", "latex": "$V$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Collisions of molecules with container walls",
+      "latex": "$mv$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Elastic Collisions",
+    "familyId": "elastic_collision_property",
+    "questionText": "Collisions between molecules of an ideal gas are assumed to be:",
+    "questionLatex": "$\\text{Elastic Collision}$",
+    "options": [
+      {"text": "Perfectly inelastic", "latex": "$e = 0$"},
+      {"text": "Partially elastic", "latex": "$0 < e < 1$"},
+      {"text": "Elastic", "latex": "$e = 1$"},
+      {"text": "Non-collisional", "latex": "$e = \\infty$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Elastic",
+      "latex": "$e = 1$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Kinetic Interpretation of Temperature",
+    "familyId": "average_kinetic_energy",
+    "questionText": "The average translational kinetic energy of a molecule of an ideal gas is:",
+    "questionLatex": "$\\frac{3}{2}k_B T$",
+    "options": [
+      {"text": "$k_B T$", "latex": "$k_B T$"},
+      {"text": "$\\frac{1}{2}k_B T$", "latex": "$\\frac{1}{2}k_B T$"},
+      {"text": "$\\frac{3}{2}k_B T$", "latex": "$\\frac{3}{2}k_B T$"},
+      {"text": "$2k_B T$", "latex": "$2k_B T$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$\\frac{3}{2}k_B T$",
+      "latex": "$\\frac{3}{2}k_B T$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Temperature",
+    "familyId": "temperature_measure",
+    "questionText": "The temperature of an ideal gas is a measure of:",
+    "questionLatex": "$\\frac{3}{2}k_B T$",
+    "options": [
+      {"text": "Potential energy of molecules", "latex": "$\\text{PE}$"},
+      {"text": "Average kinetic energy of molecules", "latex": "$\\text{KE}$"},
+      {"text": "Mass of molecules", "latex": "$m$"},
+      {"text": "Pressure of gas", "latex": "$P$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Average kinetic energy of molecules",
+      "latex": "$\\text{KE}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Internal Energy",
+    "familyId": "internal_energy_ideal_gas",
+    "questionText": "For an ideal gas, internal energy is:",
+    "questionLatex": "$E = \\frac{3}{2}Nk_B T$",
+    "options": [
+      {"text": "Purely kinetic", "latex": "$\\text{KE}$"},
+      {"text": "Purely potential", "latex": "$\\text{PE}$"},
+      {"text": "Sum of kinetic and potential energies", "latex": "$\\text{KE} + \\text{PE}$"},
+      {"text": "Independent of temperature", "latex": "$T^0$"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Purely kinetic",
+      "latex": "$\\text{KE}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "RMS Speed",
+    "familyId": "rms_speed_formula",
+    "questionText": "The root mean square speed of gas molecules is:",
+    "questionLatex": "$v_{\\text{rms}} = \\sqrt{\\frac{3k_BT}{m}}$",
+    "options": [
+      {"text": "$\\sqrt{\\frac{k_B T}{m}}$", "latex": "$\\sqrt{\\frac{k_B T}{m}}$"},
+      {"text": "$\\sqrt{\\frac{2k_B T}{m}}$", "latex": "$\\sqrt{\\frac{2k_B T}{m}}$"},
+      {"text": "$\\sqrt{\\frac{3k_B T}{m}}$", "latex": "$\\sqrt{\\frac{3k_B T}{m}}$"},
+      {"text": "$\\sqrt{\\frac{4k_B T}{m}}$", "latex": "$\\sqrt{\\frac{4k_B T}{m}}$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$\\sqrt{\\frac{3k_B T}{m}}$",
+      "latex": "$\\sqrt{\\frac{3k_B T}{m}}$"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "RMS Speed",
+    "familyId": "lighter_molecule_speed",
+    "questionText": "At the same temperature, which gas molecules have greater rms speed?",
+    "questionLatex": "$v_{\\text{rms}} \\propto \\frac{1}{\\sqrt{m}}$",
+    "options": [
+      {"text": "Heavier molecules", "latex": "$m \\uparrow$"},
+      {"text": "Lighter molecules", "latex": "$m \\downarrow$"},
+      {"text": "Both have same speed", "latex": "$=$"},
+      {"text": "Depends only on pressure", "latex": "$P$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Lighter molecules",
+      "latex": "$m \\downarrow$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Kinetic Theory Numerical",
+    "familyId": "average_energy_numerical",
+    "questionText": "Calculate the average translational kinetic energy of a gas molecule at $300\\text{ K}$. Take $k_B = 1.38 \\times 10^{-23}\\text{ J K}^{-1}$.",
+    "questionLatex": "$E = \\frac{3}{2}k_BT$",
+    "answer": {
+      "type": "numeric",
+      "text": "$6.21 \\times 10^{-21}\\text{ J}$",
+      "latex": "$6.21 \\times 10^{-21}\\text{ J}$"
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "RMS Speed Numerical",
+    "familyId": "rms_speed_numerical",
+    "questionText": "The rms speed of nitrogen molecules at $300\\text{ K}$ is approximately:",
+    "questionLatex": "$v_{\\text{rms}} = \\sqrt{\\frac{3k_BT}{m}}$",
+    "options": [
+      {"text": "$216\\text{ m s}^{-1}$", "latex": "$216\\text{ m s}^{-1}$"},
+      {"text": "$516\\text{ m s}^{-1}$", "latex": "$516\\text{ m s}^{-1}$"},
+      {"text": "$816\\text{ m s}^{-1}$", "latex": "$816\\text{ m s}^{-1}$"},
+      {"text": "$1016\\text{ m s}^{-1}$", "latex": "$1016\\text{ m s}^{-1}$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "$516\\text{ m s}^{-1}$",
+      "latex": "$516\\text{ m s}^{-1}$"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Equipartition of Energy",
+    "familyId": "equipartition_statement",
+    "questionText": "According to the law of equipartition of energy, energy is equally distributed among:",
+    "questionLatex": "$\\frac{1}{2}k_B T$",
+    "options": [
+      {"text": "Molecules only", "latex": "$N$"},
+      {"text": "Degrees of freedom", "latex": "$f$"},
+      {"text": "Atoms only", "latex": "$A$"},
+      {"text": "Collisions only", "latex": "$C$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Degrees of freedom",
+      "latex": "$f$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Degrees of Freedom",
+    "familyId": "degree_of_freedom_definition",
+    "questionText": "A degree of freedom of a system is:",
+    "questionLatex": "$f$",
+    "options": [
+      {"text": "A type of force", "latex": "$F$"},
+      {"text": "An independent mode of storing energy", "latex": "$f$"},
+      {"text": "A unit of energy", "latex": "$\\text{J}$"},
+      {"text": "A thermodynamic process", "latex": "$P$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "An independent mode of storing energy",
+      "latex": "$f$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Monatomic Gas",
+    "familyId": "monatomic_degrees_freedom",
+    "questionText": "The number of degrees of freedom of a monatomic gas molecule is:",
+    "questionLatex": "$f = 3$",
+    "options": [
+      {"text": "2", "latex": "$2$"},
+      {"text": "3", "latex": "$3$"},
+      {"text": "5", "latex": "$5$"},
+      {"text": "6", "latex": "$6$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3",
+      "latex": "$3$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Diatomic Gas",
+    "familyId": "diatomic_degrees_freedom",
+    "questionText": "At ordinary temperatures, the number of degrees of freedom of a diatomic gas molecule is:",
+    "questionLatex": "$f = 5$",
+    "options": [
+      {"text": "3", "latex": "$3$"},
+      {"text": "4", "latex": "$4$"},
+      {"text": "5", "latex": "$5$"},
+      {"text": "7", "latex": "$7$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "5",
+      "latex": "$5$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Equipartition Theorem",
+    "familyId": "energy_per_degree_freedom",
+    "questionText": "According to the equipartition theorem, the average energy associated with each degree of freedom is:",
+    "questionLatex": "$\\frac{1}{2}k_B T$",
+    "options": [
+      {"text": "$k_B T$", "latex": "$k_B T$"},
+      {"text": "$\\frac{1}{2}k_B T$", "latex": "$\\frac{1}{2}k_B T$"},
+      {"text": "$\\frac{3}{2}k_B T$", "latex": "$\\frac{3}{2}k_B T$"},
+      {"text": "$2k_B T$", "latex": "$2k_B T$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "$\\frac{1}{2}k_B T$",
+      "latex": "$\\frac{1}{2}k_B T$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Monatomic Gas Energy",
+    "familyId": "monatomic_average_energy",
+    "questionText": "The average energy per molecule of a monatomic ideal gas is:",
+    "questionLatex": "$\\frac{3}{2}k_B T$",
+    "options": [
+      {"text": "$\\frac{1}{2}k_B T$", "latex": "$\\frac{1}{2}k_B T$"},
+      {"text": "$k_B T$", "latex": "$k_B T$"},
+      {"text": "$\\frac{3}{2}k_B T$", "latex": "$\\frac{3}{2}k_B T$"},
+      {"text": "$\\frac{5}{2}k_B T$", "latex": "$\\frac{5}{2}k_B T$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$\\frac{3}{2}k_B T$",
+      "latex": "$\\frac{3}{2}k_B T$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Diatomic Gas Energy",
+    "familyId": "diatomic_average_energy",
+    "questionText": "For a diatomic gas with five active degrees of freedom, the average energy per molecule is:",
+    "questionLatex": "$\\frac{5}{2}k_B T$",
+    "options": [
+      {"text": "$\\frac{3}{2}k_B T$", "latex": "$\\frac{3}{2}k_B T$"},
+      {"text": "$2k_B T$", "latex": "$2k_B T$"},
+      {"text": "$\\frac{5}{2}k_B T$", "latex": "$\\frac{5}{2}k_B T$"},
+      {"text": "$3k_B T$", "latex": "$3k_B T$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "$\\frac{5}{2}k_B T$",
+      "latex": "$\\frac{5}{2}k_B T$"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Rotational Motion",
+    "familyId": "rotational_degrees_freedom",
+    "questionText": "A diatomic molecule at ordinary temperatures possesses how many rotational degrees of freedom?",
+    "questionLatex": "$f_r = 2$",
+    "options": [
+      {"text": "0", "latex": "$0$"},
+      {"text": "1", "latex": "$1$"},
+      {"text": "2", "latex": "$2$"},
+      {"text": "3", "latex": "$3$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "2",
+      "latex": "$2$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Equipartition Numerical",
+    "familyId": "energy_per_molecule_numerical",
+    "questionText": "Calculate the average translational kinetic energy of a monatomic gas molecule at $400\\text{ K}$. Take $k_B = 1.38 \\times 10^{-23}\\text{ J K}^{-1}$.",
+    "questionLatex": "$E = \\frac{3}{2}k_B T$",
+    "answer": {
+      "type": "numeric",
+      "text": "$8.28 \\times 10^{-21}\\text{ J}$",
+      "latex": "$8.28 \\times 10^{-21}\\text{ J}$"
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Equipartition Numerical",
+    "familyId": "diatomic_energy_numerical",
+    "questionText": "Calculate the average energy per molecule of a diatomic gas at $300\\text{ K}$ assuming five active degrees of freedom. Take $k_B = 1.38 \\times 10^{-23}\\text{ J K}^{-1}$.",
+    "questionLatex": "$E = \\frac{5}{2}k_B T$",
+    "answer": {
+      "type": "numeric",
+      "text": "$1.035 \\times 10^{-20}\\text{ J}$",
+      "latex": "$1.035 \\times 10^{-20}\\text{ J}$"
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Specific Heat Capacity",
+    "familyId": "cv_monatomic",
+    "questionText": "For a monatomic ideal gas, the molar specific heat at constant volume is:",
+    "questionLatex": "$C_V = \\frac{3}{2}R$",
+    "options": [
+      {
+        "text": "R",
+        "latex": "$R$"
+      },
+      {
+        "text": "(3/2)R",
+        "latex": "$\\frac{3}{2}R$"
+      },
+      {
+        "text": "(5/2)R",
+        "latex": "$\\frac{5}{2}R$"
+      },
+      {
+        "text": "3R",
+        "latex": "$3R$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "(3/2)R",
+      "latex": "$\\frac{3}{2}R$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Specific Heat Capacity",
+    "familyId": "cp_monatomic",
+    "questionText": "For a monatomic ideal gas, the molar specific heat at constant pressure is:",
+    "questionLatex": "$C_P = \\frac{5}{2}R$",
+    "options": [
+      {
+        "text": "(3/2)R",
+        "latex": "$\\frac{3}{2}R$"
+      },
+      {
+        "text": "2R",
+        "latex": "$2R$"
+      },
+      {
+        "text": "(5/2)R",
+        "latex": "$\\frac{5}{2}R$"
+      },
+      {
+        "text": "3R",
+        "latex": "$3R$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "(5/2)R",
+      "latex": "$\\frac{5}{2}R$"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ratio of Specific Heats",
+    "familyId": "gamma_monatomic",
+    "questionText": "The ratio of specific heats ($\\gamma = C_P/C_V$) for a monatomic ideal gas is:",
+    "questionLatex": "$\\gamma = \\frac{5}{3}$",
+    "options": [
+      {
+        "text": "5/3",
+        "latex": "$\\frac{5}{3}$"
+      },
+      {
+        "text": "7/5",
+        "latex": "$\\frac{7}{5}$"
+      },
+      {
+        "text": "4/3",
+        "latex": "$\\frac{4}{3}$"
+      },
+      {
+        "text": "3/2",
+        "latex": "$\\frac{3}{2}$"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "5/3",
+      "latex": "$\\frac{5}{3}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ratio of Specific Heats",
+    "familyId": "gamma_diatomic",
+    "questionText": "For a diatomic gas at ordinary temperatures, the value of $\\gamma$ is:",
+    "questionLatex": "$\\gamma = \\frac{7}{5}$",
+    "options": [
+      {
+        "text": "5/3",
+        "latex": "$\\frac{5}{3}$"
+      },
+      {
+        "text": "7/5",
+        "latex": "$\\frac{7}{5}$"
+      },
+      {
+        "text": "4/3",
+        "latex": "$\\frac{4}{3}$"
+      },
+      {
+        "text": "9/7",
+        "latex": "$\\frac{9}{7}$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "7/5",
+      "latex": "$\\frac{7}{5}$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Mean Free Path",
+    "familyId": "mean_free_path_definition",
+    "questionText": "The mean free path of a gas molecule is the:",
+    "questionLatex": "$\\lambda$",
+    "options": [
+      {
+        "text": "Total distance travelled by a molecule",
+        "latex": "$s$"
+      },
+      {
+        "text": "Average distance travelled between successive collisions",
+        "latex": "$\\lambda$"
+      },
+      {
+        "text": "Diameter of a molecule",
+        "latex": "$d$"
+      },
+      {
+        "text": "Distance travelled in one second",
+        "latex": "$vt$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Average distance travelled between successive collisions",
+      "latex": "$\\lambda$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Mean Free Path",
+    "familyId": "mean_free_path_pressure",
+    "questionText": "The mean free path of gas molecules increases when:",
+    "questionLatex": "$\\lambda \\propto \\frac{1}{P}$",
+    "options": [
+      {
+        "text": "Pressure increases",
+        "latex": "$P \\uparrow$"
+      },
+      {
+        "text": "Pressure decreases",
+        "latex": "$P \\downarrow$"
+      },
+      {
+        "text": "Density increases",
+        "latex": "$\\rho \\uparrow$"
+      },
+      {
+        "text": "Number of collisions increases",
+        "latex": "$N \\uparrow$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Pressure decreases",
+      "latex": "$P \\downarrow$"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ideal Gas Assumptions",
+    "familyId": "ideal_gas_assumption_volume",
+    "questionText": "In kinetic theory, the actual volume of gas molecules is assumed to be:",
+    "questionLatex": "$V_m \\approx 0$",
+    "options": [
+      {
+        "text": "Very large",
+        "latex": "$\\infty$"
+      },
+      {
+        "text": "Equal to container volume",
+        "latex": "$V$"
+      },
+      {
+        "text": "Negligible compared to container volume",
+        "latex": "$V_m \\approx 0$"
+      },
+      {
+        "text": "Variable with pressure only",
+        "latex": "$P$"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Negligible compared to container volume",
+      "latex": "$V_m \\approx 0$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ideal Gas Assumptions",
+    "familyId": "ideal_gas_assumption_force",
+    "questionText": "For an ideal gas, intermolecular forces are assumed to be:",
+    "questionLatex": "$F \\approx 0$",
+    "options": [
+      {
+        "text": "Very strong",
+        "latex": "$F \\gg 0$"
+      },
+      {
+        "text": "Attractive only",
+        "latex": "$F_a$"
+      },
+      {
+        "text": "Repulsive only",
+        "latex": "$F_r$"
+      },
+      {
+        "text": "Negligible except during collisions",
+        "latex": "$F \\approx 0$"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Negligible except during collisions",
+      "latex": "$F \\approx 0$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Real and Ideal Gases",
+    "familyId": "real_gas_behavior",
+    "questionText": "Real gases approach ideal gas behaviour most closely at:",
+    "questionLatex": "$\\text{Ideal Behaviour}$",
+    "options": [
+      {
+        "text": "High pressure and low temperature",
+        "latex": "$P \\uparrow, T \\downarrow$"
+      },
+      {
+        "text": "Low pressure and high temperature",
+        "latex": "$P \\downarrow, T \\uparrow$"
+      },
+      {
+        "text": "High pressure and high temperature",
+        "latex": "$P \\uparrow, T \\uparrow$"
+      },
+      {
+        "text": "Low pressure and low temperature",
+        "latex": "$P \\downarrow, T \\downarrow$"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Low pressure and high temperature",
+      "latex": "$P \\downarrow, T \\uparrow$"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Specific Heats Numerical",
+    "familyId": "gamma_numerical",
+    "questionText": "For a monatomic ideal gas, if $C_V = 12.5\\text{ J mol}^{-1}\\text{ K}^{-1}$ and $C_P = 20.8\\text{ J mol}^{-1}\\text{ K}^{-1}$, calculate $\\gamma$.",
+    "questionLatex": "$\\gamma = \\frac{C_P}{C_V}$",
+    "answer": {
+      "type": "numeric",
+      "text": "$1.66$",
+      "latex": "$1.66 \\approx \\frac{5}{3}$"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Brownian Motion",
+    "familyId": "brownian_motion_definition",
+    "questionText": "Brownian motion refers to the random motion of:",
+    "questionLatex": "$\\text{Brownian Motion}$",
+    "options": [
+      {"text": "Gas molecules only", "latex": "$\\text{Gas}$"},
+      {"text": "Dust or colloidal particles suspended in a fluid", "latex": "$\\text{Suspended Particles}$"},
+      {"text": "Planets around the Sun", "latex": "$\\text{Planetary Motion}$"},
+      {"text": "Electrons in a conductor", "latex": "$e^-$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Dust or colloidal particles suspended in a fluid",
+      "latex": "$\\text{Suspended Particles}$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Brownian Motion",
+    "familyId": "brownian_motion_cause",
+    "questionText": "Brownian motion is caused by:",
+    "questionLatex": "$\\text{Molecular Collisions}$",
+    "options": [
+      {"text": "Gravitational attraction", "latex": "$F_g$"},
+      {"text": "Electric forces", "latex": "$F_e$"},
+      {"text": "Unequal bombardment by fluid molecules", "latex": "$\\text{Collisions}$"},
+      {"text": "Magnetic forces", "latex": "$F_m$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Unequal bombardment by fluid molecules",
+      "latex": "$\\text{Collisions}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Brownian Motion",
+    "familyId": "brownian_motion_evidence",
+    "questionText": "Brownian motion provides evidence for:",
+    "questionLatex": "$\\text{Atomic Nature}$",
+    "options": [
+      {"text": "Conservation of momentum", "latex": "$p$"},
+      {"text": "Atomic and molecular nature of matter", "latex": "$\\text{Atoms and Molecules}$"},
+      {"text": "Electromagnetic theory", "latex": "$\\text{EM}$"},
+      {"text": "Theory of relativity", "latex": "$c$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atomic and molecular nature of matter",
+      "latex": "$\\text{Atoms and Molecules}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Diffusion",
+    "familyId": "diffusion_definition",
+    "questionText": "Diffusion is the process by which molecules:",
+    "questionLatex": "$\\text{Diffusion}$",
+    "options": [
+      {"text": "Move from lower concentration to higher concentration", "latex": "$C_L \\to C_H$"},
+      {"text": "Move from higher concentration to lower concentration", "latex": "$C_H \\to C_L$"},
+      {"text": "Remain stationary", "latex": "$v=0$"},
+      {"text": "Move only under gravity", "latex": "$g$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Move from higher concentration to lower concentration",
+      "latex": "$C_H \\to C_L$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Diffusion",
+    "familyId": "diffusion_temperature",
+    "questionText": "The rate of diffusion generally increases with:",
+    "questionLatex": "$T \\uparrow$",
+    "options": [
+      {"text": "Decrease in temperature", "latex": "$T \\downarrow$"},
+      {"text": "Increase in temperature", "latex": "$T \\uparrow$"},
+      {"text": "Increase in pressure only", "latex": "$P \\uparrow$"},
+      {"text": "Decrease in volume only", "latex": "$V \\downarrow$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Increase in temperature",
+      "latex": "$T \\uparrow$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Gas Laws",
+    "familyId": "pressure_temperature_relation",
+    "questionText": "According to kinetic theory, the pressure of an ideal gas increases with temperature because:",
+    "questionLatex": "$P \\propto T$",
+    "options": [
+      {"text": "Molecules become larger", "latex": "$d \\uparrow$"},
+      {"text": "Average kinetic energy increases", "latex": "$\\text{KE} \\uparrow$"},
+      {"text": "Mass of molecules increases", "latex": "$m \\uparrow$"},
+      {"text": "Volume always decreases", "latex": "$V \\downarrow$"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Average kinetic energy increases",
+      "latex": "$\\text{KE} \\uparrow$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Gas Laws",
+    "familyId": "volume_temperature_relation",
+    "questionText": "Charles' law can be explained by kinetic theory because increasing temperature increases:",
+    "questionLatex": "$V \\propto T$",
+    "options": [
+      {"text": "Average molecular speed", "latex": "$v \\uparrow$"},
+      {"text": "Molecular mass", "latex": "$m \\uparrow$"},
+      {"text": "Number of molecules", "latex": "$N \\uparrow$"},
+      {"text": "Molecular diameter", "latex": "$d \\uparrow$"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Average molecular speed",
+      "latex": "$v \\uparrow$"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Ideal Gas",
+    "familyId": "ideal_gas_characteristic",
+    "questionText": "Which of the following assumptions is most nearly satisfied by real gases at low pressure and high temperature?",
+    "questionLatex": "$\\text{Ideal Gas}$",
+    "options": [
+      {"text": "Strong intermolecular forces", "latex": "$F \\gg 0$"},
+      {"text": "Large molecular volume", "latex": "$V_m \\uparrow$"},
+      {"text": "Negligible intermolecular forces", "latex": "$F \\approx 0$"},
+      {"text": "Frequent condensation", "latex": "$\\text{Condensation}$"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Negligible intermolecular forces",
+      "latex": "$F \\approx 0$"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Mean Free Path",
+    "familyId": "mean_free_path_density",
+    "questionText": "The mean free path of gas molecules decreases when:",
+    "questionLatex": "$\\lambda \\downarrow$",
+    "options": [
+      {"text": "Density increases", "latex": "$\\rho \\uparrow$"},
+      {"text": "Density decreases", "latex": "$\\rho \\downarrow$"},
+      {"text": "Temperature decreases only", "latex": "$T \\downarrow$"},
+      {"text": "Molecular speed decreases", "latex": "$v \\downarrow$"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Density increases",
+      "latex": "$\\rho \\uparrow$"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Kinetic Theory",
+    "topic": "Kinetic Theory Numerical",
+    "familyId": "kinetic_energy_mole_numerical",
+    "questionText": "Calculate the total translational kinetic energy of one mole of an ideal monatomic gas at $300\\text{ K}$. Take $R = 8.31\\text{ J mol}^{-1}\\text{ K}^{-1}$.",
+    "questionLatex": "$E=\\frac{3}{2}RT$",
+    "answer": {
+      "type": "numeric",
+      "text": "$3.74 \\times 10^3\\text{ J}$",
+      "latex": "$3.74 \\times 10^3\\text{ J}$"
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

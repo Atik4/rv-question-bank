@@ -1,0 +1,1216 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Introduction",
+    "familyId": "plant_anatomy_definition",
+    "questionText": "The study of the internal structure of plants is known as:",
+    "questionLatex": "$\\text{The study of the internal structure of plants is known as:}$",
+    "options": [
+      "Morphology",
+      "Anatomy",
+      "Ecology",
+      "Taxonomy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plant anatomy deals with the study of the internal structure and functional organisation of higher plants."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Tissue System",
+    "familyId": "tissue_system_types",
+    "questionText": "How many tissue systems are present in flowering plants?",
+    "questionLatex": "$\\text{How many tissue systems are present in flowering plants?}$",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The three tissue systems are epidermal, ground (fundamental), and vascular tissue systems."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Epidermal Tissue System",
+    "familyId": "epidermis_definition",
+    "questionText": "The outermost protective covering of the primary plant body is the:",
+    "questionLatex": "$\\text{The outermost protective covering of the primary plant body is the:}$",
+    "options": [
+      "Pericycle",
+      "Endodermis",
+      "Epidermis",
+      "Cortex"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The epidermis forms the outermost protective layer of the primary plant body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Epidermal Tissue System",
+    "familyId": "cuticle_function",
+    "questionText": "The waxy layer present on the outer surface of the epidermis that prevents water loss is called:",
+    "questionLatex": "$\\text{The waxy layer present on the outer surface of the epidermis that prevents water loss is called:}$",
+    "options": [
+      "Cutin",
+      "Cuticle",
+      "Suberin",
+      "Lignin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cuticle is a waxy layer covering the epidermis that minimizes water loss."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Epidermal Tissue System",
+    "familyId": "cuticle_absence",
+    "questionText": "The cuticle is generally absent in:",
+    "questionLatex": "$\\text{The cuticle is generally absent in:}$",
+    "options": [
+      "Leaves",
+      "Young stems",
+      "Roots",
+      "Flowers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Roots lack a cuticle to facilitate efficient absorption of water and minerals."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Stomata",
+    "familyId": "stomata_function",
+    "questionText": "The primary functions of stomata are:",
+    "questionLatex": "$\\text{The primary functions of stomata are:}$",
+    "options": [
+      "Photosynthesis only",
+      "Storage of food",
+      "Transpiration and gaseous exchange",
+      "Mechanical support"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Stomata regulate transpiration and gaseous exchange in plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Stomata",
+    "familyId": "guard_cells",
+    "questionText": "Which cells regulate the opening and closing of stomata?",
+    "questionLatex": "$\\text{Which cells regulate the opening and closing of stomata?}$",
+    "options": [
+      "Companion cells",
+      "Guard cells",
+      "Sieve cells",
+      "Bulliform cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Guard cells containing chloroplasts regulate the opening and closing of the stomatal pore."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Stomata",
+    "familyId": "grass_guard_cells",
+    "questionText": "The guard cells in grasses are typically:",
+    "questionLatex": "$\\text{The guard cells in grasses are typically:}$",
+    "options": [
+      "Kidney-shaped",
+      "Bean-shaped",
+      "Dumb-bell shaped",
+      "Spherical"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Unlike most plants with bean-shaped guard cells, grasses possess dumb-bell shaped guard cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Epidermal Tissue System",
+    "familyId": "stomatal_apparatus",
+    "questionText": "What constitutes the stomatal apparatus?",
+    "questionLatex": "$\\text{What constitutes the stomatal apparatus?}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The stomatal apparatus consists of the stomatal pore, two guard cells and the surrounding subsidiary cells."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Epidermal Appendages",
+    "familyId": "root_hairs_trichomes",
+    "questionText": "Differentiate between root hairs and trichomes.",
+    "questionLatex": "$\\text{Differentiate between root hairs and trichomes.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Root hairs are unicellular extensions of root epidermal cells that absorb water and minerals. Trichomes are epidermal hairs present on stems and shoots, usually multicellular, and help reduce water loss through transpiration."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Ground Tissue System",
+    "familyId": "ground_tissue_definition",
+    "questionText": "The ground tissue system includes:",
+    "questionLatex": "$\\text{The ground tissue system includes:}$",
+    "options": [
+      "Only epidermal tissue",
+      "All tissues except epidermis and vascular bundles",
+      "Only xylem and phloem",
+      "Only meristematic tissues"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ground tissue system comprises all tissues except the epidermis and vascular bundles."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Ground Tissue System",
+    "familyId": "ground_tissue_components",
+    "questionText": "Which of the following tissues constitute the ground tissue system?",
+    "questionLatex": "$\\text{Which of the following tissues constitute the ground tissue system?}$",
+    "options": [
+      "Parenchyma, Collenchyma and Sclerenchyma",
+      "Xylem and Phloem",
+      "Epidermis and Endodermis",
+      "Cambium and Cork"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The ground tissue system consists of the simple tissues\u2014parenchyma, collenchyma and sclerenchyma."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Ground Tissue System",
+    "familyId": "mesophyll_definition",
+    "questionText": "The chloroplast-containing ground tissue present in leaves is called:",
+    "questionLatex": "$\\text{The chloroplast-containing ground tissue present in leaves is called:}$",
+    "options": [
+      "Cortex",
+      "Pith",
+      "Mesophyll",
+      "Pericycle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The ground tissue of leaves consists of chloroplast-containing cells known as mesophyll."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Tissue System",
+    "familyId": "vascular_system_components",
+    "questionText": "The vascular tissue system is composed of:",
+    "questionLatex": "$\\text{The vascular tissue system is composed of:}$",
+    "options": [
+      "Parenchyma and Collenchyma",
+      "Xylem and Phloem",
+      "Cortex and Pith",
+      "Endodermis and Pericycle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The vascular tissue system consists of the conducting tissues xylem and phloem."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Bundles",
+    "familyId": "open_closed_vascular_bundle",
+    "questionText": "The presence of cambium in a vascular bundle makes it:",
+    "questionLatex": "$\\text{The presence of cambium in a vascular bundle makes it:}$",
+    "options": [
+      "Radial",
+      "Conjoint",
+      "Open",
+      "Closed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vascular bundles containing cambium are called open vascular bundles because they can produce secondary tissues."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Bundles",
+    "familyId": "closed_vascular_bundle",
+    "questionText": "Closed vascular bundles are typically found in:",
+    "questionLatex": "$\\text{Closed vascular bundles are typically found in:}$",
+    "options": [
+      "Dicot stems",
+      "Monocot stems",
+      "Dicot roots",
+      "Gymnosperm stems only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Monocot stems possess closed vascular bundles due to the absence of cambium."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Bundles",
+    "familyId": "radial_vascular_bundle",
+    "questionText": "In radial vascular bundles, xylem and phloem are arranged:",
+    "questionLatex": "$\\text{In radial vascular bundles, xylem and phloem are arranged:}$",
+    "options": [
+      "On the same radius",
+      "Alternately on different radii",
+      "One inside the other",
+      "Without any definite arrangement"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In radial vascular bundles, xylem and phloem occur alternately on different radii, as seen in roots."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Bundles",
+    "familyId": "conjoint_vascular_bundle",
+    "questionText": "Conjoint vascular bundles are commonly found in:",
+    "questionLatex": "$\\text{Conjoint vascular bundles are commonly found in:}$",
+    "options": [
+      "Roots only",
+      "Stems and leaves",
+      "Flowers only",
+      "Seeds only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Conjoint vascular bundles occur in stems and leaves where xylem and phloem lie on the same radius."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Bundles",
+    "familyId": "phloem_position",
+    "questionText": "In a typical conjoint vascular bundle, the phloem is located:",
+    "questionLatex": "$\\text{In a typical conjoint vascular bundle, the phloem is located:}$",
+    "options": [
+      "On the inner side of xylem",
+      "On the outer side of xylem",
+      "Between pith and cortex",
+      "Alternating with xylem"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In conjoint vascular bundles, phloem is generally present on the outer side of xylem."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Vascular Tissue System",
+    "familyId": "open_closed_difference",
+    "questionText": "Differentiate between open and closed vascular bundles.",
+    "questionLatex": "$\\text{Differentiate between open and closed vascular bundles.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Open vascular bundles possess cambium between xylem and phloem and can undergo secondary growth. Closed vascular bundles lack cambium and therefore do not produce secondary tissues."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Root",
+    "familyId": "dicot_root_epiblema",
+    "questionText": "The outermost layer of a young dicot root is known as:",
+    "questionLatex": "$\\text{The outermost layer of a young dicot root is known as:}$",
+    "options": [
+      "Pericycle",
+      "Endodermis",
+      "Epiblema",
+      "Cortex"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The outermost layer of the dicot root is the epiblema (piliferous layer), which bears root hairs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Root",
+    "familyId": "cortex_function",
+    "questionText": "The cortex of a dicot root mainly consists of:",
+    "questionLatex": "$\\text{The cortex of a dicot root mainly consists of:}$",
+    "options": [
+      "Sclerenchyma",
+      "Parenchyma",
+      "Collenchyma",
+      "Xylem fibres"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cortex is composed of thin-walled parenchymatous cells that store food."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Root",
+    "familyId": "casparian_strips",
+    "questionText": "Casparian strips are characteristically present in the:",
+    "questionLatex": "$\\text{Casparian strips are characteristically present in the:}$",
+    "options": [
+      "Pericycle",
+      "Endodermis",
+      "Epiblema",
+      "Pith"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The endodermis contains Casparian strips made of suberin that regulate water movement."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Root",
+    "familyId": "pericycle_function",
+    "questionText": "Lateral roots originate from the:",
+    "questionLatex": "$\\text{Lateral roots originate from the:}$",
+    "options": [
+      "Cortex",
+      "Pericycle",
+      "Endodermis",
+      "Pith"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The pericycle gives rise to lateral roots in dicot plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Root",
+    "familyId": "vascular_arrangement_root",
+    "questionText": "The vascular bundles in a typical dicot root are:",
+    "questionLatex": "$\\text{The vascular bundles in a typical dicot root are:}$",
+    "options": [
+      "Conjoint and open",
+      "Conjoint and closed",
+      "Radial",
+      "Bicollateral"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Roots possess radial vascular bundles where xylem and phloem occur on different radii."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Stem",
+    "familyId": "dicot_stem_hypodermis",
+    "questionText": "The hypodermis of a typical dicot stem is composed of:",
+    "questionLatex": "$\\text{The hypodermis of a typical dicot stem is composed of:}$",
+    "options": [
+      "Parenchyma",
+      "Collenchyma",
+      "Sclerenchyma",
+      "Chlorenchyma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The hypodermis of a dicot stem consists of collenchymatous cells that provide mechanical support."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Dicot Stem",
+    "familyId": "vascular_bundle_dicot_stem",
+    "questionText": "The vascular bundles in a typical dicot stem are arranged:",
+    "questionLatex": "$\\text{The vascular bundles in a typical dicot stem are arranged:}$",
+    "options": [
+      "Scattered throughout the ground tissue",
+      "In a ring",
+      "Alternately with cortex",
+      "Only near the pith"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The vascular bundles of a dicot stem are arranged in the form of a ring."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Monocot Stem",
+    "familyId": "monocot_vascular_bundle",
+    "questionText": "The vascular bundles of a monocot stem are generally:",
+    "questionLatex": "$\\text{The vascular bundles of a monocot stem are generally:}$",
+    "options": [
+      "Arranged in a ring",
+      "Open",
+      "Scattered in the ground tissue",
+      "Radial"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Monocot stems possess numerous scattered closed vascular bundles embedded in the ground tissue."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Monocot Stem",
+    "familyId": "monocot_secondary_growth",
+    "questionText": "Secondary growth is generally absent in monocot stems because:",
+    "questionLatex": "$\\text{Secondary growth is generally absent in monocot stems because:}$",
+    "options": [
+      "They lack epidermis",
+      "They lack cambium in vascular bundles",
+      "They lack cortex",
+      "They lack xylem"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Monocot stems possess closed vascular bundles without cambium; hence secondary growth is generally absent."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Root and Stem Anatomy",
+    "familyId": "dicot_root_vs_stem",
+    "questionText": "Differentiate between the vascular bundle arrangement in a dicot root and a dicot stem.",
+    "questionLatex": "$\\text{Differentiate between the vascular bundle arrangement in a dicot root and a dicot stem.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In a dicot root, vascular bundles are radial, with xylem and phloem arranged on different radii. In a dicot stem, vascular bundles are conjoint, collateral, open, and arranged in a ring with xylem and phloem on the same radius."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Leaf Anatomy",
+    "familyId": "dorsiventral_leaf",
+    "questionText": "The mesophyll of a dorsiventral (dicot) leaf is differentiated into:",
+    "questionLatex": "$\\text{The mesophyll of a dorsiventral (dicot) leaf is differentiated into:}$",
+    "options": [
+      "Only palisade parenchyma",
+      "Only spongy parenchyma",
+      "Palisade parenchyma and spongy parenchyma",
+      "Collenchyma and sclerenchyma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The mesophyll of a dorsiventral leaf is differentiated into palisade parenchyma and spongy parenchyma."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Leaf Anatomy",
+    "familyId": "palisade_parenchyma",
+    "questionText": "The palisade parenchyma in a dicot leaf is mainly responsible for:",
+    "questionLatex": "$\\text{The palisade parenchyma in a dicot leaf is mainly responsible for:}$",
+    "options": [
+      "Storage of food",
+      "Photosynthesis",
+      "Water conduction",
+      "Mechanical support"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Palisade parenchyma contains numerous chloroplasts and is the principal photosynthetic tissue."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Leaf Anatomy",
+    "familyId": "spongy_parenchyma",
+    "questionText": "Large intercellular spaces are characteristic of:",
+    "questionLatex": "$\\text{Large intercellular spaces are characteristic of:}$",
+    "options": [
+      "Palisade parenchyma",
+      "Spongy parenchyma",
+      "Xylem",
+      "Collenchyma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Spongy parenchyma contains numerous intercellular spaces that facilitate gaseous exchange."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Leaf Anatomy",
+    "familyId": "isobilateral_leaf",
+    "questionText": "Isobilateral leaves are typically found in:",
+    "questionLatex": "$\\text{Isobilateral leaves are typically found in:}$",
+    "options": [
+      "Dicotyledonous plants",
+      "Monocotyledonous plants",
+      "Bryophytes",
+      "Gymnosperms only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most monocot leaves are isobilateral, with similar anatomy on both surfaces."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Leaf Anatomy",
+    "familyId": "bulliform_cells",
+    "questionText": "Bulliform (motor) cells are characteristic of:",
+    "questionLatex": "$\\text{Bulliform (motor) cells are characteristic of:}$",
+    "options": [
+      "Dicot roots",
+      "Dicot leaves",
+      "Monocot leaves",
+      "Gymnosperm stems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bulliform cells occur in the upper epidermis of many monocot leaves and help in leaf rolling during water stress."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_growth_definition",
+    "questionText": "Secondary growth in plants refers to:",
+    "questionLatex": "$\\text{Secondary growth in plants refers to:}$",
+    "options": [
+      "Increase in plant height",
+      "Formation of flowers",
+      "Increase in girth due to the activity of lateral meristems",
+      "Formation of leaves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Secondary growth is the increase in thickness of stems and roots due to the activity of vascular cambium and cork cambium."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "vascular_cambium",
+    "questionText": "The lateral meristem primarily responsible for secondary xylem and secondary phloem formation is:",
+    "questionLatex": "$\\text{The lateral meristem primarily responsible for secondary xylem and secondary phloem formation is:}$",
+    "options": [
+      "Apical meristem",
+      "Intercalary meristem",
+      "Vascular cambium",
+      "Protoderm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vascular cambium produces secondary xylem towards the inside and secondary phloem towards the outside."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "cork_cambium",
+    "questionText": "Cork cambium is also known as:",
+    "questionLatex": "$\\text{Cork cambium is also known as:}$",
+    "options": [
+      "Phellogen",
+      "Pericycle",
+      "Endodermis",
+      "Procambium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Cork cambium or phellogen produces cork (phellem) and secondary cortex (phelloderm)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "annual_rings",
+    "questionText": "Annual rings in woody plants are formed due to:",
+    "questionLatex": "$\\text{Annual rings in woody plants are formed due to:}$",
+    "options": [
+      "Alternating formation of xylem and phloem",
+      "Alternating formation of early wood and late wood",
+      "Formation of cork only",
+      "Activity of apical meristem"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Annual rings are produced by the alternate formation of early wood (spring wood) and late wood (autumn wood)."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_growth_importance",
+    "questionText": "State two important functions of secondary growth in dicot plants.",
+    "questionLatex": "$\\text{State two important functions of secondary growth in dicot plants.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Secondary growth increases the girth of stems and roots, providing mechanical support. It also produces secondary vascular tissues that improve conduction and forms protective tissues such as cork."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_growth_occurrence",
+    "questionText": "Secondary growth is commonly observed in:",
+    "questionLatex": "$\\text{Secondary growth is commonly observed in:}$",
+    "options": [
+      "Most monocot stems",
+      "Most dicot stems and roots",
+      "Leaves only",
+      "All flowering plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Secondary growth commonly occurs in dicot stems and roots due to the presence of vascular cambium and cork cambium."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_xylem",
+    "questionText": "The vascular cambium produces secondary xylem towards the:",
+    "questionLatex": "$\\text{The vascular cambium produces secondary xylem towards the:}$",
+    "options": [
+      "Outside",
+      "Inside",
+      "Lateral side",
+      "Upper side"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Secondary xylem is formed towards the inner side of the vascular cambium."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_phloem",
+    "questionText": "Secondary phloem is produced by vascular cambium towards the:",
+    "questionLatex": "$\\text{Secondary phloem is produced by vascular cambium towards the:}$",
+    "options": [
+      "Inside",
+      "Outside",
+      "Centre of the stem",
+      "Pith only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The vascular cambium cuts off secondary phloem towards the outer side."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "cork_function",
+    "questionText": "The primary function of cork is to:",
+    "questionLatex": "$\\text{The primary function of cork is to:}$",
+    "options": [
+      "Conduct water",
+      "Transport food",
+      "Protect inner tissues from injury and water loss",
+      "Carry out photosynthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cork consists of dead, suberized cells that protect the plant against water loss, pathogens and mechanical injury."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "lenticels",
+    "questionText": "Lenticels mainly facilitate:",
+    "questionLatex": "$\\text{Lenticels mainly facilitate:}$",
+    "options": [
+      "Photosynthesis",
+      "Gaseous exchange",
+      "Water absorption",
+      "Food storage"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lenticels are openings in the bark that allow gaseous exchange between internal tissues and the atmosphere."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Wood",
+    "familyId": "heartwood_definition",
+    "questionText": "Heartwood differs from sapwood because it is:",
+    "questionLatex": "$\\text{Heartwood differs from sapwood because it is:}$",
+    "options": [
+      "Actively conducting water",
+      "Composed of living conducting elements",
+      "Dark coloured, non-conducting and provides mechanical strength",
+      "Located only in monocot stems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Heartwood consists of older xylem that no longer conducts water and mainly provides strength."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Wood",
+    "familyId": "sapwood_definition",
+    "questionText": "Sapwood is mainly responsible for:",
+    "questionLatex": "$\\text{Sapwood is mainly responsible for:}$",
+    "options": [
+      "Mechanical support only",
+      "Storage of food only",
+      "Conduction of water and minerals",
+      "Formation of bark"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Sapwood is the younger secondary xylem that actively conducts water and minerals."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Wood",
+    "familyId": "heartwood_vs_sapwood",
+    "questionText": "Which of the following correctly distinguishes heartwood from sapwood?",
+    "questionLatex": "$\\text{Which of the following correctly distinguishes heartwood from sapwood?}$",
+    "options": [
+      "Heartwood conducts water actively; sapwood does not.",
+      "Heartwood is dead and non-conducting, whereas sapwood is living or functionally active in conduction.",
+      "Heartwood is present only in monocots.",
+      "Sapwood is darker than heartwood."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heartwood consists of old, non-conducting secondary xylem, whereas sapwood forms the conducting outer region."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Applied Anatomy",
+    "familyId": "annual_rings_age",
+    "questionText": "The age of a tree can generally be estimated by counting:",
+    "questionLatex": "$\\text{The age of a tree can generally be estimated by counting:}$",
+    "options": [
+      "Lenticels",
+      "Nodes",
+      "Annual rings",
+      "Leaf scars"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Each annual ring usually represents one year of growth in temperate woody plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Secondary Growth",
+    "familyId": "heartwood_sapwood_difference",
+    "questionText": "Differentiate between heartwood and sapwood.",
+    "questionLatex": "$\\text{Differentiate between heartwood and sapwood.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Heartwood is the older, dark-coloured, dead secondary xylem that does not conduct water and mainly provides mechanical strength. Sapwood is the younger, lighter-coloured secondary xylem that actively conducts water and minerals from roots to aerial parts."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

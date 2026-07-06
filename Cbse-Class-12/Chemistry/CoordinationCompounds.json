@@ -1,0 +1,1108 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Introduction and Applications",
+    "familyId": "coordination_compound_definition",
+    "questionText": "What are coordination compounds?",
+    "questionLatex": "$\\text{Define coordination compounds}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Coordination compounds are compounds in which a central metal atom or ion is surrounded by a fixed number of ions or molecules called ligands that are attached through coordinate bonds."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Applications",
+    "familyId": "biological_examples",
+    "questionText": "Which of the following is a coordination compound present in biological systems?",
+    "questionLatex": "$\\text{Coordination compounds in biological systems}$",
+    "options": [
+      "Chlorophyll",
+      "Haemoglobin",
+      "Vitamin B12",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Chlorophyll, haemoglobin and vitamin B12 are important naturally occurring coordination compounds."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "familyId": "werner_scientist",
+    "questionText": "Who proposed the coordination theory of coordination compounds?",
+    "questionLatex": "$\\text{Name the scientist who proposed coordination theory}$",
+    "options": [
+      "Gilbert Lewis",
+      "Alfred Werner",
+      "Linus Pauling",
+      "J. J. Thomson"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alfred Werner proposed the coordination theory and explained the structures of coordination compounds."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "familyId": "primary_secondary_valence",
+    "questionText": "According to Werner's theory, metals in coordination compounds exhibit which two types of valences?",
+    "questionLatex": "$\\text{Types of valences according to Werner}$",
+    "options": [
+      "Covalent and ionic",
+      "Primary and secondary",
+      "Positive and negative",
+      "Sigma and pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Werner proposed that metals show primary valence and secondary valence."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "familyId": "primary_valence_property",
+    "questionText": "State any two characteristics of primary valence according to Werner's theory.",
+    "questionLatex": "$\\text{Characteristics of primary valence}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Primary valence is ionisable and is usually satisfied by negative ions. It corresponds to the oxidation state of the metal."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "familyId": "secondary_valence_property",
+    "questionText": "What is secondary valence in Werner's theory?",
+    "questionLatex": "$\\text{Define secondary valence}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Secondary valence is non-ionisable, is satisfied by ligands and is equal to the coordination number of the metal ion."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "familyId": "coordination_entity_example",
+    "questionText": "In the complex $[Co(NH_3)_6]Cl_3$, how many chloride ions are precipitated by excess $AgNO_3$ solution?",
+    "questionLatex": "$[Co(NH_3)_6]Cl_3$",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "All three chloride ions are outside the coordination sphere and are precipitated as AgCl."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Coordination Entities",
+    "familyId": "coordination_entity_definition",
+    "questionText": "Define a coordination entity.",
+    "questionLatex": "$\\text{Define coordination entity}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A coordination entity consists of a central metal atom or ion bonded to a fixed number of ions or molecules."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Central Atom and Ligands",
+    "familyId": "central_ion_identification",
+    "questionText": "Identify the central ion in the complex ion $[Fe(CN)_6]^{3-}$.",
+    "questionLatex": "$\\text{Central ion in } [Fe(CN)_6]^{3-}$",
+    "options": [
+      "$CN^-$",
+      "$Fe^{3+}$",
+      "$Fe^{2+}$",
+      "$C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The central ion in $[Fe(CN)_6]^{3-}$ is $Fe^{3+}$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "familyId": "ligand_definition",
+    "questionText": "What are ligands?",
+    "questionLatex": "$\\text{Define ligands}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ligands are ions or molecules that donate one or more lone pairs of electrons to the central metal atom or ion in a coordination entity."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "familyId": "unidentate_ligand_definition",
+    "questionText": "What is a unidentate ligand? Give one example.",
+    "questionLatex": "$\\text{Define unidentate ligand}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A unidentate ligand coordinates to the central metal atom through a single donor atom. Examples include $NH_3$, $H_2O$ and $Cl^-$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "familyId": "didentate_ligand_definition",
+    "questionText": "What is a didentate ligand? Name one didentate ligand.",
+    "questionLatex": "$\\text{Define didentate ligand}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A didentate ligand coordinates through two donor atoms simultaneously. Ethane-1,2-diamine ($en$) and oxalate ion are examples."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "familyId": "hexadentate_ligand",
+    "questionText": "Which of the following is a hexadentate ligand?",
+    "questionLatex": "$\\text{Identify the hexadentate ligand}$",
+    "options": [
+      "$NH_3$",
+      "$H_2O$",
+      "$EDTA^{4-}$",
+      "$Cl^-$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$EDTA^{4-}$ is a hexadentate ligand capable of coordinating through six donor atoms."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Chelation",
+    "familyId": "chelate_definition",
+    "questionText": "Define a chelating ligand.",
+    "questionLatex": "$\\text{Define chelating ligand}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A chelating ligand is a di- or polydentate ligand that uses two or more donor atoms simultaneously to coordinate with the same metal ion."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ambidentate Ligands",
+    "familyId": "ambidentate_definition",
+    "questionText": "What is an ambidentate ligand?",
+    "questionLatex": "$\\text{Define ambidentate ligand}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An ambidentate ligand contains two different donor atoms and can coordinate to the central metal ion through either one of them."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ambidentate Ligands",
+    "familyId": "ambidentate_examples",
+    "questionText": "Which of the following is an ambidentate ligand?",
+    "questionLatex": "$\\text{Identify the ambidentate ligand}$",
+    "options": [
+      "$NH_3$",
+      "$H_2O$",
+      "$NO_2^-$",
+      "$CO$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nitrite ion ($NO_2^-$) can coordinate through nitrogen or oxygen and is an ambidentate ligand."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Coordination Number",
+    "familyId": "coordination_number_definition",
+    "questionText": "Define coordination number of a metal ion.",
+    "questionLatex": "$\\text{Define coordination number}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The coordination number is the number of ligand donor atoms directly bonded to the central metal ion."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Coordination Number",
+    "familyId": "coordination_number_calculation",
+    "questionText": "What is the coordination number of iron in $[Fe(C_2O_4)_3]^{3-}$?",
+    "questionLatex": "$\\text{CN of Fe in } [Fe(C_2O_4)_3]^{3-}$",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Each oxalate ligand is bidentate. Therefore, three oxalate ligands contribute six donor atoms."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Coordination Sphere",
+    "familyId": "coordination_sphere_definition",
+    "questionText": "What is meant by the coordination sphere?",
+    "questionLatex": "$\\text{Define coordination sphere}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The central metal ion together with the ligands attached to it and enclosed within square brackets constitutes the coordination sphere."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Coordination Sphere",
+    "familyId": "counter_ion_identification",
+    "questionText": "Identify the counter ion in $K_4[Fe(CN)_6]$.",
+    "questionLatex": "$\\text{Counter ion in } K_4[Fe(CN)_6]$",
+    "options": [
+      "$Fe^{2+}$",
+      "$CN^-$",
+      "$K^+$",
+      "$[Fe(CN)_6]^{4-}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The potassium ions are present outside the coordination sphere and act as counter ions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "naming_cationic_complex",
+    "questionText": "Write the IUPAC name of [Co(NH3)6]Cl3.",
+    "questionLatex": "$\\text{Name } [Co(NH_3)_6]Cl_3$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Hexaamminecobalt(III) chloride"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "ligand_naming_rules",
+    "questionText": "What suffix is used while naming anionic ligands in coordination compounds?",
+    "questionLatex": "$\\text{Suffix for anionic ligands}$",
+    "options": [
+      "-ide",
+      "-ate",
+      "-o",
+      "-ium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Anionic ligands are generally named by replacing the ending with '-o', such as chloro and cyano."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "neutral_ligand_names",
+    "questionText": "What are the ligand names used for NH3 and H2O in coordination chemistry?",
+    "questionLatex": "$\\text{Names of } NH_3 \\text{ and } H_2O \\text{ ligands}$",
+    "options": [
+      "Amido and aqua",
+      "Ammine and aqua",
+      "Amino and hydroxo",
+      "Ammine and oxo"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$NH_3$ is named ammine and $H_2O$ is named aqua in coordination nomenclature."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "anionic_complex_naming",
+    "questionText": "What is the IUPAC name of K4[Fe(CN)6]?",
+    "questionLatex": "$\\text{Name } K_4[Fe(CN)_6]$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Potassium hexacyanidoferrate(II)"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "oxidation_state_calculation",
+    "questionText": "Determine the oxidation state of cobalt in [Co(NH3)5Cl]Cl2.",
+    "questionLatex": "$\\text{Oxidation state of Co in } [Co(NH_3)_5Cl]Cl_2$",
+    "options": [
+      "+1",
+      "+2",
+      "+3",
+      "+4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The complex ion has a charge of +2. Let oxidation state of Co be x. Then x + 0 - 1 = +2, giving x = +3."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Nomenclature",
+    "familyId": "coordination_number_naming",
+    "questionText": "What is the coordination number of cobalt in [Co(NH3)6]3+?",
+    "questionLatex": "$\\text{CN of Co in } [Co(NH_3)_6]^{3+}$",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Six ammonia molecules are directly attached to the cobalt ion."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Isomerism",
+    "familyId": "isomerism_definition",
+    "questionText": "What is isomerism in coordination compounds?",
+    "questionLatex": "$\\text{Define isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Isomerism is the phenomenon in which two or more coordination compounds have the same molecular formula but differ in the arrangement of atoms or ions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ionisation Isomerism",
+    "familyId": "ionisation_isomerism_definition",
+    "questionText": "What is ionisation isomerism?",
+    "questionLatex": "$\\text{Define ionisation isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ionisation isomerism arises when the counter ion and a ligand inside the coordination sphere exchange positions, producing compounds that yield different ions in solution."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ionisation Isomerism",
+    "familyId": "ionisation_isomer_example",
+    "questionText": "Which pair of compounds exhibits ionisation isomerism?",
+    "questionLatex": "$\\text{Identify ionisation isomers}$",
+    "options": [
+      "$[Co(NH_3)_5Br]SO_4 \\text{ and } [Co(NH_3)_5SO_4]Br$",
+      "$[Pt(NH_3)_2Cl_2] \\text{ and } [Pt(NH_3)_2Cl_2]$",
+      "$[Cr(H_2O)_6]Cl_3 \\text{ and } [Co(NH_3)_6]Cl_3$",
+      "$[Ni(CO)_4] \\text{ and } [Fe(CO)_5]$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "In these compounds, bromide and sulfate exchange positions between the coordination sphere and counter ion."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hydrate Isomerism",
+    "familyId": "hydrate_isomerism_definition",
+    "questionText": "What is hydrate (solvate) isomerism?",
+    "questionLatex": "$\\text{Define hydrate isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Hydrate isomerism arises when water molecules are present either inside or outside the coordination sphere in different isomeric forms of a coordination compound."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Linkage Isomerism",
+    "familyId": "linkage_isomerism_definition",
+    "questionText": "What is linkage isomerism?",
+    "questionLatex": "$\\text{Define linkage isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Linkage isomerism arises when an ambidentate ligand coordinates to the central metal ion through different donor atoms."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Linkage Isomerism",
+    "familyId": "linkage_isomer_example",
+    "questionText": "Which ligand is responsible for linkage isomerism in coordination compounds?",
+    "questionLatex": "$\\text{Ligand showing linkage isomerism}$",
+    "options": [
+      "$NH_3$",
+      "$H_2O$",
+      "$NO_2^-$",
+      "$CO$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nitrite ion ($NO_2^-$) is an ambidentate ligand and can coordinate through nitrogen or oxygen."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "familyId": "geometrical_isomerism_definition",
+    "questionText": "What is geometrical isomerism in coordination compounds?",
+    "questionLatex": "$\\text{Define geometrical isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Geometrical isomerism arises due to different spatial arrangements of ligands around the central metal ion while maintaining the same molecular formula."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "familyId": "cis_trans_square_planar",
+    "questionText": "The complex [Pt(NH3)2Cl2] exhibits which type of geometrical isomerism?",
+    "questionLatex": "$[Pt(NH_3)_2Cl_2]$",
+    "options": [
+      "Optical isomerism only",
+      "Cis-trans isomerism",
+      "Linkage isomerism",
+      "Hydrate isomerism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Square planar complexes of the type $[MA_2B_2]$ exhibit cis-trans geometrical isomerism."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "familyId": "cis_isomer_definition",
+    "questionText": "What is meant by the cis form of a coordination compound?",
+    "questionLatex": "$\\text{Define cis isomer}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In the cis isomer, two identical ligands occupy adjacent positions around the central metal ion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "familyId": "trans_isomer_definition",
+    "questionText": "What is meant by the trans form of a coordination compound?",
+    "questionLatex": "$\\text{Define trans isomer}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In the trans isomer, two identical ligands occupy positions opposite to each other around the central metal ion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Optical Isomerism",
+    "familyId": "optical_isomerism_definition",
+    "questionText": "What is optical isomerism?",
+    "questionLatex": "$\\text{Define optical isomerism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Optical isomerism is the phenomenon in which compounds exist as non-superimposable mirror images and rotate plane-polarized light in opposite directions."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Optical Isomerism",
+    "familyId": "enantiomer_definition",
+    "questionText": "What are enantiomers?",
+    "questionLatex": "$\\text{Define enantiomers}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Enantiomers are a pair of optical isomers that are non-superimposable mirror images of each other."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "familyId": "octahedral_cis_trans",
+    "questionText": "Which of the following octahedral complexes exhibits geometrical isomerism?",
+    "questionLatex": "$\\text{Identify octahedral complex showing geometrical isomerism}$",
+    "options": [
+      "$[Co(NH_3)_6]^{3+}$",
+      "$[Co(NH_3)_4Cl_2]^+$",
+      "$[Zn(NH_3)_4]^{2+}$",
+      "$[Ag(NH_3)_2]^+$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Octahedral complexes of the type $[MA_4B_2]$ exhibit cis-trans geometrical isomerism."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Optical Isomerism",
+    "familyId": "optically_active_complex",
+    "questionText": "Which of the following types of coordination compounds can exhibit optical isomerism?",
+    "questionLatex": "$\\text{Complexes exhibiting optical isomerism}$",
+    "options": [
+      "Only tetrahedral complexes",
+      "Only square planar complexes",
+      "Certain tetrahedral and octahedral complexes lacking a plane of symmetry",
+      "All coordination compounds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Optical activity is shown by complexes that are chiral and lack a plane of symmetry."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Bonding in Coordination Compounds",
+    "familyId": "valence_bond_theory_definition",
+    "questionText": "State the basic postulate of Valence Bond Theory (VBT) for coordination compounds.",
+    "questionLatex": "$\\text{Basic postulate of Valence Bond Theory}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to Valence Bond Theory, the central metal atom or ion provides vacant hybrid orbitals into which ligands donate lone pairs of electrons to form coordinate bonds."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hybridisation",
+    "familyId": "coordination_number_four",
+    "questionText": "A coordination number of 4 may lead to which geometries according to VBT?",
+    "questionLatex": "$\\text{Geometries for coordination number 4}$",
+    "options": [
+      "Linear and trigonal planar",
+      "Square planar and tetrahedral",
+      "Octahedral and tetrahedral",
+      "Trigonal bipyramidal and square pyramidal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Coordination number 4 complexes may exhibit either tetrahedral ($sp^3$) or square planar ($dsp^2$) geometry."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hybridisation",
+    "familyId": "tetrahedral_hybridisation",
+    "questionText": "The hybridisation of the central metal ion in a tetrahedral complex is:",
+    "questionLatex": "$\\text{Hybridisation in tetrahedral complexes}$",
+    "options": [
+      "$dsp^2$",
+      "$sp^3$",
+      "$d^2sp^3$",
+      "$sp^3d^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tetrahedral complexes are formed using $sp^3$ hybrid orbitals."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hybridisation",
+    "familyId": "square_planar_hybridisation",
+    "questionText": "The hybridisation of the central metal ion in square planar complexes is:",
+    "questionLatex": "$\\text{Hybridisation in square planar complexes}$",
+    "options": [
+      "$sp^3$",
+      "$dsp^2$",
+      "$d^2sp^3$",
+      "$sp^3d$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Square planar complexes are formed through $dsp^2$ hybridisation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Octahedral Complexes",
+    "familyId": "octahedral_hybridisation",
+    "questionText": "Which hybridisation is associated with an inner orbital octahedral complex?",
+    "questionLatex": "$\\text{Hybridisation of inner orbital octahedral complex}$",
+    "options": [
+      "$sp^3$",
+      "$dsp^2$",
+      "$d^2sp^3$",
+      "$sp^3d^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Inner orbital octahedral complexes use two inner d-orbitals and exhibit $d^2sp^3$ hybridisation."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Octahedral Complexes",
+    "familyId": "outer_orbital_complex",
+    "questionText": "Outer orbital octahedral complexes exhibit which hybridisation?",
+    "questionLatex": "$\\text{Hybridisation of outer orbital octahedral complex}$",
+    "options": [
+      "$d^2sp^3$",
+      "$dsp^2$",
+      "$sp^3$",
+      "$sp^3d^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Outer orbital octahedral complexes utilize outer d-orbitals and exhibit $sp^3d^2$ hybridisation."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Magnetic Properties",
+    "familyId": "strong_field_ligand",
+    "questionText": "Which of the following is a strong field ligand?",
+    "questionLatex": "$\\text{Identify the strong field ligand}$",
+    "options": [
+      "$F^-$",
+      "$Cl^-$",
+      "$CN^-$",
+      "$Br^-$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$CN^-$ is a strong field ligand that can pair electrons in d-orbitals."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Magnetic Properties",
+    "familyId": "weak_field_ligand",
+    "questionText": "Which of the following is a weak field ligand?",
+    "questionLatex": "$\\text{Identify the weak field ligand}$",
+    "options": [
+      "$CO$",
+      "$CN^-$",
+      "$NH_3$",
+      "$F^-$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Fluoride ion ($F^-$) is a weak field ligand and generally does not cause electron pairing."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "familyId": "cft_basic_postulate",
+    "questionText": "According to Crystal Field Theory, what causes the splitting of d-orbitals?",
+    "questionLatex": "$\\text{Cause of d-orbital splitting}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to Crystal Field Theory, the electrostatic interaction between ligands and the central metal ion causes the degeneracy of d-orbitals to be removed, resulting in orbital splitting."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "familyId": "octahedral_splitting",
+    "questionText": "In an octahedral crystal field, the five d-orbitals split into which two sets?",
+    "questionLatex": "$\\text{d} \\rightarrow t_{2g} + e_g$",
+    "options": [
+      "$sp^2$ and $sp^3$",
+      "$t_{2g}$ and $e_g$",
+      "$d_{xy}$ and $d_{z^2}$",
+      "$\\pi$ and $\\sigma$ orbitals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In an octahedral field, d-orbitals split into lower-energy $t_{2g}$ and higher-energy $e_g$ sets."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

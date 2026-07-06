@@ -1,0 +1,1180 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Introduction to the Living World",
+    "familyId": "living_world_definition",
+    "questionText": "Biology is the science that primarily deals with:",
+    "questionLatex": "\\text{Biology is the science that primarily deals with:}",
+    "options": [
+      "Non-living matter and energy",
+      "Life forms and living processes",
+      "Chemical reactions only",
+      "Astronomical bodies"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biology is the branch of science concerned with life forms and living processes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Biodiversity",
+    "familyId": "known_species_count",
+    "questionText": "Approximately how many species have been identified and described worldwide?",
+    "questionLatex": "\\text{Approximately how many species have been identified and described worldwide?}",
+    "options": [
+      "0.5-0.8 million",
+      "1.0-1.2 million",
+      "1.7-1.8 million",
+      "3.5-4.0 million"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The number of known and described species ranges between 1.7 and 1.8 million."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Biodiversity",
+    "familyId": "define_biodiversity",
+    "questionText": "What is meant by biodiversity?",
+    "questionLatex": "\\text{What is meant by biodiversity?}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Biodiversity refers to the number and variety of living organisms (species) present on Earth."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Nomenclature",
+    "familyId": "need_for_nomenclature",
+    "questionText": "Why is scientific nomenclature necessary for living organisms?",
+    "questionLatex": "\\text{Why is scientific nomenclature necessary for living organisms?}",
+    "options": [
+      "To assign local names",
+      "To provide a universal and unique name for every organism",
+      "To increase the number of species",
+      "To replace classification"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Scientific nomenclature ensures that every organism has one universally accepted name."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Identification",
+    "familyId": "identification_definition",
+    "questionText": "Identification refers to:",
+    "questionLatex": "\\text{Identification refers to:}",
+    "options": [
+      "Grouping organisms into kingdoms",
+      "Correctly recognizing and describing an organism before assigning its scientific name",
+      "Studying fossils",
+      "Naming only plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Identification involves correctly recognizing and describing an organism before assigning a scientific name."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "International Codes",
+    "familyId": "icbn_full_form",
+    "questionText": "The abbreviation ICBN stands for:",
+    "questionLatex": "\\text{The abbreviation ICBN stands for:}",
+    "options": [
+      "International Code of Biological Nomenclature",
+      "International Code for Botanical Nomenclature",
+      "Indian Council of Botanical Names",
+      "International Classification of Biological Names"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ICBN stands for International Code for Botanical Nomenclature."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "International Codes",
+    "familyId": "iczn_full_form",
+    "questionText": "Which international code governs the scientific naming of animals?",
+    "questionLatex": "\\text{Which international code governs the scientific naming of animals?}",
+    "options": [
+      "ICBN",
+      "ICZN",
+      "IUCN",
+      "ICAR"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ICZN (International Code of Zoological Nomenclature) governs animal nomenclature."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Binomial Nomenclature",
+    "familyId": "binomial_definition",
+    "questionText": "Binomial nomenclature is the system of naming organisms using:",
+    "questionLatex": "\\text{Binomial nomenclature is the system of naming organisms using:}",
+    "options": [
+      "One Latin word",
+      "Two components: genus and specific epithet",
+      "Three scientific names",
+      "Only the family name"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Binomial nomenclature assigns two names: the genus and the specific epithet."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Scientific Names",
+    "familyId": "mango_scientific_name",
+    "questionText": "Which of the following is the correct scientific name of mango?",
+    "questionLatex": "\\text{Which of the following is the correct scientific name of mango?}",
+    "options": [
+      "mangifera Indica",
+      "Mangifera Indica",
+      "Mangifera indica",
+      "Mangifera INDICA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The genus begins with a capital letter and the specific epithet with a small letter."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Binomial Nomenclature Rules",
+    "familyId": "scientific_name_rules",
+    "questionText": "State any three universal rules followed while writing biological names.",
+    "questionLatex": "\\text{State any three universal rules followed while writing biological names.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The universal rules of nomenclature are: (i) Biological names are generally in Latin and written in italics. (ii) The first word represents the genus while the second component denotes the specific epithet. (iii) Both the words in a biological name, when handwritten, are separately underlined, or printed in italics to indicate their Latin origin. (iv) The first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Scientific Names",
+    "familyId": "author_name_in_nomenclature",
+    "questionText": "What does the abbreviated author's name written after a scientific name indicate?",
+    "questionLatex": "\\text{What does the abbreviated author's name written after a scientific name indicate?}",
+    "options": [
+      "The habitat of the organism",
+      "The scientist who first described the species",
+      "The kingdom of the organism",
+      "The year of discovery"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The abbreviated author's name indicates the scientist who first validly described the species."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Scientific Names",
+    "familyId": "linn_abbreviation",
+    "questionText": "In the scientific name Mangifera indica Linn., the term 'Linn.' refers to:",
+    "questionLatex": "\\text{In the scientific name } \\textit{Mangifera indica} \\text{ Linn., the term 'Linn.' refers to:}",
+    "options": [
+      "The species",
+      "The genus",
+      "Carolus Linnaeus, who first described the species",
+      "The family"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The abbreviated author name 'Linn.' denotes Carolus Linnaeus, who first described the species."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Classification",
+    "familyId": "classification_definition",
+    "questionText": "Define classification in biology.",
+    "questionLatex": "\\text{Define classification in biology.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Classification is the process of grouping organisms into convenient categories based on easily observable characters."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxa",
+    "familyId": "taxa_meaning",
+    "questionText": "The scientific term used for categories of organisms such as plants, mammals and wheat is:",
+    "questionLatex": "\\text{The scientific term used for categories of organisms such as plants, mammals and wheat is:}",
+    "options": [
+      "Species",
+      "Taxa",
+      "Phyla",
+      "Divisions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Scientific categories used in classification are called taxa (singular: taxon)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomy",
+    "familyId": "taxonomy_definition",
+    "questionText": "Taxonomy is the branch of biology concerned with:",
+    "questionLatex": "\\text{Taxonomy is the branch of biology concerned with:}",
+    "options": [
+      "Photosynthesis only",
+      "Classification of ecosystems",
+      "Identification, nomenclature and classification of organisms",
+      "Evolution of stars"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Taxonomy includes the identification, nomenclature and classification of organisms."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomy",
+    "familyId": "modern_taxonomy_basis",
+    "questionText": "Which of the following form the basis of modern taxonomic studies?",
+    "questionLatex": "\\text{Which of the following form the basis of modern taxonomic studies?}",
+    "options": [
+      "Only external morphology",
+      "Only ecological information",
+      "External and internal structure, cell structure, developmental process and ecological information",
+      "Only reproductive characters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Modern taxonomy is based on external and internal structure, cell structure, developmental process and ecological information."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomy",
+    "familyId": "basic_processes_taxonomy",
+    "questionText": "Name the four basic processes that form the foundation of taxonomy.",
+    "questionLatex": "\\text{Name the four basic processes that form the foundation of taxonomy.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Characterisation, identification, classification and nomenclature are the four basic processes of taxonomy."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Systematics",
+    "familyId": "systematics_definition",
+    "questionText": "Systematics is best defined as the branch of biology that studies:",
+    "questionLatex": "\\text{Systematics is best defined as the branch of biology that studies:}",
+    "options": [
+      "Only plant morphology",
+      "Only animal physiology",
+      "Identification, nomenclature, classification and evolutionary relationships among organisms",
+      "Microbial diseases only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Systematics includes identification, nomenclature, classification and evolutionary relationships."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Systematics",
+    "familyId": "systema_naturae",
+    "questionText": "The publication titled 'Systema Naturae' was written by:",
+    "questionLatex": "\\text{The publication titled } \\textit{Systema Naturae} \\text{ was written by:}",
+    "options": [
+      "Charles Darwin",
+      "Ernst Mayr",
+      "Carolus Linnaeus",
+      "Gregor Mendel"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Carolus Linnaeus published Systema Naturae, a landmark work in taxonomy."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Systematics",
+    "familyId": "systema_meaning",
+    "questionText": "The word 'systematics' is derived from the Latin word 'systema', which means:",
+    "questionLatex": "\\text{The word 'systematics' is derived from the Latin word 'systema', which means:}",
+    "options": [
+      "Scientific observation",
+      "Systematic arrangement of organisms",
+      "Study of cells",
+      "Natural evolution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Latin word 'systema' means systematic arrangement of organisms."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Hierarchy",
+    "familyId": "taxonomic_category_definition",
+    "questionText": "What is a taxonomic category?",
+    "questionLatex": "$$\\text{What is a taxonomic category?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A taxonomic category is a rank or unit of classification that forms part of the overall taxonomic hierarchy."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Hierarchy",
+    "familyId": "taxonomic_hierarchy_definition",
+    "questionText": "The arrangement of all taxonomic categories in a definite sequence is known as:",
+    "questionLatex": "$$\\text{The arrangement of all taxonomic categories in a definite sequence is known as:}$$",
+    "options": [
+      "Binomial nomenclature",
+      "Taxonomic hierarchy",
+      "Evolutionary series",
+      "Biological spectrum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ordered arrangement of taxonomic categories is called the taxonomic hierarchy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Species",
+    "familyId": "species_definition",
+    "questionText": "Define species according to taxonomic studies.",
+    "questionLatex": "$$\\text{Define species according to taxonomic studies.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A species is a group of individual organisms with fundamental similarities that can be distinguished from closely related species based on distinct morphological differences."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Species",
+    "familyId": "lowest_taxonomic_category",
+    "questionText": "The lowest taxonomic category in the classification hierarchy is:",
+    "questionLatex": "$$\\text{The lowest taxonomic category in the classification hierarchy is:}$$",
+    "options": [
+      "Genus",
+      "Family",
+      "Species",
+      "Order"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Species is the basic and lowest unit of classification."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Genus",
+    "familyId": "genus_definition",
+    "questionText": "Which of the following best describes a genus?",
+    "questionLatex": "$$\\text{Which of the following best describes a genus?}$$",
+    "options": [
+      "A group of unrelated species",
+      "A group of closely related species sharing many common characters",
+      "A collection of different families",
+      "The highest taxonomic category"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A genus consists of closely related species that share many common characteristics."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Genus",
+    "familyId": "solanum_examples",
+    "questionText": "Potato and brinjal belong to the same genus. Identify the genus.",
+    "questionLatex": "$$\\text{Potato and brinjal belong to the same genus. Identify the genus.}$$",
+    "options": [
+      "Panthera",
+      "Felis",
+      "Solanum",
+      "Poaceae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Potato (Solanum tuberosum) and brinjal (Solanum melongena) belong to the genus Solanum."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Genus",
+    "familyId": "panthera_members",
+    "questionText": "Which of the following animals belongs to the genus Panthera?",
+    "questionLatex": "$$\\text{Which of the following animals belongs to the genus Panthera?}$$",
+    "options": [
+      "House cat",
+      "Lion",
+      "Wolf",
+      "Fox"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lion (Panthera leo) belongs to the genus Panthera."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Scientific Names",
+    "familyId": "human_scientific_name",
+    "questionText": "The correct scientific name of human beings is:",
+    "questionLatex": "$$\\text{The correct scientific name of human beings is:}$$",
+    "options": [
+      "Homo Sapiens",
+      "Homo sapiens",
+      "homo sapiens",
+      "Homo Sapien"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The scientific name of humans is Homo sapiens, with the genus capitalized and the species written in lowercase."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Family",
+    "familyId": "family_definition",
+    "questionText": "What is meant by a family in biological classification?",
+    "questionLatex": "$$\\text{What is meant by a family in biological classification?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A family is a taxonomic category that includes a group of related genera sharing fewer similarities than members of the same genus."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Family",
+    "familyId": "solanaceae_members",
+    "questionText": "Which set of genera belongs to the family Solanaceae?",
+    "questionLatex": "$$\\text{Which set of genera belongs to the family Solanaceae?}$$",
+    "options": [
+      "Mangifera, Triticum and Homo",
+      "Solanum, Petunia and Datura",
+      "Panthera, Felis and Canis",
+      "Musca, Homo and Solanum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The plant genera Solanum, Petunia and Datura are members of the family Solanaceae."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Family",
+    "familyId": "felidae_family",
+    "questionText": "The genera Panthera and Felis are placed together in which animal family?",
+    "questionLatex": "$$\\text{The genera } \\textit{Panthera} \\text{ and } \\textit{Felis} \\text{ are placed together in which animal family?}$$",
+    "options": [
+      "Canidae",
+      "Felidae",
+      "Hominidae",
+      "Muscidae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The genera Panthera (lion, tiger, leopard) and Felis (cats) belong to the family Felidae."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Family",
+    "familyId": "cat_dog_families",
+    "questionText": "Cats and dogs belong to different families. Which of the following correctly represents their families?",
+    "questionLatex": "$$\\text{Cats and dogs belong to different families. Which of the following correctly represents their families?}$$",
+    "options": [
+      "Cats - Canidae; Dogs - Felidae",
+      "Cats - Felidae; Dogs - Canidae",
+      "Cats - Hominidae; Dogs - Felidae",
+      "Cats - Felidae; Dogs - Muscidae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cats belong to the family Felidae, whereas dogs belong to the family Canidae."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Order",
+    "familyId": "order_definition",
+    "questionText": "Define the taxonomic category 'Order'.",
+    "questionLatex": "$$\\text{Define the taxonomic category 'Order'.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Order is a higher taxonomic category consisting of one or more related families that share a few common characteristics."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Order",
+    "familyId": "carnivora_order",
+    "questionText": "The animal order Carnivora includes which of the following families?",
+    "questionLatex": "$$\\text{The animal order Carnivora includes which of the following families?}$$",
+    "options": [
+      "Felidae and Canidae",
+      "Poaceae and Solanaceae",
+      "Hominidae and Muscidae",
+      "Anacardiaceae and Poaceae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The order Carnivora includes families such as Felidae and Canidae."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Order",
+    "familyId": "plant_order_example",
+    "questionText": "According to the NCERT text, the plant families Convolvulaceae and Solanaceae are placed under which order?",
+    "questionLatex": "$$\\text{According to the NCERT text, the plant families Convolvulaceae and Solanaceae are placed under which order?}$$",
+    "options": [
+      "Poales",
+      "Sapindales",
+      "Polymoniales",
+      "Primata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The NCERT text places Convolvulaceae and Solanaceae in the order Polymoniales based mainly on floral characters."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Class",
+    "familyId": "class_definition",
+    "questionText": "What is a class in biological classification?",
+    "questionLatex": "$$\\text{What is a class in biological classification?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A class is a taxonomic category consisting of related orders that share common characteristics."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Class",
+    "familyId": "mammalia_examples",
+    "questionText": "Which of the following orders are included in the class Mammalia according to the chapter?",
+    "questionLatex": "$$\\text{Which of the following orders are included in the class Mammalia according to the chapter?}$$",
+    "options": [
+      "Diptera and Poales",
+      "Primata and Carnivora",
+      "Sapindales and Poales",
+      "Carnivora and Diptera"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The class Mammalia includes orders such as Primata and Carnivora."
+    }, 
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Phylum",
+    "familyId": "phylum_definition",
+    "questionText": "Which statement correctly defines a phylum?",
+    "questionLatex": "$$\\text{Which statement correctly defines a phylum?}$$",
+    "options": [
+      "A group of related genera",
+      "A group of related species",
+      "A higher taxonomic category consisting of related classes",
+      "The lowest unit of classification"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A phylum is a higher taxonomic category that includes related classes sharing fundamental characteristics."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Phylum",
+    "familyId": "chordata_characteristics",
+    "questionText": "Animals are placed under the phylum Chordata primarily because they possess:",
+    "questionLatex": "$$\\text{Animals are placed under the phylum Chordata primarily because they possess:}$$",
+    "options": [
+      "Jointed appendages",
+      "A notochord and a dorsal hollow neural system",
+      "Wings and feathers",
+      "External ears and body hair only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The presence of a notochord and a dorsal hollow neural system are characteristic features of Chordata."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Division",
+    "familyId": "division_plants",
+    "questionText": "In plants, the taxonomic category corresponding to phylum in animals is called:",
+    "questionLatex": "$$\\text{In plants, the taxonomic category corresponding to phylum in animals is called:}$$",
+    "options": [
+      "Order",
+      "Division",
+      "Class",
+      "Genus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In plant taxonomy, the category equivalent to phylum is known as division."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Kingdom",
+    "familyId": "kingdom_definition",
+    "questionText": "What is meant by the taxonomic category 'Kingdom'?",
+    "questionLatex": "$$\\text{What is meant by the taxonomic category 'Kingdom'?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Kingdom is the highest taxonomic category that includes related phyla in animals or divisions in plants."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Kingdom",
+    "familyId": "animalia_plantae",
+    "questionText": "Which of the following correctly matches the kingdoms with the organisms they include?",
+    "questionLatex": "$$\\text{Which of the following correctly matches the kingdoms with the organisms they include?}$$",
+    "options": [
+      "Kingdom Animalia - All plants; Kingdom Plantae - All animals",
+      "Kingdom Animalia - All animals; Kingdom Plantae - All plants",
+      "Kingdom Animalia - Only mammals; Kingdom Plantae - Only flowering plants",
+      "Kingdom Animalia - Fungi; Kingdom Plantae - Protists"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Kingdom Animalia includes all animals, whereas Kingdom Plantae includes all plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Hierarchy",
+    "familyId": "ascending_hierarchy",
+    "questionText": "Arrange the following taxonomic categories in ascending order.",
+    "questionLatex": "$$\\text{Arrange the following taxonomic categories in ascending order.}$$",
+    "options": [
+      "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species",
+      "Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom",
+      "Genus -> Species -> Family -> Order -> Class -> Kingdom -> Phylum",
+      "Species -> Family -> Genus -> Order -> Class -> Kingdom -> Phylum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ascending taxonomic hierarchy is Species -> Genus -> Family -> Order -> Class -> Phylum (Division in plants) -> Kingdom."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Hierarchy",
+    "familyId": "common_characteristics",
+    "questionText": "As we move from species towards kingdom in the taxonomic hierarchy, the number of common characteristics among organisms:",
+    "questionLatex": "$$\\text{As we move from species towards kingdom, the number of common characteristics among organisms:}$$",
+    "options": [
+      "Increases",
+      "Remains the same",
+      "Decreases",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Higher taxonomic categories contain organisms with fewer common characteristics."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Hierarchy",
+    "familyId": "lower_taxa_features",
+    "questionText": "Why do organisms belonging to lower taxa share more characteristics than those in higher taxa?",
+    "questionLatex": "$$\\text{Why do organisms belonging to lower taxa share more characteristics than those in higher taxa?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Lower taxa consist of closely related organisms and therefore their members share a greater number of common characteristics than organisms placed in higher taxonomic categories."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Examples",
+    "familyId": "housefly_class",
+    "questionText": "According to the taxonomic table given in the chapter, the class of the housefly (Musca domestica) is:",
+    "questionLatex": "$$\\text{The class of } \\textit{Musca domestica} \\text{ is:}$$",
+    "options": [
+      "Mammalia",
+      "Insecta",
+      "Chordata",
+      "Diptera"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The housefly belongs to the class Insecta and the order Diptera."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Examples",
+    "familyId": "wheat_family",
+    "questionText": "The family of wheat (Triticum aestivum) is:",
+    "questionLatex": "$$\\text{The family of } \\textit{Triticum aestivum} \\text{ is:}$$",
+    "options": [
+      "Anacardiaceae",
+      "Poaceae",
+      "Solanaceae",
+      "Hominidae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Wheat belongs to the family Poaceae."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Examples",
+    "familyId": "mango_order",
+    "questionText": "The order to which mango (Mangifera indica) belongs is:",
+    "questionLatex": "$$\\text{The order of } \\textit{Mangifera indica} \\text{ is:}$$",
+    "options": [
+      "Poales",
+      "Sapindales",
+      "Diptera",
+      "Primata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mangifera indica belongs to the order Sapindales."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Taxonomic Examples",
+    "familyId": "human_phylum",
+    "questionText": "The phylum of human beings (Homo sapiens) is:",
+    "questionLatex": "$$\\text{The phylum of } \\textit{Homo sapiens} \\text{ is:}$$",
+    "options": [
+      "Arthropoda",
+      "Mollusca",
+      "Chordata",
+      "Annelida"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Humans belong to the phylum Chordata."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "The Living World",
+    "topic": "Applications of Taxonomy",
+    "familyId": "importance_taxonomy",
+    "questionText": "Mention any two practical applications of taxonomic studies highlighted in the chapter.",
+    "questionLatex": "$$\\text{Mention any two practical applications of taxonomic studies highlighted in the chapter.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Taxonomic studies are useful in agriculture, forestry, industry and in understanding bio-resources and their diversity. Any two of these are acceptable."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

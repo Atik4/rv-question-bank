@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth",
+    "familyId": "growth_definition",
+    "questionText": "Growth in plants is best defined as:",
+    "questionLatex": "\\text{Growth in plants is best defined as:}",
+    "options": [
+      "Temporary increase in size due to water absorption",
+      "Irreversible permanent increase in size of an organ, its parts or an individual cell",
+      "Increase in chlorophyll content only",
+      "Formation of flowers and fruits"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Growth is defined as an irreversible permanent increase in size of an organ, its parts or even an individual cell and is accompanied by metabolic processes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth",
+    "familyId": "plant_growth_characteristic",
+    "questionText": "Plant growth is generally described as:",
+    "questionLatex": "\\text{Plant growth is generally described as:}",
+    "options": [
+      "Determinate",
+      "Limited",
+      "Indeterminate",
+      "Seasonal only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plants possess meristems that retain the capacity for continuous division, resulting in indeterminate growth."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Meristems",
+    "familyId": "open_growth",
+    "questionText": "The open form of growth in plants is due to the activity of:",
+    "questionLatex": "\\text{The open form of growth in plants is due to the activity of:}",
+    "options": [
+      "Permanent tissues",
+      "Meristematic tissues",
+      "Epidermal cells",
+      "Sclerenchyma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meristematic tissues continuously divide and add new cells to the plant body, resulting in open growth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Primary Growth",
+    "familyId": "primary_growth",
+    "questionText": "Primary growth in plants mainly results in:",
+    "questionLatex": "\\text{Primary growth in plants mainly results in:}",
+    "options": [
+      "Increase in girth",
+      "Increase in length of roots and shoots",
+      "Formation of bark",
+      "Development of heartwood"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Root and shoot apical meristems are responsible for elongation during primary growth."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Secondary Growth",
+    "familyId": "secondary_growth",
+    "questionText": "Secondary growth in dicotyledonous plants is brought about mainly by:",
+    "questionLatex": "\\text{Secondary growth in dicotyledonous plants is brought about mainly by:}",
+    "options": [
+      "Root apical meristem",
+      "Shoot apical meristem",
+      "Vascular cambium and cork cambium",
+      "Intercalary meristem only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Lateral meristems such as vascular cambium and cork cambium increase the girth of plant organs."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Measurement",
+    "familyId": "growth_measurement",
+    "questionText": "Plant growth may be measured using all of the following parameters EXCEPT:",
+    "questionLatex": "\\text{Plant growth may be measured using all of the following parameters EXCEPT:}",
+    "options": [
+      "Fresh weight",
+      "Dry weight",
+      "Cell number",
+      "Leaf colour"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Growth is measured by increase in fresh weight, dry weight, length, area, volume or cell number, not by leaf colour."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Phases of Growth",
+    "familyId": "growth_phases",
+    "questionText": "The correct sequence of phases of plant growth is:",
+    "questionLatex": "\\text{The correct sequence of phases of plant growth is:}",
+    "options": [
+      "Maturation → Elongation → Meristematic",
+      "Meristematic → Elongation → Maturation",
+      "Elongation → Meristematic → Maturation",
+      "Meristematic → Maturation → Elongation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The three phases of growth are meristematic, elongation and maturation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Meristematic Phase",
+    "familyId": "meristematic_cells",
+    "questionText": "Cells of the meristematic phase are characterized by:",
+    "questionLatex": "\\text{Cells of the meristematic phase are characterized by:}",
+    "options": [
+      "Large vacuoles and thick secondary walls",
+      "Rich protoplasm, large nuclei and thin cellulosic walls",
+      "Lignified walls and dead protoplasm",
+      "Highly vacuolated mature cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meristematic cells possess dense cytoplasm, large nuclei, thin primary cell walls and abundant plasmodesmata."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Elongation Phase",
+    "familyId": "elongation_phase",
+    "questionText": "Which of the following is a characteristic feature of the elongation phase of growth?",
+    "questionLatex": "\\text{Which of the following is a characteristic feature of the elongation phase of growth?}",
+    "options": [
+      "Rapid cell division only",
+      "Increased vacuolation and cell enlargement",
+      "Complete lignification",
+      "Cell death"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cells in the elongation phase show increased vacuolation, enlargement and new cell wall deposition."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Maturation Phase",
+    "familyId": "maturation_phase",
+    "questionText": "Cells in the maturation phase attain their maximum size mainly because of:",
+    "questionLatex": "\\text{Cells in the maturation phase attain their maximum size mainly because of:}",
+    "options": [
+      "Continuous mitotic divisions",
+      "Wall thickening and protoplasmic modifications",
+      "Loss of nucleus",
+      "Formation of cambium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During maturation, cells attain maximum size and undergo wall thickening and protoplasmic modifications to perform specialized functions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Rates",
+    "familyId": "growth_rate_definition",
+    "questionText": "The increase in growth per unit time is known as:",
+    "questionLatex": "\\text{The increase in growth per unit time is known as:}",
+    "options": [
+      "Development",
+      "Differentiation",
+      "Growth rate",
+      "Maturation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Growth rate refers to the increase in growth occurring per unit time."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Arithmetic Growth",
+    "familyId": "arithmetic_growth",
+    "questionText": "In arithmetic growth, after mitotic cell division:",
+    "questionLatex": "\\text{In arithmetic growth, after mitotic cell division:}",
+    "options": [
+      "Both daughter cells continue to divide",
+      "Neither daughter cell divides further",
+      "One daughter cell continues to divide while the other differentiates",
+      "Both daughter cells immediately mature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Arithmetic growth occurs when only one daughter cell continues dividing while the other undergoes differentiation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Arithmetic Growth",
+    "familyId": "arithmetic_example",
+    "questionText": "A classic example of arithmetic growth in plants is:",
+    "questionLatex": "\\text{A classic example of arithmetic growth in plants is:}",
+    "options": [
+      "Leaf expansion",
+      "Root elongation at a constant rate",
+      "Fruit ripening",
+      "Secondary growth"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "NCERT describes constant root elongation as the simplest example of arithmetic growth."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Geometric Growth",
+    "familyId": "geometric_growth",
+    "questionText": "In geometric growth, after mitotic division:",
+    "questionLatex": "\\text{In geometric growth, after mitotic division:}",
+    "options": [
+      "Only one daughter cell divides",
+      "Both daughter cells retain the capacity to divide",
+      "Cells immediately become mature",
+      "Cells undergo senescence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During geometric growth, both daughter cells continue to divide, leading to exponential growth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Curve",
+    "familyId": "sigmoid_curve",
+    "questionText": "The typical growth curve shown by plant organs under natural conditions is:",
+    "questionLatex": "\\text{The typical growth curve shown by plant organs is:}",
+    "options": [
+      "Parabolic curve",
+      "Straight line",
+      "Sigmoid (S-shaped) curve",
+      "Circular curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plant growth generally follows a sigmoid (S-shaped) curve consisting of lag, exponential and stationary phases."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Curve",
+    "familyId": "growth_curve_phase",
+    "questionText": "Which phase of the sigmoid growth curve is characterized by rapid exponential increase?",
+    "questionLatex": "\\text{Which phase of the sigmoid growth curve is characterized by rapid exponential increase?}",
+    "options": [
+      "Lag phase",
+      "Stationary phase",
+      "Exponential (log) phase",
+      "Maturation phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The exponential or log phase represents the period of maximum growth rate."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Rate",
+    "familyId": "absolute_growth_rate",
+    "questionText": "Measurement and comparison of total growth per unit time is called:",
+    "questionLatex": "\\text{Measurement and comparison of total growth per unit time is called:}",
+    "options": [
+      "Relative growth rate",
+      "Absolute growth rate",
+      "Arithmetic growth",
+      "Efficiency index"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Absolute growth rate refers to the total increase in growth per unit time."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Growth Rate",
+    "familyId": "relative_growth_rate",
+    "questionText": "Growth expressed per unit initial parameter of the plant is known as:",
+    "questionLatex": "\\text{Growth expressed per unit initial parameter is known as:}",
+    "options": [
+      "Absolute growth rate",
+      "Relative growth rate",
+      "Primary growth",
+      "Secondary growth"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Relative growth rate is growth per unit initial size and is an indicator of growth efficiency."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Conditions for Growth",
+    "familyId": "growth_conditions",
+    "questionText": "Which of the following is NOT an essential condition for plant growth?",
+    "questionLatex": "\\text{Which of the following is NOT an essential condition for plant growth?}",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Nutrients",
+      "High salt concentration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Water, oxygen, nutrients and optimum environmental conditions are essential for growth. High salt concentration inhibits growth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Conditions for Growth",
+    "familyId": "water_role_growth",
+    "questionText": "Water is essential for plant growth primarily because it:",
+    "questionLatex": "\\text{Water is essential for plant growth primarily because it:}",
+    "options": [
+      "Provides chlorophyll",
+      "Maintains cell turgidity and serves as a medium for enzymatic activities",
+      "Supplies atmospheric nitrogen",
+      "Acts as a plant hormone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Water maintains cell turgidity required for cell enlargement and provides the medium for metabolic reactions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Differentiation",
+    "familyId": "differentiation_definition",
+    "questionText": "Differentiation in plants refers to the process by which cells:",
+    "questionLatex": "\\text{Differentiation in plants refers to the process by which cells:}",
+    "options": [
+      "Increase only in size",
+      "Lose water continuously",
+      "Become structurally and functionally specialized",
+      "Undergo repeated mitotic divisions indefinitely"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Differentiation is the process through which cells mature and undergo structural and functional changes to become specialized for specific functions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Dedifferentiation",
+    "familyId": "dedifferentiation_definition",
+    "questionText": "Dedifferentiation is the process in which:",
+    "questionLatex": "\\text{Dedifferentiation is the process in which:}",
+    "options": [
+      "Meristematic cells become permanent tissues",
+      "Permanent cells regain the capacity to divide",
+      "Cells permanently lose their nuclei",
+      "Cells stop metabolic activities"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During dedifferentiation, mature living cells that have lost the capacity to divide regain the ability to divide under specific conditions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Dedifferentiation",
+    "familyId": "dedifferentiation_examples",
+    "questionText": "Which of the following tissues is formed due to dedifferentiation?",
+    "questionLatex": "\\text{Which of the following tissues is formed due to dedifferentiation?}",
+    "options": [
+      "Xylem vessels",
+      "Cork cambium and interfascicular cambium",
+      "Companion cells",
+      "Sclerenchyma fibres"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Interfascicular cambium and cork cambium are formed by fully differentiated, permanent parenchyma cells regaining their power of division."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Redifferentiation",
+    "familyId": "redifferentiation_definition",
+    "questionText": "Redifferentiation is the process by which:",
+    "questionLatex": "\\text{Redifferentiation is the process by which:}",
+    "options": [
+      "Meristematic cells become dead",
+      "Dedifferentiated cells mature again to perform specific functions",
+      "Cells lose their nuclei",
+      "Only xylem elements are formed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cells produced by dedifferentiated tissues lose their capacity to divide once again and mature to perform specific functions, which is termed redifferentiation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Development",
+    "familyId": "development_definition",
+    "questionText": "Plant development includes:",
+    "questionLatex": "\\text{Plant development includes:}",
+    "options": [
+      "Only growth",
+      "Only differentiation",
+      "Growth, differentiation and maturation",
+      "Only secondary growth"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Development is a comprehensive term that includes all changes an organism goes through during its life cycle, comprising growth, differentiation, and maturation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plasticity",
+    "familyId": "plasticity_definition",
+    "questionText": "The ability of plants to follow different pathways in response to environmental conditions or life phases is called:",
+    "questionLatex": "\\text{The ability of plants to follow different developmental pathways is called:}",
+    "options": [
+      "Respiration",
+      "Plasticity",
+      "Translocation",
+      "Senescence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plasticity is the ability of plants to alter their development along different pathways in response to environment or phases of life to form different kinds of structures."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plasticity",
+    "familyId": "heterophylly_example",
+    "questionText": "Heterophylly is considered an example of:",
+    "questionLatex": "\\text{Heterophylly is considered an example of:}",
+    "options": [
+      "Dedifferentiation",
+      "Plasticity",
+      "Secondary growth",
+      "Senescence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heterophylly (the presence of more than one type of leaf on the same plant) is a manifestation of plasticity due to different phases of life or environmental responses."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plasticity",
+    "familyId": "heterophylly_examples",
+    "questionText": "Which of the following plants exhibits developmental heterophylly as described in NCERT?",
+    "questionLatex": "\\text{Which of the following plants exhibits developmental heterophylly?}$",
+    "options": [
+      "Mango",
+      "Cotton",
+      "Buttercup",
+      "Neem"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to NCERT, cotton, coriander, and larkspur exhibit developmental heterophylly due to phases of life, whereas buttercup exhibits environmental heterophylly."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "familyId": "pgr_definition",
+    "questionText": "Plant Growth Regulators (PGRs) are best described as:",
+    "questionLatex": "\\text{Plant Growth Regulators (PGRs) are best described as:}",
+    "options": [
+      "Mineral nutrients required in large quantities",
+      "Organic compounds, other than nutrients, produced naturally that influence physiological processes at low concentrations",
+      "Enzymes involved in respiration",
+      "Structural proteins present in cell walls"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plant growth regulators are simple chemical organic substances of diverse chemical composition that modify or control plant physiological processes at very low concentrations."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "familyId": "pgr_groups",
+    "questionText": "Which one of the following is NOT a naturally occurring plant growth regulator discussed in the NCERT chapter?",
+    "questionLatex": "\\text{Which one of the following is NOT a naturally occurring plant growth regulator?}",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Penicillin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Penicillin is an antibiotic derived from fungi and is not a plant growth regulator. The five major plant growth regulators are auxins, gibberellins, cytokinins, abscisic acid, and ethylene."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Auxins",
+    "familyId": "auxin_discovery",
+    "questionText": "The first plant growth regulator to be discovered was:",
+    "questionLatex": "\\text{The first plant growth regulator to be discovered was:}",
+    "options": [
+      "Gibberellin",
+      "Auxin",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Auxin was the first plant growth regulator to be discovered through experiments on phototropism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Auxins",
+    "familyId": "natural_auxin",
+    "questionText": "The naturally occurring principal auxin in higher plants is:",
+    "questionLatex": "\\text{The naturally occurring principal auxin in higher plants is:}",
+    "options": [
+      "NAA",
+      "IAA",
+      "2,4-D",
+      "IBA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Indole-3-acetic acid (IAA) is the major naturally occurring auxin in higher plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Auxins",
+    "familyId": "auxin_functions",
+    "questionText": "Which one of the following is NOT a function of auxins?",
+    "questionLatex": "\\text{Which one of the following is NOT a function of auxins?}",
+    "options": [
+      "Initiation of rooting in stem cuttings",
+      "Promotion of apical dominance",
+      "Delay of leaf senescence",
+      "Promotion of cell elongation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Delay of senescence is mainly associated with cytokinins, whereas auxins promote cell elongation, apical dominance and rooting."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Gibberellins",
+    "familyId": "gibberellin_discovery",
+    "questionText": "Gibberellins were first discovered while studying the 'Bakanae' disease of rice caused by:",
+    "questionLatex": "\\text{Gibberellins were first discovered while studying the 'Bakanae' disease of rice caused by:}",
+    "options": [
+      "Rhizobium",
+      "Fusarium fujikuroi",
+      "Agrobacterium tumefaciens",
+      "Alternaria solani"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The fungus Fusarium fujikuroi (formerly Gibberella fujikuroi) causes Bakanae disease and led to the discovery of gibberellins."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Gibberellins",
+    "familyId": "gibberellin_functions",
+    "questionText": "Which of the following is a characteristic effect of gibberellins?",
+    "questionLatex": "\\text{Which of the following is a characteristic effect of gibberellins?}",
+    "options": [
+      "Promotion of stem elongation",
+      "Induction of dormancy",
+      "Promotion of leaf abscission",
+      "Closure of stomata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Gibberellins promote stem elongation, bolting, flowering in some plants and seed germination."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Cytokinins",
+    "familyId": "cytokinin_site",
+    "questionText": "Cytokinins are synthesized mainly in the:",
+    "questionLatex": "\\text{Cytokinins are synthesized mainly in the:}",
+    "options": [
+      "Leaf lamina",
+      "Root apices",
+      "Flower petals",
+      "Mature xylem vessels"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cytokinins are synthesized primarily in regions where rapid cell division occurs, such as root apices, and are transported to other parts of the plant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Cytokinins",
+    "familyId": "cytokinin_function",
+    "questionText": "Which plant growth regulator is most effective in delaying leaf senescence?",
+    "questionLatex": "\\text{Which plant growth regulator is most effective in delaying leaf senescence?}",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cytokinins delay senescence by promoting nutrient mobilization and maintaining chlorophyll content."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "familyId": "growth_promoters",
+    "questionText": "Which group consists entirely of plant growth promoters?",
+    "questionLatex": "\\text{Which group consists entirely of plant growth promoters?}",
+    "options": [
+      "Auxins, Gibberellins and Cytokinins",
+      "Auxins, Ethylene and ABA",
+      "Gibberellins, ABA and Ethylene",
+      "Cytokinins, ABA and Ethylene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Auxins, gibberellins and cytokinins are primarily growth-promoting hormones, whereas ABA is inhibitory and ethylene has mixed effects."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Auxins",
+    "familyId": "synthetic_auxin",
+    "questionText": "2,4-D is commonly used as a:",
+    "questionLatex": "\\text{2,4-D is commonly used as a:}",
+    "options": [
+      "Fungicide",
+      "Selective weedicide",
+      "Insecticide",
+      "Biofertilizer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "2,4-D is a synthetic auxin widely used as a selective herbicide to control broad-leaved (dicot) weeds."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "familyId": "pgr_balance",
+    "questionText": "Plant growth and development are primarily regulated by:",
+    "questionLatex": "\\text{Plant growth and development are primarily regulated by:}",
+    "options": [
+      "The action of a single plant growth regulator",
+      "The interaction and balance among different plant growth regulators",
+      "Only environmental factors",
+      "Only genetic factors"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Growth and development depend on the coordinated interaction among different plant growth regulators along with environmental and genetic factors."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Abscisic Acid",
+    "familyId": "aba_discovery",
+    "questionText": "Abscisic acid (ABA) is commonly referred to as the:",
+    "questionLatex": "\\text{Abscisic acid (ABA) is commonly referred to as the:}",
+    "options": [
+      "Growth promoter",
+      "Stress hormone",
+      "Flowering hormone",
+      "Rooting hormone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Abscisic acid is called the stress hormone because it increases the tolerance of plants to various kinds of environmental stresses, such as drought."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Abscisic Acid",
+    "familyId": "aba_function",
+    "questionText": "Which of the following is a major function of abscisic acid (ABA)?",
+    "questionLatex": "\\text{Which of the following is a major function of abscisic acid (ABA)?}",
+    "options": [
+      "Promotion of stem elongation",
+      "Induction of seed dormancy",
+      "Promotion of cell division",
+      "Delay of senescence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ABA stimulates the closure of stomata and induces seed dormancy, helping seeds withstand desiccation and other factors unfavorable for growth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Abscisic Acid",
+    "familyId": "aba_stomata",
+    "questionText": "Abscisic acid helps plants withstand drought by:",
+    "questionLatex": "\\text{Abscisic acid helps plants withstand drought by:}",
+    "options": [
+      "Increasing transpiration",
+      "Keeping stomata permanently open",
+      "Inducing stomatal closure",
+      "Promoting flowering"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "ABA induces stomatal closure during water stress, thereby reducing water loss via transpiration and protecting the plant from dehydration."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Ethylene",
+    "familyId": "ethylene_nature",
+    "questionText": "Ethylene differs from other major plant growth regulators because it is:",
+    "questionLatex": "\\text{Ethylene differs from other major plant growth regulators because it is:}",
+    "options": [
+      "A protein",
+      "A gaseous hormone",
+      "A steroid hormone",
+      "A carbohydrate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ethylene is a simple gaseous plant growth regulator synthesized in large amounts by tissues undergoing senescence and ripening fruits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Ethylene",
+    "familyId": "ethylene_ripening",
+    "questionText": "Ethylene is commercially used for:",
+    "questionLatex": "\\text{Ethylene is commercially used for:}",
+    "options": [
+      "Breaking seed dormancy",
+      "Inducing root formation",
+      "Artificial ripening of fruits",
+      "Increasing transpiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ethylene enhances the respiration rate during ripening of fruits (respiratory climacteric) and is widely used for commercial fruit ripening."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Ethylene",
+    "familyId": "ethylene_functions",
+    "questionText": "Which of the following is NOT a function of ethylene?",
+    "questionLatex": "\\text{Which of the following is NOT a function of ethylene?}",
+    "options": [
+      "Promotes fruit ripening",
+      "Promotes senescence and abscission",
+      "Enhances apical dominance",
+      "Breaks seed and bud dormancy in some plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Apical dominance is primarily promoted by auxins (and counteracted by cytokinins), whereas ethylene promotes fruit ripening, senescence, abscission, and breaks seed/bud dormancy."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Photoperiodism",
+    "familyId": "photoperiodism_definition",
+    "questionText": "Photoperiodism refers to the response of plants to:",
+    "questionLatex": "\\text{Photoperiodism refers to the response of plants to:}",
+    "options": [
+      "Temperature",
+      "Light and dark periods",
+      "Water availability",
+      "Mineral nutrition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Photoperiodism is the behavioral or physiological response of plants to the relative duration of light and dark periods to induce flowering."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Photoperiodism",
+    "familyId": "short_day_plants",
+    "questionText": "A short-day plant flowers when:",
+    "questionLatex": "\\text{A short-day plant flowers when:}",
+    "options": [
+      "The day length is longer than the critical photoperiod",
+      "The night is shorter than the critical dark period",
+      "The day length is shorter than the critical photoperiod",
+      "It receives continuous light"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Short-day plants require exposure to light for a period less than a well-defined critical duration (and a continuous dark period exceeding a critical length) to flower."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Vernalisation",
+    "familyId": "vernalisation_definition",
+    "questionText": "Vernalisation is the process of:",
+    "questionLatex": "\\text{Vernalisation is the process of:}",
+    "options": [
+      "Treating seeds with auxin",
+      "Exposing plants or seeds to low temperature to induce flowering",
+      "Keeping seeds in darkness",
+      "Artificial fruit ripening"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vernalisation refers to the qualitative or quantitative dependence of flowering on exposure to a prolonged period of low temperature."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "familyId": "growth_regulators_summary",
+    "questionText": "Which one of the following correctly matches the plant growth regulator with its principal function?",
+    "questionLatex": "\\text{Which one of the following correctly matches the plant growth regulator with its principal function?}",
+    "options": [
+      "Auxin — Stomatal closure",
+      "Gibberellin — Seed dormancy",
+      "Cytokinin — Cell division",
+      "Abscisic acid — Fruit ripening"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cytokinins are specific promoters of cell division (cytokinesis). Auxins promote apical dominance, gibberellins break seed dormancy, and ABA induces stomatal closure."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Introduction",
+    "familyId": "aristotle_fallacy",
+    "questionText": "According to Aristotle's view, an external force is required:",
+    "questionLatex": "\\text{According to Aristotle's view, an external force is required:}",
+    "options": [
+      {"text": "Only to start motion", "latex": "\\text{Only to start motion}"},
+      {"text": "Only to stop motion", "latex": "\\text{Only to stop motion}"},
+      {"text": "To maintain uniform motion", "latex": "\\text{To maintain uniform motion}"},
+      {"text": "Only during acceleration", "latex": "\\text{Only during acceleration}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "To maintain uniform motion",
+      "latex": "\\text{To maintain uniform motion}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's First Law",
+    "familyId": "inertia_definition",
+    "questionText": "The inherent property of a body by virtue of which it resists any change in its state of rest or uniform motion is called:",
+    "questionLatex": "\\text{The inherent property of a body by virtue of which it resists any change in its state of rest or uniform motion is called:}",
+    "options": [
+      {"text": "Momentum", "latex": "\\text{Momentum}"},
+      {"text": "Force", "latex": "\\text{Force}"},
+      {"text": "Inertia", "latex": "\\text{Inertia}"},
+      {"text": "Impulse", "latex": "\\text{Impulse}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Inertia",
+      "latex": "\\text{Inertia}"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's First Law",
+    "familyId": "inertia_mass_relation",
+    "questionText": "Which of the following physical quantities is a direct measure of the inertia of a body?",
+    "questionLatex": "\\text{Which of the following physical quantities is a direct measure of the inertia of a body?}",
+    "options": [
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Mass", "latex": "\\text{Mass}"},
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Force", "latex": "\\text{Force}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Mass",
+      "latex": "\\text{Mass}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Second Law",
+    "familyId": "second_law_definition",
+    "questionText": "Newton's second law of motion states that the net external force acting on a body is directly proportional to the rate of change of its:",
+    "questionLatex": "\\text{Newton's second law of motion states that the net external force acting on a body is directly proportional to the rate of change of its:}",
+    "options": [
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Linear momentum", "latex": "\\text{Linear momentum}"},
+      {"text": "Position", "latex": "\\text{Position}"},
+      {"text": "Mass", "latex": "\\text{Mass}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Linear momentum",
+      "latex": "\\text{Linear momentum}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Second Law",
+    "familyId": "force_calculation",
+    "questionText": "A constant net force of 20 N acts on a body of mass 5 kg. Find the magnitude of the acceleration produced.",
+    "questionLatex": "\\text{A constant net force of }20\\text{ N acts on a body of mass }5\\text{ kg. Find the magnitude of the acceleration produced.}",
+    "options": [
+      {"text": "2 m/s²", "latex": "2\\text{ m/s}^2"},
+      {"text": "4 m/s²", "latex": "4\\text{ m/s}^2"},
+      {"text": "5 m/s²", "latex": "5\\text{ m/s}^2"},
+      {"text": "10 m/s²", "latex": "10\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4 m/s²",
+      "latex": "4\\text{ m/s}^2"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Momentum",
+    "familyId": "momentum_formula",
+    "questionText": "The linear momentum of a body of mass m moving with velocity v is mathematically given by the expression:",
+    "questionLatex": "\\text{The linear momentum of a body of mass }m\\text{ moving with velocity }v\\text{ is mathematically given by the expression:}",
+    "options": [
+      {"text": "mv", "latex": "mv"},
+      {"text": "ma", "latex": "ma"},
+      {"text": "Fv", "latex": "Fv"},
+      {"text": "m/a", "latex": "\\frac{m}{a}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "mv",
+      "latex": "mv"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Momentum",
+    "familyId": "momentum_numerical",
+    "questionText": "Find the magnitude of the linear momentum of a body of mass 4 kg moving with a uniform velocity of 5 m/s.",
+    "questionLatex": "\\text{Find the magnitude of the linear momentum of a body of mass }4\\text{ kg moving with a uniform velocity of }5\\text{ m/s.}",
+    "options": [
+      {"text": "10 kg·m/s", "latex": "10\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "15 kg·m/s", "latex": "15\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "20 kg·m/s", "latex": "20\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "25 kg·m/s", "latex": "25\\text{ kg}\\cdot\\text{m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "20 kg·m/s",
+      "latex": "20\\text{ kg}\\cdot\\text{m/s}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Third Law",
+    "familyId": "third_law_definition",
+    "questionText": "According to Newton's third law of motion, action and reaction forces always act on:",
+    "questionLatex": "\\text{According to Newton's third law of motion, action and reaction forces always act on:}",
+    "options": [
+      {"text": "The same body and in the same direction", "latex": "\\text{The same body and in the same direction}"},
+      {"text": "Two different bodies in opposite directions", "latex": "\\text{Two different bodies in opposite directions}"},
+      {"text": "The same body but in opposite directions", "latex": "\\text{The same body but in opposite directions}"},
+      {"text": "Two different bodies in the same direction", "latex": "\\text{Two different bodies in the same direction}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Two different bodies in opposite directions",
+      "latex": "\\text{Two different bodies in opposite directions}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Impulse",
+    "familyId": "impulse_definition",
+    "questionText": "The total change in linear momentum produced by a large force acting for a short time interval is called impulse, which is equivalent to:",
+    "questionLatex": "\\text{The total change in linear momentum produced by a large force acting for a short time interval is called impulse, which is equivalent to:}",
+    "options": [
+      {"text": "Average Force × Time interval", "latex": "\\text{Average Force } \\times \\text{ Time interval}"},
+      {"text": "Mass × Velocity", "latex": "\\text{Mass } \\times \\text{ Velocity}"},
+      {"text": "Average Force / Time interval", "latex": "\\frac{\\text{Average Force}}{\\text{Time interval}}"},
+      {"text": "Acceleration × Time interval", "latex": "\\text{Acceleration } \\times \\text{ Time interval}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Average Force × Time interval",
+      "latex": "\\text{Average Force } \\times \\text{ Time interval}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Impulse",
+    "familyId": "impulse_numerical",
+    "questionText": "A constant force of 10 N acts on a body for a time duration of 4 s. Find the magnitude of the impulse imparted to the body.",
+    "questionLatex": "\\text{A constant force of }10\\text{ N acts on a body for a time duration of }4\\text{ s. Find the magnitude of the impulse imparted to the body.}",
+    "options": [
+      {"text": "20 N·s", "latex": "20\\text{ N}\\cdot\\text{s}"},
+      {"text": "30 N·s", "latex": "30\\text{ N}\\cdot\\text{s}"},
+      {"text": "40 N·s", "latex": "40\\text{ N}\\cdot\\text{s}"},
+      {"text": "50 N·s", "latex": "50\\text{ N}\\cdot\\text{s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "40 N·s",
+      "latex": "40\\text{ N}\\cdot\\text{s}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Conservation of Momentum",
+    "familyId": "momentum_conservation_definition",
+    "questionText": "In the absence of any net external force, the total linear momentum of an isolated system remains:",
+    "questionLatex": "\\text{In the absence of any net external force, the total linear momentum of an isolated system remains:}",
+    "options": [
+      {"text": "Increasing", "latex": "\\text{Increasing}"},
+      {"text": "Decreasing", "latex": "\\text{Decreasing}"},
+      {"text": "Constant", "latex": "\\text{Constant}"},
+      {"text": "Zero always", "latex": "\\text{Zero always}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Constant",
+      "latex": "\\text{Constant}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Conservation of Momentum",
+    "familyId": "recoil_application",
+    "questionText": "The recoil of a gun after firing a bullet is a direct practical application of the:",
+    "questionLatex": "\\text{The recoil of a gun after firing a bullet is a direct practical application of the:}",
+    "options": [
+      {"text": "Newton's First Law of Motion", "latex": "\\text{Newton's First Law of Motion}"},
+      {"text": "Newton's Second Law of Motion", "latex": "\\text{Newton's Second Law of Motion}"},
+      {"text": "Law of Conservation of Linear Momentum", "latex": "\\text{Law of Conservation of Linear Momentum}"},
+      {"text": "Universal Law of Gravitation", "latex": "\\text{Universal Law of Gravitation}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Law of Conservation of Linear Momentum",
+      "latex": "\\text{Law of Conservation of Linear Momentum}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Conservation of Momentum",
+    "familyId": "momentum_conservation_numerical",
+    "questionText": "A body of mass 2 kg moving with a velocity of 5 m/s collides head-on and sticks to a stationary body of mass 3 kg. Find the common velocity of the composite body after collision.",
+    "questionLatex": "\\text{A body of mass }2\\text{ kg moving with a velocity of }5\\text{ m/s collides head-on and sticks to a stationary body of mass }3\\text{ kg. Find the common velocity of the composite body after collision.}",
+    "options": [
+      {"text": "1 m/s", "latex": "1\\text{ m/s}"},
+      {"text": "2 m/s", "latex": "2\\text{ m/s}"},
+      {"text": "3 m/s", "latex": "3\\text{ m/s}"},
+      {"text": "4 m/s", "latex": "4\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 m/s",
+      "latex": "2\\text{ m/s}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "friction_definition",
+    "questionText": "The contact force that opposes the relative motion or the tendency of relative motion between two surfaces in contact is called:",
+    "questionLatex": "\\text{The contact force that opposes the relative motion or the tendency of relative motion between two surfaces in contact is called:}",
+    "options": [
+      {"text": "Normal force", "latex": "\\text{Normal force}"},
+      {"text": "Gravitational force", "latex": "\\text{Gravitational force}"},
+      {"text": "Frictional force", "latex": "\\text{Frictional force}"},
+      {"text": "Applied force", "latex": "\\text{Applied force}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Frictional force",
+      "latex": "\\text{Frictional force}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "static_friction",
+    "questionText": "Static friction comes into play when an external force is applied to a body, and it:",
+    "questionLatex": "\\text{Static friction comes into play when an external force is applied to a body, and it:}",
+    "options": [
+      {"text": "Is moving with a constant velocity", "latex": "\\text{Is moving with a constant velocity}"},
+      {"text": "Remains at rest up to the limiting stage of motion", "latex": "\\text{Remains at rest up to the limiting stage of motion}"},
+      {"text": "Is in a state of free fall", "latex": "\\text{Is in a state of free fall}"},
+      {"text": "Is purely rotating about a fixed axis", "latex": "\\text{Is purely rotating about a fixed axis}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Remains at rest up to the limiting stage of motion",
+      "latex": "\\text{Remains at rest up to the limiting stage of motion}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "coefficient_friction",
+    "questionText": "The coefficient of limiting friction μ between two solid surfaces is defined as the ratio of the limiting friction force (F) to the:",
+    "questionLatex": "\\text{The coefficient of limiting friction }\\mu\\text{ between two solid surfaces is defined as the ratio of the limiting friction force }(F)\\text{ to the:}",
+    "options": [
+      {"text": "Normal reaction (N)", "latex": "\\text{Normal reaction }(N)"},
+      {"text": "Product of force and normal reaction (FN)", "latex": "\\text{Product of force and normal reaction }(FN)"},
+      {"text": "Sum of force and normal reaction (F + N)", "latex": "\\text{Sum of force and normal reaction }(F + N)"},
+      {"text": "Reciprocal of normal reaction (1/N)", "latex": "\\frac{1}{N}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Normal reaction (N)",
+      "latex": "\\text{Normal reaction }(N)"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "friction_numerical",
+    "questionText": "A block resting on a horizontal surface experiences a limiting frictional force of 10 N. If the normal reaction force is 50 N, find the coefficient of static friction.",
+    "questionLatex": "\\text{A block resting on a horizontal surface experiences a limiting frictional force of }10\\text{ N. If the normal reaction force is }50\\text{ N, find the coefficient of static friction.}",
+    "options": [
+      {"text": "0.1", "latex": "0.1"},
+      {"text": "0.2", "latex": "0.2"},
+      {"text": "0.3", "latex": "0.3"},
+      {"text": "0.5", "latex": "0.5"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "0.2",
+      "latex": "0.2"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "limiting_friction",
+    "questionText": "The maximum value of static friction that comes into play when a body is just on the verge of starting motion over a surface is called:",
+    "questionLatex": "\\text{The maximum value of static friction that comes into play when a body is just on the verge of starting motion over a surface is called:}",
+    "options": [
+      {"text": "Limiting friction", "latex": "\\text{Limiting friction}"},
+      {"text": "Minimum static friction", "latex": "\\text{Minimum static friction}"},
+      {"text": "Kinetic friction", "latex": "\\text{Kinetic friction}"},
+      {"text": "Rolling friction", "latex": "\\text{Rolling friction}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Limiting friction",
+      "latex": "\\text{Limiting friction}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Laws",
+    "familyId": "action_reaction_pair",
+    "questionText": "According to Newton's third law of motion, the action and reaction forces always act:",
+    "questionLatex": "\\text{According to Newton's third law of motion, the action and reaction forces always act:}",
+    "options": [
+      {"text": "On the same body simultaneously", "latex": "\\text{On the same body simultaneously}"},
+      {"text": "On two different bodies simultaneously", "latex": "\\text{On two different bodies simultaneously}"},
+      {"text": "Only when the system is in static equilibrium", "latex": "\\text{Only when the system is in static equilibrium}"},
+      {"text": "Only during impulsive collisions", "latex": "\\text{Only during impulsive collisions}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "On two different bodies simultaneously",
+      "latex": "\\text{On two different bodies simultaneously}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Second Law",
+    "familyId": "force_numerical",
+    "questionText": "A constant net force produces an acceleration of 5 m/s² when acting on a body of mass 4 kg. Find the magnitude of this force.",
+    "questionLatex": "\\text{A constant net force produces an acceleration of }5\\text{ m/s}^2\\text{ when acting on a body of mass }4\\text{ kg. Find the magnitude of this force.}",
+    "options": [
+      {"text": "10 N", "latex": "10\\text{ N}"},
+      {"text": "15 N", "latex": "15\\text{ N}"},
+      {"text": "20 N", "latex": "20\\text{ N}"},
+      {"text": "25 N", "latex": "25\\text{ N}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "20 N",
+      "latex": "20\\text{ N}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Equilibrium",
+    "familyId": "translational_equilibrium_definition",
+    "questionText": "A body is said to be in translational equilibrium if:",
+    "questionLatex": "\\text{A body is said to be in translational equilibrium if:}",
+    "options": [
+      {"text": "The net external force acting on it is maximum", "latex": "\\text{The net external force acting on it is maximum}"},
+      {"text": "The net external force acting on it is zero", "latex": "\\text{The net external force acting on it is zero}"},
+      {"text": "Its linear velocity is maximum", "latex": "\\text{Its linear velocity is maximum}"},
+      {"text": "Its acceleration is maximum", "latex": "\\text{Its acceleration is maximum}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The net external force acting on it is zero",
+      "latex": "\\text{The net external force acting on it is zero}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Equilibrium",
+    "familyId": "equilibrium_force_collinear",
+    "questionText": "Three collinear forces of magnitude 5 N, 7 N, and x N keep a particle in translational equilibrium. Which of the following cannot be a possible value of x?",
+    "questionLatex": "\\text{Three collinear forces of magnitude }5\\text{ N, }7\\text{ N, and }x\\text{ N keep a particle in translational equilibrium. Which of the following cannot be a possible value of }x\\text{?}",
+    "options": [
+      {"text": "2 N", "latex": "2\\text{ N}"},
+      {"text": "7 N", "latex": "7\\text{ N}"},
+      {"text": "12 N", "latex": "12\\text{ N}"},
+      {"text": "None of these", "latex": "\\text{None of these}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "7 N",
+      "latex": "7\\text{ N}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Free Body Diagram",
+    "familyId": "fbd_definition",
+    "questionText": "A free body diagram (FBD) of an isolated system or object diagrammatically represents:",
+    "questionLatex": "\\text{A free body diagram (FBD) of an isolated system or object diagrammatically represents:}",
+    "options": [
+      {"text": "Internal forces acting within the body only", "latex": "\\text{Internal forces acting within the body only}"},
+      {"text": "All external forces acting on the body by the surroundings", "latex": "\\text{All external forces acting on the body by the surroundings}"},
+      {"text": "Only the frictional forces acting at the contact surfaces", "latex": "\\text{Only the frictional forces acting at the contact surfaces}"},
+      {"text": "Only the gravitational forces acting on the body", "latex": "\\text{Only the gravitational forces acting on the body}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "All external forces acting on the body by the surroundings",
+      "latex": "\\text{All external forces acting on the body by the surroundings}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Normal Reaction",
+    "familyId": "normal_force_direction",
+    "questionText": "The normal reaction force between two surfaces in contact always acts in a direction:",
+    "questionLatex": "\\text{The normal reaction force between two surfaces in contact always acts in a direction:}",
+    "options": [
+      {"text": "Parallel to the contact surface", "latex": "\\text{Parallel to the contact surface}"},
+      {"text": "Perpendicular to the contact surface", "latex": "\\text{Perpendicular to the contact surface}"},
+      {"text": "Along the direction of displacement of the body", "latex": "\\text{Along the direction of displacement of the body}"},
+      {"text": "Along the direction of acceleration of the body", "latex": "\\text{Along the direction of acceleration of the body}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Perpendicular to the contact surface",
+      "latex": "\\text{Perpendicular to the contact surface}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Normal Reaction",
+    "familyId": "normal_force_numerical",
+    "questionText": "A block of mass 5 kg rests statically on a flat horizontal surface. Find the magnitude of the normal reaction force acting on the block. (Take g = 10 m/s²)",
+    "questionLatex": "\\text{A block of mass }5\\text{ kg rests statically on a flat horizontal surface. Find the magnitude of the normal reaction force acting on the block. (Take }g = 10\\text{ m/s}^2\\text{)}",
+    "options": [
+      {"text": "25 N", "latex": "25\\text{ N}"},
+      {"text": "50 N", "latex": "50\\text{ N}"},
+      {"text": "75 N", "latex": "75\\text{ N}"},
+      {"text": "100 N", "latex": "100\\text{ N}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "50 N",
+      "latex": "50\\text{ N}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Inclined Plane",
+    "familyId": "inclined_plane_parallel_component",
+    "questionText": "A block of mass m is placed on a smooth inclined plane making an angle θ with the horizontal. The component of the weight of the block acting parallel to the inclined plane is:",
+    "questionLatex": "\\text{A block of mass }m\\text{ is placed on a smooth inclined plane making an angle }\\theta\\text{ with the horizontal. The component of the weight of the block acting parallel to the inclined plane is:}",
+    "options": [
+      {"text": "mg sin θ", "latex": "mg \\sin\\theta"},
+      {"text": "mg cos θ", "latex": "mg \\cos\\theta"},
+      {"text": "mg", "latex": "mg"},
+      {"text": "mg tan θ", "latex": "mg \\tan\\theta"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "mg sin θ",
+      "latex": "mg \\sin\\theta"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Inclined Plane",
+    "familyId": "inclined_plane_perpendicular_component",
+    "questionText": "A block of mass m is placed on an inclined plane making an angle θ with the horizontal. The component of the weight of the block acting perpendicular to the inclined plane is:",
+    "questionLatex": "\\text{A block of mass }m\\text{ is placed on an inclined plane making an angle }\\theta\\text{ with the horizontal. The component of the weight of the block acting perpendicular to the inclined plane is:}",
+    "options": [
+      {"text": "mg sin θ", "latex": "mg \\sin\\theta"},
+      {"text": "mg cos θ", "latex": "mg \\cos\\theta"},
+      {"text": "mg", "latex": "mg"},
+      {"text": "mg tan θ", "latex": "mg \\tan\\theta"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "mg cos θ",
+      "latex": "mg \\cos\\theta"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "kinetic_static_friction_relation",
+    "questionText": "For a given pair of surfaces in contact, the magnitude of kinetic friction is generally:",
+    "questionLatex": "\\text{For a given pair of surfaces in contact, the magnitude of kinetic friction is generally:}",
+    "options": [
+      {"text": "Greater than limiting static friction", "latex": "\\text{Greater than limiting static friction}"},
+      {"text": "Less than limiting static friction", "latex": "\\text{Less than limiting static friction}"},
+      {"text": "Exactly equal to limiting static friction", "latex": "\\text{Exactly equal to limiting static friction}"},
+      {"text": "Zero regardless of surface roughness", "latex": "\\text{Zero regardless of surface roughness}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Less than limiting static friction",
+      "latex": "\\text{Less than limiting static friction}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Circular Motion",
+    "familyId": "centripetal_force_direction",
+    "questionText": "The net centripetal force acting on a vehicle executing a turn on a circular track is always directed:",
+    "questionLatex": "\\text{The net centripetal force acting on a vehicle executing a turn on a circular track is always directed:}",
+    "options": [
+      {"text": "Radially away from the center of the path", "latex": "\\text{Radially away from the center of the path}"},
+      {"text": "Radially towards the center of the path", "latex": "\\text{Radially towards the center of the path}"},
+      {"text": "Tangentially along the direction of motion", "latex": "\\text{Tangentially along the direction of motion}"},
+      {"text": "Vertically upward against gravity", "latex": "\\text{Vertically upward against gravity}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Radially towards the center of the path",
+      "latex": "\\text{Radially towards the center of the path}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Second Law",
+    "familyId": "multiple_force_collinear_numerical",
+    "questionText": "Two horizontal forces of magnitude 20 N and 10 N act on a body of mass 5 kg in opposite directions. Find the magnitude of the acceleration produced in the body.",
+    "questionLatex": "\\text{Two horizontal forces of magnitude }20\\text{ N and }10\\text{ N act on a body of mass }5\\text{ kg in opposite directions. Find the magnitude of the acceleration produced in the body.}",
+    "options": [
+      {"text": "1 m/s²", "latex": "1\\text{ m/s}^2"},
+      {"text": "2 m/s²", "latex": "2\\text{ m/s}^2"},
+      {"text": "3 m/s²", "latex": "3\\text{ m/s}^2"},
+      {"text": "4 m/s²", "latex": "4\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 m/s²",
+      "latex": "2\\text{ m/s}^2"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "rolling_friction_comparison",
+    "questionText": "For a given pair of surfaces and normal reaction, the magnitude of rolling friction is generally:",
+    "questionLatex": "\\text{For a given pair of surfaces and normal reaction, the magnitude of rolling friction is generally:}",
+    "options": [
+      {"text": "Greater than sliding friction", "latex": "\\text{Greater than sliding friction}"},
+      {"text": "Less than sliding friction", "latex": "\\text{Less than sliding friction}"},
+      {"text": "Equal to sliding friction", "latex": "\\text{Equal to sliding friction}"},
+      {"text": "Infinite", "latex": "\\text{Infinite}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Less than sliding friction",
+      "latex": "\\text{Less than sliding friction}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's First Law",
+    "familyId": "inertia_example_bus",
+    "questionText": "Passengers standing in a moving bus fall forward in the direction of motion when the driver applies brakes suddenly. This happens due to:",
+    "questionLatex": "\\text{Passengers standing in a moving bus fall forward in the direction of motion when the driver applies brakes suddenly. This happens due to:}",
+    "options": [
+      {"text": "Inertia of rest", "latex": "\\text{Inertia of rest}"},
+      {"text": "Inertia of motion", "latex": "\\text{Inertia of motion}"},
+      {"text": "Gravitational pull of the Earth", "latex": "\\text{Gravitational pull of the Earth}"},
+      {"text": "Conservation of linear momentum", "latex": "\\text{Conservation of linear momentum}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Inertia of motion",
+      "latex": "\\text{Inertia of motion}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's First Law",
+    "familyId": "inertia_example_carpet",
+    "questionText": "When a hanging carpet is beaten with a stick, dust particles start coming out of it. This phenomenon is a direct consequence of:",
+    "questionLatex": "\\text{When a hanging carpet is beaten with a stick, dust particles start coming out of it. This phenomenon is a direct consequence of:}",
+    "options": [
+      {"text": "Inertia of rest", "latex": "\\text{Inertia of rest}"},
+      {"text": "Inertia of motion", "latex": "\\text{Inertia of motion}"},
+      {"text": "Inertia of direction", "latex": "\\text{Inertia of direction}"},
+      {"text": "Frictional resistance between dust and carpet fibers", "latex": "\\text{Frictional resistance between dust and carpet fibers}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Inertia of rest",
+      "latex": "\\text{Inertia of rest}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Newton's Second Law",
+    "familyId": "momentum_rate_change",
+    "questionText": "According to Newton's second law of motion, the rate of change of linear momentum of a body is equal to the applied external:",
+    "questionLatex": "\\text{According to Newton's second law of motion, the rate of change of linear momentum of a body is equal to the applied external:}",
+    "options": [
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Force", "latex": "\\text{Force}"},
+      {"text": "Mass", "latex": "\\text{Mass}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Force",
+      "latex": "\\text{Force}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Momentum",
+    "familyId": "momentum_change_numerical",
+    "questionText": "A body of mass 2 kg moves along a straight line such that its velocity changes uniformly from 4 m/s to 10 m/s. Calculate the magnitude of change in its linear momentum.",
+    "questionLatex": "\\text{A body of mass }2\\text{ kg moves along a straight line such that its velocity changes uniformly from }4\\text{ m/s to }10\\text{ m/s. Calculate the magnitude of change in its linear momentum.}",
+    "options": [
+      {"text": "8 kg·m/s", "latex": "8\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "10 kg·m/s", "latex": "10\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "12 kg·m/s", "latex": "12\\text{ kg}\\cdot\\text{m/s}"},
+      {"text": "14 kg·m/s", "latex": "14\\text{ kg}\\cdot\\text{m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "12 kg·m/s",
+      "latex": "12\\text{ kg}\\cdot\\text{m/s}"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Impulse",
+    "familyId": "impulse_momentum_theorem",
+    "questionText": "According to the impulse-momentum theorem, the impulse imparted to an object by a net force is completely equal to its total:",
+    "questionLatex": "\\text{According to the impulse-momentum theorem, the impulse imparted to an object by a net force is completely equal to its total:}",
+    "options": [
+      {"text": "Change in velocity", "latex": "\\text{Change in velocity}"},
+      {"text": "Change in linear momentum", "latex": "\\text{Change in linear momentum}"},
+      {"text": "Linear acceleration", "latex": "\\text{Linear acceleration}"},
+      {"text": "Product of mass and acceleration", "latex": "\\text{Product of mass and acceleration}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Change in linear momentum",
+      "latex": "\\text{Change in linear momentum}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Impulse",
+    "familyId": "impulse_numerical",
+    "questionText": "A constant force of magnitude 50 N acts on a body for a short duration of 0.2 s. Find the magnitude of the impulse imparted to the body.",
+    "questionLatex": "\\text{A constant force of magnitude }50\\text{ N acts on a body for a short duration of }0.2\\text{ s. Find the magnitude of the impulse imparted to the body.}",
+    "options": [
+      {"text": "5 N·s", "latex": "5\\text{ N}\\cdot\\text{s}"},
+      {"text": "10 N·s", "latex": "10\\text{ N}\\cdot\\text{s}"},
+      {"text": "15 N·s", "latex": "15\\text{ N}\\cdot\\text{s}"},
+      {"text": "20 N·s", "latex": "20\\text{ N}\\cdot\\text{s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "10 N·s",
+      "latex": "10\\text{ N}\\cdot\\text{s}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Conservation of Momentum",
+    "familyId": "rocket_propulsion_principle",
+    "questionText": "The operational principle behind rocket propulsion and escape motion is a direct application of the:",
+    "questionLatex": "\\text{The operational principle behind rocket propulsion and escape motion is a direct application of the:}",
+    "options": [
+      {"text": "Newton's First Law of Motion", "latex": "\\text{Newton's First Law of Motion}"},
+      {"text": "Law of Conservation of Linear Momentum", "latex": "\\text{Law of Conservation of Linear Momentum}"},
+      {"text": "Law of Conservation of Mechanical Energy", "latex": "\\text{Law of Conservation of Mechanical Energy}"},
+      {"text": "Frictional Force optimization", "latex": "\\text{Frictional Force optimization}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Law of Conservation of Linear Momentum",
+      "latex": "\\text{Law of Conservation of Linear Momentum}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "angle_of_friction_definition",
+    "questionText": "The angle that the resultant of the limiting friction force and normal reaction force makes with the normal reaction force is known as the:",
+    "questionLatex": "\\text{The angle that the resultant of the limiting friction force and normal reaction force makes with the normal reaction force is known as the:}",
+    "options": [
+      {"text": "Angle of projection", "latex": "\\text{Angle of projection}"},
+      {"text": "Angle of friction", "latex": "\\text{Angle of friction}"},
+      {"text": "Angle of repose", "latex": "\\text{Angle of repose}"},
+      {"text": "Critical angle", "latex": "\\text{Critical angle}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Angle of friction",
+      "latex": "\\text{Angle of friction}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "topic": "Friction",
+    "familyId": "angle_repose_friction_relation",
+    "questionText": "When a block placed on a rough inclined plane is on the verge of sliding down, the angle of repose is mathematically:",
+    "questionLatex": "\\text{When a block placed on a rough inclined plane is on the verge of sliding down, the angle of repose is mathematically:}",
+    "options": [
+      {"text": "Equal to the angle of friction", "latex": "\\text{Equal to the angle of friction}"},
+      {"text": "Twice the angle of friction", "latex": "\\text{Twice the angle of friction}"},
+      {"text": "Half the angle of friction", "latex": "\\text{Half the angle of friction}"},
+      {"text": "Always equal to 90°", "latex": "90^{\\circ}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Equal to the angle of friction",
+      "latex": "\\text{Equal to the angle of friction}"
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  } 
+]

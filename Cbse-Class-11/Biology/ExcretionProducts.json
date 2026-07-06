@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Nitrogenous Wastes",
+    "familyId": "major_excretory_products",
+    "questionText": "Which of the following is the most toxic nitrogenous waste excreted by animals?",
+    "questionLatex": "\\text{Which of the following is the most toxic nitrogenous waste excreted by animals?}",
+    "options": [
+      "Urea",
+      "Uric acid",
+      "Ammonia",
+      "Creatinine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ammonia is the most toxic nitrogenous waste and requires a large amount of water for its elimination."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Ammonotelism",
+    "familyId": "ammonotelic_animals",
+    "questionText": "Which group of animals is predominantly ammonotelic?",
+    "questionLatex": "\\text{Which group of animals is predominantly ammonotelic?}",
+    "options": [
+      "Birds",
+      "Reptiles",
+      "Bony fishes",
+      "Mammals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Most bony fishes, aquatic amphibians and aquatic insects excrete ammonia and are ammonotelic."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Ureotelism",
+    "familyId": "ureotelic_animals",
+    "questionText": "Mammals primarily excrete nitrogenous wastes in the form of:",
+    "questionLatex": "\\text{Mammals primarily excrete nitrogenous wastes in the form of:}",
+    "options": [
+      "Ammonia",
+      "Urea",
+      "Uric acid",
+      "Creatine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mammals are ureotelic animals and excrete nitrogen mainly as urea."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Uricotelism",
+    "familyId": "uricotelic_animals",
+    "questionText": "Which of the following animals is uricotelic?",
+    "questionLatex": "\\text{Which of the following animals is uricotelic?}",
+    "options": [
+      "Human",
+      "Frog",
+      "Pigeon",
+      "Shark"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Birds excrete uric acid and are uricotelic, minimizing water loss."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Excretory Organs",
+    "familyId": "flame_cells",
+    "questionText": "Flame cells (protonephridia) are characteristic excretory structures of:",
+    "questionLatex": "\\text{Flame cells (protonephridia) are characteristic excretory structures of:}",
+    "options": [
+      "Earthworm",
+      "Planaria",
+      "Cockroach",
+      "Prawn"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Flame cells or protonephridia occur in Platyhelminthes such as Planaria."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Excretory Organs",
+    "familyId": "malpighian_tubules",
+    "questionText": "The excretory organs of insects such as cockroach are:",
+    "questionLatex": "\\text{The excretory organs of insects such as cockroach are:}",
+    "options": [
+      "Nephridia",
+      "Green glands",
+      "Malpighian tubules",
+      "Kidneys"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Malpighian tubules remove nitrogenous wastes and help in osmoregulation in insects."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Human Excretory System",
+    "familyId": "human_excretory_parts",
+    "questionText": "The human excretory system consists of:",
+    "questionLatex": "\\text{The human excretory system consists of:}",
+    "options": [
+      "Kidneys, ureters, urinary bladder and urethra",
+      "Kidneys, lungs and liver only",
+      "Kidneys and urinary bladder only",
+      "Kidneys, liver and pancreas"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The human excretory system comprises a pair of kidneys, ureters, urinary bladder and urethra."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Kidney",
+    "familyId": "hilum",
+    "questionText": "The notch on the concave surface of the kidney through which blood vessels, nerves and ureter enter is called:",
+    "questionLatex": "\\text{The notch on the concave surface of the kidney through which blood vessels, nerves and ureter enter is called:}",
+    "options": [
+      "Renal pelvis",
+      "Hilum",
+      "Calyx",
+      "Medulla"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The hilum is the entry point for the ureter, blood vessels and nerves."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Kidney Structure",
+    "familyId": "functional_unit",
+    "questionText": "The structural and functional unit of the human kidney is:",
+    "questionLatex": "\\text{The structural and functional unit of the human kidney is:}",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Glomerulus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each kidney contains nearly one million nephrons, which are its structural and functional units."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Nephron",
+    "familyId": "renal_corpuscle",
+    "questionText": "The glomerulus together with Bowman's capsule is collectively known as:",
+    "questionLatex": "\\text{The glomerulus together with Bowman's capsule is collectively known as:}",
+    "options": [
+      "Loop of Henle",
+      "Collecting duct",
+      "Renal corpuscle (Malpighian body)",
+      "Renal pyramid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The glomerulus enclosed by Bowman's capsule forms the renal corpuscle or Malpighian body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Nephron",
+    "familyId": "glomerulus_structure",
+    "questionText": "The glomerulus is a tuft of capillaries formed by the:",
+    "questionLatex": "\\text{The glomerulus is a tuft of capillaries formed by the:}",
+    "options": [
+      "Efferent arteriole",
+      "Renal vein",
+      "Afferent arteriole",
+      "Peritubular capillaries"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The glomerulus is formed by the branching of the afferent arteriole. Blood leaves it through the efferent arteriole."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Nephron",
+    "familyId": "nephron_parts",
+    "questionText": "Which of the following is the correct sequence of structures through which the filtrate passes in a nephron?",
+    "questionLatex": "\\text{Choose the correct sequence of filtrate flow in a nephron.}",
+    "options": [
+      "Bowman's capsule → PCT → Loop of Henle → DCT → Collecting duct",
+      "Bowman's capsule → Loop of Henle → PCT → DCT → Collecting duct",
+      "PCT → Bowman's capsule → DCT → Loop of Henle → Collecting duct",
+      "Glomerulus → DCT → PCT → Collecting duct → Loop of Henle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The renal tubule consists of Bowman's capsule, PCT, Loop of Henle, DCT and collecting duct in sequence."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Types of Nephrons",
+    "familyId": "cortical_nephrons",
+    "questionText": "Nephrons having a short loop of Henle that extends only slightly into the medulla are called:",
+    "questionLatex": "\\text{Nephrons with a short loop of Henle are called:}",
+    "options": [
+      "Juxtamedullary nephrons",
+      "Cortical nephrons",
+      "Collecting nephrons",
+      "Medullary nephrons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most nephrons are cortical nephrons with short loops of Henle extending only a little into the medulla."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Types of Nephrons",
+    "familyId": "juxtamedullary_nephrons",
+    "questionText": "Juxtamedullary nephrons differ from cortical nephrons because they possess:",
+    "questionLatex": "\\text{Juxtamedullary nephrons possess:}",
+    "options": [
+      "No glomerulus",
+      "Very short proximal convoluted tubule",
+      "Long loop of Henle extending deep into the medulla",
+      "No collecting duct"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Juxtamedullary nephrons have long loops of Henle extending deep into the medulla and are important in concentrating urine."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Vasa Recta",
+    "familyId": "vasa_recta",
+    "questionText": "The capillary network running parallel to the loop of Henle is known as:",
+    "questionLatex": "\\text{The capillary network parallel to the loop of Henle is called:}",
+    "options": [
+      "Glomerulus",
+      "Renal corpuscle",
+      "Vasa recta",
+      "Renal pelvis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The vasa recta is a U-shaped capillary network running parallel to the loop of Henle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Urine Formation",
+    "familyId": "urine_formation_steps",
+    "questionText": "Urine formation involves which of the following processes in the correct order?",
+    "questionLatex": "\\text{Urine formation involves:}",
+    "options": [
+      "Filtration → Secretion → Reabsorption",
+      "Reabsorption → Filtration → Secretion",
+      "Filtration → Reabsorption → Secretion",
+      "Secretion → Filtration → Reabsorption"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The three major processes of urine formation are glomerular filtration, tubular reabsorption and tubular secretion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Glomerular Filtration",
+    "familyId": "ultrafiltration",
+    "questionText": "Glomerular filtration is also known as:",
+    "questionLatex": "\\text{Glomerular filtration is also known as:}",
+    "options": [
+      "Selective filtration",
+      "Ultrafiltration",
+      "Counter-current filtration",
+      "Diffusion filtration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Blood is filtered through three filtration layers so efficiently that the process is called ultrafiltration."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Glomerular Filtration Rate",
+    "familyId": "gfr_value",
+    "questionText": "The normal glomerular filtration rate (GFR) in a healthy adult is approximately:",
+    "questionLatex": "\\text{The normal GFR is approximately:}",
+    "options": [
+      "25 mL/min",
+      "75 mL/min",
+      "125 mL/min",
+      "250 mL/min"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The average GFR of a healthy adult is about 125 mL per minute, equivalent to nearly 180 litres per day."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Juxtaglomerular Apparatus",
+    "familyId": "jga_function",
+    "questionText": "The juxtaglomerular apparatus (JGA) helps primarily in the regulation of:",
+    "questionLatex": "\\text{The JGA primarily regulates:}",
+    "options": [
+      "Body temperature",
+      "Glomerular filtration rate",
+      "Blood glucose level",
+      "Respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The JGA regulates glomerular filtration rate by releasing renin when GFR falls."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Tubular Reabsorption",
+    "familyId": "pct_reabsorption",
+    "questionText": "The maximum reabsorption of water, glucose and amino acids occurs in the:",
+    "questionLatex": "\\text{The maximum reabsorption of water, glucose and amino acids occurs in the:}",
+    "options": [
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The proximal convoluted tubule (PCT) reabsorbs nearly all glucose and amino acids along with about 70–80% of electrolytes and water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Proximal Convoluted Tubule",
+    "familyId": "pct_function",
+    "questionText": "Which one of the following substances is almost completely reabsorbed in the proximal convoluted tubule under normal conditions?",
+    "questionLatex": "\\text{Which one of the following substances is almost completely reabsorbed in the proximal convoluted tubule under normal conditions?}",
+    "options": [
+      "Urea",
+      "Glucose",
+      "Uric acid",
+      "Creatinine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Nearly all glucose and amino acids filtered at the glomerulus are reabsorbed in the proximal convoluted tubule."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Loop of Henle",
+    "familyId": "descending_limb",
+    "questionText": "The descending limb of the loop of Henle is highly permeable to:",
+    "questionLatex": "\\text{The descending limb of the loop of Henle is highly permeable to:}",
+    "options": [
+      "Sodium ions only",
+      "Water",
+      "Glucose",
+      "Proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The descending limb is permeable to water but relatively impermeable to electrolytes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Loop of Henle",
+    "familyId": "ascending_limb",
+    "questionText": "The ascending limb of the loop of Henle is characterized by:",
+    "questionLatex": "\\text{The ascending limb of the loop of Henle is characterized by:}",
+    "options": [
+      "High permeability to water",
+      "Active transport of NaCl and impermeability to water",
+      "Complete reabsorption of glucose",
+      "Filtration of blood plasma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ascending limb actively transports sodium and chloride ions but is almost impermeable to water."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Distal Convoluted Tubule",
+    "familyId": "dct_function",
+    "questionText": "The distal convoluted tubule (DCT) is mainly responsible for:",
+    "questionLatex": "\\text{The distal convoluted tubule (DCT) is mainly responsible for:}",
+    "options": [
+      "Glomerular filtration",
+      "Selective reabsorption and tubular secretion under hormonal control",
+      "Formation of Bowman's capsule",
+      "Production of erythropoietin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The DCT selectively reabsorbs sodium, water and bicarbonate and secretes hydrogen and potassium ions under hormonal regulation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Tubular Secretion",
+    "familyId": "tubular_secretion",
+    "questionText": "Tubular secretion primarily helps in:",
+    "questionLatex": "\\text{Tubular secretion primarily helps in:}",
+    "options": [
+      "Increasing blood glucose concentration",
+      "Maintaining ionic and acid-base balance",
+      "Producing erythrocytes",
+      "Filtering plasma proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tubular secretion removes H+, K+, NH3 and certain drugs, helping maintain ionic and acid-base balance."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Counter Current Mechanism",
+    "familyId": "counter_current",
+    "questionText": "The counter-current mechanism responsible for concentrating urine is established by the:",
+    "questionLatex": "\\text{The counter-current mechanism responsible for concentrating urine is established by the:}",
+    "options": [
+      "Proximal convoluted tubule and glomerulus",
+      "Loop of Henle and vasa recta",
+      "Bowman's capsule and collecting duct",
+      "Distal convoluted tubule and ureter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The loop of Henle and vasa recta together establish the counter-current mechanism that creates the medullary osmotic gradient."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Counter Current Mechanism",
+    "familyId": "medullary_gradient",
+    "questionText": "The primary significance of the medullary osmotic gradient is to:",
+    "questionLatex": "\\text{The primary significance of the medullary osmotic gradient is to:}",
+    "options": [
+      "Increase glomerular filtration",
+      "Facilitate the formation of concentrated urine",
+      "Decrease blood pressure",
+      "Increase erythrocyte production"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The osmotic gradient in the renal medulla enables maximum water reabsorption from the collecting duct, producing concentrated urine."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Hormonal Regulation",
+    "familyId": "adh_function",
+    "questionText": "Antidiuretic hormone (ADH) primarily increases:",
+    "questionLatex": "\\text{Antidiuretic hormone (ADH) primarily increases:}",
+    "options": [
+      "Glomerular filtration",
+      "Water reabsorption in distal tubules and collecting ducts",
+      "Protein filtration",
+      "Urea synthesis in the liver"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ADH increases the permeability of distal tubules and collecting ducts to water, thereby increasing water reabsorption."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Hormonal Regulation",
+    "familyId": "aldosterone_function",
+    "questionText": "Aldosterone mainly promotes:",
+    "questionLatex": "\\text{Aldosterone mainly promotes:}",
+    "options": [
+      "Reabsorption of sodium ions from the distal convoluted tubule",
+      "Filtration of proteins",
+      "Secretion of glucose",
+      "Formation of glomerular filtrate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Aldosterone increases sodium reabsorption and potassium secretion in the distal convoluted tubule and collecting duct."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Hormonal Regulation",
+    "familyId": "raas_function",
+    "questionText": "The renin-angiotensin-aldosterone system (RAAS) is activated primarily when:",
+    "questionLatex": "\\text{The renin-angiotensin-aldosterone system (RAAS) is activated when:}",
+    "options": [
+      "Blood glucose level increases",
+      "Glomerular filtration rate or blood pressure decreases",
+      "Blood calcium level increases",
+      "Body temperature rises"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A fall in blood pressure or glomerular filtration rate stimulates the juxtaglomerular cells to release renin, activating RAAS."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Hormonal Regulation",
+    "familyId": "anf_function",
+    "questionText": "Atrial Natriuretic Factor (ANF) is released in response to:",
+    "questionLatex": "\\text{ANF is released in response to:}",
+    "options": [
+      "Decrease in blood volume",
+      "Increase in blood volume and blood pressure",
+      "Increase in blood glucose concentration",
+      "Decrease in body temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ANF is secreted by the atria in response to increased blood volume and pressure and promotes sodium and water excretion."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Micturition",
+    "familyId": "micturition_definition",
+    "questionText": "The process of expelling urine from the urinary bladder is called:",
+    "questionLatex": "\\text{The process of expelling urine from the urinary bladder is called:}",
+    "options": [
+      "Ultrafiltration",
+      "Micturition",
+      "Osmoregulation",
+      "Counter-current exchange"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Micturition is the reflex process by which urine is expelled from the urinary bladder through the urethra."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Urine",
+    "familyId": "urine_volume",
+    "questionText": "The average quantity of urine produced by a healthy adult in one day is approximately:",
+    "questionLatex": "\\text{The average quantity of urine produced in one day is:}",
+    "options": [
+      "200-400 mL",
+      "600-800 mL",
+      "1.0-1.5 L",
+      "4-5 L"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A healthy adult normally excretes about 1 to 1.5 litres of urine per day."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Urine Composition",
+    "familyId": "urine_ph",
+    "questionText": "The normal pH of human urine is approximately:",
+    "questionLatex": "\\text{The normal pH of human urine is approximately:}",
+    "options": [
+      "2.0",
+      "4.5-8.0 (around 6.0)",
+      "9.5",
+      "11.0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Normal urine is slightly acidic with an average pH of about 6.0, though it may vary from 4.5 to 8.0."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Artificial Kidney",
+    "familyId": "haemodialysis",
+    "questionText": "Haemodialysis is primarily used for patients suffering from:",
+    "questionLatex": "\\text{Haemodialysis is primarily used for patients suffering from:}",
+    "options": [
+      "Liver failure",
+      "Kidney failure",
+      "Heart failure",
+      "Respiratory failure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Haemodialysis removes nitrogenous wastes from the blood when the kidneys fail to perform this function."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Artificial Kidney",
+    "familyId": "dialysis_membrane",
+    "questionText": "In haemodialysis, the blood is passed through:",
+    "questionLatex": "\\text{In haemodialysis, blood is passed through:}",
+    "options": [
+      "A semipermeable membrane surrounded by dialysing fluid",
+      "A collecting duct",
+      "Bowman's capsule",
+      "The urinary bladder"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "An artificial kidney contains a semipermeable membrane across which wastes diffuse into the dialysing fluid."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Renal Disorders",
+    "familyId": "renal_calculi",
+    "questionText": "Renal calculi are commonly known as:",
+    "questionLatex": "\\text{Renal calculi are commonly known as:}",
+    "options": [
+      "Kidney stones",
+      "Gall stones",
+      "Blood clots",
+      "Urinary pigments"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Renal calculi are stone-like deposits formed in the kidneys due to crystallization of salts."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Renal Disorders",
+    "familyId": "glomerulonephritis",
+    "questionText": "Glomerulonephritis refers to:",
+    "questionLatex": "\\text{Glomerulonephritis refers to:}",
+    "options": [
+      "Inflammation of the urinary bladder",
+      "Inflammation of the glomeruli of the kidneys",
+      "Formation of kidney stones",
+      "Failure of the ureter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Glomerulonephritis is the inflammation of the glomeruli, affecting filtration in the kidneys."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Chapter Revision",
+    "familyId": "integrated_excretion",
+    "questionText": "Which one of the following statements is correct regarding urine formation in humans?",
+    "questionLatex": "\\text{Which one of the following statements regarding urine formation is correct?}",
+    "options": [
+      "Glomerular filtration is an active transport process.",
+      "Maximum reabsorption of glucose occurs in the proximal convoluted tubule.",
+      "The ascending limb of the loop of Henle is freely permeable to water.",
+      "ADH decreases water reabsorption from the collecting duct."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Nearly all glucose is reabsorbed in the proximal convoluted tubule. Glomerular filtration is passive, the ascending limb is impermeable to water, and ADH increases water reabsorption."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Urine Formation",
+    "familyId": "urine_composition",
+    "questionText": "Which of the following is the major nitrogenous waste present in normal human urine?",
+    "questionLatex": "\\text{Which of the following is the major nitrogenous waste present in normal human urine?}",
+    "options": [
+      "Ammonia",
+      "Urea",
+      "Uric acid",
+      "Creatinine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Urea is the principal nitrogenous waste excreted in human urine, accounting for nearly 25–30 g per day."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Urine Composition",
+    "familyId": "normal_urine",
+    "questionText": "Which one of the following substances is normally absent in the urine of a healthy individual?",
+    "questionLatex": "\\text{Which one of the following substances is normally absent in the urine of a healthy individual?}",
+    "options": [
+      "Urea",
+      "Uric acid",
+      "Glucose",
+      "Creatinine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glucose is completely reabsorbed in the proximal convoluted tubule under normal physiological conditions and is absent from normal urine."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Artificial Kidney",
+    "familyId": "dialysis_principle",
+    "questionText": "Haemodialysis removes waste products from blood mainly by the process of:",
+    "questionLatex": "\\text{Haemodialysis removes waste products mainly by:}",
+    "options": [
+      "Active transport",
+      "Diffusion across a semipermeable membrane",
+      "Ultrafiltration by glomeruli",
+      "Osmosis only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In haemodialysis, wastes diffuse from the patient's blood across a semipermeable membrane into the dialysing fluid."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Counter Current Mechanism",
+    "familyId": "urea_role",
+    "questionText": "Urea contributes to urine concentration primarily by:",
+    "questionLatex": "\\text{Urea contributes to urine concentration primarily by:}",
+    "options": [
+      "Increasing glomerular filtration rate",
+      "Maintaining the osmotic gradient of the renal medulla",
+      "Blocking sodium reabsorption",
+      "Reducing water permeability of collecting ducts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Urea recycling helps maintain the medullary osmotic gradient, which facilitates water reabsorption and concentration of urine."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Hormonal Regulation",
+    "familyId": "adh_deficiency",
+    "questionText": "Deficiency of antidiuretic hormone (ADH) results in:",
+    "questionLatex": "\\text{Deficiency of ADH results in:}",
+    "options": [
+      "Reduced urine output",
+      "Formation of highly concentrated urine",
+      "Excretion of a large volume of dilute urine",
+      "Complete absence of urine formation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Insufficient ADH reduces water reabsorption in the collecting ducts, producing a large volume of dilute urine."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Renal Disorders",
+    "familyId": "uremia",
+    "questionText": "Uremia is a condition characterized by:",
+    "questionLatex": "\\text{Uremia is characterized by:}",
+    "options": [
+      "Excess glucose in blood",
+      "Accumulation of urea and other nitrogenous wastes in blood",
+      "Excess bile pigments in urine",
+      "Absence of proteins in blood"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Kidney malfunction causes accumulation of urea and other nitrogenous wastes in the blood, leading to uremia."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Kidney Function",
+    "familyId": "kidney_blood_supply",
+    "questionText": "Blood enters each kidney through the:",
+    "questionLatex": "\\text{Blood enters each kidney through the:}",
+    "options": [
+      "Renal vein",
+      "Ureter",
+      "Renal artery",
+      "Inferior vena cava"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Each kidney receives oxygenated blood through the renal artery, which branches from the abdominal aorta."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Kidney Function",
+    "familyId": "kidney_blood_exit",
+    "questionText": "Purified blood leaves the kidney through the:",
+    "questionLatex": "\\text{Purified blood leaves the kidney through the:}",
+    "options": [
+      "Renal artery",
+      "Renal vein",
+      "Ureter",
+      "Collecting duct"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "After filtration and exchange, blood leaves the kidney through the renal vein."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Nephron",
+    "familyId": "collecting_duct_function",
+    "questionText": "The collecting duct primarily functions in:",
+    "questionLatex": "\\text{The collecting duct primarily functions in:}",
+    "options": [
+      "Glomerular filtration",
+      "Final concentration of urine through water reabsorption",
+      "Formation of Bowman's capsule",
+      "Production of renin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The collecting duct reabsorbs water under the influence of ADH and plays a major role in concentrating urine."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Excretory Products and Their Elimination",
+    "topic": "Chapter Revision",
+    "familyId": "integrated_excretion_concepts",
+    "questionText": "Which one of the following statements regarding the human excretory system is correct?",
+    "questionLatex": "\\text{Which one of the following statements regarding the human excretory system is correct?}",
+    "options": [
+      "The ascending limb of the loop of Henle is freely permeable to water.",
+      "The proximal convoluted tubule is the major site of selective reabsorption.",
+      "Glomerular filtration is an active transport process.",
+      "ADH decreases the permeability of the collecting duct to water."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The proximal convoluted tubule is the principal site of selective reabsorption. The ascending limb is impermeable to water, glomerular filtration is passive, and ADH increases water permeability."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

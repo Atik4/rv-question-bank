@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Need for Classification",
+    "familyId": "classification_need",
+    "questionText": "Why is classification of elements necessary in chemistry?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "To reduce the number of elements",
+        "latex": null
+      },
+      {
+        "text": "To organize and study the properties of a large number of elements systematically",
+        "latex": null
+      },
+      {
+        "text": "To change the atomic masses of elements",
+        "latex": null
+      },
+      {
+        "text": "To discover isotopes",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "To organize and study the properties of a large number of elements systematically",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Dobereiner's Triads",
+    "familyId": "dobereiner_triads",
+    "questionText": "According to Dobereiner's Law of Triads, the atomic mass of the middle element is approximately equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Twice the atomic mass of the first element",
+        "latex": null
+      },
+      {
+        "text": "Half the atomic mass of the third element",
+        "latex": null
+      },
+      {
+        "text": "The arithmetic mean of the atomic masses of the other two elements",
+        "latex": null
+      },
+      {
+        "text": "The geometric mean of the atomic masses of the other two elements",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "The arithmetic mean of the atomic masses of the other two elements",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Dobereiner's Triads",
+    "familyId": "triad_example",
+    "questionText": "Which of the following set of elements forms a Dobereiner's triad?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Li, Na, K",
+        "latex": null
+      },
+      {
+        "text": "H, Li, Na",
+        "latex": null
+      },
+      {
+        "text": "Na, Mg, Al",
+        "latex": null
+      },
+      {
+        "text": "Cl, S, P",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Li, Na, K",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Newlands' Law of Octaves",
+    "familyId": "newlands_octaves",
+    "questionText": "According to Newlands' Law of Octaves, every ______ element has properties similar to the first element.",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Sixth",
+        "latex": null
+      },
+      {
+        "text": "Seventh",
+        "latex": null
+      },
+      {
+        "text": "Eighth",
+        "latex": null
+      },
+      {
+        "text": "Ninth",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Eighth",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Newlands' Law of Octaves",
+    "familyId": "octaves_limitation",
+    "questionText": "Newlands' Law of Octaves was found to be applicable only up to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Magnesium",
+        "latex": null
+      },
+      {
+        "text": "Calcium",
+        "latex": null
+      },
+      {
+        "text": "Potassium",
+        "latex": null
+      },
+      {
+        "text": "Iron",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Calcium",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Mendeleev's Periodic Law",
+    "familyId": "mendeleev_periodic_law",
+    "questionText": "Mendeleev's Periodic Law states that the properties of elements are a periodic function of their:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic numbers",
+        "latex": null
+      },
+      {
+        "text": "Atomic masses",
+        "latex": null
+      },
+      {
+        "text": "Valencies",
+        "latex": null
+      },
+      {
+        "text": "Electronic configurations",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atomic masses",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Mendeleev's Periodic Table",
+    "familyId": "mendeleev_prediction",
+    "questionText": "Mendeleev predicted the existence of eka-aluminium, which was later discovered as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Germanium",
+        "latex": null
+      },
+      {
+        "text": "Gallium",
+        "latex": null
+      },
+      {
+        "text": "Scandium",
+        "latex": null
+      },
+      {
+        "text": "Indium",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Gallium",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Mendeleev's Predictions",
+    "familyId": "eka_silicon",
+    "questionText": "The element predicted by Mendeleev as eka-silicon was later discovered as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gallium",
+        "latex": null
+      },
+      {
+        "text": "Tin",
+        "latex": null
+      },
+      {
+        "text": "Germanium",
+        "latex": null
+      },
+      {
+        "text": "Arsenic",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Germanium",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Mendeleev's Table",
+    "familyId": "tellurium_iodine",
+    "questionText": "Mendeleev placed iodine after tellurium despite its lower atomic mass because:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic masses were unknown",
+        "latex": null
+      },
+      {
+        "text": "Iodine was radioactive",
+        "latex": null
+      },
+      {
+        "text": "Similarity in chemical properties was given greater importance",
+        "latex": null
+      },
+      {
+        "text": "Iodine had a larger atomic radius",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Similarity in chemical properties was given greater importance",
+      "latex": null
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Mendeleev's Table",
+    "familyId": "mendeleev_merit",
+    "questionText": "Which of the following was a major achievement of Mendeleev's Periodic Table?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Discovery of electrons",
+        "latex": null
+      },
+      {
+        "text": "Prediction of properties of undiscovered elements",
+        "latex": null
+      },
+      {
+        "text": "Determination of atomic numbers",
+        "latex": null
+      },
+      {
+        "text": "Discovery of isotopes",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Prediction of properties of undiscovered elements",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Modern Periodic Law",
+    "familyId": "modern_periodic_law",
+    "questionText": "According to the Modern Periodic Law, the physical and chemical properties of elements are periodic functions of their:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atomic masses",
+        "latex": null
+      },
+      {
+        "text": "Atomic numbers",
+        "latex": null
+      },
+      {
+        "text": "Mass numbers",
+        "latex": null
+      },
+      {
+        "text": "Valencies",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atomic numbers",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Moseley's Work",
+    "familyId": "moseley_discovery",
+    "questionText": "The scientist who established that atomic number is a more fundamental property than atomic mass was:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dmitri Mendeleev",
+        "latex": null
+      },
+      {
+        "text": "Lothar Meyer",
+        "latex": null
+      },
+      {
+        "text": "Henry Moseley",
+        "latex": null
+      },
+      {
+        "text": "Dobereiner",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Henry Moseley",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Table",
+    "familyId": "period_definition",
+    "questionText": "The horizontal rows in the modern periodic table are called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Groups",
+        "latex": null
+      },
+      {
+        "text": "Families",
+        "latex": null
+      },
+      {
+        "text": "Periods",
+        "latex": null
+      },
+      {
+        "text": "Blocks",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Periods",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Table",
+    "familyId": "group_definition",
+    "questionText": "The vertical columns in the modern periodic table are called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Series",
+        "latex": null
+      },
+      {
+        "text": "Periods",
+        "latex": null
+      },
+      {
+        "text": "Groups",
+        "latex": null
+      },
+      {
+        "text": "Rows",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Groups",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Modern Periodic Table",
+    "familyId": "number_of_groups",
+    "questionText": "According to IUPAC recommendations, the modern periodic table contains:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "8 groups",
+        "latex": null
+      },
+      {
+        "text": "16 groups",
+        "latex": null
+      },
+      {
+        "text": "18 groups",
+        "latex": null
+      },
+      {
+        "text": "20 groups",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "18 groups",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Modern Periodic Table",
+    "familyId": "number_of_periods",
+    "questionText": "The modern periodic table consists of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "5 periods",
+        "latex": null
+      },
+      {
+        "text": "6 periods",
+        "latex": null
+      },
+      {
+        "text": "7 periods",
+        "latex": null
+      },
+      {
+        "text": "8 periods",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "7 periods",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periods",
+    "familyId": "first_period_elements",
+    "questionText": "The first period of the periodic table contains:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "2 elements",
+        "latex": null
+      },
+      {
+        "text": "8 elements",
+        "latex": null
+      },
+      {
+        "text": "18 elements",
+        "latex": null
+      },
+      {
+        "text": "32 elements",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "2 elements",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periods",
+    "familyId": "period_quantum_number",
+    "questionText": "The period number of an element corresponds to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Number of valence electrons",
+        "latex": null
+      },
+      {
+        "text": "Highest principal quantum number of the valence shell",
+        "latex": null
+      },
+      {
+        "text": "Number of protons",
+        "latex": null
+      },
+      {
+        "text": "Number of neutrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Highest principal quantum number of the valence shell",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Element Nomenclature",
+    "familyId": "iupac_roots",
+    "questionText": "According to IUPAC nomenclature for elements with atomic number greater than 100, the root 'quad' represents the digit:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "3",
+        "latex": null
+      },
+      {
+        "text": "4",
+        "latex": null
+      },
+      {
+        "text": "5",
+        "latex": null
+      },
+      {
+        "text": "6",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Element Nomenclature",
+    "familyId": "element_120_name",
+    "questionText": "What is the temporary IUPAC name of the element with atomic number 120?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Unnilnilium",
+        "latex": null
+      },
+      {
+        "text": "Unbinilium",
+        "latex": null
+      },
+      {
+        "text": "Ununnilium",
+        "latex": null
+      },
+      {
+        "text": "Unnilbium",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Unbinilium",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronic Configuration",
+    "familyId": "group_valence_electrons",
+    "questionText": "For s-block and p-block elements, the group number is generally related to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Number of neutrons",
+        "latex": null
+      },
+      {
+        "text": "Atomic mass",
+        "latex": null
+      },
+      {
+        "text": "Number of valence electrons",
+        "latex": null
+      },
+      {
+        "text": "Number of shells",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Number of valence electrons",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Blocks of Periodic Table",
+    "familyId": "s_block_definition",
+    "questionText": "Elements in which the last electron enters the s-subshell belong to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "p-block",
+        "latex": null
+      },
+      {
+        "text": "d-block",
+        "latex": null
+      },
+      {
+        "text": "f-block",
+        "latex": null
+      },
+      {
+        "text": "s-block",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "s-block",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Blocks of Periodic Table",
+    "familyId": "p_block_definition",
+    "questionText": "Elements having their valence electron in a p-orbital belong to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "s-block",
+        "latex": null
+      },
+      {
+        "text": "p-block",
+        "latex": null
+      },
+      {
+        "text": "d-block",
+        "latex": null
+      },
+      {
+        "text": "f-block",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "p-block",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Blocks of Periodic Table",
+    "familyId": "d_block_definition",
+    "questionText": "The transition elements belong to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "s-block",
+        "latex": null
+      },
+      {
+        "text": "p-block",
+        "latex": null
+      },
+      {
+        "text": "d-block",
+        "latex": null
+      },
+      {
+        "text": "f-block",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "d-block",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Blocks of Periodic Table",
+    "familyId": "f_block_definition",
+    "questionText": "Lanthanoids and actinoids are collectively placed in:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "s-block",
+        "latex": null
+      },
+      {
+        "text": "p-block",
+        "latex": null
+      },
+      {
+        "text": "d-block",
+        "latex": null
+      },
+      {
+        "text": "f-block",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "f-block",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Atomic Radius",
+    "familyId": "atomic_radius_definition",
+    "questionText": "Atomic radius is generally measured as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Distance between nucleus and outermost electron",
+        "latex": null
+      },
+      {
+        "text": "Half the distance between nuclei of two bonded atoms",
+        "latex": null
+      },
+      {
+        "text": "Distance between two electrons",
+        "latex": null
+      },
+      {
+        "text": "Radius of the nucleus",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Half the distance between nuclei of two bonded atoms",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Atomic Radius Trends",
+    "familyId": "atomic_radius_period",
+    "questionText": "Across a period from left to right, atomic radius generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "First increases then decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Atomic Radius Trends",
+    "familyId": "atomic_radius_group",
+    "questionText": "Down a group, atomic radius generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains unchanged",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionic Radius",
+    "familyId": "cation_anion_size",
+    "questionText": "Compared to its parent atom, the size of a cation is generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Larger",
+        "latex": null
+      },
+      {
+        "text": "Smaller",
+        "latex": null
+      },
+      {
+        "text": "Equal",
+        "latex": null
+      },
+      {
+        "text": "Unpredictable",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Smaller",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionic Radius",
+    "familyId": "anion_size",
+    "questionText": "Compared to its parent atom, the size of an anion is generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Smaller",
+        "latex": null
+      },
+      {
+        "text": "Equal",
+        "latex": null
+      },
+      {
+        "text": "Larger",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Larger",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Enthalpy",
+    "familyId": "ionization_enthalpy_definition",
+    "questionText": "Ionization enthalpy is the energy required to remove:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "An electron from an isolated gaseous atom",
+        "latex": null
+      },
+      {
+        "text": "A proton from the nucleus",
+        "latex": null
+      },
+      {
+        "text": "A neutron from the nucleus",
+        "latex": null
+      },
+      {
+        "text": "An electron from a liquid atom",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "An electron from an isolated gaseous atom",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Enthalpy",
+    "familyId": "first_ionization_enthalpy",
+    "questionText": "The process represented by X(g) → X⁺(g) + e⁻ corresponds to:",
+    "questionLatex": "\\text{X(g)} \\rightarrow \\text{X}^+(\\text{g}) + e^-",
+    "options": [
+      {
+        "text": "Electron gain enthalpy",
+        "latex": null
+      },
+      {
+        "text": "First ionization enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Second ionization enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Electronegativity",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "First ionization enthalpy",
+      "latex": "\\text{X(g)} \\rightarrow \\text{X}^+(\\text{g}) + e^-"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Enthalpy Trends",
+    "familyId": "ionization_period_trend",
+    "questionText": "Across a period from left to right, ionization enthalpy generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Enthalpy Trends",
+    "familyId": "ionization_group_trend",
+    "questionText": "Down a group, ionization enthalpy generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains unchanged",
+        "latex": null
+      },
+      {
+        "text": "Doubles",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electron Gain Enthalpy",
+    "familyId": "electron_gain_definition",
+    "questionText": "Electron gain enthalpy is the enthalpy change when an electron is added to an isolated gaseous:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Cation",
+        "latex": null
+      },
+      {
+        "text": "Atom",
+        "latex": null
+      },
+      {
+        "text": "Molecule only",
+        "latex": null
+      },
+      {
+        "text": "Nucleus",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Atom",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electron Gain Enthalpy",
+    "familyId": "electron_gain_period_trend",
+    "questionText": "Across a period, electron gain enthalpy generally becomes:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Less negative",
+        "latex": null
+      },
+      {
+        "text": "More positive",
+        "latex": null
+      },
+      {
+        "text": "More negative",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "More negative",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronegativity",
+    "familyId": "electronegativity_definition",
+    "questionText": "Electronegativity is defined as the tendency of an atom in a molecule to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Lose electrons",
+        "latex": null
+      },
+      {
+        "text": "Gain neutrons",
+        "latex": null
+      },
+      {
+        "text": "Attract shared electron pair towards itself",
+        "latex": null
+      },
+      {
+        "text": "Repel all electrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Attract shared electron pair towards itself",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronegativity Trends",
+    "familyId": "electronegativity_period",
+    "questionText": "Across a period, electronegativity generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronegativity Trends",
+    "familyId": "electronegativity_group",
+    "questionText": "Down a group, electronegativity generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Becomes infinite",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Trends",
+    "familyId": "fluorine_property",
+    "questionText": "Which element has the highest electronegativity in the periodic table?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Oxygen",
+        "latex": null
+      },
+      {
+        "text": "Chlorine",
+        "latex": null
+      },
+      {
+        "text": "Nitrogen",
+        "latex": null
+      },
+      {
+        "text": "Fluorine",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Fluorine",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Valency Trends",
+    "familyId": "valency_period_trend",
+    "questionText": "Across a period, the valency of elements with respect to hydrogen generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases from 1 to 4 and then decreases to 0",
+        "latex": null
+      },
+      {
+        "text": "Continuously increases from 1 to 8",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Continuously decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Increases from 1 to 4 and then decreases to 0",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Valency Trends",
+    "familyId": "valency_group_trend",
+    "questionText": "Down a group, the valency of elements generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains the same",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Remains the same",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Metallic Character",
+    "familyId": "metallic_character_definition",
+    "questionText": "Metallic character is associated with the tendency of an atom to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gain electrons",
+        "latex": null
+      },
+      {
+        "text": "Share electrons",
+        "latex": null
+      },
+      {
+        "text": "Lose electrons",
+        "latex": null
+      },
+      {
+        "text": "Gain neutrons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Lose electrons",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Metallic Character",
+    "familyId": "metallic_character_period",
+    "questionText": "Across a period from left to right, metallic character generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "First increases then decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Metallic Character",
+    "familyId": "metallic_character_group",
+    "questionText": "Down a group, metallic character generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains unchanged",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Non-Metallic Character",
+    "familyId": "nonmetallic_character_period",
+    "questionText": "Across a period, non-metallic character generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Chemical Reactivity",
+    "familyId": "alkali_metal_reactivity",
+    "questionText": "The chemical reactivity of alkali metals down the group:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "First increases then decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Chemical Reactivity",
+    "familyId": "halogen_reactivity",
+    "questionText": "The chemical reactivity of halogens down the group:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Becomes maximum",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Decreases",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Trends",
+    "familyId": "largest_atomic_radius_period3",
+    "questionText": "Which element has the largest atomic radius in the third period?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Na",
+        "latex": null
+      },
+      {
+        "text": "Mg",
+        "latex": null
+      },
+      {
+        "text": "Al",
+        "latex": null
+      },
+      {
+        "text": "Si",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Na",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Trends",
+    "familyId": "highest_ionization_enthalpy_period3",
+    "questionText": "Which element possesses the highest first ionization enthalpy in the third period?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Sodium",
+        "latex": null
+      },
+      {
+        "text": "Magnesium",
+        "latex": null
+      },
+      {
+        "text": "Chlorine",
+        "latex": null
+      },
+      {
+        "text": "Argon",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Argon",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  }
+]

@@ -1,0 +1,1246 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electrostatics",
+    "familyId": "electrostatics_definition",
+    "questionText": "Electrostatics deals with the study of:",
+    "questionLatex": "",
+    "options": [
+      "Moving charges only",
+      "Static charges, forces, fields and potentials",
+      "Magnetic fields only",
+      "Current electricity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Static charges, forces, fields and potentials"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Charge",
+    "familyId": "types_of_charge",
+    "questionText": "How many types of electric charges exist in nature?",
+    "questionLatex": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Two"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Properties of Charge",
+    "familyId": "like_unlike_charges",
+    "questionText": "State the interaction between like and unlike charges.",
+    "questionLatex": "",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Like charges repel each other, whereas unlike charges attract each other."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Conductors and Insulators",
+    "familyId": "conductor_definition",
+    "questionText": "Materials that allow electric charges to move freely through them are called:",
+    "questionLatex": "",
+    "options": [
+      "Insulators",
+      "Semiconductors",
+      "Conductors",
+      "Dielectrics"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Conductors"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Conductors and Insulators",
+    "familyId": "insulator_examples",
+    "questionText": "Which one of the following is an insulator?",
+    "questionLatex": "",
+    "options": [
+      "Copper",
+      "Aluminium",
+      "Glass",
+      "Silver"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Glass"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Properties of Charge",
+    "familyId": "additivity_of_charge",
+    "questionText": "The total charge of a system containing charges $q_1, q_2$ and $q_3$ is:",
+    "questionLatex": "$Q=q_1+q_2+q_3$",
+    "options": [
+      "$q_1q_2q_3$",
+      "$q_1+q_2+q_3$",
+      "$q_1-q_2+q_3$",
+      "$\\frac{q_1}{q_2}+q_3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$q_1+q_2+q_3$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Conservation of Charge",
+    "familyId": "charge_conservation",
+    "questionText": "According to the law of conservation of charge:",
+    "questionLatex": "",
+    "options": [
+      "Charge can be created but not destroyed",
+      "Charge can be destroyed but not created",
+      "Net charge of an isolated system remains constant",
+      "Charge can be created and destroyed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Net charge of an isolated system remains constant"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Quantisation of Charge",
+    "familyId": "quantisation_formula",
+    "questionText": "The quantisation of charge is expressed as:",
+    "questionLatex": "$q=ne$",
+    "options": [
+      "$q=\\frac{e}{n}$",
+      "$q=n^2e$",
+      "$q=ne$",
+      "$q=e^n$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$q = ne$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Quantisation of Charge",
+    "familyId": "elementary_charge_value",
+    "questionText": "The magnitude of elementary charge is:",
+    "questionLatex": "",
+    "options": [
+      "$1.6 \\times 10^{-19} \\text{ C}$",
+      "$1.6 \\times 10^{-18} \\text{ C}$",
+      "$1.6 \\times 10^{-20} \\text{ C}$",
+      "$1.6 \\times 10^{-17} \\text{ C}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$1.6 \\times 10^{-19} \\text{ C}$"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Quantisation of Charge",
+    "familyId": "charge_calculation",
+    "questionText": "Calculate the charge on a body having an excess of $5 \\times 10^6$ electrons.",
+    "questionLatex": "$q=-ne$",
+    "options": [
+      "$-8 \\times 10^{-13} \\text{ C}$",
+      "$8 \\times 10^{-13} \\text{ C}$",
+      "$-8 \\times 10^{-12} \\text{ C}$",
+      "$8 \\times 10^{-12} \\text{ C}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$-8 \\times 10^{-13} \\text{ C}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "coulomb_law_statement",
+    "questionText": "According to Coulomb's law, the electrostatic force between two point charges is directly proportional to:",
+    "questionLatex": "$F \\propto q_1 q_2$",
+    "options": [
+      "Distance between charges",
+      "Square of distance",
+      "Product of charges",
+      "Sum of charges"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Product of charges"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "inverse_square_law",
+    "questionText": "The electrostatic force between two point charges varies inversely as:",
+    "questionLatex": "$F \\propto \\frac{1}{r^2}$",
+    "options": [
+      "$r$",
+      "$r^2$",
+      "$\\frac{1}{r}$",
+      "$\\frac{1}{r^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$\\frac{1}{r^2}$"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "coulomb_law_formula",
+    "questionText": "Identify the correct expression for Coulomb's law in vacuum.",
+    "questionLatex": "$F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1q_2|}{r^2}$",
+    "options": [
+      "$F=\\frac{q_1q_2}{r}$",
+      "$F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1q_2|}{r^2}$",
+      "$F=\\frac{|q_1q_2|}{r^3}$",
+      "$F=4\\pi\\varepsilon_0\\frac{|q_1q_2|}{r^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1q_2|}{r^2}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Permittivity",
+    "familyId": "epsilon_value",
+    "questionText": "The permittivity of free space $\\varepsilon_0$ is approximately equal to:",
+    "questionLatex": "$\\varepsilon_0$",
+    "options": [
+      "$8.854 \\times 10^{-12} \\text{ C}^2\\text{N}^{-1}\\text{m}^{-2}$",
+      "$9 \\times 10^9 \\text{ Nm}^2\\text{C}^{-2}$",
+      "$1.6 \\times 10^{-19} \\text{ C}$",
+      "$6.67 \\times 10^{-11} \\text{ Nm}^2\\text{kg}^{-2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$8.854 \\times 10^{-12} \\text{ C}^2\\text{N}^{-1}\\text{m}^{-2}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb Constant",
+    "familyId": "coulomb_constant",
+    "questionText": "The value of Coulomb's constant $k$ in SI units is:",
+    "questionLatex": "$k=\\frac{1}{4\\pi\\varepsilon_0}$",
+    "options": [
+      "$9 \\times 10^9 \\text{ Nm}^2\\text{C}^{-2}$",
+      "$8.854 \\times 10^{-12}$",
+      "$1.6 \\times 10^{-19}$",
+      "$6.67 \\times 10^{-11}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$9 \\times 10^9 \\text{ Nm}^2\\text{C}^{-2}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "force_calculation_basic",
+    "questionText": "Two charges of $1 \\mu\\text{C}$ each are placed $1 \\text{m}$ apart in vacuum. Calculate the electrostatic force between them.",
+    "questionLatex": "$F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q_1q_2}{r^2}$",
+    "options": [
+      "$9 \\times 10^{-3} \\text{ N}$",
+      "$9 \\times 10^{-6} \\text{ N}$",
+      "$9 \\times 10^{-9} \\text{ N}$",
+      "$9 \\text{ N}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$9 \\times 10^{-3} \\text{ N}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "nature_of_force",
+    "questionText": "The force between two like charges is:",
+    "questionLatex": "",
+    "options": [
+      "Attractive",
+      "Repulsive",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Repulsive"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "unlike_charge_force",
+    "questionText": "The force between two unlike charges is:",
+    "questionLatex": "",
+    "options": [
+      "Repulsive",
+      "Attractive",
+      "Zero",
+      "Depends on mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Attractive"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Comparison of Forces",
+    "familyId": "electrical_vs_gravitational",
+    "questionText": "Compared to gravitational force between elementary particles, the electrostatic force is:",
+    "questionLatex": "",
+    "options": [
+      "Much weaker",
+      "Equal",
+      "Much stronger",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Much stronger"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Coulomb's Law",
+    "familyId": "distance_effect",
+    "questionText": "If the distance between two point charges is doubled, the electrostatic force becomes:",
+    "questionLatex": "$F \\propto \\frac{1}{r^2}$",
+    "options": [
+      "$2F$",
+      "$F/2$",
+      "$F/4$",
+      "$4F$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$F/4$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Superposition Principle",
+    "familyId": "superposition_definition",
+    "questionText": "According to the principle of superposition, the net force on a charge due to a number of charges is:",
+    "questionLatex": "$\\vec{F}=\\sum \\vec{F_i}$",
+    "options": [
+      "Product of individual forces",
+      "Vector sum of individual forces",
+      "Scalar sum of individual forces",
+      "Difference of individual forces"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Vector sum of individual forces"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field",
+    "familyId": "electric_field_definition",
+    "questionText": "Electric field at a point is defined as the force experienced by a unit positive test charge placed at that point.",
+    "questionLatex": "$\\vec{E}=\\frac{\\vec{F}}{q_0}$",
+    "options": [
+      "True",
+      "False",
+      "Partially true",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "True"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field",
+    "familyId": "electric_field_formula",
+    "questionText": "The electric field due to a point charge q at a distance r is given by:",
+    "questionLatex": "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}$",
+    "options": [
+      "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}$",
+      "$E=\\frac{q}{r}$",
+      "$E=\\frac{q}{r^3}$",
+      "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field",
+    "familyId": "electric_field_unit",
+    "questionText": "The SI unit of electric field intensity is:",
+    "questionLatex": "$E=\\frac{F}{q}$",
+    "options": [
+      "N/C",
+      "C/N",
+      "V·m",
+      "J/C"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "N/C"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field",
+    "familyId": "field_direction_positive",
+    "questionText": "The electric field lines due to a positive charge are directed:",
+    "questionLatex": "",
+    "options": [
+      "Towards the charge",
+      "Away from the charge",
+      "Circularly around the charge",
+      "Randomly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Away from the charge"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field Lines",
+    "familyId": "field_lines_negative",
+    "questionText": "Electric field lines terminate on:",
+    "questionLatex": "",
+    "options": [
+      "Positive charges",
+      "Negative charges",
+      "Neutral bodies",
+      "Conductors only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Negative charges"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field Calculation",
+    "familyId": "field_due_to_charge",
+    "questionText": "Calculate the electric field at a point 2 m away from a charge of 4 μC in vacuum.",
+    "questionLatex": "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}$",
+    "options": [
+      "$9\\times10^3\\,N/C$",
+      "$4.5\\times10^3\\,N/C$",
+      "$9\\times10^4\\,N/C$",
+      "$1.8\\times10^4\\,N/C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$9\\times10^3\\,N/C$"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field and Force",
+    "familyId": "force_field_relation",
+    "questionText": "The force experienced by a charge q placed in an electric field E is:",
+    "questionLatex": "$\\vec{F}=q\\vec{E}$",
+    "options": [
+      "$F=E/q$",
+      "$F=qE$",
+      "$F=q/E$",
+      "$F=E^2/q$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$F = qE$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field Lines",
+    "familyId": "field_line_properties",
+    "questionText": "Electric field lines never intersect because:",
+    "questionLatex": "",
+    "options": [
+      "Field is zero everywhere",
+      "Two directions of electric field at one point are not possible",
+      "Charges repel each other",
+      "Field lines are imaginary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Two directions of electric field at one point are not possible"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Dipole",
+    "familyId": "dipole_definition",
+    "questionText": "An electric dipole consists of:",
+    "questionLatex": "",
+    "options": [
+      "Two equal positive charges",
+      "Two equal negative charges",
+      "Two equal and opposite charges separated by a small distance",
+      "Three equal charges"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Two equal and opposite charges separated by a small distance"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "gauss_law_statement",
+    "questionText": "According to Gauss's law, the total electric flux through a closed surface is equal to:",
+    "questionLatex": "$\\Phi_E=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "$q_{enc}$",
+      "$\\varepsilon_0 q_{enc}$",
+      "$\\frac{q_{enc}}{\\varepsilon_0}$",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$q_{enc}/\\varepsilon_0$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "gauss_law_formula",
+    "questionText": "Identify the correct mathematical form of Gauss's law.",
+    "questionLatex": "$\\oint \\vec{E}\\cdot d\\vec{S}=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=q_{enc}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=\\frac{q_{enc}}{\\varepsilon_0}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=\\varepsilon_0 q_{enc}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\oint \\vec{E}\\cdot d\\vec{S} = \\frac{q_{enc}}{\\varepsilon_0}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "closed_surface_no_charge",
+    "questionText": "The net electric flux through a closed surface enclosing no charge is:",
+    "questionLatex": "$\\Phi_E=\\frac{0}{\\varepsilon_0}$",
+    "options": [
+      "Infinite",
+      "Positive",
+      "Negative",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Zero"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "flux_independent_shape",
+    "questionText": "According to Gauss's law, the electric flux through a closed surface depends upon:",
+    "questionLatex": "$\\Phi_E=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "Shape of the surface",
+      "Area of the surface",
+      "Charge enclosed",
+      "Volume of the surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Charge enclosed"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Infinite Line Charge",
+    "familyId": "line_charge_field_dependence",
+    "questionText": "The electric field due to an infinitely long straight uniformly charged wire varies as:",
+    "questionLatex": "$E=\\frac{\\lambda}{2\\pi\\varepsilon_0 r}$",
+    "options": [
+      "$\\frac{1}{r^2}$",
+      "$\\frac{1}{r}$",
+      "$\\frac{1}{r^3}$",
+      "$r$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1/r"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Plane Sheet",
+    "familyId": "plane_sheet_field",
+    "questionText": "The electric field due to an infinite plane sheet of charge is:",
+    "questionLatex": "$E=\\frac{\\sigma}{2\\varepsilon_0}$",
+    "options": [
+      "Directly proportional to distance",
+      "Inversely proportional to distance",
+      "Independent of distance",
+      "Zero everywhere"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Independent of distance"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Spherical Shell",
+    "familyId": "field_inside_shell",
+    "questionText": "The electric field inside a uniformly charged spherical shell is:",
+    "questionLatex": "$E=0$",
+    "options": [
+      "Maximum",
+      "Constant",
+      "Zero",
+      "Depends on radius"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Spherical Shell",
+    "familyId": "field_outside_shell",
+    "questionText": "Outside a uniformly charged spherical shell, the electric field behaves as if:",
+    "questionLatex": "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}$",
+    "options": [
+      "Charge is uniformly distributed",
+      "All charge is concentrated at the centre",
+      "Charge is zero",
+      "Field is constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "All charge is concentrated at the centre"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law Applications",
+    "familyId": "gaussian_surface",
+    "questionText": "A Gaussian surface is an:",
+    "questionLatex": "",
+    "options": [
+      "Open imaginary surface",
+      "Closed imaginary surface",
+      "Real conducting surface",
+      "Charged surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Closed imaginary surface"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law Applications",
+    "familyId": "enclosed_charge_flux",
+    "questionText": "A charge of $2 \\mu\\text{C}$ is enclosed by a closed surface. Calculate the electric flux through the surface.",
+    "questionLatex": "$\\Phi_E=\\frac{q}{\\varepsilon_0}$",
+    "options": [
+      "$2.26 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$1.13 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$4.52 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$9 \\times 10^9 \\text{ N m}^2/\\text{C}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$2.26 \\times 10^5 \\text{ N m}^2/\\text{C}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "gauss_law_statement",
+    "questionText": "According to Gauss's law, the total electric flux through a closed surface is equal to:",
+    "questionLatex": "$\\Phi_E=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "$q_{enc}$",
+      "$\\varepsilon_0 q_{enc}$",
+      "$\\frac{q_{enc}}{\\varepsilon_0}$",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$q_{enc}/\\varepsilon_0$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "gauss_law_formula",
+    "questionText": "Identify the correct mathematical form of Gauss's law.",
+    "questionLatex": "$\\oint \\vec{E}\\cdot d\\vec{S}=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=q_{enc}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=\\frac{q_{enc}}{\\varepsilon_0}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=\\varepsilon_0 q_{enc}$",
+      "$\\oint \\vec{E}\\cdot d\\vec{S}=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\oint \\vec{E}\\cdot d\\vec{S} = \\frac{q_{enc}}{\\varepsilon_0}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "closed_surface_no_charge",
+    "questionText": "The net electric flux through a closed surface enclosing no charge is:",
+    "questionLatex": "$\\Phi_E=\\frac{0}{\\varepsilon_0}$",
+    "options": [
+      "Infinite",
+      "Positive",
+      "Negative",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Zero"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law",
+    "familyId": "flux_independent_shape",
+    "questionText": "According to Gauss's law, the electric flux through a closed surface depends upon:",
+    "questionLatex": "$\\Phi_E=\\frac{q_{enc}}{\\varepsilon_0}$",
+    "options": [
+      "Shape of the surface",
+      "Area of the surface",
+      "Charge enclosed",
+      "Volume of the surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Charge enclosed"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Infinite Line Charge",
+    "familyId": "line_charge_field_dependence",
+    "questionText": "The electric field due to an infinitely long straight uniformly charged wire varies as:",
+    "questionLatex": "$E=\\frac{\\lambda}{2\\pi\\varepsilon_0 r}$",
+    "options": [
+      "$\\frac{1}{r^2}$",
+      "$\\frac{1}{r}$",
+      "$\\frac{1}{r^3}$",
+      "$r$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1/r"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Plane Sheet",
+    "familyId": "plane_sheet_field",
+    "questionText": "The electric field due to an infinite plane sheet of charge is:",
+    "questionLatex": "$E=\\frac{\\sigma}{2\\varepsilon_0}$",
+    "options": [
+      "Directly proportional to distance",
+      "Inversely proportional to distance",
+      "Independent of distance",
+      "Zero everywhere"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Independent of distance"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Spherical Shell",
+    "familyId": "field_inside_shell",
+    "questionText": "The electric field inside a uniformly charged spherical shell is:",
+    "questionLatex": "$E=0$",
+    "options": [
+      "Maximum",
+      "Constant",
+      "Zero",
+      "Depends on radius"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Field due to Spherical Shell",
+    "familyId": "field_outside_shell",
+    "questionText": "Outside a uniformly charged spherical shell, the electric field behaves as if:",
+    "questionLatex": "$E=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r^2}$",
+    "options": [
+      "Charge is uniformly distributed",
+      "All charge is concentrated at the centre",
+      "Charge is zero",
+      "Field is constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "All charge is concentrated at the centre"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law Applications",
+    "familyId": "gaussian_surface",
+    "questionText": "A Gaussian surface is an:",
+    "questionLatex": "",
+    "options": [
+      "Open imaginary surface",
+      "Closed imaginary surface",
+      "Real conducting surface",
+      "Charged surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Closed imaginary surface"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Gauss's Law Applications",
+    "familyId": "enclosed_charge_flux",
+    "questionText": "A charge of $2 \\mu\\text{C}$ is enclosed by a closed surface. Calculate the electric flux through the surface.",
+    "questionLatex": "$\\Phi_E=\\frac{q}{\\varepsilon_0}$",
+    "options": [
+      "$2.26 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$1.13 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$4.52 \\times 10^5 \\text{ N m}^2/\\text{C}$",
+      "$9 \\times 10^9 \\text{ N m}^2/\\text{C}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$2.26 \\times 10^5 \\text{ N m}^2/\\text{C}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  }
+]

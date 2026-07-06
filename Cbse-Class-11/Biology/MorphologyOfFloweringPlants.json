@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Introduction",
+    "familyId": "morphology_basic_organs",
+    "questionText": "The basic morphological organs that characterize all flowering plants are:",
+    "questionLatex": "$\\text{The basic morphological organs that characterize all flowering plants are:}$",
+    "options": [
+      "Roots, stems, leaves, flowers and fruits",
+      "Roots, stems, leaves and spores",
+      "Stem, leaves, cones and seeds",
+      "Rhizoids, stems and flowers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Flowering plants are characterized by the presence of roots, stems, leaves, flowers and fruits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Plant Body",
+    "familyId": "plant_body_systems",
+    "questionText": "The underground portion of a flowering plant constitutes the:",
+    "questionLatex": "$\\text{The underground portion of a flowering plant constitutes the:}$",
+    "options": [
+      "Shoot system",
+      "Root system",
+      "Vascular system",
+      "Reproductive system"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The underground part forms the root system, while the aerial portion forms the shoot system."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Root",
+    "familyId": "tap_root_system",
+    "questionText": "In most dicotyledonous plants, the primary root and its branches together form the:",
+    "questionLatex": "$\\text{In most dicotyledonous plants, the primary root and its branches together form the:}$",
+    "options": [
+      "Fibrous root system",
+      "Adventitious root system",
+      "Tap root system",
+      "Prop root system"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The primary root and its lateral branches constitute the tap root system in dicots."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Root",
+    "familyId": "fibrous_root_system",
+    "questionText": "The fibrous root system is characteristic of:",
+    "questionLatex": "$\\text{The fibrous root system is characteristic of:}$",
+    "options": [
+      "Mustard",
+      "Pea",
+      "Wheat",
+      "Gram"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In monocotyledons like wheat, the primary root is replaced by fibrous roots."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Root",
+    "familyId": "adventitious_root_definition",
+    "questionText": "Roots arising from plant parts other than the radicle are known as:",
+    "questionLatex": "$\\text{Roots arising from plant parts other than the radicle are known as:}$",
+    "options": [
+      "Primary roots",
+      "Secondary roots",
+      "Adventitious roots",
+      "Lateral roots"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Roots developing from stem or other plant parts are called adventitious roots."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Root",
+    "familyId": "root_functions",
+    "questionText": "Which of the following is NOT a function of the root system?",
+    "questionLatex": "$\\text{Which of the following is NOT a function of the root system?}$",
+    "options": [
+      "Absorption of water and minerals",
+      "Anchorage",
+      "Photosynthesis",
+      "Storage of reserve food"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Roots mainly absorb water, anchor the plant, store food and synthesize plant growth regulators, but they are generally not photosynthetic."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Regions of Root",
+    "familyId": "root_cap_function",
+    "questionText": "What is the primary function of the root cap?",
+    "questionLatex": "$\\text{What is the primary function of the root cap?}$",
+    "options": [
+      "Absorb minerals",
+      "Store food",
+      "Protect the root apex",
+      "Produce lateral roots"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The root cap protects the delicate root apex as it penetrates the soil."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Regions of Root",
+    "familyId": "root_hair_region",
+    "questionText": "Root hairs develop from the:",
+    "questionLatex": "$\\text{Root hairs develop from the:}$",
+    "options": [
+      "Region of meristematic activity",
+      "Root cap",
+      "Region of maturation",
+      "Region of elongation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Root hairs arise from epidermal cells in the region of maturation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Regions of Root",
+    "familyId": "root_hair_function",
+    "questionText": "Root hairs primarily help in:",
+    "questionLatex": "$\\text{Root hairs primarily help in:}$",
+    "options": [
+      "Vegetative propagation",
+      "Absorption of water and minerals",
+      "Storage of starch",
+      "Mechanical support"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Root hairs greatly increase the surface area for absorption of water and minerals."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Stem",
+    "familyId": "stem_characteristics",
+    "questionText": "State any two characteristic features of a stem.",
+    "questionLatex": "$\\text{State any two characteristic features of a stem.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A stem develops from the plumule of the embryo, bears nodes and internodes, and carries leaves, branches, flowers and fruits."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Stem",
+    "familyId": "stem_functions",
+    "questionText": "Which of the following is NOT a primary function of the stem?",
+    "questionLatex": "$\\text{Which of the following is NOT a primary function of the stem?}$",
+    "options": [
+      "Conduction of water and minerals",
+      "Bearing leaves, flowers and fruits",
+      "Photosynthesis in all plants",
+      "Storage of food in some plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Photosynthesis is not a primary function of the stem in all plants, whereas conduction, support and storage are important stem functions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Stem",
+    "familyId": "node_internode",
+    "questionText": "The region of the stem from which leaves arise is called the:",
+    "questionLatex": "$\\text{The region of the stem from which leaves arise is called the:}$",
+    "options": [
+      "Internode",
+      "Node",
+      "Bud",
+      "Petiole"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Leaves arise from nodes, whereas the portion between two nodes is called the internode."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "leaf_definition",
+    "questionText": "A leaf is a lateral, generally flattened structure borne on the:",
+    "questionLatex": "$\\text{A leaf is a lateral, generally flattened structure borne on the:}$",
+    "options": [
+      "Root",
+      "Stem",
+      "Flower",
+      "Fruit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Leaves are lateral appendages of the stem and arise at the nodes."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "leaf_parts",
+    "questionText": "A typical leaf consists of:",
+    "questionLatex": "$\\text{A typical leaf consists of:}$",
+    "options": [
+      "Leaf base, petiole and lamina",
+      "Petiole, rachis and leaflets",
+      "Leaf sheath, stem and lamina",
+      "Leaf base, flower and lamina"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The three main parts of a typical leaf are the leaf base, petiole and lamina."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "pulvinus",
+    "questionText": "The swollen leaf base found in many leguminous plants is called:",
+    "questionLatex": "$\\text{The swollen leaf base found in many leguminous plants is called:}$",
+    "options": [
+      "Stipule",
+      "Pulvinus",
+      "Rachis",
+      "Midrib"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In many leguminous plants, the leaf base becomes swollen and is called the pulvinus."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "venation_reticulate_parallel",
+    "questionText": "Reticulate venation is generally found in:",
+    "questionLatex": "$\\text{Reticulate venation is generally found in:}$",
+    "options": [
+      "Monocotyledons",
+      "Dicotyledons",
+      "Bryophytes",
+      "Gymnosperms"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Reticulate venation is characteristic of most dicotyledonous plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "parallel_venation",
+    "questionText": "Parallel venation is a characteristic feature of most:",
+    "questionLatex": "$\\text{Parallel venation is a characteristic feature of most:}$",
+    "options": [
+      "Dicotyledons",
+      "Monocotyledons",
+      "Gymnosperms",
+      "Pteridophytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most monocotyledonous plants exhibit parallel venation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "simple_leaf",
+    "questionText": "A leaf is called simple when:",
+    "questionLatex": "$\\text{A leaf is called simple when:}$",
+    "options": [
+      "The lamina is divided into leaflets",
+      "The incisions reach the midrib",
+      "The lamina is entire or the incisions do not reach the midrib",
+      "The leaf lacks a petiole"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In a simple leaf, the lamina is entire or incisions do not extend up to the midrib."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "compound_leaf_types",
+    "questionText": "In a pinnately compound leaf, the leaflets are borne on a common axis called:",
+    "questionLatex": "$\\text{In a pinnately compound leaf, the leaflets are borne on a common axis called:}$",
+    "options": [
+      "Petiole",
+      "Lamina",
+      "Rachis",
+      "Pulvinus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In pinnately compound leaves, the leaflets are attached to a common axis known as the rachis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf",
+    "familyId": "compound_leaf_difference",
+    "questionText": "Differentiate between a simple leaf and a compound leaf.",
+    "questionLatex": "$\\text{Differentiate between a simple leaf and a compound leaf.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A simple leaf has an entire lamina or incisions that do not reach the midrib. In a compound leaf, the incisions extend up to the midrib, dividing the lamina into distinct leaflets."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf Modifications",
+    "familyId": "leaf_tendrils",
+    "questionText": "Leaf tendrils primarily help the plant in:",
+    "questionLatex": "$\\text{Leaf tendrils primarily help the plant in:}$",
+    "options": [
+      "Photosynthesis",
+      "Climbing",
+      "Food storage",
+      "Water absorption"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Leaf tendrils are modifications of leaves that provide support for climbing, as seen in pea."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Leaf Modifications",
+    "familyId": "leaf_spines",
+    "questionText": "Leaves are modified into spines in cactus mainly to:",
+    "questionLatex": "$\\text{Leaves are modified into spines in cactus mainly to:}$",
+    "options": [
+      "Increase transpiration",
+      "Reduce water loss",
+      "Store food",
+      "Perform reproduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Spines reduce the surface area for transpiration and protect the plant from herbivores."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Inflorescence",
+    "familyId": "inflorescence_definition",
+    "questionText": "Inflorescence refers to:",
+    "questionLatex": "$\\text{Inflorescence refers to:}$",
+    "options": [
+      "Arrangement of leaves on a stem",
+      "Arrangement of flowers on the floral axis",
+      "Arrangement of roots in soil",
+      "Arrangement of seeds in a fruit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Inflorescence is the mode of arrangement of flowers on the floral axis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Inflorescence",
+    "familyId": "racemose_inflorescence",
+    "questionText": "In racemose inflorescence:",
+    "questionLatex": "$\\text{In racemose inflorescence:}$",
+    "options": [
+      "The main axis terminates in a flower.",
+      "The main axis continues to grow and flowers are borne laterally.",
+      "Only one flower is produced.",
+      "The oldest flower is present at the apex."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In racemose inflorescence, the main axis continues to grow and flowers are arranged in an acropetal succession."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Inflorescence",
+    "familyId": "cymose_inflorescence",
+    "questionText": "Which statement correctly describes cymose inflorescence?",
+    "questionLatex": "$\\text{Which statement correctly describes cymose inflorescence?}$",
+    "options": [
+      "The main axis grows indefinitely.",
+      "Flowers show acropetal succession.",
+      "The main axis ends in a flower.",
+      "Flowers arise only from underground stems."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In cymose inflorescence, the main axis terminates in a flower and the flowering sequence is basipetal."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "flower_definition",
+    "questionText": "A flower is regarded as a modified:",
+    "questionLatex": "$\\text{A flower is regarded as a modified:}$",
+    "options": [
+      "Root",
+      "Leaf",
+      "Stem",
+      "Fruit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A flower is a modified shoot specialized for sexual reproduction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "flower_parts",
+    "questionText": "The four floral whorls of a complete flower are:",
+    "questionLatex": "$\\text{The four floral whorls of a complete flower are:}$",
+    "options": [
+      "Sepals, petals, stamens and carpels",
+      "Sepals, petals, ovules and fruits",
+      "Petals, stamens, seeds and ovary",
+      "Calyx, root, stem and gynoecium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The floral whorls are calyx (sepals), corolla (petals), androecium (stamens) and gynoecium (carpels)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "bracteate_ebracteate",
+    "questionText": "A flower bearing a bract at its base is known as:",
+    "questionLatex": "$\\text{A flower bearing a bract at its base is known as:}$",
+    "options": [
+      "Ebracteate",
+      "Bracteate",
+      "Sessile",
+      "Pedicellate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Flowers possessing a bract are called bracteate, whereas those without a bract are ebracteate."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "complete_flower",
+    "questionText": "A flower possessing all four floral whorls is called:",
+    "questionLatex": "$\\text{A flower possessing all four floral whorls is called:}$",
+    "options": [
+      "Incomplete flower",
+      "Neutral flower",
+      "Complete flower",
+      "Unisexual flower"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A complete flower possesses calyx, corolla, androecium and gynoecium."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "flower_complete_incomplete",
+    "questionText": "Differentiate between a complete flower and an incomplete flower.",
+    "questionLatex": "$\\text{Differentiate between a complete flower and an incomplete flower.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A complete flower possesses all four floral whorls—calyx, corolla, androecium and gynoecium. An incomplete flower lacks one or more of these floral whorls."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "bisexual_unisexual_flowers",
+    "questionText": "A flower possessing both androecium and gynoecium is called:",
+    "questionLatex": "$\\text{A flower possessing both androecium and gynoecium is called:}$",
+    "options": [
+      "Unisexual",
+      "Bisexual",
+      "Neutral",
+      "Incomplete"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A bisexual (hermaphrodite) flower possesses both male and female reproductive organs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "actinomorphic_flower",
+    "questionText": "A flower that can be divided into two equal radial halves by any vertical plane passing through its centre is termed:",
+    "questionLatex": "$\\text{A flower that can be divided into two equal radial halves by any vertical plane passing through its centre is termed:}$",
+    "options": [
+      "Zygomorphic",
+      "Asymmetrical",
+      "Actinomorphic",
+      "Incomplete"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Actinomorphic flowers exhibit radial symmetry and can be divided into two equal halves through any vertical plane."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "zygomorphic_flower",
+    "questionText": "Which of the following flowers is zygomorphic?",
+    "questionLatex": "$\\text{Which of the following flowers is zygomorphic?}$",
+    "options": [
+      "Mustard",
+      "Datura",
+      "Pea",
+      "Chilli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pea flowers exhibit bilateral symmetry and are therefore zygomorphic."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "ovary_position_hypogynous",
+    "questionText": "In a hypogynous flower, the ovary is:",
+    "questionLatex": "$\\text{In a hypogynous flower, the ovary is:}$",
+    "options": [
+      "Inferior",
+      "Half inferior",
+      "Superior",
+      "Absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In hypogynous flowers, the gynoecium occupies the highest position and the ovary is superior."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "ovary_position_perigynous",
+    "questionText": "In perigynous flowers, the ovary is described as:",
+    "questionLatex": "$\\text{In perigynous flowers, the ovary is described as:}$",
+    "options": [
+      "Superior",
+      "Inferior",
+      "Half inferior",
+      "Completely enclosed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In perigynous flowers, the gynoecium is situated in the centre and other parts of the flower are located on the rim of the thalamus almost at the same level. The ovary here is said to be half inferior."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "familyId": "ovary_position_epigynous",
+    "questionText": "The ovary is inferior in:",
+    "questionLatex": "$\\text{The ovary is inferior in:}$",
+    "options": [
+      "Hypogynous flowers",
+      "Perigynous flowers",
+      "Epigynous flowers",
+      "Actinomorphic flowers only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In epigynous flowers, the floral parts arise above the ovary, making it inferior."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Calyx",
+    "familyId": "calyx_definition",
+    "questionText": "The outermost whorl of a flower is called:",
+    "questionLatex": "$\\text{The outermost whorl of a flower is called:}$",
+    "options": [
+      "Corolla",
+      "Androecium",
+      "Calyx",
+      "Gynoecium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The calyx consists of sepals and forms the outermost floral whorl."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Corolla",
+    "familyId": "corolla_definition",
+    "questionText": "The whorl of petals collectively forms the:",
+    "questionLatex": "$\\text{The whorl of petals collectively forms the:}$",
+    "options": [
+      "Calyx",
+      "Corolla",
+      "Androecium",
+      "Perianth"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The corolla is composed of all the petals of a flower."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Androecium",
+    "familyId": "stamen_parts",
+    "questionText": "A typical stamen consists of:",
+    "questionLatex": "$\\text{A typical stamen consists of:}$",
+    "options": [
+      "Filament and stigma",
+      "Anther and ovary",
+      "Filament and anther",
+      "Style and filament"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Each stamen consists of a filament bearing an anther at its tip."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Androecium",
+    "familyId": "dithecous_anther",
+    "questionText": "State the characteristic features of a typical angiosperm anther.",
+    "questionLatex": "$\\text{State the characteristic features of a typical angiosperm anther.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A typical angiosperm anther is bilobed (dithecous), each lobe contains two pollen sacs (microsporangia), and the lobes are connected by connective tissue."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Gynoecium",
+    "familyId": "gynoecium_definition",
+    "questionText": "The female reproductive part of a flower is known as:",
+    "questionLatex": "$\\text{The female reproductive part of a flower is known as:}$",
+    "options": [
+      "Androecium",
+      "Corolla",
+      "Gynoecium",
+      "Calyx"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The gynoecium is the female reproductive whorl consisting of one or more carpels."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Gynoecium",
+    "familyId": "carpel_parts",
+    "questionText": "A typical carpel consists of:",
+    "questionLatex": "$\\text{A typical carpel consists of:}$",
+    "options": [
+      "Anther, filament and stigma",
+      "Ovary, style and stigma",
+      "Sepal, petal and ovary",
+      "Style, filament and ovule"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each carpel consists of three parts: stigma, style and ovary."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Gynoecium",
+    "familyId": "apocarpous_syncarpous",
+    "questionText": "When carpels are free from one another, the gynoecium is described as:",
+    "questionLatex": "$\\text{When carpels are free from one another, the gynoecium is described as:}$",
+    "options": [
+      "Syncarpous",
+      "Apocarpous",
+      "Epigynous",
+      "Hypogynous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A gynoecium with free carpels is called apocarpous, whereas fused carpels form a syncarpous gynoecium."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Gynoecium",
+    "familyId": "syncarpous_examples",
+    "questionText": "Which of the following plants possesses a syncarpous gynoecium?",
+    "questionLatex": "$\\text{Which of the following plants possesses a syncarpous gynoecium?}$",
+    "options": [
+      "Lotus",
+      "Rose",
+      "Tomato",
+      "Michelia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Tomato has fused carpels (syncarpous gynoecium), whereas lotus, rose and Michelia are apocarpous."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Fruit",
+    "familyId": "fruit_definition",
+    "questionText": "A fruit is the mature or ripened:",
+    "questionLatex": "$\\text{A fruit is the mature or ripened:}$",
+    "options": [
+      "Ovule",
+      "Ovary",
+      "Stigma",
+      "Anther"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "After fertilisation, the ovary develops into a fruit, while ovules become seeds."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Fruit",
+    "familyId": "fruit_pericarp",
+    "questionText": "The wall of a fruit is known as the:",
+    "questionLatex": "$\\text{The wall of a fruit is known as the:}$",
+    "options": [
+      "Testa",
+      "Pericarp",
+      "Placenta",
+      "Endosperm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ovary wall develops into the fruit wall called the pericarp."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Seed",
+    "familyId": "seed_definition",
+    "questionText": "A seed develops from the:",
+    "questionLatex": "$\\text{A seed develops from the:}$",
+    "options": [
+      "Ovary wall",
+      "Ovule",
+      "Style",
+      "Receptacle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Following fertilisation, the ovule develops into the seed."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Seed",
+    "familyId": "dicot_seed",
+    "questionText": "A typical dicot seed possesses:",
+    "questionLatex": "$\\text{A typical dicot seed possesses:}$",
+    "options": [
+      "One cotyledon",
+      "Two cotyledons",
+      "Three cotyledons",
+      "No cotyledons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dicot seeds characteristically contain two cotyledons."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Seed",
+    "familyId": "monocot_seed",
+    "questionText": "The single cotyledon present in a monocot seed is known as:",
+    "questionLatex": "$\\text{The single cotyledon present in a monocot seed is known as:}$",
+    "options": [
+      "Coleoptile",
+      "Coleorhiza",
+      "Scutellum",
+      "Plumule"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The single cotyledon of monocot seeds, especially maize, is called the scutellum."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Morphology of Flowering Plants",
+    "familyId": "taproot_vs_fibrous",
+    "questionText": "Differentiate between the tap root system and the fibrous root system.",
+    "questionLatex": "$\\text{Differentiate between the tap root system and the fibrous root system.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In the tap root system, the primary root persists and gives rise to lateral roots; it is typical of dicotyledons. In the fibrous root system, the primary root is short-lived and is replaced by a cluster of roots arising from the base of the stem; it is typical of monocotyledons."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

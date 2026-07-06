@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Origin of Life",
+    "familyId": "big_bang_theory",
+    "questionText": "According to the Big Bang theory, the universe originated from:",
+    "questionLatex": "According to the Big Bang theory, the universe originated from:",
+    "options": [
+      "A gradual cooling of the Sun",
+      "A singular massive explosion",
+      "Formation of Earth's oceans",
+      "Spontaneous generation of matter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Big Bang theory proposes that the universe originated from a singular massive explosion followed by continuous expansion."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Origin of Life",
+    "familyId": "earth_age",
+    "questionText": "The age of the Earth is estimated to be approximately:",
+    "questionLatex": "The age of the Earth is estimated to be approximately:",
+    "options": [
+      "4.5 million years",
+      "45 million years",
+      "4.5 billion years",
+      "13.8 billion years"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Earth is estimated to have formed about 4.5 billion years ago."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Origin of Life",
+    "familyId": "panspermia",
+    "questionText": "The hypothesis that life reached Earth from outer space through spores is known as:",
+    "questionLatex": "The hypothesis that life reached Earth from outer space through spores is known as:",
+    "options": [
+      "Biogenesis",
+      "Chemical evolution",
+      "Panspermia",
+      "Natural selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Panspermia proposes that life or its spores originated elsewhere in space and reached Earth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Origin of Life",
+    "familyId": "pasteur_experiment",
+    "questionText": "Louis Pasteur disproved the theory of spontaneous generation by demonstrating that:",
+    "questionLatex": "Louis Pasteur disproved the theory of spontaneous generation by demonstrating that:",
+    "options": [
+      "Life originated from mud",
+      "Life originated from spores in space",
+      "Life arises only from pre-existing life",
+      "Proteins were the first living molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pasteur's experiments established the principle of biogenesis, proving that life arises from pre-existing life."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Chemical Evolution",
+    "familyId": "oparin_haldane",
+    "questionText": "The theory of chemical evolution was proposed by:",
+    "questionLatex": "The theory of chemical evolution was proposed by:",
+    "options": [
+      "Darwin and Wallace",
+      "Oparin and Haldane",
+      "Mendel and de Vries",
+      "Hardy and Weinberg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Oparin and Haldane proposed that life originated from non-living organic molecules through chemical evolution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Chemical Evolution",
+    "familyId": "miller_experiment_year",
+    "questionText": "Stanley Miller performed his famous experiment supporting chemical evolution in:",
+    "questionLatex": "Stanley Miller performed his famous experiment supporting chemical evolution in:",
+    "options": [
+      "1945",
+      "1953",
+      "1965",
+      "1972"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In 1953, Stanley Miller simulated primitive Earth conditions and synthesized amino acids."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Chemical Evolution",
+    "familyId": "miller_product",
+    "questionText": "The major organic compounds obtained in Miller's experiment were:",
+    "questionLatex": "The major organic compounds obtained in Miller's experiment were:",
+    "options": [
+      "Nucleic acids",
+      "Proteins",
+      "Amino acids",
+      "Polysaccharides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Miller's experiment demonstrated the abiotic synthesis of amino acids under primitive Earth conditions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Chemical Evolution",
+    "familyId": "primitive_atmosphere",
+    "questionText": "Which of the following gases was NOT considered a major component of Earth's primitive reducing atmosphere used in Miller's experiment?",
+    "questionLatex": "Which of the following gases was NOT considered a major component of Earth's primitive reducing atmosphere used in Miller's experiment?",
+    "options": [
+      "Methane",
+      "Ammonia",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Free oxygen was absent in the primitive atmosphere; methane, ammonia, hydrogen and water vapour were present."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolution of Life Forms",
+    "familyId": "darwin_voyage",
+    "questionText": "Charles Darwin developed many of his ideas on evolution during his voyage on:",
+    "questionLatex": "Charles Darwin developed many of his ideas on evolution during his voyage on:",
+    "options": [
+      "H.M.S. Challenger",
+      "H.M.S. Beagle",
+      "R.M.S. Titanic",
+      "Santa Maria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Darwin formulated his ideas on evolution during his voyage around the world on H.M.S. Beagle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "darwin_natural_selection",
+    "questionText": "According to Darwin, the mechanism responsible for evolution is:",
+    "questionLatex": "According to Darwin, the mechanism responsible for evolution is:",
+    "options": [
+      "Mutation alone",
+      "Natural selection",
+      "Genetic drift alone",
+      "Artificial selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Darwin proposed natural selection as the principal mechanism driving biological evolution."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "reproductive_fitness",
+    "questionText": "According to Darwin, biological fitness primarily refers to:",
+    "questionLatex": "According to Darwin, biological fitness primarily refers to:",
+    "options": [
+      "Physical strength",
+      "Body size",
+      "Reproductive success",
+      "Life span"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Darwin defined fitness in terms of reproductive success, i.e., the ability to leave more viable offspring."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evidence for Evolution",
+    "familyId": "fossil_evidence",
+    "questionText": "Fossils provide evidence for evolution because they:",
+    "questionLatex": "Fossils provide evidence for evolution because they:",
+    "options": [
+      "Represent living organisms",
+      "Show organisms existing only today",
+      "Record organisms that lived during different geological periods",
+      "Prevent mutations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fossils preserved in different rock layers reveal the history of life across geological time."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evidence for Evolution",
+    "familyId": "palaeontological_evidence",
+    "questionText": "The study of fossils as evidence of evolution is known as:",
+    "questionLatex": "The study of fossils as evidence of evolution is known as:",
+    "options": [
+      "Embryology",
+      "Morphology",
+      "Palaeontology",
+      "Ecology"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Palaeontology is the branch of science dealing with fossils and evolutionary history."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Embryological Evidence",
+    "familyId": "gill_slits",
+    "questionText": "The embryos of all vertebrates temporarily possess:",
+    "questionLatex": "The embryos of all vertebrates temporarily possess:",
+    "options": [
+      "Wings",
+      "Functional lungs",
+      "Vestigial gill slits",
+      "Scales"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Embryos of vertebrates develop vestigial gill slits, indicating common ancestry."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Comparative Anatomy",
+    "familyId": "homologous_organs",
+    "questionText": "The forelimbs of humans, whales, bats and cheetahs are examples of:",
+    "questionLatex": "The forelimbs of humans, whales, bats and cheetahs are examples of:",
+    "options": [
+      "Analogous organs",
+      "Vestigial organs",
+      "Homologous organs",
+      "Adaptive organs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "These forelimbs have the same basic structural plan but perform different functions, making them homologous organs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Comparative Anatomy",
+    "familyId": "divergent_evolution",
+    "questionText": "Homologous organs are evidence of:",
+    "questionLatex": "Homologous organs are evidence of:",
+    "options": [
+      "Convergent evolution",
+      "Artificial selection",
+      "Divergent evolution",
+      "Genetic drift"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Homologous structures arise through divergent evolution from a common ancestor."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Comparative Anatomy",
+    "familyId": "analogous_organs",
+    "questionText": "The wings of birds and butterflies are examples of:",
+    "questionLatex": "The wings of birds and butterflies are examples of:",
+    "options": [
+      "Homologous organs",
+      "Vestigial organs",
+      "Analogous organs",
+      "Rudimentary organs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "They perform similar functions but have different structural origins, making them analogous organs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Comparative Anatomy",
+    "familyId": "convergent_evolution",
+    "questionText": "Analogous organs are produced as a result of:",
+    "questionLatex": "Analogous organs are produced as a result of:",
+    "options": [
+      "Divergent evolution",
+      "Convergent evolution",
+      "Mutation only",
+      "Genetic recombination"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Convergent evolution leads to unrelated organisms developing similar adaptations."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Biochemical Evidence",
+    "familyId": "protein_similarity",
+    "questionText": "Similarity in proteins and genes among different organisms indicates:",
+    "questionLatex": "Similarity in proteins and genes among different organisms indicates:",
+    "options": [
+      "Independent origin",
+      "Common ancestry",
+      "Lack of evolution",
+      "Artificial breeding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biochemical similarities support the concept that organisms have evolved from common ancestors."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Industrial Melanism",
+    "familyId": "peppered_moth",
+    "questionText": "The classic example of industrial melanism demonstrating natural selection involves:",
+    "questionLatex": "The classic example of industrial melanism demonstrating natural selection involves:",
+    "options": [
+      "Darwin's finches",
+      "Peppered moths",
+      "Galapagos tortoises",
+      "Australian marsupials"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The peppered moth (Biston betularia) demonstrated natural selection through industrial melanism in England."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "directional_selection",
+    "questionText": "Natural selection that favours one extreme phenotype over the others is known as:",
+    "questionLatex": "Natural selection that favours one extreme phenotype over the others is known as:",
+    "options": [
+      "Stabilising selection",
+      "Disruptive selection",
+      "Directional selection",
+      "Artificial selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Directional selection favours individuals at one extreme of the phenotypic range, causing a shift in the population mean."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "stabilising_selection",
+    "questionText": "Which type of natural selection favours the average phenotype and eliminates extreme variations?",
+    "questionLatex": "Which type of natural selection favours the average phenotype and eliminates extreme variations?",
+    "options": [
+      "Directional selection",
+      "Disruptive selection",
+      "Stabilising selection",
+      "Sexual selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Stabilising selection favours intermediate phenotypes while eliminating extreme forms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "disruptive_selection",
+    "questionText": "Disruptive selection favours:",
+    "questionLatex": "Disruptive selection favours:",
+    "options": [
+      "Intermediate phenotypes only",
+      "One extreme phenotype",
+      "Both extreme phenotypes over intermediate forms",
+      "Random phenotypes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Disruptive selection favours individuals at both extremes of the phenotypic range while selecting against intermediate forms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Modern Evolutionary Theory",
+    "familyId": "mutation_source_variation",
+    "questionText": "According to the modern synthetic theory of evolution, the ultimate source of new genetic variation is:",
+    "questionLatex": "According to the modern synthetic theory of evolution, the ultimate source of new genetic variation is:",
+    "options": [
+      "Natural selection",
+      "Mutation",
+      "Migration",
+      "Isolation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mutations create new alleles, providing the raw material upon which evolution acts."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "hardy_weinberg_definition",
+    "questionText": "The Hardy-Weinberg principle describes:",
+    "questionLatex": "The Hardy-Weinberg principle describes:",
+    "options": [
+      "Evolution of individuals",
+      "Genetic equilibrium in a population",
+      "Formation of species",
+      "Development of embryos"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Hardy-Weinberg principle states that allele frequencies remain constant in a population under specific conditions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "hardy_weinberg_equation",
+    "questionText": "According to the Hardy-Weinberg equilibrium, the sum of allele frequencies is:",
+    "questionLatex": "$p + q = 1$",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For two alleles, the Hardy-Weinberg equation states that p + q = 1."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "hardy_weinberg_genotype",
+    "questionText": "Under Hardy-Weinberg equilibrium, the sum of genotype frequencies is:",
+    "questionLatex": "$p^2 + 2pq + q^2 = 1$",
+    "options": [
+      "p + q = 1",
+      "2pq = 1",
+      "p^2 + 2pq + q^2 = 1",
+      "p^2 + q^2 = 1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Hardy-Weinberg genotype frequencies are represented by p² + 2pq + q² = 1."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "genetic_drift",
+    "questionText": "A random change in allele frequencies due to chance events is called:",
+    "questionLatex": "A random change in allele frequencies due to chance events is called:",
+    "options": [
+      "Gene flow",
+      "Mutation",
+      "Genetic drift",
+      "Natural selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Genetic drift refers to random fluctuations in allele frequencies, especially in small populations."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "gene_flow",
+    "questionText": "Gene flow occurs due to:",
+    "questionLatex": "Gene flow occurs due to:",
+    "options": [
+      "Migration of individuals between populations",
+      "DNA replication",
+      "Protein synthesis",
+      "Crossing over only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Gene flow results from the migration of individuals or gametes between populations, introducing new alleles."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Speciation",
+    "familyId": "reproductive_isolation",
+    "questionText": "The most important factor leading to the formation of new species is:",
+    "questionLatex": "The most important factor leading to the formation of new species is:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Reproductive isolation",
+      "Digestion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Reproductive isolation prevents gene flow between populations, allowing them to evolve independently into new species."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "dryopithecus",
+    "questionText": "Dryopithecus is considered to be:",
+    "questionLatex": "Dryopithecus is considered to be:",
+    "options": [
+      "The first modern human",
+      "An ape-like ancestor of humans",
+      "The first mammal",
+      "A modern chimpanzee"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dryopithecus was an extinct ape-like primate regarded as one of the early ancestors in human evolution."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "ramapithecus",
+    "questionText": "Ramapithecus is believed to have been:",
+    "questionLatex": "Ramapithecus is believed to have been:",
+    "options": [
+      "More man-like than Dryopithecus",
+      "More ape-like than Dryopithecus",
+      "The first Homo species",
+      "A modern human ancestor living today"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Ramapithecus is regarded as being more man-like compared to Dryopithecus."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "australopithecus",
+    "questionText": "Australopithecus is commonly referred to as:",
+    "questionLatex": "Australopithecus is commonly referred to as:",
+    "options": [
+      "Java Man",
+      "Southern Ape",
+      "Neanderthal Man",
+      "Cro-Magnon Man"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The name Australopithecus literally means 'Southern Ape'."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "homo_habilis",
+    "questionText": "Which early human species is believed to have first used simple stone tools?",
+    "questionLatex": "Which early human species is believed to have first used simple stone tools?",
+    "options": [
+      "Homo habilis",
+      "Homo erectus",
+      "Neanderthal man",
+      "Cro-Magnon man"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Homo habilis, meaning 'handy man', is associated with the earliest known stone tools."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "homo_erectus",
+    "questionText": "Homo erectus is believed to have been the first human ancestor to:",
+    "questionLatex": "Homo erectus is believed to have been the first human ancestor to:",
+    "options": [
+      "Develop agriculture",
+      "Use fire",
+      "Domesticate animals",
+      "Build permanent houses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Evidence suggests that Homo erectus was the first hominin to use fire regularly."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "neanderthal",
+    "questionText": "Neanderthal humans are known for:",
+    "questionLatex": "Neanderthal humans are known for:",
+    "options": [
+      "Having the smallest cranial capacity among Homo species",
+      "Using sophisticated tools and burying their dead",
+      "Being the first organisms on Earth",
+      "Living only in Australia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Neanderthals used advanced stone tools, lived in groups and practiced burial of the dead."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "cro_magnon",
+    "questionText": "Cro-Magnon humans belonged to the species:",
+    "questionLatex": "Cro-Magnon humans belonged to the species:",
+    "options": [
+      "Homo habilis",
+      "Homo erectus",
+      "Homo sapiens",
+      "Australopithecus africanus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cro-Magnon humans were early Homo sapiens with anatomy similar to modern humans."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Human Evolution",
+    "familyId": "modern_humans",
+    "questionText": "Modern humans belong to the species:",
+    "questionLatex": "Modern humans belong to the species:",
+    "options": [
+      "Homo erectus",
+      "Homo habilis",
+      "Homo sapiens",
+      "Australopithecus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Present-day humans belong to the species Homo sapiens."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolutionary Biology",
+    "familyId": "adaptive_radiation",
+    "questionText": "Adaptive radiation refers to:",
+    "questionLatex": "Adaptive radiation refers to:",
+    "options": [
+      "Evolution of unrelated organisms with similar adaptations",
+      "Evolution of different species from a common ancestor occupying different habitats",
+      "Random mutation in a population",
+      "Extinction of a species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Adaptive radiation is the evolution of multiple species from a common ancestor as they adapt to different ecological niches."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolutionary Biology",
+    "familyId": "darwin_finches",
+    "questionText": "Darwin's finches found on the Galápagos Islands are considered a classic example of:",
+    "questionLatex": "Darwin's finches found on the Galápagos Islands are considered a classic example of:",
+    "options": [
+      "Industrial melanism",
+      "Adaptive radiation",
+      "Artificial selection",
+      "Genetic drift"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Darwin's finches evolved from a common ancestor into multiple species adapted to different ecological niches, illustrating adaptive radiation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Adaptive Radiation",
+    "familyId": "australian_marsupials",
+    "questionText": "The evolution of diverse marsupials in Australia from a common ancestral stock is an example of:",
+    "questionLatex": "The evolution of diverse marsupials in Australia from a common ancestral stock is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Adaptive radiation",
+      "Artificial selection",
+      "Genetic drift"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Australian marsupials diversified from a common ancestor into different ecological niches, illustrating adaptive radiation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Convergent Evolution",
+    "familyId": "placental_marsupial",
+    "questionText": "The similarities between Australian marsupial mammals and placental mammals occupying similar habitats are due to:",
+    "questionLatex": "The similarities between Australian marsupial mammals and placental mammals occupying similar habitats are due to:",
+    "options": [
+      "Divergent evolution",
+      "Convergent evolution",
+      "Genetic drift",
+      "Artificial selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Unrelated organisms living under similar environmental conditions evolve similar adaptations through convergent evolution."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "forces_equilibrium",
+    "questionText": "Which of the following does NOT disturb the Hardy-Weinberg equilibrium?",
+    "questionLatex": "Which of the following does NOT disturb the Hardy-Weinberg equilibrium?",
+    "options": [
+      "Mutation",
+      "Migration",
+      "Random mating",
+      "Natural selection"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Random mating is one of the assumptions required to maintain Hardy-Weinberg equilibrium."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Hardy-Weinberg Principle",
+    "familyId": "evolution_definition",
+    "questionText": "Evolution at the population level is best defined as:",
+    "questionLatex": "Evolution at the population level is best defined as:",
+    "options": [
+      "Increase in body size",
+      "Change in allele frequencies over generations",
+      "Formation of gametes",
+      "Increase in lifespan"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Modern evolutionary biology defines evolution as a change in allele frequencies in a population over successive generations."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolutionary Forces",
+    "familyId": "gene_flow_effect",
+    "questionText": "Gene flow generally tends to:",
+    "questionLatex": "Gene flow generally tends to:",
+    "options": [
+      "Increase genetic similarity between populations",
+      "Cause extinction immediately",
+      "Eliminate mutations completely",
+      "Prevent reproduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Gene flow transfers alleles between populations, making their genetic compositions more similar."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolutionary Forces",
+    "familyId": "genetic_drift_population",
+    "questionText": "Genetic drift has the greatest effect in:",
+    "questionLatex": "Genetic drift has the greatest effect in:",
+    "options": [
+      "Very large populations",
+      "Small populations",
+      "Populations with high migration",
+      "Populations with random mating only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chance fluctuations in allele frequencies are more pronounced in small populations."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Natural Selection",
+    "familyId": "selection_role",
+    "questionText": "Natural selection acts directly on:",
+    "questionLatex": "Natural selection acts directly on:",
+    "options": [
+      "Genotype",
+      "Phenotype",
+      "Chromosome number",
+      "DNA replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Selection acts on expressed phenotypes, while changes in allele frequencies occur indirectly."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Modern Evolutionary Theory",
+    "familyId": "variation_importance",
+    "questionText": "Genetic variation is essential for evolution because it:",
+    "questionLatex": "Genetic variation is essential for evolution because it:",
+    "options": [
+      "Stops mutation",
+      "Provides the raw material for natural selection",
+      "Prevents speciation",
+      "Maintains identical populations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Natural selection can act only when heritable genetic variation exists within a population."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Speciation",
+    "familyId": "allopatric_speciation",
+    "questionText": "Speciation resulting from geographical isolation is known as:",
+    "questionLatex": "Speciation resulting from geographical isolation is known as:",
+    "options": [
+      "Sympatric speciation",
+      "Allopatric speciation",
+      "Artificial speciation",
+      "Hybrid speciation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Allopatric speciation occurs when populations become geographically isolated and evolve independently."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Evolution",
+    "topic": "Evolution",
+    "familyId": "evolution_summary",
+    "questionText": "The modern concept of evolution recognizes evolution as a result of:",
+    "questionLatex": "The modern concept of evolution recognizes evolution as a result of:",
+    "options": [
+      "Only natural selection",
+      "Only mutations",
+      "Interaction of mutation, recombination, gene flow, genetic drift and natural selection",
+      "Only environmental changes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Modern synthetic theory explains evolution through the combined effects of mutation, recombination, gene flow, genetic drift and natural selection."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "hard",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

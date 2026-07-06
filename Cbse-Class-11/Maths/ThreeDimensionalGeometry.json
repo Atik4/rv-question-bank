@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Axes",
+    "familyId": "identify_coordinate_axes",
+    "questionText": "In three-dimensional geometry, the rectangular coordinate axes consist of:",
+    "questionLatex": "\\text{Coordinate axes in 3D space}",
+    "options": [
+      "Two mutually perpendicular lines",
+      "Three mutually perpendicular lines",
+      "Three parallel lines",
+      "Two intersecting planes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In a three-dimensional rectangular coordinate system, the coordinate axes ($x$-axis, $y$-axis, and $z$-axis) are three straight lines that are mutually perpendicular to each other and intersect at a common point called the origin."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "identify_coordinate_planes",
+    "questionText": "The three standard coordinate planes in three-dimensional geometry are named as:",
+    "questionLatex": "\\text{Coordinate planes}",
+    "options": [
+      "$XY$-plane, $YZ$-plane, and $ZX$-plane",
+      "$XY$-plane, $XZ$-plane, and $YX$-plane",
+      "$YZ$-plane, $ZY$-plane, and $XX$-plane",
+      "Only $XY$-plane and $YZ$-plane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The three mutually perpendicular coordinate axes taken pairwise determine three mutually perpendicular planes called coordinate planes, specifically known as the $XY$-plane (or $xy$-plane), $YZ$-plane (or $yz$-plane), and $ZX$-plane (or $zx$-plane)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Origin",
+    "familyId": "coordinates_of_origin",
+    "questionText": "What are the coordinates of the origin $O$ in three-dimensional rectangular space?",
+    "questionLatex": "O(0,0,0)",
+    "options": [
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$",
+      "$(0, 0, 1)$",
+      "$(0, 0, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The point of intersection where all three mutually perpendicular coordinate axes meet is called the origin, and its coordinates are given by the ordered triplet $(0, 0, 0)$."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "number_of_octants",
+    "questionText": "Into how many compartments or octants do the three mutually perpendicular coordinate planes divide space?",
+    "questionLatex": "\\text{Space division by coordinate planes}",
+    "options": [
+      "$4$ octants",
+      "$6$ octants",
+      "$8$ octants",
+      "$12$ octants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Just as two-dimensional axes divide a plane into $4$ quadrants, the three mutually perpendicular coordinate planes divide the entire three-dimensional space into $8$ distinct regions called octants."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinates of a Point",
+    "familyId": "point_coordinates_definition",
+    "questionText": "The spatial coordinates of a point $P$ in a rectangular 3D framework are represented as:",
+    "questionLatex": "P(x,y,z)",
+    "options": [
+      "$(x, y)$",
+      "$(x, z)$",
+      "$(x, y, z)$",
+      "$(y, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "To uniquely identify a point in three-dimensional space, we specify three directed distances from the coordinate planes, written as an ordered triplet of real numbers $(x, y, z)$."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinates on Axes",
+    "familyId": "point_on_x_axis",
+    "questionText": "The coordinates of any point lying on the $x$-axis are always of the general form:",
+    "questionLatex": "(x,0,0)",
+    "options": [
+      "$(0, y, 0)$",
+      "$(0, 0, z)$",
+      "$(x, 0, 0)$",
+      "$(x, y, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For any point located on the $x$-axis, its perpendicular distances from both the $XZ$-plane and $XY$-plane are zero. Therefore, its $y$-coordinate and $z$-coordinate are both zero, giving the form $(x, 0, 0)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinates on Axes",
+    "familyId": "point_on_y_axis",
+    "questionText": "The coordinates of any point lying on the $y$-axis are always of the general form:",
+    "questionLatex": "(0,y,0)",
+    "options": [
+      "$(0, y, 0)$",
+      "$(x, 0, 0)$",
+      "$(0, 0, z)$",
+      "$(x, y, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For any point situated on the $y$-axis, its perpendicular distances to the $YZ$-plane and $XY$-plane are zero. Hence, its $x$-coordinate and $z$-coordinate vanish, leading to the format $(0, y, 0)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinates on Axes",
+    "familyId": "point_on_z_axis",
+    "questionText": "The coordinates of any point lying on the $z$-axis are always of the general form:",
+    "questionLatex": "(0,0,z)",
+    "options": [
+      "$(x, 0, 0)$",
+      "$(0, y, 0)$",
+      "$(0, 0, z)$",
+      "$(x, y, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Any point that lies on the $z$-axis has zero distance variation along the $x$ and $y$ spatial directions. Thus, its $x$-coordinate and $y$-coordinate are both equal to zero, taking the form $(0, 0, z)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_on_yz_plane",
+    "questionText": "The coordinates of any point lying entirely within the $YZ$-plane are characterized by which form?",
+    "questionLatex": "(0,y,z)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(x, y, 0)$",
+      "$(0, y, z)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The equation of the $YZ$-plane is $x = 0$. Consequently, any point located on the $YZ$-plane has an $x$-coordinate exactly equal to zero, which means its coordinates are always of the form $(0, y, z)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "first_octant_signs",
+    "questionText": "In the first octant ($OXYZ$), the algebraic signs of the coordinates $(x, y, z)$ are respectively:",
+    "questionLatex": "(+,+,+)",
+    "options": [
+      "$(+, +, +)$",
+      "$(-, +, +)$",
+      "$(+, -, +)$",
+      "$(+, +, -)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "By mathematical convention, the first octant ($OXYZ$) represents the spatial region where all three variables are measured along the positive directions of the axes. Therefore, the signs are $(+, +, +)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_second",
+    "questionText": "In which octant does the point $(-3, 2, 5)$ lie?",
+    "questionLatex": "(-3,2,5)",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "VI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The coordinate signs of the point are $(-, +, +)$. In the rectangular 3D coordinate system, a negative $x$ combined with positive $y$ and $z$ values corresponds to the second octant ($OX'YZ$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_sixth",
+    "questionText": "In which octant does the point $(-4, 1, -2)$ lie?",
+    "questionLatex": "(-4,1,-2)",
+    "options": [
+      "II",
+      "IV",
+      "VI",
+      "VIII"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The coordinate signs of the point are $(-, +, -)$. A negative $x$, positive $y$, and negative $z$ value uniquely correspond to the sixth octant ($OX'YZ'$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_xy_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $XY$-plane are always of the general form:",
+    "questionLatex": "(x,y,0)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The planar equation defining the $XY$-plane is $z = 0$. Consequently, any point positioned anywhere on this plane has a $z$-coordinate precisely equal to zero, written as $(x, y, 0)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_zx_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $ZX$-plane are always of the general form:",
+    "questionLatex": "(x,0,z)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The planar equation defining the $ZX$-plane is $y = 0$. Hence, any point belonging to this specific layout loses its vertical configuration profile along the $y$-direction, written as $(x, 0, z)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_between_points_basic",
+    "questionText": "Find the distance between the two spatial points $(2, 3, 5)$ and $(4, 3, 1)$.",
+    "questionLatex": "\\sqrt{(4-2)^2+(3-3)^2+(1-5)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the 3D distance formula $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$, we compute: $d = \\sqrt{(4-2)^2 + (3-3)^2 + (1-5)^2} = \\sqrt{2^2 + 0^2 + (-4)^2} = \\sqrt{4 + 0 + 16} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_from_origin",
+    "questionText": "Find the shortest linear distance from the origin to the point $(3, 4, 12)$.",
+    "questionLatex": "\\sqrt{3^2+4^2+12^2}",
+    "options": [
+      "$11$",
+      "$12$",
+      "$13$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The distance of a point $(x, y, z)$ from the origin $(0,0,0)$ is computed as $d = \\sqrt{x^2 + y^2 + z^2}$. Thus, $d = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_negative_coordinates",
+    "questionText": "Find the distance between the two points $(-3, 7, 2)$ and $(2, 4, -1)$.",
+    "questionLatex": "\\sqrt{(2+3)^2+(4-7)^2+(-1-2)^2}",
+    "options": [
+      "$\\sqrt{43}$",
+      "$\\sqrt{34}$",
+      "$\\sqrt{52}$",
+      "$\\sqrt{25}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{[2 - (-3)]^2 + (4 - 7)^2 + (-1 - 2)^2} = \\sqrt{(5)^2 + (-3)^2 + (-3)^2} = \\sqrt{25 + 9 + 9} = \\sqrt{43}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_opposite_points",
+    "questionText": "Find the distance between the points $(-1, 3, -4)$ and $(1, -3, 4)$.",
+    "questionLatex": "\\sqrt{(1+1)^2+(-3-3)^2+(4+4)^2}",
+    "options": [
+      "$10$",
+      "$2\\sqrt{26}$",
+      "$\\sqrt{104}$",
+      "$4\\sqrt{5}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying the 3D distance formula: $d = \\sqrt{[1 - (-1)]^2 + (-3 - 3)^2 + [4 - (-4)]^2} = \\sqrt{2^2 + (-6)^2 + 8^2} = \\sqrt{4 + 36 + 64} = \\sqrt{104} = 2\\sqrt{26}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Collinearity",
+    "familyId": "collinear_points_check",
+    "questionText": "Determine the spatial geometric relationship of the points $P(-2, 3, 5)$, $Q(1, 2, 3)$, and $R(7, 0, -1)$.",
+    "questionLatex": "P(-2,3,5),Q(1,2,3),R(7,0,-1)",
+    "options": [
+      "Collinear",
+      "Not collinear",
+      "Vertices of an equilateral triangle",
+      "Vertices of a right triangle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the distance formula, we calculate the lengths: $PQ = \\sqrt{(1+2)^2 + (2-3)^2 + (3-5)^2} = \\sqrt{9 + 1 + 4} = \\sqrt{14}$. $QR = \\sqrt{(7-1)^2 + (0-2)^2 + (-1-3)^2} = \\sqrt{36 + 4 + 16} = \\sqrt{56} = 2\\sqrt{14}$. $PR = \\sqrt{(7+2)^2 + (0-3)^2 + (-1-5)^2} = \\sqrt{81 + 9 + 36} = \\sqrt{126} = 3\\sqrt{14}$. Since $PQ + QR = \\sqrt{14} + 2\\sqrt{14} = 3\\sqrt{14} = PR$, the points lie on a single straight line, meaning they are collinear."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_same_z",
+    "questionText": "Find the distance between the points $(2, -1, 3)$ and $(-2, 1, 3)$.",
+    "questionLatex": "\\sqrt{(-2-2)^2+(1+1)^2+(3-3)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{(-2 - 2)^2 + [1 - (-1)]^2 + (3 - 3)^2} = \\sqrt{(-4)^2 + 2^2 + 0^2} = \\sqrt{16 + 4 + 0} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_second",
+    "questionText": "In which octant does the point $(-3, 2, 5)$ lie?",
+    "questionLatex": "(-3,2,5)",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "VI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The coordinate signs of the point are $(-, +, +)$. In the rectangular 3D coordinate system, a negative $x$ combined with positive $y$ and $z$ values corresponds to the second octant ($OX'YZ$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_sixth",
+    "questionText": "In which octant does the point $(-4, 1, -2)$ lie?",
+    "questionLatex": "(-4,1,-2)",
+    "options": [
+      "II",
+      "IV",
+      "VI",
+      "VIII"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The coordinate signs of the point are $(-, +, -)$. A negative $x$, positive $y$, and negative $z$ value uniquely correspond to the sixth octant ($OX'YZ'$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_xy_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $XY$-plane are always of the general form:",
+    "questionLatex": "(x,y,0)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The planar equation defining the $XY$-plane is $z = 0$. Consequently, any point positioned anywhere on this plane has a $z$-coordinate precisely equal to zero, written as $(x, y, 0)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_zx_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $ZX$-plane are always of the general form:",
+    "questionLatex": "(x,0,z)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The planar equation defining the $ZX$-plane is $y = 0$. Hence, any point belonging to this specific layout loses its vertical configuration profile along the $y$-direction, written as $(x, 0, z)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_between_points_basic",
+    "questionText": "Find the distance between the two spatial points $(2, 3, 5)$ and $(4, 3, 1)$.",
+    "questionLatex": "\\sqrt{(4-2)^2+(3-3)^2+(1-5)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the 3D distance formula $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$, we compute: $d = \\sqrt{(4-2)^2 + (3-3)^2 + (1-5)^2} = \\sqrt{2^2 + 0^2 + (-4)^2} = \\sqrt{4 + 0 + 16} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_from_origin",
+    "questionText": "Find the shortest linear distance from the origin to the point $(3, 4, 12)$.",
+    "questionLatex": "\\sqrt{3^2+4^2+12^2}",
+    "options": [
+      "$11$",
+      "$12$",
+      "$13$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The distance of a point $(x, y, z)$ from the origin $(0,0,0)$ is computed as $d = \\sqrt{x^2 + y^2 + z^2}$. Thus, $d = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_negative_coordinates",
+    "questionText": "Find the distance between the two points $(-3, 7, 2)$ and $(2, 4, -1)$.",
+    "questionLatex": "\\sqrt{(2+3)^2+(4-7)^2+(-1-2)^2}",
+    "options": [
+      "$\\sqrt{43}$",
+      "$\\sqrt{34}$",
+      "$\\sqrt{52}$",
+      "$\\sqrt{25}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{[2 - (-3)]^2 + (4 - 7)^2 + (-1 - 2)^2} = \\sqrt{(5)^2 + (-3)^2 + (-3)^2} = \\sqrt{25 + 9 + 9} = \\sqrt{43}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_opposite_points",
+    "questionText": "Find the distance between the points $(-1, 3, -4)$ and $(1, -3, 4)$.",
+    "questionLatex": "\\sqrt{(1+1)^2+(-3-3)^2+(4+4)^2}",
+    "options": [
+      "$10$",
+      "$2\\sqrt{26}$",
+      "$\\sqrt{104}$",
+      "$4\\sqrt{5}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying the 3D distance formula: $d = \\sqrt{[1 - (-1)]^2 + (-3 - 3)^2 + [4 - (-4)]^2} = \\sqrt{2^2 + (-6)^2 + 8^2} = \\sqrt{4 + 36 + 64} = \\sqrt{104} = 2\\sqrt{26}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Collinearity",
+    "familyId": "collinear_points_check",
+    "questionText": "Determine the spatial geometric relationship of the points $P(-2, 3, 5)$, $Q(1, 2, 3)$, and $R(7, 0, -1)$.",
+    "questionLatex": "P(-2,3,5),Q(1,2,3),R(7,0,-1)",
+    "options": [
+      "Collinear",
+      "Not collinear",
+      "Vertices of an equilateral triangle",
+      "Vertices of a right triangle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the distance formula, we calculate the lengths: $PQ = \\sqrt{(1+2)^2 + (2-3)^2 + (3-5)^2} = \\sqrt{9 + 1 + 4} = \\sqrt{14}$. $QR = \\sqrt{(7-1)^2 + (0-2)^2 + (-1-3)^2} = \\sqrt{36 + 4 + 16} = \\sqrt{56} = 2\\sqrt{14}$. $PR = \\sqrt{(7+2)^2 + (0-3)^2 + (-1-5)^2} = \\sqrt{81 + 9 + 36} = \\sqrt{126} = 3\\sqrt{14}$. Since $PQ + QR = \\sqrt{14} + 2\\sqrt{14} = 3\\sqrt{14} = PR$, the points lie on a single straight line, meaning they are collinear."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_same_z",
+    "questionText": "Find the distance between the points $(2, -1, 3)$ and $(-2, 1, 3)$.",
+    "questionLatex": "\\sqrt{(-2-2)^2+(1+1)^2+(3-3)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{(-2 - 2)^2 + [1 - (-1)]^2 + (3 - 3)^2} = \\sqrt{(-4)^2 + 2^2 + 0^2} = \\sqrt{16 + 4 + 0} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_second",
+    "questionText": "In which octant does the point $(-3, 2, 5)$ lie?",
+    "questionLatex": "(-3,2,5)",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "VI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The coordinate signs of the point are $(-, +, +)$. In the rectangular 3D coordinate system, a negative $x$ combined with positive $y$ and $z$ values corresponds to the second octant ($OX'YZ$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_sixth",
+    "questionText": "In which octant does the point $(-4, 1, -2)$ lie?",
+    "questionLatex": "(-4,1,-2)",
+    "options": [
+      "II",
+      "IV",
+      "VI",
+      "VIII"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The coordinate signs of the point are $(-, +, -)$. A negative $x$, positive $y$, and negative $z$ value uniquely correspond to the sixth octant ($OX'YZ'$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_xy_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $XY$-plane are always of the general form:",
+    "questionLatex": "(x,y,0)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The planar equation defining the $XY$-plane is $z = 0$. Consequently, any point positioned anywhere on this plane has a $z$-coordinate precisely equal to zero, written as $(x, y, 0)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_in_zx_plane",
+    "questionText": "The spatial coordinates of any point lying entirely within the $ZX$-plane are always of the general form:",
+    "questionLatex": "(x,0,z)",
+    "options": [
+      "$(x, 0, z)$",
+      "$(0, y, z)$",
+      "$(x, y, 0)$",
+      "$(0, 0, z)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The planar equation defining the $ZX$-plane is $y = 0$. Hence, any point belonging to this specific layout loses its vertical configuration profile along the $y$-direction, written as $(x, 0, z)$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_between_points_basic",
+    "questionText": "Find the distance between the two spatial points $(2, 3, 5)$ and $(4, 3, 1)$.",
+    "questionLatex": "\\sqrt{(4-2)^2+(3-3)^2+(1-5)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the 3D distance formula $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$, we compute: $d = \\sqrt{(4-2)^2 + (3-3)^2 + (1-5)^2} = \\sqrt{2^2 + 0^2 + (-4)^2} = \\sqrt{4 + 0 + 16} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_from_origin",
+    "questionText": "Find the shortest linear distance from the origin to the point $(3, 4, 12)$.",
+    "questionLatex": "\\sqrt{3^2+4^2+12^2}",
+    "options": [
+      "$11$",
+      "$12$",
+      "$13$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The distance of a point $(x, y, z)$ from the origin $(0,0,0)$ is computed as $d = \\sqrt{x^2 + y^2 + z^2}$. Thus, $d = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_negative_coordinates",
+    "questionText": "Find the distance between the two points $(-3, 7, 2)$ and $(2, 4, -1)$.",
+    "questionLatex": "\\sqrt{(2+3)^2+(4-7)^2+(-1-2)^2}",
+    "options": [
+      "$\\sqrt{43}$",
+      "$\\sqrt{34}$",
+      "$\\sqrt{52}$",
+      "$\\sqrt{25}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{[2 - (-3)]^2 + (4 - 7)^2 + (-1 - 2)^2} = \\sqrt{(5)^2 + (-3)^2 + (-3)^2} = \\sqrt{25 + 9 + 9} = \\sqrt{43}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_opposite_points",
+    "questionText": "Find the distance between the points $(-1, 3, -4)$ and $(1, -3, 4)$.",
+    "questionLatex": "\\sqrt{(1+1)^2+(-3-3)^2+(4+4)^2}",
+    "options": [
+      "$10$",
+      "$2\\sqrt{26}$",
+      "$\\sqrt{104}$",
+      "$4\\sqrt{5}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying the 3D distance formula: $d = \\sqrt{[1 - (-1)]^2 + (-3 - 3)^2 + [4 - (-4)]^2} = \\sqrt{2^2 + (-6)^2 + 8^2} = \\sqrt{4 + 36 + 64} = \\sqrt{104} = 2\\sqrt{26}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Collinearity",
+    "familyId": "collinear_points_check",
+    "questionText": "Determine the spatial geometric relationship of the points $P(-2, 3, 5)$, $Q(1, 2, 3)$, and $R(7, 0, -1)$.",
+    "questionLatex": "P(-2,3,5),Q(1,2,3),R(7,0,-1)",
+    "options": [
+      "Collinear",
+      "Not collinear",
+      "Vertices of an equilateral triangle",
+      "Vertices of a right triangle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the distance formula, we calculate the lengths: $PQ = \\sqrt{(1+2)^2 + (2-3)^2 + (3-5)^2} = \\sqrt{9 + 1 + 4} = \\sqrt{14}$. $QR = \\sqrt{(7-1)^2 + (0-2)^2 + (-1-3)^2} = \\sqrt{36 + 4 + 16} = \\sqrt{56} = 2\\sqrt{14}$. $PR = \\sqrt{(7+2)^2 + (0-3)^2 + (-1-5)^2} = \\sqrt{81 + 9 + 36} = \\sqrt{126} = 3\\sqrt{14}$. Since $PQ + QR = \\sqrt{14} + 2\\sqrt{14} = 3\\sqrt{14} = PR$, the points lie on a single straight line, meaning they are collinear."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_same_z",
+    "questionText": "Find the distance between the points $(2, -1, 3)$ and $(-2, 1, 3)$.",
+    "questionLatex": "\\sqrt{(-2-2)^2+(1+1)^2+(3-3)^2}",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$\\sqrt{20}$",
+      "$5$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying the distance formula: $d = \\sqrt{(-2 - 2)^2 + [1 - (-1)]^2 + (3 - 3)^2} = \\sqrt{(-4)^2 + 2^2 + 0^2} = \\sqrt{16 + 4 + 0} = \\sqrt{20} = 2\\sqrt{5}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Section Formula",
+    "familyId": "midpoint_general_3d",
+    "questionText": "Find the midpoint of the line segment joining the points $(1, 3, 5)$ and $(7, 9, 11)$.",
+    "questionLatex": "\\left(\\frac{1+7}{2},\\frac{3+9}{2},\\frac{5+11}{2}\\right)",
+    "options": [
+      "$(4, 6, 8)$",
+      "$(3, 6, 8)$",
+      "$(4, 5, 8)$",
+      "$(4, 6, 7)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The coordinates of the midpoint of the line segment joining $(x_1, y_1, z_1)$ and $(x_2, y_2, z_2)$ are given by $\\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}, \\frac{z_1 + z_2}{2}\\right)$. Substituting the values: $\\left(\\frac{1 + 7}{2}, \\frac{3 + 9}{2}, \\frac{5 + 11}{2}\\right) = (4, 6, 8)$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_origin_negative_coordinates",
+    "questionText": "Find the distance of the point $(-2, -3, 6)$ from the origin.",
+    "questionLatex": "\\sqrt{(-2)^2+(-3)^2+6^2}",
+    "options": [
+      "$7$",
+      "$8$",
+      "$9$",
+      "$\\sqrt{49}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The distance of a point $(x, y, z)$ from the origin $(0, 0, 0)$ is given by $d = \\sqrt{x^2 + y^2 + z^2}$. Here, $d = \\sqrt{(-2)^2 + (-3)^2 + 6^2} = \\sqrt{4 + 9 + 36} = \\sqrt{49} = 7$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Planes",
+    "familyId": "point_on_all_planes",
+    "questionText": "The unique point that lies simultaneously on all three coordinate planes ($XY$, $YZ$, and $ZX$ planes) is:",
+    "questionLatex": "(0,0,0)",
+    "options": [
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$",
+      "$(0, 0, 1)$",
+      "$(0, 0, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The equations of the $XY$, $YZ$, and $ZX$ planes are $z = 0$, $x = 0$, and $y = 0$ respectively. The only point satisfying all three conditions is the origin $(0, 0, 0)$."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Axes",
+    "familyId": "axis_intersection",
+    "questionText": "The three mutually perpendicular coordinate axes intersect at a common point called the:",
+    "questionLatex": "(0,0,0)",
+    "options": [
+      "$(1, 1, 1)$",
+      "$(0, 0, 0)$",
+      "$(1, 0, 0)$",
+      "$(0, 1, 0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, the $x$-axis, $y$-axis, and $z$-axis intersect at the origin, whose coordinates are designated as $(0, 0, 0)$."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_fifth",
+    "questionText": "In which octant does the point $(-5, -2, 4)$ lie?",
+    "questionLatex": "(-5,-2,4)",
+    "options": [
+      "III",
+      "IV",
+      "V",
+      "VI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The signs of the coordinates are $(-, -, +)$. In the standard NCERT/CBSE convention, points with a negative $x$, negative $y$, and positive $z$ lie in the third octant ($OX'Y'Z$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Octants",
+    "familyId": "identify_octant_third",
+    "questionText": "In which octant does the point $(-3, -4, 2)$ lie?",
+    "questionLatex": "(-3,-4,2)",
+    "options": [
+      "III",
+      "IV",
+      "V",
+      "VII"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The signs of the coordinates are $(-, -, +)$. According to standard textbook classification, a point with signs $(-, -, +)$ corresponds to the third octant ($OX'Y'Z$)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Section Formula",
+    "familyId": "section_formula_ratio_three_two",
+    "questionText": "Find the coordinates of the point dividing the line segment joining $A(2, 4, 6)$ and $B(12, 14, 16)$ internally in the ratio $3:2$.",
+    "questionLatex": "\\left(\\frac{3\\cdot12+2\\cdot2}{3+2},\\frac{3\\cdot14+2\\cdot4}{3+2},\\frac{3\\cdot16+2\\cdot6}{3+2}\\right)",
+    "options": [
+      "$(8, 10, 12)$",
+      "$(7, 9, 11)$",
+      "$(9, 11, 13)$",
+      "$(10, 12, 14)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the internal section formula $\\left(\\frac{mx_2 + nx_1}{m+n}, \\frac{my_2 + ny_1}{m+n}, \\frac{mz_2 + nz_1}{m+n}\\right)$ with $m:n = 3:2$, we get: $x = \\frac{3(12) + 2(2)}{5} = \\frac{40}{5} = 8$, $y = \\frac{3(14) + 2(4)}{5} = \\frac{50}{5} = 10$, $z = \\frac{3(16) + 2(6)}{5} = \\frac{60}{5} = 12$. The point is $(8, 10, 12)$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_between_axis_points",
+    "questionText": "Find the distance between the points $(0, 0, 5)$ and $(0, 12, 5)$.",
+    "questionLatex": "\\sqrt{(0-0)^2+(12-0)^2+(5-5)^2}",
+    "options": [
+      "$10$",
+      "$11$",
+      "$12$",
+      "$13$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Applying the distance formula: $d = \\sqrt{(0 - 0)^2 + (12 - 0)^2 + (5 - 5)^2} = \\sqrt{0 + 144 + 0} = \\sqrt{144} = 12$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Distance Formula",
+    "familyId": "distance_space_diagonal",
+    "questionText": "Find the distance between the points $(1, 1, 1)$ and $(4, 5, 13)$.",
+    "questionLatex": "\\sqrt{(4-1)^2+(5-1)^2+(13-1)^2}",
+    "options": [
+      "$11$",
+      "$12$",
+      "$13$",
+      "$\\sqrt{169}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Applying the distance formula: $d = \\sqrt{(4 - 1)^2 + (5 - 1)^2 + (13 - 1)^2} = \\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Introduction to Three Dimensional Geometry",
+    "topic": "Coordinate Geometry Basics",
+    "familyId": "ordered_triplet_components",
+    "questionText": "In an ordered triplet $(x, y, z)$ representing a point in 3D space, the third coordinate $z$ is technically called the:",
+    "questionLatex": "(x,y,z)",
+    "options": [
+      "Abscissa",
+      "Ordinate",
+      "Applicate",
+      "Radius"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In 3D rectangular coordinate systems, the $x$-coordinate is the abscissa, the $y$-coordinate is the ordinate, and the $z$-coordinate is explicitly defined as the applicate."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

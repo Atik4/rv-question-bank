@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Health and Disease",
+    "familyId": "health_definition",
+    "questionText": "According to WHO, health is best defined as:",
+    "questionLatex": "According to WHO, health is best defined as:",
+    "options": [
+      "Absence of disease only",
+      "Physical fitness only",
+      "A state of complete physical, mental and social well-being",
+      "Freedom from infectious diseases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Health is defined as a state of complete physical, mental and social well-being and not merely the absence of disease."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Health",
+    "familyId": "factors_affecting_health",
+    "questionText": "Which of the following is NOT considered a major factor affecting human health?",
+    "questionLatex": "Which of the following is NOT considered a major factor affecting human health?",
+    "options": [
+      "Genetic disorders",
+      "Infections",
+      "Lifestyle",
+      "Latitude of residence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The NCERT chapter identifies genetic disorders, infections and lifestyle as major factors affecting health."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Diseases",
+    "familyId": "infectious_noninfectious",
+    "questionText": "Diseases that can be transmitted from one person to another are called:",
+    "questionLatex": "Diseases that can be transmitted from one person to another are called:",
+    "options": [
+      "Congenital diseases",
+      "Metabolic diseases",
+      "Infectious diseases",
+      "Nutritional diseases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Infectious diseases are caused by pathogens and can spread from one individual to another."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Pathogens",
+    "familyId": "pathogen_definition",
+    "questionText": "Disease-causing organisms are collectively known as:",
+    "questionLatex": "Disease-causing organisms are collectively known as:",
+    "options": [
+      "Vectors",
+      "Pathogens",
+      "Saprophytes",
+      "Decomposers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Organisms such as bacteria, viruses, fungi, protozoa and helminths that cause diseases are called pathogens."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Typhoid",
+    "familyId": "typhoid_pathogen",
+    "questionText": "Typhoid fever is caused by:",
+    "questionLatex": "Typhoid fever is caused by:",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Salmonella typhi",
+      "Plasmodium vivax",
+      "Entamoeba histolytica"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Typhoid is a bacterial disease caused by Salmonella typhi."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Typhoid",
+    "familyId": "widal_test",
+    "questionText": "The diagnostic test commonly used to confirm typhoid fever is:",
+    "questionLatex": "The diagnostic test commonly used to confirm typhoid fever is:",
+    "options": [
+      "Mantoux test",
+      "ELISA",
+      "Widal test",
+      "Western blot"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Typhoid fever is commonly confirmed by the Widal test."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Pneumonia",
+    "familyId": "pneumonia_pathogens",
+    "questionText": "Pneumonia in humans is commonly caused by:",
+    "questionLatex": "Pneumonia in humans is commonly caused by:",
+    "options": [
+      "Salmonella typhi and Vibrio cholerae",
+      "Streptococcus pneumoniae and Haemophilus influenzae",
+      "Plasmodium falciparum and Plasmodium vivax",
+      "Rhizopus and Mucor"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The common bacterial pathogens causing pneumonia are Streptococcus pneumoniae and Haemophilus influenzae."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Pneumonia",
+    "familyId": "pneumonia_site",
+    "questionText": "In pneumonia, which part of the respiratory system primarily gets filled with fluid?",
+    "questionLatex": "In pneumonia, which part of the respiratory system primarily gets filled with fluid?",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Larynx"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Pneumonia causes infection of the alveoli, which become filled with fluid and impair respiration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Common Cold",
+    "familyId": "common_cold_causative_agent",
+    "questionText": "The common cold is mainly caused by:",
+    "questionLatex": "The common cold is mainly caused by:",
+    "options": [
+      "Rhino viruses",
+      "Retroviruses",
+      "Adenoviruses only",
+      "Influenza bacteria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Rhino viruses are the most common causative agents of the common cold."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Common Cold",
+    "familyId": "common_cold_characteristics",
+    "questionText": "Rhino viruses primarily infect the:",
+    "questionLatex": "Rhino viruses primarily infect the:",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Nose and respiratory passage",
+      "Small intestine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rhino viruses infect the nose and respiratory passages but generally do not infect the lungs."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Malaria",
+    "familyId": "malaria_causative_agent",
+    "questionText": "Malaria in humans is caused by:",
+    "questionLatex": "Malaria in humans is caused by:",
+    "options": [
+      "Entamoeba histolytica",
+      "Plasmodium species",
+      "Salmonella typhi",
+      "Wuchereria bancrofti"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Malaria is caused by protozoan parasites belonging to the genus Plasmodium."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Malaria",
+    "familyId": "malaria_vector",
+    "questionText": "The vector responsible for transmitting malaria is:",
+    "questionLatex": "The vector responsible for transmitting malaria is:",
+    "options": [
+      "Male Anopheles mosquito",
+      "Female Culex mosquito",
+      "Female Anopheles mosquito",
+      "Housefly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The female Anopheles mosquito acts as the vector that transmits Plasmodium to humans."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Malaria",
+    "familyId": "infective_stage",
+    "questionText": "The infective stage of Plasmodium that enters the human body through a mosquito bite is:",
+    "questionLatex": "The infective stage of Plasmodium that enters the human body through a mosquito bite is:",
+    "options": [
+      "Merozoite",
+      "Sporozoite",
+      "Gametocyte",
+      "Ookinete"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sporozoites are injected into the human bloodstream through the bite of an infected female Anopheles mosquito."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Malaria",
+    "familyId": "haemozoin",
+    "questionText": "The recurring chills and fever in malaria are caused by the release of:",
+    "questionLatex": "The recurring chills and fever in malaria are caused by the release of:",
+    "options": [
+      "Haemocyanin",
+      "Haemoglobin",
+      "Haemozoin",
+      "Histamine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rupture of infected RBCs releases haemozoin, a toxic substance responsible for periodic chills and fever."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Malaria",
+    "familyId": "malignant_malaria",
+    "questionText": "Malignant malaria is caused by:",
+    "questionLatex": "Malignant malaria is caused by:",
+    "options": [
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Plasmodium falciparum",
+      "Plasmodium ovale"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plasmodium falciparum causes malignant malaria, the most severe form of the disease."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Amoebiasis",
+    "familyId": "amoebiasis_pathogen",
+    "questionText": "Amoebiasis (amoebic dysentery) is caused by:",
+    "questionLatex": "Amoebiasis (amoebic dysentery) is caused by:",
+    "options": [
+      "Giardia lamblia",
+      "Entamoeba histolytica",
+      "Plasmodium vivax",
+      "Ascaris lumbricoides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Entamoeba histolytica is a protozoan parasite responsible for amoebiasis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Amoebiasis",
+    "familyId": "amoebiasis_transmission",
+    "questionText": "Houseflies help in the spread of amoebiasis by acting as:",
+    "questionLatex": "Houseflies help in the spread of amoebiasis by acting as:",
+    "options": [
+      "Primary hosts",
+      "Intermediate hosts",
+      "Mechanical carriers",
+      "Definitive hosts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Houseflies mechanically transfer Entamoeba histolytica from infected faeces to food."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Ascariasis",
+    "familyId": "ascariasis_causative_agent",
+    "questionText": "Ascariasis is caused by:",
+    "questionLatex": "Ascariasis is caused by:",
+    "options": [
+      "Taenia solium",
+      "Wuchereria bancrofti",
+      "Ascaris lumbricoides",
+      "Entamoeba histolytica"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ascariasis is caused by the intestinal roundworm Ascaris lumbricoides."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Filariasis",
+    "familyId": "filariasis_causative_agent",
+    "questionText": "Elephantiasis (filariasis) is caused by:",
+    "questionLatex": "Elephantiasis (filariasis) is caused by:",
+    "options": [
+      "Wuchereria bancrofti",
+      "Ascaris lumbricoides",
+      "Plasmodium falciparum",
+      "Taenia saginata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Filariasis is caused by filarial worms such as Wuchereria bancrofti and Wuchereria malayi."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Filariasis",
+    "familyId": "filariasis_target",
+    "questionText": "Filarial worms primarily infect the:",
+    "questionLatex": "Filarial worms primarily infect the:",
+    "options": [
+      "Liver",
+      "Kidneys",
+      "Lymphatic vessels",
+      "Lungs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Wuchereria species inhabit the lymphatic vessels, causing chronic inflammation and elephantiasis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune System",
+    "familyId": "immunity_definition",
+    "questionText": "Immunity is defined as the ability of the body to:",
+    "questionLatex": "Immunity is defined as the ability of the body to:",
+    "options": [
+      "Digest food efficiently",
+      "Resist disease-causing organisms",
+      "Produce hormones",
+      "Regulate body temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Immunity is the capacity of the body to resist and eliminate disease-causing microorganisms and their harmful effects."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune System",
+    "familyId": "innate_immunity",
+    "questionText": "The type of immunity present from birth is known as:",
+    "questionLatex": "The type of immunity present from birth is known as:",
+    "options": [
+      "Acquired immunity",
+      "Passive immunity",
+      "Innate immunity",
+      "Artificial immunity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Innate immunity is the inborn, non-specific defense mechanism present since birth."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Innate Immunity",
+    "familyId": "physical_barriers",
+    "questionText": "Which of the following acts as the first physical barrier against pathogens?",
+    "questionLatex": "Which of the following acts as the first physical barrier against pathogens?",
+    "options": [
+      "Blood plasma",
+      "Skin",
+      "Antibodies",
+      "Lymph nodes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The skin forms the first line of defense by preventing the entry of pathogens."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Innate Immunity",
+    "familyId": "physiological_barriers",
+    "questionText": "Hydrochloric acid present in the stomach is an example of:",
+    "questionLatex": "Hydrochloric acid present in the stomach is an example of:",
+    "options": [
+      "Physical barrier",
+      "Physiological barrier",
+      "Cellular barrier",
+      "Cytokine barrier"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hydrochloric acid destroys many pathogens entering with food and acts as a physiological barrier."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Innate Immunity",
+    "familyId": "cellular_barriers",
+    "questionText": "Which of the following cells acts as a cellular barrier in innate immunity?",
+    "questionLatex": "Which of the following cells acts as a cellular barrier in innate immunity?",
+    "options": [
+      "Red blood cells",
+      "Neutrophils",
+      "Platelets",
+      "Osteocytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Neutrophils, monocytes, natural killer cells and macrophages provide cellular defense in innate immunity."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Acquired Immunity",
+    "familyId": "acquired_immunity",
+    "questionText": "Acquired immunity differs from innate immunity because it is:",
+    "questionLatex": "Acquired immunity differs from innate immunity because it is:",
+    "options": [
+      "Present from birth",
+      "Non-specific",
+      "Pathogen-specific and develops after exposure",
+      "Found only in plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Acquired immunity develops after exposure to specific antigens and possesses immunological memory."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Acquired Immunity",
+    "familyId": "antibody_production",
+    "questionText": "Antibodies are produced by:",
+    "questionLatex": "Antibodies are produced by:",
+    "options": [
+      "T-lymphocytes",
+      "Plasma cells",
+      "Macrophages",
+      "Neutrophils"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Activated B-lymphocytes differentiate into plasma cells, which secrete antibodies."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Acquired Immunity",
+    "familyId": "cell_mediated_immunity",
+    "questionText": "Cell-mediated immunity is primarily carried out by:",
+    "questionLatex": "Cell-mediated immunity is primarily carried out by:",
+    "options": [
+      "B-lymphocytes",
+      "Plasma cells",
+      "T-lymphocytes",
+      "Basophils"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "T-lymphocytes are responsible for cell-mediated immune responses against infected or abnormal cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune Response",
+    "familyId": "primary_secondary_response",
+    "questionText": "The secondary immune response is stronger than the primary response because of the presence of:",
+    "questionLatex": "The secondary immune response is stronger than the primary response because of the presence of:",
+    "options": [
+      "Red blood cells",
+      "Memory cells",
+      "Platelets",
+      "Neutrophils"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Memory B and T cells formed during the primary response enable a faster and stronger secondary immune response."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune System",
+    "familyId": "active_passive_immunity",
+    "questionText": "Immunity acquired after vaccination is an example of:",
+    "questionLatex": "Immunity acquired after vaccination is an example of:",
+    "options": [
+      "Natural passive immunity",
+      "Artificial passive immunity",
+      "Natural active immunity",
+      "Artificial active immunity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Vaccination stimulates the body's immune system to produce antibodies and memory cells, resulting in artificial active immunity."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Allergy",
+    "familyId": "allergy_definition",
+    "questionText": "An allergy is defined as:",
+    "questionLatex": "An allergy is defined as:",
+    "options": [
+      "An infectious disease caused by bacteria",
+      "An exaggerated immune response to certain antigens",
+      "A genetic disorder of blood",
+      "A deficiency disease caused by lack of vitamins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An allergy is an exaggerated immune response of the body to certain foreign substances called allergens."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Allergy",
+    "familyId": "allergen_examples",
+    "questionText": "Which of the following is commonly responsible for triggering allergic reactions?",
+    "questionLatex": "Which of the following is commonly responsible for triggering allergic reactions?",
+    "options": [
+      "Pollen grains",
+      "Red blood cells",
+      "Insulin",
+      "Haemoglobin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Common allergens include pollen grains, dust, mites, animal dander and certain foods."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Allergy",
+    "familyId": "histamine_release",
+    "questionText": "The symptoms of allergy are mainly caused due to the release of:",
+    "questionLatex": "The symptoms of allergy are mainly caused due to the release of:",
+    "options": [
+      "Insulin",
+      "Histamine",
+      "Haemoglobin",
+      "Interferon"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Histamine and serotonin released from mast cells are responsible for the symptoms of allergy."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Allergy",
+    "familyId": "ige_antibody",
+    "questionText": "Allergic reactions are associated with increased production of:",
+    "questionLatex": "Allergic reactions are associated with increased production of:",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "IgE antibodies bind to mast cells and trigger allergic reactions upon exposure to allergens."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Autoimmune Disorders",
+    "familyId": "autoimmune_definition",
+    "questionText": "Autoimmune diseases arise when:",
+    "questionLatex": "Autoimmune diseases arise when:",
+    "options": [
+      "The immune system attacks invading pathogens only",
+      "The immune system attacks the body's own tissues",
+      "Antibodies are absent",
+      "Only viruses infect the body"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Autoimmune diseases occur when the immune system fails to distinguish self from non-self and attacks the body's own tissues."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "AIDS",
+    "familyId": "aids_fullform",
+    "questionText": "The full form of AIDS is:",
+    "questionLatex": "The full form of AIDS is:",
+    "options": [
+      "Acquired Immune Deficiency Syndrome",
+      "Acute Immune Disease Syndrome",
+      "Acquired Infectious Disease Syndrome",
+      "Advanced Immune Disorder System"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "AIDS stands for Acquired Immune Deficiency Syndrome."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "AIDS",
+    "familyId": "hiv_fullform",
+    "questionText": "AIDS is caused by:",
+    "questionLatex": "AIDS is caused by:",
+    "options": [
+      "Hepatitis B virus",
+      "Human Immunodeficiency Virus (HIV)",
+      "Human Papilloma Virus",
+      "Influenza virus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "AIDS is caused by the Human Immunodeficiency Virus (HIV), a retrovirus."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "AIDS",
+    "familyId": "hiv_target_cells",
+    "questionText": "HIV primarily infects:",
+    "questionLatex": "HIV primarily infects:",
+    "options": [
+      "Red blood cells",
+      "Helper T-lymphocytes (CD4+ cells)",
+      "Platelets",
+      "Neurons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "HIV mainly infects helper T-lymphocytes (CD4+ cells), weakening the immune system."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "AIDS",
+    "familyId": "hiv_transmission",
+    "questionText": "Which one of the following is NOT a mode of HIV transmission?",
+    "questionLatex": "Which one of the following is NOT a mode of HIV transmission?",
+    "options": [
+      "Transfusion of infected blood",
+      "Unprotected sexual contact",
+      "Mosquito bite",
+      "Sharing infected needles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "HIV is not transmitted through mosquito bites or other insect vectors."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "AIDS",
+    "familyId": "elisa_test",
+    "questionText": "The screening test commonly used for detecting HIV infection is:",
+    "questionLatex": "The screening test commonly used for detecting HIV infection is:",
+    "options": [
+      "Mantoux test",
+      "Widal test",
+      "ELISA",
+      "Benedict's test"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "ELISA (Enzyme-Linked Immunosorbent Assay) is widely used as a screening test for HIV infection."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "cancer_definition",
+    "questionText": "Cancer is characterized by:",
+    "questionLatex": "Cancer is characterized by:",
+    "options": [
+      "Reduced cell division",
+      "Uncontrolled proliferation of cells",
+      "Destruction of red blood cells",
+      "Formation of antibodies"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cancer is a disease in which normal control over cell division is lost, resulting in uncontrolled proliferation of cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "benign_malignant",
+    "questionText": "Malignant tumours differ from benign tumours because malignant tumours:",
+    "questionLatex": "Malignant tumours differ from benign tumours because malignant tumours:",
+    "options": [
+      "Remain localized",
+      "Do not divide",
+      "Invade surrounding tissues and metastasize",
+      "Are always non-cancerous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Malignant tumours invade neighbouring tissues and spread to distant organs through metastasis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "oncogenic_viruses",
+    "questionText": "Viruses capable of causing cancer are known as:",
+    "questionLatex": "Viruses capable of causing cancer are known as:",
+    "options": [
+      "Retroviruses",
+      "Oncogenic viruses",
+      "Bacteriophages",
+      "Adenoviruses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cancer-causing viruses are called oncogenic viruses because they can induce uncontrolled cell division."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "carcinogens",
+    "questionText": "Which of the following is a physical carcinogen?",
+    "questionLatex": "Which of the following is a physical carcinogen?",
+    "options": [
+      "Tobacco smoke",
+      "Asbestos fibres",
+      "X-rays",
+      "Aflatoxins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ionising radiations such as X-rays and gamma rays are physical carcinogens capable of inducing mutations."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "diagnosis_biopsy",
+    "questionText": "The most reliable method for confirming the diagnosis of cancer is:",
+    "questionLatex": "The most reliable method for confirming the diagnosis of cancer is:",
+    "options": [
+      "Blood pressure measurement",
+      "Biopsy and histopathological examination",
+      "Urine analysis",
+      "Electrocardiography"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cancer is confirmed by microscopic examination of tissue obtained through biopsy."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "familyId": "cancer_treatment",
+    "questionText": "Which of the following is NOT a commonly used method for cancer treatment?",
+    "questionLatex": "Which of the following is NOT a commonly used method for cancer treatment?",
+    "options": [
+      "Surgery",
+      "Radiotherapy",
+      "Chemotherapy",
+      "Antibiotic therapy alone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Cancer is commonly treated using surgery, radiotherapy and chemotherapy, whereas antibiotics alone do not treat cancer."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Drug and Alcohol Abuse",
+    "familyId": "drug_definition",
+    "questionText": "Drugs that affect the central nervous system and alter behaviour are called:",
+    "questionLatex": "Drugs that affect the central nervous system and alter behaviour are called:",
+    "options": [
+      "Narcotic drugs",
+      "Psychoactive drugs",
+      "Antibiotics",
+      "Analgesics only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Psychoactive drugs act on the central nervous system and alter mood, perception or behaviour."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Drug Abuse",
+    "familyId": "opioids",
+    "questionText": "Heroin is chemically derived from:",
+    "questionLatex": "Heroin is chemically derived from:",
+    "options": [
+      "Cocaine",
+      "Morphine",
+      "Nicotine",
+      "Cannabinol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heroin (diacetylmorphine) is prepared by acetylation of morphine obtained from the opium poppy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Drug Abuse",
+    "familyId": "cannabinoids_source",
+    "questionText": "Cannabinoids are naturally obtained from:",
+    "questionLatex": "Cannabinoids are naturally obtained from:",
+    "options": [
+      "Papaver somniferum",
+      "Cannabis sativa",
+      "Nicotiana tabacum",
+      "Erythroxylum coca"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cannabinoids are extracted from different parts of the Cannabis sativa plant."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Human Health and Disease",
+    "topic": "Drug Abuse",
+    "familyId": "cocaine_source",
+    "questionText": "Cocaine is obtained from the leaves of:",
+    "questionLatex": "Cocaine is obtained from the leaves of:",
+    "options": [
+      "Cannabis sativa",
+      "Papaver somniferum",
+      "Erythroxylum coca",
+      "Digitalis purpurea"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cocaine is extracted from the leaves of the South American plant Erythroxylum coca."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

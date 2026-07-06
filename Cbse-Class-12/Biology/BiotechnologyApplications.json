@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Introduction to Biotechnology Applications",
+    "familyId": "biotechnology_applications_intro",
+    "questionText": "Which of the following is NOT a major application of biotechnology mentioned in the chapter?",
+    "questionLatex": "Which of the following is NOT a major application of biotechnology mentioned in the chapter?",
+    "options": [
+      "Therapeutics",
+      "Bioremediation",
+      "Waste treatment",
+      "Planetary exploration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The chapter discusses therapeutics, diagnostics, agriculture, bioremediation, waste treatment and energy production, but not planetary exploration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Agricultural Biotechnology",
+    "familyId": "food_production_options",
+    "questionText": "Which of the following is one of the three major approaches suggested for increasing food production?",
+    "questionLatex": "Which of the following is one of the three major approaches suggested for increasing food production?",
+    "options": [
+      "Space farming",
+      "Genetically engineered crop-based agriculture",
+      "Hydroponic fish culture only",
+      "Deep-sea cultivation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The chapter lists agrochemical-based agriculture, organic agriculture and genetically engineered crop-based agriculture as major approaches."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Plant Tissue Culture",
+    "familyId": "totipotency_definition",
+    "questionText": "The ability of a single plant cell or explant to regenerate into a complete plant is known as:",
+    "questionLatex": "The ability of a single plant cell or explant to regenerate into a complete plant is known as:",
+    "options": [
+      "Differentiation",
+      "Totipotency",
+      "Hybridisation",
+      "Transformation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Totipotency is the capacity of a plant cell or explant to regenerate into an entire plant."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Plant Tissue Culture",
+    "familyId": "micropropagation",
+    "questionText": "The production of thousands of genetically identical plants through tissue culture is called:",
+    "questionLatex": "The production of thousands of genetically identical plants through tissue culture is called:",
+    "options": [
+      "Somatic hybridisation",
+      "Micropropagation",
+      "Cross breeding",
+      "Mutation breeding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Micropropagation enables rapid multiplication of genetically identical plants under in vitro conditions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Plant Tissue Culture",
+    "familyId": "somaclones",
+    "questionText": "Plants produced by micropropagation that are genetically identical to the parent plant are called:",
+    "questionLatex": "Plants produced by micropropagation that are genetically identical to the parent plant are called:",
+    "options": [
+      "Hybrids",
+      "Somaclones",
+      "Mutants",
+      "Transformants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plants regenerated through tissue culture from the same parent are known as somaclones."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Plant Tissue Culture",
+    "familyId": "virus_free_plants",
+    "questionText": "Virus-free plants are generally obtained by culturing:",
+    "questionLatex": "Virus-free plants are generally obtained by culturing:",
+    "options": [
+      "Leaf epidermis",
+      "Meristem",
+      "Root hairs",
+      "Pollen grains"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Apical and axillary meristems are usually free from viral infection and are used to produce virus-free plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Somatic Hybridisation",
+    "familyId": "protoplast_definition",
+    "questionText": "A protoplast is:",
+    "questionLatex": "A protoplast is:",
+    "options": [
+      "A mature pollen grain",
+      "A plant cell without a cell wall",
+      "A bacterial spore",
+      "A virus particle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A protoplast is a plant cell from which the cell wall has been removed enzymatically."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Somatic Hybridisation",
+    "familyId": "pomato",
+    "questionText": "The somatic hybrid obtained by fusion of tomato and potato protoplasts is called:",
+    "questionLatex": "The somatic hybrid obtained by fusion of tomato and potato protoplasts is called:",
+    "options": [
+      "Tomtato",
+      "Pomato",
+      "Potmato",
+      "Solanato"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fusion of tomato and potato protoplasts produced the somatic hybrid known as Pomato."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Genetically Modified Organisms",
+    "familyId": "gmo_definition",
+    "questionText": "Plants, bacteria, fungi and animals whose genes have been altered by manipulation are called:",
+    "questionLatex": "Plants, bacteria, fungi and animals whose genes have been altered by manipulation are called:",
+    "options": [
+      "Hybrid organisms",
+      "Genetically Modified Organisms (GMOs)",
+      "Somaclones",
+      "Mutants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Organisms whose genetic material has been modified by genetic engineering are called GMOs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "GM Crops",
+    "familyId": "gm_crop_advantages",
+    "questionText": "Which of the following is an advantage of genetically modified crops?",
+    "questionLatex": "Which of the following is an advantage of genetically modified crops?",
+    "options": [
+      "Increased susceptibility to pests",
+      "Reduced tolerance to drought",
+      "Enhanced nutritional value of food",
+      "Lower mineral use efficiency"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "GM crops can have enhanced nutritional value, improved stress tolerance and reduced dependence on pesticides."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "GM Crops",
+    "familyId": "golden_rice",
+    "questionText": "Golden rice has been genetically modified primarily to increase the content of:",
+    "questionLatex": "Golden rice has been genetically modified primarily to increase the content of:",
+    "options": [
+      "Vitamin C",
+      "Iron",
+      "Vitamin A (β-carotene)",
+      "Vitamin D"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Golden rice is enriched with β-carotene, the precursor of Vitamin A, to help combat Vitamin A deficiency."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Bt Crops",
+    "familyId": "bt_bacterium",
+    "questionText": "Bt toxin is naturally produced by which bacterium?",
+    "questionLatex": "Bt toxin is naturally produced by which bacterium?",
+    "options": [
+      "Escherichia coli",
+      "Rhizobium leguminosarum",
+      "Bacillus thuringiensis",
+      "Agrobacterium tumefaciens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bt toxin is produced by the bacterium Bacillus thuringiensis."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Bt Crops",
+    "familyId": "protoxin",
+    "questionText": "Why does Bt toxin not kill Bacillus thuringiensis itself?",
+    "questionLatex": "Why does Bt toxin not kill Bacillus thuringiensis itself?",
+    "options": [
+      "The bacterium lacks receptors for the toxin.",
+      "The toxin is produced in an inactive protoxin form.",
+      "The toxin is immediately degraded.",
+      "The toxin is secreted outside the cell."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bt toxin exists as an inactive protoxin in the bacterium and becomes active only in the alkaline gut of susceptible insects."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Bt Crops",
+    "familyId": "bt_activation",
+    "questionText": "Bt protoxin becomes active inside the insect due to:",
+    "questionLatex": "Bt protoxin becomes active inside the insect due to:",
+    "options": [
+      "Acidic pH of the gut",
+      "Neutral pH of the gut",
+      "Alkaline pH of the gut",
+      "High body temperature"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The alkaline pH of the insect gut converts the inactive protoxin into its active toxic form."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Bt Crops",
+    "familyId": "cry_gene",
+    "questionText": "The insecticidal protein in Bt cotton is encoded by:",
+    "questionLatex": "The insecticidal protein in Bt cotton is encoded by:",
+    "options": [
+      "lac gene",
+      "cry gene",
+      "ampR gene",
+      "Ti gene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cry genes of Bacillus thuringiensis encode insecticidal crystal proteins."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Bt Crops",
+    "familyId": "cry_gene_target",
+    "questionText": "The CryIAc and CryIIAb genes provide resistance against:",
+    "questionLatex": "The CryIAc and CryIIAb genes provide resistance against:",
+    "options": [
+      "Corn borer",
+      "Cotton bollworms",
+      "Root-knot nematodes",
+      "Mosquito larvae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "CryIAc and CryIIAb genes are effective against cotton bollworms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "RNA Interference",
+    "familyId": "nematode_name",
+    "questionText": "The root-knot nematode controlled using RNA interference technology in tobacco plants is:",
+    "questionLatex": "The root-knot nematode controlled using RNA interference technology in tobacco plants is:",
+    "options": [
+      "Ascaris lumbricoides",
+      "Meloidogyne incognita",
+      "Wuchereria bancrofti",
+      "Ancylostoma duodenale"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meloidogyne incognita infects tobacco roots and is controlled through RNA interference."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "RNA Interference",
+    "familyId": "rnai_principle",
+    "questionText": "RNA interference (RNAi) results in:",
+    "questionLatex": "RNA interference (RNAi) results in:",
+    "options": [
+      "DNA replication",
+      "Silencing of specific mRNA",
+      "Protein denaturation",
+      "Chromosome duplication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RNAi works by silencing specific mRNA molecules, thereby preventing protein synthesis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "RNA Interference",
+    "familyId": "dsrna_role",
+    "questionText": "In RNA interference, gene silencing is initiated by:",
+    "questionLatex": "In RNA interference, gene silencing is initiated by:",
+    "options": [
+      "Single-stranded DNA",
+      "Messenger RNA",
+      "Double-stranded RNA",
+      "Transfer RNA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Double-stranded RNA (dsRNA) initiates RNA interference and leads to degradation of complementary mRNA."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "RNA Interference",
+    "familyId": "agrobacterium_rnai",
+    "questionText": "In the development of nematode-resistant tobacco plants, the desired genes were introduced using:",
+    "questionLatex": "In the development of nematode-resistant tobacco plants, the desired genes were introduced using:",
+    "options": [
+      "Bacteriophages",
+      "Agrobacterium vectors",
+      "Retroviruses",
+      "Plasmids of E. coli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Agrobacterium vectors were used to introduce nematode-specific gene sequences into tobacco plants."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Biotechnological Applications in Medicine",
+    "familyId": "medicine_applications",
+    "questionText": "Biotechnology has contributed significantly to medicine through the production of:",
+    "questionLatex": "Biotechnology has contributed significantly to medicine through the production of:",
+    "options": [
+      "Only antibiotics",
+      "Recombinant therapeutic proteins, vaccines and diagnostics",
+      "Only vitamins",
+      "Only painkillers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Modern biotechnology has enabled the production of recombinant therapeutic proteins, vaccines and improved diagnostic methods."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Recombinant Insulin",
+    "familyId": "diabetes_insulin",
+    "questionText": "Human insulin is primarily used for the treatment of:",
+    "questionLatex": "Human insulin is primarily used for the treatment of:",
+    "options": [
+      "Hypertension",
+      "Diabetes mellitus",
+      "Tuberculosis",
+      "Anaemia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Insulin regulates blood glucose levels and is administered to patients suffering from diabetes mellitus."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Recombinant Insulin",
+    "familyId": "insulin_structure",
+    "questionText": "Mature human insulin consists of:",
+    "questionLatex": "Mature human insulin consists of:",
+    "options": [
+      "One polypeptide chain",
+      "Two polypeptide chains (A and B) linked by disulphide bonds",
+      "Three polypeptide chains",
+      "Four identical subunits"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mature insulin contains A and B polypeptide chains connected by disulphide bonds."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Recombinant Insulin",
+    "familyId": "proinsulin",
+    "questionText": "Proinsulin differs from mature insulin because it contains:",
+    "questionLatex": "Proinsulin differs from mature insulin because it contains:",
+    "options": [
+      "An additional C-peptide",
+      "Three A chains",
+      "No disulphide bonds",
+      "Only one peptide chain"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Proinsulin contains an extra C-peptide, which is removed during maturation to form active insulin."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Recombinant Insulin",
+    "familyId": "eli_lilly",
+    "questionText": "The first commercially produced recombinant human insulin was developed by:",
+    "questionLatex": "The first commercially produced recombinant human insulin was developed by:",
+    "options": [
+      "Pfizer",
+      "Eli Lilly",
+      "Novartis",
+      "Bayer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Eli Lilly developed the first commercially available recombinant human insulin in 1983."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Gene Therapy",
+    "familyId": "gene_therapy_definition",
+    "questionText": "Gene therapy is primarily aimed at:",
+    "questionLatex": "Gene therapy is primarily aimed at:",
+    "options": [
+      "Destroy all body cells",
+      "Correct a genetic defect by introducing a functional gene",
+      "Increase mutation frequency",
+      "Suppress all immune responses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Gene therapy involves introducing a normal functional gene into a patient to compensate for a defective gene."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Gene Therapy",
+    "familyId": "ada_deficiency",
+    "questionText": "The first clinical gene therapy was performed for the treatment of:",
+    "questionLatex": "The first clinical gene therapy was performed for the treatment of:",
+    "options": [
+      "Haemophilia",
+      "ADA deficiency",
+      "Thalassaemia",
+      "Sickle-cell anaemia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The first successful gene therapy targeted Adenosine Deaminase (ADA) deficiency, a form of Severe Combined Immunodeficiency (SCID)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Gene Therapy",
+    "familyId": "ada_enzyme",
+    "questionText": "ADA deficiency results from the absence of the enzyme:",
+    "questionLatex": "ADA deficiency results from the absence of the enzyme:",
+    "options": [
+      "DNA polymerase",
+      "Adenosine deaminase",
+      "Reverse transcriptase",
+      "Catalase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ADA deficiency is caused by the absence of the enzyme adenosine deaminase, resulting in severe immune deficiency."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Gene Therapy",
+    "familyId": "lymphocyte_gene_therapy",
+    "questionText": "In ADA gene therapy, functional ADA genes are introduced into:",
+    "questionLatex": "In ADA gene therapy, functional ADA genes are introduced into:",
+    "options": [
+      "Red blood cells",
+      "Lymphocytes",
+      "Platelets",
+      "Neurons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Functional ADA genes are introduced into lymphocytes, which are then returned to the patient's body."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Gene Therapy",
+    "familyId": "stem_cell_therapy",
+    "questionText": "A permanent cure for ADA deficiency through gene therapy is more likely when the functional gene is introduced into:",
+    "questionLatex": "A permanent cure for ADA deficiency through gene therapy is more likely when the functional gene is introduced into:",
+    "options": [
+      "Mature erythrocytes",
+      "Bone marrow cells at an early embryonic stage",
+      "Blood plasma",
+      "Platelets"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Introducing the functional ADA gene into bone marrow cells or embryonic stem cells can provide long-term or permanent correction."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Molecular Diagnosis",
+    "familyId": "molecular_diagnosis_definition",
+    "questionText": "Molecular diagnosis is primarily used for:",
+    "questionLatex": "\\text{Molecular diagnosis is primarily used for:}",
+    "options": [
+      "Studying plant morphology",
+      "Detecting diseases at an early stage using molecular techniques",
+      "Measuring blood pressure",
+      "Testing soil fertility"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Molecular diagnosis enables the detection of pathogens or genetic disorders before symptoms become severe."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "PCR in Diagnosis",
+    "familyId": "pcr_disease_detection",
+    "questionText": "PCR is particularly useful in disease diagnosis because it:",
+    "questionLatex": "\\text{PCR is particularly useful in disease diagnosis because it:}",
+    "options": [
+      "Produces antibodies",
+      "Amplifies minute quantities of DNA",
+      "Synthesizes proteins",
+      "Destroys pathogens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PCR amplifies even very small amounts of DNA, making early detection of pathogens or genetic mutations possible."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "PCR in Diagnosis",
+    "familyId": "hiv_detection",
+    "questionText": "PCR is commonly used for the early detection of infection caused by:",
+    "questionLatex": "\\text{PCR is commonly used for the early detection of infection caused by:}",
+    "options": [
+      "Malaria parasite",
+      "Human Immunodeficiency Virus (HIV)",
+      "Entamoeba histolytica",
+      "Plasmodium vivax only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PCR can detect HIV DNA/RNA even before antibodies become detectable in the patient's blood."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "PCR in Diagnosis",
+    "familyId": "genetic_disorders_detection",
+    "questionText": "PCR can be used for the early detection of inherited genetic disorders by identifying:",
+    "questionLatex": "\\text{PCR can be used for the early detection of inherited genetic disorders by identifying:}",
+    "options": [
+      "Protein deficiency only",
+      "Mutated genes",
+      "Vitamin deficiency",
+      "Blood group antigens"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PCR amplifies specific DNA regions, allowing detection of disease-causing mutations."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "ELISA",
+    "familyId": "elisa_full_form",
+    "questionText": "ELISA stands for:",
+    "questionLatex": "\\text{ELISA stands for:}",
+    "options": [
+      "Enzyme-Linked Immunosorbent Assay",
+      "Enzyme-Ligated Immune Screening Assay",
+      "Electrophoretic Linked Immunological Assay",
+      "Enzyme-Level Immunity Standard Analysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "ELISA (Enzyme-Linked Immunosorbent Assay) is an immunological technique used to detect antigens or antibodies."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "ELISA",
+    "familyId": "elisa_principle",
+    "questionText": "ELISA is based on the principle of specific interaction between:",
+    "questionLatex": "\\text{ELISA is based on the principle of specific interaction between:}",
+    "options": [
+      "DNA and RNA",
+      "Antigen and antibody",
+      "Protein and lipid",
+      "Enzyme and substrate only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ELISA detects disease by exploiting the highly specific binding between antigens and antibodies."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Transgenic Animals",
+    "familyId": "transgenic_definition",
+    "questionText": "Transgenic animals are animals that:",
+    "questionLatex": "\\text{Transgenic animals are animals that:}",
+    "options": [
+      "Have undergone natural selection",
+      "Carry foreign genes introduced by genetic engineering",
+      "Belong to endangered species",
+      "Have been cloned naturally"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transgenic animals possess foreign genes that have been deliberately introduced into their genome."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Transgenic Animals",
+    "familyId": "first_transgenic_animal",
+    "questionText": "The first transgenic animal successfully produced was:",
+    "questionLatex": "\\text{The first transgenic animal successfully produced was:}",
+    "options": [
+      "Rabbit",
+      "Mouse",
+      "Sheep",
+      "Cow"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The mouse was the first transgenic animal successfully developed and remains widely used in biological research."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Transgenic Animals",
+    "familyId": "transgenic_uses",
+    "questionText": "Transgenic animals are extensively used for all of the following EXCEPT:",
+    "questionLatex": "\\text{Transgenic animals are extensively used for all of the following EXCEPT:}",
+    "options": [
+      "Studying normal physiology and development",
+      "Testing vaccine safety",
+      "Studying disease mechanisms",
+      "Increasing atmospheric nitrogen fixation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Transgenic animals are used for biomedical research, disease studies and vaccine testing, but not for nitrogen fixation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Transgenic Animals",
+    "familyId": "vaccine_safety_testing",
+    "questionText": "One important application of transgenic animals in medicine is:",
+    "questionLatex": "\\text{One important application of transgenic animals in medicine is:}",
+    "options": [
+      "Production of fossil fuels",
+      "Testing the safety of vaccines before human use",
+      "Manufacture of chemical fertilizers",
+      "Weather prediction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transgenic animals are used to evaluate the safety and efficacy of vaccines before they are tested in humans."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Transgenic Animals",
+    "familyId": "chemical_safety_testing",
+    "questionText": "Transgenic animals are used in toxicity testing to:",
+    "questionLatex": "\\text{Transgenic animals are used in toxicity testing to:}",
+    "options": [
+      "Increase milk production",
+      "Study the harmful effects of chemicals before human use",
+      "Improve crop yield",
+      "Fix atmospheric nitrogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transgenic animals are widely used to evaluate the toxicity and safety of newly developed chemicals and drugs before clinical use."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Ethical Issues",
+    "familyId": "biopatent_definition",
+    "questionText": "A biopatent is granted for:",
+    "questionLatex": "\\text{A biopatent is granted for:}",
+    "options": [
+      "Only literary works",
+      "Biological inventions and products",
+      "Chemical equations",
+      "Computer software only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A biopatent protects biological inventions such as genetically modified organisms, genes, processes and biotechnological products."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Ethical Issues",
+    "familyId": "biopiracy_definition",
+    "questionText": "Biopiracy refers to:",
+    "questionLatex": "\\text{Biopiracy refers to:}",
+    "options": [
+      "Conservation of biodiversity",
+      "Unauthorized use of biological resources and traditional knowledge without compensation",
+      "Cultivation of medicinal plants",
+      "Production of recombinant proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biopiracy is the unauthorized commercial exploitation of biological resources or traditional knowledge without proper permission or benefit sharing."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Ethical Issues",
+    "familyId": "basmati_case",
+    "questionText": "The Basmati rice controversy is commonly cited as an example of:",
+    "questionLatex": "\\text{The Basmati rice controversy is commonly cited as an example of:}",
+    "options": [
+      "Gene therapy",
+      "Biopiracy",
+      "PCR technology",
+      "RNA interference"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Basmati rice patent dispute is widely discussed as an example of biopiracy involving traditional biological resources."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Ethical Issues",
+    "familyId": "neem_case",
+    "questionText": "The patent dispute involving neem products highlighted concerns regarding:",
+    "questionLatex": "\\text{The patent dispute involving neem products highlighted concerns regarding:}",
+    "options": [
+      "Hybridization",
+      "Biopiracy",
+      "DNA fingerprinting",
+      "Artificial insemination"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The neem patent case emphasized the need to protect indigenous knowledge and prevent biopiracy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Ethical Issues",
+    "familyId": "patent_importance",
+    "questionText": "The primary purpose of a patent is to:",
+    "questionLatex": "\\text{The primary purpose of a patent is to:}",
+    "options": [
+      "Restrict scientific research permanently",
+      "Provide legal protection to inventors for their inventions",
+      "Prevent publication of research findings",
+      "Ban international trade"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Patents provide inventors with exclusive legal rights over their inventions for a specified period."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Applications Overview",
+    "familyId": "chapter_applications",
+    "questionText": "Which of the following is NOT a major application of biotechnology discussed in this chapter?",
+    "questionLatex": "\\text{Which of the following is NOT a major application of biotechnology discussed in this chapter?}",
+    "options": [
+      "Production of recombinant insulin",
+      "Gene therapy",
+      "Development of transgenic animals",
+      "Manufacture of petroleum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The chapter focuses on medical, agricultural and industrial applications of biotechnology, not petroleum production."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Applications Overview",
+    "familyId": "medical_biotechnology",
+    "questionText": "Which biotechnology application directly contributes to the treatment of inherited genetic disorders?",
+    "questionLatex": "\\text{Which biotechnology application directly contributes to the treatment of inherited genetic disorders?}",
+    "options": [
+      "Micropropagation",
+      "Gene therapy",
+      "ELISA",
+      "Gel electrophoresis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Gene therapy aims to correct inherited genetic disorders by introducing functional genes into affected cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Applications Overview",
+    "familyId": "agricultural_biotechnology",
+    "questionText": "The development of insect-resistant Bt cotton is an example of:",
+    "questionLatex": "\\text{The development of insect-resistant Bt cotton is an example of:}",
+    "options": [
+      "Gene therapy",
+      "Agricultural biotechnology",
+      "Molecular diagnosis",
+      "Biopiracy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bt cotton is a genetically modified crop developed using agricultural biotechnology to provide resistance against insect pests."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology and Its Applications",
+    "topic": "Chapter Summary",
+    "familyId": "chapter_summary",
+    "questionText": "Modern biotechnology has transformed agriculture and medicine primarily because it enables:",
+    "questionLatex": "\\text{Modern biotechnology has transformed agriculture and medicine primarily because it enables:}",
+    "options": [
+      "Random mutation only",
+      "Precise manipulation of genetic material for useful applications",
+      "Complete replacement of conventional breeding",
+      "Elimination of all infectious diseases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Modern biotechnology allows precise genetic manipulation for applications such as GM crops, recombinant therapeutics, molecular diagnosis and gene therapy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

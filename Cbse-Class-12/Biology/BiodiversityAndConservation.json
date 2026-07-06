@@ -1,0 +1,1251 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity",
+    "familyId": "definition_biodiversity",
+    "questionText": "The term biodiversity refers to:",
+    "questionLatex": "\\text{Biodiversity refers to:}",
+    "options": [
+      "Only the number of plant species",
+      "Only genetic variation within species",
+      "The combined diversity at all levels of biological organisation",
+      "Only the diversity of ecosystems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Biodiversity is defined as the combined diversity at all levels of biological organization, including genetic, species, and ecosystem levels."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Levels of Biodiversity",
+    "familyId": "genetic_diversity",
+    "questionText": "Which of the following is an example of genetic diversity mentioned in the NCERT chapter?",
+    "questionLatex": "\\text{An example of genetic diversity is:}",
+    "options": [
+      "Coral reefs in India",
+      "Different varieties of mango in India",
+      "Amazon rainforest",
+      "Western Ghats amphibians"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "India possesses more than 50,000 genetically different strains of rice and about 1,000 varieties of mango, which illustrates high genetic diversity within a single species."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Levels of Biodiversity",
+    "familyId": "species_diversity",
+    "questionText": "Which region has greater amphibian species diversity according to NCERT?",
+    "questionLatex": "\\text{Greater amphibian diversity is found in:}",
+    "options": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Aravalli Hills",
+      "Vindhya Range"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Western Ghats possess a significantly higher diversity of amphibian species compared to the Eastern Ghats."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Levels of Biodiversity",
+    "familyId": "ecological_diversity",
+    "questionText": "Ecological diversity refers to diversity at the level of:",
+    "questionLatex": "\\text{Ecological diversity refers to diversity at the level of:}",
+    "options": [
+      "Genes",
+      "Species",
+      "Ecosystems",
+      "Cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ecological diversity represents the variety and variations of ecosystems present within a geographical area, such as deserts, rainforests, mangroves, and coral reefs."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Richness",
+    "familyId": "recorded_species",
+    "questionText": "According to IUCN (2004), approximately how many plant and animal species had been described worldwide?",
+    "questionLatex": "\\text{Number of described species} \\approx 1.5\\text{ million}",
+    "options": [
+      "About 5 lakh",
+      "About 1.5 million",
+      "About 7 million",
+      "About 20 million"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to the International Union for Conservation of Nature (IUCN) 2004 records, the total number of described plant and animal species is slightly more than 1.5 million."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Richness",
+    "familyId": "robert_may_estimate",
+    "questionText": "Robert May estimated the total global species diversity to be approximately:",
+    "questionLatex": "\\text{Estimated global species diversity} \\approx 7\\text{ million}",
+    "options": [
+      "1.5 million",
+      "3 million",
+      "7 million",
+      "20 million"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Robert May proposed a sound and scientifically conservative global estimate that places total global species diversity at approximately 7 million."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Global Biodiversity",
+    "familyId": "species_distribution",
+    "questionText": "More than 70% of the recorded species on Earth belong to:",
+    "questionLatex": "\\text{More than }70\\%\\text{ of recorded species are:}",
+    "options": [
+      "Plants",
+      "Animals",
+      "Fungi",
+      "Protists"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Out of all recorded species globally, animals make up more than 70%, while all plants combined comprise no more than 22%."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Global Biodiversity",
+    "familyId": "insect_diversity",
+    "questionText": "Among animals, the most species-rich taxonomic group is:",
+    "questionLatex": "\\text{Most species-rich animal group is:}",
+    "options": [
+      "Birds",
+      "Mammals",
+      "Insects",
+      "Reptiles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Insects comprise the most species-rich taxonomic group among animals, accounting for roughly 70% of all animals on Earth (meaning out of every 10 animals, 7 are insects)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Indian Biodiversity",
+    "familyId": "mega_diversity_country",
+    "questionText": "India is recognised as one of the world's:",
+    "questionLatex": "\\text{India is one of the world's:}",
+    "options": [
+      "8 biodiversity hotspots",
+      "12 mega-diversity countries",
+      "34 biodiversity reserves",
+      "25 endemic regions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "India is proud to be classified as one of the 12 mega-diversity countries of the world due to its immense wealth of species."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Indian Biodiversity",
+    "familyId": "india_share_biodiversity",
+    "questionText": "India occupies about 2.4% of the world's land area but contributes approximately what percentage of global species diversity?",
+    "questionLatex": "\\text{India contributes about }8.1\\%\\text{ of global species diversity.}",
+    "options": [
+      "2.4%",
+      "5.0%",
+      "8.1%",
+      "12.0%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Although India contains only 2.4% of the world's total land area, its share of the global species diversity is an impressive 8.1%."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "familyId": "latitudinal_gradient",
+    "questionText": "Species diversity generally decreases as we move:",
+    "questionLatex": "\\text{Species diversity generally decreases as we move:}",
+    "options": [
+      "From poles towards the equator",
+      "From equator towards the poles",
+      "From mountains to plains",
+      "From forests to grasslands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Species diversity is highest in tropical regions near the equator and gradually decreases as we move towards the temperate and polar regions."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "familyId": "amazon_biodiversity",
+    "questionText": "The region with the greatest biodiversity on Earth is:",
+    "questionLatex": "\\text{The greatest biodiversity is found in:}",
+    "options": [
+      "Sahara Desert",
+      "Amazon rainforest",
+      "Arctic tundra",
+      "Antarctica"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The tropical Amazon rainforest in South America possesses the greatest biodiversity on Earth, hosting millions of distinct plant, insect, bird, mammal, and fish species."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Patterns of Biodiversity",
+    "familyId": "tropics_species_richness",
+    "questionText": "Which of the following is NOT a proposed reason for greater species richness in the tropics?",
+    "questionLatex": "\\text{NOT a reason for greater tropical biodiversity is:}",
+    "options": [
+      "Long evolutionary time",
+      "Stable and predictable climate",
+      "Greater solar energy availability",
+      "Frequent glaciations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Frequent glaciations occurred historically in temperate zones, driving high extinction rates. Tropical environments remained relatively undisturbed for millions of years, allowing extensive evolutionary time for speciation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species-Area Relationship",
+    "familyId": "alexander_humboldt",
+    "questionText": "The concept of species-area relationship was first proposed by:",
+    "questionLatex": "\\text{Species-area relationship was proposed by:}",
+    "options": [
+      "Charles Darwin",
+      "Alexander von Humboldt",
+      "Robert May",
+      "Edward Wilson"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "German naturalist and geographer Alexander von Humboldt observed that within a region, species richness increases with increasing explored area, but only up to a certain limit."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species-Area Relationship",
+    "familyId": "species_area_equation",
+    "questionText": "On a logarithmic scale, the species-area relationship is represented by:",
+    "questionLatex": "\\log S = \\log C + Z \\log A",
+    "options": [
+      "S = C + A",
+      "\\log S = \\log C + Z \\log A",
+      "S = CA",
+      "A = SC"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The rectangular hyperbola relationship between species richness (S) and area (A) turns into a linear equation on a logarithmic scale, represented mathematically as $\\log S = \\log C + Z \\log A$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species-Area Relationship",
+    "familyId": "z_value",
+    "questionText": "For most taxonomic groups, the value of regression coefficient (Z) in the species-area relationship generally lies between:",
+    "questionLatex": "\\text{Typical } Z \\text{ value is:}",
+    "options": [
+      "0.01–0.05",
+      "0.1–0.2",
+      "0.5–0.8",
+      "1.5–2.0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Regardless of the taxonomic group or region, the slope of the regression line (Z) remarkably falls within a narrow range of 0.1 to 0.2 for normal, regional areas."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Diversity",
+    "familyId": "david_tilman",
+    "questionText": "David Tilman's long-term ecosystem experiments demonstrated that communities with greater species diversity generally have:",
+    "questionLatex": "\\text{Greater biodiversity results in:}",
+    "options": [
+      "Lower productivity",
+      "Greater year-to-year variation in biomass",
+      "Higher productivity and greater stability",
+      "Greater susceptibility to invasive species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "David Tilman showed that outdoor plots with more species showed less year-to-year variation in total biomass and contributed to higher overall productivity."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Diversity",
+    "familyId": "rivet_popper_hypothesis",
+    "questionText": "The 'Rivet Popper Hypothesis' explaining the importance of biodiversity was proposed by:",
+    "questionLatex": "\\text{Rivet Popper Hypothesis was proposed by:}",
+    "options": [
+      "Robert May",
+      "Alexander von Humboldt",
+      "Paul Ehrlich",
+      "Edward Wilson"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Stanford ecologist Paul Ehrlich proposed the Rivet Popper hypothesis, using an airplane analogy to explain how the progressive loss of individual species affects ecosystem stability."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Diversity",
+    "familyId": "stable_community",
+    "questionText": "A biologically stable community is one that:",
+    "questionLatex": "\\text{A stable community should:}",
+    "options": [
+      "Show large fluctuations in productivity",
+      "Be highly susceptible to alien species",
+      "Resist disturbances and biological invasions",
+      "Contain only a few dominant species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An ecologically stable biological community must be resistant or resilient to occasional natural or man-made disturbances and must show low variation in productivity while resisting invasive alien species."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Species Diversity",
+    "familyId": "ecosystem_stability",
+    "questionText": "According to NCERT, higher biodiversity generally contributes to:",
+    "questionLatex": "\\text{Higher biodiversity generally contributes to:}",
+    "options": [
+      "Lower ecosystem productivity",
+      "Reduced ecosystem stability",
+      "Greater ecosystem productivity and stability",
+      "Higher extinction rates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rich biodiversity is vital not just for a species' survival, but is foundational for ensuring consistent ecosystem functioning, productivity, and resilience over long-term periods."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Loss",
+    "familyId": "biodiversity_loss_definition",
+    "questionText": "Biodiversity loss refers to:",
+    "questionLatex": "\\text{Biodiversity loss refers to:}",
+    "options": [
+      "Increase in ecosystem productivity",
+      "Decline in the variety of genes, species and ecosystems",
+      "Formation of new species",
+      "Increase in species richness"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biodiversity loss is defined as the reduction and decline in biological diversity at all levels, including genetic variation, species richness, and ecosystem variety."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Causes of Biodiversity Loss",
+    "familyId": "evil_quartet",
+    "questionText": "The four major causes of biodiversity loss are collectively referred to as the:",
+    "questionLatex": "\\text{The four major causes are called:}",
+    "options": [
+      "Big Four",
+      "Evil Quartet",
+      "Four Pillars",
+      "Golden Quartet"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The four major accelerated causes of species extinction—habitat loss and fragmentation, over-exploitation, alien species invasions, and co-extinctions—are collectively nicknamed the 'Evil Quartet'."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Habitat Loss",
+    "familyId": "habitat_loss_major_cause",
+    "questionText": "The primary cause of biodiversity loss worldwide is:",
+    "questionLatex": "\\text{The primary cause of biodiversity loss is:}",
+    "options": [
+      "Overgrazing",
+      "Habitat loss and fragmentation",
+      "Earthquakes",
+      "Volcanic eruptions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Habitat loss and fragmentation is considered the single most important cause driving animals and plants to extinction globally."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Habitat Loss",
+    "familyId": "rainforest_fragmentation",
+    "questionText": "Large-scale fragmentation of tropical rainforests mainly results in:",
+    "questionLatex": "\\text{Fragmentation of rainforests mainly results in:}",
+    "options": [
+      "Increased biodiversity",
+      "Reduction in viable populations and increased extinction risk",
+      "Higher genetic diversity",
+      "Formation of new ecosystems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "When large habitats are broken into smaller fragments due to human activities, mammals and birds requiring large territories and certain animals with migratory habits are badly affected, leading to population declines."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Over-exploitation",
+    "familyId": "overexploitation_definition",
+    "questionText": "Over-exploitation of biological resources occurs when:",
+    "questionLatex": "\\text{Over-exploitation occurs when:}",
+    "options": [
+      "Resources are used sustainably",
+      "Resources are harvested faster than their natural replenishment",
+      "Species adapt rapidly",
+      "Only endangered species are protected"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "When biological resource needs turn into greed, humans begin to over-exploit natural resources faster than the species can recover or reproduce, leading to extinction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Alien Species",
+    "familyId": "alien_species_definition",
+    "questionText": "Alien species are species that:",
+    "options": [
+      "Occur naturally in every ecosystem",
+      "Are introduced intentionally or accidentally outside their natural range",
+      "Are always endangered",
+      "Belong only to marine ecosystems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alien species are non-native species introduced intentionally or unintentionally into a new geographic area from outside their natural habitat range."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Alien Species",
+    "familyId": "invasive_species_example",
+    "questionText": "Which one of the following is an invasive alien weed mentioned in NCERT?",
+    "questionLatex": "\\text{An invasive alien weed is:}",
+    "options": [
+      "Mangifera indica",
+      "Parthenium hysterophorus",
+      "Azadirachta indica",
+      "Oryza sativa"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Parthenium hysterophorus (carrot grass or Congress grass) is an exotic weed that has become highly invasive in India, posing threats to native plant species."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Alien Species",
+    "familyId": "african_catfish",
+    "questionText": "The African catfish introduced into India threatens native species because it is:",
+    "questionLatex": "\\text{African catfish threatens native species because it is:}",
+    "options": [
+      "A primary producer",
+      "An invasive alien species",
+      "A decomposer",
+      "A pollinator"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The illegal introduction of the African catfish (Clarias gariepinus) for aquaculture poses a severe threat to indigenous predatory catfishes in Indian rivers, classifying it as an invasive alien species."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Co-extinction",
+    "familyId": "coextinction_definition",
+    "questionText": "Co-extinction refers to:",
+    "questionLatex": "\\text{Co-extinction refers to:}",
+    "options": [
+      "Simultaneous evolution of two species",
+      "Extinction of one species leading to extinction of another dependent species",
+      "Mass extinction caused by volcanoes",
+      "Artificial breeding of endangered species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Co-extinction occurs when a host species becomes extinct, leading to the inevitable extinction of other obligate plant or animal parasites and mutualists tied directly to it."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Extinction",
+    "familyId": "mass_extinction_rate",
+    "questionText": "According to NCERT, the present rate of species extinction due to human activities is estimated to be:",
+    "questionLatex": "\\text{Present extinction rate is approximately:}",
+    "options": [
+      "Equal to the natural background rate",
+      "10-100 times the natural rate",
+      "100-1000 times the natural rate",
+      "Less than the natural rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ecologists estimate that current global species extinction rates are 100 to 1,000 times faster than natural pre-human background levels due to human interventions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "need_for_conservation",
+    "questionText": "The primary objective of biodiversity conservation is to:",
+    "questionLatex": "\\text{The primary objective of biodiversity conservation is to:}",
+    "options": [
+      "Increase urbanisation",
+      "Prevent the loss of biological diversity and ensure sustainable use of resources",
+      "Promote industrial development only",
+      "Increase exploitation of natural resources"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biodiversity conservation aims to protect biological diversity while ensuring its sustainable utilization and preservation for future generations."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "in_situ_definition",
+    "questionText": "In situ conservation refers to:",
+    "questionLatex": "\\text{In situ conservation refers to:}",
+    "options": [
+      "Conservation of species outside their natural habitats",
+      "Conservation of species in their natural habitats",
+      "Preservation of DNA samples only",
+      "Artificial breeding in laboratories"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In situ (on-site) conservation involves protecting and conserving an endangered plant or animal species in its natural habitat."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "biosphere_reserve",
+    "questionText": "A biosphere reserve is primarily established to:",
+    "questionLatex": "\\text{A biosphere reserve is established to:}",
+    "options": [
+      "Promote mining activities",
+      "Conserve biodiversity along with sustainable use of natural resources",
+      "Increase agricultural production only",
+      "Develop industrial estates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biosphere reserves are areas of terrestrial and coastal ecosystems which promote solutions to reconcile the conservation of biodiversity with its sustainable use."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Protected Areas",
+    "familyId": "national_park",
+    "questionText": "Which protected area provides the highest degree of protection to wildlife and their habitats?",
+    "questionLatex": "\\text{Which protected area provides the highest protection?}",
+    "options": [
+      "Reserved forest",
+      "National park",
+      "Village forest",
+      "Botanical garden"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "National parks provide strict protection to entire wildlife habitats where activities like forestry, grazing, or cultivation are completely prohibited."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Protected Areas",
+    "familyId": "wildlife_sanctuary",
+    "questionText": "Wildlife sanctuaries are established mainly for the protection of:",
+    "questionLatex": "\\text{Wildlife sanctuaries are established mainly for:}",
+    "options": [
+      "Industrial development",
+      "Wild animals and their habitats",
+      "Commercial agriculture",
+      "Urban settlements"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Wildlife sanctuaries are dedicated areas created specifically to safeguard wildlife species and their natural environment while allowing limited and regulated human activities."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "biodiversity_hotspots",
+    "questionText": "Biodiversity hotspots are regions characterized by:",
+    "questionLatex": "\\text{Biodiversity hotspots are regions with:}",
+    "options": [
+      "Low species richness",
+      "High endemism and high degree of threat",
+      "Only desert vegetation",
+      "High human population density only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biodiversity hotspots are biogeographic regions with significant levels of biodiversity that exhibit high degrees of endemism and face accelerated habitat loss."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Hotspots",
+    "familyId": "india_hotspots",
+    "questionText": "How many biodiversity hotspots include regions of India according to NCERT?",
+    "questionLatex": "\\text{Number of biodiversity hotspots including India according to NCERT:}",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to the Class 12 NCERT textbook, three biodiversity hotspots—Western Ghats-Sri Lanka, Himalaya, and Indo-Burma—cover our country's exceptionally high biodiversity regions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Ex situ Conservation",
+    "familyId": "ex_situ_definition",
+    "questionText": "Ex situ conservation involves:",
+    "questionLatex": "\\text{Ex situ conservation involves:}",
+    "options": [
+      "Protection of species in their natural habitats",
+      "Conservation of species outside their natural habitats",
+      "Protection of only forests",
+      "Protection of only endangered animals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ex situ (off-site) conservation is the technique of conservation of components of biological diversity outside their natural habitats."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Ex situ Conservation",
+    "familyId": "gene_bank",
+    "questionText": "Seed banks and gene banks are examples of:",
+    "questionLatex": "\\text{Seed banks and gene banks are examples of:}",
+    "options": [
+      "In situ conservation",
+      "Ex situ conservation",
+      "Habitat restoration",
+      "Ecological succession"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Seed banks and gene banks preserve genetic materials outside normal environmental boundaries, making them standard examples of ex situ conservation strategies."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "chapter_summary",
+    "questionText": "Which statement best summarizes biodiversity conservation?",
+    "questionLatex": "\\text{The best summary of biodiversity conservation is:}",
+    "options": [
+      "Only endangered animals should be protected.",
+      "Conservation involves protecting biodiversity through both in situ and ex situ approaches for sustainable use and ecological stability.",
+      "Conservation is limited to national parks only.",
+      "Conservation focuses only on economically useful species."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Effective biodiversity conservation relies on a complementary balance of in situ protection within natural sanctuaries and ex situ facilities to ensure resource sustainability."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Efforts",
+    "familyId": "cryopreservation",
+    "questionText": "Cryopreservation is a technique used for:",
+    "questionLatex": "\\text{Cryopreservation is a technique used for:}",
+    "options": [
+      "Increasing mutation rates",
+      "Long-term preservation of biological materials at very low temperatures",
+      "Artificial pollination",
+      "Rapid multiplication of plants in forests"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cryopreservation allows the gametes of threatened species to be preserved in a viable and fertile condition for long periods at ultra-low temperatures (using liquid nitrogen at $-196^{\\circ}\\text{C}$)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Efforts",
+    "familyId": "botanical_garden",
+    "questionText": "Botanical gardens primarily contribute to biodiversity conservation by:",
+    "questionLatex": "\\text{Botanical gardens primarily contribute to biodiversity conservation by:}",
+    "options": [
+      "Protecting only wild animals",
+      "Maintaining living collections of plant species",
+      "Harvesting medicinal plants commercially",
+      "Increasing urban development"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Botanical gardens are ex situ conservation facilities that cultivate and maintain living collections of diverse and threatened plant species for conservation, identification, and research purposes."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Efforts",
+    "familyId": "zoological_parks",
+    "questionText": "Zoological parks mainly support conservation through:",
+    "questionLatex": "\\text{Zoological parks mainly support conservation through:}",
+    "options": [
+      "Deforestation",
+      "Captive breeding and protection of threatened animals",
+      "Commercial hunting",
+      "Mining activities"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Many animals that have become extinct in the wild continue to be maintained and multiplied in zoological parks through managed captive breeding programs, making them crucial ex situ refuges."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Protected Areas",
+    "familyId": "biosphere_reserve_core",
+    "questionText": "The core zone of a biosphere reserve is meant primarily for:",
+    "questionLatex": "\\text{The core zone of a biosphere reserve is meant primarily for:}",
+    "options": [
+      "Industrial activities",
+      "Strict protection of ecosystems and wildlife",
+      "Tourism development",
+      "Agricultural expansion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The core zone of a biosphere reserve is a strictly protected area where human activities are completely prohibited to maintain a baseline undisturbed natural environment."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "endemism",
+    "questionText": "An endemic species is one that:",
+    "questionLatex": "\\text{An endemic species is one that:}",
+    "options": [
+      "Occurs throughout the world",
+      "Is restricted to a particular geographical region",
+      "Is always endangered",
+      "Migrates seasonally"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Endemism is defined as the confinement of a species to a specific, localized geographical area and its absence from any other part of the world."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Ethics",
+    "familyId": "ethical_argument",
+    "questionText": "The ethical argument for biodiversity conservation emphasizes that:",
+    "questionLatex": "\\text{The ethical argument for biodiversity conservation emphasizes that:}",
+    "options": [
+      "Only economically useful species deserve protection",
+      "Every species has an intrinsic value and a right to exist",
+      "Only rare species should be conserved",
+      "Conservation is necessary only for tourism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The ethical perspective states that we owe a duty to millions of plant, animal, and microbe species with whom we share this planet, recognizing that every species possesses an inherent intrinsic value regardless of its immediate economic utility to humans."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Values",
+    "familyId": "economic_value",
+    "questionText": "Biodiversity provides narrow utilitarian economic benefits through:",
+    "questionLatex": "\\text{Biodiversity provides narrow utilitarian economic benefits through:}",
+    "options": [
+      "Medicines, food and industrial raw materials",
+      "Earthquakes and volcanic eruptions",
+      "Urban pollution",
+      "Deforestation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The narrow utilitarian arguments for conserving biodiversity are based on direct economic benefits derived by humans, including food crops, firewood, fiber, construction material, industrial products, and bioprospecting for pharmaceuticals."
+    },
+    "difficultyScore": 17,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation Strategies",
+    "familyId": "combined_strategy",
+    "questionText": "The most effective long-term strategy for conserving biodiversity is:",
+    "questionLatex": "\\text{The most effective long-term strategy for conserving biodiversity is:}",
+    "options": [
+      "Only ex situ conservation",
+      "Only in situ conservation",
+      "An integrated use of both in situ and ex situ conservation",
+      "Captive breeding alone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A comprehensive strategy coordinates in situ conservation (protecting entire ecosystems through reserves and parks) with ex situ methods (preserving critically endangered populations off-site) to maximize security against species extinction."
+    },
+    "difficultyScore": 21,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Conservation",
+    "familyId": "sustainable_use",
+    "questionText": "Sustainable use of biodiversity means:",
+    "questionLatex": "\\text{Sustainable use of biodiversity means:}",
+    "options": [
+      "Complete prohibition of resource use",
+      "Utilizing biological resources without compromising their availability for future generations",
+      "Unlimited exploitation of natural resources",
+      "Using only non-living resources"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sustainable use involves extracting and managing biological resources in a manner and at a pace that avoids long-term biodiversity decline, thereby maintaining its potential to fulfill the needs of present and future generations."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Chapter Summary",
+    "familyId": "biodiversity_summary",
+    "questionText": "Which statement best summarizes the central message of the chapter 'Biodiversity and Conservation'?",
+    "questionLatex": "\\text{Which statement best summarizes the central message of the chapter?}",
+    "options": [
+      "Biodiversity has only aesthetic value.",
+      "Conserving biodiversity is essential for ecological stability, sustainable development and human well-being through both in situ and ex situ approaches.",
+      "Only endangered animals need protection.",
+      "Economic development and biodiversity conservation cannot coexist."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The textbook emphasizes that biodiversity is crucial for ecosystem functional stability, health, and resilience, requiring urgent, multi-faceted systemic conservation policies (both inside and outside natural habitats) to preserve the earth's life support systems."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

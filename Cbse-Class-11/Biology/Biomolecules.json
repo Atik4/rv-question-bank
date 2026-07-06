@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Chemical Composition of Living Organisms",
+    "familyId": "biomolecules_intro",
+    "questionText": "The relative abundance of which two elements is much higher in living organisms than in the earth's crust?",
+    "questionLatex": "$\\text{The relative abundance of which two elements is much higher in living organisms than in the earth's crust?}$",
+    "options": [
+      "Silicon and Calcium",
+      "Carbon and Hydrogen",
+      "Magnesium and Sodium",
+      "Iron and Phosphorus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Living organisms contain a relatively higher proportion of carbon and hydrogen compared to the earth's crust."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Chemical Analysis",
+    "familyId": "acid_soluble_fraction",
+    "questionText": "During chemical analysis of living tissues, the filtrate obtained after grinding tissue in trichloroacetic acid is known as:",
+    "questionLatex": "$\\text{During chemical analysis of living tissues, the filtrate obtained after grinding tissue in trichloroacetic acid is known as:}$",
+    "options": [
+      "Acid-insoluble fraction",
+      "Acid-soluble pool",
+      "Cell sap",
+      "Dry residue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The filtrate is called the acid-soluble pool, while the residue forms the acid-insoluble fraction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Biomolecules",
+    "familyId": "definition_biomolecules",
+    "questionText": "Organic compounds isolated from living tissues are collectively known as:",
+    "questionLatex": "$\\text{Organic compounds isolated from living tissues are collectively known as:}$",
+    "options": [
+      "Minerals",
+      "Biomolecules",
+      "Metabolites only",
+      "Macromolecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "All organic compounds isolated from living tissues are collectively called biomolecules."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Amino Acids",
+    "familyId": "alpha_amino_acid",
+    "questionText": "Proteinaceous amino acids are called α-amino acids because:",
+    "questionLatex": "$\\text{Proteinaceous amino acids are called }\\alpha\\text{-amino acids because:}$",
+    "options": [
+      "They contain only one carbon atom",
+      "Both amino and carboxyl groups are attached to the same carbon atom",
+      "They are always acidic",
+      "They contain only one amino group"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In α-amino acids, the amino group and carboxyl group are attached to the same α-carbon atom."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Amino Acids",
+    "familyId": "zwitterion",
+    "questionText": "The ionized form of an amino acid containing both positive and negative charges simultaneously is called:",
+    "questionLatex": "$\\text{The ionized form of an amino acid containing both positive and negative charges simultaneously is called:}$",
+    "options": [
+      "Peptide",
+      "Zwitterion",
+      "Isomer",
+      "Radical"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "At suitable pH, amino acids exist as zwitterions carrying both positive and negative charges."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Lipids",
+    "familyId": "fatty_acids",
+    "questionText": "A fatty acid containing one or more carbon-carbon double bonds is known as:",
+    "questionLatex": "$\\text{A fatty acid containing one or more C=C double bonds is known as:}$",
+    "options": [
+      "Saturated fatty acid",
+      "Unsaturated fatty acid",
+      "Neutral fatty acid",
+      "Essential fatty acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Unsaturated fatty acids possess one or more double bonds between carbon atoms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Lipids",
+    "familyId": "phospholipids",
+    "questionText": "Phospholipids are major structural components of:",
+    "questionLatex": "$\\text{Phospholipids are major structural components of:}$",
+    "options": [
+      "Cell wall",
+      "Cell membrane",
+      "Ribosomes",
+      "Chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Phospholipids form the basic structural framework of biological membranes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Nucleotides",
+    "familyId": "nucleoside_vs_nucleotide",
+    "questionText": "A nucleoside differs from a nucleotide because a nucleotide contains:",
+    "questionLatex": "$\\text{A nucleoside differs from a nucleotide because a nucleotide contains:}$",
+    "options": [
+      "Only a nitrogenous base",
+      "A phosphate group in addition to sugar and nitrogenous base",
+      "Only ribose sugar",
+      "Only deoxyribose sugar"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A nucleotide consists of a nitrogenous base, pentose sugar and phosphate group, whereas a nucleoside lacks the phosphate group."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "genetic_material",
+    "questionText": "Which biomolecules function as the genetic material in living organisms?",
+    "questionLatex": "$\\text{Which biomolecules function as the genetic material in living organisms?}$",
+    "options": [
+      "Proteins",
+      "Lipids",
+      "DNA and RNA",
+      "Polysaccharides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "DNA and RNA are nucleic acids that function as genetic material."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Chemical Composition",
+    "familyId": "wet_vs_dry_weight",
+    "questionText": "Differentiate between wet weight and dry weight of a biological sample.",
+    "questionLatex": "$\\text{Differentiate between wet weight and dry weight of a biological sample.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Wet weight is the weight of a freshly collected biological sample containing water. Dry weight is obtained after removing all water by drying the sample and represents only the solid constituents."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Primary and Secondary Metabolites",
+    "familyId": "primary_metabolites_definition",
+    "questionText": "Primary metabolites are compounds that:",
+    "questionLatex": "$\\text{Primary metabolites are compounds that:}$",
+    "options": [
+      "Are produced only by microorganisms",
+      "Have identifiable functions in normal physiological processes",
+      "Are useful only to humans",
+      "Are found only in plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary metabolites participate directly in normal physiological and metabolic activities of living organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Secondary Metabolites",
+    "familyId": "secondary_metabolites_examples",
+    "questionText": "Which of the following is an example of a secondary metabolite?",
+    "questionLatex": "$\\text{Which of the following is an example of a secondary metabolite?}$",
+    "options": [
+      "Glucose",
+      "Alanine",
+      "Morphine",
+      "DNA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Morphine is an alkaloid and is classified as a secondary metabolite."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Biomacromolecules",
+    "familyId": "macromolecule_definition",
+    "questionText": "Biomacromolecules generally have molecular weights:",
+    "questionLatex": "$\\text{Biomacromolecules generally have molecular weights:}$",
+    "options": [
+      "Less than 100 Da",
+      "Between 100 and 500 Da",
+      "Less than 1000 Da",
+      "Greater than 10,000 Da"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Proteins, nucleic acids and polysaccharides generally possess molecular weights above 10,000 Da."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Biomacromolecules",
+    "familyId": "acid_insoluble_fraction",
+    "questionText": "Which of the following is NOT considered a true biomacromolecule?",
+    "questionLatex": "$\\text{Which of the following is NOT considered a true biomacromolecule?}$",
+    "options": [
+      "Protein",
+      "Polysaccharide",
+      "Lipid",
+      "Nucleic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Although lipids occur in the acid-insoluble fraction, they are not true macromolecules because their molecular weight generally does not exceed 800 Da."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Cell Composition",
+    "familyId": "most_abundant_component",
+    "questionText": "Which is the most abundant chemical constituent of living cells?",
+    "questionLatex": "$\\text{Which is the most abundant chemical constituent of living cells?}$",
+    "options": [
+      "Proteins",
+      "Water",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Water constitutes about 70–90% of the total cellular mass and is the most abundant chemical constituent."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "protein_definition",
+    "questionText": "Proteins are polymers of:",
+    "questionLatex": "$\\text{Proteins are polymers of:}$",
+    "options": [
+      "Fatty acids",
+      "Monosaccharides",
+      "Amino acids",
+      "Nucleotides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Proteins are heteropolymers made up of amino acids joined by peptide bonds."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "heteropolymer",
+    "questionText": "Proteins are described as heteropolymers because:",
+    "questionLatex": "$\\text{Proteins are described as heteropolymers because:}$",
+    "options": [
+      "They contain only one amino acid",
+      "They consist of different kinds of amino acids",
+      "They contain only peptide bonds",
+      "They are composed of glucose molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Proteins contain different amino acids arranged in specific sequences and are therefore heteropolymers."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "abundant_protein",
+    "questionText": "The most abundant protein in the entire biosphere is:",
+    "questionLatex": "$\\text{The most abundant protein in the entire biosphere is:}$",
+    "options": [
+      "Collagen",
+      "Haemoglobin",
+      "Insulin",
+      "RuBisCO"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Ribulose bisphosphate carboxylase-oxygenase (RuBisCO) is the most abundant protein in the biosphere."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Proteins",
+    "familyId": "protein_function",
+    "questionText": "Which protein functions as a hormone?",
+    "questionLatex": "$\\text{Which protein functions as a hormone?}$",
+    "options": [
+      "Collagen",
+      "Trypsin",
+      "Insulin",
+      "Antibody"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Insulin is a protein hormone secreted by the pancreas to regulate blood glucose levels."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Primary and Secondary Metabolites",
+    "familyId": "primary_secondary_difference",
+    "questionText": "Differentiate between primary metabolites and secondary metabolites with one example of each.",
+    "questionLatex": "$\\text{Differentiate between primary metabolites and secondary metabolites with one example of each.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Primary metabolites are directly involved in normal growth, development and metabolism of organisms. Examples include amino acids and glucose. Secondary metabolites are not directly involved in primary metabolic processes but often provide ecological or commercial advantages. Examples include morphine, rubber, alkaloids and essential oils."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Protein Structure",
+    "familyId": "peptide_bond",
+    "questionText": "The bond formed between two amino acids during protein synthesis is called:",
+    "questionLatex": "$\\text{The bond formed between two amino acids during protein synthesis is called:}$",
+    "options": [
+      "Glycosidic bond",
+      "Hydrogen bond",
+      "Peptide bond",
+      "Phosphodiester bond"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A peptide bond is formed by condensation between the amino group of one amino acid and the carboxyl group of another amino acid."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Protein Structure",
+    "familyId": "primary_structure",
+    "questionText": "The sequence of amino acids in a polypeptide chain represents its:",
+    "questionLatex": "$\\text{The sequence of amino acids in a polypeptide chain represents its:}$",
+    "options": [
+      "Secondary structure",
+      "Primary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The primary structure of a protein refers to the linear sequence of amino acids linked by peptide bonds."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Protein Structure",
+    "familyId": "secondary_structure",
+    "questionText": "The α-helix and β-pleated sheet are examples of:",
+    "questionLatex": "$\\text{The }\\alpha\\text{-helix and }\\beta\\text{-pleated sheet are examples of:}$",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The α-helix and β-pleated sheet are common forms of the secondary structure of proteins."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Protein Structure",
+    "familyId": "tertiary_structure",
+    "questionText": "The three-dimensional folding of a single polypeptide chain is known as:",
+    "questionLatex": "$\\text{The three-dimensional folding of a single polypeptide chain is known as:}$",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The tertiary structure results from the folding of a single polypeptide chain into a specific three-dimensional shape."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Carbohydrates",
+    "familyId": "monosaccharide_example",
+    "questionText": "Which of the following is a monosaccharide?",
+    "questionLatex": "$\\text{Which of the following is a monosaccharide?}$",
+    "options": [
+      "Sucrose",
+      "Maltose",
+      "Glucose",
+      "Cellulose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Glucose is a monosaccharide, whereas sucrose and maltose are disaccharides and cellulose is a polysaccharide."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Carbohydrates",
+    "familyId": "glycosidic_bond",
+    "questionText": "The bond joining two monosaccharide molecules is called:",
+    "questionLatex": "$\\text{The bond joining two monosaccharide molecules is called:}$",
+    "options": [
+      "Peptide bond",
+      "Phosphodiester bond",
+      "Glycosidic bond",
+      "Hydrogen bond"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A glycosidic bond is formed between two monosaccharides through a condensation reaction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "starch_storage",
+    "questionText": "The principal storage polysaccharide in plants is:",
+    "questionLatex": "$\\text{The principal storage polysaccharide in plants is:}$",
+    "options": [
+      "Cellulose",
+      "Glycogen",
+      "Starch",
+      "Chitin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plants store carbohydrates in the form of starch."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "glycogen_storage",
+    "questionText": "The storage polysaccharide found in animals is:",
+    "questionLatex": "$\\text{The storage polysaccharide found in animals is:}$",
+    "options": [
+      "Cellulose",
+      "Glycogen",
+      "Starch",
+      "Pectin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Animals store excess glucose in the form of glycogen, mainly in the liver and muscles."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Polysaccharides",
+    "familyId": "cellulose_function",
+    "questionText": "Cellulose is the major structural component of:",
+    "questionLatex": "$\\text{Cellulose is the major structural component of:}$",
+    "options": [
+      "Plant cell wall",
+      "Animal cell membrane",
+      "Fungal cell wall",
+      "Bacterial capsule"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Cellulose forms the main structural component of plant cell walls."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Proteins and Carbohydrates",
+    "familyId": "protein_levels_difference",
+    "questionText": "Differentiate between the primary structure and secondary structure of proteins.",
+    "questionLatex": "$\\text{Differentiate between the primary structure and secondary structure of proteins.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The primary structure refers to the linear sequence of amino acids in a polypeptide chain joined by peptide bonds. The secondary structure refers to the regular folding of the polypeptide chain into structures such as the α-helix and β-pleated sheet, stabilized mainly by hydrogen bonds."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "dna_monomer",
+    "questionText": "The basic repeating unit of nucleic acids is:",
+    "questionLatex": "$\\text{The basic repeating unit of nucleic acids is:}$",
+    "options": [
+      "Amino acid",
+      "Fatty acid",
+      "Nucleotide",
+      "Monosaccharide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nucleic acids are polymers composed of nucleotide monomers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "familyId": "dna_rna_difference",
+    "questionText": "RNA differs from DNA because RNA contains:",
+    "questionLatex": "$\\text{RNA differs from DNA because RNA contains:}$",
+    "options": [
+      "Deoxyribose sugar and thymine",
+      "Ribose sugar and uracil",
+      "Deoxyribose sugar and uracil",
+      "Ribose sugar and thymine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RNA contains ribose sugar and the nitrogenous base uracil instead of thymine."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "familyId": "enzyme_definition",
+    "questionText": "Enzymes are biologically important:",
+    "questionLatex": "$\\text{Enzymes are biologically important:}$",
+    "options": [
+      "Lipids",
+      "Carbohydrates",
+      "Biocatalysts",
+      "Hormones"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Enzymes are biological catalysts that accelerate biochemical reactions without being consumed."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "familyId": "enzyme_nature",
+    "questionText": "Most enzymes are chemically:",
+    "questionLatex": "$\\text{Most enzymes are chemically:}$",
+    "options": [
+      "Lipids",
+      "Proteins",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The majority of enzymes are proteins, although some RNA molecules also possess catalytic activity."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Activity",
+    "familyId": "activation_energy",
+    "questionText": "The primary role of an enzyme in a biochemical reaction is to:",
+    "questionLatex": "$\\text{The primary role of an enzyme in a biochemical reaction is to:}$",
+    "options": [
+      "Increase activation energy",
+      "Lower activation energy",
+      "Change the equilibrium constant",
+      "Become a permanent part of the product"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Enzymes speed up reactions by lowering the activation energy required for the reaction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Classification",
+    "familyId": "oxidoreductase",
+    "questionText": "Enzymes that catalyse oxidation-reduction reactions belong to the class:",
+    "questionLatex": "$\\text{Enzymes that catalyse oxidation-reduction reactions belong to the class:}$",
+    "options": [
+      "Transferases",
+      "Hydrolases",
+      "Oxidoreductases",
+      "Ligases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxidoreductases catalyse oxidation and reduction reactions involving electron transfer."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Classification",
+    "familyId": "hydrolase_function",
+    "questionText": "Hydrolases are enzymes that catalyse reactions involving:",
+    "questionLatex": "$\\text{Hydrolases are enzymes that catalyse reactions involving:}$",
+    "options": [
+      "Hydrolysis of chemical bonds",
+      "Oxidation only",
+      "Addition of phosphate groups",
+      "Formation of peptide bonds only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Hydrolases catalyse the cleavage of chemical bonds by the addition of water."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Activity",
+    "familyId": "temperature_effect",
+    "questionText": "A very high temperature generally decreases enzyme activity because it:",
+    "questionLatex": "$\\text{A very high temperature generally decreases enzyme activity because it:}$",
+    "options": [
+      "Increases substrate concentration",
+      "Denatures the enzyme",
+      "Increases activation energy",
+      "Produces more enzyme molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "High temperatures disrupt the three-dimensional structure of enzymes, causing denaturation and loss of activity."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Activity",
+    "familyId": "enzyme_substrate_complex",
+    "questionText": "The temporary association formed between an enzyme and its substrate is called the:",
+    "questionLatex": "$\\text{The temporary association formed between an enzyme and its substrate is called the:}$",
+    "options": [
+      "Peptide complex",
+      "Enzyme-substrate complex",
+      "Protein aggregate",
+      "Reaction intermediate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The enzyme-substrate complex is a transient intermediate formed before the product is released."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "familyId": "enzyme_vs_hormone",
+    "questionText": "Differentiate between enzymes and hormones.",
+    "questionLatex": "$\\text{Differentiate between enzymes and hormones.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Enzymes are biological catalysts that accelerate biochemical reactions without being consumed and usually act at the site where they are produced. Hormones are chemical messengers secreted by endocrine glands that are transported to target organs through the bloodstream to regulate physiological processes."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Mechanism",
+    "familyId": "lock_and_key_model",
+    "questionText": "The lock and key hypothesis explaining enzyme specificity was proposed by:",
+    "questionLatex": "$\\text{The lock and key hypothesis explaining enzyme specificity was proposed by:}$",
+    "options": [
+      "Emil Fischer",
+      "Linus Pauling",
+      "James Watson",
+      "Hans Krebs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Emil Fischer proposed the lock and key model to explain the specificity of enzyme-substrate interaction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "apoenzyme_definition",
+    "questionText": "The protein part of a conjugated enzyme is called:",
+    "questionLatex": "$\\text{The protein part of a conjugated enzyme is called:}$",
+    "options": [
+      "Coenzyme",
+      "Cofactor",
+      "Apoenzyme",
+      "Prosthetic group"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The inactive protein portion of a conjugated enzyme is known as the apoenzyme."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "cofactor_definition",
+    "questionText": "Non-protein components required for the catalytic activity of many enzymes are known as:",
+    "questionLatex": "$\\text{Non-protein components required for the catalytic activity of many enzymes are known as:}$",
+    "options": [
+      "Substrates",
+      "Cofactors",
+      "Products",
+      "Inhibitors"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cofactors are non-protein components that assist enzymes in catalysing biochemical reactions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "prosthetic_group",
+    "questionText": "A cofactor that is tightly bound to an enzyme is called a:",
+    "questionLatex": "$\\text{A cofactor that is tightly bound to an enzyme is called a:}$",
+    "options": [
+      "Coenzyme",
+      "Prosthetic group",
+      "Activator",
+      "Substrate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A prosthetic group remains firmly attached to the enzyme throughout the catalytic process."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "coenzyme_example",
+    "questionText": "Which of the following is an example of a coenzyme?",
+    "questionLatex": "$\\text{Which of the following is an example of a coenzyme?}$",
+    "options": [
+      "NAD",
+      "Calcium ion",
+      "Magnesium ion",
+      "Iron ion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "NAD (Nicotinamide Adenine Dinucleotide) is an organic coenzyme that participates in oxidation-reduction reactions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "metal_activator",
+    "questionText": "Which of the following metal ions commonly acts as an enzyme activator?",
+    "questionLatex": "$\\text{Which of the following metal ions commonly acts as an enzyme activator?}$",
+    "options": [
+      "Magnesium (Mg²⁺)",
+      "Helium (He)",
+      "Neon (Ne)",
+      "Argon (Ar)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Metal ions such as Mg²⁺, Zn²⁺ and Mn²⁺ commonly function as enzyme activators or cofactors."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Metabolism",
+    "familyId": "anabolism_definition",
+    "questionText": "The metabolic process in which simple molecules combine to form complex molecules is called:",
+    "questionLatex": "$\\text{The metabolic process in which simple molecules combine to form complex molecules is called:}$",
+    "options": [
+      "Catabolism",
+      "Respiration",
+      "Anabolism",
+      "Fermentation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Anabolism consists of biosynthetic reactions that build complex molecules using energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Metabolism",
+    "familyId": "catabolism_definition",
+    "questionText": "The breakdown of complex molecules into simpler molecules with the release of energy is known as:",
+    "questionLatex": "$\\text{The breakdown of complex molecules into simpler molecules with the release of energy is known as:}$",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Biosynthesis",
+      "Polymerisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Catabolic reactions degrade complex molecules and release energy that can be utilized by cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Metabolism",
+    "familyId": "metabolism_definition",
+    "questionText": "Metabolism refers to:",
+    "questionLatex": "$\\text{Metabolism refers to:}$",
+    "options": [
+      "Only anabolic reactions",
+      "Only catabolic reactions",
+      "The sum total of all anabolic and catabolic reactions occurring in a living organism",
+      "Only digestive processes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Metabolism includes all biochemical reactions occurring in living organisms, including both anabolism and catabolism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biomolecules",
+    "topic": "Enzyme Components",
+    "familyId": "cofactor_types_difference",
+    "questionText": "Differentiate between coenzymes and prosthetic groups.",
+    "questionLatex": "$\\text{Differentiate between coenzymes and prosthetic groups.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Coenzymes are organic, non-protein cofactors that bind loosely and temporarily to enzymes during catalysis, for example NAD and Coenzyme A. Prosthetic groups are non-protein cofactors that remain tightly and permanently bound to the enzyme throughout its catalytic activity, for example heme in certain enzymes."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
