@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Ecology",
+    "familyId": "ecology_definition",
+    "questionText": "Ecology is the branch of biology that deals with:",
+    "questionLatex": "\\text{Ecology is the branch of biology that deals with:}",
+    "options": [
+      "Classification of organisms",
+      "Interactions among organisms and between organisms and their environment",
+      "Structure of cells",
+      "Inheritance of characters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ecology is the study of interactions among organisms and between organisms and their abiotic environment."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Levels of Organisation",
+    "familyId": "levels_ecology",
+    "questionText": "Which of the following represents the four major levels of ecological organisation discussed in the chapter?",
+    "questionLatex": "\\text{Which of the following represents the four major levels of ecological organisation discussed in the chapter?}",
+    "options": [
+      "Cells, tissues, organs and systems",
+      "Organisms, populations, communities and biomes",
+      "Genes, chromosomes, cells and tissues",
+      "Species, kingdom, phylum and class"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ecology primarily deals with organisms, populations, communities and biomes."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population",
+    "familyId": "population_definition",
+    "questionText": "A population is best defined as:",
+    "questionLatex": "\\text{A population is best defined as:}",
+    "options": [
+      "All organisms living on Earth",
+      "Individuals of the same species living in a defined geographical area and capable of interbreeding",
+      "All organisms living in a forest",
+      "Different species occupying the same habitat"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A population consists of individuals of the same species occupying a defined geographical area and sharing common resources."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Attributes",
+    "familyId": "population_attributes",
+    "questionText": "Which of the following is a population attribute and not an attribute of an individual organism?",
+    "questionLatex": "\\text{Which of the following is a population attribute and not an attribute of an individual organism?}",
+    "options": [
+      "Body weight",
+      "Lifespan",
+      "Birth rate",
+      "Metabolic rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Birth rate is defined for a population, whereas an individual only experiences birth and death."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Attributes",
+    "familyId": "sex_ratio",
+    "questionText": "The proportion of males and females in a population is known as:",
+    "questionLatex": "\\text{The proportion of males and females in a population is known as:}",
+    "options": [
+      "Population density",
+      "Sex ratio",
+      "Natality",
+      "Mortality"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sex ratio is one of the characteristic attributes of a population."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Age Pyramid",
+    "familyId": "age_pyramid",
+    "questionText": "The graphical representation of age distribution in a population is called:",
+    "questionLatex": "\\text{The graphical representation of age distribution in a population is called:}",
+    "options": [
+      "Growth curve",
+      "Age pyramid",
+      "Food pyramid",
+      "Ecological pyramid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The age pyramid represents the percentage of individuals belonging to different age groups in a population."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Age Pyramid",
+    "familyId": "population_growth_status",
+    "questionText": "An expanding population is represented by an age pyramid with:",
+    "questionLatex": "\\text{An expanding population is represented by an age pyramid with:}",
+    "options": [
+      "A broad pre-reproductive base",
+      "Equal numbers in all age groups",
+      "Very few pre-reproductive individuals",
+      "Only reproductive individuals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Expanding populations have a large proportion of pre-reproductive individuals, giving the pyramid a broad base."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Density",
+    "familyId": "population_density",
+    "questionText": "Population size is technically referred to as:",
+    "questionLatex": "\\text{Population size is technically referred to as:}",
+    "options": [
+      "Biomass",
+      "Population density",
+      "Carrying capacity",
+      "Species richness"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Population size is technically known as population density and is denoted by N."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Density",
+    "familyId": "density_measure",
+    "questionText": "For a single large banyan tree in a habitat, a more meaningful measure of population density than number of individuals is:",
+    "questionLatex": "\\text{For a single large banyan tree in a habitat, a more meaningful measure of population density than number of individuals is:}",
+    "options": [
+      "Number of flowers",
+      "Percentage cover or biomass",
+      "Age of the tree",
+      "Height of the tree"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For large plants like banyan trees, percentage cover or biomass provides a better estimate of population size."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Density",
+    "familyId": "relative_density",
+    "questionText": "The number of fish caught per trap in a lake is an example of:",
+    "questionLatex": "\\text{The number of fish caught per trap in a lake is an example of:}",
+    "options": [
+      "Absolute population density",
+      "Relative population density",
+      "Carrying capacity",
+      "Mortality rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In many ecological studies, relative density such as fish caught per trap is sufficient for estimating population size."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Growth",
+    "familyId": "population_growth_definition",
+    "questionText": "Population density changes over time mainly due to which four basic processes?",
+    "questionLatex": "\\text{Population density changes due to:}",
+    "options": [
+      "Mutation, selection, adaptation and evolution",
+      "Natality, mortality, immigration and emigration",
+      "Predation, competition, parasitism and mutualism",
+      "Respiration, excretion, growth and reproduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Population density changes due to births (natality), deaths (mortality), immigration and emigration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Natality",
+    "familyId": "natality_definition",
+    "questionText": "Natality refers to:",
+    "questionLatex": "\\text{Natality refers to:}",
+    "options": [
+      "Number of deaths in a population",
+      "Number of births added to the initial population during a given period",
+      "Movement of organisms out of a habitat",
+      "Movement of organisms into a habitat"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Natality is the number of births that increase the population during a given period."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Immigration and Emigration",
+    "familyId": "immigration_definition",
+    "questionText": "Immigration is defined as:",
+    "questionLatex": "\\text{Immigration is:}",
+    "options": [
+      "Death of individuals in a population",
+      "Birth of new individuals",
+      "Movement of individuals into a habitat from elsewhere",
+      "Movement of individuals out of a habitat"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Immigration increases population density by adding individuals from other habitats."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Equation",
+    "familyId": "population_equation",
+    "questionText": "According to the population growth equation, population density increases when:",
+    "questionLatex": "N_{t+1}=N_t+[(B+I)-(D+E)]",
+    "options": [
+      "(D + E) > (B + I)",
+      "(B + I) > (D + E)",
+      "Birth rate equals death rate only",
+      "Immigration equals emigration only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Population increases when births plus immigration exceed deaths plus emigration."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Growth Models",
+    "familyId": "growth_models",
+    "questionText": "When resources are unlimited, a population exhibits:",
+    "questionLatex": "\\text{Unlimited resources lead to:}",
+    "options": [
+      "Logistic growth",
+      "Exponential growth",
+      "Declining growth",
+      "Zero population growth"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Unlimited food and space allow exponential or geometric population growth."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Exponential Growth",
+    "familyId": "intrinsic_rate",
+    "questionText": "In the exponential growth equation, the symbol 'r' represents:",
+    "questionLatex": "\\frac{dN}{dt}=rN",
+    "options": [
+      "Carrying capacity",
+      "Intrinsic rate of natural increase",
+      "Birth rate only",
+      "Population density"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The parameter 'r' denotes the intrinsic rate of natural increase."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Exponential Growth",
+    "familyId": "growth_curve_shape",
+    "questionText": "Exponential population growth produces which type of growth curve?",
+    "questionLatex": "\\text{Shape of exponential growth curve}",
+    "options": [
+      "S-shaped curve",
+      "Bell-shaped curve",
+      "J-shaped curve",
+      "Circular curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Exponential growth is represented graphically by a J-shaped growth curve."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Logistic Growth",
+    "familyId": "carrying_capacity",
+    "questionText": "The maximum number of individuals that a habitat can sustainably support is called:",
+    "questionLatex": "\\text{Maximum sustainable population size is:}",
+    "options": [
+      "Intrinsic growth rate",
+      "Population density",
+      "Carrying capacity",
+      "Biomass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Carrying capacity (K) is the maximum population size that a habitat can support."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Logistic Growth",
+    "familyId": "sigmoid_curve",
+    "questionText": "Logistic population growth is represented by a:",
+    "questionLatex": "\\text{Logistic growth curve}",
+    "options": [
+      "J-shaped curve",
+      "Sigmoid (S-shaped) curve",
+      "Linear graph",
+      "Hyperbolic curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Logistic growth under limited resources produces an S-shaped or sigmoid growth curve."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Logistic Growth Equation",
+    "familyId": "logistic_equation",
+    "questionText": "In the logistic growth equation, the symbol 'K' denotes:",
+    "questionLatex": "\\frac{dN}{dt}=rN\\left(\\frac{K-N}{K}\\right)",
+    "options": [
+      "Birth rate",
+      "Death rate",
+      "Carrying capacity",
+      "Intrinsic growth rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "K represents the carrying capacity of the habitat in the logistic growth model."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Life History Variation",
+    "familyId": "life_history_variation",
+    "questionText": "Organisms evolve different life history patterns mainly to:",
+    "questionLatex": "\\text{Life history variations evolve mainly to:}",
+    "options": [
+      "Avoid competition completely",
+      "Maximize reproductive success in their habitats",
+      "Increase body size only",
+      "Reduce metabolic rate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Natural selection favours life history traits that maximize reproductive success under prevailing environmental conditions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Life History Variation",
+    "familyId": "offspring_strategy",
+    "questionText": "Species producing a very large number of offspring generally exhibit:",
+    "questionLatex": "\\text{Species producing many offspring generally exhibit:}",
+    "options": [
+      "Extensive parental care",
+      "Low mortality among offspring",
+      "Little or no parental care",
+      "Vivipary only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Species producing numerous offspring generally invest little parental care, resulting in high juvenile mortality."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Interactions",
+    "familyId": "interaction_definition",
+    "questionText": "Interactions among organisms belonging to different species are known as:",
+    "questionLatex": "\\text{Interactions between different species are called:}",
+    "options": [
+      "Intraspecific interactions",
+      "Interspecific interactions",
+      "Population dynamics",
+      "Succession"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Interactions occurring between members of different species are termed interspecific interactions."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Species Interactions",
+    "familyId": "interaction_types",
+    "questionText": "Which of the following is NOT an interspecific interaction discussed in the chapter?",
+    "questionLatex": "\\text{Which is NOT an interspecific interaction?}",
+    "options": [
+      "Predation",
+      "Competition",
+      "Mutualism",
+      "Mitosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Predation, competition, parasitism, commensalism and mutualism are interspecific interactions, whereas mitosis is a cellular process."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Predation",
+    "familyId": "predation_definition",
+    "questionText": "Predation is an interaction in which:",
+    "questionLatex": "\\text{Predation is an interaction in which:}",
+    "options": [
+      "Both species benefit",
+      "One species benefits while the other is harmed and killed",
+      "Both species are harmed",
+      "Neither species is affected"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In predation, the predator benefits by feeding on the prey, which is harmed or killed."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Predation",
+    "familyId": "predator_role",
+    "questionText": "Predators play an important ecological role because they:",
+    "questionLatex": "\\text{Predators help to:}",
+    "options": [
+      "Eliminate all prey species",
+      "Maintain prey populations and species diversity",
+      "Increase disease occurrence",
+      "Reduce biodiversity permanently"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Predators regulate prey populations and help maintain species diversity within ecosystems."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Predation",
+    "familyId": "biological_control",
+    "questionText": "The use of ladybird beetles to control aphid populations is an example of:",
+    "questionLatex": "\\text{Ladybird beetles controlling aphids is an example of:}",
+    "options": [
+      "Mutualism",
+      "Biological control through predation",
+      "Competition",
+      "Parasitism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Predators such as ladybird beetles are widely used as biological control agents against agricultural pests."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Predation",
+    "familyId": "plant_defence",
+    "questionText": "Many plants defend themselves against herbivores by producing:",
+    "questionLatex": "\\text{Plants defend against herbivores by producing:}",
+    "options": [
+      "Simple sugars only",
+      "Secondary metabolites such as alkaloids and phenolics",
+      "Excess chlorophyll",
+      "Large quantities of starch"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plants produce defensive secondary metabolites such as alkaloids, phenolics, terpenoids and latex to deter herbivores."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Competition",
+    "familyId": "competition_definition",
+    "questionText": "Competition occurs when:",
+    "questionLatex": "\\text{Competition occurs when:}",
+    "options": [
+      "Organisms cooperate for mutual benefit",
+      "Individuals compete for limited resources",
+      "Predators feed on prey",
+      "Parasites obtain nourishment from hosts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Competition arises when organisms require the same limited resources such as food, light or space."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Competition",
+    "familyId": "gauses_principle",
+    "questionText": "Gause's Competitive Exclusion Principle states that:",
+    "questionLatex": "\\text{Gause's Competitive Exclusion Principle states that:}",
+    "options": [
+      "Two species can indefinitely occupy the same niche while competing for identical resources",
+      "Species with identical resource requirements cannot coexist indefinitely in the same habitat",
+      "Competition always benefits both species",
+      "Competition occurs only within a species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to Gause's principle, two species competing for exactly the same limiting resources cannot coexist indefinitely; one eventually excludes the other."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Competition",
+    "familyId": "resource_partitioning",
+    "questionText": "Closely related competing species can coexist in the same habitat by:",
+    "questionLatex": "\\text{Competing species can coexist by:}",
+    "options": [
+      "Using identical resources throughout the year",
+      "Resource partitioning",
+      "Increasing mortality rate",
+      "Eliminating all predators"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Closely related species may coexist by utilizing different resources or using the same resource at different times, a phenomenon known as resource partitioning."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Parasitism",
+    "familyId": "parasitism_definition",
+    "questionText": "Parasitism is an interaction in which:",
+    "questionLatex": "\\text{Parasitism is an interaction in which:}",
+    "options": [
+      "Both species benefit",
+      "One species benefits while the other is harmed",
+      "Both species are harmed equally",
+      "Neither species is affected"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In parasitism, the parasite derives nourishment and shelter from the host, which is harmed but usually not killed immediately."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Parasitism",
+    "familyId": "ectoparasite",
+    "questionText": "An ectoparasite is a parasite that:",
+    "questionLatex": "\\text{An ectoparasite is one that:}",
+    "options": [
+      "Lives inside the host body",
+      "Lives on the external surface of the host",
+      "Kills the host immediately",
+      "Lives independently of the host"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ectoparasites live on the external surface of their hosts, such as lice and ticks."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Parasitism",
+    "familyId": "endoparasite",
+    "questionText": "Tapeworms living in the intestine of humans are examples of:",
+    "questionLatex": "\\text{Tapeworms living in the human intestine are:}",
+    "options": [
+      "Predators",
+      "Endoparasites",
+      "Ectoparasites",
+      "Mutualists"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Endoparasites live inside the body of the host and derive nourishment from it."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Parasitism",
+    "familyId": "brood_parasitism",
+    "questionText": "The cuckoo laying its eggs in the nest of a crow is an example of:",
+    "questionLatex": "\\text{The cuckoo laying eggs in a crow's nest is an example of:}",
+    "options": [
+      "Commensalism",
+      "Mutualism",
+      "Brood parasitism",
+      "Predation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In brood parasitism, birds such as the cuckoo lay their eggs in the nests of other birds, which incubate and rear the young."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Commensalism",
+    "familyId": "commensalism_definition",
+    "questionText": "Commensalism is an interaction in which:",
+    "questionLatex": "\\text{Commensalism is an interaction in which:}",
+    "options": [
+      "Both species benefit",
+      "One species benefits while the other is neither harmed nor benefited",
+      "Both species are harmed",
+      "One species kills the other"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In commensalism, one species gains an advantage while the other remains unaffected."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Commensalism",
+    "familyId": "orchid_mango",
+    "questionText": "An orchid growing on the branch of a mango tree is an example of:",
+    "questionLatex": "\\text{An orchid growing on a mango tree is an example of:}",
+    "options": [
+      "Mutualism",
+      "Parasitism",
+      "Commensalism",
+      "Competition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The orchid gains support while the mango tree is neither harmed nor benefited, illustrating commensalism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Commensalism",
+    "familyId": "cattle_egret",
+    "questionText": "The association between cattle and cattle egrets is an example of:",
+    "questionLatex": "\\text{The association between cattle and cattle egrets is:}",
+    "options": [
+      "Mutualism",
+      "Competition",
+      "Commensalism",
+      "Predation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cattle egrets feed on insects disturbed by grazing cattle, while the cattle remain unaffected."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "mutualism_definition",
+    "questionText": "Mutualism is a biological interaction in which:",
+    "questionLatex": "\\text{Mutualism is an interaction in which:}",
+    "options": [
+      "One species benefits and the other is harmed",
+      "Both interacting species benefit",
+      "Neither species is affected",
+      "Both species compete for resources"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mutualism is a positive interaction in which both participating species derive benefits."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "lichen_example",
+    "questionText": "Lichens represent a mutualistic association between:",
+    "questionLatex": "\\text{Lichens are an association between:}",
+    "options": [
+      "Algae and fungi",
+      "Bacteria and fungi",
+      "Algae and bacteria",
+      "Fungi and mosses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Lichens are formed by a mutualistic association between algae (or cyanobacteria) and fungi, where both partners benefit."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "mycorrhiza_definition",
+    "questionText": "Mycorrhiza is a mutualistic association between:",
+    "questionLatex": "\\text{Mycorrhiza is a mutualistic association between:}",
+    "options": [
+      "Algae and fungi",
+      "Fungi and roots of higher plants",
+      "Bacteria and roots of legumes",
+      "Algae and bryophytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mycorrhiza is a mutualistic association in which fungi help plants absorb water and minerals, while the plant supplies carbohydrates to the fungus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "mycorrhiza_benefits",
+    "questionText": "In mycorrhizal association, the fungal partner primarily helps the plant by:",
+    "questionLatex": "\\text{In mycorrhiza, the fungus helps the plant by:}",
+    "options": [
+      "Fixing atmospheric nitrogen",
+      "Increasing absorption of phosphorus and water",
+      "Producing flowers",
+      "Increasing seed dispersal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mycorrhizal fungi increase the surface area for absorption, improving uptake of phosphorus, water and minerals."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "lichen_roles",
+    "questionText": "In lichens, the fungal partner mainly provides:",
+    "questionLatex": "\\text{In lichens, the fungal partner mainly provides:}",
+    "options": [
+      "Photosynthetic food",
+      "Water, minerals and protection",
+      "Nitrogen fixation",
+      "Reproductive structures"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The fungal partner provides water, minerals, anchorage and protection, while the algal partner performs photosynthesis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "fig_wasp",
+    "questionText": "The relationship between fig trees and fig wasps is an example of:",
+    "questionLatex": "\\text{The relationship between fig trees and fig wasps is an example of:}",
+    "options": [
+      "Competition",
+      "Mutualism",
+      "Parasitism",
+      "Commensalism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fig trees and fig wasps exhibit an obligate mutualistic relationship in which both species depend on each other for reproduction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "familyId": "pollination_mutualism",
+    "questionText": "Pollination by insects is considered a mutualistic interaction because:",
+    "questionLatex": "\\text{Pollination by insects is mutualistic because:}",
+    "options": [
+      "Both insects and plants benefit",
+      "Only plants benefit",
+      "Only insects benefit",
+      "Neither partner benefits"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Insects obtain nectar or pollen as food, while plants achieve cross-pollination and successful reproduction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Adaptations",
+    "familyId": "adaptation_definition",
+    "questionText": "Adaptations are features that enable organisms to:",
+    "questionLatex": "\\text{Adaptations enable organisms to:}",
+    "options": [
+      "Avoid reproduction",
+      "Survive and reproduce successfully in a particular habitat",
+      "Increase chromosome number",
+      "Prevent evolution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Adaptations improve the survival and reproductive success of organisms in their natural environments."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Desert Adaptations",
+    "familyId": "kangaroo_rat",
+    "questionText": "The kangaroo rat survives in deserts primarily because it:",
+    "questionLatex": "\\text{The kangaroo rat survives in deserts because it:}",
+    "options": [
+      "Drinks large quantities of water daily",
+      "Obtains metabolic water from oxidation of food",
+      "Lives only near rivers",
+      "Stores water in leaves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Kangaroo rats meet most of their water requirement through metabolic water produced during cellular respiration."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Behavioural Adaptations",
+    "familyId": "behavioural_adaptation",
+    "questionText": "Migration in birds during unfavorable seasons is an example of:",
+    "questionLatex": "\\text{Migration in birds is an example of:}",
+    "options": [
+      "Structural adaptation",
+      "Behavioural adaptation",
+      "Morphological variation",
+      "Genetic drift"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Migration is a behavioural adaptation that enables birds to avoid unfavorable environmental conditions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Ecological Concepts",
+    "familyId": "interaction_summary",
+    "questionText": "Which of the following interactions benefits both participating species?",
+    "questionLatex": "\\text{Which interaction benefits both species?}",
+    "options": [
+      "Competition",
+      "Parasitism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Mutualism is a positive interaction in which both species derive benefits."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Organisms and Populations",
+    "topic": "Chapter Summary",
+    "familyId": "chapter_summary",
+    "questionText": "Which statement best summarizes the central theme of the chapter 'Organisms and Populations'?",
+    "questionLatex": "\\text{The central theme of the chapter is:}",
+    "options": [
+      "Only genetics determines survival.",
+      "Organisms survive through adaptations and interactions with both the abiotic environment and other organisms.",
+      "Population size remains constant under all conditions.",
+      "Evolution occurs independently of the environment."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The chapter emphasizes that survival, distribution and population dynamics depend on adaptations to abiotic factors and interactions such as predation, competition, parasitism, commensalism and mutualism."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

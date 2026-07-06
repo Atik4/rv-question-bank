@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Introduction to Ecosystem",
+    "familyId": "ecosystem_definition",
+    "questionText": "An ecosystem is best defined as:",
+    "questionLatex": "\\text{An ecosystem is defined as:}",
+    "options": [
+      "A group of plants growing together",
+      "A functional unit of nature where living organisms interact with one another and with the physical environment",
+      "A collection of only animal species",
+      "A geographical region with similar climate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An ecosystem is a functional unit of nature comprising both biotic and abiotic components that interact with each other."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Types of Ecosystem",
+    "familyId": "ecosystem_types",
+    "questionText": "Which one of the following is a man-made ecosystem?",
+    "questionLatex": "\\text{Which is a man-made ecosystem?}",
+    "options": [
+      "Forest",
+      "Lake",
+      "Aquarium",
+      "Grassland"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An aquarium and crop fields are examples of man-made ecosystems."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Structure of Ecosystem",
+    "familyId": "species_stratification",
+    "questionText": "The vertical distribution of different species occupying different levels in an ecosystem is called:",
+    "questionLatex": "\\text{Vertical distribution of species is called:}",
+    "options": [
+      "Succession",
+      "Stratification",
+      "Zonation",
+      "Adaptation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vertical distribution of species at different levels is known as stratification."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Functions",
+    "familyId": "ecosystem_functions",
+    "questionText": "Which of the following is NOT considered one of the four major functional aspects of an ecosystem?",
+    "questionLatex": "\\text{Which is NOT a major ecosystem function?}",
+    "options": [
+      "Productivity",
+      "Decomposition",
+      "Energy flow",
+      "Photosynthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The four functional aspects are productivity, decomposition, energy flow and nutrient cycling."
+    },
+    "difficultyScore": 19,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Pond Ecosystem",
+    "familyId": "pond_producers",
+    "questionText": "In a pond ecosystem, the primary producers mainly include:",
+    "questionLatex": "\\text{Primary producers in a pond ecosystem include:}",
+    "options": [
+      "Zooplankton",
+      "Earthworms",
+      "Phytoplankton and algae",
+      "Fishes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Autotrophic components of a pond ecosystem include phytoplankton, algae and aquatic plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Pond Ecosystem",
+    "familyId": "pond_decomposers",
+    "questionText": "Which group mainly acts as decomposers in a pond ecosystem?",
+    "questionLatex": "\\text{Decomposers in a pond ecosystem are mainly:}",
+    "options": [
+      "Zooplankton",
+      "Fish and frogs",
+      "Fungi and bacteria",
+      "Floating plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fungi, bacteria and flagellates are the principal decomposers in pond ecosystems."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "familyId": "primary_productivity",
+    "questionText": "Primary production refers to the amount of:",
+    "questionLatex": "\\text{Primary production is the amount of:}",
+    "options": [
+      "Organic matter produced by plants per unit area over a period of time",
+      "Energy consumed by herbivores",
+      "Biomass decomposed by bacteria",
+      "Respiration by producers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Primary production is the biomass or organic matter produced by plants through photosynthesis per unit area over time."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "familyId": "gpp_npp",
+    "questionText": "Net Primary Productivity (NPP) is calculated as:",
+    "questionLatex": "\\mathrm{NPP = GPP - R}",
+    "options": [
+      "GPP + R",
+      "GPP − Respiration",
+      "Respiration − GPP",
+      "NPP + GPP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Net Primary Productivity equals Gross Primary Productivity minus respiratory losses."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "familyId": "secondary_productivity",
+    "questionText": "Secondary productivity is defined as the rate of formation of new organic matter by:",
+    "questionLatex": "\\text{Secondary productivity is the rate of formation of new organic matter by:}",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Decomposers",
+      "Nitrogen-fixing bacteria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Secondary productivity refers to biomass production by consumers."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "familyId": "factors_primary_productivity",
+    "questionText": "Primary productivity of an ecosystem depends upon:",
+    "questionLatex": "\\text{Primary productivity depends upon:}",
+    "options": [
+      "Only rainfall",
+      "Plant species, nutrient availability and photosynthetic capacity",
+      "Only temperature",
+      "Only consumer population"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary productivity depends on plant species, environmental factors, nutrient availability and photosynthetic efficiency."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "decomposition_definition",
+    "questionText": "Decomposition is the process in which:",
+    "questionLatex": "\\text{Decomposition is the process in which:}",
+    "options": [
+      "Producers synthesize food using sunlight",
+      "Complex organic matter is broken down into inorganic substances",
+      "Consumers convert food into biomass",
+      "Plants absorb minerals from the soil"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Decomposition is the breakdown of complex organic matter into inorganic substances such as carbon dioxide, water and nutrients by decomposers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "detritus_definition",
+    "questionText": "The raw material for decomposition is known as:",
+    "questionLatex": "\\text{The raw material for decomposition is:}",
+    "options": [
+      "Humus",
+      "Biomass",
+      "Detritus",
+      "Litterfall"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Dead plant remains, animal remains and faecal matter together constitute detritus, the raw material for decomposition."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "fragmentation",
+    "questionText": "The process by which detritivores break detritus into smaller particles is called:",
+    "questionLatex": "\\text{Detritus broken into smaller particles is called:}",
+    "options": [
+      "Humification",
+      "Fragmentation",
+      "Mineralisation",
+      "Catabolism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Earthworms and other detritivores fragment detritus into smaller particles, facilitating decomposition."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "leaching",
+    "questionText": "Leaching during decomposition refers to:",
+    "questionLatex": "\\text{Leaching refers to:}",
+    "options": [
+      "Breakdown by enzymes",
+      "Formation of humus",
+      "Downward movement of water-soluble nutrients into soil",
+      "Release of carbon dioxide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During leaching, water-soluble inorganic nutrients move downward into soil horizons."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "catabolism",
+    "questionText": "In decomposition, bacterial and fungal enzymes convert detritus into simpler inorganic substances through:",
+    "questionLatex": "\\text{Enzymatic degradation of detritus is called:}",
+    "options": [
+      "Fragmentation",
+      "Catabolism",
+      "Mineralisation",
+      "Assimilation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Catabolism is the enzymatic breakdown of detritus into simpler inorganic substances."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "humification",
+    "questionText": "Humification results in the formation of:",
+    "questionLatex": "\\text{Humification results in:}",
+    "options": [
+      "Ammonia",
+      "Humus",
+      "Proteins",
+      "Nitrates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Humification forms humus, a dark-coloured amorphous substance resistant to microbial decomposition."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Decomposition",
+    "familyId": "mineralisation",
+    "questionText": "Mineralisation is the process by which:",
+    "questionLatex": "\\text{Mineralisation is the process of:}",
+    "options": [
+      "Humus is converted into inorganic nutrients",
+      "Plants absorb minerals",
+      "Dead animals become detritus",
+      "Photosynthesis takes place"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Mineralisation is the microbial degradation of humus, releasing inorganic nutrients back into the soil."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Factors Affecting Decomposition",
+    "familyId": "decomposition_conditions",
+    "questionText": "Which environmental condition favours rapid decomposition?",
+    "questionLatex": "\\text{Rapid decomposition occurs in:}",
+    "options": [
+      "Cold and dry conditions",
+      "Warm and moist conditions",
+      "Anaerobic frozen soil",
+      "Low temperature and waterlogging"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Warm and moist environments promote microbial activity and therefore increase the rate of decomposition."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Factors Affecting Decomposition",
+    "familyId": "lignin_chitin",
+    "questionText": "Decomposition proceeds more slowly when detritus is rich in:",
+    "questionLatex": "\\text{Decomposition is slow when detritus is rich in:}",
+    "options": [
+      "Sugars and nitrogen",
+      "Water-soluble compounds",
+      "Lignin and chitin",
+      "Proteins and starch"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Lignin- and chitin-rich detritus decomposes slowly because these compounds are resistant to microbial breakdown."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Energy Flow",
+    "familyId": "solar_energy_source",
+    "questionText": "Except for deep-sea hydrothermal ecosystems, the ultimate source of energy for all ecosystems is:",
+    "questionLatex": "\\text{Ultimate energy source for ecosystems is:}",
+    "options": [
+      "Wind",
+      "Sun",
+      "Geothermal heat",
+      "Chemical energy of soil"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Sun is the primary source of energy for all ecosystems except deep-sea hydrothermal ecosystems."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Energy Flow",
+    "familyId": "unidirectional_energy_flow",
+    "questionText": "Energy flow in an ecosystem is:",
+    "questionLatex": "\\text{Energy flow in an ecosystem is:}",
+    "options": [
+      "Cyclic",
+      "Bidirectional",
+      "Unidirectional",
+      "Random"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Energy enters ecosystems through sunlight and flows unidirectionally through trophic levels before being lost as heat."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Energy Flow",
+    "familyId": "ten_percent_law",
+    "questionText": "According to Lindeman's Ten Percent Law, approximately what percentage of energy is transferred from one trophic level to the next?",
+    "questionLatex": "\\text{Energy transferred to the next trophic level is approximately:}",
+    "options": [
+      "1%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to Lindeman's Ten Percent Law, only about 10% of the energy available at one trophic level is transferred to the next trophic level."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Food Chain",
+    "familyId": "food_chain_definition",
+    "questionText": "A food chain represents:",
+    "questionLatex": "\\text{A food chain represents:}",
+    "options": [
+      "Movement of minerals in soil",
+      "Transfer of food and energy from one organism to another",
+      "Exchange of gases between organisms",
+      "Reproductive relationships among species"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A food chain depicts the transfer of food and energy from producers to successive consumers."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Food Chain",
+    "familyId": "grazing_food_chain",
+    "questionText": "A grazing food chain begins with:",
+    "questionLatex": "\\text{A grazing food chain begins with:}",
+    "options": [
+      "Detritus",
+      "Carnivores",
+      "Green plants",
+      "Decomposers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A grazing food chain starts with producers (green plants), followed by herbivores and carnivores."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Food Chain",
+    "familyId": "detritus_food_chain",
+    "questionText": "A detritus food chain starts with:",
+    "questionLatex": "\\text{A detritus food chain begins with:}",
+    "options": [
+      "Living green plants",
+      "Dead organic matter",
+      "Herbivores",
+      "Top carnivores"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A detritus food chain begins with dead organic matter, which is acted upon by decomposers and detritivores."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Trophic Levels",
+    "familyId": "producer_trophic_level",
+    "questionText": "Producers occupy which trophic level in an ecosystem?",
+    "questionLatex": "\\text{Producers occupy the:}",
+    "options": [
+      "First trophic level",
+      "Second trophic level",
+      "Third trophic level",
+      "Fourth trophic level"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Autotrophic producers form the first trophic level because they synthesize organic food using solar energy."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Trophic Levels",
+    "familyId": "primary_consumers",
+    "questionText": "Primary consumers belong to which trophic level?",
+    "questionLatex": "\\text{Primary consumers belong to the:}",
+    "options": [
+      "First trophic level",
+      "Second trophic level",
+      "Third trophic level",
+      "Fourth trophic level"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary consumers are herbivores that feed directly on producers and therefore occupy the second trophic level."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Food Web",
+    "familyId": "food_web_definition",
+    "questionText": "A food web is best described as:",
+    "questionLatex": "\\text{A food web is:}",
+    "options": [
+      "A single linear food chain",
+      "A network of interconnected food chains",
+      "A group of decomposers",
+      "A pyramid of biomass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Food webs consist of several interconnected food chains, making ecosystems more stable."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecological Pyramids",
+    "familyId": "ecological_pyramid_definition",
+    "questionText": "Ecological pyramids graphically represent:",
+    "questionLatex": "\\text{Ecological pyramids represent:}",
+    "options": [
+      "Climate variation",
+      "Relationship between organisms at different trophic levels",
+      "Distribution of rainfall",
+      "Species evolution"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ecological pyramids depict the number, biomass or energy present at successive trophic levels."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecological Pyramids",
+    "familyId": "types_of_pyramids",
+    "questionText": "Which of the following is NOT a type of ecological pyramid?",
+    "questionLatex": "\\text{Which is NOT an ecological pyramid?}",
+    "options": [
+      "Pyramid of Numbers",
+      "Pyramid of Biomass",
+      "Pyramid of Energy",
+      "Pyramid of Diversity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The three ecological pyramids recognized in ecology are pyramids of numbers, biomass and energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecological Pyramids",
+    "familyId": "energy_pyramid_upright",
+    "questionText": "The pyramid of energy is always:",
+    "questionLatex": "\\text{The pyramid of energy is always:}",
+    "options": [
+      "Inverted",
+      "Spindle-shaped",
+      "Upright",
+      "Horizontal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The pyramid of energy is always upright because energy decreases progressively at each successive trophic level according to the Ten Percent Law."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecological Pyramids",
+    "familyId": "inverted_biomass_pyramid",
+    "questionText": "An inverted pyramid of biomass is commonly observed in:",
+    "questionLatex": "\\text{An inverted pyramid of biomass is commonly found in:}",
+    "options": [
+      "Forest ecosystems",
+      "Grassland ecosystems",
+      "Aquatic ecosystems",
+      "Desert ecosystems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In aquatic ecosystems, producers such as phytoplankton have a lower standing biomass than consumers, resulting in an inverted biomass pyramid."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecological Pyramids",
+    "familyId": "limitations_pyramids",
+    "questionText": "Which of the following is a limitation of ecological pyramids?",
+    "questionLatex": "\\text{A limitation of ecological pyramids is that they:}",
+    "options": [
+      "Include decomposers at every trophic level",
+      "Do not accommodate organisms occupying more than one trophic level",
+      "Represent food webs completely",
+      "Measure nutrient cycling directly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ecological pyramids do not adequately represent organisms that occupy multiple trophic levels or complex food webs."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Nutrient Cycling",
+    "familyId": "nutrient_cycle_definition",
+    "questionText": "The cyclic movement of nutrients between living organisms and the environment is called:",
+    "questionLatex": "\\text{The cyclic movement of nutrients is called:}",
+    "options": [
+      "Energy flow",
+      "Ecological succession",
+      "Nutrient cycling",
+      "Biomagnification"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nutrient cycling refers to the continuous circulation of nutrients between the biotic and abiotic components of an ecosystem."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Nutrient Cycling",
+    "familyId": "gaseous_sedimentary_cycles",
+    "questionText": "Which one of the following is a gaseous biogeochemical cycle?",
+    "questionLatex": "\\text{Which is a gaseous biogeochemical cycle?}",
+    "options": [
+      "Phosphorus cycle",
+      "Sulphur cycle in rocks",
+      "Carbon cycle",
+      "Calcium cycle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Carbon and nitrogen cycles are gaseous cycles because their major reservoirs are the atmosphere."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Carbon Cycle",
+    "familyId": "carbon_reservoir",
+    "questionText": "The major reservoir of carbon in the carbon cycle is:",
+    "questionLatex": "\\text{The major reservoir of carbon is:}",
+    "options": [
+      "Atmosphere",
+      "Living organisms",
+      "Fossil fuels",
+      "Oceans"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Oceans constitute the largest active reservoir of carbon, containing dissolved carbon dioxide and bicarbonates."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Carbon Cycle",
+    "familyId": "photosynthesis_carbon",
+    "questionText": "Carbon dioxide is removed from the atmosphere primarily through:",
+    "questionLatex": "\\text{Carbon dioxide is removed mainly through:}",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Combustion",
+      "Decomposition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Green plants remove atmospheric carbon dioxide during photosynthesis and convert it into organic compounds."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Carbon Cycle",
+    "familyId": "carbon_return",
+    "questionText": "Which process returns carbon dioxide from living organisms back to the atmosphere?",
+    "questionLatex": "\\text{Carbon dioxide returns to the atmosphere mainly through:}",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Nitrogen fixation",
+      "Leaching"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Respiration by plants, animals and microorganisms releases carbon dioxide back into the atmosphere."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Carbon Cycle",
+    "familyId": "combustion_effect",
+    "questionText": "Burning of fossil fuels primarily increases the atmospheric concentration of:",
+    "questionLatex": "\\text{Burning fossil fuels increases atmospheric:}",
+    "options": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Combustion of fossil fuels releases large quantities of carbon dioxide into the atmosphere, contributing to global warming."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Carbon Cycle",
+    "familyId": "deforestation_effect",
+    "questionText": "Deforestation affects the carbon cycle primarily by:",
+    "questionLatex": "\\text{Deforestation primarily affects the carbon cycle by:}",
+    "options": [
+      "Increasing photosynthetic carbon fixation",
+      "Reducing atmospheric oxygen only",
+      "Reducing carbon dioxide fixation by plants",
+      "Increasing nitrogen fixation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Deforestation decreases the number of photosynthetic organisms available to absorb atmospheric carbon dioxide, thereby disrupting the carbon cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Nutrient Cycling",
+    "familyId": "sedimentary_cycle",
+    "questionText": "Which of the following is a sedimentary biogeochemical cycle?",
+    "questionLatex": "\\text{Which is a sedimentary biogeochemical cycle?}",
+    "options": [
+      "Nitrogen cycle",
+      "Carbon cycle",
+      "Oxygen cycle",
+      "Phosphorus cycle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The phosphorus cycle is a sedimentary cycle because its primary reservoir is rocks and sediments rather than the atmosphere."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Nutrient Cycling",
+    "familyId": "phosphorus_reservoir",
+    "questionText": "The major natural reservoir of phosphorus is:",
+    "questionLatex": "\\text{The major reservoir of phosphorus is:}",
+    "options": [
+      "Atmosphere",
+      "Oceans",
+      "Sedimentary rocks",
+      "Living organisms"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The principal reservoir of phosphorus is phosphate-containing sedimentary rocks."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Phosphorus Cycle",
+    "familyId": "weathering_phosphorus",
+    "questionText": "Phosphate ions enter the soil primarily through:",
+    "questionLatex": "\\text{Phosphate enters the soil mainly through:}",
+    "options": [
+      "Photosynthesis",
+      "Weathering of rocks",
+      "Respiration",
+      "Nitrogen fixation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Weathering of phosphate-rich rocks releases phosphate ions into the soil for plant uptake."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Phosphorus Cycle",
+    "familyId": "phosphorus_limitation",
+    "questionText": "Unlike the carbon cycle, the phosphorus cycle lacks a significant:",
+    "questionLatex": "\\text{The phosphorus cycle lacks a significant:}",
+    "options": [
+      "Rock reservoir",
+      "Biological component",
+      "Atmospheric phase",
+      "Soil reservoir"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The phosphorus cycle has no major gaseous phase, making it a sedimentary cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Services",
+    "familyId": "ecosystem_services_definition",
+    "questionText": "Ecosystem services are best described as:",
+    "questionLatex": "\\text{Ecosystem services are:}",
+    "options": [
+      "Services provided only by forests",
+      "Benefits that humans obtain from ecosystems",
+      "Activities of decomposers",
+      "Interactions among predators and prey"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ecosystem services include all direct and indirect benefits that humans receive from natural ecosystems."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Services",
+    "familyId": "amazon_forest",
+    "questionText": "The Amazon rainforest is often referred to as the 'lungs of the planet' because it:",
+    "questionLatex": "\\text{Amazon rainforest is called the 'lungs of the planet' because it:}",
+    "options": [
+      "Produces fossil fuels",
+      "Contributes significantly to global oxygen production and carbon fixation",
+      "Contains the largest deserts",
+      "Has the highest mountain peaks"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Amazon rainforest plays a major role in photosynthesis, carbon sequestration and oxygen release."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Services",
+    "familyId": "pollination_service",
+    "questionText": "Pollination of crop plants by insects is an example of:",
+    "questionLatex": "\\text{Pollination by insects is an example of:}",
+    "options": [
+      "A provisioning service",
+      "An ecosystem service",
+      "A trophic interaction only",
+      "Secondary productivity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pollination by insects is a vital ecosystem service that supports agricultural productivity."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Services",
+    "familyId": "nutrient_recycling_service",
+    "questionText": "Nutrient recycling in ecosystems is primarily brought about by:",
+    "questionLatex": "\\text{Nutrient recycling is mainly carried out by:}",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Decomposers",
+      "Top carnivores"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Decomposers break down dead organic matter and recycle nutrients back into the ecosystem."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Ecosystem Services",
+    "familyId": "soil_formation",
+    "questionText": "Which ecosystem service contributes directly to the formation and maintenance of fertile soil?",
+    "questionLatex": "\\text{Formation of fertile soil is mainly due to:}",
+    "options": [
+      "Predation",
+      "Respiration",
+      "Decomposition and nutrient cycling",
+      "Competition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Continuous decomposition and nutrient recycling help in the formation and maintenance of fertile soil."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Ecosystem",
+    "topic": "Chapter Summary",
+    "familyId": "ecosystem_summary",
+    "questionText": "Which statement best summarizes the functioning of an ecosystem?",
+    "questionLatex": "\\text{The best summary of ecosystem functioning is:}",
+    "options": [
+      "Energy and nutrients are both recycled continuously.",
+      "Energy flows in one direction, while nutrients are continuously recycled.",
+      "Both energy and nutrients flow in one direction only.",
+      "Neither energy flow nor nutrient cycling occurs in ecosystems."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A fundamental characteristic of ecosystems is that energy flows unidirectionally through trophic levels, whereas nutrients are continuously recycled through biogeochemical cycles."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
