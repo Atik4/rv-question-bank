@@ -1,0 +1,1594 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Properties of Complex Numbers",
+    "familyId": "additive_inverse",
+    "questionText": "The additive inverse of the complex number 3 + 5i is:",
+    "questionLatex": "z = 3 + 5i",
+    "options": [
+      {
+        "text": "-3 + 5i",
+        "latex": "-3 + 5i"
+      },
+      {
+        "text": "3 - 5i",
+        "latex": "3 - 5i"
+      },
+      {
+        "text": "-3 - 5i",
+        "latex": "-3 - 5i"
+      },
+      {
+        "text": "5 - 3i",
+        "latex": "5 - 3i"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-3 - 5i",
+      "latex": "-3 - 5i",
+      "explanation": "The additive inverse of a + ib is -a - ib."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Multiplication of Complex Numbers",
+    "familyId": "complex_multiplication_basic",
+    "questionText": "Find (3 + 5i)(2 + 6i).",
+    "questionLatex": "(3 + 5i)(2 + 6i)",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "-24 + 28i",
+      "latex": "-24 + 28i"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Properties of Multiplication",
+    "familyId": "multiplicative_identity",
+    "questionText": "The multiplicative identity in the set of complex numbers is:",
+    "questionLatex": "\\text{Multiplicative Identity}",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "1 + i0",
+        "latex": "1 + i0"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1 + i0",
+      "latex": "1 + i0",
+      "explanation": "1 + i0 acts as the multiplicative identity."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Division of Complex Numbers",
+    "familyId": "complex_division_simple",
+    "questionText": "Find (6 + 3i)/(2 - i).",
+    "questionLatex": "\\frac{6 + 3i}{2 - i}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "9/5 + (12/5)i",
+      "latex": "\\frac{9}{5} + \\frac{12}{5}i"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_square",
+    "questionText": "Find the value of i².",
+    "questionLatex": "i^2",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1",
+      "explanation": "By definition, i² = -1."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_cube",
+    "questionText": "Find the value of i³.",
+    "questionLatex": "i^3",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "-i",
+      "latex": "-i",
+      "explanation": "i³ = i² × i = -i."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_four",
+    "questionText": "Find the value of i⁴.",
+    "questionLatex": "i^4",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1",
+      "explanation": "i⁴ = (i²)² = 1."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_pattern",
+    "questionText": "Find the value of i⁶.",
+    "questionLatex": "i^6",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1",
+      "explanation": "i⁶ = i⁴ · i² = -1."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Square Roots of Negative Numbers",
+    "familyId": "sqrt_negative_one",
+    "questionText": "The square roots of -1 are:",
+    "questionLatex": "\\sqrt{-1}",
+    "options": [
+      {
+        "text": "1 and -1",
+        "latex": "1 \\text{ and } -1"
+      },
+      {
+        "text": "i and -i",
+        "latex": "i \\text{ and } -i"
+      },
+      {
+        "text": "0 and i",
+        "latex": "0 \\text{ and } i"
+      },
+      {
+        "text": "Only i",
+        "latex": "\\text{Only } i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "i and -i",
+      "latex": "i \\text{ and } -i",
+      "explanation": "Both i and -i satisfy x² = -1."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Square Roots of Negative Numbers",
+    "familyId": "sqrt_negative_three",
+    "questionText": "The principal square root of -3 is:",
+    "questionLatex": "\\sqrt{-3}",
+    "options": [
+      {
+        "text": "√3",
+        "latex": "\\sqrt{3}"
+      },
+      {
+        "text": "-√3",
+        "latex": "-\\sqrt{3}"
+      },
+      {
+        "text": "√3 i",
+        "latex": "\\sqrt{3}i"
+      },
+      {
+        "text": "-√3 i",
+        "latex": "-\\sqrt{3}i"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "√3 i",
+      "latex": "\\sqrt{3}i",
+      "explanation": "√(-3) = √3 · i."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Properties of Complex Numbers",
+    "familyId": "additive_inverse",
+    "questionText": "The additive inverse of the complex number 3 + 5i is:",
+    "questionLatex": "z = 3 + 5i",
+    "options": [
+      {
+        "text": "-3 + 5i",
+        "latex": "-3 + 5i"
+      },
+      {
+        "text": "3 - 5i",
+        "latex": "3 - 5i"
+      },
+      {
+        "text": "-3 - 5i",
+        "latex": "-3 - 5i"
+      },
+      {
+        "text": "5 - 3i",
+        "latex": "5 - 3i"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-3 - 5i",
+      "latex": "-3 - 5i",
+      "explanation": "The additive inverse of a + ib is -a - ib."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Multiplication of Complex Numbers",
+    "familyId": "complex_multiplication_basic",
+    "questionText": "Find (3 + 5i)(2 + 6i).",
+    "questionLatex": "(3 + 5i)(2 + 6i)",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "-24 + 28i",
+      "latex": "-24 + 28i"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Properties of Multiplication",
+    "familyId": "multiplicative_identity",
+    "questionText": "The multiplicative identity in the set of complex numbers is:",
+    "questionLatex": "\\text{Multiplicative Identity}",
+    "options": [
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "1 + i0",
+        "latex": "1 + i0"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1 + i0",
+      "latex": "1 + i0",
+      "explanation": "1 + i0 acts as the multiplicative identity."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Division of Complex Numbers",
+    "familyId": "complex_division_simple",
+    "questionText": "Find (6 + 3i)/(2 - i).",
+    "questionLatex": "\\frac{6 + 3i}{2 - i}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "9/5 + (12/5)i",
+      "latex": "\\frac{9}{5} + \\frac{12}{5}i"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_square",
+    "questionText": "Find the value of i².",
+    "questionLatex": "i^2",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1",
+      "explanation": "By definition, i² = -1."
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_cube",
+    "questionText": "Find the value of i³.",
+    "questionLatex": "i^3",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "-i",
+      "latex": "-i",
+      "explanation": "i³ = i² × i = -i."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_four",
+    "questionText": "Find the value of i⁴.",
+    "questionLatex": "i^4",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1",
+      "explanation": "i⁴ = (i²)² = 1."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Power of i",
+    "familyId": "power_i_pattern",
+    "questionText": "Find the value of i⁶.",
+    "questionLatex": "i^6",
+    "options": [
+      {
+        "text": "1",
+        "latex": "1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "i",
+        "latex": "i"
+      },
+      {
+        "text": "-i",
+        "latex": "-i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1",
+      "explanation": "i⁶ = i⁴ · i² = -1."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Square Roots of Negative Numbers",
+    "familyId": "sqrt_negative_one",
+    "questionText": "The square roots of -1 are:",
+    "questionLatex": "\\sqrt{-1}",
+    "options": [
+      {
+        "text": "1 and -1",
+        "latex": "1 \\text{ and } -1"
+      },
+      {
+        "text": "i and -i",
+        "latex": "i \\text{ and } -i"
+      },
+      {
+        "text": "0 and i",
+        "latex": "0 \\text{ and } i"
+      },
+      {
+        "text": "Only i",
+        "latex": "\\text{Only } i"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "i and -i",
+      "latex": "i \\text{ and } -i",
+      "explanation": "Both i and -i satisfy x² = -1."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Square Roots of Negative Numbers",
+    "familyId": "sqrt_negative_three",
+    "questionText": "The principal square root of -3 is:",
+    "questionLatex": "\\sqrt{-3}",
+    "options": [
+      {
+        "text": "√3",
+        "latex": "\\sqrt{3}"
+      },
+      {
+        "text": "-√3",
+        "latex": "-\\sqrt{3}"
+      },
+      {
+        "text": "√3 i",
+        "latex": "\\sqrt{3}i"
+      },
+      {
+        "text": "-√3 i",
+        "latex": "-\\sqrt{3}i"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "√3 i",
+      "latex": "\\sqrt{3}i",
+      "explanation": "√(-3) = √3 · i."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Conjugate of a Complex Number",
+    "familyId": "conjugate_definition",
+    "questionText": "Find the conjugate of the complex number 4 + 7i.",
+    "questionLatex": "z = 4 + 7i",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "4 - 7i",
+      "latex": "4 - 7i"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Conjugate of a Complex Number",
+    "familyId": "conjugate_negative_imaginary",
+    "questionText": "Find the conjugate of the complex number 5 - 9i.",
+    "questionLatex": "z = 5 - 9i",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "5 + 9i",
+      "latex": "5 + 9i"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Conjugate Properties",
+    "familyId": "product_conjugates",
+    "questionText": "Find the value of (3 + 4i)(3 - 4i).",
+    "questionLatex": "(3 + 4i)(3 - 4i)",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "25",
+      "latex": "25",
+      "value": 25
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Modulus of a Complex Number",
+    "familyId": "modulus_basic",
+    "questionText": "Find the modulus of z = 3 + 4i.",
+    "questionLatex": "z = 3 + 4i",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "5",
+      "latex": "5",
+      "value": 5
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Modulus of a Complex Number",
+    "familyId": "modulus_formula",
+    "questionText": "If z = a + ib, then |z| is equal to:",
+    "questionLatex": "z = a + ib",
+    "options": [
+      {
+        "text": "√(a² + b²)",
+        "latex": "\\sqrt{a^2 + b^2}"
+      },
+      {
+        "text": "a + b",
+        "latex": "a + b"
+      },
+      {
+        "text": "a - b",
+        "latex": "a - b"
+      },
+      {
+        "text": "√(a² - b²)",
+        "latex": "\\sqrt{a^2 - b^2}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "√(a² + b²)",
+      "latex": "\\sqrt{a^2 + b^2}",
+      "explanation": "The modulus of z = a + ib is √(a² + b²)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Argand Plane",
+    "familyId": "argand_representation",
+    "questionText": "The complex number 4 + 3i is represented by which point in the Argand plane?",
+    "questionLatex": "z = 4 + 3i",
+    "options": [
+      {
+        "text": "(3, 4)",
+        "latex": "(3, 4)"
+      },
+      {
+        "text": "(4, 3)",
+        "latex": "(4, 3)"
+      },
+      {
+        "text": "(-4, 3)",
+        "latex": "(-4, 3)"
+      },
+      {
+        "text": "(4, -3)",
+        "latex": "(4, -3)"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "(4, 3)",
+      "latex": "(4, 3)",
+      "explanation": "A complex number a + ib is represented by the point (a, b)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Argand Plane",
+    "familyId": "purely_imaginary_point",
+    "questionText": "Which point represents the complex number -5i in the Argand plane?",
+    "questionLatex": "z = -5i",
+    "options": [
+      {
+        "text": "(0, -5)",
+        "latex": "(0, -5)"
+      },
+      {
+        "text": "(-5, 0)",
+        "latex": "(-5, 0)"
+      },
+      {
+        "text": "(5, 0)",
+        "latex": "(5, 0)"
+      },
+      {
+        "text": "(0, 5)",
+        "latex": "(0, 5)"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "(0, -5)",
+      "latex": "(0, -5)",
+      "explanation": "For z = 0 - 5i, the point is (0, -5)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Equations",
+    "familyId": "quadratic_roots_real",
+    "questionText": "Find the roots of x² - 5x + 6 = 0.",
+    "questionLatex": "x^2 - 5x + 6 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "2, 3",
+      "latex": "2, \\; 3"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Equations",
+    "familyId": "discriminant_definition",
+    "questionText": "For the quadratic equation ax² + bx + c = 0, the discriminant is:",
+    "questionLatex": "ax^2 + bx + c = 0",
+    "options": [
+      {
+        "text": "b² + 4ac",
+        "latex": "b^2 + 4ac"
+      },
+      {
+        "text": "b² - 4ac",
+        "latex": "b^2 - 4ac"
+      },
+      {
+        "text": "4ac - b²",
+        "latex": "4ac - b^2"
+      },
+      {
+        "text": "a² - 4bc",
+        "latex": "a^2 - 4bc"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "b² - 4ac",
+      "latex": "b^2 - 4ac",
+      "explanation": "The discriminant of a quadratic equation is D = b² - 4ac."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Equations",
+    "familyId": "nature_of_roots_positive_discriminant",
+    "questionText": "If the discriminant of a quadratic equation is positive, then the roots are:",
+    "questionLatex": "D > 0",
+    "options": [
+      {
+        "text": "Equal and real",
+        "latex": "\\text{Equal and real}"
+      },
+      {
+        "text": "Distinct and real",
+        "latex": "\\text{Distinct and real}"
+      },
+      {
+        "text": "Imaginary",
+        "latex": "\\text{Imaginary}"
+      },
+      {
+        "text": "Non-real and equal",
+        "latex": "\\text{Non-real and equal}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Distinct and real",
+      "latex": "\\text{Distinct and real}",
+      "explanation": "When D > 0, the roots are distinct and real."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Equations",
+    "familyId": "nature_of_roots_zero_discriminant",
+    "questionText": "If the discriminant of a quadratic equation is zero, then the roots are:",
+    "questionLatex": "D = 0",
+    "options": [
+      {
+        "text": "Distinct and real",
+        "latex": "\\text{Distinct and real}"
+      },
+      {
+        "text": "Equal and real",
+        "latex": "\\text{Equal and real}"
+      },
+      {
+        "text": "Imaginary",
+        "latex": "\\text{Imaginary}"
+      },
+      {
+        "text": "Unequal and non-real",
+        "latex": "\\text{Unequal and non-real}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Equal and real",
+      "latex": "\\text{Equal and real}",
+      "explanation": "When D = 0, the quadratic equation has equal real roots."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Equations",
+    "familyId": "nature_of_roots_negative_discriminant",
+    "questionText": "If the discriminant of a quadratic equation is negative, then the roots are:",
+    "questionLatex": "D < 0",
+    "options": [
+      {
+        "text": "Distinct and real",
+        "latex": "\\text{Distinct and real}"
+      },
+      {
+        "text": "Equal and real",
+        "latex": "\\text{Equal and real}"
+      },
+      {
+        "text": "Non-real complex conjugates",
+        "latex": "\\text{Non-real complex conjugates}"
+      },
+      {
+        "text": "Rational and unequal",
+        "latex": "\\text{Rational and unequal}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Non-real complex conjugates",
+      "latex": "\\text{Non-real complex conjugates}",
+      "explanation": "When D < 0, the roots are non-real complex conjugates."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Formula",
+    "familyId": "quadratic_formula_identification",
+    "questionText": "The roots of ax² + bx + c = 0 are given by:",
+    "questionLatex": "ax^2 + bx + c = 0",
+    "options": [
+      {
+        "text": "(-b ± √(b² - 4ac)) / 2a",
+        "latex": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+      },
+      {
+        "text": "(b ± √(b² - 4ac)) / 2a",
+        "latex": "\\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+      },
+      {
+        "text": "(-b ± √(b² + 4ac)) / 2a",
+        "latex": "\\frac{-b \\pm \\sqrt{b^2 + 4ac}}{2a}"
+      },
+      {
+        "text": "(b ± √(b² + 4ac)) / 2a",
+        "latex": "\\frac{b \\pm \\sqrt{b^2 + 4ac}}{2a}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "(-b ± √(b² - 4ac)) / 2a",
+      "latex": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "explanation": "This is the standard quadratic formula."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Formula",
+    "familyId": "solve_quadratic_formula",
+    "questionText": "Find the roots of x² - 4x - 5 = 0.",
+    "questionLatex": "x^2 - 4x - 5 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "5, -1",
+      "latex": "5, \\; -1"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Quadratic Formula",
+    "familyId": "solve_quadratic_fractional",
+    "questionText": "Find the roots of 2x² - 7x + 3 = 0.",
+    "questionLatex": "2x^2 - 7x + 3 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "3, 1/2",
+      "latex": "3, \\; \\frac{1}{2}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Imaginary Roots",
+    "familyId": "imaginary_roots_basic",
+    "questionText": "Find the roots of x² + 1 = 0.",
+    "questionLatex": "x^2 + 1 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "i, -i",
+      "latex": "i, \\; -i"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Imaginary Roots",
+    "familyId": "imaginary_roots_four",
+    "questionText": "Find the roots of x² + 4 = 0.",
+    "questionLatex": "x^2 + 4 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "2i, -2i",
+      "latex": "2i, \\; -2i"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "sum_of_roots",
+    "questionText": "For the quadratic equation ax² + bx + c = 0, the sum of roots is:",
+    "questionLatex": "ax^2 + bx + c = 0",
+    "options": [
+      {
+        "text": "-b/a",
+        "latex": "-\\frac{b}{a}"
+      },
+      {
+        "text": "b/a",
+        "latex": "\\frac{b}{a}"
+      },
+      {
+        "text": "-c/a",
+        "latex": "-\\frac{c}{a}"
+      },
+      {
+        "text": "c/a",
+        "latex": "\\frac{c}{a}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "-b/a",
+      "latex": "-\\frac{b}{a}",
+      "explanation": "Sum of roots = -b/a."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "product_of_roots",
+    "questionText": "For the quadratic equation ax² + bx + c = 0, the product of roots is:",
+    "questionLatex": "ax^2 + bx + c = 0",
+    "options": [
+      {
+        "text": "-c/a",
+        "latex": "-\\frac{c}{a}"
+      },
+      {
+        "text": "b/a",
+        "latex": "\\frac{b}{a}"
+      },
+      {
+        "text": "c/a",
+        "latex": "\\frac{c}{a}"
+      },
+      {
+        "text": "-b/a",
+        "latex": "-\\frac{b}{a}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "c/a",
+      "latex": "\\frac{c}{a}",
+      "explanation": "Product of roots = c/a."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "roots_relationship",
+    "questionText": "If α and β are the roots of x² - 9x + 20 = 0, find α + β.",
+    "questionLatex": "x^2 - 9x + 20 = 0",
+    "options": [
+      {
+        "text": "9",
+        "latex": "9"
+      },
+      {
+        "text": "20",
+        "latex": "20"
+      },
+      {
+        "text": "-9",
+        "latex": "-9"
+      },
+      {
+        "text": "-20",
+        "latex": "-20"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "9",
+      "latex": "9",
+      "explanation": "Sum of roots = 9."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "roots_product_relationship",
+    "questionText": "If α and β are the roots of x² - 9x + 20 = 0, find αβ.",
+    "questionLatex": "x^2 - 9x + 20 = 0",
+    "options": [
+      {
+        "text": "9",
+        "latex": "9"
+      },
+      {
+        "text": "20",
+        "latex": "20"
+      },
+      {
+        "text": "-9",
+        "latex": "-9"
+      },
+      {
+        "text": "-20",
+        "latex": "-20"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "20",
+      "latex": "20",
+      "explanation": "Product of roots = 20."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "form_quadratic_from_roots",
+    "questionText": "Form the quadratic equation whose roots are 2 and 5.",
+    "questionLatex": "\\alpha = 2, \\; \\beta = 5",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x² - 7x + 10 = 0",
+      "latex": "x^2 - 7x + 10 = 0"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Relation Between Roots and Coefficients",
+    "familyId": "form_quadratic_negative_root",
+    "questionText": "Form the quadratic equation whose roots are -3 and 4.",
+    "questionLatex": "\\alpha = -3, \\; \\beta = 4",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "x² - x - 12 = 0",
+      "latex": "x^2 - x - 12 = 0"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Nature of Roots",
+    "familyId": "discriminant_calculation",
+    "questionText": "Find the discriminant of the quadratic equation x² - 6x + 8 = 0.",
+    "questionLatex": "x^2 - 6x + 8 = 0",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "text": "4",
+      "latex": "4",
+      "value": 4
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Nature of Roots",
+    "familyId": "nature_roots_example",
+    "questionText": "Determine the nature of roots of the equation x² - 6x + 8 = 0.",
+    "questionLatex": "x^2 - 6x + 8 = 0",
+    "options": [
+      {
+        "text": "Equal real roots",
+        "latex": "\\text{Equal real roots}"
+      },
+      {
+        "text": "Distinct real roots",
+        "latex": "\\text{Distinct real roots}"
+      },
+      {
+        "text": "Imaginary roots",
+        "latex": "\\text{Imaginary roots}"
+      },
+      {
+        "text": "Non-real equal roots",
+        "latex": "\\text{Non-real equal roots}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Distinct real roots",
+      "latex": "\\text{Distinct real roots}",
+      "explanation": "Since D = 4 > 0, the roots are distinct and real."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Nature of Roots",
+    "familyId": "equal_roots_condition",
+    "questionText": "Find the value of k if the equation x² + kx + 9 = 0 has equal roots.",
+    "questionLatex": "x^2 + kx + 9 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "6, -6",
+      "latex": "6, \\; -6"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Complex Roots",
+    "familyId": "complex_root_equation",
+    "questionText": "Find the roots of x² + 16 = 0.",
+    "questionLatex": "x^2 + 16 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "4i, -4i",
+      "latex": "4i, \\; -4i"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Complex Roots",
+    "familyId": "quadratic_complex_solution",
+    "questionText": "Solve x² + 6x + 13 = 0.",
+    "questionLatex": "x^2 + 6x + 13 = 0",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "text": "-3 + 2i, -3 - 2i",
+      "latex": "-3 + 2i, \\; -3 - 2i"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Complex Roots",
+    "familyId": "conjugate_roots_property",
+    "questionText": "If one root of a quadratic equation with real coefficients is 2 + 3i, then the other root is:",
+    "questionLatex": "2 + 3i",
+    "options": [
+      {
+        "text": "2 - 3i",
+        "latex": "2 - 3i"
+      },
+      {
+        "text": "-2 + 3i",
+        "latex": "-2 + 3i"
+      },
+      {
+        "text": "-2 - 3i",
+        "latex": "-2 - 3i"
+      },
+      {
+        "text": "3 + 2i",
+        "latex": "3 + 2i"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "2 - 3i",
+      "latex": "2 - 3i",
+      "explanation": "Complex roots of equations with real coefficients occur in conjugate pairs."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "topic": "Complex Numbers",
+    "familyId": "purely_real_number",
+    "questionText": "A complex number z = a + ib is purely real if:",
+    "questionLatex": "z = a + ib",
+    "options": [
+      {
+        "text": "a = 0",
+        "latex": "a = 0"
+      },
+      {
+        "text": "b = 0",
+        "latex": "b = 0"
+      },
+      {
+        "text": "a = b",
+        "latex": "a = b"
+      },
+      {
+        "text": "a = -b",
+        "latex": "a = -b"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "b = 0",
+      "latex": "b = 0",
+      "explanation": "A complex number is purely real when its imaginary part is zero."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

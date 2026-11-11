@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Introduction to Limits",
+    "familyId": "evaluate_basic_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 5} (x + 10)$.",
+    "questionLatex": "\\lim_{x\\to5}(x+10)",
+    "options": ["$10$", "$15$", "$20$", "$25$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $f(x) = x + 10$ is a polynomial function, it is continuous everywhere. We can evaluate the limit by direct substitution: $\\lim_{x \\to 5} (x + 10) = 5 + 10 = 15$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Polynomial Functions",
+    "familyId": "evaluate_polynomial_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 1} (x^3)$.",
+    "questionLatex": "\\lim_{x\\to1}x^3",
+    "options": ["$0$", "$1$", "$2$", "$3$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying direct substitution for the polynomial function $f(x) = x^3$: $\\lim_{x \\to 1} x^3 = 1^3 = 1$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Linear Functions",
+    "familyId": "evaluate_linear_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 2} (3x)$.",
+    "questionLatex": "\\lim_{x\\to2}(3x)",
+    "options": ["$3$", "$4$", "$5$", "$6$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Using the scalar multiplication property of limits or direct substitution: $\\lim_{x \\to 2} 3x = 3 \\cdot 2 = 6$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Constant Functions",
+    "familyId": "constant_function_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 2} 3$.",
+    "questionLatex": "\\lim_{x\\to2}3",
+    "options": ["$0$", "$2$", "$3$", "$6$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The limit of a constant function as $x$ approaches any value is always the constant itself. Therefore, $\\lim_{x \\to 2} 3 = 3$."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Algebra of Limits",
+    "familyId": "limit_sum_function",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 1} (x^2 + x)$.",
+    "questionLatex": "\\lim_{x\\to1}(x^2+x)",
+    "options": ["$1$", "$2$", "$3$", "$4$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By using the sum law for limits: $\\lim_{x \\to 1} (x^2 + x) = \\lim_{x \\to 1} x^2 + \\lim_{x \\to 1} x = 1^2 + 1 = 2$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "sine_limit_pi_over_2",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to \\frac{\\pi}{2}} (\\sin x)$.",
+    "questionLatex": "\\lim_{x\\to\\frac{\\pi}{2}}\\sin x",
+    "options": ["$0$", "$1$", "$-1$", "$\\frac{\\pi}{2}$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The trigonometric sine function is continuous at all points. Evaluating by substitution: $\\lim_{x \\to \\frac{\\pi}{2}} \\sin x = \\sin\\left(\\frac{\\pi}{2}\\right) = 1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Composite Functions",
+    "familyId": "limit_x_plus_cosx",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 0} (x + \\cos x)$.",
+    "questionLatex": "\\lim_{x\\to0}(x+\\cos x)",
+    "options": ["$0$", "$1$", "$2$", "$-1$"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying the sum law for limits and substituting $x = 0$: $\\lim_{x \\to 0} (x + \\cos x) = 0 + \\cos(0) = 0 + 1 = 1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "One-sided Limits",
+    "familyId": "left_hand_limit",
+    "questionText": "Given the piecewise function $f(x) = \\begin{cases} 1 & \\text{if } x \\le 0 \\\\ 2 & \\text{if } x > 0 \\end{cases}$, find the left-hand limit $\\lim_{x \\to 0^-} f(x)$.",
+    "questionLatex": "\\lim_{x\\to0^-}f(x)",
+    "options": ["$0$", "$1$", "$2$", "Does not exist"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "As $x$ approaches $0$ from the left side ($x < 0$), the function value is constantly $1$. Therefore, the left-hand limit is $\\lim_{x \\to 0^-} f(x) = \\lim_{x \\to 0^-} 1 = 1$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "One-sided Limits",
+    "familyId": "right_hand_limit",
+    "questionText": "Given the piecewise function $f(x) = \\begin{cases} 1 & \\text{if } x \\le 0 \\\\ 2 & \\text{if } x > 0 \\end{cases}$, find the right-hand limit $\\lim_{x \\to 0^+} f(x)$.",
+    "questionLatex": "\\lim_{x\\to0^+}f(x)",
+    "options": ["$0$", "$1$", "$2$", "Does not exist"],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "As $x$ approaches $0$ from the right side ($x > 0$), the function value is constantly $2$. Thus, the right-hand limit is $\\lim_{x \\to 0^+} f(x) = \\lim_{x \\to 0^+} 2 = 2$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Existence of Limits",
+    "familyId": "limit_non_existence",
+    "questionText": "Given the piecewise function $f(x) = \\begin{cases} 1 & \\text{if } x \\le 0 \\\\ 2 & \\text{if } x > 0 \\end{cases}$, find the overall limit $\\lim_{x \\to 0} f(x)$.",
+    "questionLatex": "\\lim_{x\\to0}f(x)",
+    "options": [
+      "Exists and equals $1$",
+      "Exists and equals $2$",
+      "Exists and equals $3$",
+      "Does not exist"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "A limit exists at a point if and only if its left-hand limit (LHL) equals its right-hand limit (RHL). Since $\\lim_{x \\to 0^-} f(x) = 1$ and $\\lim_{x \\to 0^+} f(x) = 2$, the LHL $\\neq$ RHL, and the limit does not exist."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Algebra of Limits",
+    "familyId": "limit_of_sum",
+    "questionText": "If $\\lim_{x \\to a} f(x) = 3$ and $\\lim_{x \\to a} g(x) = 5$, find $\\lim_{x \\to a} [f(x) + g(x)]$.",
+    "questionLatex": "\\lim_{x\\to a}[f(x)+g(x)]",
+    "options": [
+      "$2$",
+      "$8$",
+      "$15$",
+      "$\\text{Undefined}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By the sum rule of limits, $\\lim_{x \\to a} [f(x) + g(x)] = \\lim_{x \\to a} f(x) + \\lim_{x \\to a} g(x)$. Substituting the given values, we get $3 + 5 = 8$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Algebra of Limits",
+    "familyId": "limit_of_difference",
+    "questionText": "If $\\lim_{x \\to a} f(x) = 7$ and $\\lim_{x \\to a} g(x) = 4$, find $\\lim_{x \\to a} [f(x) - g(x)]$.",
+    "questionLatex": "\\lim_{x\\to a}[f(x)-g(x)]",
+    "options": [
+      "$3$",
+      "$11$",
+      "$-3$",
+      "$28$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "By the difference rule of limits, $\\lim_{x \\to a} [f(x) - g(x)] = \\lim_{x \\to a} f(x) - \\lim_{x \\to a} g(x)$. Substituting the given values, we get $7 - 4 = 3$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Algebra of Limits",
+    "familyId": "limit_of_product",
+    "questionText": "If $\\lim_{x \\to a} f(x) = 2$ and $\\lim_{x \\to a} g(x) = 6$, find $\\lim_{x \\to a} [f(x)g(x)]$.",
+    "questionLatex": "\\lim_{x\\to a}[f(x)g(x)]",
+    "options": [
+      "$8$",
+      "$10$",
+      "$12$",
+      "$14$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "By the product rule of limits, $\\lim_{x \\to a} [f(x)g(x)] = \\left(\\lim_{x \\to a} f(x)\\right) \\cdot \\left(\\lim_{x \\to a} g(x)\\right)$. Substituting the given values, we get $2 \\cdot 6 = 12$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Algebra of Limits",
+    "familyId": "limit_of_quotient",
+    "questionText": "If $\\lim_{x \\to a} f(x) = 12$ and $\\lim_{x \\to a} g(x) = 3$, find $\\lim_{x \\to a} \\frac{f(x)}{g(x)}$.",
+    "questionLatex": "\\lim_{x\\to a}\\frac{f(x)}{g(x)}",
+    "options": [
+      "$3$",
+      "$4$",
+      "$9$",
+      "$36$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By the quotient rule of limits, $\\lim_{x \\to a} \\frac{f(x)}{g(x)} = \\frac{\\lim_{x \\to a} f(x)}{\\lim_{x \\to a} g(x)}$ provided the denominator limit is non-zero. Substituting the given values, we get $\\frac{12}{3} = 4$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Polynomial Functions",
+    "familyId": "polynomial_limit_example",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 1} (x^3 - x^2 + 1)$.",
+    "questionLatex": "\\lim_{x\\to1}(x^3-x^2+1)",
+    "options": [
+      "$0$",
+      "$1$",
+      "$2$",
+      "$3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $f(x) = x^3 - x^2 + 1$ is a polynomial function, we can evaluate its limit by direct substitution of $x = 1$: $\\lim_{x \\to 1} (x^3 - x^2 + 1) = 1^3 - 1^2 + 1 = 1$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Polynomial Functions",
+    "familyId": "polynomial_limit_linear_factor",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 3} [x(x + 1)]$.",
+    "questionLatex": "\\lim_{x\\to3}[x(x+1)]",
+    "options": [
+      "$9$",
+      "$10$",
+      "$12$",
+      "$15$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Evaluating the limit of the polynomial function $f(x) = x(x+1)$ by direct substitution of $x = 3$: $\\lim_{x \\to 3} [x(x + 1)] = 3(3 + 1) = 3(4) = 12$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits of Rational Functions",
+    "familyId": "rational_limit_substitution",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 1} \\frac{x^2 + 1}{x + 100}$.",
+    "questionLatex": "\\lim_{x\\to1}\\frac{x^2+1}{x+100}",
+    "options": [
+      "$\\frac{1}{101}$",
+      "$\\frac{2}{101}$",
+      "$\\frac{1}{100}$",
+      "$\\frac{2}{100}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since the denominator is non-zero at $x = 1$, we evaluate the rational function limit by direct substitution: $\\lim_{x \\to 1} \\frac{x^2 + 1}{x + 100} = \\frac{1^2 + 1}{1 + 100} = \\frac{2}{101}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Indeterminate Forms",
+    "familyId": "zero_by_zero_form",
+    "questionText": "The expression obtained by substituting $x = 2$ in $\\frac{x^3 - 4x^2 + 4x}{x^2 - 4}$ is:",
+    "questionLatex": "\\frac{x^3-4x^2+4x}{x^2-4}\\Bigg|_{x=2}",
+    "options": [
+      "$\\frac{0}{0}$",
+      "$\\frac{1}{0}$",
+      "$0$",
+      "$1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Substituting $x = 2$ directly into the numerator gives $2^3 - 4(2^2) + 4(2) = 8 - 16 + 8 = 0$. Substituting $x = 2$ into the denominator gives $2^2 - 4 = 4 - 4 = 0$. Thus, we get the indeterminate form $\\frac{0}{0}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Important Limit",
+    "familyId": "xn_minus_an_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 1} \\frac{x^5 - 1}{x - 1}$.",
+    "questionLatex": "\\lim_{x\\to1}\\frac{x^5-1}{x-1}",
+    "options": [
+      "$1$",
+      "$3$",
+      "$5$",
+      "$25$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Using the standard limit formula $\\lim_{x \\to a} \\frac{x^n - a^n}{x - a} = n a^{n-1}$ with $a = 1$ and $n = 5$, we get: $\\lim_{x \\to 1} \\frac{x^5 - 1}{x - 1} = 5(1)^{5-1} = 5$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Important Limit",
+    "familyId": "sqrt_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x \\to 0} \\frac{\\sqrt{1+x} - 1}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\sqrt{1+x}-1}{x}",
+    "options": [
+      "$0$",
+      "$\\frac{1}{2}$",
+      "$1$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rationalizing the numerator by multiplying both numerator and denominator by $\\sqrt{1+x} + 1$: $\\lim_{x \\to 0} \\frac{(\\sqrt{1+x}-1)(\\sqrt{1+x}+1)}{x(\\sqrt{1+x}+1)} = \\lim_{x \\to 0} \\frac{(1+x) - 1}{x(\\sqrt{1+x}+1)} = \\lim_{x \\to 0} \\frac{x}{x(\\sqrt{1+x}+1)} = \\lim_{x \\to 0} \\frac{1}{\\sqrt{1+x}+1} = \\frac{1}{\\sqrt{1}+1} = \\frac{1}{2}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "sinx_by_x_limit",
+    "questionText": "Evaluate the standard limit: $\\lim_{x\\to0} \\frac{\\sin x}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\sin x}{x}",
+    "options": [
+      "$0$",
+      "$1$",
+      "$-1$",
+      "$\\text{Does not exist}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1",
+      "explanation": "By the standard limit property, as $x$ approaches $0$ (in radians), the ratio $\\frac{\\sin x}{x}$ approaches $1$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "tanx_by_x_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x\\to0} \\frac{\\tan x}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\tan x}{x}",
+    "options": [
+      "$0$",
+      "$1$",
+      "$-1$",
+      "$\\infty$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1",
+      "explanation": "Since $\\tan x = \\frac{\\sin x}{\\cos x}$, the limit is $\\lim_{x\\to0} \\frac{\\sin x}{x} \\cdot \\frac{1}{\\cos x} = 1 \\cdot \\frac{1}{1} = 1$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "x_by_sinx_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x\\to0} \\frac{x}{\\sin x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{x}{\\sin x}",
+    "options": [
+      "$0$",
+      "$1$",
+      "$-1$",
+      "$\\infty$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1",
+      "explanation": "Since $\\lim_{x\\to0} \\frac{\\sin x}{x} = 1$, the reciprocal limit $\\lim_{x\\to0} \\frac{x}{\\sin x} = \\frac{1}{1} = 1$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "one_minus_cosx_limit",
+    "questionText": "Evaluate the limit: $\\lim_{x\\to0} \\frac{1 - \\cos x}{x^2}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{1-\\cos x}{x^2}",
+    "options": [
+      "$0$",
+      "$\\frac{1}{2}$",
+      "$1$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "\\frac{1}{2}",
+      "explanation": "Using the identity $1 - \\cos x = 2\\sin^2(x/2)$, we get $\\lim_{x\\to0} \\frac{2\\sin^2(x/2)}{x^2} = 2 \\cdot (1/2)^2 \\cdot \\lim_{x\\to0} \\frac{\\sin^2(x/2)}{(x/2)^2} = 2 \\cdot \\frac{1}{4} = \\frac{1}{2}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative Definition",
+    "familyId": "derivative_definition",
+    "questionText": "The derivative of a function $f$ at $x$ is defined as:",
+    "questionLatex": "f'(x)=\\lim_{h\\to0}\\frac{f(x+h)-f(x)}{h}",
+    "options": [
+      "$\\lim_{h\\to0}\\frac{f(x+h)-f(x)}{h}$",
+      "$\\lim_{h\\to1}\\frac{f(x+h)-f(x)}{h}$",
+      "$\\frac{f(x+h)-f(x)}{h}$",
+      "$\\lim_{x\\to0} f(x)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "f'(x)=\\lim_{h\\to0}\\frac{f(x+h)-f(x)}{h}",
+      "explanation": "By the first principle of derivatives, the derivative is defined as the limit of the difference quotient as $h$ approaches $0$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principle",
+    "familyId": "derivative_x_square",
+    "questionText": "Find the derivative of $f(x) = x^2$ using first principles.",
+    "questionLatex": "f(x)=x^2",
+    "options": [
+      "$x$",
+      "$2x$",
+      "$x^2$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "2x",
+      "explanation": "Using the definition: $\\lim_{h\\to0} \\frac{(x+h)^2 - x^2}{h} = \\lim_{h\\to0} \\frac{x^2 + 2xh + h^2 - x^2}{h} = \\lim_{h\\to0} (2x + h) = 2x$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principle",
+    "familyId": "derivative_constant",
+    "questionText": "Find the derivative of the constant function $f(x)=5$.",
+    "questionLatex": "f(x)=5",
+    "options": [
+      "$0$",
+      "$1$",
+      "$5$",
+      "$x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0",
+      "explanation": "The derivative of any constant function $c$ is $0$, since the rate of change is zero."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principle",
+    "familyId": "derivative_linear_function",
+    "questionText": "Find the derivative of $f(x)=3x+2$.",
+    "questionLatex": "f(x)=3x+2",
+    "options": [
+      "$2$",
+      "$3$",
+      "$3x$",
+      "$3x+2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "3",
+      "explanation": "Using the power rule, the derivative of $3x$ is $3$ and the derivative of the constant $2$ is $0$. Thus, the derivative is $3 + 0 = 3$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Geometrical Meaning of Derivative",
+    "familyId": "slope_tangent_definition",
+    "questionText": "The derivative of a function at a point represents:",
+    "questionLatex": "f'(x)",
+    "options": [
+      "Area under the curve",
+      "Slope of the tangent",
+      "Length of the curve",
+      "y-intercept"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Slope of the tangent",
+      "explanation": "Geometrically, the derivative of a function at a point gives the slope of the tangent line to the curve at that point."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative at a Point",
+    "familyId": "derivative_value_specific",
+    "questionText": "If $f(x)=x^2$, find $f'(2)$.",
+    "questionLatex": "f(x)=x^2,\\;f'(2)=?",
+    "options": [
+      "$2$",
+      "$4$",
+      "$6$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "4",
+      "explanation": "Since $f'(x) = 2x$, substituting $x = 2$ gives $f'(2) = 2(2) = 4$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principles",
+    "familyId": "derivative_x_cube",
+    "questionText": "Find the derivative of $f(x)=x^3$ using first principles.",
+    "questionLatex": "f(x)=x^3",
+    "options": [
+      "$x^2$",
+      "$2x^2$",
+      "$3x^2$",
+      "$3x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "3x^2",
+      "explanation": "Using first principles, $\\lim_{h\\to0} \\frac{(x+h)^3-x^3}{h} = \\lim_{h\\to0} \\frac{3x^2h + 3xh^2 + h^3}{h} = 3x^2$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principles",
+    "familyId": "derivative_reciprocal",
+    "questionText": "Find the derivative of $f(x)=\\frac{1}{x}$ at $x=1$.",
+    "questionLatex": "f(x)=\\frac{1}{x}",
+    "options": [
+      "$-1$",
+      "$0$",
+      "$1$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "-1",
+      "explanation": "$f'(x) = -\\frac{1}{x^2}$. At $x=1$, $f'(1) = -\\frac{1}{1^2} = -1$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative at a Point",
+    "familyId": "derivative_x_cube_value",
+    "questionText": "If $f(x)=x^3$, find $f'(2)$.",
+    "questionLatex": "f(x)=x^3,\\;f'(2)=?",
+    "options": [
+      "$4$",
+      "$8$",
+      "$12$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "12",
+      "explanation": "$f'(x) = 3x^2$. Thus, $f'(2) = 3(2^2) = 3(4) = 12$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative at a Point",
+    "familyId": "derivative_linear_value",
+    "questionText": "If $f(x)=5x-4$, find $f'(3)$.",
+    "questionLatex": "f(x)=5x-4,\\;f'(3)=?",
+    "options": [
+      "$1$",
+      "$3$",
+      "$5$",
+      "$11$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "5",
+      "explanation": "$f'(x) = 5$. Since it is a constant derivative, $f'(3) = 5$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Continuity and Differentiability",
+    "familyId": "differentiaton_constant_multiple",
+    "questionText": "If $f(x)=7$, then $f'(x)$ equals:",
+    "questionLatex": "f(x)=7",
+    "options": [
+      "$0$",
+      "$1$",
+      "$7$",
+      "$x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0",
+      "explanation": "The derivative of any constant function is always $0$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_factorization",
+    "questionText": "Evaluate: $\\lim_{x\\to2} \\frac{x^2-4}{x-2}$.",
+    "questionLatex": "\\lim_{x\\to2}\\frac{x^2-4}{x-2}",
+    "options": [
+      "$2$",
+      "$4$",
+      "$6$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "4",
+      "explanation": "$\\frac{(x-2)(x+2)}{x-2} = x+2$. As $x\\to2$, the limit is $2+2=4$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_rational_expression",
+    "questionText": "Evaluate: $\\lim_{x\\to3} \\frac{x^2-9}{x-3}$.",
+    "questionLatex": "\\lim_{x\\to3}\\frac{x^2-9}{x-3}",
+    "options": [
+      "$3$",
+      "$6$",
+      "$9$",
+      "$12$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "6",
+      "explanation": "$\\frac{(x-3)(x+3)}{x-3} = x+3$. As $x\\to3$, the limit is $3+3=6$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_using_identity",
+    "questionText": "Evaluate: $\\lim_{x\\to0} \\frac{\\sin 3x}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\sin 3x}{x}",
+    "options": [
+      "$0$",
+      "$1$",
+      "$3$",
+      "$9$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "3",
+      "explanation": "Using $\\lim_{\\theta\\to0} \\frac{\\sin \\theta}{\\theta} = 1$, we write $3 \\cdot \\frac{\\sin 3x}{3x}$, which approaches $3 \\cdot 1 = 3$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_cos_identity",
+    "questionText": "Evaluate: $\\lim_{x\\to0} \\frac{1-\\cos 2x}{x^2}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{1-\\cos 2x}{x^2}",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "2",
+      "explanation": "$1-\\cos 2x = 2\\sin^2 x$. The expression becomes $\\lim_{x\\to0} \\frac{2\\sin^2 x}{x^2} = 2(\\lim_{x\\to0} \\frac{\\sin x}{x})^2 = 2(1)^2 = 2$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Geometrical Interpretation of Derivative",
+    "familyId": "tangent_slope_meaning",
+    "questionText": "If the derivative of a function at a point is zero, the tangent at that point is:",
+    "questionLatex": "f'(a)=0",
+    "options": [
+      "Vertical",
+      "Horizontal",
+      "Inclined at 45°",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Horizontal",
+      "explanation": "The slope of the tangent is equal to the derivative $f'(a)$. If $f'(a) = 0$, the slope is $0$, which corresponds to a horizontal line."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principles",
+    "familyId": "derivative_x_power_four",
+    "questionText": "Find the derivative of $f(x)=x^4$ using first principles.",
+    "questionLatex": "f(x)=x^4",
+    "options": [
+      "$x^3$",
+      "$2x^3$",
+      "$3x^3$",
+      "$4x^3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "By the power rule or first principles: $\\lim_{h\\to0} \\frac{(x+h)^4-x^4}{h} = \\lim_{h\\to0} \\frac{x^4+4x^3h+6x^2h^2+4xh^3+h^4-x^4}{h} = 4x^3$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative at a Point",
+    "familyId": "derivative_quadratic_value",
+    "questionText": "If $f(x)=x^2+3x+1$, find $f'(2)$.",
+    "questionLatex": "f(x)=x^2+3x+1,\\;f'(2)=?",
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$",
+      "$8$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$f'(x) = 2x + 3$. Substituting $x=2$, $f'(2) = 2(2) + 3 = 7$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative at a Point",
+    "familyId": "derivative_cubic_value",
+    "questionText": "If $f(x)=x^3-x$, find $f'(1)$.",
+    "questionLatex": "f(x)=x^3-x,\\;f'(1)=?",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$f'(x) = 3x^2 - 1$. Substituting $x=1$, $f'(1) = 3(1)^2 - 1 = 2$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_square_root_rationalization",
+    "questionText": "Evaluate: $\\lim_{x\\to9} \\frac{\\sqrt{x}-3}{x-9}$.",
+    "questionLatex": "\\lim_{x\\to9}\\frac{\\sqrt{x}-3}{x-9}",
+    "options": [
+      "$1/3$",
+      "$1/6$",
+      "$1/9$",
+      "$1/18$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rationalize the numerator: $\\lim_{x\\to9} \\frac{(\\sqrt{x}-3)(\\sqrt{x}+3)}{(x-9)(\\sqrt{x}+3)} = \\lim_{x\\to9} \\frac{x-9}{(x-9)(\\sqrt{x}+3)} = \\lim_{x\\to9} \\frac{1}{\\sqrt{x}+3} = \\frac{1}{3+3} = \\frac{1}{6}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Limits",
+    "familyId": "limit_factorization_higher_power",
+    "questionText": "Evaluate: $\\lim_{x\\to2} \\frac{x^3-8}{x-2}$.",
+    "questionLatex": "\\lim_{x\\to2}\\frac{x^3-8}{x-2}",
+    "options": [
+      "$4$",
+      "$8$",
+      "$12$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Factor the numerator: $x^3 - 8 = (x-2)(x^2 + 2x + 4)$. Then $\\lim_{x\\to2} (x^2 + 2x + 4) = 4 + 4 + 4 = 12$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "sin_ax_by_x_limit",
+    "questionText": "Evaluate: $\\lim_{x\\to0} \\frac{\\sin(5x)}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\sin 5x}{x}",
+    "options": [
+      "$1$",
+      "$3$",
+      "$5$",
+      "$25$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Multiply and divide by 5: $\\lim_{x\\to0} 5 \\cdot \\frac{\\sin 5x}{5x} = 5(1) = 5$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Trigonometric Limits",
+    "familyId": "tan_ax_by_x_limit",
+    "questionText": "Evaluate: $\\lim_{x\\to0} \\frac{\\tan(4x)}{x}$.",
+    "questionLatex": "\\lim_{x\\to0}\\frac{\\tan 4x}{x}",
+    "options": [
+      "$2$",
+      "$4$",
+      "$8$",
+      "$16$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Multiply and divide by 4: $\\lim_{x\\to0} 4 \\cdot \\frac{\\tan 4x}{4x} = 4(1) = 4$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative Concept",
+    "familyId": "derivative_rate_of_change",
+    "questionText": "The derivative of a function represents its instantaneous:",
+    "questionLatex": "f'(x)",
+    "options": [
+      "Area",
+      "Rate of change",
+      "Integral",
+      "Intercept"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, the derivative represents the instantaneous rate of change of a function with respect to its variable."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative Concept",
+    "familyId": "derivative_notation",
+    "questionText": "The derivative of $y=f(x)$ with respect to $x$ is commonly denoted by:",
+    "questionLatex": "y=f(x)",
+    "options": [
+      "$\\frac{dy}{dx}$",
+      "$\\frac{dx}{dy}$",
+      "$\\int y\\,dx$",
+      "$\\Delta x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The standard notation for the derivative of $y$ with respect to $x$ is $\\frac{dy}{dx}$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Maths",
+    "chapter": "Limits and Derivatives",
+    "topic": "Derivative from First Principles",
+    "familyId": "derivative_identity_function",
+    "questionText": "Find the derivative of the identity function $f(x)=x$.",
+    "questionLatex": "f(x)=x",
+    "options": [
+      "$0$",
+      "$1$",
+      "$x$",
+      "$x^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using first principles: $\\lim_{h\\to0} \\frac{(x+h)-x}{h} = \\lim_{h\\to0} \\frac{h}{h} = 1$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
