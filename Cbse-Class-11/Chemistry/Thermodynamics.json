@@ -1,0 +1,1764 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Introduction to Thermodynamics",
+    "familyId": "thermodynamics_definition",
+    "questionText": "Thermodynamics is the branch of science that deals with:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Structure of atoms",
+        "latex": null
+      },
+      {
+        "text": "Energy transformations and their relationships",
+        "latex": null
+      },
+      {
+        "text": "Rate of chemical reactions",
+        "latex": null
+      },
+      {
+        "text": "Chemical equilibrium only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Energy transformations and their relationships",
+      "latex": null
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "System and Surroundings",
+    "familyId": "system_definition",
+    "questionText": "In thermodynamics, the part of the universe under observation is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Surroundings",
+        "latex": null
+      },
+      {
+        "text": "Boundary",
+        "latex": null
+      },
+      {
+        "text": "System",
+        "latex": null
+      },
+      {
+        "text": "Universe",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "System",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "System and Surroundings",
+    "familyId": "universe_relation",
+    "questionText": "The universe in thermodynamics is equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "System only",
+        "latex": null
+      },
+      {
+        "text": "Surroundings only",
+        "latex": null
+      },
+      {
+        "text": "System + Surroundings",
+        "latex": null
+      },
+      {
+        "text": "System + Boundary",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "System + Surroundings",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Types of Systems",
+    "familyId": "open_system",
+    "questionText": "An open system can exchange with its surroundings:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Matter only",
+        "latex": null
+      },
+      {
+        "text": "Energy only",
+        "latex": null
+      },
+      {
+        "text": "Both matter and energy",
+        "latex": null
+      },
+      {
+        "text": "Neither matter nor energy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Both matter and energy",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Types of Systems",
+    "familyId": "closed_system",
+    "questionText": "A closed system can exchange with its surroundings:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Matter but not energy",
+        "latex": null
+      },
+      {
+        "text": "Energy but not matter",
+        "latex": null
+      },
+      {
+        "text": "Both matter and energy",
+        "latex": null
+      },
+      {
+        "text": "Neither matter nor energy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Energy but not matter",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Types of Systems",
+    "familyId": "isolated_system",
+    "questionText": "An isolated system exchanges with the surroundings:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Matter only",
+        "latex": null
+      },
+      {
+        "text": "Energy only",
+        "latex": null
+      },
+      {
+        "text": "Both matter and energy",
+        "latex": null
+      },
+      {
+        "text": "Neither matter nor energy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Neither matter nor energy",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "State Functions",
+    "familyId": "state_variables",
+    "questionText": "Which of the following is a thermodynamic state variable?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Pressure",
+        "latex": null
+      },
+      {
+        "text": "Heat",
+        "latex": null
+      },
+      {
+        "text": "Work",
+        "latex": null
+      },
+      {
+        "text": "Path",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Pressure",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Internal Energy",
+    "familyId": "internal_energy_definition",
+    "questionText": "The total energy possessed by a thermodynamic system is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Potential energy",
+        "latex": null
+      },
+      {
+        "text": "Heat energy",
+        "latex": null
+      },
+      {
+        "text": "Internal energy",
+        "latex": null
+      },
+      {
+        "text": "Mechanical energy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Internal energy",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "State Functions",
+    "familyId": "internal_energy_state_function",
+    "questionText": "Internal energy (U) is classified as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Path function",
+        "latex": null
+      },
+      {
+        "text": "State function",
+        "latex": null
+      },
+      {
+        "text": "Process variable",
+        "latex": null
+      },
+      {
+        "text": "Intensive property only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "State function",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Adiabatic Process",
+    "familyId": "adiabatic_process",
+    "questionText": "An adiabatic process is a process in which:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only work transfer occurs",
+        "latex": null
+      },
+      {
+        "text": "Only heat transfer occurs",
+        "latex": null
+      },
+      {
+        "text": "No heat is transferred between system and surroundings",
+        "latex": null
+      },
+      {
+        "text": "Temperature remains constant",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "No heat is transferred between system and surroundings",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Heat and Work",
+    "familyId": "heat_definition",
+    "questionText": "Energy transferred between a system and its surroundings due to a temperature difference is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Work",
+        "latex": null
+      },
+      {
+        "text": "Heat",
+        "latex": null
+      },
+      {
+        "text": "Enthalpy",
+        "latex": null
+      },
+      {
+        "text": "Internal energy",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Heat",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Heat and Work",
+    "familyId": "heat_sign_convention",
+    "questionText": "According to IUPAC sign convention, heat absorbed by a system is taken as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Positive",
+        "latex": null
+      },
+      {
+        "text": "Negative",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      },
+      {
+        "text": "Undefined",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Positive",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Heat and Work",
+    "familyId": "work_sign_convention",
+    "questionText": "According to IUPAC convention, work done on a system is taken as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Positive",
+        "latex": null
+      },
+      {
+        "text": "Negative",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      },
+      {
+        "text": "Variable",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Positive",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "First Law of Thermodynamics",
+    "familyId": "first_law_statement",
+    "questionText": "The first law of thermodynamics is essentially the law of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Constant pressure",
+        "latex": null
+      },
+      {
+        "text": "Conservation of energy",
+        "latex": null
+      },
+      {
+        "text": "Constant volume",
+        "latex": null
+      },
+      {
+        "text": "Entropy increase",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Conservation of energy",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "First Law of Thermodynamics",
+    "familyId": "first_law_equation",
+    "questionText": "Which equation represents the first law of thermodynamics?",
+    "questionLatex": "\\Delta U = q + w",
+    "options": [
+      {
+        "text": "ΔU = q + w",
+        "latex": "\\Delta U = q + w"
+      },
+      {
+        "text": "ΔH = q - w",
+        "latex": "\\Delta H = q - w"
+      },
+      {
+        "text": "ΔU = H + PV",
+        "latex": "\\Delta U = H + PV"
+      },
+      {
+        "text": "q = mCΔT",
+        "latex": "q = mC\\Delta T"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ΔU = q + w",
+      "latex": "\\Delta U = q + w"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Pressure-Volume Work",
+    "familyId": "pv_work_formula",
+    "questionText": "For expansion or compression against constant external pressure, work is given by:",
+    "questionLatex": "w = -p_{\\text{ext}} \\Delta V",
+    "options": [
+      {
+        "text": "w = pextΔV",
+        "latex": "w = p_{\\text{ext}} \\Delta V"
+      },
+      {
+        "text": "w = -pextΔV",
+        "latex": "w = -p_{\\text{ext}} \\Delta V"
+      },
+      {
+        "text": "w = q + ΔU",
+        "latex": "w = q + \\Delta U"
+      },
+      {
+        "text": "w = nRT",
+        "latex": "w = nRT"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "w = -pextΔV",
+      "latex": "w = -p_{\\text{ext}} \\Delta V"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Processes",
+    "familyId": "reversible_process",
+    "questionText": "A process that can be reversed by an infinitesimal change in conditions is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Irreversible process",
+        "latex": null
+      },
+      {
+        "text": "Spontaneous process",
+        "latex": null
+      },
+      {
+        "text": "Reversible process",
+        "latex": null
+      },
+      {
+        "text": "Isochoric process",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Reversible process",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Processes",
+    "familyId": "free_expansion",
+    "questionText": "Expansion of a gas into vacuum is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Adiabatic expansion",
+        "latex": null
+      },
+      {
+        "text": "Reversible expansion",
+        "latex": null
+      },
+      {
+        "text": "Free expansion",
+        "latex": null
+      },
+      {
+        "text": "Isothermal compression",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Free expansion",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Processes",
+    "familyId": "free_expansion_work",
+    "questionText": "For free expansion of an ideal gas into vacuum, the work done is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Positive",
+        "latex": null
+      },
+      {
+        "text": "Negative",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      },
+      {
+        "text": "Infinite",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Zero",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Constant Volume Process",
+    "familyId": "constant_volume_heat",
+    "questionText": "At constant volume, the heat absorbed by the system is equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "ΔH",
+        "latex": "\\Delta H"
+      },
+      {
+        "text": "ΔG",
+        "latex": "\\Delta G"
+      },
+      {
+        "text": "ΔU",
+        "latex": "\\Delta U"
+      },
+      {
+        "text": "ΔS",
+        "latex": "\\Delta S"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "ΔU",
+      "latex": "\\Delta U"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+{
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy",
+    "familyId": "enthalpy_definition",
+    "questionText": "Enthalpy (H) of a system is defined as:",
+    "questionLatex": "H = U + pV",
+    "options": [
+      {
+        "text": "H = U − pV",
+        "latex": "H = U - pV"
+      },
+      {
+        "text": "H = U + pV",
+        "latex": "H = U + pV"
+      },
+      {
+        "text": "H = q + w",
+        "latex": "H = q + w"
+      },
+      {
+        "text": "H = pV only",
+        "latex": "H = pV"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "H = U + pV",
+      "latex": "H = U + pV"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy Change",
+    "familyId": "enthalpy_change_definition",
+    "questionText": "The enthalpy change for a process is given by:",
+    "questionLatex": "\\Delta H = H_{\\text{products}} - H_{\\text{reactants}}",
+    "options": [
+      {
+        "text": "ΔH = Hproducts − Hreactants",
+        "latex": "\\Delta H = H_{\\text{products}} - H_{\\text{reactants}}"
+      },
+      {
+        "text": "ΔH = Hreactants − Hproducts",
+        "latex": "\\Delta H = H_{\\text{reactants}} - H_{\\text{products}}"
+      },
+      {
+        "text": "ΔH = q + w",
+        "latex": "\\Delta H = q + w"
+      },
+      {
+        "text": "ΔH = U + pV",
+        "latex": "\\Delta H = U + pV"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ΔH = Hproducts − Hreactants",
+      "latex": "\\Delta H = H_{\\text{products}} - H_{\\text{reactants}}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Constant Pressure Process",
+    "familyId": "constant_pressure_heat",
+    "questionText": "At constant pressure, heat absorbed by a system is equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "ΔU",
+        "latex": "\\Delta U"
+      },
+      {
+        "text": "ΔH",
+        "latex": "\\Delta H"
+      },
+      {
+        "text": "ΔG",
+        "latex": "\\Delta G"
+      },
+      {
+        "text": "ΔS",
+        "latex": "\\Delta S"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ΔH",
+      "latex": "\\Delta H"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Thermochemical Equations",
+    "familyId": "thermochemical_equation",
+    "questionText": "A balanced chemical equation together with its enthalpy change is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Ionic equation",
+        "latex": null
+      },
+      {
+        "text": "Thermochemical equation",
+        "latex": null
+      },
+      {
+        "text": "Redox equation",
+        "latex": null
+      },
+      {
+        "text": "Molecular equation",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Thermochemical equation",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Exothermic Reactions",
+    "familyId": "exothermic_definition",
+    "questionText": "In an exothermic reaction:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Heat is absorbed by the system",
+        "latex": null
+      },
+      {
+        "text": "Heat is released by the system",
+        "latex": null
+      },
+      {
+        "text": "No heat exchange occurs",
+        "latex": null
+      },
+      {
+        "text": "Temperature always decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Heat is released by the system",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Endothermic Reactions",
+    "familyId": "endothermic_definition",
+    "questionText": "For an endothermic reaction, the value of enthalpy change (ΔH) is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Negative",
+        "latex": null
+      },
+      {
+        "text": "Positive",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      },
+      {
+        "text": "Infinite",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Positive",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Standard Enthalpy",
+    "familyId": "standard_state_definition",
+    "questionText": "The standard state pressure recommended by IUPAC is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "100 Pa",
+        "latex": "100\\text{ Pa}"
+      },
+      {
+        "text": "1 bar",
+        "latex": "1\\text{ bar}"
+      },
+      {
+        "text": "10 bar",
+        "latex": "10\\text{ bar}"
+      },
+      {
+        "text": "1 atm exactly",
+        "latex": "1\\text{ atm}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1 bar",
+      "latex": "1\\text{ bar}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Formation",
+    "familyId": "formation_enthalpy_definition",
+    "questionText": "Standard enthalpy of formation is the enthalpy change when one mole of a compound is formed from its constituent elements in their:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Excited states",
+        "latex": null
+      },
+      {
+        "text": "Gaseous states only",
+        "latex": null
+      },
+      {
+        "text": "Standard states",
+        "latex": null
+      },
+      {
+        "text": "Liquid states only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Standard states",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Combustion",
+    "familyId": "combustion_enthalpy_definition",
+    "questionText": "The enthalpy change when one mole of a substance is completely burnt in oxygen under standard conditions is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Enthalpy of atomization",
+        "latex": null
+      },
+      {
+        "text": "Enthalpy of formation",
+        "latex": null
+      },
+      {
+        "text": "Enthalpy of combustion",
+        "latex": null
+      },
+      {
+        "text": "Enthalpy of neutralization",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Enthalpy of combustion",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Neutralization",
+    "familyId": "neutralization_definition",
+    "questionText": "Enthalpy of neutralization is the enthalpy change when one gram equivalent of an acid reacts completely with one gram equivalent of a base to form:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "One mole of salt only",
+        "latex": null
+      },
+      {
+        "text": "One mole of water",
+        "latex": null
+      },
+      {
+        "text": "Hydrogen gas",
+        "latex": null
+      },
+      {
+        "text": "Oxygen gas",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "One mole of water",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Atomization",
+    "familyId": "atomization_enthalpy_definition",
+    "questionText": "The enthalpy change required to form one mole of gaseous atoms from an element in its standard state is called:",
+    "options": [
+      {"text":"Enthalpy of combustion"},
+      {"text":"Enthalpy of atomization"},
+      {"text":"Enthalpy of hydration"},
+      {"text":"Enthalpy of fusion"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Enthalpy of atomization"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Fusion",
+    "familyId": "fusion_enthalpy_definition",
+    "questionText": "The enthalpy change accompanying the conversion of one mole of a solid into liquid at its melting point is called:",
+    "options": [
+      {"text":"Enthalpy of vaporization"},
+      {"text":"Enthalpy of sublimation"},
+      {"text":"Enthalpy of fusion"},
+      {"text":"Enthalpy of hydration"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Enthalpy of fusion"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Enthalpy of Vaporization",
+    "familyId": "vaporization_enthalpy_definition",
+    "questionText": "The enthalpy change accompanying the conversion of one mole of liquid into vapour at its boiling point is called:",
+    "options": [
+      {"text":"Enthalpy of fusion"},
+      {"text":"Enthalpy of atomization"},
+      {"text":"Enthalpy of vaporization"},
+      {"text":"Enthalpy of solution"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Enthalpy of vaporization"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Hess's Law",
+    "familyId": "hess_law_statement",
+    "questionText": "Hess's Law states that the enthalpy change of a reaction depends only on:",
+    "options": [
+      {"text":"Reaction pathway"},
+      {"text":"Rate of reaction"},
+      {"text":"Initial and final states"},
+      {"text":"Catalyst used"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Initial and final states"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Hess's Law",
+    "familyId": "hess_law_application",
+    "questionText": "Hess's Law is based on the fact that enthalpy is a:",
+    "options": [
+      {"text":"Path function"},
+      {"text":"State function"},
+      {"text":"Process variable"},
+      {"text":"Intensive variable"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "State function"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Hess's Law",
+    "familyId": "carbon_combustion_hess",
+    "questionText": "The enthalpy change for the reaction C(graphite) → C(diamond) can be calculated using:",
+    "options": [
+      {"text":"Raoult's law"},
+      {"text":"Boyle's law"},
+      {"text":"Hess's law"},
+      {"text":"Charles' law"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Hess's law"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Bond Enthalpy",
+    "familyId": "bond_enthalpy_definition",
+    "questionText": "Bond enthalpy is defined as the enthalpy required to break:",
+    "options": [
+      {"text":"One mole of a specified bond in gaseous molecules"},
+      {"text":"One mole of ionic compounds"},
+      {"text":"One mole of atoms"},
+      {"text":"One mole of liquids"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "One mole of a specified bond in gaseous molecules"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Bond Enthalpy",
+    "familyId": "bond_enthalpy_strength",
+    "questionText": "A stronger chemical bond generally possesses:",
+    "options": [
+      {"text":"Lower bond enthalpy"},
+      {"text":"Zero bond enthalpy"},
+      {"text":"Higher bond enthalpy"},
+      {"text":"Negative bond enthalpy"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Higher bond enthalpy"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Bond Enthalpy",
+    "familyId": "bond_enthalpy_nitrogen",
+    "questionText": "The molecule having one of the highest bond enthalpies due to a triple bond is:",
+    "options": [
+      {"text":"H₂"},
+      {"text":"Cl₂"},
+      {"text":"N₂"},
+      {"text":"F₂"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "N₂"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Reaction Enthalpy",
+    "familyId": "bond_enthalpy_reaction",
+    "questionText": "The enthalpy change of a reaction using bond enthalpies is calculated from:",
+    "questionLatex": "\\Delta H=\\sum D(\\text{bonds broken})-\\sum D(\\text{bonds formed})",
+    "options": [
+      {"text":"ΣD(bonds formed) − ΣD(bonds broken)"},
+      {"text":"ΣD(bonds broken) − ΣD(bonds formed)"},
+      {"text":"ΣD(bonds broken) + ΣD(bonds formed)"},
+      {"text":"ΣD(bonds formed) only"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ΣD(bonds broken) − ΣD(bonds formed)",
+      "latex": "\\Delta H=\\sum D(\\text{bonds broken})-\\sum D(\\text{bonds formed})"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneous Processes",
+    "familyId": "spontaneous_process_definition",
+    "questionText": "A spontaneous process is a process that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Requires continuous external assistance",
+        "latex": null
+      },
+      {
+        "text": "Occurs on its own under given conditions",
+        "latex": null
+      },
+      {
+        "text": "Occurs only at high temperature",
+        "latex": null
+      },
+      {
+        "text": "Never reaches completion",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Occurs on its own under given conditions",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Spontaneous Processes",
+    "familyId": "heat_flow_spontaneous",
+    "questionText": "Heat flows spontaneously from:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Colder body to hotter body",
+        "latex": null
+      },
+      {
+        "text": "Higher pressure to lower pressure",
+        "latex": null
+      },
+      {
+        "text": "Hotter body to colder body",
+        "latex": null
+      },
+      {
+        "text": "Lower density to higher density",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Hotter body to colder body",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Entropy",
+    "familyId": "entropy_definition",
+    "questionText": "Entropy is a thermodynamic quantity that measures:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Internal energy",
+        "latex": null
+      },
+      {
+        "text": "Degree of randomness or disorder",
+        "latex": null
+      },
+      {
+        "text": "Bond strength",
+        "latex": null
+      },
+      {
+        "text": "Reaction rate",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Degree of randomness or disorder",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Entropy",
+    "familyId": "entropy_unit",
+    "questionText": "The SI unit of entropy is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "J mol⁻¹",
+        "latex": "\\text{J mol}^{-1}"
+      },
+      {
+        "text": "J K⁻¹ mol⁻¹",
+        "latex": "\\text{J K}^{-1} \\text{ mol}^{-1}"
+      },
+      {
+        "text": "kJ mol⁻¹",
+        "latex": "\\text{kJ mol}^{-1}"
+      },
+      {
+        "text": "Pa K⁻¹",
+        "latex": "\\text{Pa K}^{-1}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "J K⁻¹ mol⁻¹",
+      "latex": "\\text{J K}^{-1} \\text{ mol}^{-1}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Entropy Changes",
+    "familyId": "entropy_gas_expansion",
+    "questionText": "The entropy of a gas generally increases when:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "It is compressed",
+        "latex": null
+      },
+      {
+        "text": "Its volume decreases",
+        "latex": null
+      },
+      {
+        "text": "It expands",
+        "latex": null
+      },
+      {
+        "text": "Its temperature decreases",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "It expands",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Entropy Changes",
+    "familyId": "phase_change_entropy",
+    "questionText": "During melting of ice at its melting point, entropy:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains unchanged",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Becomes zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Second Law of Thermodynamics",
+    "familyId": "second_law_statement",
+    "questionText": "The second law of thermodynamics explains the direction of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mass transfer",
+        "latex": null
+      },
+      {
+        "text": "Energy transformations and spontaneous processes",
+        "latex": null
+      },
+      {
+        "text": "Atomic structure",
+        "latex": null
+      },
+      {
+        "text": "Chemical bonding",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Energy transformations and spontaneous processes",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Entropy and Spontaneity",
+    "familyId": "universe_entropy",
+    "questionText": "For a spontaneous process, the entropy of the universe:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Decreases",
+        "latex": null
+      },
+      {
+        "text": "Remains constant",
+        "latex": null
+      },
+      {
+        "text": "Increases",
+        "latex": null
+      },
+      {
+        "text": "Becomes negative",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Increases",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamic Functions",
+    "familyId": "state_function_identification",
+    "questionText": "Which of the following is a state function?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Heat",
+        "latex": null
+      },
+      {
+        "text": "Work",
+        "latex": null
+      },
+      {
+        "text": "Internal Energy",
+        "latex": null
+      },
+      {
+        "text": "Path length",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Internal Energy",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Thermodynamics Summary",
+    "familyId": "first_law_application",
+    "questionText": "If a system absorbs 150 J of heat and does 50 J of work, the change in internal energy is:",
+    "questionLatex": "\\Delta U = q + w = 150 + (-50)",
+    "options": [
+      {
+        "text": "50 J",
+        "latex": "50\\text{ J}"
+      },
+      {
+        "text": "100 J",
+        "latex": "100\\text{ J}"
+      },
+      {
+        "text": "150 J",
+        "latex": "150\\text{ J}"
+      },
+      {
+        "text": "200 J",
+        "latex": "200\\text{ J}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "100 J",
+      "latex": "\\Delta U = 150 - 50 = 100\\text{ J}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  }
+]

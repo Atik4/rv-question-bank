@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Concept of Oxidation",
+    "familyId": "oxidation_definition",
+    "questionText": "According to the classical concept, oxidation is defined as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Addition of hydrogen to a substance",
+        "latex": null
+      },
+      {
+        "text": "Removal of oxygen from a substance",
+        "latex": null
+      },
+      {
+        "text": "Addition of oxygen to a substance",
+        "latex": null
+      },
+      {
+        "text": "Gain of electrons by a substance",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Addition of oxygen to a substance",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Classical Concept of Reduction",
+    "familyId": "reduction_definition",
+    "questionText": "Reduction is defined as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Addition of oxygen",
+        "latex": null
+      },
+      {
+        "text": "Removal of oxygen",
+        "latex": null
+      },
+      {
+        "text": "Loss of electrons",
+        "latex": null
+      },
+      {
+        "text": "Increase in oxidation number",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Removal of oxygen",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions",
+    "familyId": "redox_concept",
+    "questionText": "Why are oxidation and reduction said to occur simultaneously in a redox reaction?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Because heat is always produced",
+        "latex": null
+      },
+      {
+        "text": "Because electron loss by one species is accompanied by electron gain by another",
+        "latex": null
+      },
+      {
+        "text": "Because oxygen is always present",
+        "latex": null
+      },
+      {
+        "text": "Because water is formed",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Because electron loss by one species is accompanied by electron gain by another",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Electron Transfer",
+    "familyId": "oxidation_electron_transfer",
+    "questionText": "In terms of electron transfer, oxidation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gain of electrons",
+        "latex": null
+      },
+      {
+        "text": "Loss of electrons",
+        "latex": null
+      },
+      {
+        "text": "Sharing of electrons",
+        "latex": null
+      },
+      {
+        "text": "Transfer of protons",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Loss of electrons",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Electron Transfer",
+    "familyId": "reduction_electron_transfer",
+    "questionText": "Reduction in terms of electron transfer is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Gain of electrons",
+        "latex": null
+      },
+      {
+        "text": "Loss of electrons",
+        "latex": null
+      },
+      {
+        "text": "Addition of oxygen",
+        "latex": null
+      },
+      {
+        "text": "Removal of hydrogen",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Gain of electrons",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising and Reducing Agents",
+    "familyId": "oxidising_agent",
+    "questionText": "An oxidising agent is a species that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Donates electrons",
+        "latex": null
+      },
+      {
+        "text": "Accepts electrons",
+        "latex": null
+      },
+      {
+        "text": "Loses protons",
+        "latex": null
+      },
+      {
+        "text": "Remains unchanged",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Accepts electrons",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising and Reducing Agents",
+    "familyId": "reducing_agent",
+    "questionText": "A reducing agent is a species that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Accepts electrons",
+        "latex": null
+      },
+      {
+        "text": "Donates electrons",
+        "latex": null
+      },
+      {
+        "text": "Gains oxygen",
+        "latex": null
+      },
+      {
+        "text": "Increases its electronegativity",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Donates electrons",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Half Reactions",
+    "familyId": "sodium_chlorine_half_reaction",
+    "questionText": "Which half-reaction represents oxidation in the formation of sodium chloride?",
+    "questionLatex": "2\\text{Na} \\rightarrow 2\\text{Na}^+ + 2e^-",
+    "options": [
+      {
+        "text": "Cl₂ + 2e⁻ → 2Cl⁻",
+        "latex": "\\text{Cl}_2 + 2e^- \\rightarrow 2\\text{Cl}^-"
+      },
+      {
+        "text": "2Na → 2Na⁺ + 2e⁻",
+        "latex": "2\\text{Na} \\rightarrow 2\\text{Na}^+ + 2e^-"
+      },
+      {
+        "text": "Na⁺ + Cl⁻ → NaCl",
+        "latex": "\\text{Na}^+ + \\text{Cl}^- \\rightarrow \\text{NaCl}"
+      },
+      {
+        "text": "2NaCl → 2Na + Cl₂",
+        "latex": "2\\text{NaCl} \\rightarrow 2\\text{Na} + \\text{Cl}_2"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2Na → 2Na⁺ + 2e⁻",
+      "latex": "2\\text{Na} \\rightarrow 2\\text{Na}^+ + 2e^-"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Identification",
+    "familyId": "identify_oxidised_species",
+    "questionText": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, the species undergoing oxidation is:",
+    "questionLatex": "\\text{Zn} + \\text{Cu}^{2+} \\rightarrow \\text{Zn}^{2+} + \\text{Cu}",
+    "options": [
+      {
+        "text": "Cu²⁺",
+        "latex": "\\text{Cu}^{2+}"
+      },
+      {
+        "text": "Cu",
+        "latex": "\\text{Cu}"
+      },
+      {
+        "text": "Zn",
+        "latex": "\\text{Zn}"
+      },
+      {
+        "text": "Zn²⁺",
+        "latex": "\\text{Zn}^{2+}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Zn",
+      "latex": "\\text{Zn} \\rightarrow \\text{Zn}^{2+} + 2e^-"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "familyId": "oxidation_number_definition",
+    "questionText": "Oxidation number of an element in a compound represents:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Actual charge present on the atom",
+        "latex": null
+      },
+      {
+        "text": "Number of neutrons in the atom",
+        "latex": null
+      },
+      {
+        "text": "Apparent charge assigned assuming complete electron transfer",
+        "latex": null
+      },
+      {
+        "text": "Valency of the atom only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Apparent charge assigned assuming complete electron transfer",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Rules",
+    "familyId": "free_element_oxidation_number",
+    "questionText": "The oxidation number of an element in its free state is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "+1",
+        "latex": "+1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "Equal to its atomic number",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "0",
+      "latex": "0"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Rules",
+    "familyId": "oxygen_oxidation_number",
+    "questionText": "The oxidation number of oxygen in most of its compounds is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "+2",
+        "latex": "+2"
+      },
+      {
+        "text": "-2",
+        "latex": "-2"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-2",
+      "latex": "-2"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Rules",
+    "familyId": "hydrogen_oxidation_number",
+    "questionText": "The oxidation number of hydrogen in most compounds is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "+1",
+        "latex": "+1"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "+2",
+        "latex": "+2"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "+1",
+      "latex": "+1"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Rules",
+    "familyId": "peroxide_oxygen",
+    "questionText": "The oxidation number of oxygen in hydrogen peroxide (H₂O₂) is:",
+    "questionLatex": "\\text{H}_2\\text{O}_2",
+    "options": [
+      {
+        "text": "-2",
+        "latex": "-2"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "+1",
+        "latex": "+1"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "oxidation_number_sulphuric_acid",
+    "questionText": "Calculate the oxidation number of sulphur in sulphuric acid.",
+    "questionLatex": "\\text{H}_2\\text{SO}_4",
+    "options": [
+      {
+        "text": "+4",
+        "latex": "+4"
+      },
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+6",
+      "latex": "2(+1) + x + 4(-2) = 0 \\Rightarrow x = +6"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "oxidation_number_nitrate",
+    "questionText": "The oxidation number of nitrogen in nitrate ion is:",
+    "questionLatex": "\\text{NO}_3^-",
+    "options": [
+      {
+        "text": "+3",
+        "latex": "+3"
+      },
+      {
+        "text": "+4",
+        "latex": "+4"
+      },
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+5",
+      "latex": "x + 3(-2) = -1 \\Rightarrow x = +5"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Stock Notation",
+    "familyId": "stock_notation_fe2o3",
+    "questionText": "Using Stock notation, Fe₂O₃ is represented as:",
+    "questionLatex": "\\text{Fe}_2\\text{O}_3",
+    "options": [
+      {
+        "text": "Fe(I)O",
+        "latex": "\\text{Fe(I)O}"
+      },
+      {
+        "text": "Fe(II)₂O₃",
+        "latex": "\\text{Fe(II)}_2\\text{O}_3"
+      },
+      {
+        "text": "Fe(III)₂O₃",
+        "latex": "\\text{Fe(III)}_2\\text{O}_3"
+      },
+      {
+        "text": "Fe(IV)₂O₃",
+        "latex": "\\text{Fe(IV)}_2\\text{O}_3"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Fe(III)₂O₃",
+      "latex": "\\text{Fe(III)}_2\\text{O}_3"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Identification",
+    "familyId": "cu2o_cu2s_redox",
+    "questionText": "In the reaction 2Cu₂O + Cu₂S → 6Cu + SO₂, the element undergoing oxidation is:",
+    "questionLatex": "2\\text{Cu}_2\\text{O} + \\text{Cu}_2\\text{S} \\rightarrow 6\\text{Cu} + \\text{SO}_2",
+    "options": [
+      {
+        "text": "Copper",
+        "latex": "\\text{Cu}"
+      },
+      {
+        "text": "Sulphur",
+        "latex": "\\text{S}"
+      },
+      {
+        "text": "Oxygen",
+        "latex": "\\text{O}"
+      },
+      {
+        "text": "Both copper and oxygen",
+        "latex": "\\text{Cu}, \\text{O}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Sulphur",
+      "latex": "\\text{S}"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Identification",
+    "familyId": "cu2o_cu2s_reduction",
+    "questionText": "In the reaction 2Cu₂O + Cu₂S → 6Cu + SO₂, copper is:",
+    "questionLatex": "2\\text{Cu}_2\\text{O} + \\text{Cu}_2\\text{S} \\rightarrow 6\\text{Cu} + \\text{SO}_2",
+    "options": [
+      {
+        "text": "Oxidised from +1 to +2",
+        "latex": "+1 \\rightarrow +2"
+      },
+      {
+        "text": "Reduced from +1 to 0",
+        "latex": "+1 \\rightarrow 0"
+      },
+      {
+        "text": "Oxidised from 0 to +1",
+        "latex": "0 \\rightarrow +1"
+      },
+      {
+        "text": "Unchanged",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reduced from +1 to 0",
+      "latex": "+1 \\rightarrow 0"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidants and Reductants",
+    "familyId": "oxidant_reductant_identification",
+    "questionText": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, Cu²⁺ acts as:",
+    "questionLatex": "\\text{Zn} + \\text{Cu}^{2+} \\rightarrow \\text{Zn}^{2+} + \\text{Cu}",
+    "options": [
+      {
+        "text": "Reducing agent",
+        "latex": null
+      },
+      {
+        "text": "Oxidising agent",
+        "latex": null
+      },
+      {
+        "text": "Catalyst",
+        "latex": null
+      },
+      {
+        "text": "Spectator ion",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidising agent",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Method",
+    "familyId": "oxidation_number_increase",
+    "questionText": "An increase in oxidation number of an element during a reaction indicates:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reduction",
+        "latex": null
+      },
+      {
+        "text": "Oxidation",
+        "latex": null
+      },
+      {
+        "text": "Neutralization",
+        "latex": null
+      },
+      {
+        "text": "Hydrolysis",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidation",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Method",
+    "familyId": "oxidation_number_decrease",
+    "questionText": "A decrease in oxidation number of an element during a reaction indicates:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Oxidation",
+        "latex": null
+      },
+      {
+        "text": "Reduction",
+        "latex": null
+      },
+      {
+        "text": "Combustion",
+        "latex": null
+      },
+      {
+        "text": "Displacement",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reduction",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Disproportionation Reactions",
+    "familyId": "disproportionation_definition",
+    "questionText": "A reaction in which the same element undergoes both oxidation and reduction simultaneously is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Combination reaction",
+        "latex": null
+      },
+      {
+        "text": "Disproportionation reaction",
+        "latex": null
+      },
+      {
+        "text": "Neutralization reaction",
+        "latex": null
+      },
+      {
+        "text": "Precipitation reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Disproportionation reaction",
+      "latex": null
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Disproportionation Reactions",
+    "familyId": "h2o2_disproportionation",
+    "questionText": "Hydrogen peroxide acts as both an oxidising and reducing agent in:",
+    "questionLatex": "2\\text{H}_2\\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O} + \\text{O}_2",
+    "options": [
+      {
+        "text": "Neutralization reaction",
+        "latex": null
+      },
+      {
+        "text": "Disproportionation reaction",
+        "latex": null
+      },
+      {
+        "text": "Combination reaction",
+        "latex": null
+      },
+      {
+        "text": "Double displacement reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Disproportionation reaction",
+      "latex": null
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Balancing Redox Reactions",
+    "familyId": "electron_balance_principle",
+    "questionText": "While balancing a redox reaction, the total increase in oxidation number must be equal to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Total decrease in oxidation number",
+        "latex": null
+      },
+      {
+        "text": "Number of reactants",
+        "latex": null
+      },
+      {
+        "text": "Number of products",
+        "latex": null
+      },
+      {
+        "text": "Total molecular mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Total decrease in oxidation number",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "mn_o4_oxidation_number",
+    "questionText": "The oxidation number of manganese in permanganate ion is:",
+    "questionLatex": "\\text{MnO}_4^-",
+    "options": [
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      },
+      {
+        "text": "+8",
+        "latex": "+8"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+7",
+      "latex": "x + 4(-2) = -1 \\Rightarrow x = +7"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "cr2o7_oxidation_number",
+    "questionText": "The oxidation number of chromium in dichromate ion is:",
+    "questionLatex": "\\text{Cr}_2\\text{O}_7^{2-}",
+    "options": [
+      {
+        "text": "+3",
+        "latex": "+3"
+      },
+      {
+        "text": "+4",
+        "latex": "+4"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+6",
+      "latex": "2x + 7(-2) = -2 \\Rightarrow x = +6"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Daily Life",
+    "familyId": "corrosion_redox",
+    "questionText": "Rusting of iron is an example of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Acid-base reaction",
+        "latex": null
+      },
+      {
+        "text": "Redox reaction",
+        "latex": null
+      },
+      {
+        "text": "Neutralization reaction",
+        "latex": null
+      },
+      {
+        "text": "Photochemical reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Redox reaction",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Daily Life",
+    "familyId": "combustion_redox",
+    "questionText": "Combustion of fuels is classified as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Acid-base reaction",
+        "latex": null
+      },
+      {
+        "text": "Redox reaction",
+        "latex": null
+      },
+      {
+        "text": "Double displacement reaction",
+        "latex": null
+      },
+      {
+        "text": "Precipitation reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Redox reaction",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Balancing Redox Reactions",
+    "familyId": "oxidation_number_method",
+    "questionText": "Which method is commonly used for balancing redox reactions in terms of oxidation number changes?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Mole concept method",
+        "latex": null
+      },
+      {
+        "text": "Oxidation number method",
+        "latex": null
+      },
+      {
+        "text": "VSEPR method",
+        "latex": null
+      },
+      {
+        "text": "Hybridisation method",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidation number method",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Half-Reaction Method",
+    "familyId": "half_reaction_definition",
+    "questionText": "In the ion-electron method of balancing redox reactions, the overall reaction is divided into:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Acid-base reactions",
+        "latex": null
+      },
+      {
+        "text": "Combination reactions",
+        "latex": null
+      },
+      {
+        "text": "Oxidation and reduction half-reactions",
+        "latex": null
+      },
+      {
+        "text": "Precipitation reactions",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidation and reduction half-reactions",
+      "latex": null
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising Agents",
+    "familyId": "kmno4_oxidising_agent",
+    "questionText": "Potassium permanganate is widely used as a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reducing agent",
+        "latex": null
+      },
+      {
+        "text": "Oxidising agent",
+        "latex": null
+      },
+      {
+        "text": "Catalyst",
+        "latex": null
+      },
+      {
+        "text": "Buffer",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidising agent",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising Agents",
+    "familyId": "k2cr2o7_oxidising_agent",
+    "questionText": "Potassium dichromate acts primarily as a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reducing agent",
+        "latex": null
+      },
+      {
+        "text": "Oxidising agent",
+        "latex": null
+      },
+      {
+        "text": "Complexing agent",
+        "latex": null
+      },
+      {
+        "text": "Neutral salt",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oxidising agent",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Reducing Agents",
+    "familyId": "hydrogen_reducing_agent",
+    "questionText": "Hydrogen gas reduces copper(II) oxide to copper. In this reaction hydrogen acts as a:",
+    "questionLatex": "\\text{CuO} + \\text{H}_2 \\rightarrow \\text{Cu} + \\text{H}_2\\text{O}",
+    "options": [
+      {
+        "text": "Oxidising agent",
+        "latex": null
+      },
+      {
+        "text": "Reducing agent",
+        "latex": null
+      },
+      {
+        "text": "Catalyst",
+        "latex": null
+      },
+      {
+        "text": "Spectator substance",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reducing agent",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "familyId": "maximum_oxidation_state_chlorine",
+    "questionText": "The maximum oxidation number exhibited by chlorine is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "+3",
+        "latex": "+3"
+      },
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      },
+      {
+        "text": "+1",
+        "latex": "+1"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+7",
+      "latex": "+7"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number",
+    "familyId": "minimum_oxidation_state_chlorine",
+    "questionText": "The minimum oxidation number exhibited by chlorine is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "0",
+        "latex": "0"
+      },
+      {
+        "text": "+1",
+        "latex": "+1"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "chlorate_oxidation_number",
+    "questionText": "The oxidation number of chlorine in chlorate ion is:",
+    "questionLatex": "\\text{ClO}_3^-",
+    "options": [
+      {
+        "text": "+3",
+        "latex": "+3"
+      },
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      },
+      {
+        "text": "-1",
+        "latex": "-1"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "+5",
+      "latex": "x + 3(-2) = -1 \\Rightarrow x = +5"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "chloride_oxidation_number",
+    "questionText": "The oxidation number of chlorine in hydrochloric acid is:",
+    "questionLatex": "\\text{HCl}",
+    "options": [
+      {
+        "text": "-1",
+        "latex": "-1"
+      },
+      {
+        "text": "+1",
+        "latex": "+1"
+      },
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "-1",
+      "latex": "-1"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Redox Reactions in Industry",
+    "familyId": "metallurgy_redox",
+    "questionText": "Extraction of metals from their ores generally involves:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Only acid-base reactions",
+        "latex": null
+      },
+      {
+        "text": "Redox reactions",
+        "latex": null
+      },
+      {
+        "text": "Only precipitation reactions",
+        "latex": null
+      },
+      {
+        "text": "Only physical changes",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Redox reactions",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Electrochemical Applications",
+    "familyId": "battery_redox",
+    "questionText": "The operation of a galvanic cell is based on:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Neutralization reactions",
+        "latex": null
+      },
+      {
+        "text": "Redox reactions",
+        "latex": null
+      },
+      {
+        "text": "Hydrolysis reactions",
+        "latex": null
+      },
+      {
+        "text": "Polymerization reactions",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Redox reactions",
+      "latex": null
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Displacement Reactions",
+    "familyId": "metal_displacement_redox",
+    "questionText": "A more reactive metal displacing a less reactive metal from its salt solution is an example of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Acid-base reaction",
+        "latex": null
+      },
+      {
+        "text": "Redox reaction",
+        "latex": null
+      },
+      {
+        "text": "Precipitation reaction",
+        "latex": null
+      },
+      {
+        "text": "Neutralization reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Redox reaction",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Comproportionation Reactions",
+    "familyId": "comproportionation_definition",
+    "questionText": "A reaction in which two species containing the same element in different oxidation states combine to form a product with an intermediate oxidation state is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Disproportionation reaction",
+        "latex": null
+      },
+      {
+        "text": "Comproportionation reaction",
+        "latex": null
+      },
+      {
+        "text": "Neutralization reaction",
+        "latex": null
+      },
+      {
+        "text": "Hydrolysis reaction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Comproportionation reaction",
+      "latex": null
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "oxidation_number_cr",
+    "questionText": "Determine the oxidation number of chromium in potassium dichromate.",
+    "questionLatex": "\\text{K}_2\\text{Cr}_2\\text{O}_7",
+    "options": [
+      {
+        "text": "+3",
+        "latex": "+3"
+      },
+      {
+        "text": "+4",
+        "latex": "+4"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+6",
+      "latex": "2(+1) + 2x + 7(-2) = 0 \\Rightarrow x = +6"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Calculation",
+    "familyId": "oxidation_number_mn",
+    "questionText": "Determine the oxidation number of manganese in potassium permanganate.",
+    "questionLatex": "\\text{KMnO}_4",
+    "options": [
+      {
+        "text": "+5",
+        "latex": "+5"
+      },
+      {
+        "text": "+6",
+        "latex": "+6"
+      },
+      {
+        "text": "+7",
+        "latex": "+7"
+      },
+      {
+        "text": "+8",
+        "latex": "+8"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "+7",
+      "latex": "(+1) + x + 4(-2) = 0 \\Rightarrow x = +7"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Balancing Redox Reactions",
+    "familyId": "acidic_medium_balance",
+    "questionText": "While balancing redox reactions in acidic medium using ion-electron method, which species is used to balance oxygen atoms?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "H⁺",
+        "latex": "\\text{H}^+"
+      },
+      {
+        "text": "OH⁻",
+        "latex": "\\text{OH}^-"
+      },
+      {
+        "text": "H₂O",
+        "latex": "\\text{H}_2\\text{O}"
+      },
+      {
+        "text": "O₂",
+        "latex": "\\text{O}_2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "H₂O",
+      "latex": "\\text{H}_2\\text{O}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Balancing Redox Reactions",
+    "familyId": "acidic_medium_hydrogen",
+    "questionText": "In acidic medium, hydrogen atoms are balanced using:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "OH⁻ ions",
+        "latex": "\\text{OH}^-"
+      },
+      {
+        "text": "H⁺ ions",
+        "latex": "\\text{H}^+"
+      },
+      {
+        "text": "O₂ molecules",
+        "latex": "\\text{O}_2"
+      },
+      {
+        "text": "Electrons only",
+        "latex": "e^-"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "H⁺ ions",
+      "latex": "\\text{H}^+"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidising Agents",
+    "familyId": "common_oxidising_agent",
+    "questionText": "Which of the following is a strong oxidising agent?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "H₂",
+        "latex": "\\text{H}_2"
+      },
+      {
+        "text": "Na",
+        "latex": "\\text{Na}"
+      },
+      {
+        "text": "KMnO₄",
+        "latex": "\\text{KMnO}_4"
+      },
+      {
+        "text": "Zn",
+        "latex": "\\text{Zn}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "KMnO₄",
+      "latex": "\\text{KMnO}_4"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Reducing Agents",
+    "familyId": "common_reducing_agent",
+    "questionText": "Which of the following commonly acts as a reducing agent?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Zn metal",
+        "latex": "\\text{Zn}"
+      },
+      {
+        "text": "KMnO₄",
+        "latex": "\\text{KMnO}_4"
+      },
+      {
+        "text": "K₂Cr₂O₇",
+        "latex": "\\text{K}_2\\text{Cr}_2\\text{O}_7"
+      },
+      {
+        "text": "HNO₃",
+        "latex": "\\text{HNO}_3"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Zn metal",
+      "latex": "\\text{Zn}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Oxidation Number Method",
+    "familyId": "oxidation_reduction_identification",
+    "questionText": "A species whose oxidation number decreases during a reaction is said to be:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Oxidised",
+        "latex": null
+      },
+      {
+        "text": "Reduced",
+        "latex": null
+      },
+      {
+        "text": "Hydrolysed",
+        "latex": null
+      },
+      {
+        "text": "Neutralised",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reduced",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Redox Reactions",
+    "topic": "Applications of Redox Reactions",
+    "familyId": "redox_application",
+    "questionText": "Which of the following is an important application of redox reactions?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Operation of batteries and electrochemical cells",
+        "latex": null
+      },
+      {
+        "text": "Determination of melting point only",
+        "latex": null
+      },
+      {
+        "text": "Measurement of density only",
+        "latex": null
+      },
+      {
+        "text": "Determination of molecular mass only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Operation of batteries and electrochemical cells",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

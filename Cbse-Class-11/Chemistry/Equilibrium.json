@@ -1,0 +1,1902 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Concept",
+    "familyId": "equilibrium_definition",
+    "questionText": "The state in which the rates of the forward and reverse reactions become equal is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Completion state",
+        "latex": null
+      },
+      {
+        "text": "Dynamic equilibrium",
+        "latex": null
+      },
+      {
+        "text": "Static equilibrium",
+        "latex": null
+      },
+      {
+        "text": "Transition state",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Dynamic equilibrium",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Physical Equilibrium",
+    "familyId": "evaporation_condensation",
+    "questionText": "At equilibrium between liquid water and water vapour, the rate of evaporation is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Greater than the rate of condensation",
+        "latex": null
+      },
+      {
+        "text": "Less than the rate of condensation",
+        "latex": null
+      },
+      {
+        "text": "Equal to the rate of condensation",
+        "latex": null
+      },
+      {
+        "text": "Zero",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Equal to the rate of condensation",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Physical Equilibrium",
+    "familyId": "closed_system_equilibrium",
+    "questionText": "Physical equilibrium can be established only in:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "An open system",
+        "latex": null
+      },
+      {
+        "text": "A closed system",
+        "latex": null
+      },
+      {
+        "text": "An isolated atom",
+        "latex": null
+      },
+      {
+        "text": "A vacuum chamber only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A closed system",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Solid-Liquid Equilibrium",
+    "familyId": "ice_water_equilibrium",
+    "questionText": "At atmospheric pressure, ice and water coexist in equilibrium at:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "273 K",
+        "latex": "273 \\text{ K}"
+      },
+      {
+        "text": "298 K",
+        "latex": "298 \\text{ K}"
+      },
+      {
+        "text": "373 K",
+        "latex": "373 \\text{ K}"
+      },
+      {
+        "text": "250 K",
+        "latex": "250 \\text{ K}"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "273 K",
+      "latex": "273 \\text{ K}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Liquid-Vapour Equilibrium",
+    "familyId": "vapour_pressure_definition",
+    "questionText": "The pressure exerted by vapour in equilibrium with its liquid at a given temperature is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Atmospheric pressure",
+        "latex": null
+      },
+      {
+        "text": "Critical pressure",
+        "latex": null
+      },
+      {
+        "text": "Equilibrium vapour pressure",
+        "latex": null
+      },
+      {
+        "text": "Partial pressure of air",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Equilibrium vapour pressure",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Liquid-Vapour Equilibrium",
+    "familyId": "volatile_liquid",
+    "questionText": "A liquid having higher vapour pressure at a given temperature is generally:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Less volatile",
+        "latex": null
+      },
+      {
+        "text": "More volatile",
+        "latex": null
+      },
+      {
+        "text": "More viscous",
+        "latex": null
+      },
+      {
+        "text": "More dense",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "More volatile",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Physical Equilibrium",
+    "familyId": "dynamic_equilibrium_characteristic",
+    "questionText": "Which statement correctly describes dynamic equilibrium?",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Both forward and reverse processes stop",
+        "latex": null
+      },
+      {
+        "text": "Only forward process occurs",
+        "latex": null
+      },
+      {
+        "text": "Both opposing processes continue at equal rates",
+        "latex": null
+      },
+      {
+        "text": "Only reverse process occurs",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Both opposing processes continue at equal rates",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Solubility Equilibrium",
+    "familyId": "saturated_solution",
+    "questionText": "A solution in which no more solute can dissolve at a given temperature is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Dilute solution",
+        "latex": null
+      },
+      {
+        "text": "Unsaturated solution",
+        "latex": null
+      },
+      {
+        "text": "Saturated solution",
+        "latex": null
+      },
+      {
+        "text": "Ideal solution",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Saturated solution",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Henry's Law",
+    "familyId": "henrys_law_statement",
+    "questionText": "According to Henry's law, the amount of a gas dissolved in a liquid is proportional to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Temperature of the liquid",
+        "latex": null
+      },
+      {
+        "text": "Volume of the liquid",
+        "latex": null
+      },
+      {
+        "text": "Pressure of the gas above the liquid",
+        "latex": null
+      },
+      {
+        "text": "Density of the gas",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Pressure of the gas above the liquid",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Chemical Equilibrium",
+    "familyId": "chemical_equilibrium_definition",
+    "questionText": "In chemical equilibrium, the concentrations of reactants and products remain constant because:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "The reaction stops completely",
+        "latex": null
+      },
+      {
+        "text": "Reactants are exhausted",
+        "latex": null
+      },
+      {
+        "text": "Forward and reverse reaction rates become equal",
+        "latex": null
+      },
+      {
+        "text": "Catalyst becomes inactive",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Forward and reverse reaction rates become equal",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Chemical Equilibrium",
+    "familyId": "equilibrium_mixture",
+    "questionText": "A mixture containing reactants and products at equilibrium is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reaction mixture",
+        "latex": null
+      },
+      {
+        "text": "Equilibrium mixture",
+        "latex": null
+      },
+      {
+        "text": "Ideal mixture",
+        "latex": null
+      },
+      {
+        "text": "Homogeneous mixture",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Equilibrium mixture",
+      "latex": null
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Chemical Equilibrium",
+    "familyId": "dynamic_nature_equilibrium",
+    "questionText": "The dynamic nature of chemical equilibrium implies that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reactants and products disappear completely",
+        "latex": null
+      },
+      {
+        "text": "Forward and reverse reactions continue simultaneously",
+        "latex": null
+      },
+      {
+        "text": "Only the forward reaction continues",
+        "latex": null
+      },
+      {
+        "text": "Only the reverse reaction continues",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Forward and reverse reactions continue simultaneously",
+      "latex": null
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Law of Chemical Equilibrium",
+    "familyId": "law_of_mass_action",
+    "questionText": "The law of chemical equilibrium is also known as:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Law of conservation of mass",
+        "latex": null
+      },
+      {
+        "text": "Law of multiple proportions",
+        "latex": null
+      },
+      {
+        "text": "Law of mass action",
+        "latex": null
+      },
+      {
+        "text": "Henry's law",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Law of mass action",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_constant_definition",
+    "questionText": "The equilibrium constant expressed in terms of molar concentrations is represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kp",
+        "latex": "K_p"
+      },
+      {
+        "text": "Kc",
+        "latex": "K_c"
+      },
+      {
+        "text": "Qc",
+        "latex": "Q_c"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kc",
+      "latex": "K_c"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "kc_expression_simple",
+    "questionText": "For the reaction A + B ⇌ C + D, the equilibrium constant Kc is given by:",
+    "questionLatex": "K_c = \\frac{[C][D]}{[A][B]}",
+    "options": [
+      {
+        "text": "Kc = [A][B]/[C][D]",
+        "latex": "K_c = \\frac{[A][B]}{[C][D]}"
+      },
+      {
+        "text": "Kc = [C][D]/[A][B]",
+        "latex": "K_c = \\frac{[C][D]}{[A][B]}"
+      },
+      {
+        "text": "Kc = [A][C]/[B][D]",
+        "latex": "K_c = \\frac{[A][C]}{[B][D]}"
+      },
+      {
+        "text": "Kc = ([A]+[B])/([C]+[D])",
+        "latex": "K_c = \\frac{[A]+[B]}{[C]+[D]}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kc = [C][D]/[A][B]",
+      "latex": "K_c = \\frac{[C][D]}{[A][B]}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_constant_reverse",
+    "questionText": "If the equilibrium constant for a reaction is Kc, then the equilibrium constant for the reverse reaction is:",
+    "questionLatex": "K_c' = \\frac{1}{K_c}",
+    "options": [
+      {
+        "text": "Kc",
+        "latex": "K_c"
+      },
+      {
+        "text": "2Kc",
+        "latex": "2K_c"
+      },
+      {
+        "text": "1/Kc",
+        "latex": "\\frac{1}{K_c}"
+      },
+      {
+        "text": "Kc²",
+        "latex": "K_c^2"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1/Kc",
+      "latex": "K_c' = \\frac{1}{K_c}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_constant_magnitude",
+    "questionText": "If Kc is very large (greater than 10³), then at equilibrium:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reactants predominate",
+        "latex": null
+      },
+      {
+        "text": "Products predominate",
+        "latex": null
+      },
+      {
+        "text": "Neither reactants nor products are present",
+        "latex": null
+      },
+      {
+        "text": "Reaction does not occur",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Products predominate",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "equilibrium_constant_small",
+    "questionText": "If Kc is very small (less than 10⁻³), then at equilibrium:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Products predominate",
+        "latex": null
+      },
+      {
+        "text": "Reactants predominate",
+        "latex": null
+      },
+      {
+        "text": "Only products are present",
+        "latex": null
+      },
+      {
+        "text": "Equal amounts of reactants and products are present",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reactants predominate",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Reaction Quotient",
+    "familyId": "reaction_quotient_definition",
+    "questionText": "The reaction quotient calculated using concentrations at any stage of the reaction is represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kp",
+        "latex": "K_p"
+      },
+      {
+        "text": "Kc",
+        "latex": "K_c"
+      },
+      {
+        "text": "Qc",
+        "latex": "Q_c"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Qc",
+      "latex": "Q_c"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Reaction Quotient",
+    "familyId": "qc_kc_comparison",
+    "questionText": "If Qc < Kc for a reaction, the reaction will proceed in the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Reverse direction",
+        "latex": null
+      },
+      {
+        "text": "Forward direction",
+        "latex": null
+      },
+      {
+        "text": "Both directions equally",
+        "latex": null
+      },
+      {
+        "text": "No direction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Forward direction",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Reaction Quotient",
+    "familyId": "qc_greater_than_kc",
+    "questionText": "If Qc > Kc for a reaction, the reaction will proceed in the:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Forward direction",
+        "latex": null
+      },
+      {
+        "text": "Reverse direction",
+        "latex": null
+      },
+      {
+        "text": "Both directions equally",
+        "latex": null
+      },
+      {
+        "text": "No direction",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reverse direction",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Reaction Quotient",
+    "familyId": "qc_equals_kc",
+    "questionText": "A reaction mixture is at equilibrium when:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Qc > Kc",
+        "latex": "Q_c > K_c"
+      },
+      {
+        "text": "Qc < Kc",
+        "latex": "Q_c < K_c"
+      },
+      {
+        "text": "Qc = Kc",
+        "latex": "Q_c = K_c"
+      },
+      {
+        "text": "Qc = 0",
+        "latex": "Q_c = 0"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Qc = Kc",
+      "latex": "Q_c = K_c"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Equilibrium Constant",
+    "familyId": "kp_definition",
+    "questionText": "The equilibrium constant expressed in terms of partial pressures is represented by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kc",
+        "latex": "K_c"
+      },
+      {
+        "text": "Qc",
+        "latex": "Q_c"
+      },
+      {
+        "text": "Kp",
+        "latex": "K_p"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Kp",
+      "latex": "K_p"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Relationship Between Kp and Kc",
+    "familyId": "kp_kc_relation",
+    "questionText": "For gaseous reactions, the relationship between Kp and Kc is:",
+    "questionLatex": "K_p = K_c (RT)^{\\Delta n_g}",
+    "options": [
+      {
+        "text": "Kp = Kc",
+        "latex": "K_p = K_c"
+      },
+      {
+        "text": "Kp = Kc(RT)^Δng",
+        "latex": "K_p = K_c (RT)^{\\Delta n_g}"
+      },
+      {
+        "text": "Kp = Kc/RT",
+        "latex": "K_p = \\frac{K_c}{RT}"
+      },
+      {
+        "text": "Kp = RT/Kc",
+        "latex": "K_p = \\frac{RT}{K_c}"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kp = Kc(RT)^Δng",
+      "latex": "K_p = K_c (RT)^{\\Delta n_g}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "le_chatelier_definition",
+    "questionText": "Le Chatelier's principle states that when a system at equilibrium is subjected to a change, the equilibrium shifts to:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Increase the effect of the change",
+        "latex": null
+      },
+      {
+        "text": "Oppose the effect of the change",
+        "latex": null
+      },
+      {
+        "text": "Stop the reaction completely",
+        "latex": null
+      },
+      {
+        "text": "Make Kc zero",
+        "latex": "K_c = 0"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Oppose the effect of the change",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "concentration_effect",
+    "questionText": "If the concentration of a reactant is increased, the equilibrium generally shifts:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Towards reactants",
+        "latex": null
+      },
+      {
+        "text": "Towards products",
+        "latex": null
+      },
+      {
+        "text": "In no direction",
+        "latex": null
+      },
+      {
+        "text": "Randomly",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Towards products",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "product_removal_effect",
+    "questionText": "Removal of a product from an equilibrium mixture causes the equilibrium to shift:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Towards products",
+        "latex": null
+      },
+      {
+        "text": "Towards reactants",
+        "latex": null
+      },
+      {
+        "text": "No shift occurs",
+        "latex": null
+      },
+      {
+        "text": "Equilibrium is destroyed permanently",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Towards products",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "pressure_effect",
+    "questionText": "An increase in pressure shifts the equilibrium towards the side having:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "More moles of gaseous species",
+        "latex": null
+      },
+      {
+        "text": "Fewer moles of gaseous species",
+        "latex": null
+      },
+      {
+        "text": "Equal moles only",
+        "latex": null
+      },
+      {
+        "text": "Higher molecular mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Fewer moles of gaseous species",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "volume_effect",
+    "questionText": "A decrease in pressure causes equilibrium to shift towards the side having:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Fewer gaseous moles",
+        "latex": null
+      },
+      {
+        "text": "More gaseous moles",
+        "latex": null
+      },
+      {
+        "text": "No gaseous species",
+        "latex": null
+      },
+      {
+        "text": "Lower molecular mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "More gaseous moles",
+      "latex": null
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Catalyst and Equilibrium",
+    "familyId": "catalyst_effect_equilibrium",
+    "questionText": "A catalyst affects an equilibrium system by:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Changing the value of Kc",
+        "latex": "K_c"
+      },
+      {
+        "text": "Shifting equilibrium towards products",
+        "latex": null
+      },
+      {
+        "text": "Shifting equilibrium towards reactants",
+        "latex": null
+      },
+      {
+        "text": "Increasing the rate of attainment of equilibrium",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "Increasing the rate of attainment of equilibrium",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "temperature_exothermic",
+    "questionText": "For an exothermic reaction, an increase in temperature shifts the equilibrium towards:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Products",
+        "latex": null
+      },
+      {
+        "text": "Reactants",
+        "latex": null
+      },
+      {
+        "text": "No shift occurs",
+        "latex": null
+      },
+      {
+        "text": "Catalyst side",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Reactants",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Le Chatelier's Principle",
+    "familyId": "temperature_endothermic",
+    "questionText": "For an endothermic reaction, an increase in temperature shifts the equilibrium towards:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Products",
+        "latex": null
+      },
+      {
+        "text": "Reactants",
+        "latex": null
+      },
+      {
+        "text": "No shift occurs",
+        "latex": null
+      },
+      {
+        "text": "Lower pressure side",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Products",
+      "latex": null
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acids and Bases",
+    "familyId": "arrhenius_acid_definition",
+    "questionText": "According to Arrhenius theory, an acid is a substance that increases the concentration of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "OH⁻ ions",
+        "latex": "\\text{OH}^-"
+      },
+      {
+        "text": "H⁺ ions",
+        "latex": "\\text{H}^+"
+      },
+      {
+        "text": "Cl⁻ ions",
+        "latex": "\\text{Cl}^-"
+      },
+      {
+        "text": "Na⁺ ions",
+        "latex": "\\text{Na}^+"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "H⁺ ions",
+      "latex": "\\text{H}^+"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acids and Bases",
+    "familyId": "arrhenius_base_definition",
+    "questionText": "According to Arrhenius theory, a base is a substance that increases the concentration of:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "H⁺ ions",
+        "latex": "\\text{H}^+"
+      },
+      {
+        "text": "OH⁻ ions",
+        "latex": "\\text{OH}^-"
+      },
+      {
+        "text": "H₃O⁺ ions",
+        "latex": "\\text{H}_3\\text{O}^+"
+      },
+      {
+        "text": "NH₄⁺ ions",
+        "latex": "\\text{NH}_4^+"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "OH⁻ ions",
+      "latex": "\\text{OH}^-"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Bronsted-Lowry Theory",
+    "familyId": "bronsted_acid_definition",
+    "questionText": "According to Bronsted-Lowry theory, an acid is a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Proton acceptor",
+        "latex": null
+      },
+      {
+        "text": "Electron donor",
+        "latex": null
+      },
+      {
+        "text": "Proton donor",
+        "latex": null
+      },
+      {
+        "text": "Electron acceptor",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Proton donor",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Bronsted-Lowry Theory",
+    "familyId": "bronsted_base_definition",
+    "questionText": "According to Bronsted-Lowry theory, a base is a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Proton acceptor",
+        "latex": null
+      },
+      {
+        "text": "Proton donor",
+        "latex": null
+      },
+      {
+        "text": "Electron acceptor",
+        "latex": null
+      },
+      {
+        "text": "Neutral species only",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Proton acceptor",
+      "latex": null
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Conjugate Acid-Base Pairs",
+    "familyId": "conjugate_pair_definition",
+    "questionText": "Two species that differ by a proton constitute a:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Redox pair",
+        "latex": null
+      },
+      {
+        "text": "Conjugate acid-base pair",
+        "latex": null
+      },
+      {
+        "text": "Coordination pair",
+        "latex": null
+      },
+      {
+        "text": "Buffer pair",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Conjugate acid-base pair",
+      "latex": null
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Ionization of Water",
+    "familyId": "water_autoionization",
+    "questionText": "The self-ionization of water is represented by:",
+    "questionLatex": "2\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_3\\text{O}^+(aq) + \\text{OH}^-(aq)",
+    "options": [
+      {
+        "text": "H₂O → H⁺ + O²⁻",
+        "latex": "\\text{H}_2\\text{O} \\rightarrow \\text{H}^+ + \\text{O}^{2-}"
+      },
+      {
+        "text": "2H₂O ⇌ H₃O⁺ + OH⁻",
+        "latex": "2\\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_3\\text{O}^+ + \\text{OH}^-"
+      },
+      {
+        "text": "H₂O + HCl → H₃O⁺",
+        "latex": "\\text{H}_2\\text{O} + \\text{HCl} \\rightarrow \\text{H}_3\\text{O}^+"
+      },
+      {
+        "text": "H₂O → H₂ + O₂",
+        "latex": "\\text{H}_2\\text{O} \\rightarrow \\text{H}_2 + \\text{O}_2"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2H₂O ⇌ H₃O⁺ + OH⁻",
+      "latex": "2\\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_3\\text{O}^+(aq) + \\text{OH}^-(aq)"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Ionic Product of Water",
+    "familyId": "kw_expression",
+    "questionText": "The ionic product of water is represented by:",
+    "questionLatex": "K_w = [\\text{H}_3\\text{O}^+][\\text{OH}^-]",
+    "options": [
+      {
+        "text": "Ka",
+        "latex": "K_a"
+      },
+      {
+        "text": "Kb",
+        "latex": "K_b"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      },
+      {
+        "text": "Ksp",
+        "latex": "K_{sp}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Kw",
+      "latex": "K_w = [\\text{H}_3\\text{O}^+][\\text{OH}^-]"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Ionic Product of Water",
+    "familyId": "kw_value",
+    "questionText": "At 298 K, the value of ionic product of water (Kw) is:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "1.0 × 10⁻⁷",
+        "latex": "1.0 \\times 10^{-7}"
+      },
+      {
+        "text": "1.0 × 10⁻¹⁰",
+        "latex": "1.0 \\times 10^{-10}"
+      },
+      {
+        "text": "1.0 × 10⁻¹⁴",
+        "latex": "1.0 \\times 10^{-14}"
+      },
+      {
+        "text": "1.0 × 10⁻¹⁶",
+        "latex": "1.0 \\times 10^{-16}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1.0 × 10⁻¹⁴",
+      "latex": "1.0 \\times 10^{-14}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "pH Scale",
+    "familyId": "ph_definition",
+    "questionText": "The pH of a solution is defined as:",
+    "questionLatex": "\\text{pH} = -\\log[\\text{H}_3\\text{O}^+]",
+    "options": [
+      {
+        "text": "pH = log[H₃O⁺]",
+        "latex": "\\text{pH} = \\log[\\text{H}_3\\text{O}^+]"
+      },
+      {
+        "text": "pH = -log[H₃O⁺]",
+        "latex": "\\text{pH} = -\\log[\\text{H}_3\\text{O}^+]"
+      },
+      {
+        "text": "pH = log[OH⁻]",
+        "latex": "\\text{pH} = \\log[\\text{OH}^-]"
+      },
+      {
+        "text": "pH = [H₃O⁺]",
+        "latex": "\\text{pH} = [\\text{H}_3\\text{O}^+]"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "pH = -log[H₃O⁺]",
+      "latex": "\\text{pH} = -\\log[\\text{H}_3\\text{O}^+]"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "pOH Scale",
+    "familyId": "poh_definition",
+    "questionText": "The pOH of a solution is defined as:",
+    "questionLatex": "\\text{pOH} = -\\log[\\text{OH}^-]",
+    "options": [
+      {
+        "text": "pOH = -log[OH⁻]",
+        "latex": "\\text{pOH} = -\\log[\\text{OH}^-]"
+      },
+      {
+        "text": "pOH = log[OH⁻]",
+        "latex": "\\text{pOH} = \\log[\\text{OH}^-]"
+      },
+      {
+        "text": "pOH = [OH⁻]",
+        "latex": "\\text{pOH} = [\\text{OH}^-]"
+      },
+      {
+        "text": "pOH = -log[H₃O⁺]",
+        "latex": "\\text{pOH} = -\\log[\\text{H}_3\\text{O}^+]"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "pOH = -log[OH⁻]",
+      "latex": "\\text{pOH} = -\\log[\\text{OH}^-]"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "pH and pOH",
+    "familyId": "ph_poh_relation",
+    "questionText": "At 298 K, the relationship between pH and pOH is:",
+    "questionLatex": "\\text{pH} + \\text{pOH} = 14",
+    "options": [
+      {
+        "text": "pH − pOH = 14",
+        "latex": "\\text{pH} - \\text{pOH} = 14"
+      },
+      {
+        "text": "pH + pOH = 7",
+        "latex": "\\text{pH} + \\text{pOH} = 7"
+      },
+      {
+        "text": "pH + pOH = 14",
+        "latex": "\\text{pH} + \\text{pOH} = 14"
+      },
+      {
+        "text": "pH × pOH = 14",
+        "latex": "\\text{pH} \\times \\text{pOH} = 14"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "pH + pOH = 14",
+      "latex": "\\text{pH} + \\text{pOH} = 14"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acid Strength",
+    "familyId": "strong_acid_definition",
+    "questionText": "A strong acid is one that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Partially ionizes in water",
+        "latex": null
+      },
+      {
+        "text": "Completely ionizes in water",
+        "latex": null
+      },
+      {
+        "text": "Does not ionize in water",
+        "latex": null
+      },
+      {
+        "text": "Forms precipitates",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Completely ionizes in water",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acid Strength",
+    "familyId": "weak_acid_definition",
+    "questionText": "A weak acid is one that:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Completely ionizes in water",
+        "latex": null
+      },
+      {
+        "text": "Partially ionizes in water",
+        "latex": null
+      },
+      {
+        "text": "Does not dissolve in water",
+        "latex": null
+      },
+      {
+        "text": "Has low molecular mass",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Partially ionizes in water",
+      "latex": null
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acid Dissociation Constant",
+    "familyId": "ka_definition",
+    "questionText": "The equilibrium constant for the ionization of an acid is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Kb",
+        "latex": "K_b"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      },
+      {
+        "text": "Ka",
+        "latex": "K_a"
+      },
+      {
+        "text": "Ksp",
+        "latex": "K_{sp}"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Ka",
+      "latex": "K_a"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Base Dissociation Constant",
+    "familyId": "kb_definition",
+    "questionText": "The equilibrium constant for the ionization of a base is called:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Ka",
+        "latex": "K_a"
+      },
+      {
+        "text": "Kb",
+        "latex": "K_b"
+      },
+      {
+        "text": "Kw",
+        "latex": "K_w"
+      },
+      {
+        "text": "Kc",
+        "latex": "K_c"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kb",
+      "latex": "K_b"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acid-Base Strength",
+    "familyId": "ka_strength_relation",
+    "questionText": "A larger value of Ka indicates:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "A weaker acid",
+        "latex": null
+      },
+      {
+        "text": "A stronger acid",
+        "latex": null
+      },
+      {
+        "text": "A weaker base",
+        "latex": null
+      },
+      {
+        "text": "A neutral solution",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A stronger acid",
+      "latex": null
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Acid-Base Strength",
+    "familyId": "ka_kb_relation",
+    "questionText": "For a conjugate acid-base pair at 298 K:",
+    "questionLatex": "K_a \\times K_b = K_w",
+    "options": [
+      {
+        "text": "Ka + Kb = Kw",
+        "latex": "K_a + K_b = K_w"
+      },
+      {
+        "text": "Ka × Kb = Kw",
+        "latex": "K_a \\times K_b = K_w"
+      },
+      {
+        "text": "Ka − Kb = Kw",
+        "latex": "K_a - K_b = K_w"
+      },
+      {
+        "text": "Ka/Kb = Kw",
+        "latex": "\\frac{K_a}{K_b} = K_w"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Ka × Kb = Kw",
+      "latex": "K_a \\times K_b = K_w"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "ncert_based"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Buffer Solutions",
+    "familyId": "buffer_definition",
+    "questionText": "A buffer solution is a solution that resists changes in:",
+    "questionLatex": null,
+    "options": [
+      {
+        "text": "Temperature",
+        "latex": null
+      },
+      {
+        "text": "Pressure",
+        "latex": null
+      },
+      {
+        "text": "pH",
+        "latex": "\\text{pH}"
+      },
+      {
+        "text": "Volume",
+        "latex": null
+      }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "pH",
+      "latex": "\\text{pH}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "ncert_based"
+  }
+]
