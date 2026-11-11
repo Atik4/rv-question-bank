@@ -1,0 +1,1302 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Temperature and Heat",
+    "familyId": "temperature_definition",
+    "questionText": "The macroscopic thermodynamic property known as temperature serves fundamentally as a quantitative measure of:",
+    "questionLatex": "\\text{The macroscopic thermodynamic property known as temperature serves fundamentally as a quantitative measure of:}",
+    "options": [
+      {"text": "The total net inertial mass of a macroscopic physical system", "latex": "m"},
+      {"text": "The relative degree of hotness or coldness of a body, reflecting its mean molecular kinetic energy", "latex": "T"},
+      {"text": "The absolute quantity of cumulative thermal energy content trapped in a body exclusively", "latex": "Q"},
+      {"text": "The localized volumetric mass density distribution profile of the substance", "latex": "\\rho"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The relative degree of hotness or coldness of a body, reflecting its mean molecular kinetic energy",
+      "latex": "T"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Heat Transfer",
+    "familyId": "heat_definition",
+    "questionText": "In classical thermodynamics, heat is precisely defined as:",
+    "questionLatex": "\\text{In classical thermodynamics, heat is precisely defined as:}",
+    "options": [
+      {"text": "An invisible material fluid substance inherently present within high-temperature bodies", "latex": "H"},
+      {"text": "The form of energy in transit across a boundary solely due to a localized temperature difference", "latex": "Q"},
+      {"text": "The total sum of static internal potential and kinetic energies locked within a closed domain", "latex": "U"},
+      {"text": "The microscopic translational kinetic energy of constituent molecules exclusively", "latex": "K"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The form of energy in transit across a boundary solely due to a localized temperature difference",
+      "latex": "Q"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Units",
+    "familyId": "si_unit_heat",
+    "questionText": "Which of the following represents the standard International System of Units (SI) unit for quantifying or reporting heat energy transfer?",
+    "questionLatex": "\\text{Which of the following represents the standard International System of Units (SI) unit for quantifying or reporting heat energy transfer?}",
+    "options": [
+      {"text": "Calorie (cal)", "latex": "\\text{cal}"},
+      {"text": "Kelvin (K)", "latex": "\\text{K}"},
+      {"text": "Joule (J)", "latex": "\\text{J}"},
+      {"text": "Watt (W)", "latex": "\\text{W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Joule (J)",
+      "latex": "\\text{J}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Temperature Scales",
+    "familyId": "fixed_points_celsius",
+    "questionText": "Under standard atmospheric pressure conditions, the fundamental ice point and steam point calibration markers on the Celsius temperature scale are designated respectively as:",
+    "questionLatex": "\\text{Under standard atmospheric pressure conditions, the fundamental ice point and steam point calibration markers on the Celsius temperature scale are designated respectively as:}",
+    "options": [
+      {"text": "0°C and 100°C", "latex": "0^{\\circ}\\text{C}, \\; 100^{\\circ}\\text{C}"},
+      {"text": "32°C and 212°C", "latex": "32^{\\circ}\\text{C}, \\; 212^{\\circ}\\text{C}"},
+      {"text": "273.15 K and 373.15 K", "latex": "273.15\\text{ K}, \\; 373.15\\text{ K}"},
+      {"text": "-273.15°C and 0°C", "latex": "-273.15^{\\circ}\\text{C}, \\; 0^{\\circ}\\text{C}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0°C and 100°C",
+      "latex": "0^{\\circ}\\text{C}, \\; 100^{\\circ}\\text{C}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Temperature Conversion",
+    "familyId": "fahrenheit_celsius_relation",
+    "questionText": "The legal mathematical coordinate conversion formula relating a Fahrenheit scale temperature measurement $t_F$ to a Celsius scale reading $t_C$ is expressed as:",
+    "questionLatex": "\\text{The legal mathematical coordinate conversion formula relating a Fahrenheit scale temperature measurement } t_F \\text{ to a Celsius scale reading } t_C \\text{ is expressed as:}",
+    "options": [
+      {"text": "(t_F - 32) / 180 = t_C / 100", "latex": "\\frac{t_F - 32}{180} = \\frac{t_C}{100}"},
+      {"text": "t_F = t_C + 273.15", "latex": "t_F = t_C + 273.15"},
+      {"text": "t_F / t_C = 9 / 5", "latex": "\\frac{t_F}{t_C} = \\frac{9}{5}"},
+      {"text": "t_F = t_C - 32", "latex": "t_F = t_C - 32"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "(t_F - 32) / 180 = t_C / 100",
+      "latex": "\\frac{t_F - 32}{180} = \\frac{t_C}{100}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Ideal Gas Equation",
+    "familyId": "ideal_gas_law",
+    "questionText": "The foundational thermodynamic equation of state modeling the macroscopic variables of an ideal gas sample consisting of μ moles is formulated as:",
+    "questionLatex": "\\text{The foundational thermodynamic equation of state modeling the macroscopic variables of an ideal gas sample consisting of } \\mu \\text{ moles is formulated as:}",
+    "options": [
+      {"text": "P · V = μ · R · T", "latex": "PV = \\mu RT"},
+      {"text": "P · V = R · T", "latex": "PV = RT"},
+      {"text": "P / T = constant", "latex": "\\frac{P}{T} = \\text{constant}"},
+      {"text": "V / T² = constant", "latex": "\\frac{V}{T^2} = \\text{constant}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "P · V = μ · R · T",
+      "latex": "PV = \\mu RT"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Absolute Zero",
+    "familyId": "absolute_zero_value",
+    "questionText": "The theoretical thermodynamic lower bound known as absolute zero ($0\\text{ K}$) corresponds precisely to which temperature on the Celsius scale?",
+    "questionLatex": "\\text{The theoretical thermodynamic lower bound known as absolute zero (0 K) corresponds precisely to which temperature on the Celsius scale?}",
+    "options": [
+      {"text": "0°C", "latex": "0^{\\circ}\\text{C}"},
+      {"text": "-100°C", "latex": "-100^{\\circ}\\text{C}"},
+      {"text": "-273.15°C", "latex": "-273.15^{\\circ}\\text{C}"},
+      {"text": "273.15°C", "latex": "273.15^{\\circ}\\text{C}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "-273.15°C",
+      "latex": "-273.15^{\\circ}\\text{C}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Kelvin Scale",
+    "familyId": "kelvin_celsius_relation",
+    "questionText": "The standardized conversion equation defining the relationship between the absolute Kelvin scale temperature $T$ and the Celsius scale temperature $t$ is written as:",
+    "questionLatex": "\\text{The standardized conversion equation defining the relationship between the absolute Kelvin scale temperature } T \\text{ and the Celsius scale temperature } t \\text{ is written as:}",
+    "options": [
+      {"text": "T = t + 273.15", "latex": "T = t + 273.15"},
+      {"text": "T = t - 273.15", "latex": "T = t - 273.15"},
+      {"text": "T = 273.15 / t", "latex": "T = \\frac{273.15}{t}"},
+      {"text": "T = t / 273.15", "latex": "T = \\frac{t}{273.15}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "T = t + 273.15",
+      "latex": "T = t + 273.15"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Expansion",
+    "familyId": "thermal_expansion_definition",
+    "questionText": "The physical structural phenomenon describing the fractional structural dilation or increase in spatial dimensions of a body triggered exclusively by a rise in its thermodynamic temperature is defined as:",
+    "questionLatex": "\\text{The physical structural phenomenon describing the fractional structural dilation or increase in spatial dimensions of a body triggered exclusively by a rise in its thermodynamic temperature is defined as:}",
+    "options": [
+      {"text": "Hookean structural elasticity strain tracking", "latex": "E"},
+      {"text": "Thermal expansion profile tracking", "latex": "\\Delta L"},
+      {"text": "Non-reversible crystal deformation plasticity", "latex": "P"},
+      {"text": "Localized macroscopic structural contraction fields", "latex": "C"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Thermal expansion profile tracking",
+      "latex": "\\Delta L"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Linear Expansion",
+    "familyId": "linear_expansion_formula",
+    "questionText": "In structural thermal physics, the dynamic material coefficient of fractional linear expansion $\\alpha_l$ for a uniform rigid rod of native length $l$ undergoing a longitudinal change $\\Delta l$ due to a thermal increment $\\Delta T$ is modeled by which governing expression?",
+    "questionLatex": "\\text{In structural thermal physics, the dynamic material coefficient of fractional linear expansion } \\alpha_l \\text{ for a uniform rigid rod of native length } l \\text{ undergoing a longitudinal change } \\Delta l \\text{ due to a thermal increment } \\Delta T \\text{ is modeled by which governing expression?}",
+    "options": [
+      {"text": "Δl / l = α_l · ΔT", "latex": "\\frac{\\Delta l}{l} = \\alpha_l \\Delta T"},
+      {"text": "ΔV / V = α_l · ΔT", "latex": "\\frac{\\Delta V}{V} = \\alpha_l \\Delta T"},
+      {"text": "ΔA / A = (α_l)² · ΔT", "latex": "\\frac{\\Delta A}{A} = \\alpha_l^2 \\Delta T"},
+      {"text": "Δl = α_l / T", "latex": "\\Delta l = \\frac{\\alpha_l}{T}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Δl / l = α_l · ΔT",
+      "latex": "\\frac{\\Delta l}{l} = \\alpha_l \\Delta T"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Area Expansion",
+    "familyId": "area_expansion_formula",
+    "questionText": "In structural thermal physics, the dynamic material coefficient of superficial (area) expansion $\\alpha_a$ (or $\\beta$) for a uniform rigid sheet of initial area $A$ undergoing an area change $\\Delta A$ due to a uniform thermal increment $\\Delta T$ is modeled by which governing expression?",
+    "questionLatex": "\\text{In structural thermal physics, the dynamic material coefficient of superficial (area) expansion } \\alpha_a \\text{ for a uniform rigid sheet of initial area } A \\text{ undergoing an area change } \\Delta A \\text{ due to a uniform thermal increment } \\Delta T \\text{ is modeled by which governing expression?}",
+    "options": [
+      {"text": "ΔA / A = α_a · ΔT", "latex": "\\frac{\\Delta A}{A} = \\alpha_a \\Delta T"},
+      {"text": "Δl / l = α_a · ΔT", "latex": "\\frac{\\Delta l}{l} = \\alpha_a \\Delta T"},
+      {"text": "ΔV / V = α_a · ΔT", "latex": "\\frac{\\Delta V}{V} = \\alpha_a \\Delta T"},
+      {"text": "ΔA = α_a / ΔT", "latex": "\\Delta A = \\frac{\\alpha_a}{\\Delta T}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ΔA / A = α_a · ΔT",
+      "latex": "\\frac{\\Delta A}{A} = \\alpha_a \\Delta T"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Volume Expansion",
+    "familyId": "volume_expansion_formula",
+    "questionText": "In thermodynamics, the dynamic material coefficient of cubical (volume) expansion $\\alpha_v$ (or $\\gamma$) for a uniform rigid block of initial volume $V$ undergoing a volumetric change $\\Delta V$ due to a thermal increment $\\Delta T$ is modeled by which governing expression?",
+    "questionLatex": "\\text{In thermodynamics, the dynamic material coefficient of cubical (volume) expansion } \\alpha_v \\text{ for a uniform rigid block of initial volume } V \\text{ undergoing a volumetric change } \\Delta V \\text{ due to a thermal increment } \\Delta T \\text{ is modeled by which governing expression?}",
+    "options": [
+      {"text": "ΔV / V = α_v · ΔT", "latex": "\\frac{\\Delta V}{V} = \\alpha_v \\Delta T"},
+      {"text": "ΔA / A = α_v · ΔT", "latex": "\\frac{\\Delta A}{A} = \\alpha_v \\Delta T"},
+      {"text": "Δl / l = α_v · ΔT", "latex": "\\frac{\\Delta l}{l} = \\alpha_v \\Delta T"},
+      {"text": "ΔV = α_v / T", "latex": "\\Delta V = \\frac{\\alpha_v}{T}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ΔV / V = α_v · ΔT",
+      "latex": "\\frac{\\Delta V}{V} = \\alpha_v \\Delta T"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Expansion",
+    "familyId": "expansion_coefficients_relation",
+    "questionText": "For a perfectly isotropic solid material, what is the exact mathematical ratio linking the linear ($\\alpha_l$), superficial ($\\alpha_a$), and cubical ($\\alpha_v$) thermal expansion coefficients?",
+    "questionLatex": "\\text{For a perfectly isotropic solid material, what is the exact mathematical ratio linking the linear } (\\alpha_l)\\text{, superficial } (\\alpha_a)\\text{, and cubical } (\\alpha_v) \\text{ thermal expansion coefficients?}",
+    "options": [
+      {"text": "α_l : α_a : α_v = 1 : 2 : 3", "latex": "\\alpha_l : \\alpha_a : \\alpha_v = 1 : 2 : 3"},
+      {"text": "α_l : α_a : α_v = 3 : 2 : 1", "latex": "\\alpha_l : \\alpha_a : \\alpha_v = 3 : 2 : 1"},
+      {"text": "α_l : α_a : α_v = 1 : 1 : 1", "latex": "\\alpha_l : \\alpha_a : \\alpha_v = 1 : 1 : 1"},
+      {"text": "α_l : α_a : α_v = 1 : 4 : 9", "latex": "\\alpha_l : \\alpha_a : \\alpha_v = 1 : 4 : 9"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "α_l : α_a : α_v = 1 : 2 : 3",
+      "latex": "\\alpha_l : \\alpha_a : \\alpha_v = 1 : 2 : 3"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Specific Heat Capacity",
+    "familyId": "specific_heat_definition",
+    "questionText": "The specific heat capacity s of a uniform substance is explicitly defined as the quantity of heat energy required to alter the temperature of:",
+    "questionLatex": "\\text{The specific heat capacity s of a uniform substance is explicitly defined as the quantity of heat energy required to alter the temperature of:}",
+    "options": [
+      {"text": "A unit mass of the substance by a unit temperature increment", "latex": "s = \\frac{1}{m}\\frac{\\Delta Q}{\\Delta T}"},
+      {"text": "The entire bulk body of the substance by an arbitrary thermal change", "latex": "S = \\frac{\\Delta Q}{\\Delta T}"},
+      {"text": "One mole of the substance by exactly one unit temperature threshold", "latex": "C = \\frac{1}{\\mu}\\frac{\\Delta Q}{\\Delta T}"},
+      {"text": "A unit volume element of the substance to its melting point", "latex": "\\Delta Q = \\rho V L"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "A unit mass of the substance by a unit temperature increment",
+      "latex": "s = \\frac{1}{m}\\frac{\\Delta Q}{\\Delta T}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Specific Heat Capacity",
+    "familyId": "si_unit_specific_heat",
+    "questionText": "Which of the following expressions correctly states the standard metric SI unit for tracking and reporting the specific heat capacity parameter of a material?",
+    "questionLatex": "\\text{Which of the following expressions correctly states the standard metric SI unit for tracking and reporting the specific heat capacity parameter of a material?}",
+    "options": [
+      {"text": "Joule per kilogram-Kelvin (J·kg⁻¹·K⁻¹)", "latex": "\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}"},
+      {"text": "Joule per Kelvin (J·K⁻¹)", "latex": "\\text{J}\\cdot\\text{K}^{-1}"},
+      {"text": "Calorie per gram (cal·g⁻¹)", "latex": "\\text{cal}\\cdot\\text{g}^{-1}"},
+      {"text": "Joule-kilogram per Kelvin (J·kg·K⁻¹)", "latex": "\\text{J}\\cdot\\text{kg}\\cdot\\text{K}^{-1}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Joule per kilogram-Kelvin (J·kg⁻¹·K⁻¹)",
+      "latex": "\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Molar Specific Heat Capacity",
+    "familyId": "molar_heat_definition",
+    "questionText": "The molar specific heat capacity C of a gas sample represents the precise quantity of thermal energy needed to vary the temperature of:",
+    "questionLatex": "\\text{The molar specific heat capacity C of a gas sample represents the precise quantity of thermal energy needed to vary the temperature of:}",
+    "options": [
+      {"text": "One mole of the gas substance by exactly one unit degree Kelvin", "latex": "C = \\frac{1}{\\mu}\\frac{\\Delta Q}{\\Delta T}"},
+      {"text": "One kilogram of the gas sample by one absolute unit Kelvin", "latex": "s = \\frac{1}{m}\\frac{\\Delta Q}{\\Delta T}"},
+      {"text": "A fixed volume configuration of the substance across its phase edge", "latex": "Q = m L"},
+      {"text": "The entire collective system sample through a standard isobaric cycle", "latex": "\\Delta Q = \\Delta U + P\\Delta V"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "One mole of the gas substance by exactly one unit degree Kelvin",
+      "latex": "C = \\frac{1}{\\mu}\\frac{\\Delta Q}{\\Delta T}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat",
+    "familyId": "latent_heat_definition",
+    "questionText": "During a macroscopic thermodynamic phase transition process, the latent heat capacity parameter describes the total heat energy absorbed or released per unit mass while:",
+    "questionLatex": "\\text{During a macroscopic thermodynamic phase transition process, the latent heat capacity parameter describes the total heat energy absorbed or released per unit mass while:}",
+    "options": [
+      {"text": "The state of matter alters entirely while the system temperature remains perfectly constant", "latex": "L = \\frac{Q}{m}"},
+      {"text": "The system temperature climbs linearly while maintaining a stable phase profile", "latex": "Q = m c \\Delta T"},
+      {"text": "The localized hydrostatic pressure profile is forced down to zero parameters", "latex": "P = 0"},
+      {"text": "The global molecular kinetic energy distribution expands over an open volume", "latex": "\\Delta K_{\\text{mean}} \\uparrow"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The state of matter alters entirely while the system temperature remains perfectly constant",
+      "latex": "L = \\frac{Q}{m}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat",
+    "familyId": "si_unit_latent_heat",
+    "questionText": "Which of the following metrics defines the correct standard SI unit used for mapping and reporting the latent heat of a phase change?",
+    "questionLatex": "\\text{Which of the following metrics defines the correct standard SI unit used for mapping and reporting the latent heat of a phase change?}",
+    "options": [
+      {"text": "Joule per kilogram (J/kg)", "latex": "\\text{J}\\cdot\\text{kg}^{-1}"},
+      {"text": "Joule per Kelvin (J/K)", "latex": "\\text{J}\\cdot\\text{K}^{-1}"},
+      {"text": "Joule per kilogram-Kelvin (J·kg⁻¹·K⁻¹)", "latex": "\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}"},
+      {"text": "Calorie per absolute degree Celsius (cal/°C)", "latex": "\\text{cal}\\cdot(^{\\circ}\\text{C})^{-1}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Joule per kilogram (J/kg)",
+      "latex": "\\text{J}\\cdot\\text{kg}^{-1}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Heat Transfer",
+    "familyId": "conduction_definition",
+    "questionText": "The localized mode of thermal energy transfer where heat propagates through a solid medium via successive microscopic molecular interactions and lattice vibrations without macro-transport of the matter itself is termed:",
+    "questionLatex": "\\text{The localized mode of thermal energy transfer where heat propagates through a solid medium via successive microscopic molecular interactions and lattice vibrations without macro-transport of the matter itself is termed:}",
+    "options": [
+      {"text": "Thermal conduction", "latex": "\\text{Conduction}"},
+      {"text": "Fluid convection loops", "latex": "\\text{Convection}"},
+      {"text": "Electromagnetic radiation fields", "latex": "\\text{Radiation}"},
+      {"text": "Isotropic mechanical work conversion", "latex": "\\text{Work}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Thermal conduction",
+      "latex": "\\text{Conduction}"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Conductivity",
+    "familyId": "conduction_rate_equation",
+    "questionText": "In steady-state linear thermal conduction, the heat energy $Q$ traversing a solid bar of cross-sectional area $A$ and length $L$ over a time period $t$ due to a temperature difference $\\Delta T$ is dictated by which exact rate expression?",
+    "questionLatex": "\\text{In steady-state linear thermal conduction, the heat energy } Q \\text{ traversing a solid bar of cross-sectional area } A \\text{ and length } L \\text{ over a time period } t \\text{ due to a temperature difference } \\Delta T \\text{ is dictated by which exact rate expression?}",
+    "options": [
+      {"text": "Q = (K · A · ΔT · t) / L", "latex": "Q = \\frac{K A \\Delta T t}{L}"},
+      {"text": "Q = (K · A · L · t) / ΔT", "latex": "Q = \\frac{K A L t}{\\Delta T}"},
+      {"text": "Q = K · A · L · ΔT · t", "latex": "Q = K A L \\Delta T t"},
+      {"text": "Q = (K · L · ΔT) / (A · t)", "latex": "Q = \\frac{K L \\Delta T}{A t}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Q = (K · A · ΔT · t) / L",
+      "latex": "Q = \\frac{K A \\Delta T t}{L}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Phase Change",
+    "familyId": "latent_heat_definition",
+    "questionText": "The thermal energy absorbed or released by a substance during a macroscopic change of phase while its thermodynamic temperature remains perfectly constant is defined as:",
+    "questionLatex": "\\text{The thermal energy absorbed or released by a substance during a macroscopic change of phase while its thermodynamic temperature remains perfectly constant is defined as:}",
+    "options": [
+      {"text": "Sensible heat causing a linear change in temperature only", "latex": "\\Delta T"},
+      {"text": "Latent heat associated with structural state transitions", "latex": "\\text{Phase Change}"},
+      {"text": "Volumetric work energy under constant pressure fields", "latex": "\\Delta V"},
+      {"text": "Longitudinal expansion energy tracking crystalline rod diltations", "latex": "\\Delta l"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Latent heat associated with structural state transitions",
+      "latex": "\\text{Phase Change}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat",
+    "familyId": "latent_heat_formula",
+    "questionText": "Which of the following expressions correctly computes the total heat energy Q required to completely change the state of an isotropic substance of mass m and latent heat capacity constant L?",
+    "questionLatex": "\\text{Which of the following expressions correctly computes the total heat energy Q required to completely change the state of an isotropic substance of mass m and latent heat capacity constant L?}",
+    "options": [
+      {"text": "Q = m · c · ΔT", "latex": "Q = mc\\Delta T"},
+      {"text": "Q = m · L", "latex": "Q = mL"},
+      {"text": "Q = L / m", "latex": "Q = \\frac{L}{m}"},
+      {"text": "Q = m² · L", "latex": "Q = m^2L"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Q = m · L",
+      "latex": "Q = mL"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat of Fusion",
+    "familyId": "fusion_definition",
+    "questionText": "The specific latent heat of fusion defines the net quantity of thermal energy that must be supplied to convert a unit mass of a substance from the:",
+    "questionLatex": "\\text{The specific latent heat of fusion defines the net quantity of thermal energy that must be supplied to convert a unit mass of a substance from the:}",
+    "options": [
+      {"text": "Liquid phase into the gaseous phase at its boiling threshold", "latex": "\\text{Liquid} \\rightarrow \\text{Gas}"},
+      {"text": "Solid phase into the liquid phase at its melting point boundary", "latex": "\\text{Solid} \\rightarrow \\text{Liquid}"},
+      {"text": "Gaseous phase down into a condensed liquid phase state", "latex": "\\text{Gas} \\rightarrow \\text{Liquid}"},
+      {"text": "Gaseous phase directly down into an ordered solid crystal matrix", "latex": "\\text{Gas} \\rightarrow \\text{Solid}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Solid phase into the liquid phase at its melting point boundary",
+      "latex": "\\text{Solid} \\rightarrow \\text{Liquid}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat of Vaporisation",
+    "familyId": "vaporisation_definition",
+    "questionText": "The specific latent heat of vaporisation represents the precise thermal energy threshold required to completely transition a unit mass of a substance from the:",
+    "questionLatex": "\\text{The specific latent heat of vaporisation represents the precise thermal energy threshold required to completely transition a unit mass of a substance from the:}",
+    "options": [
+      {"text": "Solid phase into the liquid phase during baseline melting equilibrium", "latex": "\\text{Solid} \\rightarrow \\text{Liquid}"},
+      {"text": "Liquid phase into the gaseous phase at its characteristic boiling point", "latex": "\\text{Liquid} \\rightarrow \\text{Gas}"},
+      {"text": "Gaseous phase down into a lower-energy condensed liquid matrix", "latex": "\\text{Gas} \\rightarrow \\text{Liquid}"},
+      {"text": "Solid crystalline phase directly into an open gaseous cloud configuration", "latex": "\\text{Solid} \\rightarrow \\text{Gas}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Liquid phase into the gaseous phase at its characteristic boiling point",
+      "latex": "\\text{Liquid} \\rightarrow \\text{Gas}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Latent Heat",
+    "familyId": "latent_heat_numerical_mcq",
+    "questionText": "Calculate the absolute quantity of thermal energy required to completely melt an isolated 2 kg block of ice maintained at its native melting point of 0°C. Take the specific latent heat of fusion of ice as $3.34 \\times 10^5\\text{ J kg}^{-1}$.",
+    "questionLatex": "\\text{Calculate the absolute quantity of thermal energy required to completely melt an isolated 2 kg block of ice maintained at its native melting point of 0°C. Take the specific latent heat of fusion of ice as } 3.34 \\times 10^5\\text{ J kg}^{-1}.",
+    "options": [
+      {"text": "1.67 × 10⁵ J", "latex": "1.67 \\times 10^5\\text{ J}"},
+      {"text": "3.34 × 10⁵ J", "latex": "3.34 \\times 10^5\\text{ J}"},
+      {"text": "6.68 × 10⁵ J", "latex": "6.68 \\times 10^5\\text{ J}"},
+      {"text": "1.34 × 10⁶ J", "latex": "1.34 \\times 10^6\\text{ J}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "6.68 × 10⁵ J",
+      "latex": "6.68 \\times 10^5\\text{ J}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Heat Transfer",
+    "familyId": "modes_of_heat_transfer",
+    "questionText": "What are the three distinct classical mechanisms responsible for mediating the transmission of thermal energy across distinct spatial domains?",
+    "questionLatex": "\\text{What are the three distinct classical mechanisms responsible for mediating the transmission of thermal energy across distinct spatial domains?}",
+    "options": [
+      {"text": "Conduction, fluid convection loops, and electromagnetic radiation", "latex": "\\text{Conduction, Convection, Radiation}"},
+      {"text": "Thermal expansion, volumetric contraction fields, and radiation spectra", "latex": "\\text{Expansion, Contraction, Radiation}"},
+      {"text": "Lattice conduction, surface evaporation, and crystal fusion phase edges", "latex": "\\text{Conduction, Evaporation, Fusion}"},
+      {"text": "Convection currents, crystal lattice fusion, and atomic vaporisation", "latex": "\\text{Convection, Fusion, Vaporisation}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Conduction, fluid convection loops, and electromagnetic radiation",
+      "latex": "\\text{Conduction, Convection, Radiation}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Conduction",
+    "familyId": "conduction_definition",
+    "questionText": "The specific mode of internal heat transmission through a material medium where thermal energy propagates continuously via atomic-scale impacts and structural lattice vibrations without any macroscopic bulk movement of the constituent particles is termed:",
+    "questionLatex": "\\text{The specific mode of internal heat transmission through a material medium where thermal energy propagates continuously via atomic-scale impacts and structural lattice vibrations without any macroscopic bulk movement of the constituent particles is termed:}",
+    "options": [
+      {"text": "Hydrodynamic buoyancy convection currents", "latex": "\\text{Convection}"},
+      {"text": "Electromagnetic photon wave radiation", "latex": "\\text{Radiation}"},
+      {"text": "Microscopic material conduction", "latex": "\\text{Conduction}"},
+      {"text": "Surface boundary mass evaporation", "latex": "\\text{Evaporation}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Microscopic material conduction",
+      "latex": "\\text{Conduction}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Conductivity",
+    "familyId": "thermal_conductivity_definition",
+    "questionText": "The explicit transport coefficient of a material system that quantifies its intrinsic structural capacity to conduct internal thermal energy under a localized temperature gradient is called the:",
+    "questionLatex": "\\text{The explicit transport coefficient of a material system that quantifies its intrinsic structural capacity to conduct internal thermal energy under a localized temperature gradient is called the:}",
+    "options": [
+      {"text": "Mass specific heat capacity", "latex": "s"},
+      {"text": "Thermal conductivity constant", "latex": "K"},
+      {"text": "Phase latent heat capacity", "latex": "L"},
+      {"text": "Volumetric thermal heat capacity", "latex": "S"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Thermal conductivity constant",
+      "latex": "K"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Conductivity",
+    "familyId": "good_conductor",
+    "questionText": "When checking the ambient thermal transport metrics of engineering materials at standard temperatures, which substance acts as the most efficient thermal conductor?",
+    "questionLatex": "\\text{When checking the ambient thermal transport metrics of engineering materials at standard temperatures, which substance acts as the most efficient thermal conductor?}",
+    "options": [
+      {"text": "Fibrous dry wood cellular matrices", "latex": "\\text{Wood matrix}"},
+      {"text": "Amorphous structural silicate glass", "latex": "\\text{Silicate glass}"},
+      {"text": "Crystalline electrolytic copper", "latex": "\\text{Electrolytic copper}"},
+      {"text": "Cross-linked vulcanized rubber chains", "latex": "\\text{Vulcanized rubber}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Crystalline electrolytic copper",
+      "latex": "\\text{Electrolytic copper}"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Conduction",
+    "familyId": "heat_current_formula",
+    "questionText": "According to Fourier's fundamental law of steady-state linear heat conduction, the rate of conductive thermal energy current flow through a uniform rod is directly proportional to the product of which parameters?",
+    "questionLatex": "\\text{According to Fourier's fundamental law of steady-state linear heat conduction, the rate of conductive thermal energy current flow through a uniform rod is directly proportional to the product of which parameters?}",
+    "options": [
+      {"text": "The cross-sectional face area and the temperature difference across its length", "latex": "A \\cdot \\Delta T"},
+      {"text": "The longitudinal length parameter of the bar exclusively", "latex": "L"},
+      {"text": "The total normal cross-sectional surface area exclusively", "latex": "A"},
+      {"text": "The absolute localized magnitude of temperature difference exclusively", "latex": "\\Delta T"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The cross-sectional face area and the temperature difference across its length",
+      "latex": "A \\cdot \\Delta T"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Conduction",
+    "familyId": "thermal_conductivity_numerical_mcq",
+    "questionText": "A uniform metal rod exhibits a thermal conductivity of $200\\text{ W m}^{-1}\\text{ K}^{-1}$, a cross-sectional area of $2 \\times 10^{-4}\\text{ m}^2$, and a total length of $0.5\\text{ m}$. If a steady-state temperature difference of $50\\text{ K}$ is maintained across its ends, what is the calculated rate of conductive heat flow through the rod?",
+    "questionLatex": "\\text{A uniform metal rod exhibits a thermal conductivity of } 200\\text{ W m}^{-1}\\text{ K}^{-1}\\text{, a cross-sectional area of } 2 \\times 10^{-4}\\text{ m}^2\\text{, and a total length of } 0.5\\text{ m}.\\text{ If a steady-state temperature difference of } 50\\text{ K} \\text{ is maintained across its ends, what is the calculated rate of conductive heat flow through the rod?}",
+    "options": [
+      {"text": "2 W", "latex": "2\\text{ W}"},
+      {"text": "4 W", "latex": "4\\text{ W}"},
+      {"text": "8 W", "latex": "8\\text{ W}"},
+      {"text": "40 W", "latex": "40\\text{ W}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4 W",
+      "latex": "4\\text{ W}"
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Convection",
+    "familyId": "convection_definition",
+    "questionText": "The macro-mode of thermal energy transmission characterized by the actual physical migration and bulk movement of heated constituent molecules within a fluid medium is termed:",
+    "questionLatex": "\\text{The macro-mode of thermal energy transmission characterized by the actual physical migration and bulk movement of heated constituent molecules within a fluid medium is termed:}",
+    "options": [
+      {"text": "Microscopic lattice thermal conduction", "latex": "\\text{Conduction}"},
+      {"text": "Electromagnetic wave photon radiation", "latex": "\\text{Radiation}"},
+      {"text": "Fluid thermodynamic convection", "latex": "\\text{Convection}"},
+      {"text": "Isothermal phase transition fusion", "latex": "\\text{Fusion}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Fluid thermodynamic convection",
+      "latex": "\\text{Convection}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Convection",
+    "familyId": "convection_medium",
+    "questionText": "Considering the structural mobility criteria of matter, convective thermal energy transfer loops can establish and propagate effectively within:",
+    "questionLatex": "\\text{Considering the structural mobility criteria of matter, convective thermal energy transfer loops can establish and propagate effectively within:}",
+    "options": [
+      {"text": "Rigid solid crystal lattices exclusively", "latex": "\\text{Solids}"},
+      {"text": "An absolute vacuum devoid of matter fields", "latex": "\\text{Vacuum}"},
+      {"text": "Mobile fluid phases comprising liquids and gases", "latex": "\\text{Liquids and Gases}"},
+      {"text": "All thermodynamic states of matter uniformly", "latex": "\\text{All Media}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Mobile fluid phases comprising liquids and gases",
+      "latex": "\\text{Liquids and Gases}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Sea Breeze",
+    "familyId": "sea_breeze_cause",
+    "questionText": "From a thermodynamic standpoint, coastal sea breezes propagate from the ocean toward the coastline during daylight hours primarily because:",
+    "questionLatex": "\\text{From a thermodynamic standpoint, coastal sea breezes propagate from the ocean toward the coastline during daylight hours primarily because:}",
+    "options": [
+      {"text": "Land surfaces possess a lower specific heat capacity and warm up faster than water body masses", "latex": "c_{\\text{land}} < c_{\\text{water}} \\implies T_{\\text{land}} > T_{\\text{water}}"},
+      {"text": "Water masses exhibit a faster thermal response rate and absorb solar energy quicker than landmass rocks", "latex": "T_{\\text{water}} > T_{\\text{land}}"},
+      {"text": "The local atmospheric pressure gradient is maintained at a perfect uniform equilibrium profile", "latex": "\\Delta P = 0"},
+      {"text": "The planetary rotation Coriolis vector acts as the sole driving force behind localized air currents", "latex": "\\vec{\\omega} \\times \\vec{v}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Land surfaces possess a lower specific heat capacity and warm up faster than water body masses",
+      "latex": "c_{\\text{land}} < c_{\\text{water}} \\implies T_{\\text{land}} > T_{\\text{water}}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Land Breeze",
+    "familyId": "land_breeze_cause",
+    "questionText": "In coastal meteorology, the specific localized convection current profile known as a land breeze generally initiates and sustains itself:",
+    "questionLatex": "\\text{In coastal meteorology, the specific localized convection current profile known as a land breeze generally initiates and sustains itself:}",
+    "options": [
+      {"text": "During peak daylight hours when solar insolation fluxes are maximal", "latex": "\\text{Daytime}"},
+      {"text": "Exclusively at solar noon when localized thermal thermal gradients cross zero", "latex": "\\text{Solar Noon}"},
+      {"text": "During nocturnal hours when rapid radiative cooling leaves the land colder than the adjacent sea", "latex": "\\text{Nighttime}"},
+      {"text": "Exclusively within high-latitude winter seasons during baroclinic transitions", "latex": "\\text{Winter}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "During nocturnal hours when rapid radiative cooling leaves the land colder than the adjacent sea",
+      "latex": "\\text{Nighttime}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Radiation",
+    "familyId": "radiation_definition",
+    "questionText": "The specific transport mechanism of thermal energy that can propagate through an absolute vacuum without requiring any intervening physical material medium is defined as:",
+    "questionLatex": "\\text{The specific transport mechanism of thermal energy that can propagate through an absolute vacuum without requiring any intervening physical material medium is defined as:}",
+    "options": [
+      {"text": "Microscopic lattice particle vibration conduction", "latex": "\\text{Conduction}"},
+      {"text": "Bulk fluid parcel displacement convection loops", "latex": "\\text{Convection}"},
+      {"text": "Electromagnetic thermal energy radiation", "latex": "\\text{Radiation}"},
+      {"text": "Phase boundary molecular mass evaporation", "latex": "\\text{Evaporation}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Electromagnetic thermal energy radiation",
+      "latex": "\\text{Radiation}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Black Body",
+    "familyId": "black_body_definition",
+    "questionText": "In quantum and classical thermal physics, an ideal, perfectly black body is categorized as an idealized object that:",
+    "questionLatex": "\\text{In quantum and classical thermal physics, an ideal, perfectly black body is categorized as an idealized object that:}",
+    "options": [
+      {"text": "Rejects and reflects all components of incoming incident electromagnetic spectrum waves", "latex": "r = 1"},
+      {"text": "Completely absorbs the totality of all incident electromagnetic radiation regardless of frequency", "latex": "a = 1"},
+      {"text": "Permits unattenuated transmission of all incident light vectors through its entire volume", "latex": "t = 1"},
+      {"text": "Maintains an absolute zero emissive profile and radiates no electromagnetic energy", "latex": "E = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Completely absorbs the totality of all incident electromagnetic radiation regardless of frequency",
+      "latex": "a = 1"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Stefan-Boltzmann Law",
+    "familyId": "stefan_law_formula",
+    "questionText": "According to the Stefan-Boltzmann law, the total emissive power E radiated per unit surface area per unit time by an ideal black body is directly proportional to which power of its absolute thermodynamic temperature T?",
+    "questionLatex": "\\text{According to the Stefan-Boltzmann law, the total emissive power E radiated per unit surface area per unit time by an ideal black body is directly proportional to which power of its absolute thermodynamic temperature T?}",
+    "options": [
+      {"text": "The first power of absolute temperature ($T^1$)", "latex": "T"},
+      {"text": "The square of absolute temperature ($T^2$)", "latex": "T^2"},
+      {"text": "The cubic power of absolute temperature ($T^3$)", "latex": "T^3"},
+      {"text": "The fourth power of absolute temperature ($T^4$)", "latex": "T^4"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "The fourth power of absolute temperature ($T^4$)",
+      "latex": "T^4"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Stefan-Boltzmann Law",
+    "familyId": "stefan_constant_unit",
+    "questionText": "Which of the following representations defines the correct metric standard SI unit for the fundamental physical scaling constant known as the Stefan-Boltzmann constant ($\\sigma$)?",
+    "questionLatex": "\\text{Which of the following representations defines the correct metric standard SI unit for the fundamental physical scaling constant known as the Stefan-Boltzmann constant } (\\sigma)\\text{?}",
+    "options": [
+      {"text": "Watt per square meter-Kelvin⁴ (W · m⁻² · K⁻⁴)", "latex": "\\text{W}\\cdot\\text{m}^{-2}\\cdot\\text{K}^{-4}"},
+      {"text": "Watt per meter-Kelvin (W · m⁻¹ · K⁻¹)", "latex": "\\text{W}\\cdot\\text{m}^{-1}\\cdot\\text{K}^{-1}"},
+      {"text": "Joule per kilogram-Kelvin (J · kg⁻¹ · K⁻¹)", "latex": "\\text{J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}"},
+      {"text": "Newton per square meter (N · m⁻²)", "latex": "\\text{N}\\cdot\\text{m}^{-2}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Watt per square meter-Kelvin⁴ (W · m⁻² · K⁻⁴)",
+      "latex": "\\text{W}\\cdot\\text{m}^{-2}\\cdot\\text{K}^{-4}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Black Body Radiation",
+    "familyId": "black_body_emission",
+    "questionText": "According to Wien's displacement law and radiation principles, when an ideal radiating object shifts to a significantly higher thermodynamic temperature, its emission spectrum changes such that it produces:",
+    "questionLatex": "\\text{According to Wien's displacement law and radiation principles, when an ideal radiating object shifts to a significantly higher thermodynamic temperature, its emission spectrum changes such that it produces:}",
+    "options": [
+      {"text": "A lower spectral intensity and an shifted profile toward longer infrared wave bands", "latex": "I\\downarrow, \\; \\lambda_{\\text{max}}\\uparrow"},
+      {"text": "A higher cumulative spectral intensity accompanied by a displacement toward shorter peak wavelengths", "latex": "I\\uparrow, \\; \\lambda_{\\text{max}}\\downarrow"},
+      {"text": "An equivalent invariant intensity across all standard electromagnetic bandwidth horizons", "latex": "I = \\text{constant}"},
+      {"text": "Zero radiative output due to complete high-temperature ionization fields", "latex": "I = 0"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "A higher cumulative spectral intensity accompanied by a displacement toward shorter peak wavelengths",
+      "latex": "I\\uparrow, \\; \\lambda_{\\text{max}}\\downarrow"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Wien's Displacement Law",
+    "familyId": "wien_law_statement",
+    "questionText": "According to Wien's displacement law, the peak wavelength $\\lambda_m$ at which the spectral emissive power of a black body reaches its maximum intensity is inversely proportional to which thermodynamic variable?",
+    "questionLatex": "\\text{According to Wien's displacement law, the peak wavelength } \\lambda_m \\text{ at which the spectral emissive power of a black body reaches its maximum intensity is inversely proportional to which thermodynamic variable?}",
+    "options": [
+      {"text": "The absolute temperature of the black body ($T$)", "latex": "T"},
+      {"text": "The internal hydrostatic pressure configuration ($P$)", "latex": "P"},
+      {"text": "The total volumetric expansion space ($V$)", "latex": "V"},
+      {"text": "The mean molecular mass density field ($\\rho$)", "latex": "\\rho"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The absolute temperature of the black body ($T$)",
+      "latex": "T"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Wien's Displacement Law",
+    "familyId": "wien_law_formula",
+    "questionText": "Which of the following expressions correctly presents the definitive mathematical equation governing Wien's displacement law for a black body at absolute temperature $T$ with Wien's constant $b$?",
+    "questionLatex": "\\text{Which of the following expressions correctly presents the definitive mathematical equation governing Wien's displacement law for a black body at absolute temperature } T \\text{ with Wien's constant } b\\text{?}",
+    "options": [
+      {"text": "λ_m / T = b", "latex": "\\frac{\\lambda_m}{T} = b"},
+      {"text": "λ_m · T = b", "latex": "\\lambda_m T = b"},
+      {"text": "λ_m = b · T", "latex": "\\lambda_m = bT"},
+      {"text": "T / λ_m = b", "latex": "\\frac{T}{\\lambda_m} = b"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "λ_m · T = b",
+      "latex": "\\lambda_m T = b"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Thermal Radiation",
+    "familyId": "emissivity_definition",
+    "questionText": "The emissivity ($e$) of a real material surface is explicitly defined as the ratio of:",
+    "questionLatex": "\\text{The emissivity } (e) \\text{ of a real material surface is explicitly defined as the ratio of:}",
+    "options": [
+      {"text": "The radiant energy emitted by the surface to that emitted by an ideal black body at the exact same thermodynamic temperature", "latex": "\\frac{E}{E_b}"},
+      {"text": "The total absorbed electromagnetic flux to the total incident radiant power crossing the surface boundary", "latex": "\\frac{A}{I}"},
+      {"text": "The total reflected electromagnetic wave components to the total incoming incident flux intensity", "latex": "\\frac{R}{I}"},
+      {"text": "The unattenuated transmitted electromagnetic flux passing through a medium to the baseline incident flux", "latex": "\\frac{T}{I}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The radiant energy emitted by the surface to that emitted by an ideal black body at the exact same thermodynamic temperature",
+      "latex": "\\frac{E}{E_b}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Black Body Radiation",
+    "familyId": "black_body_emissivity",
+    "questionText": "In quantum and classical radiative transport physics, the non-dimensional total emissivity coefficient ($e$) of an idealized, perfectly absorbing black body is strictly equal to:",
+    "questionLatex": "\\text{In quantum and classical radiative transport physics, the non-dimensional total emissivity coefficient } (e) \\text{ of an idealized, perfectly absorbing black body is strictly equal to:}",
+    "options": [
+      {"text": "0", "latex": "0"},
+      {"text": "0.5", "latex": "0.5"},
+      {"text": "1", "latex": "1"},
+      {"text": "Infinite (∞)", "latex": "\\infty"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1",
+      "latex": "1"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Kirchhoff's Law",
+    "familyId": "absorber_emitter_relation",
+    "questionText": "According to Kirchhoff's law of thermal radiation, for any arbitrary material surface in perfect thermodynamic equilibrium, a highly efficient absorber of a specific radiant wavelength band must fundamentally act as an equally efficient:",
+    "questionLatex": "\\text{According to Kirchhoff's law of thermal radiation, for any arbitrary material surface in perfect thermodynamic equilibrium, a highly efficient absorber of a specific radiant wavelength band must fundamentally act as an equally efficient:}",
+    "options": [
+      {"text": "Specular or diffuse wave reflector", "latex": "\\text{Reflector}"},
+      {"text": "Thermal radiation emitter", "latex": "\\text{Emitter}"},
+      {"text": "Adiabatic structural insulator", "latex": "\\text{Insulator}"},
+      {"text": "Microscopic lattice heat conductor only", "latex": "\\text{Conductor}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Thermal radiation emitter",
+      "latex": "\\text{Emitter}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Greenhouse Effect",
+    "familyId": "greenhouse_effect_definition",
+    "questionText": "The macroscopic planet-warming phenomenon known as the greenhouse effect is primarily driven by which planetary atmospheric mechanism?",
+    "questionLatex": "\\text{The macroscopic planet-warming phenomenon known as the greenhouse effect is primarily driven by which planetary atmospheric mechanism?}",
+    "options": [
+      {"text": "The complete reflection of all short-wavelength incident solar spectrum waves back into space", "latex": "r = 1"},
+      {"text": "The absorption and structural trapping of long-wavelength infrared thermal radiation emitted by the planetary surface by specific polyatomic gas molecules", "latex": "\\text{IR trapping}"},
+      {"text": "A severe localized increase in short-wavelength ultraviolet radiation piercing the upper atmosphere", "latex": "\\text{UV influx}"},
+      {"text": "A rapid systemic drop in the global atmospheric hydrostatic pressure field", "latex": "P \\downarrow"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The absorption and structural trapping of long-wavelength infrared thermal radiation emitted by the planetary surface by specific polyatomic gas molecules",
+      "latex": "\\text{IR trapping}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Greenhouse Gases",
+    "familyId": "greenhouse_gas_identification",
+    "questionText": "Which of the following planetary atmospheric constituents exhibits strong rotational-vibrational absorption bands that allow it to act as a potent greenhouse gas?",
+    "questionLatex": "\\text{Which of the following planetary atmospheric constituents exhibits strong rotational-vibrational absorption bands that allow it to act as a potent greenhouse gas?}",
+    "options": [
+      {"text": "Diatomic homonuclear Nitrogen gas ($N_2$)", "latex": "\\text{N}_2"},
+      {"text": "Diatomic homonuclear Oxygen gas ($O_2$)", "latex": "\\text{O}_2"},
+      {"text": "Triatomic linear Carbon dioxide gas ($CO_2$)", "latex": "\\text{CO}_2"},
+      {"text": "Monatomic inert Helium gas ($He$)", "latex": "\\text{He}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Triatomic linear Carbon dioxide gas ($CO_2$)",
+      "latex": "\\text{CO}_2"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Newton's Law of Cooling",
+    "familyId": "newton_cooling_statement",
+    "questionText": "Under the constraints of small temperature gradients, Newton's law of cooling establishes that the instantaneous rate of heat loss ($-dQ/dt$) from a hot body is directly proportional to:",
+    "questionLatex": "\\text{Under the constraints of small temperature gradients, Newton's law of cooling establishes that the instantaneous rate of heat loss } (-\\frac{dQ}{dt}) \\text{ from a hot body is directly proportional to:}",
+    "options": [
+      {"text": "The absolute thermodynamic temperature of the object core exclusively ($T$)", "latex": "T"},
+      {"text": "The explicit temperature difference between the surface of the body and its surrounding environment ($T - T_s$)", "latex": "(T - T_s)"},
+      {"text": "The total physical rest mass of the cooled system matrix ($m$)", "latex": "m"},
+      {"text": "The intrinsic specific heat capacity constant of the material block ($c$)", "latex": "c"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The explicit temperature difference between the surface of the body and its surrounding environment ($T - T_s$)",
+      "latex": "(T - T_s)"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Applications of Radiation",
+    "familyId": "thermos_flask_application",
+    "questionText": "In the mechanical design of a commercial Dewar flask (thermos flask), the internal glass or steel walls are intentionally given highly polished, mirror-like silver coatings to dramatically suppress thermal energy exchange caused by:",
+    "questionLatex": "\\text{In the mechanical design of a commercial Dewar flask (thermos flask), the internal glass or steel walls are intentionally given highly polished, mirror-like silver coatings to dramatically suppress thermal energy exchange caused by:}",
+    "options": [
+      {"text": "Microscopic structural contact conduction pathways", "latex": "\\text{Conduction}"},
+      {"text": "Bulk fluid fluid parcel convection loop displacements", "latex": "\\text{Convection}"},
+      {"text": "Electromagnetic infrared thermal radiation fluxes", "latex": "\\text{Radiation}"},
+      {"text": "Phase boundary molecular mass evaporative cooling", "latex": "\\text{Evaporation}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Electromagnetic infrared thermal radiation fluxes",
+      "latex": "\\text{Radiation}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "topic": "Wien's Law Numerical",
+    "familyId": "wien_numerical_mcq",
+    "questionText": "The peak spectral wavelength $\\lambda_m$ corresponding to the maximum intensity of thermal radiation emitted by the Sun's photosphere is measured to be approximately $500\\text{ nm}$. Using Wien's displacement constant $b = 2.9 \\times 10^{-3}\\text{ m K}$, what is the estimated effective surface temperature of the Sun?",
+    "questionLatex": "\\text{The peak spectral wavelength } \\lambda_m \\text{ corresponding to the maximum intensity of thermal radiation emitted by the Sun's photosphere is measured to be approximately } 500\\text{ nm}.\\text{ Using Wien's displacement constant } b = 2.9 \\times 10^{-3}\\text{ m K}\\text{, what is the estimated effective surface temperature of the Sun?}",
+    "options": [
+      {"text": "1450 K", "latex": "1450\\text{ K}"},
+      {"text": "2900 K", "latex": "2900\\text{ K}"},
+      {"text": "5800 K", "latex": "5800\\text{ K}"},
+      {"text": "11600 K", "latex": "11600\\text{ K}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "5800 K",
+      "latex": "5800\\text{ K}"
+    },
+    "difficultyScore": 64,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  }
+]

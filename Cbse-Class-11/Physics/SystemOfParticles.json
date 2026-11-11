@@ -1,0 +1,1300 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "centre_of_mass_definition",
+    "questionText": "The centre of mass of a system of particles is defined as the unique point where:",
+    "questionLatex": "\\text{The centre of mass of a system of particles is defined as the unique point where:}",
+    "options": [
+      { "text": "All external forces acting on the system must physically apply", "latex": "\\text{All external forces acting on the system must physically apply}" },
+      { "text": "The entire mass of the system may be assumed to be concentrated for describing its translational motion", "latex": "\\text{The entire mass of the system may be assumed to be concentrated for describing its translational motion}" },
+      { "text": "The body is constrained to rotate under any kind of applied external torque", "latex": "\\text{The body is constrained to rotate under any kind of applied external torque}" },
+      { "text": "The instantaneous velocity vector of every individual constituent particle drops to zero", "latex": "\\text{The instantaneous velocity vector of every individual constituent particle drops to zero}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The entire mass of the system may be assumed to be concentrated for describing its translational motion",
+      "latex": "\\text{The entire mass of the system may be assumed to be concentrated for describing its translational motion}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "centre_of_mass_two_particles",
+    "questionText": "Two point particles of masses 2 kg and 3 kg are placed along the x-axis at x = 0 m and x = 5 m respectively. Find the x-coordinate of the centre of mass of this two-particle system.",
+    "questionLatex": "\\text{Two point particles of masses } 2\\text{ kg and } 3\\text{ kg are placed along the x-axis at x = 0 m and x = 5 m respectively. Find the x-coordinate of the centre of mass of this two-particle system.}",
+    "options": [
+      { "text": "2 m", "latex": "2\\text{ m}" },
+      { "text": "3 m", "latex": "3\\text{ m}" },
+      { "text": "4 m", "latex": "4\\text{ m}" },
+      { "text": "5 m", "latex": "5\\text{ m}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3 m",
+      "latex": "3\\text{ m}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rigid_body_motion",
+    "questionText": "A rigid body moving in space such that all its constituent particles possess the exact same instantaneous linear velocity vector at any given moment is said to be in:",
+    "questionLatex": "\\text{A rigid body moving in space such that all its constituent particles possess the exact same instantaneous linear velocity vector at any given moment is said to be in:}",
+    "options": [
+      { "text": "Pure rotational motion", "latex": "\\text{Pure rotational motion}" },
+      { "text": "Pure translational motion", "latex": "\\text{Pure translational motion}" },
+      { "text": "Oscillatory motion", "latex": "\\text{Oscillatory motion}" },
+      { "text": "Random brownian motion", "latex": "\\text{Random brownian motion}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Pure translational motion",
+      "latex": "\\text{Pure translational motion}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "homogeneous_body_cm",
+    "questionText": "For a rigid body possessing a completely uniform mass density, the center of mass always coincides with its geometric center. Based on this, the center of mass of a homogeneous solid sphere lies at:",
+    "questionLatex": "\\text{For a rigid body possessing a completely uniform mass density, the center of mass always coincides with its geometric center. Based on this, the center of mass of a homogeneous solid sphere lies at:}",
+    "options": [
+      { "text": "Any point on its outer spherical surface", "latex": "\\text{Any point on its outer spherical surface}" },
+      { "text": "A distance of R/2 from its geometric center", "latex": "R/2" },
+      { "text": "Its exact geometric center", "latex": "\\text{Its exact geometric center}" },
+      { "text": "Any arbitrary location chosen along its primary diameter", "latex": "\\text{Any arbitrary location chosen along its primary diameter}" }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Its exact geometric center",
+      "latex": "\\text{Its exact geometric center}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "centre_of_mass_equal_masses",
+    "questionText": "Three point objects of equal mass m are situated along a straight track at positions x = 0 m, x = 3 m, and x = 6 m. Determine the position coordinate of the centre of mass of this system.",
+    "questionLatex": "\\text{Three point objects of equal mass m are situated along a straight track at positions x = 0 m, x = 3 m, and x = 6 m. Determine the position coordinate of the centre of mass of this system.}",
+    "options": [
+      { "text": "2 m", "latex": "2\\text{ m}" },
+      { "text": "3 m", "latex": "3\\text{ m}" },
+      { "text": "4 m", "latex": "4\\text{ m}" },
+      { "text": "4.5 m", "latex": "4.5\\text{ m}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "3 m",
+      "latex": "3\\text{ m}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "motion_of_cm",
+    "questionText": "The acceleration and subsequent overall translation of the center of mass of a multi-particle system depends strictly on:",
+    "questionLatex": "\\text{The acceleration and subsequent overall translation of the center of mass of a multi-particle system depends strictly on:}",
+    "options": [
+      { "text": "The vector sum of internal forces operating between the constituent particles", "latex": "\\text{The vector sum of internal forces operating between the constituent particles}" },
+      { "text": "The vector sum of external forces applied to the system by environmental surroundings", "latex": "\\text{The vector sum of external forces applied to the system by environmental surroundings}" },
+      { "text": "Both internal conservative and external non-conservative forces acting equally", "latex": "\\text{Both internal conservative and external non-conservative forces acting equally}" },
+      { "text": "The spatial configuration of mass distribution regardless of any force interaction", "latex": "\\text{The spatial configuration of mass distribution regardless of any force interaction}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The vector sum of external forces applied to the system by environmental surroundings",
+      "latex": "\\text{The vector sum of external forces applied to the system by environmental surroundings}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "conservation_linear_momentum",
+    "questionText": "According to Newton's second law for a system of particles, the total linear momentum vector of an extended system remains perfectly conserved over time when:",
+    "questionLatex": "\\text{According to Newton's second law for a system of particles, the total linear momentum vector of an extended system remains perfectly conserved over time when:}",
+    "options": [
+      { "text": "The internal molecular interaction forces balance out to zero", "latex": "\\mathbf{F}_{internal} = 0" },
+      { "text": "The net external force vector acting on the system is exactly equal to zero", "latex": "\\mathbf{F}_{ext} = 0" },
+      { "text": "The total composite mass of the system dynamically decreases to zero", "latex": "M = 0" },
+      { "text": "The linear velocity vector of each isolated individual particle is kept constant", "latex": "\\mathbf{v}_i = \\text{constant}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The net external force vector acting on the system is exactly equal to zero",
+      "latex": "\\mathbf{F}_{ext} = 0"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "linear_momentum_cm_velocity",
+    "questionText": "An aggregate system with a total inertial mass of 10 kg moves such that its center of mass maintains a uniform velocity of 4 m/s. Compute the magnitude of the total linear momentum of this system.",
+    "questionLatex": "\\text{An aggregate system with a total inertial mass of } 10\\text{ kg moves such that its center of mass maintains a uniform velocity of } 4\\text{ m/s. Compute the magnitude of the total linear momentum of this system.}",
+    "options": [
+      { "text": "2.5 kg·m/s", "latex": "2.5\\text{ kg}\\cdot\\text{m/s}" },
+      { "text": "14 kg·m/s", "latex": "14\\text{ kg}\\cdot\\text{m/s}" },
+      { "text": "40 kg·m/s", "latex": "40\\text{ kg}\\cdot\\text{m/s}" },
+      { "text": "400 kg·m/s", "latex": "400\\text{ kg}\\cdot\\text{m/s}" }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "40 kg·m/s",
+      "latex": "40\\text{ kg}\\cdot\\text{m/s}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "vector_product_direction",
+    "questionText": "The geometric orientation and spatial direction of the resultant vector obtained from the cross product of two vectors is fundamentally determined using the:",
+    "questionLatex": "\\text{The geometric orientation and spatial direction of the resultant vector obtained from the cross product of two vectors is fundamentally determined using the:}",
+    "options": [
+      { "text": "Parallelogram law of vector addition", "latex": "\\text{Parallelogram law of vector addition}" },
+      { "text": "Right-hand screw rule (or right-hand rule)", "latex": "\\text{Right-hand screw rule}" },
+      { "text": "Triangle law of vector displacement", "latex": "\\text{Triangle law of vector displacement}" },
+      { "text": "Newton's universal law of motion rules", "latex": "\\text{Newton's universal law of motion rules}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Right-hand screw rule (or right-hand rule)",
+      "latex": "\\text{Right-hand screw rule}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "cross_product_magnitude",
+    "questionText": "The mathematical magnitude of the vector cross product of two vectors a and b making an interior angle θ with each other is given explicitly by the expression:",
+    "questionLatex": "\\text{The mathematical magnitude of the vector cross product of two vectors } \\mathbf{a} \\text{ and } \\mathbf{b} \\text{ making an interior angle } \\theta \\text{ with each other is given explicitly by the expression:}",
+    "options": [
+      { "text": "ab cos θ", "latex": "ab \\cos\\theta" },
+      { "text": "ab sin θ", "latex": "ab \\sin\\theta" },
+      { "text": "a + b", "latex": "a + b" },
+      { "text": "a - b", "latex": "a - b" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "ab sin θ",
+      "latex": "ab \\sin\\theta"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "cross_product_perpendicular_vectors_numerical",
+    "questionText": "Two spatial vectors possess individual magnitudes of 4 units and 5 units, respectively. If the two vectors are completely perpendicular to each other, determine the magnitude of their resultant vector cross product.",
+    "questionLatex": "\\text{Two spatial vectors possess individual magnitudes of } 4 \\text{ units and } 5 \\text{ units, respectively. If the two vectors are completely perpendicular to each other, determine the magnitude of their resultant vector cross product.}",
+    "options": [
+      { "text": "0 units", "latex": "0" },
+      { "text": "9 units", "latex": "9" },
+      { "text": "20 units", "latex": "20" },
+      { "text": "40 units", "latex": "40" }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "20 units",
+      "latex": "20"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "cross_product_parallel_vectors",
+    "questionText": "The mathematical magnitude of the vector cross product between two non-zero vectors that are perfectly parallel or anti-parallel to one another is always:",
+    "questionLatex": "\\text{The mathematical magnitude of the vector cross product between two non-zero vectors that are perfectly parallel or anti-parallel to one another is always:}",
+    "options": [
+      { "text": "Maximum", "latex": "\\text{Maximum}" },
+      { "text": "Equal to the scalar sum of their individual magnitudes", "latex": "A+B" },
+      { "text": "Zero", "latex": "0" },
+      { "text": "Equal to the magnitude of the larger individual vector", "latex": "A" }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Zero",
+      "latex": "0"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_velocity_definition",
+    "questionText": "In rotational kinematics, the instantaneous angular velocity vector of a rotating particle is fundamentally defined as the:",
+    "questionLatex": "\\text{In rotational kinematics, the instantaneous angular velocity vector of a rotating particle is fundamentally defined as the:}",
+    "options": [
+      { "text": "Time rate of change of its linear displacement vector", "latex": "\\frac{d\\mathbf{s}}{dt}" },
+      { "text": "Time rate of change of its angular displacement", "latex": "\\frac{d\\theta}{dt}" },
+      { "text": "Total accumulation of its instantaneous angular displacement vector", "latex": "\\theta" },
+      { "text": "Time rate of change of its linear acceleration vector", "latex": "\\frac{d\\mathbf{a}}{dt}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Time rate of change of its angular displacement",
+      "latex": "\\frac{d\\theta}{dt}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "linear_angular_velocity_relation_numerical",
+    "questionText": "A particle undergoing circular kinematics tracks along a path having a radius of 2 m with a constant angular velocity of 5 rad/s. Calculate the linear tangential speed of the particle.",
+    "questionLatex": "\\text{A particle undergoing circular kinematics tracks along a path having a radius of } 2 \\text{ m with a constant angular velocity of } 5 \\text{ rad/s. Calculate the linear tangential speed of the particle.}",
+    "options": [
+      { "text": "2.5 m/s", "latex": "2.5\\text{ m/s}" },
+      { "text": "7 m/s", "latex": "7\\text{ m/s}" },
+      { "text": "10 m/s", "latex": "10\\text{ m/s}" },
+      { "text": "20 m/s", "latex": "20\\text{ m/s}" }
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "10 m/s",
+      "latex": "10\\text{ m/s}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_velocity_vector_direction",
+    "questionText": "The actual physical direction of the pseudo-vector representing instantaneous angular velocity along a fixed axis of rotation is given by the:",
+    "questionLatex": "\\text{The actual physical direction of the pseudo-vector representing instantaneous angular velocity along a fixed axis of rotation is given by the:}",
+    "options": [
+      { "text": "Left-hand rule convention", "latex": "\\text{Left-hand rule convention}" },
+      { "text": "Right-hand rule (or right-hand screw rule)", "latex": "\\text{Right-hand screw rule}" },
+      { "text": "Triangle law of vector addition orientation", "latex": "\\text{Triangle law of vector addition orientation}" },
+      { "text": "Parallelogram law of symmetric vector translation", "latex": "\\text{Parallelogram law of symmetric vector translation}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Right-hand rule (or right-hand screw rule)",
+      "latex": "\\text{Right-hand screw rule}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_acceleration_calculation_numerical",
+    "questionText": "The angular velocity of a rotating flywheel increases uniformly from an initial value of 4 rad/s to a final value of 10 rad/s over a time duration of 3 s. Find the uniform angular acceleration of the flywheel.",
+    "questionLatex": "\\text{The angular velocity of a rotating flywheel increases uniformly from an initial value of } 4 \\text{ rad/s to a final value of } 10 \\text{ rad/s over a time duration of } 3 \\text{ s. Find the uniform angular acceleration of the flywheel.}",
+    "options": [
+      { "text": "2 rad/s²", "latex": "2\\text{ rad/s}^2" },
+      { "text": "3 rad/s²", "latex": "3\\text{ rad/s}^2" },
+      { "text": "4 rad/s²", "latex": "4\\text{ rad/s}^2" },
+      { "text": "6 rad/s²", "latex": "6\\text{ rad/s}^2" }
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "2 rad/s²",
+      "latex": "2\\text{ rad/s}^2"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "torque_definition",
+    "questionText": "The torque vector τ (moment of a force) acting on a particle relative to a specific origin point is correctly expressed in vector notation as:",
+    "questionLatex": "\\text{The torque vector } \\boldsymbol{\\tau} \\text{ (moment of a force) acting on a particle relative to a specific origin point is correctly expressed in vector notation as:}",
+    "options": [
+      { "text": "F × r", "latex": "\\mathbf{F}\\times\\mathbf{r}" },
+      { "text": "r × F", "latex": "\\mathbf{r}\\times\\mathbf{F}" },
+      { "text": "F · r", "latex": "\\mathbf{F}\\cdot\\mathbf{r}" },
+      { "text": "r + F", "latex": "\\mathbf{r}+\\mathbf{F}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "r × F",
+      "latex": "\\mathbf{r}\\times\\mathbf{F}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "torque_magnitude_numerical",
+    "questionText": "A constant linear force of magnitude 20 N is applied exactly perpendicular to the longitudinal axis of a rigid rod at a radial distance of 0.5 m measured from its fixed pivot axis. Calculate the magnitude of the torque generated.",
+    "questionLatex": "\\text{A constant linear force of magnitude } 20 \\text{ N is applied exactly perpendicular to the longitudinal axis of a rigid rod at a radial distance of } 0.5 \\text{ m measured from its fixed pivot axis. Calculate the magnitude of the torque generated.}",
+    "options": [
+      { "text": "5 N·m", "latex": "5\\text{ N}\\cdot\\text{m}" },
+      { "text": "10 N·m", "latex": "10\\text{ N}\\cdot\\text{m}" },
+      { "text": "20 N·m", "latex": "20\\text{ N}\\cdot\\text{m}" },
+      { "text": "40 N·m", "latex": "40\\text{ N}\\cdot\\text{m}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "10 N·m",
+      "latex": "10\\text{ N}\\cdot\\text{m}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "torque_zero_condition",
+    "questionText": "The rotational torque produced by a non-zero linear force vector about a designated reference point drops identically to zero when:",
+    "questionLatex": "\\text{The rotational torque produced by a non-zero linear force vector about a designated reference point drops identically to zero when:}",
+    "options": [
+      { "text": "The force vector acts perfectly perpendicular to the position vector of the particle", "latex": "\\theta=90^{\\circ}" },
+      { "text": "The line of action of the force passes through the reference origin point (along the position vector)", "latex": "\\theta=0^{\\circ}" },
+      { "text": "The magnitude of the applied force reaches its peak maximum configuration value", "latex": "F=\\text{max}" },
+      { "text": "The spatial distance between the pivot point and force application point is maximized", "latex": "r=\\text{max}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "The line of action of the force passes through the reference origin point (along the position vector)",
+      "latex": "\\theta=0^{\\circ}"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_definition",
+    "questionText": "The angular momentum vector L (moment of linear momentum) of a particle having a linear momentum vector p and position vector r relative to an origin is represented mathematically as:",
+    "questionLatex": "\\text{The angular momentum vector } \\mathbf{L} \\text{ (moment of linear momentum) of a particle having a linear momentum vector } \\mathbf{p} \\text{ and position vector } \\mathbf{r} \\text{ relative to an origin is represented mathematically as:}",
+    "options": [
+      { "text": "p × r", "latex": "\\mathbf{p}\\times\\mathbf{r}" },
+      { "text": "r × p", "latex": "\\mathbf{r}\\times\\mathbf{p}" },
+      { "text": "F × p", "latex": "\\mathbf{F}\\times\\mathbf{p}" },
+      { "text": "m · v", "latex": "m\\mathbf{v}" }
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "r × p",
+      "latex": "\\mathbf{r}\\times\\mathbf{p}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_unit",
+    "questionText": "Which of the following represents the correct standard SI unit for measuring the magnitude of the angular momentum of a rotating system?",
+    "questionLatex": "\\text{Which of the following represents the correct standard SI unit for measuring the magnitude of the angular momentum of a rotating system?}",
+    "options": [
+      {"text": "N·m", "latex": "\\text{N}\\cdot\\text{m}"},
+      {"text": "kg·m²/s", "latex": "\\text{kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "kg·m/s²", "latex": "\\text{kg}\\cdot\\text{m}\\cdot\\text{s}^{-2}"},
+      {"text": "J/s", "latex": "\\text{J}\\cdot\\text{s}^{-1}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "kg·m²/s",
+      "latex": "\\text{kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_conservation",
+    "questionText": "According to the rotational analog of Newton's second law, the total angular momentum vector of a system of particles remains perfectly constant over time if:",
+    "questionLatex": "\\text{According to the rotational analog of Newton's second law, the total angular momentum vector of a system of particles remains perfectly constant over time if:}",
+    "options": [
+      {"text": "The net external torque acting on the system about a given reference point is zero", "latex": "\\boldsymbol{\\tau}_{ext} = 0"},
+      {"text": "The net vector sum of all external linear forces acting on the system is zero", "latex": "\\mathbf{F}_{ext} = 0"},
+      {"text": "The center of mass of the system moves with a uniform linear velocity vector", "latex": "\\mathbf{v}_{CM} = \\text{constant}"},
+      {"text": "The instantaneous linear acceleration of each individual particle drops to zero", "latex": "\\mathbf{a}_i = 0"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The net external torque acting on the system about a given reference point is zero",
+      "latex": "\\boldsymbol{\\tau}_{ext} = 0"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_particle_numerical",
+    "questionText": "A point particle of mass 2 kg moves at a uniform speed of 5 m/s in a circular path of radius 4 m. Determine the magnitude of its angular momentum about the center of the circle.",
+    "questionLatex": "\\text{A point particle of mass } 2 \\text{ kg moves at a uniform speed of } 5 \\text{ m/s in a circular path of radius } 4 \\text{ m. Determine the magnitude of its angular momentum about the center of the circle.}",
+    "options": [
+      {"text": "10 kg·m²/s", "latex": "10\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "20 kg·m²/s", "latex": "20\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "40 kg·m²/s", "latex": "40\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "80 kg·m²/s", "latex": "80\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "40 kg·m²/s",
+      "latex": "40\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moment_of_inertia_definition",
+    "questionText": "The moment of inertia of a rigid body about a specific rotational axis is fundamentally dependent upon which of the following physical factors?",
+    "questionLatex": "\\text{The moment of inertia of a rigid body about a specific rotational axis is fundamentally dependent upon which of the following physical factors?}",
+    "options": [
+      {"text": "The spatial distribution of its constituent mass relative to the selected axis of rotation", "latex": "\\text{The spatial distribution of its constituent mass relative to the selected axis of rotation}"},
+      {"text": "The superficial optical color and surface texture profile of the rigid body", "latex": "\\text{The superficial optical color and surface texture profile of the rigid body}"},
+      {"text": "The thermodynamic uniform temperature configuration of the body exclusively", "latex": "\\text{The thermodynamic uniform temperature configuration of the body exclusively}"},
+      {"text": "The surrounding ambient atmospheric pressure environment acting on the body surface", "latex": "\\text{The surrounding ambient atmospheric pressure environment acting on the body surface}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "The spatial distribution of its constituent mass relative to the selected axis of rotation",
+      "latex": "\\text{The spatial distribution of its constituent mass relative to the selected axis of rotation}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moment_of_inertia_formula",
+    "questionText": "A discrete point particle of mass m is located at a perpendicular distance r away from a fixed axis of rotation. The mathematical expression for its moment of inertia I about this axis is given by:",
+    "questionLatex": "\\text{A discrete point particle of mass } m \\text{ is located at a perpendicular distance } r \\text{ away from a fixed axis of rotation. The mathematical expression for its moment of inertia } I \\text{ about this axis is given by:}",
+    "options": [
+      {"text": "mr", "latex": "mr"},
+      {"text": "mr²", "latex": "mr^2"},
+      {"text": "m/r", "latex": "\\frac{m}{r}"},
+      {"text": "m²r", "latex": "m^2r"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "mr²",
+      "latex": "mr^2"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moment_of_inertia_particle_numerical",
+    "questionText": "Calculate the moment of inertia of a single point particle possessing a mass of 3 kg that is rotating around a fixed axis situated at a constant perpendicular distance of 2 m.",
+    "questionLatex": "\\text{Calculate the moment of inertia of a single point particle possessing a mass of } 3 \\text{ kg that is rotating around a fixed axis situated at a constant perpendicular distance of } 2 \\text{ m.}",
+    "options": [
+      {"text": "6 kg·m²", "latex": "6\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "12 kg·m²", "latex": "12\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "18 kg·m²", "latex": "18\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "36 kg·m²", "latex": "36\\text{ kg}\\cdot\\text{m}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "12 kg·m²",
+      "latex": "12\\text{ kg}\\cdot\\text{m}^2"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "radius_of_gyration_definition",
+    "questionText": "The radius of gyration of an extended rigid body about a specified axis of rotation is defined as the unique distance from the axis at which the entire mass of the body could be imagined concentrated such that its total moment of inertia remains completely unaltered.",
+    "questionLatex": "\\text{The radius of gyration of an extended rigid body about a specified axis of rotation is defined as the unique distance from the axis at which the entire mass of the body could be imagined concentrated such that its total moment of inertia remains completely unaltered.}",
+    "options": [
+      {"text": "True statement", "latex": "\\text{True statement}"},
+      {"text": "False statement", "latex": "\\text{False statement}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "True statement",
+      "latex": "\\text{True statement}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "radius_of_gyration_formula",
+    "questionText": "The radius of gyration k of a rigid body is related to its total mass M and its rotational moment of inertia I about a designated axis by which of the following expressions?",
+    "questionLatex": "\\text{The radius of gyration k of a rigid body is related to its total mass M and its rotational moment of inertia I about a designated axis by which of the following expressions?}",
+    "options": [
+      {"text": "I = Mk", "latex": "I=Mk"},
+      {"text": "I = Mk²", "latex": "I=Mk^2"},
+      {"text": "I = M²k", "latex": "I=M^2k"},
+      {"text": "I = k/M", "latex": "I=\\frac{k}{M}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "I = Mk²",
+      "latex": "I=Mk^2"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "parallel_axis_theorem",
+    "questionText": "The parallel axis theorem, which describes a relationship between the moment of inertia of a rigid body about parallel axes, is also historically documented in classical mechanics as whose theorem?",
+    "questionLatex": "\\text{The parallel axis theorem, which describes a relationship between the moment of inertia of a rigid body about parallel axes, is also historically documented in classical mechanics as whose theorem?}",
+    "options": [
+      {"text": "Sir Isaac Newton's theorem", "latex": "\\text{Newton's theorem}"},
+      {"text": "Carl Friedrich Gauss's theorem", "latex": "\\text{Gauss's theorem}"},
+      {"text": "Jakob Steiner's theorem", "latex": "\\text{Steiner's theorem}"},
+      {"text": "Johannes Kepler's theorem", "latex": "\\text{Kepler's theorem}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Jakob Steiner's theorem",
+      "latex": "\\text{Steiner's theorem}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "parallel_axis_formula",
+    "questionText": "According to the parallel axis theorem, if I represents the moment of inertia about any arbitrary axis, I_CM represents the moment of inertia about a parallel axis passing through the center of mass, M is the total mass, and d is the perpendicular distance between the axes, then:",
+    "questionLatex": "\\text{According to the parallel axis theorem, if } I \\text{ represents the moment of inertia about any arbitrary axis, } I_{\\text{CM}} \\text{ represents the moment of inertia about a parallel axis passing through the center of mass, } M \\text{ is the total mass, and } d \\text{ is the perpendicular distance between the axes, then:}",
+    "options": [
+      {"text": "I = I_CM + Md²", "latex": "I=I_{\\text{CM}}+Md^2"},
+      {"text": "I = I_CM - Md²", "latex": "I=I_{\\text{CM}}-Md^2"},
+      {"text": "I = Md²", "latex": "I=Md^2"},
+      {"text": "I = I_CM/M", "latex": "I=\\frac{I_{\\text{CM}}}{M}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "I = I_CM + Md²",
+      "latex": "I=I_{\\text{CM}}+Md^2"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "perpendicular_axis_theorem",
+    "questionText": "The perpendicular axis theorem for calculating moments of inertia is strictly applicable only to which geometrical class of rigid bodies?",
+    "questionLatex": "\\text{The perpendicular axis theorem for calculating moments of inertia is strictly applicable only to which geometrical class of rigid bodies?}",
+    "options": [
+      {"text": "Arbitrary three-dimensional solid bodies", "latex": "\\text{Arbitrary three-dimensional solid bodies}"},
+      {"text": "Two-dimensional plane laminae of negligible thickness", "latex": "\\text{Two-dimensional plane laminae of negligible thickness}"},
+      {"text": "Perfectly symmetric solid or hollow spheres only", "latex": "\\text{Perfectly symmetric solid or hollow spheres only}"},
+      {"text": "Right circular solid or hollow cylinders only", "latex": "\\text{Right circular solid or hollow cylinders only}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Two-dimensional plane laminae of negligible thickness",
+      "latex": "\\text{Two-dimensional plane laminae of negligible thickness}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "perpendicular_axis_formula",
+    "questionText": "According to the perpendicular axis theorem for a plane lamina lying in the xy-plane, the moment of inertia I_z about an axis perpendicular to its plane is related to its planar moments of inertia I_x and I_y by:",
+    "questionLatex": "\\text{According to the perpendicular axis theorem for a plane lamina lying in the xy-plane, the moment of inertia } I_z \\text{ about an axis perpendicular to its plane is related to its planar moments of inertia } I_x \\text{ and } I_y \\text{ by:}",
+    "options": [
+      {"text": "I_z = I_x + I_y", "latex": "I_z = I_x + I_y"},
+      {"text": "I_z = I_x - I_y", "latex": "I_z = I_x - I_y"},
+      {"text": "I_z = I_x · I_y", "latex": "I_z = I_x I_y"},
+      {"text": "I_z = I_x / I_y", "latex": "I_z = \\frac{I_x}{I_y}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "I_z = I_x + I_y",
+      "latex": "I_z = I_x + I_y"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moi_ring_centre",
+    "questionText": "A thin uniform ring has a total mass M and radius R. The mathematical expression for its rotational moment of inertia about a central axis passing through its center and directed perpendicular to its planar face is:",
+    "questionLatex": "\\text{A thin uniform ring has a total mass } M \\text{ and radius } R\\text{. The mathematical expression for its rotational moment of inertia about a central axis passing through its center and directed perpendicular to its planar face is:}",
+    "options": [
+      {"text": "MR²", "latex": "MR^2"},
+      {"text": "MR²/2", "latex": "\\frac{1}{2}MR^2"},
+      {"text": "2MR²", "latex": "2MR^2"},
+      {"text": "MR/2", "latex": "\\frac{1}{2}MR"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "MR²",
+      "latex": "MR^2"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moi_disc_centre",
+    "questionText": "The mathematical expression for the moment of inertia of a uniform, flat, solid circular disc of mass M and radius R about a central axis running perpendicular to its planar face is:",
+    "questionLatex": "\\text{The mathematical expression for the moment of inertia of a uniform, flat, solid circular disc of mass } M \\text{ and radius } R \\text{ about a central axis running perpendicular to its planar face is:}",
+    "options": [
+      {"text": "MR²", "latex": "MR^2"},
+      {"text": "MR²/2", "latex": "\\frac{1}{2}MR^2"},
+      {"text": "MR²/4", "latex": "\\frac{1}{4}MR^2"},
+      {"text": "2MR²", "latex": "2MR^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "MR²/2",
+      "latex": "\\frac{1}{2}MR^2"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moi_rod_centre",
+    "questionText": "A uniform thin linear rod possesses a total mass M and an overall length L. Determine its rotational moment of inertia computed about an axis that passes cleanly through its midpoint and is aligned perpendicular to its length.",
+    "questionLatex": "\\text{A uniform thin linear rod possesses a total mass } M \\text{ and an overall length } L\\text{. Determine its rotational moment of inertia computed about an axis that passes cleanly through its midpoint and is aligned perpendicular to its length.}",
+    "options": [
+      {"text": "ML²/12", "latex": "\\frac{1}{12}ML^2"},
+      {"text": "ML²/3", "latex": "\\frac{1}{3}ML^2"},
+      {"text": "ML²/2", "latex": "\\frac{1}{2}ML^2"},
+      {"text": "ML²", "latex": "ML^2"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "ML²/12",
+      "latex": "\\frac{1}{12}ML^2"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "moi_particle_numerical_mcq",
+    "questionText": "A small point mass of 5 kg is situated at a fixed radial position that is exactly 3 m away from a stable axis of rotation. Compute the magnitude of the moment of inertia for this point particle.",
+    "questionLatex": "\\text{A small point mass of } 5 \\text{ kg is situated at a fixed radial position that is exactly } 3 \\text{ m away from a stable axis of rotation. Compute the magnitude of the moment of inertia for this point particle.}",
+    "options": [
+      {"text": "15 kg·m²", "latex": "15\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "45 kg·m²", "latex": "45\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "75 kg·m²", "latex": "75\\text{ kg}\\cdot\\text{m}^2"},
+      {"text": "225 kg·m²", "latex": "225\\text{ kg}\\cdot\\text{m}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "45 kg·m²",
+      "latex": "45\\text{ kg}\\cdot\\text{m}^2"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rotational_kinetic_energy_formula",
+    "questionText": "The mathematical equation expressing the total rotational kinetic energy K possessed by a rigid spinning body having a moment of inertia I and moving at an angular velocity ω is:",
+    "questionLatex": "\\text{The mathematical equation expressing the total rotational kinetic energy K possessed by a rigid spinning body having a moment of inertia } I \\text{ and moving at an angular velocity } \\omega \\text{ is:}",
+    "options": [
+      {"text": "Iω", "latex": "I\\omega"},
+      {"text": "1/2 Iω²", "latex": "\\frac{1}{2}I\\omega^2"},
+      {"text": "Iω²", "latex": "I\\omega^2"},
+      {"text": "ω / I", "latex": "\\frac{\\omega}{I}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1/2 Iω²",
+      "latex": "\\frac{1}{2}I\\omega^2"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rotational_kinetic_energy_numerical_mcq",
+    "questionText": "A balanced heavy wheel possesses a rotational moment of inertia of 4 kg·m² and spins uniformly with an angular speed of 5 rad/s. Calculate the total kinetic energy contained within its rotational motion.",
+    "questionLatex": "\\text{A balanced heavy wheel possesses a rotational moment of inertia of } 4 \\text{ kg}\\cdot\\text{m}^2 \\text{ and spins uniformly with an angular speed of } 5 \\text{ rad/s. Calculate the total kinetic energy contained within its rotational motion.}",
+    "options": [
+      {"text": "10 J", "latex": "10\\text{ J}"},
+      {"text": "20 J", "latex": "20\\text{ J}"},
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "100 J", "latex": "100\\text{ J}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "50 J",
+      "latex": "50\\text{ J}"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rolling_motion_definition",
+    "questionText": "The comprehensive planar rolling motion executed by a symmetric rigid body traveling across a surface is a combined superposition of:",
+    "questionLatex": "\\text{The comprehensive planar rolling motion executed by a symmetric rigid body traveling across a surface is a combined superposition of:}",
+    "options": [
+      {"text": "Pure linear translational motion exclusively", "latex": "\\text{Pure linear translational motion exclusively}"},
+      {"text": "Pure axial rotational motion exclusively", "latex": "\\text{Pure axial rotational motion exclusively}"},
+      {"text": "Both linear translational motion and axial rotational motion simultaneously", "latex": "\\text{Both linear translational motion and axial rotational motion simultaneously}"},
+      {"text": "Periodic oscillatory mechanical motion and axial rotational motion tracking", "latex": "\\text{Periodic oscillatory mechanical motion and axial rotational motion tracking}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Both linear translational motion and axial rotational motion simultaneously",
+      "latex": "\\text{Both linear translational motion and axial rotational motion simultaneously}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rolling_condition",
+    "questionText": "For a symmetric body of radius R executing perfect pure rolling motion without any slip across a flat surface, the required kinematical relationship linking its center of mass linear speed v to its angular velocity ω is given by:",
+    "questionLatex": "\\text{For a symmetric body of radius R executing perfect pure rolling motion without any slip across a flat surface, the required kinematical relationship linking its center of mass linear speed v to its angular velocity } \\omega \\text{ is given by:}",
+    "options": [
+      {"text": "v = Rω", "latex": "v = R\\omega"},
+      {"text": "v = ω/R", "latex": "v = \\frac{\\omega}{R}"},
+      {"text": "v = R²ω", "latex": "v = R^2\\omega"},
+      {"text": "v = ω²R", "latex": "v = \\omega^2R"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "v = Rω",
+      "latex": "v = R\\omega"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rolling_velocity_numerical_mcq",
+    "questionText": "A rigid wheel of radius 0.4 m executes pure rolling motion along a flat horizontal surface without slipping. If its angular velocity is constant at 10 rad/s, find the linear velocity of its center of mass.",
+    "questionLatex": "\\text{A rigid wheel of radius } 0.4 \\text{ m executes pure rolling motion along a flat horizontal surface without slipping. If its angular velocity is constant at } 10 \\text{ rad/s, find the linear velocity of its center of mass.}",
+    "options": [
+      {"text": "2.5 m/s", "latex": "2.5\\text{ m/s}"},
+      {"text": "4.0 m/s", "latex": "4.0\\text{ m/s}"},
+      {"text": "6.0 m/s", "latex": "6.0\\text{ m/s}"},
+      {"text": "14.0 m/s", "latex": "14.0\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4.0 m/s",
+      "latex": "4.0\\text{ m/s}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "static_equilibrium_condition",
+    "questionText": "For an extended rigid body to remain in complete mechanical static equilibrium in an inertial frame of reference, which of the following set of conditions must be satisfied?",
+    "questionLatex": "\\text{For an extended rigid body to remain in complete mechanical static equilibrium in an inertial frame of reference, which of the following set of conditions must be satisfied?}",
+    "options": [
+      {"text": "The net external vector force acting on the body must be identically zero", "latex": "\\sum \\mathbf{F} = 0"},
+      {"text": "The net external vector torque about any arbitrary reference point must be zero", "latex": "\\sum \\boldsymbol{\\tau} = 0"},
+      {"text": "Both the net external force vector and the net external torque vector must be simultaneously zero", "latex": "\\sum \\mathbf{F} = 0, \\, \\sum \\boldsymbol{\\tau} = 0"},
+      {"text": "The instantaneous linear velocity of all constituent points must equal zero regardless of accelerations", "latex": "\\mathbf{v}_i = 0"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Both the net external force vector and the net external torque vector must be simultaneously zero",
+      "latex": "\\sum \\mathbf{F} = 0, \\, \\sum \\boldsymbol{\\tau} = 0"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "equilibrium_types",
+    "questionText": "If a physical system experiences a restorative mechanical force or torque that tends to return it to its configuration of origin following a minor initial displacement, the configuration state is called:",
+    "questionLatex": "\\text{If a physical system experiences a restorative mechanical force or torque that tends to return it to its configuration of origin following a minor initial displacement, the configuration state is called:}",
+    "options": [
+      {"text": "Stable equilibrium", "latex": "\\text{Stable equilibrium}"},
+      {"text": "Unstable equilibrium", "latex": "\\text{Unstable equilibrium}"},
+      {"text": "Neutral equilibrium", "latex": "\\text{Neutral equilibrium}"},
+      {"text": "Dynamic equilibrium", "latex": "\\text{Dynamic equilibrium}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Stable equilibrium",
+      "latex": "\\text{Stable equilibrium}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "unstable_equilibrium",
+    "questionText": "When a mechanical system is in a state of unstable equilibrium, an initial small displacement triggers net forces or torques that cause the system to:",
+    "questionLatex": "\\text{When a mechanical system is in a state of unstable equilibrium, an initial small displacement triggers net forces or torques that cause the system to:}",
+    "options": [
+      {"text": "Execute bounded oscillations around its initial equilibrium position", "latex": "\\text{Execute bounded oscillations around its initial equilibrium position}"},
+      {"text": "Accelerate and move progressively farther away from its original equilibrium position", "latex": "\\text{Accelerate and move progressively farther away from its original equilibrium position}"},
+      {"text": "Remain permanently static at the new displaced coordinate configuration", "latex": "\\text{Remain permanently static at the new displaced coordinate configuration}"},
+      {"text": "Halt all active kinetic displacements instantaneously without external dissipation", "latex": "\\text{Halt all active kinetic displacements instantaneously without external dissipation}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Accelerate and move progressively farther away from its original equilibrium position",
+      "latex": "\\text{Accelerate and move progressively farther away from its original equilibrium position}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "neutral_equilibrium",
+    "questionText": "If a rigid object is slightly disturbed from its position and experiences no net restorative or disruptive forces, thereby remaining in equilibrium at its newly adopted position, the equilibrium is state is classified as:",
+    "questionLatex": "\\text{If a rigid object is slightly disturbed from its position and experiences no net restorative or disruptive forces, thereby remaining in equilibrium at its newly adopted position, the equilibrium is state is classified as:}",
+    "options": [
+      {"text": "Stable equilibrium", "latex": "\\text{Stable equilibrium}"},
+      {"text": "Unstable equilibrium", "latex": "\\text{Unstable equilibrium}"},
+      {"text": "Neutral equilibrium", "latex": "\\text{Neutral equilibrium}"},
+      {"text": "Rotational dynamic equilibrium", "latex": "\\text{Rotational dynamic equilibrium}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Neutral equilibrium",
+      "latex": "\\text{Neutral equilibrium}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "angular_momentum_disc_numerical_mcq",
+    "questionText": "A uniform flat circular disc features a rotational moment of inertia of 2 kg·m² about its central axis. If it rotates at a constant angular velocity of 6 rad/s, find the magnitude of its rotational angular momentum.",
+    "questionLatex": "\\text{A uniform flat circular disc features a rotational moment of inertia of } 2 \\text{ kg}\\cdot\\text{m}^2 \\text{ about its central axis. If it rotates at a constant angular velocity of } 6 \\text{ rad/s, find the magnitude of its rotational angular momentum.}",
+    "options": [
+      {"text": "3 kg·m²/s", "latex": "3\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "4 kg·m²/s", "latex": "4\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "8 kg·m²/s", "latex": "8\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"},
+      {"text": "12 kg·m²/s", "latex": "12\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "12 kg·m²/s",
+      "latex": "12\\text{ kg}\\cdot\\text{m}^2\\cdot\\text{s}^{-1}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "torque_angular_acceleration_numerical_mcq",
+    "questionText": "A constant external torque of 20 N·m acts on a rigid body possessing a rotational moment of inertia of 5 kg·m² about its axis of rotation. Calculate the uniform angular acceleration induced in the body.",
+    "questionLatex": "\\text{A constant external torque of } 20 \\text{ N}\\cdot\\text{m} \\text{ acts on a rigid body possessing a rotational moment of inertia of } 5 \\text{ kg}\\cdot\\text{m}^2 \\text{ about its axis of rotation. Calculate the uniform angular acceleration induced in the body.}",
+    "options": [
+      {"text": "4 rad/s²", "latex": "4\\text{ rad/s}^2"},
+      {"text": "15 rad/s²", "latex": "15\\text{ rad/s}^2"},
+      {"text": "25 rad/s²", "latex": "25\\text{ rad/s}^2"},
+      {"text": "100 rad/s²", "latex": "100\\text{ rad/s}^2"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "4 rad/s²",
+      "latex": "4\\text{ rad/s}^2"
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rotational_newtons_second_law",
+    "questionText": "Which of the following equations correctly expresses the rotational analogue of Newton's second law of motion for a rigid body with a constant moment of inertia I?",
+    "questionLatex": "\\text{Which of the following equations correctly expresses the rotational analogue of Newton's second law of motion for a rigid body with a constant moment of inertia } I?",
+    "options": [
+      {"text": "F = ma", "latex": "\\mathbf{F} = m\\mathbf{a}"},
+      {"text": "τ = Iα", "latex": "\\boldsymbol{\\tau} = I\\boldsymbol{\\alpha}"},
+      {"text": "L = Iω", "latex": "\\mathbf{L} = I\\boldsymbol{\\omega}"},
+      {"text": "K = 1/2 Iω²", "latex": "K = \\frac{1}{2}I\\omega^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "τ = Iα",
+      "latex": "\\boldsymbol{\\tau} = I\\boldsymbol{\\alpha}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rolling_kinetic_energy",
+    "questionText": "The total mechanical kinetic energy of a symmetrical rigid body executing flat planar rolling motion without slipping is fundamentally formulated as the:",
+    "questionLatex": "\\text{The total mechanical kinetic energy of a symmetrical rigid body executing flat planar rolling motion without slipping is fundamentally formulated as the:}",
+    "options": [
+      {"text": "Translational kinetic energy of its center of mass exclusively", "latex": "K_{\\text{trans}}"},
+      {"text": "Rotational kinetic energy measured relative to its moving center of mass exclusively", "latex": "K_{\\text{rot}}"},
+      {"text": "Scalar sum of its translational kinetic energy of center of mass and its rotational kinetic energy about center of mass", "latex": "K_{\\text{trans}} + K_{\\text{rot}}"},
+      {"text": "Difference between its translational kinetic energy and its rotational kinetic energy", "latex": "K_{\\text{trans}} - K_{\\text{rot}}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Scalar sum of its translational kinetic energy of center of mass and its rotational kinetic energy about center of mass",
+      "latex": "K_{\\text{trans}} + K_{\\text{rot}}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Systems of Particles and Rotational Motion",
+    "questionType": "MCQ",
+    "familyId": "rolling_kinetic_energy_numerical_mcq",
+    "questionText": "A rigid symmetric cylinder rolling across a floor possesses a translational kinetic energy of 40 J and a rotational kinetic energy of 10 J about its center of mass. Calculate the overall total kinetic energy of the rolling cylinder.",
+    "questionLatex": "\\text{A rigid symmetric cylinder rolling across a floor possesses a translational kinetic energy of } 40 \\text{ J and a rotational kinetic energy of } 10 \\text{ J about its center of mass. Calculate the overall total kinetic energy of the rolling cylinder.}",
+    "options": [
+      {"text": "30 J", "latex": "30\\text{ J}"},
+      {"text": "40 J", "latex": "40\\text{ J}"},
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "400 J", "latex": "400\\text{ J}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "50 J",
+      "latex": "50\\text{ J}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]   
