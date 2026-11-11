@@ -1,0 +1,1042 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Introduction",
+    "familyId": "motion_definition",
+    "questionText": "What is meant by motion?",
+    "questionLatex": "\\text{What is meant by motion?}",
+    "options": [
+      {"text": "Change in mass with time", "latex": "\\text{Change in mass with time}"},
+      {"text": "Change in position with time", "latex": "\\text{Change in position with time}"},
+      {"text": "Change in speed only", "latex": "\\text{Change in speed only}"},
+      {"text": "Change in force with time", "latex": "\\text{Change in force with time}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Change in position with time",
+      "latex": "\\text{Change in position with time}"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Point Object",
+    "familyId": "point_object",
+    "questionText": "When can an object be treated as a point object?",
+    "questionLatex": "\\text{When can an object be treated as a point object?}",
+    "options": [
+      {"text": "When its mass is negligible", "latex": "\\text{When its mass is negligible}"},
+      {"text": "When its size is much smaller than the distance travelled", "latex": "\\text{When its size is much smaller than the distance travelled}"},
+      {"text": "When its velocity is constant", "latex": "\\text{When its velocity is constant}"},
+      {"text": "When its acceleration is zero", "latex": "\\text{When its acceleration is zero}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "When its size is much smaller than the distance travelled",
+      "latex": "\\text{When its size is much smaller than the distance travelled}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Velocity",
+    "familyId": "velocity_formula",
+    "questionText": "Write the expression for instantaneous velocity.",
+    "questionLatex": "\\text{Write the expression for instantaneous velocity.}",
+    "options": [
+      {"text": "v = dx/dt", "latex": "v=\\frac{dx}{dt}"},
+      {"text": "v = dv/dt", "latex": "v=\\frac{dv}{dt}"},
+      {"text": "v = x/t²", "latex": "v=\\frac{x}{t^2}"},
+      {"text": "v = at", "latex": "v=at"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "v = dx/dt",
+      "latex": "v=\\frac{dx}{dt}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Velocity",
+    "familyId": "instantaneous_velocity",
+    "questionText": "The position of a particle is x = 4t². Find its velocity at t = 3 s.",
+    "questionLatex": "\\text{The position of a particle is given by }x=4t^2\\text{. Find its velocity at }t=3\\text{ s.}",
+    "options": [
+      {"text": "24 m/s", "latex": "24\\text{ m/s}"},
+      {"text": "12 m/s", "latex": "12\\text{ m/s}"},
+      {"text": "8 m/s", "latex": "8\\text{ m/s}"},
+      {"text": "18 m/s", "latex": "18\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "24 m/s",
+      "latex": "24\\text{ m/s}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Speed",
+    "familyId": "speed_definition",
+    "questionText": "Instantaneous speed is equal to the:",
+    "questionLatex": "\\text{Instantaneous speed is equal to the:}",
+    "options": [
+      {"text": "Magnitude of acceleration", "latex": "\\text{Magnitude of acceleration}"},
+      {"text": "Magnitude of velocity", "latex": "\\text{Magnitude of velocity}"},
+      {"text": "Displacement divided by time", "latex": "\\text{Displacement divided by time}"},
+      {"text": "Rate of change of velocity", "latex": "\\text{Rate of change of velocity}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Magnitude of velocity",
+      "latex": "\\text{Magnitude of velocity}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "familyId": "acceleration_definition",
+    "questionText": "Average acceleration is defined as:",
+    "questionLatex": "\\text{Average acceleration is defined as:}",
+    "options": [
+      {"text": "Δx/Δt", "latex": "\\frac{\\Delta x}{\\Delta t}"},
+      {"text": "Δv/Δt", "latex": "\\frac{\\Delta v}{\\Delta t}"},
+      {"text": "dx/dt", "latex": "\\frac{dx}{dt}"},
+      {"text": "dv/dx", "latex": "\\frac{dv}{dx}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Δv/Δt",
+      "latex": "\\frac{\\Delta v}{\\Delta t}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "familyId": "acceleration_calculation",
+    "questionText": "A car's velocity changes from 10 m/s to 30 m/s in 5 s. Find its acceleration.",
+    "questionLatex": "\\text{A car's velocity changes from }10\\text{ m/s to }30\\text{ m/s in }5\\text{ s. Find its acceleration.}",
+    "options": [
+      {"text": "2 m/s²", "latex": "2\\text{ m/s}^2"},
+      {"text": "4 m/s²", "latex": "4\\text{ m/s}^2"},
+      {"text": "6 m/s²", "latex": "6\\text{ m/s}^2"},
+      {"text": "8 m/s²", "latex": "8\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4 m/s²",
+      "latex": "4\\text{ m/s}^2"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "position_time_graph_slope",
+    "questionText": "The slope of a position-time graph represents:",
+    "questionLatex": "\\text{The slope of a position-time graph represents:}",
+    "options": [
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Displacement", "latex": "\\text{Displacement}"},
+      {"text": "Momentum", "latex": "\\text{Momentum}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Velocity",
+      "latex": "\\text{Velocity}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "velocity_time_graph_area",
+    "questionText": "The area under a velocity-time graph represents:",
+    "questionLatex": "\\text{The area under a velocity-time graph represents:}",
+    "options": [
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Displacement", "latex": "\\text{Displacement}"},
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Speed", "latex": "\\text{Speed}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Displacement",
+      "latex": "\\text{Displacement}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematics",
+    "familyId": "kinematic_equation",
+    "questionText": "Which of the following represents the first equation of motion for constant acceleration?",
+    "questionLatex": "\\text{Which of the following represents the first equation of motion for constant acceleration?}",
+    "options": [
+      {"text": "v = u + at", "latex": "v=u+at"},
+      {"text": "v² = u² + 2as", "latex": "v^2=u^2+2as"},
+      {"text": "s = ut", "latex": "s=ut"},
+      {"text": "a = v/t²", "latex": "a=\\frac{v}{t^2}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "v = u + at",
+      "latex": "v=u+at"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Displacement",
+    "familyId": "distance_displacement",
+    "questionText": "A particle moves 5 m east and then 12 m west. Find its displacement.",
+    "questionLatex": "\\text{A particle moves }5\\text{ m east and then }12\\text{ m west. Find its displacement.}",
+    "options": [
+      {"text": "7 m east", "latex": "7\\text{ m east}"},
+      {"text": "7 m west", "latex": "7\\text{ m west}"},
+      {"text": "17 m west", "latex": "17\\text{ m west}"},
+      {"text": "17 m east", "latex": "17\\text{ m east}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "7 m west",
+      "latex": "7\\text{ m west}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Displacement",
+    "familyId": "distance_displacement",
+    "questionText": "A particle moves 5 m east and then 12 m west. Find the total distance travelled.",
+    "questionLatex": "\\text{A particle moves }5\\text{ m east and then }12\\text{ m west. Find the total distance travelled.}",
+    "options": [
+      {"text": "7 m", "latex": "7\\text{ m}"},
+      {"text": "12 m", "latex": "12\\text{ m}"},
+      {"text": "17 m", "latex": "17\\text{ m}"},
+      {"text": "5 m", "latex": "5\\text{ m}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "17 m",
+      "latex": "17\\text{ m}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Velocity",
+    "familyId": "average_velocity",
+    "questionText": "A particle covers a displacement of 100 m in 20 s. Find its average velocity.",
+    "questionLatex": "\\text{A particle covers a displacement of }100\\text{ m in }20\\text{ s. Find its average velocity.}",
+    "options": [
+      {"text": "2 m/s", "latex": "2\\text{ m/s}"},
+      {"text": "4 m/s", "latex": "4\\text{ m/s}"},
+      {"text": "5 m/s", "latex": "5\\text{ m/s}"},
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "5 m/s",
+      "latex": "5\\text{ m/s}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "familyId": "uniform_acceleration",
+    "questionText": "A body starts from rest and acquires a velocity of 20 m/s in 10 s. Find its acceleration.",
+    "questionLatex": "\\text{A body starts from rest and acquires a velocity of }20\\text{ m/s in }10\\text{ s. Find its acceleration.}",
+    "options": [
+      {"text": "1 m/s²", "latex": "1\\text{ m/s}^2"},
+      {"text": "2 m/s²", "latex": "2\\text{ m/s}^2"},
+      {"text": "4 m/s²", "latex": "4\\text{ m/s}^2"},
+      {"text": "5 m/s²", "latex": "5\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 m/s²",
+      "latex": "2\\text{ m/s}^2"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Acceleration",
+    "familyId": "retardation",
+    "questionText": "Negative acceleration is called:",
+    "questionLatex": "\\text{Negative acceleration is called:}",
+    "options": [
+      {"text": "Uniform acceleration", "latex": "\\text{Uniform acceleration}"},
+      {"text": "Retardation", "latex": "\\text{Retardation}"},
+      {"text": "Speed", "latex": "\\text{Speed}"},
+      {"text": "Displacement", "latex": "\\text{Displacement}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Retardation",
+      "latex": "\\text{Retardation}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "velocity_time_graph_slope",
+    "questionText": "The slope of a velocity-time graph represents:",
+    "questionLatex": "\\text{The slope of a velocity-time graph represents:}",
+    "options": [
+      {"text": "Velocity", "latex": "\\text{Velocity}"},
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Distance", "latex": "\\text{Distance}"},
+      {"text": "Speed", "latex": "\\text{Speed}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Acceleration",
+      "latex": "\\text{Acceleration}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "first_equation",
+    "questionText": "A body starts with an initial velocity of 10 m/s and moves with an acceleration of 2 m/s². Find its velocity after 5 s.",
+    "questionLatex": "\\text{A body starts with an initial velocity of }10\\text{ m/s and moves with an acceleration of }2\\text{ m/s}^2\\text{. Find its velocity after }5\\text{ s.}",
+    "options": [
+      {"text": "15 m/s", "latex": "15\\text{ m/s}"},
+      {"text": "20 m/s", "latex": "20\\text{ m/s}"},
+      {"text": "25 m/s", "latex": "25\\text{ m/s}"},
+      {"text": "30 m/s", "latex": "30\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "20 m/s",
+      "latex": "20\\text{ m/s}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "second_equation",
+    "questionText": "A particle starts from rest and moves with an acceleration of 2 m/s² for 4 s. Find its displacement.",
+    "questionLatex": "\\text{A particle starts from rest and moves with an acceleration of }2\\text{ m/s}^2\\text{ for }4\\text{ s. Find its displacement.}",
+    "options": [
+      {"text": "8 m", "latex": "8\\text{ m}"},
+      {"text": "12 m", "latex": "12\\text{ m}"},
+      {"text": "16 m", "latex": "16\\text{ m}"},
+      {"text": "20 m", "latex": "20\\text{ m}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "16 m",
+      "latex": "16\\text{ m}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "third_equation",
+    "questionText": "A particle starts from rest with an acceleration of 4 m/s² and covers a displacement of 8 m. Find its final velocity.",
+    "questionLatex": "\\text{A particle starts from rest with an acceleration of }4\\text{ m/s}^2\\text{ and covers a displacement of }8\\text{ m. Find its final velocity.}",
+    "options": [
+      {"text": "4 m/s", "latex": "4\\text{ m/s}"},
+      {"text": "6 m/s", "latex": "6\\text{ m/s}"},
+      {"text": "8 m/s", "latex": "8\\text{ m/s}"},
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "8 m/s",
+      "latex": "8\\text{ m/s}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Free Fall",
+    "familyId": "free_fall",
+    "questionText": "For a freely falling body near Earth's surface, acceleration due to gravity is approximately:",
+    "questionLatex": "\\text{For a freely falling body near Earth's surface, acceleration due to gravity is approximately:}",
+    "options": [
+      {"text": "8.9 m/s²", "latex": "8.9\\text{ m/s}^2"},
+      {"text": "9.8 m/s²", "latex": "9.8\\text{ m/s}^2"},
+      {"text": "10.8 m/s²", "latex": "10.8\\text{ m/s}^2"},
+      {"text": "11.8 m/s²", "latex": "11.8\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "9.8 m/s²",
+      "latex": "9.8\\text{ m/s}^2"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Free Fall",
+    "familyId": "free_fall_velocity",
+    "questionText": "A body is dropped from rest. Find its velocity after 2 s taking g = 9.8 m/s².",
+    "questionLatex": "\\text{A body is dropped from rest. Find its velocity after }2\\text{ s taking }g = 9.8\\text{ m/s}^2.",
+    "options": [
+      {"text": "9.8 m/s", "latex": "9.8\\text{ m/s}"},
+      {"text": "19.6 m/s", "latex": "19.6\\text{ m/s}"},
+      {"text": "29.4 m/s", "latex": "29.4\\text{ m/s}"},
+      {"text": "39.2 m/s", "latex": "39.2\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "19.6 m/s",
+      "latex": "19.6\\text{ m/s}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Free Fall",
+    "familyId": "free_fall_displacement",
+    "questionText": "A body is dropped from rest. Find its displacement after 2 s taking g = 9.8 m/s².",
+    "questionLatex": "\\text{A body is dropped from rest. Find its displacement after }2\\text{ s taking }g = 9.8\\text{ m/s}^2.",
+    "options": [
+      {"text": "9.8 m", "latex": "9.8\\text{ m}"},
+      {"text": "19.6 m", "latex": "19.6\\text{ m}"},
+      {"text": "29.4 m", "latex": "29.4\\text{ m}"},
+      {"text": "39.2 m", "latex": "39.2\\text{ m}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "19.6 m",
+      "latex": "19.6\\text{ m}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "third_equation",
+    "questionText": "A car moving with a velocity of 5 m/s accelerates uniformly at 3 m/s² over a displacement of 20 m. Find its final velocity.",
+    "questionLatex": "\\text{A car moving with a velocity of }5\\text{ m/s accelerates uniformly at }3\\text{ m/s}^2\\text{ over a displacement of }20\\text{ m. Find its final velocity.}",
+    "options": [
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"},
+      {"text": "11.2 m/s", "latex": "11.2\\text{ m/s}"},
+      {"text": "12 m/s", "latex": "12\\text{ m/s}"},
+      {"text": "13 m/s", "latex": "13\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "13 m/s",
+      "latex": "13\\text{ m/s}"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "position_time_graph_horizontal",
+    "questionText": "For a horizontal position-time graph, the particle is:",
+    "questionLatex": "\\text{For a horizontal position-time graph, the particle is:}",
+    "options": [
+      {"text": "Accelerating", "latex": "\\text{Accelerating}"},
+      {"text": "At rest", "latex": "\\text{At rest}"},
+      {"text": "Moving with constant velocity", "latex": "\\text{Moving with constant velocity}"},
+      {"text": "Moving with variable acceleration", "latex": "\\text{Moving with variable acceleration}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "At rest",
+      "latex": "\\text{At rest}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "velocity_time_graph_horizontal",
+    "questionText": "For a horizontal velocity-time graph, the acceleration is:",
+    "questionLatex": "\\text{For a horizontal velocity-time graph, the acceleration is:}",
+    "options": [
+      {"text": "Zero", "latex": "\\text{Zero}"},
+      {"text": "Constant positive", "latex": "\\text{Constant positive}"},
+      {"text": "Constant negative", "latex": "\\text{Constant negative}"},
+      {"text": "Infinite", "latex": "\\text{Infinite}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Zero",
+      "latex": "\\text{Zero}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "velocity_time_graph_positive_slope",
+    "questionText": "A positive slope in a velocity-time graph indicates:",
+    "questionLatex": "\\text{A positive slope in a velocity-time graph indicates:}",
+    "options": [
+      {"text": "Retardation", "latex": "\\text{Retardation}"},
+      {"text": "Positive acceleration", "latex": "\\text{Positive acceleration}"},
+      {"text": "Zero acceleration", "latex": "\\text{Zero acceleration}"},
+      {"text": "Constant displacement", "latex": "\\text{Constant displacement}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Positive acceleration",
+      "latex": "\\text{Positive acceleration}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Average Speed",
+    "familyId": "average_speed",
+    "questionText": "A car travels 60 km at 30 km/h and another 60 km at 60 km/h. Find its average speed.",
+    "questionLatex": "\\text{A car travels }60\\text{ km at }30\\text{ km/h and another }60\\text{ km at }60\\text{ km/h. Find its average speed.}",
+    "options": [
+      {"text": "40 km/h", "latex": "40\\text{ km/h}"},
+      {"text": "45 km/h", "latex": "45\\text{ km/h}"},
+      {"text": "50 km/h", "latex": "50\\text{ km/h}"},
+      {"text": "60 km/h", "latex": "60\\text{ km/h}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "40 km/h",
+      "latex": "40\\text{ km/h}"
+    },
+    "difficultyScore": 58,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "second_equation",
+    "questionText": "A body moving with an initial velocity of 4 m/s accelerates at 2 m/s² for 6 s. Find its displacement.",
+    "questionLatex": "\\text{A body moving with an initial velocity of }4\\text{ m/s accelerates at }2\\text{ m/s}^2\\text{ for }6\\text{ s. Find its displacement.}",
+    "options": [
+      {"text": "48 m", "latex": "48\\text{ m}"},
+      {"text": "60 m", "latex": "60\\text{ m}"},
+      {"text": "72 m", "latex": "72\\text{ m}"},
+      {"text": "84 m", "latex": "84\\text{ m}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "60 m",
+      "latex": "60\\text{ m}"
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Retardation",
+    "familyId": "deceleration",
+    "questionText": "A car moving at 20 m/s comes to rest in 5 s. Find its retardation.",
+    "questionLatex": "\\text{A car moving at }20\\text{ m/s comes to rest in }5\\text{ s. Find its retardation.}",
+    "options": [
+      {"text": "2 m/s²", "latex": "2\\text{ m/s}^2"},
+      {"text": "4 m/s²", "latex": "4\\text{ m/s}^2"},
+      {"text": "5 m/s²", "latex": "5\\text{ m/s}^2"},
+      {"text": "8 m/s²", "latex": "8\\text{ m/s}^2"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4 m/s²",
+      "latex": "4\\text{ m/s}^2"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "acceleration_time_graph_area",
+    "questionText": "The area under an acceleration-time graph gives the:",
+    "questionLatex": "\\text{The area under an acceleration-time graph gives the:}",
+    "options": [
+      {"text": "Displacement", "latex": "\\text{Displacement}"},
+      {"text": "Change in velocity", "latex": "\\text{Change in velocity}"},
+      {"text": "Acceleration", "latex": "\\text{Acceleration}"},
+      {"text": "Distance", "latex": "\\text{Distance}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Change in velocity",
+      "latex": "\\text{Change in velocity}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Relative Motion",
+    "familyId": "relative_velocity_same_direction",
+    "questionText": "Two cars move in the same direction with velocities 20 m/s and 15 m/s. Find the relative velocity of the first car with respect to the second.",
+    "questionLatex": "\\text{Two cars move in the same direction with velocities }20\\text{ m/s and }15\\text{ m/s. Find the relative velocity of the first car with respect to the second.}",
+    "options": [
+      {"text": "5 m/s", "latex": "5\\text{ m/s}"},
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"},
+      {"text": "15 m/s", "latex": "15\\text{ m/s}"},
+      {"text": "35 m/s", "latex": "35\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "5 m/s",
+      "latex": "5\\text{ m/s}"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Relative Motion",
+    "familyId": "relative_velocity_opposite_direction",
+    "questionText": "Two cars move in opposite directions with velocities 20 m/s and 15 m/s. Find the magnitude of their relative velocity.",
+    "questionLatex": "\\text{Two cars move in opposite directions with velocities }20\\text{ m/s and }15\\text{ m/s. Find the magnitude of their relative velocity.}",
+    "options": [
+      {"text": "5 m/s", "latex": "5\\text{ m/s}"},
+      {"text": "15 m/s", "latex": "15\\text{ m/s}"},
+      {"text": "35 m/s", "latex": "35\\text{ m/s}"},
+      {"text": "40 m/s", "latex": "40\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "35 m/s",
+      "latex": "35\\text{ m/s}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "first_equation",
+    "questionText": "A train moving with an initial velocity of 15 m/s accelerates uniformly at 3 m/s² for 4 s. Find its final velocity.",
+    "questionLatex": "\\text{A train moving with an initial velocity of }15\\text{ m/s accelerates uniformly at }3\\text{ m/s}^2\\text{ for }4\\text{ s. Find its final velocity.}",
+    "options": [
+      {"text": "24 m/s", "latex": "24\\text{ m/s}"},
+      {"text": "27 m/s", "latex": "27\\text{ m/s}"},
+      {"text": "30 m/s", "latex": "30\\text{ m/s}"},
+      {"text": "32 m/s", "latex": "32\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "27 m/s",
+      "latex": "27\\text{ m/s}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Kinematic Equations",
+    "familyId": "third_equation",
+    "questionText": "A body moving with an initial velocity of 6 m/s accelerates at 2 m/s² through a displacement of 16 m. Find its final velocity.",
+    "questionLatex": "\\text{A body moving with an initial velocity of }6\\text{ m/s accelerates at }2\\text{ m/s}^2\\text{ through a displacement of }16\\text{ m. Find its final velocity.}",
+    "options": [
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"},
+      {"text": "12 m/s", "latex": "12\\text{ m/s}"},
+      {"text": "14 m/s", "latex": "14\\text{ m/s}"},
+      {"text": "16 m/s", "latex": "16\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "10 m/s",
+      "latex": "10\\text{ m/s}"
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Free Fall",
+    "familyId": "upward_motion_time",
+    "questionText": "A ball is thrown vertically upward with a velocity of 19.6 m/s. Find the time taken to reach the maximum height taking g = 9.8 m/s².",
+    "questionLatex": "\\text{A ball is thrown vertically upward with a velocity of }19.6\\text{ m/s. Find the time taken to reach the maximum height taking }g = 9.8\\text{ m/s}^2.",
+    "options": [
+      {"text": "1 s", "latex": "1\\text{ s}"},
+      {"text": "2 s", "latex": "2\\text{ s}"},
+      {"text": "3 s", "latex": "3\\text{ s}"},
+      {"text": "4 s", "latex": "4\\text{ s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "2 s",
+      "latex": "2\\text{ s}"
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Free Fall",
+    "familyId": "upward_motion_height",
+    "questionText": "A ball is projected vertically upward with a speed of 19.6 m/s. Find the maximum height attained taking g = 9.8 m/s².",
+    "questionLatex": "\\text{A ball is projected vertically upward with a speed of }19.6\\text{ m/s. Find the maximum height attained taking }g = 9.8\\text{ m/s}^2.",
+    "options": [
+      {"text": "9.8 m", "latex": "9.8\\text{ m}"},
+      {"text": "14.7 m", "latex": "14.7\\text{ m}"},
+      {"text": "19.6 m", "latex": "19.6\\text{ m}"},
+      {"text": "24.5 m", "latex": "24.5\\text{ m}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "19.6 m",
+      "latex": "19.6\\text{ m}"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "position_time_graph_increasing_slope",
+    "questionText": "If the slope of a position-time graph increases continuously with time, the motion is:",
+    "questionLatex": "\\text{If the slope of a position-time graph increases continuously with time, the motion is:}",
+    "options": [
+      {"text": "Uniform motion", "latex": "\\text{Uniform motion}"},
+      {"text": "Accelerated motion", "latex": "\\text{Accelerated motion}"},
+      {"text": "Retarded motion", "latex": "\\text{Retarded motion}"},
+      {"text": "Particle at rest", "latex": "\\text{Particle at rest}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Accelerated motion",
+      "latex": "\\text{Accelerated motion}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Average Velocity",
+    "familyId": "average_velocity_rectilinear",
+    "questionText": "A particle moves 30 m east and then another 40 m east in a total time of 10 s. Find its average velocity.",
+    "questionLatex": "\\text{A particle moves }30\\text{ m east and then another }40\\text{ m east in a total time of }10\\text{ s. Find its average velocity.}",
+    "options": [
+      {"text": "5 m/s", "latex": "5\\text{ m/s}"},
+      {"text": "6 m/s", "latex": "6\\text{ m/s}"},
+      {"text": "7 m/s", "latex": "7\\text{ m/s}"},
+      {"text": "8 m/s", "latex": "8\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "7 m/s",
+      "latex": "7\\text{ m/s}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Average Speed",
+    "familyId": "average_speed_segments",
+    "questionText": "A particle covers 100 m in the first 10 s and 200 m in the next 20 s. Find its average speed.",
+    "questionLatex": "\\text{A particle covers }100\\text{ m in the first }10\\text{ s and }200\\text{ m in the next }20\\text{ s. Find its average speed.}",
+    "options": [
+      {"text": "5 m/s", "latex": "5\\text{ m/s}"},
+      {"text": "10 m/s", "latex": "10\\text{ m/s}"},
+      {"text": "15 m/s", "latex": "15\\text{ m/s}"},
+      {"text": "20 m/s", "latex": "20\\text{ m/s}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "10 m/s",
+      "latex": "10\\text{ m/s}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Motion in a Straight Line",
+    "topic": "Graphs",
+    "familyId": "velocity_time_graph_straight_slope",
+    "questionText": "A straight line velocity-time graph with a positive slope indicates:",
+    "questionLatex": "\\text{A straight line velocity-time graph with a positive slope indicates:}",
+    "options": [
+      {"text": "Constant velocity", "latex": "\\text{Constant velocity}"},
+      {"text": "Uniform acceleration", "latex": "\\text{Uniform acceleration}"},
+      {"text": "Retardation", "latex": "\\text{Retardation}"},
+      {"text": "Zero acceleration", "latex": "\\text{Zero acceleration}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Uniform acceleration",
+      "latex": "\\text{Uniform acceleration}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

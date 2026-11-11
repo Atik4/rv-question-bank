@@ -1,0 +1,1042 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "work_definition_formula",
+    "questionText": "The work done by a constant force is defined mathematically as the scalar product of the force vector and the displacement vector. Which expression correctly represents the work done $W$ when the force $F$ acts at an angle $\\theta$ to the displacement $d$?",
+    "questionLatex": "\\text{The work done by a constant force is defined mathematically as the scalar product of the force vector and the displacement vector. Which expression correctly represents the work done } W \\text{ when the force } F \\text{ acts at an angle } \\theta \\text{ to the displacement } d\\text{?}",
+    "options": [
+      {"text": "W = Fd sin θ", "latex": "W = Fd \\sin\\theta"},
+      {"text": "W = Fd cos θ", "latex": "W = Fd \\cos\\theta"},
+      {"text": "W = F / d", "latex": "W = \\frac{F}{d}"},
+      {"text": "W = F + d", "latex": "W = F + d"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "W = Fd cos θ",
+      "latex": "W = Fd \\cos\\theta"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "zero_work_condition",
+    "questionText": "The work done by a non-zero force on a moving body becomes completely zero when the force vector and the displacement vector are oriented:",
+    "questionLatex": "\\text{The work done by a non-zero force on a moving body becomes completely zero when the force vector and the displacement vector are oriented:}",
+    "options": [
+      {"text": "Parallel to each other", "latex": "\\text{Parallel to each other}"},
+      {"text": "Perpendicular to each other", "latex": "\\text{Perpendicular to each other}"},
+      {"text": "Antiparallel (opposite) to each other", "latex": "\\text{Antiparallel (opposite) to each other}"},
+      {"text": "Equal in magnitude", "latex": "\\text{Equal in magnitude}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Perpendicular to each other",
+      "latex": "\\text{Perpendicular to each other}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Kinetic Energy",
+    "familyId": "kinetic_energy_expression",
+    "questionText": "Identify the correct mathematical expression for the translational kinetic energy of a particle of mass m moving with a linear velocity v.",
+    "questionLatex": "\\text{Identify the correct mathematical expression for the translational kinetic energy of a particle of mass } m \\text{ moving with a linear velocity } v\\text{.}",
+    "options": [
+      {"text": "mv", "latex": "mv"},
+      {"text": "mgh", "latex": "mgh"},
+      {"text": "1/2 mv²", "latex": "\\frac{1}{2}mv^2"},
+      {"text": "ma", "latex": "ma"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "1/2 mv²",
+      "latex": "\\frac{1}{2}mv^2"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work Energy Theorem",
+    "familyId": "work_energy_theorem_statement",
+    "questionText": "The work-energy theorem for a particle states that the total work done by all the forces acting on it is equal to the:",
+    "questionLatex": "\\text{The work-energy theorem for a particle states that the total work done by all the forces acting on it is equal to the:}",
+    "options": [
+      {"text": "Total change in its linear momentum", "latex": "\\text{Total change in its linear momentum}"},
+      {"text": "Total change in its kinetic energy", "latex": "\\text{Total change in its kinetic energy}"},
+      {"text": "Product of the net force and total mechanical energy", "latex": "\\text{Product of the net force and total mechanical energy}"},
+      {"text": "Rate of change of power delivered to the system", "latex": "\\text{Rate of change of power delivered to the system}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Total change in its kinetic energy",
+      "latex": "\\text{Total change in its kinetic energy}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Potential Energy",
+    "familyId": "gravitational_pe_numerical",
+    "questionText": "A body of mass 5 kg is raised vertically upward through a displacement height of 4 m near the surface of the Earth. Calculate the increase in its gravitational potential energy. (Take g = 10 m/s²)",
+    "questionLatex": "\\text{A body of mass } 5 \\text{ kg is raised vertically upward through a displacement height of } 4 \\text{ m near the surface of the Earth. Calculate the increase in its gravitational potential energy. (Take } g = 10 \\text{ m/s}^2\\text{)}",
+    "options": [
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "200 J", "latex": "200\\text{ J}"},
+      {"text": "150 J", "latex": "150\\text{ J}"},
+      {"text": "250 J", "latex": "250\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "200 J",
+      "latex": "200\\text{ J}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "power_definition_statement",
+    "questionText": "In physics, average power is fundamentally defined as the:",
+    "questionLatex": "\\text{In physics, average power is fundamentally defined as the:}",
+    "options": [
+      {"text": "Total work done per unit displacement of the object", "latex": "\\text{Total work done per unit displacement of the object}"},
+      {"text": "Total work done per unit time interval", "latex": "\\text{Total work done per unit time interval}"},
+      {"text": "Net external force applied per unit contact area", "latex": "\\text{Net external force applied per unit contact area}"},
+      {"text": "Product of the total mechanical energy and time elapsed", "latex": "\\text{Product of the total mechanical energy and time elapsed}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Total work done per unit time interval",
+      "latex": "\\text{Total work done per unit time interval}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "power_numerical_calculation",
+    "questionText": "An industrial machine performs 4000 J of work uniformly over a time interval of 20 s. Determine the average power output delivered by the machine.",
+    "questionLatex": "\\text{An industrial machine performs } 4000 \\text{ J of work uniformly over a time interval of } 20 \\text{ s. Determine the average power output delivered by the machine.}",
+    "options": [
+      {"text": "100 W", "latex": "100\\text{ W}"},
+      {"text": "150 W", "latex": "150\\text{ W}"},
+      {"text": "200 W", "latex": "200\\text{ W}"},
+      {"text": "250 W", "latex": "250\\text{ W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "200 W",
+      "latex": "200\\text{ W}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservation of Mechanical Energy",
+    "familyId": "mechanical_energy_definition",
+    "questionText": "The total mechanical energy of an isolated system is defined explicitly as the sum of its:",
+    "questionLatex": "\\text{The total mechanical energy of an isolated system is defined explicitly as the sum of its:}",
+    "options": [
+      {"text": "Potential energy and thermal energy components", "latex": "\\text{Potential energy and thermal energy components}"},
+      {"text": "Kinetic energy and potential energy components", "latex": "\\text{Kinetic energy and potential energy components}"},
+      {"text": "Instantaneous power and work outputs", "latex": "\\text{Instantaneous power and work outputs}"},
+      {"text": "Linear momentum and rotational inertia vectors", "latex": "\\text{Linear momentum and rotational inertia vectors}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Kinetic energy and potential energy components",
+      "latex": "\\text{Kinetic energy and potential energy components}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Spring Potential Energy",
+    "familyId": "spring_potential_energy_expression",
+    "questionText": "An ideal spring of spring constant k is compressed or stretched by an axial displacement length x from its natural unstretched configuration. The elastic potential energy stored inside the spring is given by:",
+    "questionLatex": "\\text{An ideal spring of spring constant } k \\text{ is compressed or stretched by an axial displacement length } x \\text{ from its natural unstretched configuration. The elastic potential energy stored inside the spring is given by:}",
+    "options": [
+      {"text": "kx", "latex": "kx"},
+      {"text": "1/2 kx²", "latex": "\\frac{1}{2}kx^2"},
+      {"text": "mgx", "latex": "mgx"},
+      {"text": "kx³", "latex": "kx^3"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "1/2 kx²",
+      "latex": "\\frac{1}{2}kx^2"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservation of Mechanical Energy",
+    "familyId": "free_fall_energy_conservation",
+    "questionText": "An object undergoes an ideal frictionless free fall under the action of gravity alone from a high point. Throughout this down-ward motion, neglecting air resistance:",
+    "questionLatex": "\\text{An object undergoes an ideal frictionless free fall under the action of gravity alone from a high point. Throughout this down-ward motion, neglecting air resistance:}",
+    "options": [
+      {"text": "Its gravitational potential energy continuously increases", "latex": "\\text{Its gravitational potential energy continuously increases}"},
+      {"text": "Its kinetic energy continuously decreases to match air damping", "latex": "\\text{Its kinetic energy continuously decreases to match air damping}"},
+      {"text": "Its total mechanical energy remains completely conserved", "latex": "\\text{Its total mechanical energy remains completely conserved}"},
+      {"text": "Both its kinetic energy and potential energy scale upward simultaneously", "latex": "\\text{Both its kinetic energy and potential energy scale upward simultaneously}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Its total mechanical energy remains completely conserved",
+      "latex": "\\text{Its total mechanical energy remains completely conserved}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Variable Force",
+    "familyId": "work_variable_force_expression",
+    "questionText": "When a force varies with position along the x-axis, the total work done by this variable force in moving a particle from an initial position to a final position is represented by:",
+    "questionLatex": "\\text{When a force varies with position along the x-axis, the total work done by this variable force in moving a particle from an initial position to a final position is represented by:}",
+    "options": [
+      {"text": "W = F / x", "latex": "W = \\frac{F}{x}"},
+      {"text": "W = ∫ F(x) dx", "latex": "W = \\int F(x) \\, dx"},
+      {"text": "W = Fx²", "latex": "W = Fx^2"},
+      {"text": "W = ma", "latex": "W = ma"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "W = ∫ F(x) dx",
+      "latex": "W = \\int F(x) \\, dx"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Scalar Product",
+    "familyId": "dot_product_definition",
+    "questionText": "The scalar (dot) product of two vectors A and B making an angle θ with each other is defined as:",
+    "questionLatex": "\\text{The scalar (dot) product of two vectors } \\mathbf{A} \\text{ and } \\mathbf{B} \\text{ making an angle } \\theta \\text{ with each other is defined as:}",
+    "options": [
+      {"text": "AB sin θ", "latex": "AB \\sin\\theta"},
+      {"text": "AB cos θ", "latex": "AB \\cos\\theta"},
+      {"text": "AB tan θ", "latex": "AB \\tan\\theta"},
+      {"text": "A + B", "latex": "A + B"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "AB cos θ",
+      "latex": "AB \\cos\\theta"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "frictional_work_numerical",
+    "questionText": "A constant kinetic friction force of magnitude 50 N opposes the horizontal displacement of a body. Calculate the work done by this frictional force as the body moves through a distance of 8 m.",
+    "questionLatex": "\\text{A constant kinetic friction force of magnitude } 50 \\text{ N opposes the horizontal displacement of a body. Calculate the work done by this frictional force as the body moves through a distance of } 8 \\text{ m.}",
+    "options": [
+      {"text": "400 J", "latex": "400\\text{ J}"},
+      {"text": "-400 J", "latex": "-400\\text{ J}"},
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "-50 J", "latex": "-50\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-400 J",
+      "latex": "-400\\text{ J}"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Kinetic Energy",
+    "familyId": "kinetic_energy_numerical_calculation",
+    "questionText": "Calculate the translational kinetic energy of a body of mass 2 kg moving uniformly with a linear speed of 6 m/s.",
+    "questionLatex": "\\text{Calculate the translational kinetic energy of a body of mass } 2 \\text{ kg moving uniformly with a linear speed of } 6 \\text{ m/s.}",
+    "options": [
+      {"text": "24 J", "latex": "24\\text{ J}"},
+      {"text": "36 J", "latex": "36\\text{ J}"},
+      {"text": "48 J", "latex": "48\\text{ J}"},
+      {"text": "72 J", "latex": "72\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "36 J",
+      "latex": "36\\text{ J}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Spring Force",
+    "familyId": "hookes_law_restoring_force",
+    "questionText": "According to Hooke's law for an ideal spring, the restoring spring force F is related to the axial displacement x from its mean position by the expression:",
+    "questionLatex": "\\text{According to Hooke's law for an ideal spring, the restoring spring force } F \\text{ is related to the axial displacement } x \\text{ from its mean position by the expression:}",
+    "options": [
+      {"text": "F = kx", "latex": "F = kx"},
+      {"text": "F = -kx", "latex": "F = -kx"},
+      {"text": "F = mx", "latex": "F = mx"},
+      {"text": "F = x / k", "latex": "F = \\frac{x}{k}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "F = -kx",
+      "latex": "F = -kx"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "instantaneous_power_formula",
+    "questionText": "The instantaneous power delivered to a particle by an external force vector F, when the particle possesses an instantaneous velocity vector v, is given by the expression:",
+    "questionLatex": "\\text{The instantaneous power delivered to a particle by an external force vector } \\mathbf{F}\\text{, when the particle possesses an instantaneous velocity vector } \\mathbf{v}\\text{, is given by the expression:}",
+    "options": [
+      {"text": "F / v", "latex": "\\frac{F}{v}"},
+      {"text": "F · v", "latex": "\\mathbf{F} \\cdot \\mathbf{v}"},
+      {"text": "F + v", "latex": "F + v"},
+      {"text": "F - v", "latex": "F - v"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "F · v",
+      "latex": "\\mathbf{F} \\cdot \\mathbf{v}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Units",
+    "familyId": "horsepower_to_watt",
+    "questionText": "Horsepower is a non-SI practical unit used to measure mechanical power output. One standard horsepower (1 hp) is equal to exactly:",
+    "questionLatex": "\\text{Horsepower is a non-SI practical unit used to measure mechanical power output. One standard horsepower (1 hp) is equal to exactly:}",
+    "options": [
+      {"text": "100 W", "latex": "100\\text{ W}"},
+      {"text": "500 W", "latex": "500\\text{ W}"},
+      {"text": "746 W", "latex": "746\\text{ W}"},
+      {"text": "1000 W", "latex": "1000\\text{ W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "746 W",
+      "latex": "746\\text{ W}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Mechanical Energy",
+    "familyId": "mechanical_energy_composition",
+    "questionText": "The total mechanical energy of a conservative dynamical system is defined explicitly as the algebraic sum of its:",
+    "questionLatex": "\\text{The total mechanical energy of a conservative dynamical system is defined explicitly as the algebraic sum of its:}",
+    "options": [
+      {"text": "Kinetic energy and potential energy components", "latex": "\\text{Kinetic energy and potential energy components}"},
+      {"text": "Applied external force and linear momentum vectors", "latex": "\\text{Applied external force and linear momentum vectors}"},
+      {"text": "Instantaneous power delivery and total work output", "latex": "\\text{Instantaneous power delivery and total work output}"},
+      {"text": "Inertial mass and instantaneous velocity magnitudes", "latex": "\\text{Inertial mass and instantaneous velocity magnitudes}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Kinetic energy and potential energy components",
+      "latex": "\\text{Kinetic energy and potential energy components}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Spring Potential Energy",
+    "familyId": "spring_potential_energy_numerical",
+    "questionText": "An ideal spring having a spring constant of 200 N/m is compressed by an axial length of 0.2 m from its equilibrium state. Determine the elastic potential energy stored inside the compressed spring.",
+    "questionLatex": "\\text{An ideal spring having a spring constant of } 200 \\text{ N/m is compressed by an axial length of } 0.2 \\text{ m from its equilibrium state. Determine the elastic potential energy stored inside the compressed spring.}",
+    "options": [
+      {"text": "2 J", "latex": "2\\text{ J}"},
+      {"text": "4 J", "latex": "4\\text{ J}"},
+      {"text": "6 J", "latex": "6\\text{ J}"},
+      {"text": "8 J", "latex": "8\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "4 J",
+      "latex": "4\\text{ J}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservation of Mechanical Energy",
+    "familyId": "vertical_projectile_highest_point",
+    "questionText": "An object is projected vertically upward from the ground. Neglecting air resistance, which of the following statements is true for the object when it reaches its maximum height?",
+    "questionLatex": "\\text{An object is projected vertically upward from the ground. Neglecting air resistance, which of the following statements is true for the object when it reaches its maximum height?}",
+    "options": [
+      {"text": "Its kinetic energy reaches its maximum value", "latex": "\\text{Its kinetic energy reaches its maximum value}"},
+      {"text": "Its gravitational potential energy reaches its maximum value", "latex": "\\text{Its gravitational potential energy reaches its maximum value}"},
+      {"text": "Both its kinetic energy and potential energy values become maximum", "latex": "\\text{Both its kinetic energy and potential energy values become maximum}"},
+      {"text": "Its total net mechanical energy drops to zero", "latex": "\\text{Its total net mechanical energy drops to zero}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Its gravitational potential energy reaches its maximum value",
+      "latex": "\\text{Its gravitational potential energy reaches its maximum value}"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "positive_work_numerical",
+    "questionText": "A constant horizontal force of magnitude 20 N acts on a body, causing a displacement of 5 m in the exact same direction as the applied force. Calculate the total work done by this force.",
+    "questionLatex": "\\text{A constant horizontal force of magnitude } 20 \\text{ N acts on a body, causing a displacement of } 5 \\text{ m in the exact same direction as the applied force. Calculate the total work done by this force.}",
+    "options": [
+      {"text": "25 J", "latex": "25\\text{ J}"},
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "200 J", "latex": "200\\text{ J}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "100 J",
+      "latex": "100\\text{ J}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "maximum_work_angle",
+    "questionText": "The work done by a constant external force on a moving object reaches its maximum positive value when the angle θ between the force vector and the displacement vector is equal to:",
+    "questionLatex": "\\text{The work done by a constant external force on a moving object reaches its maximum positive value when the angle } \\theta \\text{ between the force vector and the displacement vector is equal to:}",
+    "options": [
+      {"text": "0°", "latex": "0^{\\circ}"},
+      {"text": "45°", "latex": "45^{\\circ}"},
+      {"text": "90°", "latex": "90^{\\circ}"},
+      {"text": "180°", "latex": "180^{\\circ}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "0°",
+      "latex": "0^{\\circ}"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Kinetic Energy",
+    "familyId": "kinetic_energy_mass_numerical",
+    "questionText": "Determine the translational kinetic energy of a body having a mass of 8 kg that moves uniformly with a linear velocity of 5 m/s.",
+    "questionLatex": "\\text{Determine the translational kinetic energy of a body having a mass of } 8 \\text{ kg that moves uniformly with a linear velocity of } 5 \\text{ m/s.}",
+    "options": [
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "150 J", "latex": "150\\text{ J}"},
+      {"text": "200 J", "latex": "200\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "100 J",
+      "latex": "100\\text{ J}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Potential Energy",
+    "familyId": "gravitational_pe_variation",
+    "questionText": "The gravitational potential energy of an object near the surface of the Earth increases continuously as a direct consequence of a change in which variable?",
+    "questionLatex": "\\text{The gravitational potential energy of an object near the surface of the Earth increases continuously as a direct consequence of a change in which variable?}",
+    "options": [
+      {"text": "A decrease in its vertical height from the reference level", "latex": "\\text{A decrease in its vertical height from the reference level}"},
+      {"text": "An increase in its vertical height from the reference level", "latex": "\\text{An increase in its vertical height from the reference level}"},
+      {"text": "A decrease in its total inertial mass configuration", "latex": "\\text{A decrease in its total inertial mass configuration}"},
+      {"text": "A local decrease in the acceleration due to gravity", "latex": "\\text{A local decrease in the acceleration due to gravity}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "An increase in its vertical height from the reference level",
+      "latex": "\\text{An increase in its vertical height from the reference level}"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work Energy Theorem",
+    "familyId": "work_energy_theorem_numerical",
+    "questionText": "An object is initially resting on a frictionless surface. If an external net work of exactly 200 J is performed on the object, determine its final translational kinetic energy.",
+    "questionLatex": "\\text{An object is initially resting on a frictionless surface. If an external net work of exactly } 200 \\text{ J is performed on the object, determine its final translational kinetic energy.}",
+    "options": [
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "150 J", "latex": "150\\text{ J}"},
+      {"text": "200 J", "latex": "200\\text{ J}"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "200 J",
+      "latex": "200\\text{ J}"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "average_power_numerical",
+    "questionText": "An agent performs 6000 J of mechanical work uniformly over a time interval of 30 s. Find the average mechanical power developed by the agent.",
+    "questionLatex": "\\text{An agent performs } 6000 \\text{ J of mechanical work uniformly over a time interval of } 30 \\text{ s. Find the average mechanical power developed by the agent.}",
+    "options": [
+      {"text": "100 W", "latex": "100\\text{ W}"},
+      {"text": "150 W", "latex": "150\\text{ W}"},
+      {"text": "200 W", "latex": "200\\text{ W}"},
+      {"text": "250 W", "latex": "250\\text{ W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "200 W",
+      "latex": "200\\text{ W}"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "si_unit_power",
+    "questionText": "Which of the following is the standard SI unit used for measuring the rate of doing work (power)?",
+    "questionLatex": "\\text{Which of the following is the standard SI unit used for measuring the rate of doing work (power)?}",
+    "options": [
+      {"text": "Joule", "latex": "\\text{Joule}"},
+      {"text": "Newton", "latex": "\\text{Newton}"},
+      {"text": "Watt", "latex": "\\text{Watt}"},
+      {"text": "Pascal", "latex": "\\text{Pascal}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Watt",
+      "latex": "\\text{Watt}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservation of Mechanical Energy",
+    "familyId": "mechanical_energy_conservation_condition",
+    "questionText": "The total mechanical energy of an isolated dynamical system remains completely conserved over time if and only if the internal forces doing work are exclusively:",
+    "questionLatex": "\\text{The total mechanical energy of an isolated dynamical system remains completely conserved over time if and only if the internal forces doing work are exclusively:}",
+    "options": [
+      {"text": "Non-conservative forces", "latex": "\\text{Non-conservative forces}"},
+      {"text": "Conservative forces", "latex": "\\text{Conservative forces}"},
+      {"text": "Dissipative frictional forces", "latex": "\\text{Dissipative frictional forces}"},
+      {"text": "Time-dependent external forces", "latex": "\\text{Time-dependent external forces}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Conservative forces",
+      "latex": "\\text{Conservative forces}"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Spring Potential Energy",
+    "familyId": "spring_restoring_force_numerical",
+    "questionText": "An ideal spring with a spring constant of 100 N/m is stretched axially by a length of 0.1 m from its natural unstretched state. Calculate the magnitude of the restoring force developed inside the spring.",
+    "questionLatex": "\\text{An ideal spring with a spring constant of } 100 \\text{ N/m is stretched axially by a length of } 0.1 \\text{ m from its natural unstretched state. Calculate the magnitude of the restoring force developed inside the spring.}",
+    "options": [
+      {"text": "5 N", "latex": "5\\text{ N}"},
+      {"text": "10 N", "latex": "10\\text{ N}"},
+      {"text": "15 N", "latex": "15\\text{ N}"},
+      {"text": "20 N", "latex": "20\\text{ N}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "10 N",
+      "latex": "10\\text{ N}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "gravitational_work_downward",
+    "questionText": "When an object undergoes a downward vertical motion near the surface of the Earth, the mechanical work done on the object by the gravitational force is characterized as being:",
+    "questionLatex": "\\text{When an object undergoes a downward vertical motion near the surface of the Earth, the mechanical work done on the object by the gravitational force is characterized as being:}",
+    "options": [
+      {"text": "Positive", "latex": "\\text{Positive}"},
+      {"text": "Negative", "latex": "\\text{Negative}"},
+      {"text": "Zero", "latex": "\\text{Zero}"},
+      {"text": "Infinite", "latex": "\\text{Infinite}"}
+    ],
+    "correctOptionIndex": 0,
+    "answer": {
+      "type": "choice",
+      "text": "Positive",
+      "latex": "\\text{Positive}"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "zero_work_example_ suitcase",
+    "questionText": "A person carries a heavy suitcase and walks along a completely horizontal road at a constant velocity. Determine the work done by the vertical lifting force of the person on the suitcase during a horizontal displacement.",
+    "questionLatex": "\\text{A person carries a heavy suitcase and walks along a completely horizontal road at a constant velocity. Determine the work done by the vertical lifting force of the person on the suitcase during a horizontal displacement.}",
+    "options": [
+      {"text": "Positive", "latex": "\\text{Positive}"},
+      {"text": "Negative", "latex": "\\text{Negative}"},
+      {"text": "Zero", "latex": "\\text{Zero}"},
+      {"text": "Infinite", "latex": "\\text{Infinite}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Zero",
+      "latex": "\\text{Zero}"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work",
+    "familyId": "work_opposite_direction_numerical",
+    "questionText": "A constant force of magnitude 25 N acts on a particle in a direction exactly opposite to its linear displacement vector. If the particle undergoes a displacement of 4 m, find the mechanical work done by this force.",
+    "questionLatex": "\\text{A constant force of magnitude } 25 \\text{ N acts on a particle in a direction exactly opposite to its linear displacement vector. If the particle undergoes a displacement of } 4 \\text{ m, find the mechanical work done by this force.}",
+    "options": [
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "-100 J", "latex": "-100\\text{ J}"},
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "-50 J", "latex": "-50\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "-100 J",
+      "latex": "-100\\text{ J}"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Kinetic Energy",
+    "familyId": "kinetic_energy_ratio_speed",
+    "questionText": "Two distinct bodies possess identical masses. If the uniform speed of the first body is exactly twice the uniform speed of the second body, determine the ratio of the kinetic energy of the first body to that of the second body.",
+    "questionLatex": "\\text{Two distinct bodies possess identical masses. If the uniform speed of the first body is exactly twice the uniform speed of the second body, determine the ratio of the kinetic energy of the first body to that of the second body.}",
+    "options": [
+      {"text": "1:2", "latex": "1:2"},
+      {"text": "1:4", "latex": "1:4"},
+      {"text": "2:1", "latex": "2:1"},
+      {"text": "4:1", "latex": "4:1"}
+    ],
+    "correctOptionIndex": 3,
+    "answer": {
+      "type": "choice",
+      "text": "4:1",
+      "latex": "4:1"
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Potential Energy",
+    "familyId": "potential_energy_decrease_numerical",
+    "questionText": "A body of mass 2 kg falls freely under gravity downward through a vertical height of 5 m. Determine the total magnitude of decrease in its gravitational potential energy. (Take g = 10 m/s²)",
+    "questionLatex": "\\text{A body of mass } 2 \\text{ kg falls freely under gravity downward through a vertical height of } 5 \\text{ m. Determine the total magnitude of decrease in its gravitational potential energy. (Take } g = 10 \\text{ m/s}^2\\text{)}",
+    "options": [
+      {"text": "50 J", "latex": "50\\text{ J}"},
+      {"text": "100 J", "latex": "100\\text{ J}"},
+      {"text": "150 J", "latex": "150\\text{ J}"},
+      {"text": "200 J", "latex": "200\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "100 J",
+      "latex": "100\\text{ J}"
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Power",
+    "familyId": "power_force_velocity_numerical",
+    "questionText": "A constant external force of magnitude 30 N acts on a body moving with an instantaneous speed of 5 m/s in the exact same direction as the force vector. Compute the instantaneous power delivered to the body.",
+    "questionLatex": "\\text{A constant external force of magnitude } 30 \\text{ N acts on a body moving with an instantaneous speed of } 5 \\text{ m/s in the exact same direction as the force vector. Compute the instantaneous power delivered to the body.}",
+    "options": [
+      {"text": "100 W", "latex": "100\\text{ W}"},
+      {"text": "120 W", "latex": "120\\text{ W}"},
+      {"text": "150 W", "latex": "150\\text{ W}"},
+      {"text": "180 W", "latex": "180\\text{ W}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "150 W",
+      "latex": "150\\text{ W}"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservation of Mechanical Energy",
+    "familyId": "mechanical_energy_freefall_constancy",
+    "questionText": "A particle undergoes an ideal free fall under the influence of a conservative gravitational field near the earth's surface. In the absence of air resistance, which of the following quantities remains completely constant throughout its motion?",
+    "questionLatex": "\\text{A particle undergoes an ideal free fall under the influence of a conservative gravitational field near the earth's surface. In the absence of air resistance, which of the following quantities remains completely constant throughout its motion?}",
+    "options": [
+      {"text": "Kinetic energy", "latex": "\\text{Kinetic energy}"},
+      {"text": "Gravitational potential energy", "latex": "\\text{Gravitational potential energy}"},
+      {"text": "Total mechanical energy", "latex": "\\text{Total mechanical energy}"},
+      {"text": "Linear momentum vector", "latex": "\\text{Linear momentum vector}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Total mechanical energy",
+      "latex": "\\text{Total mechanical energy}"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Spring Potential Energy",
+    "familyId": "spring_energy_extension_ratio",
+    "questionText": "An ideal linear spring is stretched such that its total axial extension becomes exactly twice its initial extension value. The elastic potential energy stored in the spring will change to:",
+    "questionLatex": "\\text{An ideal linear spring is stretched such that its total axial extension becomes exactly twice its initial extension value. The elastic potential energy stored in the spring will change to:}",
+    "options": [
+      {"text": "Two times the initial value", "latex": "\\text{Two times the initial value}"},
+      {"text": "Three times the initial value", "latex": "\\text{Three times the initial value}"},
+      {"text": "Four times the initial value", "latex": "\\text{Four times the initial value}"},
+      {"text": "Eight times the initial value", "latex": "\\text{Eight times the initial value}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Four times the initial value",
+      "latex": "\\text{Four times the initial value}"
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Conservative Forces",
+    "familyId": "path_independent_closed_loop_work",
+    "questionText": "When a particle is moved along a complete closed path returning back to its initial point under the action of conservative forces exclusively, the net work done by these forces is:",
+    "questionLatex": "\\text{When a particle is moved along a complete closed path returning back to its initial point under the action of conservative forces exclusively, the net work done by these forces is:}",
+    "options": [
+      {"text": "Maximum", "latex": "\\text{Maximum}"},
+      {"text": "Minimum", "latex": "\\text{Minimum}"},
+      {"text": "Zero", "latex": "\\text{Zero}"},
+      {"text": "Infinite", "latex": "\\text{Infinite}"}
+    ],
+    "correctOptionIndex": 2,
+    "answer": {
+      "type": "choice",
+      "text": "Zero",
+      "latex": "\\text{Zero}"
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Units",
+    "familyId": "si_unit_energy_definition",
+    "questionText": "Which of the following represents the standard SI derived unit used to measure mechanical work done or energy spent?",
+    "questionLatex": "\\text{Which of the following represents the standard SI derived unit used to measure mechanical work done or energy spent?}",
+    "options": [
+      {"text": "Newton", "latex": "\\text{Newton}"},
+      {"text": "Joule", "latex": "\\text{Joule}"},
+      {"text": "Watt", "latex": "\\text{Watt}"},
+      {"text": "Pascal", "latex": "\\text{Pascal}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "Joule",
+      "latex": "\\text{Joule}"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Physics",
+    "chapter": "Work, Energy and Power",
+    "topic": "Work Energy Theorem",
+    "familyId": "kinetic_energy_change_numerical",
+    "questionText": "A body of mass 4 kg accelerates uniformly along a straight horizontal track, increasing its linear speed from 2 m/s to 6 m/s. Calculate the total net change in the kinetic energy of the body.",
+    "questionLatex": "\\text{A body of mass } 4 \\text{ kg accelerates uniformly along a straight horizontal track, increasing its linear speed from } 2 \\text{ m/s to } 6 \\text{ m/s. Calculate the total net change in the kinetic energy of the body.}",
+    "options": [
+      {"text": "56 J", "latex": "56\\text{ J}"},
+      {"text": "64 J", "latex": "64\\text{ J}"},
+      {"text": "72 J", "latex": "72\\text{ J}"},
+      {"text": "80 J", "latex": "80\\text{ J}"}
+    ],
+    "correctOptionIndex": 1,
+    "answer": {
+      "type": "choice",
+      "text": "64 J",
+      "latex": "64\\text{ J}"
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]
