@@ -1,0 +1,1125 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Introduction to Chemical Kinetics",
+    "familyId": "chemical_kinetics_definition",
+    "questionText": "Define chemical kinetics.",
+    "questionLatex": "$\\text{Define chemical kinetics}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Chemical kinetics is the branch of chemistry that deals with the study of rates of chemical reactions and the factors affecting them."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Chemical Kinetics and Thermodynamics",
+    "familyId": "thermodynamics_vs_kinetics",
+    "questionText": "Which branch of chemistry tells whether a reaction is feasible, while chemical kinetics tells how fast it occurs?",
+    "questionLatex": "$\\text{Identify the branch concerned with feasibility of reactions}$",
+    "options": [
+      "Organic chemistry",
+      "Thermodynamics",
+      "Surface chemistry",
+      "Coordination chemistry"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Thermodynamics predicts the feasibility of a reaction, whereas chemical kinetics deals with the rate of the reaction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate of Reaction",
+    "familyId": "rate_of_reaction_definition",
+    "questionText": "Define the rate of a chemical reaction.",
+    "questionLatex": "$\\text{Define rate of reaction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The rate of a chemical reaction is defined as the change in concentration of a reactant or product per unit time."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Average Rate",
+    "familyId": "average_rate_expression",
+    "questionText": "For the reaction R → P, the average rate of disappearance of reactant R is given by:",
+    "questionLatex": "$\\text{Average rate} = -\\frac{\\Delta[R]}{\\Delta t}$",
+    "options": [
+      "$\\frac{\\Delta[R]}{\\Delta t}$",
+      "$-\\frac{\\Delta[R]}{\\Delta t}$",
+      "$\\frac{\\Delta[P]}{[P]}$",
+      "$\\frac{\\Delta t}{\\Delta[R]}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The concentration of reactant decreases with time, therefore a negative sign is used."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Average Rate",
+    "familyId": "average_rate_product",
+    "questionText": "For the reaction R → P, the average rate of appearance of product P is:",
+    "questionLatex": "$\\text{Average rate} = \\frac{\\Delta[P]}{\\Delta t}$",
+    "options": [
+      "$-\\frac{\\Delta[P]}{\\Delta t}$",
+      "$\\frac{\\Delta[P]}{\\Delta t}$",
+      "$\\frac{\\Delta[R]}{\\Delta t}$",
+      "$-\\frac{\\Delta[R]}{[R]}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The concentration of product increases with time."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Units of Rate",
+    "familyId": "rate_units",
+    "questionText": "If concentration is expressed in mol L⁻¹ and time in seconds, the unit of reaction rate is:",
+    "questionLatex": "$\\text{Unit of reaction rate}$",
+    "options": [
+      "mol L⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "mol² L⁻² s⁻¹",
+      "s mol⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rate is concentration change per unit time."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Instantaneous Rate",
+    "familyId": "instantaneous_rate_definition",
+    "questionText": "What is instantaneous rate of a reaction?",
+    "questionLatex": "$r_{inst} = \\lim_{\\Delta t \\to 0} \\left( -\\frac{\\Delta[R]}{\\Delta t} \\right)$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The instantaneous rate of a reaction is the rate at a particular instant of time and is obtained by taking the limit of average rate as the time interval approaches zero."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Instantaneous Rate",
+    "familyId": "instantaneous_rate_expression",
+    "questionText": "The instantaneous rate of disappearance of reactant R is represented by:",
+    "questionLatex": "$r_{inst} = -\\frac{d[R]}{dt}$",
+    "options": [
+      "$\\frac{d[R]}{dt}$",
+      "$-\\frac{d[R]}{dt}$",
+      "$\\frac{dt}{d[R]}$",
+      "$\\frac{d[P]}{[P]}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The concentration of reactant decreases with time."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Stoichiometric Rate Expression",
+    "familyId": "rate_expression_hi_decomposition",
+    "questionText": "For the reaction 2HI(g) → H₂(g) + I₂(g), the rate of reaction is expressed as:",
+    "questionLatex": "$\\text{Rate} = -\\frac{1}{2}\\frac{d[HI]}{dt} = \\frac{d[H_2]}{dt} = \\frac{d[I_2]}{dt}$",
+    "options": [
+      "$-\\frac{d[HI]}{dt}$",
+      "$-\\frac{1}{2}\\frac{d[HI]}{dt}$",
+      "$\\frac{1}{2}\\frac{d[H_2]}{dt}$",
+      "$\\frac{1}{2}\\frac{d[I_2]}{dt}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The rate is divided by the stoichiometric coefficient of HI to obtain a unique reaction rate."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Factors Affecting Rate",
+    "familyId": "factors_affecting_rate",
+    "questionText": "Which of the following factors affects the rate of a chemical reaction?",
+    "questionLatex": "$\\text{Factors affecting reaction rate}$",
+    "options": [
+      "Concentration",
+      "Temperature",
+      "Catalyst",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Reaction rate depends on concentration, temperature, pressure (for gases) and catalysts."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate Law",
+    "familyId": "rate_law_definition",
+    "questionText": "Define rate law of a chemical reaction.",
+    "questionLatex": "$\\text{Define rate law}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Rate law is the mathematical expression that relates the rate of a reaction to the molar concentrations of reactants raised to appropriate powers determined experimentally."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate Constant",
+    "familyId": "rate_constant_definition",
+    "questionText": "What is the rate constant of a reaction?",
+    "questionLatex": "$\\text{Define rate constant } k$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The proportionality constant present in the rate law equation is called the rate constant. It is numerically equal to the reaction rate when the concentration terms are unity."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate Law Expression",
+    "familyId": "general_rate_law",
+    "questionText": "For the reaction aA + bB → Products, the general rate law is:",
+    "questionLatex": "$\\text{Rate} = k[A]^x[B]^y$",
+    "options": [
+      "Rate = k[A+B]",
+      "Rate = k[A]^x[B]^y",
+      "Rate = k[A]^a[B]^b always",
+      "Rate = k[A][B]/t"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The powers x and y are determined experimentally and may differ from stoichiometric coefficients."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate Law",
+    "familyId": "rate_law_experimental",
+    "questionText": "Why cannot the rate law of a reaction be predicted solely from the balanced chemical equation?",
+    "questionLatex": "$\\text{Why is rate law determined experimentally?}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The rate law depends on the reaction mechanism and must be determined experimentally. The exponents in the rate law are not necessarily equal to the stoichiometric coefficients."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Order of Reaction",
+    "familyId": "order_definition",
+    "questionText": "Define the order of a reaction.",
+    "questionLatex": "$\\text{Define order of reaction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The order of a reaction is the sum of the powers of concentration terms appearing in the experimentally determined rate law."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Order of Reaction",
+    "familyId": "order_calculation_simple",
+    "questionText": "Calculate the overall order of the reaction if the rate law is Rate = k[A]²[B].",
+    "questionLatex": "$\\text{Rate} = k[A]^2[B]$",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Overall order = 2 + 1 = 3."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Order of Reaction",
+    "familyId": "fractional_order",
+    "questionText": "Determine the order of a reaction whose rate law is Rate = k[A]^(1/2)[B]^(3/2).",
+    "questionLatex": "$\\text{Rate} = k[A]^{1/2}[B]^{3/2}$",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "1/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Overall order = 1/2 + 3/2 = 2."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_definition",
+    "questionText": "What is a zero order reaction?",
+    "questionLatex": "$\\text{Rate} = k[R]^0$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A zero order reaction is one whose rate is independent of the concentration of the reactant."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Rate Law Application",
+    "familyId": "no_o2_rate_law",
+    "questionText": "For the reaction 2NO(g) + O₂(g) → 2NO₂(g), the experimentally determined rate law is:",
+    "questionLatex": "$\\text{Rate} = k[NO]^2[O_2]$",
+    "options": [
+      "Rate = k[NO][O₂]",
+      "Rate = k[NO]²",
+      "Rate = k[NO]²[O₂]",
+      "Rate = k[O₂]²"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Experimental data show that the reaction is second order with respect to NO and first order with respect to O₂."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_rate_law",
+    "questionText": "For a zero order reaction, the rate law is:",
+    "questionLatex": "$\\text{Rate} = ?$",
+    "options": [
+      "Rate = k[A]",
+      "Rate = k[A]^2",
+      "Rate = k",
+      "Rate = k/[A]"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For a zero order reaction, the rate is independent of reactant concentration and equals the rate constant ($Rate = k$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "integrated_zero_order",
+    "questionText": "Write the integrated rate equation for a zero order reaction.",
+    "questionLatex": "$[R]_t = [R]_0 - kt$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$[R]_t = [R]_0 - kt$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_graph",
+    "questionText": "For a zero order reaction, the plot of concentration of reactant versus time is:",
+    "questionLatex": "$\\text{Graph of } [R] \\text{ vs } t$",
+    "options": [
+      "A straight line with positive slope",
+      "A straight line with negative slope",
+      "A parabola",
+      "An exponential curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to $[R]_t = [R]_0 - kt$, concentration decreases linearly with time, yielding a straight line with a negative slope ($-k$)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_half_life",
+    "questionText": "The half-life period of a zero order reaction is given by:",
+    "questionLatex": "$t_{1/2} = ?$",
+    "options": [
+      "$\\frac{0.693}{k}$",
+      "$\\frac{[R]_0}{2k}$",
+      "$\\frac{1}{k[R]_0}$",
+      "$\\frac{2.303}{k}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a zero order reaction, $t_{1/2} = \\frac{[R]_0}{2k}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_units",
+    "questionText": "The unit of rate constant for a zero order reaction is:",
+    "questionLatex": "$\\text{Unit of } k \\text{ for zero order}$",
+    "options": [
+      "s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For a zero order reaction, $Rate = k$, therefore $k$ has the same unit as rate ($\\text{mol L}^{-1} \\text{s}^{-1}$)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_definition",
+    "questionText": "What is a first order reaction?",
+    "questionLatex": "$\\text{Rate} = k[R]$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A first order reaction is one whose rate is directly proportional to the first power of the concentration of one reactant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "integrated_first_order",
+    "questionText": "The integrated rate equation for a first order reaction is:",
+    "questionLatex": "$k = \\frac{2.303}{t} \\log \\frac{[R]_0}{[R]_t}$",
+    "options": [
+      "$k = \\frac{[R]_0 - [R]_t}{t}$",
+      "$k = \\frac{2.303}{t} \\log \\frac{[R]_0}{[R]_t}$",
+      "$k = \\frac{1}{t[R]_t}$",
+      "$k = \\frac{[R]_t}{t}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "This is the integrated rate equation for a first order reaction."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_units",
+    "questionText": "The unit of rate constant for a first order reaction is:",
+    "questionLatex": "$\\text{Unit of } k \\text{ for first order}$",
+    "options": [
+      "s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For a first order reaction, the unit of $k$ is reciprocal time ($\\text{s}^{-1}$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_half_life",
+    "questionText": "The half-life period of a first order reaction is:",
+    "questionLatex": "$t_{1/2} = \\frac{0.693}{k}$",
+    "options": [
+      "$\\frac{[R]_0}{2k}$",
+      "$\\frac{0.693}{k}$",
+      "$\\frac{1}{k[R]_0}$",
+      "$\\frac{2.303}{k}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a first order reaction, the half-life ($t_{1/2} = 0.693/k$) is independent of initial concentration."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_characteristic",
+    "questionText": "Which characteristic is unique to a first order reaction?",
+    "questionLatex": "$\\text{Characteristic property of first order reaction}$",
+    "options": [
+      "Rate is independent of concentration",
+      "Half-life depends on initial concentration",
+      "Half-life is independent of initial concentration",
+      "Rate constant has unit mol L⁻¹ s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The half-life of a first order reaction remains constant and does not depend on the initial concentration."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_rate_law",
+    "questionText": "For a zero order reaction, the rate law is:",
+    "questionLatex": "$\\text{Rate} = ?$",
+    "options": [
+      "Rate = k[A]",
+      "Rate = k[A]^2",
+      "Rate = k",
+      "Rate = k/[A]"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For a zero order reaction, the rate is independent of reactant concentration and equals the rate constant ($Rate = k$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "integrated_zero_order",
+    "questionText": "Write the integrated rate equation for a zero order reaction.",
+    "questionLatex": "$[R]_t = [R]_0 - kt$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "$[R]_t = [R]_0 - kt$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_graph",
+    "questionText": "For a zero order reaction, the plot of concentration of reactant versus time is:",
+    "questionLatex": "$\\text{Graph of } [R] \\text{ vs } t$",
+    "options": [
+      "A straight line with positive slope",
+      "A straight line with negative slope",
+      "A parabola",
+      "An exponential curve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to $[R]_t = [R]_0 - kt$, concentration decreases linearly with time, yielding a straight line with a negative slope ($-k$)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_half_life",
+    "questionText": "The half-life period of a zero order reaction is given by:",
+    "questionLatex": "$t_{1/2} = ?$",
+    "options": [
+      "$\\frac{0.693}{k}$",
+      "$\\frac{[R]_0}{2k}$",
+      "$\\frac{1}{k[R]_0}$",
+      "$\\frac{2.303}{k}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a zero order reaction, $t_{1/2} = \\frac{[R]_0}{2k}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Zero Order Reaction",
+    "familyId": "zero_order_units",
+    "questionText": "The unit of rate constant for a zero order reaction is:",
+    "questionLatex": "$\\text{Unit of } k \\text{ for zero order}$",
+    "options": [
+      "s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For a zero order reaction, $Rate = k$, therefore $k$ has the same unit as rate ($\\text{mol L}^{-1} \\text{s}^{-1}$)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_definition",
+    "questionText": "What is a first order reaction?",
+    "questionLatex": "$\\text{Rate} = k[R]$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A first order reaction is one whose rate is directly proportional to the first power of the concentration of one reactant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "integrated_first_order",
+    "questionText": "The integrated rate equation for a first order reaction is:",
+    "questionLatex": "$k = \\frac{2.303}{t} \\log \\frac{[R]_0}{[R]_t}$",
+    "options": [
+      "$k = \\frac{[R]_0 - [R]_t}{t}$",
+      "$k = \\frac{2.303}{t} \\log \\frac{[R]_0}{[R]_t}$",
+      "$k = \\frac{1}{t[R]_t}$",
+      "$k = \\frac{[R]_t}{t}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "This is the integrated rate equation for a first order reaction."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_units",
+    "questionText": "The unit of rate constant for a first order reaction is:",
+    "questionLatex": "$\\text{Unit of } k \\text{ for first order}$",
+    "options": [
+      "s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For a first order reaction, the unit of $k$ is reciprocal time ($\\text{s}^{-1}$)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_half_life",
+    "questionText": "The half-life period of a first order reaction is:",
+    "questionLatex": "$t_{1/2} = \\frac{0.693}{k}$",
+    "options": [
+      "$\\frac{[R]_0}{2k}$",
+      "$\\frac{0.693}{k}$",
+      "$\\frac{1}{k[R]_0}$",
+      "$\\frac{2.303}{k}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For a first order reaction, the half-life ($t_{1/2} = 0.693/k$) is independent of initial concentration."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "First Order Reaction",
+    "familyId": "first_order_characteristic",
+    "questionText": "Which characteristic is unique to a first order reaction?",
+    "questionLatex": "$\\text{Characteristic property of first order reaction}$",
+    "options": [
+      "Rate is independent of concentration",
+      "Half-life depends on initial concentration",
+      "Half-life is independent of initial concentration",
+      "Rate constant has unit mol L⁻¹ s⁻¹"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The half-life of a first order reaction remains constant and does not depend on the initial concentration."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+   {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Collision Theory",
+    "familyId": "collision_theory_definition",
+    "questionText": "State the basic postulate of collision theory.",
+    "questionLatex": "$\\text{State the basic postulate of collision theory}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to collision theory, chemical reactions occur only when reactant molecules collide with sufficient energy and proper orientation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Activation Energy",
+    "familyId": "activation_energy_definition",
+    "questionText": "Define activation energy.",
+    "questionLatex": "$\\text{Define activation energy}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Activation energy is the minimum amount of energy that reacting molecules must possess for an effective collision leading to product formation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Activation Energy",
+    "familyId": "effective_collision",
+    "questionText": "A collision between reactant molecules becomes effective when:",
+    "questionLatex": "$\\text{Condition for effective collision}$",
+    "options": [
+      "The molecules have low energy",
+      "The molecules possess energy greater than or equal to activation energy",
+      "The molecules do not interact",
+      "Only temperature is high"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Only collisions with energy equal to or greater than activation energy result in product formation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Arrhenius Equation",
+    "familyId": "arrhenius_equation",
+    "questionText": "Write the Arrhenius equation relating rate constant and temperature.",
+    "questionLatex": "$k = Ae^{-E_a/RT}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$k = Ae^{-E_a/RT}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Arrhenius Equation",
+    "familyId": "arrhenius_terms",
+    "questionText": "In the Arrhenius equation k = Ae^(-Ea/RT), the term A is called:",
+    "questionLatex": "$k = Ae^{-E_a/RT}$",
+    "options": [
+      "Activation energy",
+      "Temperature factor",
+      "Frequency factor",
+      "Reaction quotient"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A is known as the frequency factor or pre-exponential factor."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Arrhenius Equation",
+    "familyId": "temperature_effect_rate",
+    "questionText": "Why does the rate of a chemical reaction generally increase with increase in temperature?",
+    "questionLatex": "$\\text{Effect of temperature on reaction rate}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An increase in temperature increases the fraction of molecules having energy greater than the activation energy, thereby increasing the number of effective collisions."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Catalysis",
+    "familyId": "catalyst_definition",
+    "questionText": "What is a catalyst?",
+    "questionLatex": "$\\text{Define catalyst}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A catalyst is a substance that alters the rate of a chemical reaction without itself undergoing any permanent chemical change."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Catalysis",
+    "familyId": "catalyst_activation_energy",
+    "questionText": "A catalyst increases the rate of a reaction by:",
+    "questionLatex": "$\\text{Role of catalyst}$",
+    "options": [
+      "Increasing activation energy",
+      "Decreasing activation energy",
+      "Increasing enthalpy change",
+      "Changing equilibrium constant"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A catalyst provides an alternative pathway with lower activation energy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Arrhenius Equation",
+    "familyId": "arrhenius_log_form",
+    "questionText": "The logarithmic form of the Arrhenius equation is:",
+    "questionLatex": "$\\log k = \\log A - \\frac{E_a}{2.303RT}$",
+    "options": [
+      "$\\log k = \\log A + \\frac{E_a}{2.303RT}$",
+      "$\\log k = \\log A - \\frac{E_a}{2.303RT}$",
+      "$\\log k = \\frac{E_a}{RT}$",
+      "$\\log k = \\log A + RT$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Taking logarithm of the Arrhenius equation gives $\\log k = \\log A - \\frac{E_a}{2.303RT}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Temperature Coefficient",
+    "familyId": "temperature_coefficient",
+    "questionText": "For many reactions, the reaction rate approximately becomes how many times when the temperature is increased by 10°C?",
+    "questionLatex": "$\\text{Effect of } 10^{\\circ}\\text{C rise in temperature}$",
+    "options": [
+      "0.5 times",
+      "1 time",
+      "2 to 3 times",
+      "10 times"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For many reactions, the rate approximately doubles or triples for every 10°C rise in temperature."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

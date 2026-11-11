@@ -1,0 +1,1089 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Introduction",
+    "familyId": "haloalkane_definition",
+    "questionText": "What are haloalkanes?",
+    "questionLatex": "$\\text{Define haloalkanes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Haloalkanes are compounds in which one or more halogen atoms are attached to an $sp^3$ hybridised carbon atom of an alkyl group."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Introduction",
+    "familyId": "haloarene_definition",
+    "questionText": "What are haloarenes?",
+    "questionLatex": "$\\text{Define haloarenes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Haloarenes are compounds in which one or more halogen atoms are directly attached to an $sp^2$ hybridised carbon atom of an aromatic ring."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "monohalo_compound",
+    "questionText": "Compounds containing only one halogen atom are classified as:",
+    "questionLatex": "$\\text{Classification based on one halogen atom}$",
+    "options": [
+      "Dihalocompounds",
+      "Polyhalocompounds",
+      "Monohalocompounds",
+      "Trihalocompounds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Compounds containing a single halogen atom are called monohalocompounds."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "primary_alkyl_halide",
+    "questionText": "What is a primary alkyl halide?",
+    "questionLatex": "$\\text{Define primary alkyl halide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An alkyl halide in which the halogen atom is attached to a primary carbon atom is called a primary alkyl halide."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "secondary_alkyl_halide",
+    "questionText": "The compound CH3CHBrCH3 is classified as:",
+    "questionLatex": "$CH_3CHBrCH_3$",
+    "options": [
+      "Primary alkyl halide",
+      "Secondary alkyl halide",
+      "Tertiary alkyl halide",
+      "Aryl halide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The bromine atom is attached to a secondary carbon atom."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "allylic_halide",
+    "questionText": "What is an allylic halide?",
+    "questionLatex": "$\\text{Define allylic halide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An allylic halide is a compound in which the halogen atom is attached to an $sp^3$ hybridised carbon atom adjacent to a carbon-carbon double bond."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "benzylic_halide",
+    "questionText": "What is a benzylic halide?",
+    "questionLatex": "$\\text{Define benzylic halide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A benzylic halide is a compound in which the halogen atom is attached to an $sp^3$ hybridised carbon atom directly attached to an aromatic ring."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "vinylic_halide",
+    "questionText": "In vinylic halides, the halogen atom is attached to:",
+    "questionLatex": "$\\text{Vinylic halides}$",
+    "options": [
+      "$sp^3$ carbon adjacent to aromatic ring",
+      "$sp^3$ carbon adjacent to double bond",
+      "$sp^2$ carbon of a carbon-carbon double bond",
+      "$sp^3$ carbon of alkane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In vinylic halides, halogen is bonded directly to an $sp^2$ carbon of a $C=C$ bond."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Classification",
+    "familyId": "aryl_halide_identification",
+    "questionText": "Which of the following is an aryl halide?",
+    "questionLatex": "$\\text{Identify the aryl halide}$",
+    "options": [
+      "$CH_3CH_2Cl$",
+      "$CH_2=CHCl$",
+      "$C_6H_5Cl$",
+      "$CH_2ClCH=CH_2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Chlorobenzene ($C_6H_5Cl$) is an aryl halide because chlorine is directly attached to the aromatic ring."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nomenclature",
+    "familyId": "iupac_naming_haloalkanes",
+    "questionText": "What is the IUPAC name of CH3CH2CH2Br?",
+    "questionLatex": "$CH_3CH_2CH_2Br$",
+    "options": [
+      "Propyl bromide",
+      "1-Bromopropane",
+      "2-Bromopropane",
+      "Bromopropene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "According to IUPAC nomenclature, the compound is named 1-bromopropane."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nomenclature",
+    "familyId": "iupac_name_chloroethene",
+    "questionText": "Write the IUPAC name of CH2=CHCl.",
+    "questionLatex": "$CH_2=CHCl$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Chloroethene"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nomenclature",
+    "familyId": "common_name_chcl3",
+    "questionText": "What is the common name of CHCl3?",
+    "questionLatex": "$CHCl_3$",
+    "options": [
+      "Carbon tetrachloride",
+      "Methylene chloride",
+      "Chloroform",
+      "Bromoform"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$CHCl_3$ is commonly known as chloroform."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nomenclature",
+    "familyId": "gem_dihalide_definition",
+    "questionText": "What is a geminal dihalide?",
+    "questionLatex": "$\\text{Define geminal dihalide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A geminal dihalide is a dihalogen compound in which both halogen atoms are attached to the same carbon atom."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nomenclature",
+    "familyId": "vic_dihalide_definition",
+    "questionText": "What is a vicinal dihalide?",
+    "questionLatex": "$\\text{Define vicinal dihalide}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A vicinal dihalide is a dihalogen compound in which the two halogen atoms are attached to adjacent carbon atoms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nature of C-X Bond",
+    "familyId": "cx_bond_polarity",
+    "questionText": "Why is the carbon-halogen bond in haloalkanes polar?",
+    "questionLatex": "$\\text{Polarity of C-X bond}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The carbon-halogen bond is polar because halogens are more electronegative than carbon. Therefore, carbon acquires a partial positive charge and halogen acquires a partial negative charge."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nature of C-X Bond",
+    "familyId": "bond_length_order",
+    "questionText": "Arrange the carbon-halogen bond lengths in increasing order.",
+    "questionLatex": "$\\text{Order of C-X bond lengths}$",
+    "options": [
+      "C-I < C-Br < C-Cl < C-F",
+      "C-F < C-Cl < C-Br < C-I",
+      "C-Br < C-I < C-Cl < C-F",
+      "C-Cl < C-F < C-Br < C-I"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bond length increases with increase in size of halogen atom: C-F < C-Cl < C-Br < C-I."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nature of C-X Bond",
+    "familyId": "bond_enthalpy_order",
+    "questionText": "Which carbon-halogen bond has the highest bond enthalpy?",
+    "questionLatex": "$\\text{Highest C-X bond enthalpy}$",
+    "options": [
+      "C-I",
+      "C-Br",
+      "C-Cl",
+      "C-F"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The C-F bond is the strongest and has the highest bond enthalpy."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Preparation of Haloalkanes",
+    "familyId": "alcohol_to_haloalkane",
+    "questionText": "Which functional group of an alcohol is replaced during the preparation of haloalkanes from alcohols?",
+    "questionLatex": "$R-OH \\rightarrow R-X$",
+    "options": [
+      "Alkyl group",
+      "Hydroxyl group",
+      "Carbonyl group",
+      "Carboxyl group"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The hydroxyl group (-OH) is replaced by a halogen atom."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Preparation of Haloalkanes",
+    "familyId": "thionyl_chloride_advantage",
+    "questionText": "Why is thionyl chloride preferred for the preparation of alkyl chlorides from alcohols?",
+    "questionLatex": "$R-OH + SOCl_2 \\rightarrow R-Cl$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Thionyl chloride is preferred because the by-products $SO_2$ and $HCl$ are gases and escape from the reaction mixture, resulting in pure alkyl chloride."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Preparation of Haloalkanes",
+    "familyId": "phosphorus_pentachloride_reaction",
+    "questionText": "Write the reaction of ethanol with phosphorus pentachloride for the preparation of chloroethane.",
+    "questionLatex": "$C_2H_5OH + PCl_5 \\rightarrow ?$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$C_2H_5OH + PCl_5 \\rightarrow C_2H_5Cl + POCl_3 + HCl$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Preparation of Haloalkanes",
+    "familyId": "free_radical_halogenation",
+    "questionText": "Haloalkanes can be prepared from alkanes by:",
+    "questionLatex": "$\\text{Preparation from alkanes}$",
+    "options": [
+      "Electrophilic substitution",
+      "Free radical halogenation",
+      "Nucleophilic substitution",
+      "Hydrolysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alkanes react with halogens in the presence of light or heat through a free radical mechanism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Preparation of Haloarenes",
+    "familyId": "chlorobenzene_preparation",
+    "questionText": "Which reagent is used for the direct chlorination of benzene to prepare chlorobenzene?",
+    "questionLatex": "$C_6H_6 + Cl_2 \\rightarrow C_6H_5Cl$",
+    "options": [
+      "$FeCl_3$",
+      "$NaOH$",
+      "$Zn$",
+      "$KOH$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Chlorination of benzene is carried out in the presence of Lewis acid catalysts such as $FeCl_3$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Physical Properties",
+    "familyId": "boiling_point_haloalkanes",
+    "questionText": "Why do haloalkanes generally have higher boiling points than the corresponding alkanes?",
+    "questionLatex": "$\\text{Boiling point of haloalkanes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Haloalkanes have higher molecular masses and stronger intermolecular van der Waals forces than the corresponding alkanes, resulting in higher boiling points."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Physical Properties",
+    "familyId": "solubility_haloalkanes",
+    "questionText": "Why are haloalkanes only sparingly soluble in water?",
+    "questionLatex": "$\\text{Solubility of haloalkanes in water}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Haloalkanes cannot form hydrogen bonds with water molecules effectively and the energy required to break water-water hydrogen bonds is not compensated by new interactions."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "nucleophilic_substitution_definition",
+    "questionText": "What is a nucleophilic substitution reaction?",
+    "questionLatex": "$R-X + Nu^- \\rightarrow R-Nu + X^-$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A nucleophilic substitution reaction is one in which a nucleophile replaces the halogen atom or another leaving group attached to carbon."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn1_definition",
+    "questionText": "What is the SN1 mechanism?",
+    "questionLatex": "$\\text{S}_N1$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "$S_N1$ is a unimolecular nucleophilic substitution mechanism in which the rate-determining step involves formation of a carbocation intermediate."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn1_rate_expression",
+    "questionText": "The rate law for an SN1 reaction is:",
+    "questionLatex": "$\\text{Rate}=?$",
+    "options": [
+      "Rate = k[R-X][Nu−]",
+      "Rate = k[R-X]",
+      "Rate = k[Nu−]",
+      "Rate = k[R-X]^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The rate depends only on the concentration of the substrate because carbocation formation is the slow step."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn2_definition",
+    "questionText": "What is the SN2 mechanism?",
+    "questionLatex": "$\\text{S}_N2$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "$S_N2$ is a bimolecular nucleophilic substitution mechanism in which bond formation and bond breaking occur simultaneously in a single step."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn2_rate_expression",
+    "questionText": "The rate law for an SN2 reaction is:",
+    "questionLatex": "$\\text{Rate}=k[R-X][Nu^-]$",
+    "options": [
+      "Rate = k[R-X]",
+      "Rate = k[Nu−]",
+      "Rate = k[R-X][Nu−]",
+      "Rate = k[R-X]^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The rate depends on the concentrations of both the substrate and the nucleophile."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn1_favouring_substrate",
+    "questionText": "Which type of alkyl halide most readily undergoes an SN1 reaction?",
+    "questionLatex": "$\\text{Substrate favouring }S_N1\\text{ reaction}$",
+    "options": [
+      "Methyl halide",
+      "Primary alkyl halide",
+      "Secondary alkyl halide",
+      "Tertiary alkyl halide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Tertiary alkyl halides form the most stable carbocations and therefore readily undergo $S_N1$ reactions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Nucleophilic Substitution",
+    "familyId": "sn2_favouring_substrate",
+    "questionText": "Which type of alkyl halide reacts fastest by the SN2 mechanism?",
+    "questionLatex": "$\\text{Substrate favouring }S_N2\\text{ reaction}$",
+    "options": [
+      "Tertiary alkyl halide",
+      "Secondary alkyl halide",
+      "Primary alkyl halide",
+      "Tertiary butyl halide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Primary alkyl halides experience minimum steric hindrance and therefore favour $S_N2$ reactions."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Elimination Reactions",
+    "familyId": "beta_elimination_definition",
+    "questionText": "What is β-elimination reaction in haloalkanes?",
+    "questionLatex": "$\\text{Define }\\beta\\text{-elimination}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A β-elimination reaction is one in which a hydrogen atom from the β-carbon and a halogen atom from the α-carbon are removed to form an alkene."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Elimination Reactions",
+    "familyId": "dehydrohalogenation_reagent",
+    "questionText": "Which reagent is commonly used for dehydrohalogenation of alkyl halides?",
+    "questionLatex": "$\\text{Reagent for dehydrohalogenation}$",
+    "options": [
+      "Aqueous KOH",
+      "Alcoholic KOH",
+      "Dilute HCl",
+      "Zn-Hg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alcoholic KOH promotes elimination of HX from haloalkanes to form alkenes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Elimination Reactions",
+    "familyId": "saytzeff_rule",
+    "questionText": "State Saytzeff's rule.",
+    "questionLatex": "$\\text{State Saytzeff's rule}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "According to Saytzeff's rule, in a β-elimination reaction the major product is the more substituted alkene containing the lesser number of hydrogen atoms on the doubly bonded carbon atoms."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Reactions of Haloalkanes",
+    "familyId": "hydrolysis_haloalkanes",
+    "questionText": "What is the product formed when bromoethane is heated with aqueous KOH?",
+    "questionLatex": "$C_2H_5Br + KOH(aq) \\rightarrow ?$",
+    "options": [
+      "Ethene",
+      "Ethanol",
+      "Ethanal",
+      "Ethyne"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aqueous KOH causes nucleophilic substitution, producing ethanol."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Reactions of Haloalkanes",
+    "familyId": "cyanide_reaction",
+    "questionText": "Alkyl halides react with alcoholic KCN to form:",
+    "questionLatex": "$R-X + KCN \\rightarrow ?$",
+    "options": [
+      "Alcohols",
+      "Nitriles",
+      "Amines",
+      "Alkenes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "KCN introduces the cyanide group through carbon, forming nitriles."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Reactions of Haloalkanes",
+    "familyId": "silver_cyanide_product",
+    "questionText": "Alkyl halides react with AgCN to predominantly form:",
+    "questionLatex": "$R-X + AgCN \\rightarrow ?$",
+    "options": [
+      "Nitriles",
+      "Isonitriles",
+      "Alcohols",
+      "Amines"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "AgCN is largely covalent and nucleophilic attack occurs through nitrogen, producing isonitriles."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Wurtz Reaction",
+    "familyId": "wurtz_reaction_definition",
+    "questionText": "State the Wurtz reaction.",
+    "questionLatex": "$2R-X + 2Na \\xrightarrow{dry\\ ether} R-R + 2NaX$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$2R-X + 2Na \\xrightarrow{dry\\ ether} R-R + 2NaX$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Wurtz Reaction",
+    "familyId": "wurtz_product_ethyl",
+    "questionText": "What is the product obtained when bromoethane undergoes Wurtz reaction?",
+    "questionLatex": "$2C_2H_5Br + 2Na \\rightarrow ?$",
+    "options": [
+      "Ethane",
+      "Butane",
+      "Propane",
+      "Hexane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Two ethyl groups couple together to form butane."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Fittig Reaction",
+    "familyId": "fittig_reaction_definition",
+    "questionText": "State the Fittig reaction.",
+    "questionLatex": "$2Ar-X + 2Na \\xrightarrow{dry\\ ether} Ar-Ar + 2NaX$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$2Ar-X + 2Na \\xrightarrow{dry\\ ether} Ar-Ar + 2NaX$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Fittig Reaction",
+    "familyId": "fittig_product",
+    "questionText": "What is the product formed when chlorobenzene undergoes Fittig reaction?",
+    "questionLatex": "$2C_6H_5Cl + 2Na \\rightarrow ?$",
+    "options": [
+      "Toluene",
+      "Diphenyl",
+      "Benzene",
+      "Cyclohexane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Coupling of two phenyl groups produces diphenyl (biphenyl)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Wurtz-Fittig Reaction",
+    "familyId": "wurtz_fittig_definition",
+    "questionText": "State the Wurtz-Fittig reaction.",
+    "questionLatex": "$Ar-X + R-X + 2Na \\xrightarrow{dry\\ ether} Ar-R + 2NaX$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$Ar-X + R-X + 2Na \\xrightarrow{dry\\ ether} Ar-R + 2NaX$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Wurtz-Fittig Reaction",
+    "familyId": "wurtz_fittig_product",
+    "questionText": "The major product obtained from chlorobenzene and chloromethane in the Wurtz-Fittig reaction is:",
+    "questionLatex": "$C_6H_5Cl + CH_3Cl + 2Na \\rightarrow ?$",
+    "options": [
+      "Benzene",
+      "Diphenyl",
+      "Toluene",
+      "Ethylbenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Coupling between the phenyl and methyl groups produces toluene."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Haloarenes",
+    "familyId": "haloarene_low_reactivity",
+    "questionText": "Why are haloarenes less reactive towards nucleophilic substitution reactions than haloalkanes?",
+    "questionLatex": "$\\text{Reason for lower reactivity of haloarenes}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Haloarenes are less reactive because the carbon-halogen bond acquires partial double bond character due to resonance, making it shorter, stronger and more difficult to break."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Haloarenes",
+    "familyId": "chlorobenzene_hydrolysis",
+    "questionText": "Chlorobenzene can be converted into phenol by heating with:",
+    "questionLatex": "$C_6H_5Cl \\rightarrow C_6H_5OH$",
+    "options": [
+      "Dilute HCl",
+      "Aqueous NaOH at high temperature and pressure",
+      "Alcoholic KOH",
+      "Zn dust"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chlorobenzene requires drastic conditions and aqueous NaOH to undergo nucleophilic substitution to form phenol."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Polyhalogen Compounds",
+    "familyId": "ddt_full_form",
+    "questionText": "What is the full form of DDT?",
+    "questionLatex": "$\\text{Expand DDT}$",
+    "options": [
+      "Dichloro Diphenyl Trichloroethane",
+      "Dichloro Dipropyl Trichloroethane",
+      "Dimethyl Diphenyl Trichloroethane",
+      "Dichloro Dibenzyl Trichloroethane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "DDT stands for Dichloro Diphenyl Trichloroethane."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Polyhalogen Compounds",
+    "familyId": "freon_use",
+    "questionText": "Freons were extensively used as:",
+    "questionLatex": "$\\text{Use of freons}$",
+    "options": [
+      "Oxidising agents",
+      "Fertilisers",
+      "Refrigerants",
+      "Catalysts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Freons were widely used as refrigerants in air conditioners and refrigerators."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Polyhalogen Compounds",
+    "familyId": "chloroform_use",
+    "questionText": "Mention one important use of chloroform.",
+    "questionLatex": "$\\text{Use of chloroform}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Chloroform is used as a solvent for fats, alkaloids, iodine and other organic substances."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "Polyhalogen Compounds",
+    "familyId": "carbon_tetrachloride_use",
+    "questionText": "Which of the following was a common industrial use of carbon tetrachloride (CCl4)?",
+    "questionLatex": "$CCl_4$",
+    "options": [
+      "As a refrigerant",
+      "As a solvent for oils and fats",
+      "As a sweetening agent",
+      "As a fertilizer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbon tetrachloride was commonly used as a solvent for oils, fats, resins and varnishes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

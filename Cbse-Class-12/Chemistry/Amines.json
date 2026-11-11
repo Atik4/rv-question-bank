@@ -1,0 +1,1138 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Structure of Amines",
+    "familyId": "amine_definition",
+    "questionText": "What are amines?",
+    "questionLatex": "$\\text{Define amines}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Amines are organic derivatives of ammonia obtained by replacing one or more hydrogen atoms of ammonia by alkyl or aryl groups."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Structure of Amines",
+    "familyId": "amine_hybridisation",
+    "questionText": "What is the hybridisation of the nitrogen atom in amines?",
+    "questionLatex": "$\\text{Hybridisation of nitrogen in amines}$",
+    "options": [
+      "sp",
+      "sp^2",
+      "sp^3",
+      "dsp^2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Nitrogen in amines is $sp^3$ hybridised and contains one lone pair of electrons."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Structure of Amines",
+    "familyId": "amine_geometry",
+    "questionText": "What is the geometry of amines around the nitrogen atom?",
+    "questionLatex": "$\\text{Geometry of amines}$",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Pyramidal",
+      "Tetrahedral"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Due to the presence of one lone pair, amines possess a pyramidal geometry."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Classification",
+    "familyId": "primary_amine_definition",
+    "questionText": "Define a primary amine.",
+    "questionLatex": "$\\text{Define primary amine}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A primary amine is an amine in which one hydrogen atom of ammonia is replaced by an alkyl or aryl group. Its general formula is $RNH_2$."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Classification",
+    "familyId": "secondary_amine_definition",
+    "questionText": "Define a secondary amine.",
+    "questionLatex": "$\\text{Define secondary amine}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A secondary amine is formed when two hydrogen atoms of ammonia are replaced by alkyl and/or aryl groups. Its general formula is $R_2NH$."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Classification",
+    "familyId": "tertiary_amine_definition",
+    "questionText": "Define a tertiary amine.",
+    "questionLatex": "$\\text{Define tertiary amine}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A tertiary amine is formed when all three hydrogen atoms of ammonia are replaced by alkyl and/or aryl groups. Its general formula is $R_3N$."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Classification",
+    "familyId": "identify_amine_type",
+    "questionText": "Classify $CH_3NH_2$.",
+    "questionLatex": "$CH_3NH_2$",
+    "options": [
+      "Primary amine",
+      "Secondary amine",
+      "Tertiary amine",
+      "Quaternary ammonium salt"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$CH_3NH_2$ contains one alkyl group attached to nitrogen and is therefore a primary amine."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Classification",
+    "familyId": "identify_secondary_amine",
+    "questionText": "Which of the following is a secondary amine?",
+    "questionLatex": "$\\text{Identify the secondary amine}$",
+    "options": [
+      "CH_3NH_2",
+      "(CH_3)_2NH",
+      "(CH_3)_3N",
+      "C_6H_5NH_2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$(CH_3)_2NH$ contains two alkyl groups attached to nitrogen and is a secondary amine."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "familyId": "methanamine_name",
+    "questionText": "What is the IUPAC name of $CH_3NH_2$?",
+    "questionLatex": "$CH_3NH_2$",
+    "options": [
+      "Methanamine",
+      "Methylamine",
+      "Ethanamine",
+      "Methanamide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "According to IUPAC nomenclature, $CH_3NH_2$ is named methanamine."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "familyId": "aniline_name",
+    "questionText": "The accepted IUPAC name of $C_6H_5NH_2$ is:",
+    "questionLatex": "$C_6H_5NH_2$",
+    "options": [
+      "Phenylamine",
+      "Aniline",
+      "Cyclohexylamine",
+      "Phenol"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aniline is the accepted IUPAC name for $C_6H_5NH_2$ and is also known as benzenamine."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "familyId": "ethanamine_iupac",
+    "questionText": "What is the IUPAC name of CH3CH2NH2?",
+    "questionLatex": "$CH_3CH_2NH_2$",
+    "options": [
+      "Ethylamine",
+      "Ethanamine",
+      "Methanamine",
+      "Ethanamide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The IUPAC name of $CH_3CH_2NH_2$ is ethanamine."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "familyId": "ethane_diamine_name",
+    "questionText": "Write the IUPAC name of H2NCH2CH2NH2.",
+    "questionLatex": "$H_2NCH_2CH_2NH_2$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ethane-1,2-diamine"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Nomenclature",
+    "familyId": "n_methylethanamine",
+    "questionText": "What is the IUPAC name of CH3NHCH2CH3?",
+    "questionLatex": "$CH_3NHCH_2CH_3$",
+    "options": [
+      "Dimethylamine",
+      "N-Methylethanamine",
+      "Methanamine",
+      "Ethanamide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Secondary amines are named using the locant N for substituents attached to nitrogen."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "nitro_reduction_product",
+    "questionText": "Reduction of nitrobenzene produces:",
+    "questionLatex": "$C_6H_5NO_2 \\xrightarrow{[H]} ?$",
+    "options": [
+      "Aniline",
+      "Phenol",
+      "Benzamide",
+      "Benzoic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Nitrobenzene on reduction gives aniline."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "nitro_reduction_reagent",
+    "questionText": "Which of the following reagents can reduce nitro compounds to amines?",
+    "questionLatex": "$\\text{Reduction of nitro compounds}$",
+    "options": [
+      "Fe/HCl",
+      "NaCl",
+      "Dilute $H_2SO_4$",
+      "$Br_2/H_2O$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Iron and hydrochloric acid are commonly used for reducing nitro compounds to amines."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "ammonolysis_definition",
+    "questionText": "What is ammonolysis of alkyl halides?",
+    "questionLatex": "$\\text{Ammonolysis of alkyl halides}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Ammonolysis is the nucleophilic substitution reaction in which the halogen atom of an alkyl halide is replaced by an amino group through reaction with ammonia."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "alkyl_halide_reactivity",
+    "questionText": "The order of reactivity of alkyl halides towards ammonolysis is:",
+    "questionLatex": "$\\text{Order of reactivity}$",
+    "options": [
+      "RCl > RBr > RI",
+      "RI > RBr > RCl",
+      "RBr > RI > RCl",
+      "RI > RCl > RBr"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The reactivity order is $RI > RBr > RCl$ due to decreasing bond strength."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "nitrile_reduction",
+    "questionText": "Reduction of nitriles using $LiAlH_4$ produces:",
+    "questionLatex": "$RCN \\xrightarrow{LiAlH_4} ?$",
+    "options": [
+      "Primary amines",
+      "Secondary amines",
+      "Tertiary amines",
+      "Amides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Nitriles on reduction produce primary amines."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "amine_series_ascent",
+    "questionText": "Why is reduction of nitriles called ascent of amine series?",
+    "questionLatex": "$\\text{Ascent of amine series}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Reduction of nitriles gives primary amines containing one carbon atom more than the starting compound, resulting in ascent of the carbon chain."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "amide_reduction_product",
+    "questionText": "What is the product formed when an amide is reduced with $LiAlH_4$?",
+    "questionLatex": "$RCONH_2 \\xrightarrow{LiAlH_4} ?$",
+    "options": [
+      "Alcohol",
+      "Aldehyde",
+      "Amine",
+      "Carboxylic acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Amides are reduced by $LiAlH_4$ to form amines."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "gabriel_phthalimide_definition",
+    "questionText": "State the Gabriel phthalimide synthesis.",
+    "questionLatex": "$\\text{Gabriel phthalimide synthesis}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Gabriel phthalimide synthesis is a method for preparing primary amines by reacting potassium phthalimide with alkyl halides followed by hydrolysis."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "gabriel_primary_amine",
+    "questionText": "Gabriel phthalimide synthesis is mainly used for the preparation of:",
+    "questionLatex": "$\\text{Product of Gabriel synthesis}$",
+    "options": [
+      "Primary amines",
+      "Secondary amines",
+      "Tertiary amines",
+      "Quaternary ammonium salts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Gabriel synthesis specifically yields primary amines."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "hofmann_bromamide_definition",
+    "questionText": "What is Hofmann bromamide degradation reaction?",
+    "questionLatex": "$RCONH_2 + Br_2 + 4NaOH \\rightarrow ?$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Hofmann bromamide degradation is the conversion of a primary amide into a primary amine containing one carbon atom less by treatment with bromine and aqueous sodium hydroxide."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Preparation of Amines",
+    "familyId": "hofmann_carbon_loss",
+    "questionText": "In Hofmann bromamide degradation, the amine formed contains:",
+    "questionLatex": "$\\text{Carbon atoms after Hofmann degradation}$",
+    "options": [
+      "One carbon atom more",
+      "Same number of carbon atoms",
+      "One carbon atom less",
+      "Two carbon atoms less"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hofmann bromamide degradation produces an amine with one carbon atom fewer than the parent amide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "amine_basicity_reason",
+    "questionText": "Why do amines exhibit basic character?",
+    "questionLatex": "$\\text{Basicity of amines}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Amines are basic because the nitrogen atom possesses a lone pair of electrons which can accept a proton."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "amine_hcl_reaction",
+    "questionText": "What is formed when methylamine reacts with hydrochloric acid?",
+    "questionLatex": "$CH_3NH_2 + HCl \\rightarrow ?$",
+    "options": [
+      "Methanol",
+      "Methyl chloride",
+      "Methylammonium chloride",
+      "Methanamide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Methylamine accepts a proton from HCl and forms methylammonium chloride."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "aniline_basicity",
+    "questionText": "Why is aniline less basic than ammonia?",
+    "questionLatex": "$\\text{Basicity of aniline}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In aniline, the lone pair of electrons on nitrogen is delocalized into the benzene ring through resonance, making it less available for protonation."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "basicity_order_aliphatic_aromatic",
+    "questionText": "Which of the following is the most basic?",
+    "questionLatex": "$\\text{Basicity comparison}$",
+    "options": [
+      "Aniline",
+      "Ammonia",
+      "Methylamine",
+      "Nitrobenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The electron-donating methyl group increases electron density on nitrogen, making methylamine more basic."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "electron_withdrawing_effect",
+    "questionText": "The presence of an electron-withdrawing group on the benzene ring of aniline generally:",
+    "questionLatex": "$\\text{Effect of electron-withdrawing groups}$",
+    "options": [
+      "Increases basicity",
+      "Decreases basicity",
+      "Does not affect basicity",
+      "Converts aniline into an acid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Electron-withdrawing groups reduce electron density on nitrogen and decrease the basicity of aniline."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Basic Character of Amines",
+    "familyId": "electron_donating_effect",
+    "questionText": "The presence of an electron-donating group on the benzene ring of aniline generally:",
+    "questionLatex": "$\\text{Effect of electron-donating groups}$",
+    "options": [
+      "Increases basicity",
+      "Decreases basicity",
+      "Eliminates basicity",
+      "Produces an amide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Electron-donating groups increase electron density on nitrogen and enhance basicity."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Chemical Reactions of Amines",
+    "familyId": "alkylation_of_amines",
+    "questionText": "What is alkylation of amines?",
+    "questionLatex": "$\\text{Alkylation of amines}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Alkylation of amines is the reaction in which one or more hydrogen atoms attached to nitrogen are replaced by alkyl groups using alkyl halides."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Chemical Reactions of Amines",
+    "familyId": "amine_acylation_definition",
+    "questionText": "What is acylation of amines?",
+    "questionLatex": "$\\text{Acylation of amines}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Acylation is the introduction of an acyl group into an amine by reaction with an acid chloride or acid anhydride, resulting in the formation of an amide."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Chemical Reactions of Amines",
+    "familyId": "aniline_acetylation",
+    "questionText": "What is the product formed when aniline is acetylated with acetic anhydride?",
+    "questionLatex": "$C_6H_5NH_2 + (CH_3CO)_2O \\rightarrow ?$",
+    "options": [
+      "Acetanilide",
+      "Benzamide",
+      "Anisole",
+      "Nitrobenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Acetylation of aniline produces acetanilide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Hinsberg Test",
+    "familyId": "hinsberg_reagent",
+    "questionText": "Which reagent is used in the Hinsberg test?",
+    "questionLatex": "$\\text{Hinsberg reagent}$",
+    "options": [
+      "Benzoyl chloride",
+      "Benzenesulphonyl chloride",
+      "Acetyl chloride",
+      "Thionyl chloride"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Benzenesulphonyl chloride is the reagent used in the Hinsberg test for distinguishing amines."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Hinsberg Test",
+    "familyId": "hinsberg_purpose",
+    "questionText": "The Hinsberg test is used to distinguish between:",
+    "questionLatex": "$\\text{Purpose of Hinsberg test}$",
+    "options": [
+      "Alcohols and phenols",
+      "Aldehydes and ketones",
+      "Primary, secondary and tertiary amines",
+      "Carboxylic acids and esters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Hinsberg test distinguishes primary, secondary and tertiary amines based on their reactions with benzenesulphonyl chloride."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazotisation",
+    "familyId": "diazotisation_definition",
+    "questionText": "What is diazotisation?",
+    "questionLatex": "$\\text{Diazotisation reaction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Diazotisation is the reaction in which a primary aromatic amine reacts with nitrous acid at 273–278 K to form a diazonium salt."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazotisation",
+    "familyId": "diazonium_salt_name",
+    "questionText": "What is the product formed when aniline undergoes diazotisation?",
+    "questionLatex": "$C_6H_5NH_2 \\xrightarrow{NaNO_2/HCl} ?$",
+    "options": [
+      "Nitrobenzene",
+      "Benzenediazonium chloride",
+      "Phenol",
+      "Benzamide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aniline reacts with nitrous acid to form benzenediazonium chloride."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazotisation",
+    "familyId": "diazotisation_temperature",
+    "questionText": "Diazotisation of aniline is generally carried out at:",
+    "questionLatex": "$\\text{Temperature for diazotisation}$",
+    "options": [
+      "373–378 K",
+      "323–328 K",
+      "273–278 K",
+      "423–428 K"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Diazonium salts are stable only at low temperatures, typically 273–278 K."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "diazonium_importance",
+    "questionText": "Why are diazonium salts important in organic synthesis?",
+    "questionLatex": "$\\text{Importance of diazonium salts}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Diazonium salts serve as versatile intermediates for introducing various functional groups such as halogens, hydroxyl and cyano groups into aromatic rings."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "diazonium_hydrolysis",
+    "questionText": "What is the product formed when benzenediazonium chloride is warmed with water?",
+    "questionLatex": "$C_6H_5N_2^+Cl^- + H_2O \\rightarrow ?$",
+    "options": [
+      "Aniline",
+      "Benzene",
+      "Phenol",
+      "Chlorobenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hydrolysis of benzenediazonium chloride produces phenol."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "sandmeyer_reaction_definition",
+    "questionText": "What is the Sandmeyer reaction?",
+    "questionLatex": "$ArN_2^+X^- \\xrightarrow{CuX} ArX$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The Sandmeyer reaction is the substitution of the diazonium group in an aromatic diazonium salt by chloride, bromide or cyanide ions using cuprous salts."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "sandmeyer_product_chloro",
+    "questionText": "Benzenediazonium chloride on treatment with CuCl/HCl gives:",
+    "questionLatex": "$C_6H_5N_2^+Cl^- \\xrightarrow{CuCl/HCl} ?$",
+    "options": [
+      "Phenol",
+      "Chlorobenzene",
+      "Bromobenzene",
+      "Benzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In the Sandmeyer reaction, the diazonium group is replaced by chlorine to form chlorobenzene."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "gattermann_reaction",
+    "questionText": "Which reagent combination is used in the Gattermann reaction for converting diazonium salts into haloarenes?",
+    "questionLatex": "$\\text{Gattermann reaction}$",
+    "options": [
+      "Cu/HCl or Cu/HBr",
+      "Zn/HCl",
+      "NaOH",
+      "LiAlH_4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The Gattermann reaction uses copper powder with HCl or HBr to replace the diazonium group."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Diazonium Salts",
+    "familyId": "diazonium_reduction",
+    "questionText": "What is the product obtained when benzenediazonium chloride is reduced with hypophosphorous acid ($H_3PO_2$)?",
+    "questionLatex": "$C_6H_5N_2^+Cl^- \\xrightarrow{H_3PO_2} ?$",
+    "options": [
+      "Phenol",
+      "Aniline",
+      "Benzene",
+      "Chlorobenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Reduction of benzenediazonium chloride with hypophosphorous acid replaces the diazonium group with hydrogen, yielding benzene."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Azo Coupling Reaction",
+    "familyId": "azo_coupling_definition",
+    "questionText": "What is an azo coupling reaction?",
+    "questionLatex": "$\\text{Azo coupling reaction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Azo coupling is an electrophilic substitution reaction in which an aromatic diazonium salt reacts with activated aromatic compounds such as phenol or aniline to form azo compounds containing the $-N=N-$ linkage."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Azo Coupling Reaction",
+    "familyId": "azo_dyes_importance",
+    "questionText": "Why are azo compounds industrially important?",
+    "questionLatex": "$\\text{Importance of azo compounds}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Many azo compounds are intensely coloured and are widely used as dyes in textile, leather and food industries."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Azo Coupling Reaction",
+    "familyId": "azo_coupling_product",
+    "questionText": "The reaction of benzenediazonium chloride with phenol in alkaline medium produces:",
+    "questionLatex": "$C_6H_5N_2^+Cl^- + C_6H_5OH \\rightarrow ?$",
+    "options": [
+      "Phenol",
+      "Aniline",
+      "p-Hydroxyazobenzene",
+      "Chlorobenzene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Coupling with phenol occurs mainly at the para position, producing p-hydroxyazobenzene."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Distinguishing Tests",
+    "familyId": "carbylamine_test",
+    "questionText": "Which class of amines gives a positive carbylamine test?",
+    "questionLatex": "$\\text{Carbylamine test}$",
+    "options": [
+      "Primary amines",
+      "Secondary amines",
+      "Tertiary amines",
+      "All amines"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Only primary amines react with chloroform and alcoholic KOH to produce foul-smelling isocyanides."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Distinguishing Tests",
+    "familyId": "carbylamine_reagents",
+    "questionText": "Which reagents are used in the carbylamine test?",
+    "questionLatex": "$RNH_2 + CHCl_3 + KOH \\rightarrow ?$",
+    "options": [
+      "CHCl_3 and alcoholic KOH",
+      "Br_2 and NaOH",
+      "NaNO_2 and HCl",
+      "FeCl_3 and water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The carbylamine test uses chloroform and alcoholic potassium hydroxide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "Amines",
+    "topic": "Applications of Amines",
+    "familyId": "aniline_use",
+    "questionText": "Mention one important industrial use of aniline.",
+    "questionLatex": "$\\text{Use of aniline}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Aniline is widely used in the manufacture of dyes, pharmaceuticals, rubber-processing chemicals and explosives."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

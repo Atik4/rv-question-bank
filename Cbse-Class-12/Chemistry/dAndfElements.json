@@ -1,0 +1,1125 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Position in Periodic Table",
+    "familyId": "d_block_position",
+    "questionText": "Which groups of the periodic table constitute the d-block elements?",
+    "questionLatex": "$\\text{Groups constituting the d-block elements}$",
+    "options": [
+      "Groups 1-2",
+      "Groups 3-12",
+      "Groups 13-18",
+      "Lanthanoids only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The d-block occupies groups 3 to 12 of the periodic table."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "f-Block Elements",
+    "familyId": "f_block_definition",
+    "questionText": "What are inner transition elements?",
+    "questionLatex": "$\\text{Define inner transition elements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The elements in which 4f and 5f orbitals are progressively filled are called inner transition elements."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Transition Elements",
+    "familyId": "iupac_definition",
+    "questionText": "According to IUPAC, a transition element is one that:",
+    "questionLatex": "$\\text{IUPAC definition of transition element}$",
+    "options": [
+      "Has a completely filled d-subshell",
+      "Has an incomplete d-subshell in its atom or in one of its oxidation states",
+      "Belongs to group 12",
+      "Contains f-electrons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "IUPAC defines transition elements as those having an incomplete d-subshell in the atom or one of its ions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Transition Elements",
+    "familyId": "group12_exception",
+    "questionText": "Why are Zn, Cd and Hg not regarded as transition elements?",
+    "questionLatex": "$\\text{Reason why Zn, Cd and Hg are not transition elements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Zn, Cd and Hg possess completely filled $d^{10}$ configurations in both their atoms and common oxidation states; therefore, they are not regarded as transition elements."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Series of Transition Elements",
+    "familyId": "transition_series",
+    "questionText": "Which of the following represents the first transition series?",
+    "questionLatex": "$\\text{First transition series}$",
+    "options": [
+      "Y to Cd",
+      "La to Hg",
+      "Sc to Zn",
+      "Ce to Lu"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The first transition series extends from Scandium (Sc) to Zinc (Zn)."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Lanthanoids and Actinoids",
+    "familyId": "lanthanoid_actinoid",
+    "questionText": "Name the two series of inner transition elements.",
+    "questionLatex": "$\\text{Name the two series of inner transition elements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The two series of inner transition elements are the lanthanoids (Ce to Lu) and actinoids (Th to Lr)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Electronic Configuration",
+    "familyId": "general_configuration",
+    "questionText": "The general electronic configuration of transition elements is:",
+    "questionLatex": "$(n-1)d^{1-10}ns^{1-2}$",
+    "options": [
+      "ns^{1-2} np^{1-6}",
+      "(n-1)d^{1-10} ns^{1-2}",
+      "nf^{1-14} ns^{2}",
+      "ns^{2} np^{6}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The general electronic configuration of transition elements is $(n-1)d^{1-10}ns^{1-2}$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Electronic Configuration",
+    "familyId": "chromium_configuration",
+    "questionText": "What is the ground-state electronic configuration of chromium (Z = 24)?",
+    "questionLatex": "$\\text{Electronic configuration of Cr}$",
+    "options": [
+      "3d^4 4s^2",
+      "3d^5 4s^1",
+      "3d^3 4s^3",
+      "3d^6 4s^0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chromium has the stable half-filled configuration $3d^5 4s^1$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Electronic Configuration",
+    "familyId": "copper_configuration",
+    "questionText": "The ground-state electronic configuration of copper (Z = 29) is:",
+    "questionLatex": "$\\text{Electronic configuration of Cu}$",
+    "options": [
+      "3d^9 4s^2",
+      "3d^8 4s^3",
+      "3d^{10}4s^1",
+      "3d^7 4s^4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Copper exhibits the stable completely filled d-subshell configuration $3d^{10} 4s^1$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Transition Elements",
+    "familyId": "scandium_transition_element",
+    "questionText": "Why is scandium regarded as a transition element?",
+    "questionLatex": "$\\text{Why is scandium a transition element?}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Scandium is regarded as a transition element because its atom contains a partially filled 3d subshell with configuration $3d^1 4s^2$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Characteristic Properties",
+    "familyId": "transition_characteristics",
+    "questionText": "Which of the following is a characteristic property of transition elements?",
+    "questionLatex": "$\\text{Characteristic property of transition elements}$",
+    "options": [
+      "Formation of coloured ions",
+      "Variable oxidation states",
+      "Complex formation",
+      "All of these"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Transition elements exhibit variable oxidation states, coloured ions, complex formation and catalytic activity."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Physical Properties",
+    "familyId": "metallic_properties",
+    "questionText": "State any two metallic properties shown by transition elements.",
+    "questionLatex": "$\\text{Metallic properties of transition elements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Transition elements generally exhibit high tensile strength, malleability, ductility, metallic lustre and high thermal and electrical conductivity."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Physical Properties",
+    "familyId": "hardness_transition_metals",
+    "questionText": "Which of the following transition metals are exceptions to the general hardness trend?",
+    "questionLatex": "$\\text{Exceptions to hardness trend}$",
+    "options": [
+      "Fe, Co, Ni",
+      "Zn, Cd, Hg",
+      "Sc, Ti, V",
+      "Cr, Mn, Fe"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Zn, Cd and Hg are relatively soft and do not show the typical hardness of transition metals."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Melting Points",
+    "familyId": "high_melting_points",
+    "questionText": "Why do most transition metals possess high melting and boiling points?",
+    "questionLatex": "$\\text{Reason for high melting points}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Most transition metals possess high melting and boiling points due to strong metallic bonding arising from the participation of both $ns$ and $(n-1)d$ electrons."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Atomisation Enthalpy",
+    "familyId": "enthalpy_atomisation",
+    "questionText": "Transition elements generally have high enthalpies of atomisation because:",
+    "questionLatex": "$\\text{Reason for high enthalpy of atomisation}$",
+    "options": [
+      "They contain noble gas configuration",
+      "They possess strong interatomic metallic bonding",
+      "They have low density",
+      "Their d-orbitals are absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Strong metallic bonding due to a large number of unpaired electrons results in high enthalpies of atomisation."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Atomic and Ionic Sizes",
+    "familyId": "size_trend",
+    "questionText": "How do atomic radii generally vary across a transition series?",
+    "questionLatex": "$\\text{Variation of atomic radii across a transition series}$",
+    "options": [
+      "Increase sharply",
+      "Remain constant",
+      "Show a gradual decrease",
+      "Increase and then decrease sharply"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Atomic radii generally decrease gradually across a transition series due to increasing nuclear charge."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Lanthanoid Contraction",
+    "familyId": "lanthanoid_contraction_definition",
+    "questionText": "What is lanthanoid contraction?",
+    "questionLatex": "$\\text{Define lanthanoid contraction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Lanthanoid contraction is the regular decrease in atomic and ionic radii across the lanthanoid series due to ineffective shielding by 4f electrons."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Lanthanoid Contraction",
+    "familyId": "zr_hf_similarity",
+    "questionText": "The nearly identical atomic radii of zirconium and hafnium are due to:",
+    "questionLatex": "$\\text{Reason for similarity between Zr and Hf}$",
+    "options": [
+      "Diagonal relationship",
+      "Lanthanoid contraction",
+      "Inert pair effect",
+      "Back bonding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lanthanoid contraction causes the atomic radii of Hf and Zr to become nearly identical."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Density",
+    "familyId": "density_trend",
+    "questionText": "Why does the density of transition elements generally increase across a series?",
+    "questionLatex": "$\\text{Reason for increase in density}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Density generally increases because atomic size decreases while atomic mass increases across the series."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Oxidation States",
+    "familyId": "variable_oxidation_states",
+    "questionText": "Why do transition elements exhibit variable oxidation states?",
+    "questionLatex": "$\\text{Reason for variable oxidation states}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Transition elements exhibit variable oxidation states because the energies of the $ns$ and $(n-1)d$ orbitals are comparable, allowing different numbers of electrons to participate in bonding."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Oxidation States",
+    "familyId": "highest_oxidation_state",
+    "questionText": "In the first transition series, the highest oxidation state is exhibited by:",
+    "questionLatex": "$\\text{Highest oxidation state in first transition series}$",
+    "options": [
+      "Fe",
+      "Co",
+      "Mn",
+      "Ni"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Manganese exhibits the highest oxidation state of +7 in the first transition series."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Oxidation States",
+    "familyId": "common_oxidation_state",
+    "questionText": "Which oxidation state is most common among transition elements?",
+    "questionLatex": "$\\text{Most common oxidation state}$",
+    "options": [
+      "+1",
+      "+2",
+      "+7",
+      "+8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Loss of two $ns$ electrons commonly gives the +2 oxidation state."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Oxidation States",
+    "familyId": "manganate_permanganate",
+    "questionText": "The oxidation state of manganese in KMnO₄ is:",
+    "questionLatex": "$\\text{Oxidation state of Mn in } KMnO_4$",
+    "options": [
+      "+4",
+      "+5",
+      "+6",
+      "+7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "In $KMnO_4$, manganese exists in the +7 oxidation state."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Coloured Compounds",
+    "familyId": "colour_transition_elements",
+    "questionText": "Why are many transition metal compounds coloured?",
+    "questionLatex": "$\\text{Reason for colour in transition metal compounds}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Many transition metal compounds are coloured due to electronic transitions between split $d$-orbitals in the presence of ligands."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Coloured Compounds",
+    "familyId": "colourless_ions",
+    "questionText": "Which of the following ions is colourless due to the absence of partially filled d-orbitals?",
+    "questionLatex": "$\\text{Identify the colourless ion}$",
+    "options": [
+      "Ti³⁺",
+      "Fe²⁺",
+      "Cu²⁺",
+      "Sc³⁺"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "$Sc^{3+}$ has a $d^0$ configuration and therefore does not exhibit $d$-$d$ transitions."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Magnetic Properties",
+    "familyId": "paramagnetism_cause",
+    "questionText": "Paramagnetism in transition elements arises due to:",
+    "questionLatex": "$\\text{Cause of paramagnetism}$",
+    "options": [
+      "Paired electrons",
+      "Unpaired electrons",
+      "Filled orbitals",
+      "Noble gas configuration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Unpaired electrons possess magnetic moments that give rise to paramagnetism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Magnetic Properties",
+    "familyId": "magnetic_moment_formula",
+    "questionText": "The spin-only magnetic moment is given by:",
+    "questionLatex": "$\\mu=\\sqrt{n(n+2)} \\text{ BM}$",
+    "options": [
+      "$\\mu=n \\text{ BM}$",
+      "$\\mu=\\sqrt{n(n+2)} \\text{ BM}$",
+      "$\\mu=n^2 \\text{ BM}$",
+      "$\\mu=\\sqrt{2n} \\text{ BM}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The spin-only magnetic moment depends on the number of unpaired electrons and is given by $\\mu = \\sqrt{n(n+2)} \\text{ BM}$."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Magnetic Properties",
+    "familyId": "unpaired_electrons_fe3",
+    "questionText": "How many unpaired electrons are present in Fe³⁺ (Z = 26)?",
+    "questionLatex": "$\\text{Fe}^{3+}: [Ar] 3d^5$",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "$Fe^{3+}$ has the configuration $[Ar] 3d^5$ containing five unpaired electrons."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Catalytic Properties",
+    "familyId": "catalytic_activity",
+    "questionText": "Why do transition metals and their compounds often act as catalysts?",
+    "questionLatex": "$\\text{Reason for catalytic activity}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Transition metals and their compounds act as catalysts because they can exhibit variable oxidation states and provide suitable surfaces for adsorption of reactant molecules."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Catalytic Properties",
+    "familyId": "industrial_catalysts",
+    "questionText": "Which of the following is correctly matched with its catalytic application?",
+    "questionLatex": "$\\text{Catalyst and application}$",
+    "options": [
+      "Fe - Contact process",
+      "V_2O_5 - Haber process",
+      "Fe - Haber process",
+      "Ni - Ostwald process"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Iron is used as a catalyst in the Haber process for the manufacture of ammonia."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Complex Formation",
+    "familyId": "complex_formation_reason",
+    "questionText": "Why do transition elements readily form coordination compounds?",
+    "questionLatex": "$\\text{Reason for complex formation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Transition metal ions readily form coordination compounds because of their small size, high charge density and availability of vacant d-orbitals for accepting lone pairs from ligands."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Complex Formation",
+    "familyId": "coordination_compound_example",
+    "questionText": "Which of the following is a coordination compound of a transition metal?",
+    "questionLatex": "$\\text{Identify the coordination compound}$",
+    "options": [
+      "NaCl",
+      "$[Fe(CN)_6]^{4-}$",
+      "CaCO_3",
+      "KNO_3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hexacyanoferrate(II), $[Fe(CN)_6]^{4-}$, is a coordination complex of iron."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Interstitial Compounds",
+    "familyId": "interstitial_definition",
+    "questionText": "What are interstitial compounds?",
+    "questionLatex": "$\\text{Define interstitial compounds}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Interstitial compounds are compounds formed when small atoms such as hydrogen, carbon, nitrogen or boron occupy the interstitial spaces in the crystal lattice of transition metals."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Interstitial Compounds",
+    "familyId": "interstitial_properties",
+    "questionText": "Which property is commonly exhibited by interstitial compounds?",
+    "questionLatex": "$\\text{Property of interstitial compounds}$",
+    "options": [
+      "Low melting points",
+      "Poor conductivity",
+      "High hardness and high melting points",
+      "High volatility"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Interstitial compounds are generally hard, rigid and possess high melting points."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Alloys",
+    "familyId": "alloy_definition",
+    "questionText": "What is an alloy?",
+    "questionLatex": "$\\text{Define alloy}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An alloy is a homogeneous mixture of two or more metals or a metal with a non-metal that exhibits metallic properties."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Alloys",
+    "familyId": "alloy_identification",
+    "questionText": "Which of the following alloys contains chromium and nickel as important constituents?",
+    "questionLatex": "$\\text{Identify the alloy}$",
+    "options": [
+      "Brass",
+      "Bronze",
+      "Stainless steel",
+      "Solder"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Stainless steel is an alloy containing iron, chromium and nickel."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Dichromate",
+    "familyId": "dichromate_formula",
+    "questionText": "What is the chemical formula of potassium dichromate?",
+    "questionLatex": "$\\text{Formula of potassium dichromate}$",
+    "options": [
+      "$K_2CrO_4$",
+      "$K_2Cr_2O_7$",
+      "$KMnO_4$",
+      "$CrO_3$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Potassium dichromate has the molecular formula $K_2Cr_2O_7$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Dichromate",
+    "familyId": "chromate_dichromate_equilibrium",
+    "questionText": "The equilibrium between chromate and dichromate ions is represented by:",
+    "questionLatex": "$2CrO_4^{2-} + 2H^+ \\rightleftharpoons Cr_2O_7^{2-} + H_2O$",
+    "options": [
+      "$Cr_2O_7^{2-} + H_2O \\rightleftharpoons 2CrO_4^{2-} + 2H^+$",
+      "$2CrO_4^{2-} + 2H^+ \\rightleftharpoons Cr_2O_7^{2-} + H_2O$",
+      "$CrO_4^{2-} \\rightleftharpoons Cr^{3+} + O_2$",
+      "$Cr_2O_7^{2-} \\rightleftharpoons 2Cr^{3+} + 7O^{2-}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Acidification converts chromate ions into dichromate ions according to this equilibrium."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Dichromate",
+    "familyId": "dichromate_colour",
+    "questionText": "The colour of dichromate ion ($Cr_2O_7^{2-}$) in aqueous solution is:",
+    "questionLatex": "$\\text{Colour of } Cr_2O_7^{2-}$",
+    "options": [
+      "Yellow",
+      "Orange",
+      "Green",
+      "Blue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dichromate ions are orange in colour, whereas chromate ions are yellow."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Dichromate",
+    "familyId": "dichromate_oxidising_agent",
+    "questionText": "Why is potassium dichromate widely used as an oxidising agent in acidic medium?",
+    "questionLatex": "$\\text{Oxidising nature of } K_2Cr_2O_7$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Potassium dichromate is a strong oxidising agent in acidic medium because Cr(VI) is readily reduced to the more stable Cr(III) state."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "familyId": "permanganate_formula",
+    "questionText": "What is the chemical formula of potassium permanganate?",
+    "questionLatex": "$\\text{Formula of potassium permanganate}$",
+    "options": [
+      "KMnO_4",
+      "K_2MnO_4",
+      "MnO_2",
+      "KMn_2O_7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Potassium permanganate has the molecular formula $KMnO_4$."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "familyId": "permanganate_oxidation_state",
+    "questionText": "The oxidation state of manganese in KMnO₄ is:",
+    "questionLatex": "$\\text{Oxidation state of Mn in } KMnO_4$",
+    "options": [
+      "+4",
+      "+5",
+      "+6",
+      "+7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Manganese exists in the +7 oxidation state in potassium permanganate."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "familyId": "permanganate_colour",
+    "questionText": "The colour of potassium permanganate crystals is:",
+    "questionLatex": "$\\text{Colour of } KMnO_4$",
+    "options": [
+      "Green",
+      "Orange",
+      "Purple",
+      "Yellow"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Potassium permanganate is a deep purple crystalline solid."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "familyId": "permanganate_reduction_acidic",
+    "questionText": "In acidic medium, permanganate ion is reduced to:",
+    "questionLatex": "$MnO_4^- \\rightarrow ?$",
+    "options": [
+      "MnO_2",
+      "Mn^{2+}",
+      "MnO_4^{2-}",
+      "Mn"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In acidic medium, $MnO_4^-$ is reduced to $Mn^{2+}$."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "familyId": "permanganate_reduction_neutral",
+    "questionText": "In neutral or weakly alkaline medium, permanganate ion is reduced to:",
+    "questionLatex": "$MnO_4^- \\rightarrow ?$",
+    "options": [
+      "MnO_2",
+      "Mn^{2+}",
+      "MnO_4^{2-}",
+      "Mn"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "In neutral or weakly alkaline medium, permanganate is reduced to manganese dioxide ($MnO_2$)."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Lanthanoids",
+    "familyId": "lanthanoid_definition",
+    "questionText": "Who are lanthanoids?",
+    "questionLatex": "$\\text{Define lanthanoids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Lanthanoids are the fourteen elements following lanthanum in which the 4f orbitals are progressively filled, from cerium (Ce) to lutetium (Lu)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Lanthanoids",
+    "familyId": "common_lanthanoid_oxidation",
+    "questionText": "The most common oxidation state exhibited by lanthanoids is:",
+    "questionLatex": "$\\text{Common oxidation state of lanthanoids}$",
+    "options": [
+      "+2",
+      "+3",
+      "+4",
+      "+5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The +3 oxidation state is the most stable and common oxidation state of lanthanoids."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Actinoids",
+    "familyId": "actinoid_definition",
+    "questionText": "Define actinoids.",
+    "questionLatex": "$\\text{Define actinoids}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Actinoids are the fourteen elements following actinium in which the 5f orbitals are progressively filled, extending from thorium (Th) to lawrencium (Lr)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Chemistry",
+    "chapter": "The d and f Block Elements",
+    "topic": "Actinoids",
+    "familyId": "actinoid_characteristic",
+    "questionText": "Compared to lanthanoids, actinoids show a greater tendency to exhibit:",
+    "questionLatex": "$\\text{Characteristic property of actinoids}$",
+    "options": [
+      "Fixed oxidation state",
+      "Variable oxidation states",
+      "Chemical inertness",
+      "Absence of radioactivity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Actinoids exhibit a wider range of oxidation states because the energies of 5f, 6d and 7s orbitals are comparable."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
