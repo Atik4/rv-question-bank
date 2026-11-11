@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Basic Concepts",
+    "familyId": "vector_definition",
+    "questionText": "A quantity having both magnitude and direction is called",
+    "questionLatex": "$$\\text{A quantity having both magnitude and direction is called}$$",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Tensor",
+      "Variable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A quantity having both magnitude and direction is called a vector."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Position Vector",
+    "familyId": "position_vector_magnitude",
+    "questionText": "Find the magnitude of the position vector of the point $P(2, 3, 6)$.",
+    "questionLatex": "$$|\\vec{OP}|=\\sqrt{2^2+3^2+6^2}$$",
+    "options": [
+      "$\\sqrt{49}$",
+      "$\\sqrt{45}$",
+      "$\\sqrt{41}$",
+      "$7\\sqrt{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Magnitude $= \\sqrt{2^2 + 3^2 + 6^2} = \\sqrt{4 + 9 + 36} = \\sqrt{49} = 7$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Direction Cosines",
+    "familyId": "direction_cosines_property",
+    "questionText": "If $l$, $m$ and $n$ are the direction cosines of a vector, then",
+    "questionLatex": "$$l^2+m^2+n^2=?$$",
+    "options": [
+      "$0$",
+      "$1$",
+      "$2$",
+      "Depends on the vector"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Direction cosines satisfy the property $l^2 + m^2 + n^2 = 1$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Direction Ratios",
+    "familyId": "direction_ratios",
+    "questionText": "The direction ratios of a vector are proportional to its",
+    "questionLatex": "$$\\text{Direction ratios are proportional to}$$",
+    "options": [
+      "Magnitude",
+      "Direction cosines",
+      "Position coordinates only",
+      "Unit vectors"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Direction ratios $(a, b, c)$ are proportional to the direction cosines $(l, m, n)$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Types of Vectors",
+    "familyId": "zero_vector",
+    "questionText": "A vector whose initial and terminal points coincide is called",
+    "questionLatex": "$$\\text{Vector with coincident initial and terminal points}$$",
+    "options": [
+      "Unit vector",
+      "Negative vector",
+      "Zero vector",
+      "Position vector"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Such a vector has zero magnitude and is called the zero vector or null vector."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Types of Vectors",
+    "familyId": "unit_vector_definition",
+    "questionText": "A vector whose magnitude is unity is called",
+    "questionLatex": "$$\\text{Vector having magnitude } 1$$",
+    "options": [
+      "Null vector",
+      "Unit vector",
+      "Equal vector",
+      "Collinear vector"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A vector with magnitude equal to $1$ is called a unit vector."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Types of Vectors",
+    "familyId": "equal_vectors",
+    "questionText": "Two vectors are equal if they have",
+    "questionLatex": "$$\\text{Condition for equality of vectors}$$",
+    "options": [
+      "Same magnitude only",
+      "Same direction only",
+      "Same magnitude and direction",
+      "Same initial point"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Equal vectors have the same magnitude and the same direction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalars and Vectors",
+    "familyId": "scalar_quantity",
+    "questionText": "Which of the following is a scalar quantity?",
+    "questionLatex": "$$\\text{Identify the scalar quantity}$$",
+    "options": [
+      "Force",
+      "Velocity",
+      "Acceleration",
+      "Density"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Density has magnitude only and is therefore a scalar quantity, whereas force, velocity, and acceleration are vectors."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Direction Cosines",
+    "familyId": "find_direction_cosines",
+    "questionText": "Find the direction cosines of the vector $2\\hat{i} + 2\\hat{j} + \\hat{k}$.",
+    "questionLatex": "$$\\vec{a}=2\\hat{i}+2\\hat{j}+\\hat{k}$$",
+    "options": [
+      "$\\left(\\frac{2}{3},\\frac{2}{3},\\frac{1}{3}\\right)$",
+      "$\\left(\\frac{2}{\\sqrt{9}},\\frac{2}{\\sqrt{9}},\\frac{1}{\\sqrt{9}}\\right)$",
+      "$\\left(\\frac{2}{\\sqrt{5}},\\frac{2}{\\sqrt{5}},\\frac{1}{\\sqrt{5}}\\right)$",
+      "$\\left(\\frac{1}{3},\\frac{1}{3},\\frac{1}{3}\\right)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Magnitude $= \\sqrt{2^2+2^2+1^2} = \\sqrt{9} = 3$. Direction cosines are $(\\frac{2}{3}, \\frac{2}{3}, \\frac{1}{3})$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Types of Vectors",
+    "familyId": "negative_vector",
+    "questionText": "If $\\vec{b} = -\\vec{a}$, then $\\vec{b}$ has",
+    "questionLatex": "$$\\vec{b}=-\\vec{a}$$",
+    "options": [
+      "Same magnitude and same direction as $\\vec{a}$",
+      "Same magnitude and opposite direction to $\\vec{a}$",
+      "Different magnitude and same direction",
+      "Different magnitude and opposite direction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The negative of a vector has the same magnitude but the opposite direction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Vector Addition",
+    "familyId": "triangle_law_addition",
+    "questionText": "According to the triangle law of vector addition, if a particle moves from A to B and then from B to C, the resultant vector is",
+    "questionLatex": "$$\\overrightarrow{AB}+\\overrightarrow{BC}=?$$",
+    "options": [
+      "$\\overrightarrow{BA}$",
+      "$\\overrightarrow{CB}$",
+      "$\\overrightarrow{AC}$",
+      "$\\overrightarrow{CA}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "By the triangle law of vector addition, $\\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{AC}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Vector Addition",
+    "familyId": "commutative_property",
+    "questionText": "Which property of vector addition is represented by $\\vec{a} + \\vec{b} = \\vec{b} + \\vec{a}$?",
+    "questionLatex": "$$\\vec{a}+\\vec{b}=\\vec{b}+\\vec{a}$$",
+    "options": [
+      "Associative property",
+      "Distributive property",
+      "Commutative property",
+      "Identity property"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vector addition satisfies the commutative law, where the order of vectors does not affect the sum."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Vector Addition",
+    "familyId": "associative_property",
+    "questionText": "Which property is represented by $(\\vec{a}+\\vec{b})+\\vec{c}=\\vec{a}+(\\vec{b}+\\vec{c})$?",
+    "questionLatex": "$$(\\vec{a}+\\vec{b})+\\vec{c}=\\vec{a}+(\\vec{b}+\\vec{c})$$",
+    "options": [
+      "Associative property",
+      "Commutative property",
+      "Closure property",
+      "Inverse property"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "This represents the associative property, indicating that the grouping of vectors does not change the result of the sum."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Vector Subtraction",
+    "familyId": "vector_difference",
+    "questionText": "The vector difference $\\vec{a}-\\vec{b}$ can be written as",
+    "questionLatex": "$$\\vec{a}-\\vec{b}$$",
+    "options": [
+      "$\\vec{a}+\\vec{b}$",
+      "$\\vec{a}+(-\\vec{b})$",
+      "$-\\vec{a}+\\vec{b}$",
+      "$-(\\vec{a}+\\vec{b})$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vector subtraction is defined as the addition of the negative of the vector to be subtracted."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Parallelogram Law",
+    "familyId": "parallelogram_law",
+    "questionText": "According to the parallelogram law, the sum of two vectors is represented by",
+    "questionLatex": "$$\\vec{a}+\\vec{b}$$",
+    "options": [
+      "One side of the parallelogram",
+      "The shorter diagonal",
+      "The diagonal through the common initial point",
+      "The perpendicular bisector"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "According to the parallelogram law of vector addition, if two vectors are represented by the adjacent sides of a parallelogram, their sum is represented by the diagonal passing through their common initial point."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalar Multiplication",
+    "familyId": "scalar_vector_product",
+    "questionText": "If $|\\vec{a}|=5$ and $k=-3$, then $|k\\vec{a}|$ equals",
+    "questionLatex": "$$|k\\vec{a}|=|k||\\vec{a}|$$",
+    "options": [
+      "5",
+      "8",
+      "15",
+      "-15"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$|k\\vec{a}| = |k| \\times |\\vec{a}| = |-3| \\times 5 = 3 \\times 5 = 15$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalar Multiplication",
+    "familyId": "unit_vector_formula",
+    "questionText": "The unit vector in the direction of a non-zero vector $\\vec{a}$ is",
+    "questionLatex": "$$\\hat{a}=?$$",
+    "options": [
+      "$\\frac{\\vec{a}}{|\\vec{a}|}$",
+      "$|\\vec{a}|\\vec{a}$",
+      "$\\frac{|\\vec{a}|}{\\vec{a}}$",
+      "$\\vec{a}|\\vec{a}|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A unit vector $\\hat{a}$ is defined as a vector with magnitude 1 in the direction of $\\vec{a}$, calculated as $\\frac{\\vec{a}}{|\\vec{a}|}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Unit Vectors",
+    "familyId": "standard_unit_vectors",
+    "questionText": "The vectors $\\hat{i}, \\hat{j}$ and $\\hat{k}$ are unit vectors along",
+    "questionLatex": "$$\\hat{i},\\hat{j},\\hat{k}$$",
+    "options": [
+      "Y, Z and X axes respectively",
+      "X, Y and Z axes respectively",
+      "Z, X and Y axes respectively",
+      "Only X-axis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The standard unit vectors $\\hat{i}, \\hat{j}, \\hat{k}$ are defined along the positive X, Y, and Z axes respectively."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Components of Vectors",
+    "familyId": "vector_magnitude_component",
+    "questionText": "Find the magnitude of the vector $3\\hat{i}+4\\hat{j}$.",
+    "questionLatex": "$$\\left|3\\hat{i}+4\\hat{j}\\right|$$",
+    "options": [
+      "7",
+      "5",
+      "25",
+      "$\\sqrt{7}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Magnitude $= \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Components of Vectors",
+    "familyId": "vector_addition_components",
+    "questionText": "Find $\\vec{a}+\\vec{b}$ if $\\vec{a}=2\\hat{i}+3\\hat{j}+\\hat{k}$ and $\\vec{b}=\\hat{i}-2\\hat{j}+4\\hat{k}$.",
+    "questionLatex": "$$(2\\hat{i}+3\\hat{j}+\\hat{k})+(\\hat{i}-2\\hat{j}+4\\hat{k})$$",
+    "options": [
+      "$3\\hat{i}+\\hat{j}+5\\hat{k}$",
+      "$\\hat{i}+\\hat{j}+3\\hat{k}$",
+      "$3\\hat{i}+5\\hat{j}+5\\hat{k}$",
+      "$2\\hat{i}+\\hat{j}+4\\hat{k}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "To add vectors, add their corresponding components: $(2+1)\\hat{i} + (3-2)\\hat{j} + (1+4)\\hat{k} = 3\\hat{i} + \\hat{j} + 5\\hat{k}$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "dot_product_definition",
+    "questionText": "The scalar product of two vectors $\\vec{a}$ and $\\vec{b}$ is defined as",
+    "questionLatex": "$$\\vec{a}\\cdot\\vec{b}=?$$",
+    "options": [
+      "$|\\vec{a}||\\vec{b}|\\sin\\theta$",
+      "$|\\vec{a}||\\vec{b}|\\cos\\theta$",
+      "$\\vec{a}\\times\\vec{b}$",
+      "$|\\vec{a}|+|\\vec{b}|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The scalar product is defined as $|\\vec{a}||\\vec{b}|\\cos\\theta$, where $\\theta$ is the angle between the vectors."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "dot_product_unit_vectors",
+    "questionText": "The value of $\\hat{i}\\cdot\\hat{j}$ is",
+    "questionLatex": "$$\\hat{i}\\cdot\\hat{j}$$",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The unit vectors $\\hat{i}$ and $\\hat{j}$ are perpendicular, so their dot product is 0."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "dot_product_same_vector",
+    "questionText": "If $\\vec{a}=2\\hat{i}-\\hat{j}+2\\hat{k}$, then $\\vec{a}\\cdot\\vec{a}$ equals",
+    "questionLatex": "$$(2\\hat{i}-\\hat{j}+2\\hat{k})\\cdot(2\\hat{i}-\\hat{j}+2\\hat{k})$$",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$\\vec{a}\\cdot\\vec{a} = |\\vec{a}|^2 = 2^2 + (-1)^2 + 2^2 = 4 + 1 + 4 = 9$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "angle_between_vectors",
+    "questionText": "Find the angle between the vectors $\\hat{i}+\\hat{j}$ and $\\hat{i}-\\hat{j}$.",
+    "questionLatex": "$$(\\hat{i}+\\hat{j})\\cdot(\\hat{i}-\\hat{j})$$",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Their dot product is $(1)(1) + (1)(-1) = 1 - 1 = 0$, therefore the vectors are perpendicular (90°)."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "orthogonal_vectors",
+    "questionText": "For non-zero vectors $\\vec{a}$ and $\\vec{b}$, if $\\vec{a}\\cdot\\vec{b}=0$, then the vectors are",
+    "questionLatex": "$$\\vec{a}\\cdot\\vec{b}=0$$",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Collinear"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The scalar product of two non-zero perpendicular vectors is zero."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "find_dot_product",
+    "questionText": "Find the scalar product of the vectors $2\\hat{i}+3\\hat{j}-\\hat{k}$ and $\\hat{i}-2\\hat{j}+4\\hat{k}$.",
+    "questionLatex": "$$(2\\hat{i}+3\\hat{j}-\\hat{k})\\cdot(\\hat{i}-2\\hat{j}+4\\hat{k})$$",
+    "options": [
+      "-8",
+      "-6",
+      "-4",
+      "4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Dot product = $2(1) + 3(-2) + (-1)(4) = 2 - 6 - 4 = -8$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Projection",
+    "familyId": "projection_formula",
+    "questionText": "The scalar projection of vector $\\vec{a}$ on vector $\\vec{b}$ is",
+    "questionLatex": "$$\\text{proj}_{\\vec{b}}\\vec{a}$$",
+    "options": [
+      "$\\frac{\\vec{a}\\cdot\\vec{b}}{|\\vec{a}|}$",
+      "$\\frac{\\vec{a}\\cdot\\vec{b}}{|\\vec{b}|}$",
+      "$\\frac{|\\vec{a}|}{|\\vec{b}|}$",
+      "$\\vec{a}\\times\\vec{b}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Scalar projection of $\\vec{a}$ on $\\vec{b}$ equals $\\frac{\\vec{a}\\cdot\\vec{b}}{|\\vec{b}|}$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "angle_parallel_vectors",
+    "questionText": "If two vectors are parallel and in the same direction, the angle between them is",
+    "questionLatex": "$$\\theta=?$$",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Vectors in the same direction make an angle of 0°."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "angle_antiparallel_vectors",
+    "questionText": "If two vectors are parallel but in opposite directions, the angle between them is",
+    "questionLatex": "$$\\theta=?$$",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vectors in opposite directions make an angle of 180°."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "find_angle_using_dot_product",
+    "questionText": "Find the angle between the vectors $\\hat{i}+\\hat{j}+\\hat{k}$ and $\\hat{i}+\\hat{j}-\\hat{k}$.",
+    "questionLatex": "$$(\\hat{i}+\\hat{j}+\\hat{k})\\cdot(\\hat{i}+\\hat{j}-\\hat{k})$$",
+    "options": [
+      "$\\cos^{-1}(1/3)$",
+      "90°",
+      "45°",
+      "30°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Dot product = $1(1) + 1(1) + 1(-1) = 1$. Magnitudes = $\\sqrt{3}$ each. Thus, $\\cos\\theta = \\frac{1}{\\sqrt{3}\\sqrt{3}} = 1/3$, so $\\theta = \\cos^{-1}(1/3)$."
+    },
+    "difficultyScore": 55,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "cross_product_definition",
+    "questionText": "The vector product of two vectors $\\vec{a}$ and $\\vec{b}$ is defined as",
+    "questionLatex": "$$\\vec{a}\\times\\vec{b}$$",
+    "options": [
+      "$|\\vec{a}||\\vec{b}|\\cos\\theta$",
+      "$|\\vec{a}||\\vec{b}|\\sin\\theta\\,\\hat{n}$",
+      "$\\vec{a}\\cdot\\vec{b}$",
+      "$|\\vec{a}|+|\\vec{b}|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The vector product is defined as $|\\vec{a}||\\vec{b}|\\sin\\theta\\,\\hat{n}$, where $\\hat{n}$ is a unit vector perpendicular to both vectors."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "unit_vector_cross_product",
+    "questionText": "The value of $\\hat{i} \\times \\hat{j}$ is",
+    "questionLatex": "$$\\hat{i}\\times\\hat{j}$$",
+    "options": [
+      "$\\hat{k}$",
+      "$-\\hat{k}$",
+      "$\\hat{i}$",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "According to the right-hand rule, $\\hat{i} \\times \\hat{j} = \\hat{k}$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "unit_vector_cross_product_reverse",
+    "questionText": "The value of $\\hat{j} \\times \\hat{i}$ is",
+    "questionLatex": "$$\\hat{j}\\times\\hat{i}$$",
+    "options": [
+      "$\\hat{k}$",
+      "$-\\hat{k}$",
+      "$\\hat{j}$",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cross product is anti-commutative, hence $\\hat{j} \\times \\hat{i} = -\\hat{k}$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "parallel_vectors_cross_product",
+    "questionText": "If two vectors are parallel, then their vector product is",
+    "questionLatex": "$$\\vec{a}\\times\\vec{b}$$",
+    "options": [
+      "1",
+      "$\\vec{a}$",
+      "$\\vec{b}$",
+      "$\\vec{0}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "For parallel vectors, $\\theta = 0^\\circ$ or $180^\\circ$, so $\\sin\\theta = 0$ and hence $\\vec{a} \\times \\vec{b} = \\vec{0}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "perpendicular_vectors_cross_product",
+    "questionText": "If two vectors are perpendicular, then $|\\vec{a} \\times \\vec{b}|$ equals",
+    "questionLatex": "$$|\\vec{a}\\times\\vec{b}|$$",
+    "options": [
+      "0",
+      "$|\\vec{a}|+|\\vec{b}|$",
+      "$|\\vec{a}||\\vec{b}|$",
+      "$|\\vec{a}|-|\\vec{b}|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For perpendicular vectors $\\theta = 90^\\circ$, therefore $|\\vec{a} \\times \\vec{b}| = |\\vec{a}||\\vec{b}|\\sin(90^\\circ) = |\\vec{a}||\\vec{b}|$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "cross_product_magnitude",
+    "questionText": "Find $|(2\\hat{i}) \\times (3\\hat{j})|$.",
+    "questionLatex": "$$\\left|(2\\hat{i})\\times(3\\hat{j})\\right|$$",
+    "options": [
+      "5",
+      "6",
+      "1",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$(2\\hat{i}) \\times (3\\hat{j}) = 6(\\hat{i} \\times \\hat{j}) = 6\\hat{k}$, therefore magnitude is 6."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "area_parallelogram",
+    "questionText": "The area of the parallelogram formed by vectors $\\vec{a}$ and $\\vec{b}$ is",
+    "questionLatex": "$$\\text{Area}=?$$",
+    "options": [
+      "$\\vec{a}\\cdot\\vec{b}$",
+      "$|\\vec{a}\\times\\vec{b}|$",
+      "$|\\vec{a}|+|\\vec{b}|$",
+      "$\\frac{|\\vec{a}\\times\\vec{b}|}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The magnitude of the vector product of the adjacent side vectors gives the area of the parallelogram."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "area_triangle",
+    "questionText": "The area of the triangle formed by vectors $\\vec{a}$ and $\\vec{b}$ is",
+    "questionLatex": "$$\\text{Area}=?$$",
+    "options": [
+      "$\\frac{1}{2}|\\vec{a}\\times\\vec{b}|",
+      "$|\\vec{a}\\times\\vec{b}|$",
+      "$\\vec{a}\\cdot\\vec{b}$",
+      "$\\frac{|\\vec{a}|+|\\vec{b}|}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The area of a triangle formed by two vectors is half the area of the corresponding parallelogram: $\\frac{1}{2}|\\vec{a}\\times\\vec{b}|$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "cross_product_components",
+    "questionText": "Find $\\hat{i} \\times \\hat{k}$.",
+    "questionLatex": "$$\\hat{i}\\times\\hat{k}$$",
+    "options": [
+      "$\\hat{j}$",
+      "$-\\hat{j}$",
+      "$\\hat{k}$",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using cyclic order $\\hat{i} \\times \\hat{j} = \\hat{k}$, $\\hat{j} \\times \\hat{k} = \\hat{i}$, therefore $\\hat{i} \\times \\hat{k} = -\\hat{j}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "vector_product_calculation",
+    "questionText": "Find $(\\hat{i}+\\hat{j}) \\times \\hat{k}$.",
+    "questionLatex": "$$(\\hat{i}+\\hat{j})\\times\\hat{k}$$",
+    "options": [
+      "$\\hat{i}-\\hat{j}$",
+      "$\\hat{i}+\\hat{j}$",
+      "$\\hat{k}$",
+      "$-\\hat{i}+\\hat{j}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$(\\hat{i}+\\hat{j}) \\times \\hat{k} = (\\hat{i} \\times \\hat{k}) + (\\hat{j} \\times \\hat{k}) = -\\hat{j} + \\hat{i} = \\hat{i}-\\hat{j}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Cross Product",
+    "familyId": "cross_product_general_vector",
+    "questionText": "Find the vector product of $\\vec{a}=\\hat{i}+2\\hat{j}$ and $\\vec{b}=2\\hat{i}+\\hat{j}$.",
+    "questionLatex": "$$(\\hat{i}+2\\hat{j})\\times(2\\hat{i}+\\hat{j})$$",
+    "options": [
+      "$-3\\hat{k}$",
+      "$3\\hat{k}$",
+      "$\\hat{k}$",
+      "$-\\hat{i}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using determinant expansion, $\\vec{a}\\times\\vec{b} = (1\\times 1 - 2\\times 2)\\hat{k} = (1 - 4)\\hat{k} = -3\\hat{k}$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Area Applications",
+    "familyId": "area_parallelogram_vectors",
+    "questionText": "Find the area of the parallelogram formed by vectors $2\\hat{i}+\\hat{j}$ and $\\hat{i}+2\\hat{j}$.",
+    "questionLatex": "$$\\left|(2\\hat{i}+\\hat{j})\\times(\\hat{i}+2\\hat{j})\\right|$$",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cross product is $(2\\times 2 - 1\\times 1)\\hat{k} = (4 - 1)\\hat{k} = 3\\hat{k}$. Area = $|3\\hat{k}| = 3$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Area Applications",
+    "familyId": "area_triangle_vectors",
+    "questionText": "Find the area of the triangle formed by vectors $2\\hat{i}+\\hat{j}$ and $\\hat{i}+2\\hat{j}$.",
+    "questionLatex": "$$\\frac{1}{2}\\left|(2\\hat{i}+\\hat{j})\\times(\\hat{i}+2\\hat{j})\\right|$$",
+    "options": [
+      "$\\frac{3}{2}$",
+      "3",
+      "2",
+      "$\\frac{1}{2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Area of triangle = $\\frac{1}{2} \\times |(2\\hat{i}+\\hat{j})\\times(\\hat{i}+2\\hat{j})| = \\frac{1}{2} \\times |3\\hat{k}| = \\frac{3}{2}$."
+    },
+    "difficultyScore": 50,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalar Triple Product",
+    "familyId": "scalar_triple_product_definition",
+    "questionText": "The scalar triple product of vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ is",
+    "questionLatex": "$$\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})$$",
+    "options": [
+      "$\\vec{a}\\times(\\vec{b}\\times\\vec{c})$",
+      "$\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})$",
+      "$(\\vec{a}\\cdot\\vec{b})\\vec{c}$",
+      "$\\vec{a}+\\vec{b}+\\vec{c}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The scalar triple product is defined as $\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalar Triple Product",
+    "familyId": "coplanar_vectors_condition",
+    "questionText": "Three vectors are coplanar if",
+    "questionLatex": "$$\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})=0$$",
+    "options": [
+      "$\\vec{a}\\cdot\\vec{b}=0$",
+      "$\\vec{a}\\times\\vec{b}=0$",
+      "$\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})=0$",
+      "$|\\vec{a}|=|\\vec{b}|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The scalar triple product vanishes ($\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})=0$) if the three vectors are coplanar."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Scalar Triple Product",
+    "familyId": "volume_parallelepiped",
+    "questionText": "The volume of the parallelepiped formed by vectors $\\vec{a}$, $\\vec{b}$ and $\\vec{c}$ is",
+    "questionLatex": "$$\\left|\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})\\right|$$",
+    "options": [
+      "$\\left|\\vec{a}\\times\\vec{b}\\right|$",
+      "$\\left|\\vec{a}\\cdot\\vec{b}\\right|$",
+      "$\\left|\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})\\right|$",
+      "$\\frac{1}{2}\\left|\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})\\right|$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The volume of the parallelepiped is given by the magnitude of the scalar triple product: $|\\vec{a}\\cdot(\\vec{b}\\times\\vec{c})|$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "angle_between_equal_vectors",
+    "questionText": "If $\\vec{a}\\cdot\\vec{b}=|\\vec{a}||\\vec{b}|$, then the angle between the vectors is",
+    "questionLatex": "$$\\vec{a}\\cdot\\vec{b}=|\\vec{a}||\\vec{b}|$$",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since $\\vec{a}\\cdot\\vec{b}=|\\vec{a}||\\vec{b}|\\cos\\theta$, the condition implies $\\cos\\theta=1$, hence $\\theta=0^\\circ$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Dot Product",
+    "familyId": "angle_between_opposite_vectors",
+    "questionText": "If $\\vec{a}\\cdot\\vec{b}=-|\\vec{a}||\\vec{b}|$, then the angle between the vectors is",
+    "questionLatex": "$$\\vec{a}\\cdot\\vec{b}=-|\\vec{a}||\\vec{b}|$$",
+    "options": [
+      "0°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Since $\\vec{a}\\cdot\\vec{b}=|\\vec{a}||\\vec{b}|\\cos\\theta$, the condition implies $\\cos\\theta=-1$, hence $\\theta=180^\\circ$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Direction Cosines",
+    "familyId": "direction_cosines_unit_vector",
+    "questionText": "The direction cosines of the unit vector $\\frac{1}{\\sqrt{3}}(\\hat{i}+\\hat{j}+\\hat{k})$ are",
+    "questionLatex": "$$\\frac{1}{\\sqrt{3}}(\\hat{i}+\\hat{j}+\\hat{k})$$",
+    "options": [
+      "$\\left(\\frac{1}{\\sqrt{3}},\\frac{1}{\\sqrt{3}},\\frac{1}{\\sqrt{3}}\\right)$",
+      "$(1,1,1)$",
+      "$\\left(\\frac{1}{3},\\frac{1}{3},\\frac{1}{3}\\right)$",
+      "$(0,0,1)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For any unit vector $\\hat{u} = l\\hat{i} + m\\hat{j} + n\\hat{k}$, the components $(l, m, n)$ are the direction cosines."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Vector Algebra",
+    "topic": "Vector Identities",
+    "familyId": "cross_product_self",
+    "questionText": "The value of $\\vec{a} \\times \\vec{a}$ is",
+    "questionLatex": "$$\\vec{a}\\times\\vec{a}$$",
+    "options": [
+      "$\\vec{a}$",
+      "$2\\vec{a}$",
+      "$\\vec{0}$",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since the angle between a vector and itself is $0^\\circ$, $\\vec{a}\\times\\vec{a} = |\\vec{a}||\\vec{a}|\\sin(0^\\circ)\\hat{n} = \\vec{0}$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

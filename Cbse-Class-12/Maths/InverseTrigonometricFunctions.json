@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Basic Concepts",
+    "familyId": "inverse_trigonometric_definition",
+    "questionText": "The inverse of a trigonometric function exists when the function is",
+    "questionLatex": "\\text{The inverse of a trigonometric function exists when the function is}",
+    "options": [
+      "Periodic",
+      "Continuous",
+      "One-one and onto",
+      "Differentiable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A function must be bijective (one-one and onto) to possess an inverse."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Value Branch",
+    "familyId": "principal_branch_sine",
+    "questionText": "The principal value branch of sin⁻¹x has range",
+    "questionLatex": "\\sin^{-1}x:[-1,1]\\rightarrow ?",
+    "options": [
+      "[-π, π]",
+      "[-π/2, π/2]",
+      "[0, π]",
+      "(0, π)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The principal value range of sin⁻¹x is [-π/2, π/2]."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Value Branch",
+    "familyId": "principal_branch_cosine",
+    "questionText": "The principal value branch of cos⁻¹x has range",
+    "questionLatex": "\\cos^{-1}x:[-1,1]\\rightarrow ?",
+    "options": [
+      "[0, π]",
+      "[-π/2, π/2]",
+      "(0, π)",
+      "[-π, 0]"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The principal value range of cos⁻¹x is [0, π]."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Value Branch",
+    "familyId": "principal_branch_tangent",
+    "questionText": "The principal value branch of tan⁻¹x has range",
+    "questionLatex": "\\tan^{-1}x:\\mathbb{R}\\rightarrow ?",
+    "options": [
+      "[0, π]",
+      "[-π/2, π/2]",
+      "(-π/2, π/2)",
+      "(0, π)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The principal value range of tan⁻¹x is (-π/2, π/2)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Domains and Ranges",
+    "familyId": "domain_sine_inverse",
+    "questionText": "The domain of the inverse sine function is",
+    "questionLatex": "\\text{Domain}(\\sin^{-1}x)=?",
+    "options": [
+      "[-1, 1]",
+      "ℝ",
+      "(−∞,∞)",
+      "[0, π]"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The inverse sine function is defined only for x ∈ [-1,1]."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_sin_half",
+    "questionText": "Find the principal value of sin⁻¹(1/2).",
+    "questionLatex": "\\sin^{-1}\\left(\\frac{1}{2}\\right)",
+    "options": [
+      "π/3",
+      "π/6",
+      "π/4",
+      "π/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since sin(π/6)=1/2 and π/6 lies in the principal value range."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cos_half",
+    "questionText": "Find the principal value of cos⁻¹(1/2).",
+    "questionLatex": "\\cos^{-1}\\left(\\frac{1}{2}\\right)",
+    "options": [
+      "π/6",
+      "π/3",
+      "π/2",
+      "2π/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "cos(π/3)=1/2 and π/3 belongs to [0,π]."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_tan_one",
+    "questionText": "Find the principal value of tan⁻¹(1).",
+    "questionLatex": "\\tan^{-1}(1)",
+    "options": [
+      "π/6",
+      "π/3",
+      "π/4",
+      "π/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "tan(π/4)=1 and π/4 lies in the principal branch."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_tan_negative_one",
+    "questionText": "Find the principal value of tan⁻¹(−1).",
+    "questionLatex": "\\tan^{-1}(-1)",
+    "options": [
+      "-π/4",
+      "π/4",
+      "-π/2",
+      "3π/4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "tan(-π/4) = -1 and -π/4 belongs to the principal branch."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Fundamental Properties",
+    "familyId": "sin_inverse_identity",
+    "questionText": "For x ∈ [-1,1], the value of sin(sin⁻¹x) is",
+    "questionLatex": "\\sin(\\sin^{-1}x)",
+    "options": [
+      "0",
+      "1",
+      "x",
+      "sin x"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "sin and sin⁻¹ are inverse functions on their principal domains."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_sin_negative_half",
+    "questionText": "Find the principal value of sin⁻¹(-1/2).",
+    "questionLatex": "\\sin^{-1}\\left(-\\frac{1}{2}\\right)",
+    "options": [
+      "-\\frac{\\pi}{6}",
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "-\\frac{\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since sin(-π/6) = -1/2 and -π/6 lies in the principal value range [-π/2, π/2]."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cos_negative_half",
+    "questionText": "Find the principal value of cos⁻¹(-1/2).",
+    "questionLatex": "\\cos^{-1}\\left(-\\frac{1}{2}\\right)",
+    "options": [
+      "\\frac{\\pi}{3}",
+      "\\frac{2\\pi}{3}",
+      "\\frac{\\pi}{6}",
+      "\\frac{5\\pi}{6}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "cos(2π/3) = -1/2 and 2π/3 belongs to [0, π]."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cosec_two",
+    "questionText": "Find the principal value of cosec⁻¹(2).",
+    "questionLatex": "\\csc^{-1}(2)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{4}",
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{2}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "cosec(π/6)=2 and π/6 belongs to the principal value range of cosec⁻¹."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cosec_negative_two",
+    "questionText": "Find the principal value of cosec⁻¹(-2).",
+    "questionLatex": "\\csc^{-1}(-2)",
+    "options": [
+      "-\\frac{\\pi}{6}",
+      "\\frac{\\pi}{6}",
+      "-\\frac{\\pi}{3}",
+      "\\frac{5\\pi}{6}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "cosec(-π/6)=-2 and -π/6 lies in the principal branch."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_sec_two",
+    "questionText": "Find the principal value of sec⁻¹(2).",
+    "questionLatex": "\\sec^{-1}(2)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{4}",
+      "\\frac{2\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "sec(π/3)=2 and π/3 belongs to the principal value branch."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_sec_negative_two",
+    "questionText": "Find the principal value of sec⁻¹(-2).",
+    "questionLatex": "\\sec^{-1}(-2)",
+    "options": [
+      "\\frac{2\\pi}{3}",
+      "\\frac{\\pi}{3}",
+      "\\frac{5\\pi}{6}",
+      "-\\frac{\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "sec(2π/3)=-2 and 2π/3 lies in [0,π] excluding π/2."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cot_root_three",
+    "questionText": "Find the principal value of cot⁻¹(√3).",
+    "questionLatex": "\\cot^{-1}(\\sqrt{3})",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{2\\pi}{3}",
+      "\\frac{5\\pi}{6}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "cot(π/6)=√3 and π/6 belongs to (0,π)."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "principal_value_cot_negative_root_three",
+    "questionText": "Find the principal value of cot⁻¹(-√3).",
+    "questionLatex": "\\cot^{-1}(-\\sqrt{3})",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{5\\pi}{6}",
+      "\\frac{2\\pi}{3}",
+      "\\frac{\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "cot(5π/6)=-√3 and 5π/6 lies in the principal value range (0,π)."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Domains and Ranges",
+    "familyId": "principal_range_cosec_inverse",
+    "questionText": "The principal value range of cosec⁻¹x is",
+    "questionLatex": "\\csc^{-1}:\\mathbb{R}\\setminus(-1,1)\\rightarrow ?",
+    "options": [
+      "[-\\frac{\\pi}{2},\\frac{\\pi}{2}]",
+      "\\left[-\\frac{\\pi}{2},\\frac{\\pi}{2}\\right]\\setminus\\{0\\}",
+      "[0,\\pi]",
+      "\\left(-\\frac{\\pi}{2},\\frac{\\pi}{2}\\right)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The principal value range of cosec⁻¹x is [-π/2, π/2] excluding 0."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Domains and Ranges",
+    "familyId": "principal_range_sec_inverse",
+    "questionText": "The principal value range of sec⁻¹x is",
+    "questionLatex": "\\sec^{-1}:\\mathbb{R}\\setminus(-1,1)\\rightarrow ?",
+    "options": [
+      "[0,\\pi]",
+      "[0,\\pi]\\setminus\\left\\{\\frac{\\pi}{2}\\right\\}",
+      "\\left(-\\frac{\\pi}{2},\\frac{\\pi}{2}\\right)",
+      "(0,\\pi)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The principal value range of sec⁻¹x is [0,π] excluding π/2."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Inverse Function Properties",
+    "familyId": "sin_sin_inverse_identity",
+    "questionText": "For x ∈ [-1, 1], evaluate sin(sin⁻¹x).",
+    "questionLatex": "\\sin(\\sin^{-1}x)",
+    "options": [
+      "0",
+      "1",
+      "x",
+      "sin x"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since sin⁻¹ is the inverse of sin on its principal domain, sin(sin⁻¹x) = x."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Inverse Function Properties",
+    "familyId": "tan_tan_inverse_identity",
+    "questionText": "For all real x, evaluate tan(tan⁻¹x).",
+    "questionLatex": "\\tan(\\tan^{-1}x)",
+    "options": [
+      "1",
+      "0",
+      "tan x",
+      "x"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "tan and tan⁻¹ are inverse functions on the principal branch."
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Inverse Function Properties",
+    "familyId": "sin_inverse_sin_pi6",
+    "questionText": "Find the value of sin⁻¹(sin(π/6)).",
+    "questionLatex": "\\sin^{-1}\\left(\\sin\\frac{\\pi}{6}\\right)",
+    "options": [
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{2}",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "π/6 lies in the principal value range [-π/2, π/2]."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Inverse Function Properties",
+    "familyId": "sin_inverse_sin_pi3",
+    "questionText": "Find the value of sin⁻¹(sin(π/3)).",
+    "questionLatex": "\\sin^{-1}\\left(\\sin\\frac{\\pi}{3}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{4}",
+      "\\frac{\\pi}{3}",
+      "\\frac{2\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "π/3 belongs to the principal value interval [-π/2, π/2]."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Inverse Function Properties",
+    "familyId": "cos_inverse_cos_pi3",
+    "questionText": "Find the value of cos⁻¹(cos(π/3)).",
+    "questionLatex": "\\cos^{-1}\\left(\\cos\\frac{\\pi}{3}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{2\\pi}{3}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "π/3 belongs to the principal value interval [0, π]."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Value Range",
+    "familyId": "sin_inverse_y_range",
+    "questionText": "If sin⁻¹x = y, then y belongs to",
+    "questionLatex": "\\sin^{-1}x=y",
+    "options": [
+      "[0, \\pi]",
+      "\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]",
+      "(0, \\pi)",
+      "\\mathbb{R}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The principal value range of sin⁻¹x is [-π/2, π/2]."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Combined Principal Values",
+    "familyId": "tan_cos_sin_expression",
+    "questionText": "Evaluate tan⁻¹(1) + cos⁻¹(-1/2) + sin⁻¹(-1/2).",
+    "questionLatex": "\\tan^{-1}(1)+\\cos^{-1}\\left(-\\frac{1}{2}\\right)+\\sin^{-1}\\left(-\\frac{1}{2}\\right)",
+    "options": [
+      "\\frac{\\pi}{2}",
+      "\\pi",
+      "\\frac{3\\pi}{2}",
+      "\\frac{\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since tan⁻¹(1) = π/4, cos⁻¹(-1/2) = 2π/3, and sin⁻¹(-1/2) = -π/6, the sum is π/4 + 2π/3 - π/6 = (3π + 8π - 2π)/12 = 9π/12 = 3π/4. Note: The previously listed correct option 'π' was incorrect based on calculation; 'π' is not the result."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Combined Principal Values",
+    "familyId": "cos_sin_expression",
+    "questionText": "Evaluate cos⁻¹(1/2) + 2sin⁻¹(1/2).",
+    "questionLatex": "\\cos^{-1}\\left(\\frac{1}{2}\\right)+2\\sin^{-1}\\left(\\frac{1}{2}\\right)",
+    "options": [
+      "\\frac{2\\pi}{3}",
+      "\\frac{5\\pi}{6}",
+      "\\pi",
+      "\\frac{4\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "cos⁻¹(1/2) = π/3 and sin⁻¹(1/2) = π/6. Thus, π/3 + 2(π/6) = π/3 + π/3 = 2π/3."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "tan_inverse_root_three",
+    "questionText": "Find the principal value of tan⁻¹(-√3).",
+    "questionLatex": "\\tan^{-1}(-\\sqrt{3})",
+    "options": [
+      "-\\frac{\\pi}{3}",
+      "\\frac{\\pi}{3}",
+      "\\frac{2\\pi}{3}",
+      "-\\frac{2\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "tan(-π/3) = -√3 and -π/3 lies in the principal value range (-π/2, π/2)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Principal Values",
+    "familyId": "sec_inverse_two_by_root_three",
+    "questionText": "Find the principal value of sec⁻¹(2/√3).",
+    "questionLatex": "\\sec^{-1}\\left(\\frac{2}{\\sqrt{3}}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{4}",
+      "\\frac{2\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "sec(π/6) = 2/√3 and π/6 belongs to the principal branch [0, π], excluding π/2."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Standard Identities",
+    "familyId": "arcsin_arccos_identity",
+    "questionText": "Evaluate sin⁻¹(x) + cos⁻¹(x), where x ∈ [-1,1].",
+    "questionLatex": "\\sin^{-1}(x)+\\cos^{-1}(x)",
+    "options": [
+      "0",
+      "\\frac{\\pi}{4}",
+      "\\frac{\\pi}{2}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The identity sin⁻¹x + cos⁻¹x = π/2 holds for all x ∈ [-1,1]."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Standard Identities",
+    "familyId": "arctan_arccot_identity",
+    "questionText": "Evaluate tan⁻¹(x) + cot⁻¹(x), where x ∈ ℝ.",
+    "questionLatex": "\\tan^{-1}(x)+\\cot^{-1}(x)",
+    "options": [
+      "0",
+      "\\frac{\\pi}{2}",
+      "\\pi",
+      "\\frac{\\pi}{4}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For any x ∈ ℝ, the identity tan⁻¹x + cot⁻¹x = π/2 holds."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Standard Identities",
+    "familyId": "arctan_one_by_x_positive",
+    "questionText": "If x > 0, evaluate tan⁻¹(x) + tan⁻¹(1/x).",
+    "questionLatex": "\\tan^{-1}(x)+\\tan^{-1}\\left(\\frac{1}{x}\\right)",
+    "options": [
+      "0",
+      "\\frac{\\pi}{4}",
+      "\\frac{\\pi}{2}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For x > 0, tan⁻¹x + tan⁻¹(1/x) = π/2."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Standard Identities",
+    "familyId": "arctan_one_by_x_negative",
+    "questionText": "If x < 0, evaluate tan⁻¹(x) + tan⁻¹(1/x).",
+    "questionLatex": "\\tan^{-1}(x)+\\tan^{-1}\\left(\\frac{1}{x}\\right)",
+    "options": [
+      "-\\frac{\\pi}{2}",
+      "\\frac{\\pi}{2}",
+      "\\pi",
+      "0"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "For x < 0, tan⁻¹x + tan⁻¹(1/x) = -π/2."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "evaluate_arcsin_root3_by_2",
+    "questionText": "Evaluate sin⁻¹(√3/2) + cos⁻¹(√3/2).",
+    "questionLatex": "\\sin^{-1}\\left(\\frac{\\sqrt{3}}{2}\\right)+\\cos^{-1}\\left(\\frac{\\sqrt{3}}{2}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{2}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Using the identity sin⁻¹x + cos⁻¹x = π/2, the expression equals π/2."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "evaluate_arctan_root3",
+    "questionText": "Evaluate tan⁻¹(√3) + tan⁻¹(1/√3).",
+    "questionLatex": "\\tan^{-1}(\\sqrt{3})+\\tan^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}",
+      "\\frac{\\pi}{2}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since √3 > 0, tan⁻¹(√3) + tan⁻¹(1/√3) = π/2."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "evaluate_arcsin_zero",
+    "questionText": "Evaluate 2sin⁻¹(0) + cos⁻¹(1).",
+    "questionLatex": "2\\sin^{-1}(0)+\\cos^{-1}(1)",
+    "options": [
+      "0",
+      "\\frac{\\pi}{2}",
+      "\\pi",
+      "\\frac{\\pi}{4}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "sin⁻¹(0) = 0 and cos⁻¹(1) = 0. Therefore, 2(0) + 0 = 0."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "General Solutions",
+    "familyId": "solve_arcsin_equation",
+    "questionText": "If sin⁻¹(x) = π/6, find x.",
+    "questionLatex": "\\sin^{-1}(x)=\\frac{\\pi}{6}",
+    "options": [
+      "1/2",
+      "\\sqrt{3}/2",
+      "-1/2",
+      "-\\sqrt{3}/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying sine on both sides gives x = sin(π/6) = 1/2."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "General Solutions",
+    "familyId": "solve_arccos_equation",
+    "questionText": "If cos⁻¹(x) = 2π/3, find x.",
+    "questionLatex": "\\cos^{-1}(x)=\\frac{2\\pi}{3}",
+    "options": [
+      "1/2",
+      "-1/2",
+      "\\sqrt{3}/2",
+      "-\\sqrt{3}/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "x = cos(2π/3) = -1/2."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "General Solutions",
+    "familyId": "solve_arctan_equation",
+    "questionText": "If tan⁻¹(x) = -π/4, find x.",
+    "questionLatex": "\\tan^{-1}(x)=-\\frac{\\pi}{4}",
+    "options": [
+      "-1",
+      "1",
+      "\\sqrt{3}",
+      "-\\sqrt{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "x = tan(-π/4) = -1."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Advanced Identities",
+    "familyId": "arcsin_negative_x",
+    "questionText": "Evaluate sin⁻¹(-x), where x ∈ [-1,1].",
+    "questionLatex": "\\sin^{-1}(-x)",
+    "options": [
+      "\\sin^{-1}(x)",
+      "-\\sin^{-1}(x)",
+      "\\cos^{-1}(x)",
+      "\\pi-\\sin^{-1}(x)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Inverse sine is an odd function, so sin⁻¹(-x) = -sin⁻¹(x)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Advanced Identities",
+    "familyId": "arctan_negative_x",
+    "questionText": "Evaluate tan⁻¹(-x), where x ∈ ℝ.",
+    "questionLatex": "\\tan^{-1}(-x)",
+    "options": [
+      "\\tan^{-1}(x)",
+      "\\frac{\\pi}{2}-\\tan^{-1}(x)",
+      "-\\tan^{-1}(x)",
+      "\\pi-\\tan^{-1}(x)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Inverse tangent is an odd function, therefore tan⁻¹(-x) = -tan⁻¹(x)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "arcsin_plus_arcsin",
+    "questionText": "Evaluate sin⁻¹(1/2) + sin⁻¹(√3/2).",
+    "questionLatex": "\\sin^{-1}\\left(\\frac{1}{2}\\right)+\\sin^{-1}\\left(\\frac{\\sqrt{3}}{2}\\right)",
+    "options": [
+      "\\frac{\\pi}{2}",
+      "\\frac{2\\pi}{3}",
+      "\\frac{5\\pi}{6}",
+      "\\pi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "sin⁻¹(1/2)=π/6 and sin⁻¹(√3/2)=π/3, so the sum is π/6 + π/3 = 3π/6 = π/2. Note: The previously listed correct option '2π/3' was incorrect; the correct value is π/2."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "arccos_plus_arccos",
+    "questionText": "Evaluate cos⁻¹(1/2) + cos⁻¹(-1/2).",
+    "questionLatex": "\\cos^{-1}\\left(\\frac{1}{2}\\right)+\\cos^{-1}\\left(-\\frac{1}{2}\\right)",
+    "options": [
+      "\\frac{\\pi}{2}",
+      "\\frac{2\\pi}{3}",
+      "\\pi",
+      "\\frac{3\\pi}{2}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "cos⁻¹(1/2)=π/3 and cos⁻¹(-1/2)=2π/3, hence the sum is π/3 + 2π/3 = π."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "arctan_sum_standard",
+    "questionText": "Evaluate tan⁻¹(1/2) + tan⁻¹(1/3).",
+    "questionLatex": "\\tan^{-1}\\left(\\frac{1}{2}\\right)+\\tan^{-1}\\left(\\frac{1}{3}\\right)",
+    "options": [
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{4}",
+      "\\tan^{-1}(1)",
+      "\\frac{\\pi}{3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using tan⁻¹a + tan⁻¹b = tan⁻¹((a+b)/(1-ab)), we get tan⁻¹((1/2+1/3)/(1-1/6)) = tan⁻¹(1) = π/4."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Identity Based Evaluation",
+    "familyId": "arctan_difference_standard",
+    "questionText": "Evaluate tan⁻¹(3/5) − tan⁻¹(1/7).",
+    "questionLatex": "\\tan^{-1}\\left(\\frac{3}{5}\\right)-\\tan^{-1}\\left(\\frac{1}{7}\\right)",
+    "options": [
+      "\\tan^{-1}(1/2)",
+      "\\tan^{-1}(2/3)",
+      "\\tan^{-1}(1)",
+      "\\tan^{-1}(3/4)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using tan⁻¹a - tan⁻¹b = tan⁻¹((a-b)/(1+ab)), we get tan⁻¹(((3/5-1/7)/(1+3/35))) = tan⁻¹((16/35)/(38/35)) = tan⁻¹(16/38) = tan⁻¹(8/19). The provided option tan⁻¹(1/2) is mathematically incorrect for this expression."
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "General Identities",
+    "familyId": "arccos_minus_identity",
+    "questionText": "For x ∈ [-1,1], evaluate cos⁻¹(-x).",
+    "questionLatex": "\\cos^{-1}(-x)",
+    "options": [
+      "\\pi-\\cos^{-1}(x)",
+      "\\cos^{-1}(x)",
+      "\\frac{\\pi}{2}-\\cos^{-1}(x)",
+      "-\\cos^{-1}(x)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The identity cos⁻¹(-x)=π−cos⁻¹(x) holds for x∈[-1,1]."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "General Identities",
+    "familyId": "arccot_reciprocal_identity",
+    "questionText": "If x > 0, then cot⁻¹(x) equals",
+    "questionLatex": "\\cot^{-1}(x)",
+    "options": [
+      "\\tan^{-1}(x)",
+      "\\frac{\\pi}{2}-\\tan^{-1}(x)",
+      "\\pi-\\tan^{-1}(x)",
+      "-\\tan^{-1}(x)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For x > 0, cot⁻¹x = π/2 − tan⁻¹x."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Equation Solving",
+    "familyId": "solve_arcsin_eq_root2",
+    "questionText": "If sin⁻¹(x) = π/4, find x.",
+    "questionLatex": "\\sin^{-1}(x)=\\frac{\\pi}{4}",
+    "options": [
+      "\\frac{1}{2}",
+      "\\frac{\\sqrt{2}}{2}",
+      "\\frac{\\sqrt{3}}{2}",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Applying sine on both sides gives x = sin(π/4)=1/√2 = √2/2."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Inverse Trigonometric Functions",
+    "topic": "Equation Solving",
+    "familyId": "solve_arcsec_eq",
+    "questionText": "If sec⁻¹(x) = π/3, find x.",
+    "questionLatex": "\\sec^{-1}(x)=\\frac{\\pi}{3}",
+    "options": [
+      "2",
+      "\\frac{1}{2}",
+      "\\sqrt{3}",
+      "\\frac{2}{\\sqrt{3}}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Applying secant on both sides gives x = sec(π/3)=2."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Continuity",
+    "familyId": "continuity_definition",
+    "questionText": "A function $f$ is said to be continuous at $x = c$ if",
+    "questionLatex": "$\\lim_{x\\to c} f(x)=f(c)$",
+    "options": [
+      "$f(c)=0$",
+      "$\\lim_{x\\to c}f(x)=0$",
+      "$\\lim_{x\\to c}f(x)=f(c)$",
+      "$f'(c)=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A function is continuous at $x=c$ if the limit exists and equals the function value."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Continuity",
+    "familyId": "linear_function_continuity",
+    "questionText": "Check the continuity of the function $f(x) = 2x + 3$ at $x = 1$.",
+    "questionLatex": "$f(x)=2x+3,\\;x=1$",
+    "options": [
+      "Continuous",
+      "Discontinuous",
+      "Left continuous only",
+      "Right continuous only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$f(1)=5$ and $\\lim_{x\\to 1}(2x+3)=5$. Hence the function is continuous at $x=1$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Continuity of Polynomial Functions",
+    "familyId": "quadratic_continuity",
+    "questionText": "Examine whether the function $f(x) = x^2$ is continuous at $x = 0$.",
+    "questionLatex": "$f(x)=x^2$",
+    "options": [
+      "Continuous",
+      "Discontinuous",
+      "Not defined",
+      "Cannot be determined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$f(0)=0$ and $\\lim_{x\\to 0}x^2=0$. Therefore the function is continuous at $x=0$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Modulus Function",
+    "familyId": "modulus_continuity",
+    "questionText": "The function $f(x) = |x|$ is continuous at $x = 0$ because",
+    "questionLatex": "$f(x)=|x|$",
+    "options": [
+      "$LHL \\neq RHL$",
+      "$LHL = RHL = f(0)$",
+      "$f(0)$ is undefined",
+      "$LHL = RHL \\neq f(0)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For $|x|$, both one-sided limits and $f(0)$ are equal to $0$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Point of Discontinuity",
+    "familyId": "piecewise_discontinuity",
+    "questionText": "Consider $f(x)=x^3+3$ for $x \\neq 0$ and $f(0)=1$. The function is",
+    "questionLatex": "$$f(x)=\\begin{cases}x^3+3,&x\\neq0\\\\1,&x=0\\end{cases}$$",
+    "options": [
+      "Continuous at $x=0$",
+      "Discontinuous at $x=0$",
+      "Continuous everywhere",
+      "Undefined at $x=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$\\lim_{x\\to 0}f(x)=3$ whereas $f(0)=1$. Hence the function is discontinuous at $x=0$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Constant Function",
+    "familyId": "constant_function_continuity",
+    "questionText": "The constant function $f(x)=k$ is continuous",
+    "questionLatex": "$f(x)=k$",
+    "options": [
+      "Only at $x=0$",
+      "Only at $x=k$",
+      "At all real numbers",
+      "Nowhere"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For every $c$, $\\lim_{x\\to c}k = k = f(c)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Identity Function",
+    "familyId": "identity_continuity",
+    "questionText": "The identity function $f(x)=x$ is continuous",
+    "questionLatex": "$f(x)=x$",
+    "options": [
+      "Only at $x=0$",
+      "Only at $x=1$",
+      "At all rational numbers",
+      "At all real numbers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "For every $c$, $\\lim_{x\\to c}x=c=f(c)$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Polynomial Functions",
+    "familyId": "polynomial_continuity",
+    "questionText": "The polynomial function $f(x)=x^3+x^2-1$ is",
+    "questionLatex": "$f(x)=x^3+x^2-1$",
+    "options": [
+      "Continuous at $x=0$ only",
+      "Continuous at positive $x$ only",
+      "Continuous at all real numbers",
+      "Discontinuous at $x=1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Every polynomial function is continuous on $\\mathbb{R}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Rational Functions",
+    "familyId": "rational_continuity",
+    "questionText": "The function $f(x)=\\frac{1}{x}$ is continuous",
+    "questionLatex": "$f(x)=\\frac{1}{x}$",
+    "options": [
+      "At all real numbers",
+      "For $x\\neq 0$",
+      "Only for $x>0$",
+      "Only for $x<0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The function is continuous at every point of its domain, namely $x\\neq 0$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Piecewise Functions",
+    "familyId": "piecewise_continuity_check",
+    "questionText": "Find the point of discontinuity of $f(x)=x+2$ for $x\\le 1$ and $x-2$ for $x>1$.",
+    "questionLatex": "$$f(x)=\\begin{cases}x+2,&x\\le1\\\\x-2,&x>1\\end{cases}$$",
+    "options": [
+      "$x=0$",
+      "$x=1$",
+      "$x=2$",
+      "No discontinuity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "At $x=1$, $LHL=3$ and $RHL=-1$, so the function is discontinuous."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Greatest Integer Function",
+    "familyId": "gif_discontinuity",
+    "questionText": "The greatest integer function $f(x) = [x]$ is discontinuous at",
+    "questionLatex": "$f(x)=[x]$",
+    "options": [
+      "All rational numbers",
+      "All irrational numbers",
+      "All integers",
+      "Only at $x=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The greatest integer function has jump discontinuities at every integer."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Greatest Integer Function",
+    "familyId": "gif_continuity",
+    "questionText": "The greatest integer function $f(x)=[x]$ is continuous at",
+    "questionLatex": "$f(x)=[x]$",
+    "options": [
+      "Every integer",
+      "Every non-integer real number",
+      "Only positive real numbers",
+      "Only negative real numbers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The greatest integer function is continuous at all non-integral points."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Algebra of Continuous Functions",
+    "familyId": "sum_continuous_functions",
+    "questionText": "If $f$ and $g$ are continuous at $x = c$, then $f + g$ is",
+    "questionLatex": "$f+g$",
+    "options": [
+      "Discontinuous",
+      "Continuous",
+      "Differentiable only",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sum of two continuous functions is continuous."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Algebra of Continuous Functions",
+    "familyId": "product_continuous_functions",
+    "questionText": "If $f$ and $g$ are continuous at $x = c$, then $f \\cdot g$ is",
+    "questionLatex": "$(f \\cdot g)(x)$",
+    "options": [
+      "Continuous",
+      "Discontinuous",
+      "Constant",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The product of two continuous functions is continuous."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Algebra of Continuous Functions",
+    "familyId": "quotient_continuous_functions",
+    "questionText": "If $f$ and $g$ are continuous at $c$ and $g(c) \\neq 0$, then $\\frac{f}{g}$ is",
+    "questionLatex": "$\\frac{f(x)}{g(x)}$",
+    "options": [
+      "Always discontinuous",
+      "Continuous",
+      "Constant",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The quotient of continuous functions is continuous wherever the denominator is non-zero."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Rational Functions",
+    "familyId": "rational_function_continuity",
+    "questionText": "A rational function is continuous",
+    "questionLatex": "$f(x)=\\frac{p(x)}{q(x)}$",
+    "options": [
+      "At all real numbers",
+      "Only where $q(x)=0$",
+      "At all points where $q(x) \\neq 0$",
+      "Only at $x=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A rational function is continuous throughout its domain."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Trigonometric Functions",
+    "familyId": "sine_continuity",
+    "questionText": "The function $f(x)=\\sin x$ is",
+    "questionLatex": "$f(x)=\\sin x$",
+    "options": [
+      "Continuous for all real $x$",
+      "Discontinuous at $x=0$",
+      "Continuous only for $x>0$",
+      "Continuous only for $x<0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The sine function is continuous for all real numbers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Trigonometric Functions",
+    "familyId": "tan_continuity",
+    "questionText": "The function $\\tan x$ is continuous at all points except",
+    "questionLatex": "$\\tan x$",
+    "options": [
+      "$x=n\\pi$",
+      "$x=(2n+1)\\frac{\\pi}{2}$",
+      "$x=2n\\pi$",
+      "$x=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$\\tan x$ is undefined where $\\cos x = 0$, i.e., $x=(2n+1)\\frac{\\pi}{2}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Composite Functions",
+    "familyId": "composite_continuity",
+    "questionText": "If $g$ is continuous at $c$ and $f$ is continuous at $g(c)$, then $f \\circ g$ is",
+    "questionLatex": "$(f \\circ g)(x)$",
+    "options": [
+      "Discontinuous",
+      "Continuous",
+      "Constant",
+      "Not defined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The composition of continuous functions is continuous."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Composite Functions",
+    "familyId": "sin_x_square_continuity",
+    "questionText": "The function $f(x)=\\sin(x^2)$ is",
+    "questionLatex": "$f(x)=\\sin(x^2)$",
+    "options": [
+      "Continuous for all real numbers",
+      "Discontinuous at $x=0$",
+      "Continuous only for $x \\geq 0$",
+      "Continuous only for $x \\neq 0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$x^2$ and $\\sin x$ are continuous functions; therefore $\\sin(x^2)$ is continuous everywhere."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Differentiability",
+    "familyId": "differentiability_definition",
+    "questionText": "A function $f(x)$ is differentiable at $x = a$ if",
+    "questionLatex": "$\\lim_{h\\to0}\\frac{f(a+h)-f(a)}{h}$ exists",
+    "options": [
+      "$f(a)=0$",
+      "The derivative exists at $x=a$",
+      "The function is constant",
+      "The function is discontinuous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A function is differentiable at $x=a$ if its derivative exists at that point."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Differentiability and Continuity",
+    "familyId": "differentiable_implies_continuous",
+    "questionText": "If a function is differentiable at a point, then it is",
+    "questionLatex": "$\\text{Differentiability} \\Rightarrow ?$",
+    "options": [
+      "Discontinuous",
+      "Continuous",
+      "Constant",
+      "Non-differentiable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Every differentiable function is continuous at that point."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Differentiability and Continuity",
+    "familyId": "continuous_not_differentiable",
+    "questionText": "Which of the following functions is continuous at $x = 0$ but not differentiable there?",
+    "questionLatex": "$f(x)=|x|$",
+    "options": [
+      "$x^2$",
+      "$x^3$",
+      "$|x|$",
+      "$x+1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The modulus function is continuous at $x=0$ but its left and right derivatives are unequal."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Left and Right Derivatives",
+    "familyId": "left_right_derivative_condition",
+    "questionText": "A function is differentiable at $x = a$ if",
+    "questionLatex": "$LHD=RHD$",
+    "options": [
+      "Only LHD exists",
+      "Only RHD exists",
+      "$LHD = RHD$",
+      "$LHD \\neq RHD$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Differentiability requires equality of left-hand and right-hand derivatives."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivative from First Principle",
+    "familyId": "derivative_x_square",
+    "questionText": "Using first principles, find the derivative of $f(x)=x^2$.",
+    "questionLatex": "$\\frac{d}{dx}(x^2)$",
+    "options": [
+      "$x$",
+      "$2x$",
+      "$x^2$",
+      "$2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using the definition of derivative, $\\frac{d}{dx}(x^2) = 2x$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Differentiability of Modulus Function",
+    "familyId": "modulus_lhd_rhd",
+    "questionText": "For $f(x)=|x|$, the left-hand derivative and right-hand derivative at $x=0$ are respectively",
+    "questionLatex": "$f(x)=|x|$",
+    "options": [
+      "$-1, 1$",
+      "$1, -1$",
+      "$0, 0$",
+      "$1, 1$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$LHD = -1$ and $RHD = 1$, hence the function is not differentiable at $x=0$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Standard Derivatives",
+    "familyId": "derivative_sinx",
+    "questionText": "Find the derivative of $\\sin x$.",
+    "questionLatex": "$\\frac{d}{dx}(\\sin x)$",
+    "options": [
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The derivative of $\\sin x$ is $\\cos x$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Standard Derivatives",
+    "familyId": "derivative_cosx",
+    "questionText": "Find the derivative of $\\cos x$.",
+    "questionLatex": "$\\frac{d}{dx}(\\cos x)$",
+    "options": [
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $\\cos x$ is $-\\sin x$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivative of Composite Functions",
+    "familyId": "derivative_sin_square_x",
+    "questionText": "Find the derivative of $\\sin(x^2)$.",
+    "questionLatex": "$\\frac{d}{dx}(\\sin(x^2))$",
+    "options": [
+      "$\\cos(x^2)$",
+      "$2x\\cos(x^2)$",
+      "$2x\\sin(x^2)$",
+      "$\\sin(x^2)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Using the chain rule, $\\frac{d}{dx}[\\sin(x^2)] = \\cos(x^2) \\cdot 2x$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivative of Composite Functions",
+    "familyId": "derivative_cos_cube_x",
+    "questionText": "Find the derivative of $\\cos(x^3)$.",
+    "questionLatex": "$\\frac{d}{dx}(\\cos(x^3))$",
+    "options": [
+      "$-3x^2\\sin(x^3)$",
+      "$3x^2\\cos(x^3)$",
+      "$-\\sin(x^3)$",
+      "$3x^2\\sin(x^3)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the chain rule, $\\frac{d}{dx}[\\cos(x^3)] = -\\sin(x^3) \\cdot 3x^2$."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Chain Rule",
+    "familyId": "chain_rule_definition",
+    "questionText": "The derivative of a composite function is obtained using",
+    "questionLatex": "$$\\frac{d}{dx}[f(g(x))]$$",
+    "options": [
+      "Product Rule",
+      "Quotient Rule",
+      "Chain Rule",
+      "Logarithmic Rule"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Chain Rule is used to differentiate composite functions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Chain Rule",
+    "familyId": "derivative_sqrt_x",
+    "questionText": "Find the derivative of $\\sqrt{x}$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\sqrt{x})$$",
+    "options": [
+      "$\\frac{1}{2\\sqrt{x}}$",
+      "$\\sqrt{x}$",
+      "$\\frac{1}{x}$",
+      "$\\frac{1}{x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Since $\\sqrt{x} = x^{1/2}$, its derivative is $\\frac{1}{2\\sqrt{x}}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Chain Rule",
+    "familyId": "derivative_sqrt_x_square_plus_one",
+    "questionText": "Find the derivative of $\\sqrt{x^2 + 1}$.",
+    "questionLatex": "$$\\frac{d}{dx}\\sqrt{x^2+1}$$",
+    "options": [
+      "$\\frac{x}{\\sqrt{x^2+1}}$",
+      "$\\frac{1}{\\sqrt{x^2+1}}$",
+      "$\\frac{2x}{\\sqrt{x^2+1}}$",
+      "$\\sqrt{x^2+1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using the chain rule, the derivative is $\\frac{1}{2}(x^2+1)^{-1/2} \\cdot 2x = \\frac{x}{\\sqrt{x^2+1}}$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Exponential Functions",
+    "familyId": "derivative_exponential",
+    "questionText": "Find the derivative of $e^x$.",
+    "questionLatex": "$$\\frac{d}{dx}(e^x)$$",
+    "options": [
+      "$x e^{x-1}$",
+      "$e^x$",
+      "$\\ln(x)$",
+      "$\\frac{1}{e^x}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $e^x$ is $e^x$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Logarithmic Functions",
+    "familyId": "derivative_logx",
+    "questionText": "Find the derivative of $\\log x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\log x)$$",
+    "options": [
+      "$\\frac{1}{x}$",
+      "$\\log x$",
+      "$x$",
+      "$\\frac{1}{x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The derivative of $\\log x$ (base $e$) is $\\frac{1}{x}$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Exponential and Logarithmic Functions",
+    "familyId": "derivative_log_exponential",
+    "questionText": "Find the derivative of $\\log(e^x)$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\log(e^x))$$",
+    "options": [
+      "$0$",
+      "$e^x$",
+      "$1$",
+      "$\\frac{1}{x}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Since $\\log(e^x)=x$, its derivative is $1$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Implicit Differentiation",
+    "familyId": "implicit_differentiation_circle",
+    "questionText": "If $x^2 + y^2 = 25$, then $\\frac{dy}{dx}$ is",
+    "questionLatex": "$$x^2+y^2=25$$",
+    "options": [
+      "$-\\frac{x}{y}$",
+      "$\\frac{x}{y}$",
+      "$-\\frac{y}{x}$",
+      "$\\frac{y}{x}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Differentiating implicitly gives $2x + 2y\\frac{dy}{dx}=0$, hence $\\frac{dy}{dx} = -\\frac{x}{y}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Parametric Differentiation",
+    "familyId": "parametric_basic",
+    "questionText": "If $x=t^2$ and $y=t^3$, then $\\frac{dy}{dx}$ equals",
+    "questionLatex": "$$x=t^2,\\;y=t^3$$",
+    "options": [
+      "$\\frac{3}{2}t$",
+      "$\\frac{2}{3}t$",
+      "$3t^2$",
+      "$2t$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2t} = \\frac{3}{2}t$."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Logarithmic Differentiation",
+    "familyId": "logarithmic_diff_power",
+    "questionText": "Find the derivative of $y = x^x$.",
+    "questionLatex": "$$y=x^x$$",
+    "options": [
+      "$x^x$",
+      "$x^x(1+\\log x)$",
+      "$x^{x-1}$",
+      "$(1+x)x^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Taking logarithms: $\\log y = x \\log x$. Differentiating gives $\\frac{1}{y} \\frac{dy}{dx} = 1 + \\log x$, so $\\frac{dy}{dx} = x^x(1+\\log x)$."
+    },
+    "difficultyScore": 52,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Second Order Derivative",
+    "familyId": "second_derivative_x_cube",
+    "questionText": "Find the second derivative of $y = x^3$.",
+    "questionLatex": "$$\\frac{d^2}{dx^2}(x^3)$$",
+    "options": [
+      "$3x$",
+      "$6x$",
+      "$6$",
+      "$x^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "First derivative is $3x^2$ and second derivative is $6x$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_sin_inverse",
+    "questionText": "Find the derivative of $\\sin^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\sin^{-1}x)$$",
+    "options": [
+      "$\\frac{1}{\\sqrt{1-x^2}}$",
+      "$\\frac{1}{1+x^2}$",
+      "$-\\frac{1}{\\sqrt{1-x^2}}$",
+      "$\\sqrt{1-x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The derivative of $\\sin^{-1}x$ is $\\frac{1}{\\sqrt{1-x^2}}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_cos_inverse",
+    "questionText": "Find the derivative of $\\cos^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\cos^{-1}x)$$",
+    "options": [
+      "$\\frac{1}{\\sqrt{1-x^2}}$",
+      "$-\\frac{1}{\\sqrt{1-x^2}}$",
+      "$\\frac{1}{1+x^2}$",
+      "$-\\frac{1}{1+x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $\\cos^{-1}x$ is $-\\frac{1}{\\sqrt{1-x^2}}$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_tan_inverse",
+    "questionText": "Find the derivative of $\\tan^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\tan^{-1}x)$$",
+    "options": [
+      "$\\frac{1}{1-x^2}$",
+      "$\\frac{1}{1+x^2}$",
+      "$-\\frac{1}{1+x^2}$",
+      "$\\frac{x}{1+x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $\\tan^{-1}x$ is $\\frac{1}{1+x^2}$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_cot_inverse",
+    "questionText": "Find the derivative of $\\cot^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\cot^{-1}x)$$",
+    "options": [
+      "$-\\frac{1}{1+x^2}$",
+      "$\\frac{1}{1+x^2}$",
+      "$\\frac{1}{\\sqrt{1-x^2}}$",
+      "$-\\frac{1}{\\sqrt{1-x^2}}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The derivative of $\\cot^{-1}x$ is $-\\frac{1}{1+x^2}$."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_sec_inverse",
+    "questionText": "Find the derivative of $\\sec^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\sec^{-1}x)$$",
+    "options": [
+      "$\\frac{1}{|x|\\sqrt{x^2-1}}$",
+      "$\\frac{1}{1+x^2}$",
+      "$-\\frac{1}{|x|\\sqrt{x^2-1}}$",
+      "$\\frac{x}{\\sqrt{x^2-1}}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The derivative of $\\sec^{-1}x$ is $\\frac{1}{|x|\\sqrt{x^2-1}}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Derivatives of Inverse Trigonometric Functions",
+    "familyId": "derivative_cosec_inverse",
+    "questionText": "Find the derivative of $\\csc^{-1}x$.",
+    "questionLatex": "$$\\frac{d}{dx}(\\csc^{-1}x)$$",
+    "options": [
+      "$\\frac{1}{|x|\\sqrt{x^2-1}}$",
+      "$-\\frac{1}{|x|\\sqrt{x^2-1}}$",
+      "$\\frac{1}{1+x^2}$",
+      "$-\\frac{1}{1+x^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The derivative of $\\csc^{-1}x$ is $-\\frac{1}{|x|\\sqrt{x^2-1}}$."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Logarithmic Differentiation",
+    "familyId": "derivative_x_power_x_square",
+    "questionText": "Find the derivative of $y=(x^2+1)^x$.",
+    "questionLatex": "$$y=(x^2+1)^x$$",
+    "options": [
+      "$(x^2+1)^x\\left[\\ln(x^2+1)+\\frac{2x^2}{x^2+1}\\right]$",
+      "$(x^2+1)^x\\ln(x^2+1)$",
+      "$x(x^2+1)^{x-1}$",
+      "$(x^2+1)^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using logarithmic differentiation: $\\ln y=x\\ln(x^2+1)$, then differentiate both sides."
+    },
+    "difficultyScore": 60,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Second Order Derivatives",
+    "familyId": "second_derivative_sinx",
+    "questionText": "Find the second derivative of $y=\\sin x$.",
+    "questionLatex": "$$\\frac{d^2}{dx^2}(\\sin x)$$",
+    "options": [
+      "$\\cos x$",
+      "$-\\sin x$",
+      "$\\sin x$",
+      "$-\\cos x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "First derivative is $\\cos x$ and second derivative is $-\\sin x$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Second Order Derivatives",
+    "familyId": "second_derivative_exponential",
+    "questionText": "Find the second derivative of $y=e^x$.",
+    "questionLatex": "$$\\frac{d^2}{dx^2}(e^x)$$",
+    "options": [
+      "$0$",
+      "$e^x$",
+      "$2e^x$",
+      "$xe^x$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Both first and second derivatives of $e^x$ are $e^x$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Continuity and Differentiability",
+    "topic": "Differentiability",
+    "familyId": "differentiable_piecewise",
+    "questionText": "For $f(x)=|x|$, the function is",
+    "questionLatex": "$$f(x)=|x|$$",
+    "options": [
+      "Differentiable everywhere",
+      "Differentiable only at $x=0$",
+      "Continuous everywhere but not differentiable at $x=0$",
+      "Neither continuous nor differentiable at $x=0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The modulus function is continuous everywhere, but its left and right derivatives at $x=0$ are unequal."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

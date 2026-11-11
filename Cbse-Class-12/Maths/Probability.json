@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "conditional_probability_definition",
+    "questionText": "If E and F are two events such that P(F) ≠ 0, then the conditional probability P(E|F) is given by",
+    "questionLatex": "$$P(E|F)=?$$",
+    "options": [
+      "$P(E\\cap F)$",
+      "$\\frac{P(E\\cap F)}{P(F)}$",
+      "$\\frac{P(E)}{P(F)}$",
+      "$\\frac{P(F)}{P(E)}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "By definition, $P(E|F) = \\frac{P(E\\cap F)}{P(F)}$, provided $P(F) \\neq 0$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "basic_conditional_probability",
+    "questionText": "Given P(A) = 0.6, P(B) = 0.3 and P(A ∩ B) = 0.2, find P(A|B).",
+    "questionLatex": "$$P(A)=0.6,\\;P(B)=0.3,\\;P(A\\cap B)=0.2$$",
+    "options": [
+      "0.5",
+      "0.6",
+      "0.667",
+      "0.8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$P(A|B) = \\frac{P(A\\cap B)}{P(B)} = \\frac{0.2}{0.3} = \\frac{2}{3} \\approx 0.667$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Properties of Conditional Probability",
+    "familyId": "conditional_property_one",
+    "questionText": "If F is an event with P(F) ≠ 0, then P(F|F) equals",
+    "questionLatex": "$$P(F|F)=?$$",
+    "options": [
+      "0",
+      "1",
+      "$P(F)$",
+      "1/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $P(F\\cap F) = P(F)$, therefore $P(F|F) = \\frac{P(F)}{P(F)} = 1$."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Properties of Conditional Probability",
+    "familyId": "conditional_complement",
+    "questionText": "If P(E|F) = 0.7, then P(E'|F) is",
+    "questionLatex": "$$P(E|F)=0.7$$",
+    "options": [
+      "0.3",
+      "0.7",
+      "1",
+      "1.7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$P(E'|F) = 1 - P(E|F) = 1 - 0.7 = 0.3$."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "coin_toss_problem",
+    "questionText": "A family has two children. Given that at least one child is a boy, what is the probability that both children are boys?",
+    "questionLatex": "$$P(\\text{Both boys}|\\text{At least one boy})$$",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sample space $S = \\{BB, BG, GB, GG\\}$. Given condition (at least one boy): $F = \\{BB, BG, GB\\}$. Favourable outcomes for both boys: $E = \\{BB\\}$. Hence, probability is $1/3$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "card_even_number",
+    "questionText": "Ten cards numbered 1 to 10 are placed in a box. If the drawn card is known to have a number greater than 3, find the probability that it is even.",
+    "questionLatex": "$$P(\\text{Even}|\\text{Number}>3)$$",
+    "options": [
+      "3/7",
+      "4/7",
+      "5/7",
+      "2/7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Numbers greater than 3: $\\{4, 5, 6, 7, 8, 9, 10\\}$ ($n=7$). Even numbers in this set: $\\{4, 6, 8, 10\\}$ ($n=4$). Probability = $4/7$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Multiplication Theorem",
+    "familyId": "multiplication_rule",
+    "questionText": "If E and F are events with P(E) ≠ 0 and P(F) ≠ 0, then P(E ∩ F) equals",
+    "questionLatex": "$$P(E\\cap F)=?$$",
+    "options": [
+      "$P(E)+P(F)$",
+      "$P(E)P(F)$",
+      "$P(E)P(F|E)$",
+      "$P(E|F)+P(F)$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "By the multiplication theorem of probability, $P(E\\cap F) = P(E) \\cdot P(F|E)$."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Multiplication Theorem",
+    "familyId": "urn_black_balls",
+    "questionText": "An urn contains 10 black and 5 white balls. Two balls are drawn successively without replacement. Find the probability that both balls are black.",
+    "questionLatex": "$$P(\\text{Both black})$$",
+    "options": [
+      "2/7",
+      "3/7",
+      "4/7",
+      "5/7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$P(\\text{1st Black}) = \\frac{10}{15}$. After one black ball is drawn, 9 black balls remain out of 14. $P(\\text{2nd Black}|\\text{1st Black}) = \\frac{9}{14}$. Therefore, $P(\\text{Both black}) = \\frac{10}{15} \\times \\frac{9}{14} = \\frac{2}{3} \\times \\frac{9}{14} = \\frac{3}{7}$."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "die_sum_six",
+    "questionText": "A die is thrown twice and the sum is observed to be 6. What is the conditional probability that the number 4 appears at least once?",
+    "questionLatex": "$$P(\\text{4 appears at least once}|\\text{Sum}=6)$$",
+    "options": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "4/5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Outcomes with sum 6: $\\{(1,5), (2,4), (3,3), (4,2), (5,1)\\}$ ($n=5$). Outcomes where 4 appears at least once: $\\{(2,4), (4,2)\\}$ ($n=2$). Hence, probability = $2/5$."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "conditional_probability_undefined",
+    "questionText": "If P(A) = 1/2 and P(B) = 0, then P(A|B) is",
+    "questionLatex": "$$P(A)=\\frac{1}{2},\\;P(B)=0$$",
+    "options": [
+      "0",
+      "1/2",
+      "Not defined",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The conditional probability $P(A|B) = \\frac{P(A\\cap B)}{P(B)}$ is defined only when $P(B) \\neq 0$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "conditional_probability_reverse",
+    "questionText": "Given P(E) = 0.6, P(F) = 0.3 and P(E ∩ F) = 0.2, find P(F|E).",
+    "questionLatex": "$$P(E)=0.6,\\;P(F)=0.3,\\;P(E\\cap F)=0.2$$",
+    "options": [
+      "1/3",
+      "2/3",
+      "1/2",
+      "3/4"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(F|E) = \\frac{P(E \\cap F)}{P(E)} = \\frac{0.2}{0.6} = \\frac{1}{3}$$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "compute_conditional_probability",
+    "questionText": "Compute P(A|B) if P(B) = 0.5 and P(A ∩ B) = 0.32.",
+    "questionLatex": "$$P(B)=0.5,\\;P(A\\cap B)=0.32$$",
+    "options": [
+      "0.54",
+      "0.64",
+      "0.72",
+      "0.80"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$$P(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0.32}{0.5} = 0.64$$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Multiplication Theorem",
+    "familyId": "find_intersection_probability",
+    "questionText": "If P(A) = 0.8, P(B) = 0.5 and P(B|A) = 0.4, find P(A ∩ B).",
+    "questionLatex": "$$P(A)=0.8,\\;P(B)=0.5,\\;P(B|A)=0.4$$",
+    "options": [
+      "0.20",
+      "0.32",
+      "0.40",
+      "0.48"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "$$P(A \\cap B) = P(A) \\cdot P(B|A) = 0.8 \\times 0.4 = 0.32$$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Multiplication Theorem",
+    "familyId": "find_conditional_from_intersection",
+    "questionText": "If P(A) = 0.8, P(B) = 0.5 and P(B|A) = 0.4, find P(A|B).",
+    "questionLatex": "$$P(A)=0.8,\\;P(B)=0.5,\\;P(B|A)=0.4$$",
+    "options": [
+      "0.48",
+      "0.56",
+      "0.64",
+      "0.72"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$$P(A \\cap B) = 0.8 \\times 0.4 = 0.32$$. Hence $$P(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0.32}{0.5} = 0.64$$."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Addition and Conditional Probability",
+    "familyId": "union_probability",
+    "questionText": "If P(A) = 0.8, P(B) = 0.5 and P(B|A) = 0.4, find P(A ∪ B).",
+    "questionLatex": "$$P(A)=0.8,\\;P(B)=0.5,\\;P(B|A)=0.4$$",
+    "options": [
+      "0.88",
+      "0.92",
+      "0.98",
+      "1.00"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "$$P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = 0.8 + 0.5 - (0.8 \\times 0.4) = 1.3 - 0.32 = 0.98$$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "coin_three_tosses",
+    "questionText": "A coin is tossed three times. Find P(E|F), where E = 'head on third toss' and F = 'heads on first two tosses'.",
+    "questionLatex": "$$E=\\text{Head on third toss},\\;F=\\text{Heads on first two tosses}$$",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Given the first two tosses are heads (HH), the possible outcomes are {HHH, HHT}. Only HHH has a head on the third toss. Probability = 1/2."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "coin_atleast_two_heads",
+    "questionText": "A coin is tossed three times. Find P(E|F), where E = 'at least two heads' and F = 'at most two heads'.",
+    "questionLatex": "$$E=\\text{At least two heads},\\;F=\\text{At most two heads}$$",
+    "options": [
+      "1/7",
+      "2/7",
+      "3/7",
+      "4/7"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "F excludes only HHH, so n(F) = 7. E intersect F (at least 2 heads AND at most 2 heads) means exactly 2 heads. The outcomes are {HHT, HTH, THH}. Thus, n(E \\cap F) = 3. Therefore, P(E|F) = 3/7."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "two_coins_tossed",
+    "questionText": "Two coins are tossed once. Find P(E|F), where E = 'tail appears on one coin' and F = 'one coin shows head'.",
+    "questionLatex": "$$E=\\text{One tail appears},\\;F=\\text{One head appears}$$",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "2/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "F = {HT, TH}. Both outcomes have exactly one tail (E). Thus, n(E \\cap F) = 2. n(F) = 2. Probability = 2/2 = 1."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "family_picture",
+    "questionText": "Mother, father and son line up randomly for a family picture. Find the probability that the son is on one end given that the father is in the middle.",
+    "questionLatex": "$$P(\\text{Son on an end}|\\text{Father in middle})$$",
+    "options": [
+      "1/2",
+      "2/3",
+      "1",
+      "1/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Total arrangements with father in the middle are {MFS, SFM}. In both cases, the son is at an end. Thus, the probability is 1."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "black_red_dice",
+    "questionText": "A black and a red die are rolled. Find the conditional probability of obtaining a sum greater than 9, given that the black die resulted in 5.",
+    "questionLatex": "$$P(\\text{Sum}>9|\\text{Black die}=5)$$",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Given black die = 5, possible outcomes are {(5,1), (5,2), (5,3), (5,4), (5,5), (5,6)}. Outcomes with sum > 9 are {(5,5), (5,6)}. Probability = 2/6 = 1/3."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "independent_events_definition",
+    "questionText": "Two events A and B are said to be independent if",
+    "questionLatex": "$$P(A \\cap B)=?$$",
+    "options": [
+      "$$P(A \\cap B)=P(A)+P(B)$$",
+      "$$P(A \\cap B)=P(A)P(B)$$",
+      "$$P(A|B)=P(B|A)$$",
+      "$$P(A)=P(B)$$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Two events are independent when the probability of their intersection equals the product of their individual probabilities."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "check_independence",
+    "questionText": "If P(A)=0.5, P(B)=0.4 and P(A∩B)=0.2, then A and B are",
+    "questionLatex": "$$P(A)=0.5, P(B)=0.4, P(A \\cap B)=0.2$$",
+    "options": [
+      "Mutually exclusive",
+      "Independent",
+      "Complementary",
+      "Dependent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since $$P(A)P(B)=0.5 \\times 0.4=0.2=P(A \\cap B)$$, the events are independent."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "conditional_independent",
+    "questionText": "If events A and B are independent and P(B) ≠ 0, then P(A|B) equals",
+    "questionLatex": "$$P(A|B)=?$$",
+    "options": [
+      "0",
+      "$$P(B)$$",
+      "$$P(A)$$",
+      "1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "For independent events, the occurrence of B does not affect the probability of A, so $$P(A|B) = P(A)$$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "bayes_theorem_statement",
+    "questionText": "Bayes' theorem is used to determine",
+    "questionLatex": "$$P(A_i|B)$$",
+    "options": [
+      "Conditional probability from prior information",
+      "Only independent events",
+      "Only mutually exclusive events",
+      "Sample space"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Bayes' theorem relates conditional probabilities and prior probabilities."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "bayes_formula",
+    "questionText": "If A₁, A₂, ..., Aₙ are mutually exclusive and exhaustive events, then P(Aᵢ|B) is given by",
+    "questionLatex": "$$P(A_i|B)=\\frac{P(A_i)P(B|A_i)}{\\sum_{k=1}^{n}P(A_k)P(B|A_k)}$$",
+    "options": [
+      "$$\\frac{P(B|A_i)}{P(A_i)}$$",
+      "$$\\frac{P(A_i)P(B|A_i)}{\\sum_{k=1}^{n}P(A_k)P(B|A_k)}$$",
+      "$$P(A_i)P(B)$$",
+      "$$\\frac{P(B)}{P(A_i)}$$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "This is the standard form of Bayes' theorem."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Total Probability Theorem",
+    "familyId": "total_probability",
+    "questionText": "If A₁, A₂ and A₃ form a partition of the sample space, then P(B) equals",
+    "questionLatex": "$$P(B)=\\sum_{i=1}^{3}P(A_i)P(B|A_i)$$",
+    "options": [
+      "$$P(A_1)+P(A_2)+P(A_3)$$",
+      "$$P(B|A_1)+P(B|A_2)+P(B|A_3)$$",
+      "$$\\sum P(A_i)P(B|A_i)$$",
+      "$$P(A_1 \\cap B)$$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "This follows from the theorem of total probability."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "factory_problem",
+    "questionText": "Factory A produces 60% of the items and Factory B produces 40%. If 2% of A's items and 5% of B's items are defective, find the probability that a randomly selected defective item came from Factory A.",
+    "questionLatex": "$$P(A)=0.6, P(B)=0.4, P(D|A)=0.02, P(D|B)=0.05$$",
+    "options": [
+      "3/8",
+      "6/11",
+      "5/11",
+      "4/11"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(A|D)=\\frac{0.6 \\times 0.02}{(0.6 \\times 0.02)+(0.4 \\times 0.05)}=\\frac{0.012}{0.032}=\\frac{3}{8}$$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "three_independent_events",
+    "questionText": "If P(A)=1/2, P(B)=1/3 and P(C)=1/4, where A, B and C are independent events, find P(A∩B∩C).",
+    "questionLatex": "$$P(A)=\\frac{1}{2}, P(B)=\\frac{1}{3}, P(C)=\\frac{1}{4}$$",
+    "options": [
+      "1/12",
+      "1/24",
+      "1/8",
+      "1/6"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For independent events, $$P(A \\cap B \\cap C)=P(A)P(B)P(C)=\\frac{1}{2} \\times \\frac{1}{3} \\times \\frac{1}{4} = \\frac{1}{24}$$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "complement_independent",
+    "questionText": "If events A and B are independent, then A' and B are",
+    "questionLatex": "$$A', B$$",
+    "options": [
+      "Mutually exclusive",
+      "Dependent",
+      "Independent",
+      "Complementary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Complements of independent events remain independent."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Probability",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "medical_test_problem",
+    "questionText": "A disease affects 1% of a population. A test correctly identifies a diseased person with probability 0.95 and a healthy person with probability 0.90. Which theorem is most appropriate to find the probability that a person who tested positive actually has the disease?",
+    "questionLatex": "$$P(D|+)$$",
+    "options": [
+      "Addition theorem",
+      "Multiplication theorem",
+      "Bayes' theorem",
+      "Binomial theorem"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bayes' theorem is used to compute posterior probabilities such as P(Disease | Positive Test)."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Random Variables",
+    "familyId": "random_variable_definition",
+    "questionText": "A random variable is a function that assigns",
+    "questionLatex": "$$\\text{Random Variable}$$",
+    "options": [
+      "A probability to each event",
+      "A real number to each outcome of a random experiment",
+      "An event to each probability",
+      "A sample space to each outcome"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A random variable assigns a real number to every outcome in the sample space."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "independent_coin_toss",
+    "questionText": "A coin is tossed twice. Let A be the event 'Head on first toss' and B be the event 'Head on second toss'. Then A and B are",
+    "questionLatex": "$$A=\\{HH, HT\\},\\; B=\\{HH, TH\\}$$",
+    "options": [
+      "Mutually exclusive",
+      "Dependent",
+      "Independent",
+      "Complementary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The outcome of one toss does not affect the outcome of the other toss, therefore they are independent."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "probability_independent_union",
+    "questionText": "If A and B are independent events with P(A)=0.4 and P(B)=0.5, then P(A ∩ B) equals",
+    "questionLatex": "$$P(A)=0.4,\\; P(B)=0.5$$",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.4",
+      "0.9"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "For independent events, $$P(A \\cap B) = P(A)P(B) = 0.4 \\times 0.5 = 0.2$$."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "probability_independent_union_formula",
+    "questionText": "If A and B are independent events with P(A)=0.4 and P(B)=0.5, then P(A ∪ B) equals",
+    "questionLatex": "$$P(A \\cup B)=?$$",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.9",
+      "0.6"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = 0.4 + 0.5 - 0.2 = 0.7$$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "three_boxes_bayes",
+    "questionText": "Three boxes contain red and blue balls. Box I contains 2 red and 3 blue balls, Box II contains 3 red and 2 blue balls and Box III contains 4 red and 1 blue ball. A box is selected at random and a red ball is drawn. The probability that it came from Box III is",
+    "questionLatex": "$$P(B_3|R)$$",
+    "options": [
+      "4/9",
+      "1/3",
+      "2/5",
+      "5/12"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Using Bayes' theorem: $$P(B_3|R) = \\frac{(1/3)(4/5)}{(1/3)(2/5) + (1/3)(3/5) + (1/3)(4/5)} = \\frac{4/5}{9/5} = 4/9$$."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "cards_conditional_probability",
+    "questionText": "A card is drawn from a well-shuffled deck of 52 cards. Given that the card drawn is a face card, find the probability that it is a king.",
+    "questionLatex": "$$P(\\text{King}|\\text{Face Card})$$",
+    "options": [
+      "1/12",
+      "1/4",
+      "1/3",
+      "1/13"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "There are 12 face cards and 4 kings. Hence $$P(\\text{King}|\\text{Face Card}) = 4/12 = 1/3$$."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "machine_defectives",
+    "questionText": "Machine A produces 25% of the bolts in a factory, Machine B produces 35% and Machine C produces 40%. Their defective rates are 5%, 4% and 2% respectively. If a randomly selected bolt is defective, find the probability that it was produced by Machine C.",
+    "questionLatex": "$$P(C|D)$$",
+    "options": [
+      "16/69",
+      "8/37",
+      "12/37",
+      "20/37"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(C|D) = \\frac{0.40 \\times 0.02}{(0.25 \\times 0.05) + (0.35 \\times 0.04) + (0.40 \\times 0.02)} = \\frac{0.008}{0.0125 + 0.0140 + 0.0080} = \\frac{0.008}{0.0345} = \\frac{80}{345} = \\frac{16}{69}$$."
+    },
+    "difficultyScore": 54,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Conditional Probability",
+    "familyId": "dice_conditional_even",
+    "questionText": "A die is thrown once. Given that the outcome is greater than 2, find the probability that it is even.",
+    "questionLatex": "$$P(\\text{Even}|X>2)$$",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Outcomes greater than 2 are {3, 4, 5, 6}; even outcomes are {4, 6}. Hence, probability = 2/4 = 1/2."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Independent Events",
+    "familyId": "three_independent_complements",
+    "questionText": "If A, B and C are independent events with P(A)=1/2, P(B)=1/3 and P(C)=1/4, then P(A' ∩ B' ∩ C') equals",
+    "questionLatex": "$$P(A' \\cap B' \\cap C')$$",
+    "options": [
+      "1/4",
+      "1/6",
+      "1/3",
+      "1/2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(A')=1/2, P(B')=2/3, P(C')=3/4$$. For independent events, $$P(A' \\cap B' \\cap C') = P(A')P(B')P(C') = (1/2)(2/3)(3/4) = 1/4$$."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "insurance_claim_problem",
+    "questionText": "An insurance company classifies drivers into low-risk and high-risk groups. If 80% are low-risk and 20% are high-risk, and the probabilities of filing a claim are 0.1 and 0.4 respectively, then the probability that a driver who filed a claim belongs to the high-risk group is",
+    "questionLatex": "$$P(H|C)$$",
+    "options": [
+      "1/2",
+      "2/5",
+      "4/9",
+      "1/3"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "$$P(H|C) = \\frac{0.2 \\times 0.4}{(0.8 \\times 0.1) + (0.2 \\times 0.4)} = \\frac{0.08}{0.08 + 0.08} = \\frac{0.08}{0.16} = 1/2$$."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Random Variables",
+    "familyId": "discrete_random_variable",
+    "questionText": "A random variable that assumes only a finite or countably infinite number of values is called",
+    "questionLatex": "$$\\text{Random Variable}$$",
+    "options": [
+      "Continuous random variable",
+      "Discrete random variable",
+      "Dependent variable",
+      "Conditional variable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A discrete random variable takes countable values."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Distribution",
+    "familyId": "probability_distribution_sum",
+    "questionText": "If X is a discrete random variable with probability distribution P(X=x), then the sum of all probabilities equals",
+    "questionLatex": "$$\\sum P(X=x)$$",
+    "options": [
+      "0",
+      "1",
+      "1/2",
+      "Depends on X"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The total probability of all possible values of a random variable is always 1."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Distribution",
+    "familyId": "valid_probability_distribution",
+    "questionText": "Which of the following is a valid probability distribution?",
+    "questionLatex": "$$\\sum p_i=1$$",
+    "options": [
+      "Probabilities: 0.2, 0.3, 0.6",
+      "Probabilities: 0.4, 0.4, 0.2",
+      "Probabilities: 0.5, 0.7, -0.2",
+      "Probabilities: 0.8, 0.5, 0.1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A valid probability distribution requires each probability to lie between 0 and 1 and the sum to be 1."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mean of Random Variable",
+    "familyId": "expectation_formula",
+    "questionText": "The mean or expectation of a discrete random variable X is given by",
+    "questionLatex": "$$E(X)=\\sum xP(X=x)$$",
+    "options": [
+      "$$\\sum P(X=x)$$",
+      "$$\\sum xP(X=x)$$",
+      "$$\\sum x^2P(X=x)$$",
+      "$$\\sqrt{\\sum xP(X=x)}$$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The expectation of X is the weighted average of its values."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Mean of Random Variable",
+    "familyId": "expectation_dice",
+    "questionText": "If X denotes the number appearing on a fair die, then E(X) is",
+    "questionLatex": "$$E(X)=\\frac{1+2+3+4+5+6}{6}$$",
+    "options": [
+      "3",
+      "3.5",
+      "4",
+      "4.5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "E(X)=(1+2+3+4+5+6)/6=21/6=3.5."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Variance",
+    "familyId": "variance_formula",
+    "questionText": "The variance of a random variable X is given by",
+    "questionLatex": "$$\\operatorname{Var}(X)=E(X^2)-[E(X)]^2$$",
+    "options": [
+      "$$E(X)-E(X^2)$$",
+      "$$E(X^2)-[E(X)]^2$$",
+      "$$E(X^2)+[E(X)]^2$$",
+      "$$[E(X)]^2$$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Variance measures the spread of a random variable around its mean."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Distribution",
+    "familyId": "distribution_table_expectation",
+    "questionText": "A random variable X takes values 0, 1 and 2 with probabilities 0.2, 0.5 and 0.3 respectively. Find E(X).",
+    "questionLatex": "$$P(X=0)=0.2,\\;P(X=1)=0.5,\\;P(X=2)=0.3$$",
+    "options": [
+      "0.9",
+      "1.0",
+      "1.1",
+      "1.2"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "E(X)=0(0.2)+1(0.5)+2(0.3)=1.1. Hence the expected value is 1.1."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Probability Distribution",
+    "familyId": "distribution_table_variance",
+    "questionText": "A random variable X takes values 1 and 2 with probabilities 0.4 and 0.6 respectively. Find E(X).",
+    "questionLatex": "$$P(X=1)=0.4,\\;P(X=2)=0.6$$",
+    "options": [
+      "1.4",
+      "1.5",
+      "1.6",
+      "1.8"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "E(X)=1(0.4)+2(0.6)=1.6."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Bayes' Theorem",
+    "familyId": "bayes_factory_advanced",
+    "questionText": "Three machines A, B and C produce 25%, 35% and 40% of the total output respectively. Their defective rates are 5%, 4% and 2%. A randomly selected item is found defective. Find the probability that it was produced by machine B.",
+    "questionLatex": "$$P(B|D)$$",
+    "options": [
+      "28/69",
+      "14/69",
+      "16/69",
+      "20/69"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "P(B|D)=(0.35×0.04)/[(0.25×0.05)+(0.35×0.04)+(0.40×0.02)]=0.014/0.0345=28/69."
+    },
+    "difficultyScore": 56,
+    "difficultyLabel": "hard",
+    "marks": 5,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Maths",
+    "chapter": "Probability",
+    "topic": "Random Variables",
+    "familyId": "random_variable_coin_toss",
+    "questionText": "A coin is tossed three times. Let X denote the number of heads obtained. The possible values of X are",
+    "questionLatex": "$$X=\\text{Number of Heads}$$",
+    "options": [
+      "{0,1,2}",
+      "{1,2,3}",
+      "{0,1,2,3}",
+      "{0,3}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The number of heads in three tosses can be 0, 1, 2 or 3."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
