@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Introduction to Genetics",
+    "familyId": "genetics_definition",
+    "questionText": "Genetics is the branch of biology that deals with:",
+    "questionLatex": "Genetics is the branch of biology that deals with:",
+    "options": [
+      "Classification of organisms",
+      "Inheritance and variation of characters",
+      "Study of ecosystems",
+      "Cellular respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Genetics is the branch of biology concerned with the inheritance and variation of characters from parents to offspring."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Inheritance and Variation",
+    "familyId": "inheritance_definition",
+    "questionText": "Inheritance is defined as:",
+    "questionLatex": "Inheritance is defined as:",
+    "options": [
+      "Formation of gametes",
+      "Transmission of characters from parents to offspring",
+      "Formation of mutations",
+      "Development of reproductive organs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Inheritance is the process by which characters are passed from parents to progeny."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Inheritance and Variation",
+    "familyId": "variation_definition",
+    "questionText": "Variation refers to:",
+    "questionLatex": "Variation refers to:",
+    "options": [
+      "Similarity among all offspring",
+      "Degree by which progeny differ from their parents",
+      "Number of chromosomes in an organism",
+      "Fusion of gametes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Variation is the degree by which offspring differ from their parents."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Mendel's Experiments",
+    "familyId": "mendel_organism",
+    "questionText": "Gregor Mendel conducted his hybridisation experiments mainly on:",
+    "questionLatex": "Gregor Mendel conducted his hybridisation experiments mainly on:",
+    "options": [
+      "Maize",
+      "Garden pea (Pisum sativum)",
+      "Snapdragon",
+      "Drosophila"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mendel performed his classic inheritance experiments using the garden pea plant (Pisum sativum)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Mendel's Experiments",
+    "familyId": "mendel_duration",
+    "questionText": "Mendel conducted hybridisation experiments on pea plants approximately during:",
+    "questionLatex": "Mendel conducted hybridisation experiments on pea plants approximately during:",
+    "options": [
+      "1840–1845",
+      "1856–1863",
+      "1870–1877",
+      "1900–1907"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mendel carried out his hybridisation experiments from 1856 to 1863."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "True Breeding",
+    "familyId": "true_breeding_definition",
+    "questionText": "A true-breeding line is one that:",
+    "questionLatex": "A true-breeding line is one that:",
+    "options": [
+      "Always produces hybrid offspring",
+      "Produces genetically identical offspring after continuous self-pollination",
+      "Undergoes only cross-pollination",
+      "Produces only dominant traits"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A true-breeding line shows stable inheritance of a trait after repeated self-pollination for several generations."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Mendel's Experiments",
+    "familyId": "contrasting_traits",
+    "questionText": "How many pairs of contrasting traits were selected by Mendel for his experiments on pea plants?",
+    "questionLatex": "How many pairs of contrasting traits were selected by Mendel for his experiments on pea plants?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "14"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Mendel selected seven pairs of contrasting traits for his experiments."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Contrasting Traits",
+    "familyId": "seed_shape_traits",
+    "questionText": "Which pair represents the contrasting seed shape traits studied by Mendel?",
+    "questionLatex": "Which pair represents the contrasting seed shape traits studied by Mendel?",
+    "options": [
+      "Round and wrinkled",
+      "Yellow and green",
+      "Tall and dwarf",
+      "Inflated and constricted"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Round and wrinkled were the contrasting seed shape traits selected by Mendel."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Monohybrid Cross",
+    "familyId": "f1_generation",
+    "questionText": "When Mendel crossed true-breeding tall pea plants with true-breeding dwarf plants, the F₁ generation consisted of:",
+    "questionLatex": "When Mendel crossed true-breeding tall pea plants with true-breeding dwarf plants, the $F_1$ generation consisted of:",
+    "options": [
+      "All dwarf plants",
+      "Half tall and half dwarf plants",
+      "All tall plants",
+      "Plants of intermediate height"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "All F₁ plants were tall because the tall allele is dominant over the dwarf allele."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Monohybrid Cross",
+    "familyId": "f2_phenotypic_ratio",
+    "questionText": "The phenotypic ratio obtained in the F₂ generation of Mendel's monohybrid cross is:",
+    "questionLatex": "The phenotypic ratio obtained in the $F_2$ generation of Mendel's monohybrid cross is:",
+    "options": [
+      "1:1",
+      "1:2:1",
+      "3:1",
+      "9:3:3:1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The F₂ generation of a monohybrid cross shows a phenotypic ratio of 3:1 (dominant : recessive)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Genes and Alleles",
+    "familyId": "gene_definition",
+    "questionText": "According to Mendel's concept, genes are:",
+    "questionLatex": "According to Mendel's concept, genes are:",
+    "options": [
+      "Units of respiration",
+      "Units of inheritance",
+      "Units of mutation",
+      "Units of fertilisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Genes are the basic units of inheritance that carry information required for the expression of traits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Genes and Alleles",
+    "familyId": "allele_definition",
+    "questionText": "Genes that control a pair of contrasting traits are called:",
+    "questionLatex": "Genes that control a pair of contrasting traits are called:",
+    "options": [
+      "Chromosomes",
+      "Codons",
+      "Alleles",
+      "Gametes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Alleles are alternative forms of the same gene that control contrasting traits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Genotype and Phenotype",
+    "familyId": "genotype_identification",
+    "questionText": "The genotype of a true-breeding tall pea plant is:",
+    "questionLatex": "The genotype of a true-breeding tall pea plant is:",
+    "options": [
+      "TT",
+      "Tt",
+      "tt",
+      "T"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A true-breeding tall plant is homozygous dominant (TT)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Genotype and Phenotype",
+    "familyId": "heterozygous_genotype",
+    "questionText": "Which of the following represents a heterozygous genotype for plant height?",
+    "questionLatex": "Which of the following represents a heterozygous genotype for plant height?",
+    "options": [
+      "TT",
+      "tt",
+      "Tt",
+      "TTT"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A heterozygous organism possesses two different alleles (Tt)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dominance",
+    "familyId": "dominant_trait",
+    "questionText": "In pea plants, the allele for tallness (T) is:",
+    "questionLatex": "In pea plants, the allele for tallness ($T$) is:",
+    "options": [
+      "Recessive to t",
+      "Dominant over t",
+      "Neither dominant nor recessive",
+      "Lethal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tallness (T) is dominant over dwarfness (t) in pea plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Law of Segregation",
+    "familyId": "gamete_formation",
+    "questionText": "According to the Law of Segregation, each gamete receives:",
+    "questionLatex": "According to the Law of Segregation, each gamete receives:",
+    "options": [
+      "Both alleles of a gene",
+      "One allele of a gene",
+      "No allele",
+      "Four alleles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During gamete formation, the two alleles separate so that each gamete receives only one allele."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Punnett Square",
+    "familyId": "punnett_square",
+    "questionText": "The Punnett square is primarily used to:",
+    "questionLatex": "The Punnett square is primarily used to:",
+    "options": [
+      "Determine chromosome number",
+      "Predict possible genotypes of offspring",
+      "Study DNA replication",
+      "Measure mutation frequency"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A Punnett square is a graphical method used to predict the possible genotypes and phenotypes of offspring."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Monohybrid Cross",
+    "familyId": "genotypic_ratio",
+    "questionText": "The genotypic ratio obtained in the F₂ generation of a monohybrid cross is:",
+    "questionLatex": "The genotypic ratio obtained in the $F_2$ generation of a monohybrid cross is:",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The F₂ generation of a monohybrid cross shows a genotypic ratio of 1 TT : 2 Tt : 1 tt."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Test Cross",
+    "familyId": "test_cross_definition",
+    "questionText": "A test cross is performed to determine:",
+    "questionLatex": "A test cross is performed to determine:",
+    "options": [
+      "The phenotype of a recessive individual",
+      "The genotype of an individual showing the dominant phenotype",
+      "The chromosome number",
+      "The DNA sequence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A test cross helps determine whether an individual with a dominant phenotype is homozygous or heterozygous."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Laws of Inheritance",
+    "familyId": "law_of_dominance",
+    "questionText": "According to Mendel's Law of Dominance, in a heterozygous individual:",
+    "questionLatex": "According to Mendel's Law of Dominance, in a heterozygous individual:",
+    "options": [
+      "Both alleles blend equally",
+      "Only the recessive allele is expressed",
+      "The dominant allele expresses itself while the recessive allele remains unexpressed",
+      "Neither allele is expressed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The dominant allele masks the expression of the recessive allele in a heterozygous individual."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "familyId": "dihybrid_cross_definition",
+    "questionText": "A dihybrid cross involves the inheritance of:",
+    "questionLatex": "A dihybrid cross involves the inheritance of:",
+    "options": [
+      "One pair of contrasting characters",
+      "Two pairs of contrasting characters",
+      "Three pairs of contrasting characters",
+      "Multiple alleles of one gene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A dihybrid cross studies the inheritance of two pairs of contrasting traits simultaneously."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "familyId": "dihybrid_traits",
+    "questionText": "In Mendel's dihybrid cross, the two traits studied were:",
+    "questionLatex": "In Mendel's dihybrid cross, the two traits studied were:",
+    "options": [
+      "Plant height and flower position",
+      "Seed shape and seed colour",
+      "Flower colour and pod shape",
+      "Pod colour and plant height"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mendel studied seed shape (Round/Wrinkled) and seed colour (Yellow/Green) in his dihybrid cross."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "familyId": "f1_dihybrid",
+    "questionText": "The genotype of all F₁ plants obtained by crossing RRYY × rryy is:",
+    "questionLatex": "The genotype of all $F_1$ plants obtained by crossing $RRYY \\times rryy$ is:",
+    "options": [
+      "RRYY",
+      "RrYY",
+      "RRYy",
+      "RrYy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Each F₁ individual receives one dominant and one recessive allele for both genes, producing the genotype RrYy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "familyId": "law_independent_assortment",
+    "questionText": "Which Mendelian law is demonstrated by a dihybrid cross?",
+    "questionLatex": "Which Mendelian law is demonstrated by a dihybrid cross?",
+    "options": [
+      "Law of Dominance",
+      "Law of Segregation",
+      "Law of Independent Assortment",
+      "Law of Blending"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "A dihybrid cross demonstrates the Law of Independent Assortment, which states that alleles of different genes assort independently during gamete formation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "familyId": "dihybrid_ratio",
+    "questionText": "The phenotypic ratio obtained in the F₂ generation of Mendel's dihybrid cross is:",
+    "questionLatex": "The phenotypic ratio obtained in the $F_2$ generation of Mendel's dihybrid cross is:",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1:1:1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The classic Mendelian dihybrid cross produces the phenotypic ratio 9:3:3:1."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Law of Independent Assortment",
+    "familyId": "independent_assortment_definition",
+    "questionText": "The Law of Independent Assortment states that:",
+    "questionLatex": "The Law of Independent Assortment states that:",
+    "options": [
+      "Alleles of a gene remain together during gamete formation",
+      "One allele masks the expression of another",
+      "Alleles of different genes assort independently during gamete formation",
+      "Genes always blend in the offspring"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The segregation of one pair of alleles is independent of the segregation of another pair of alleles."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Chromosomal Theory of Inheritance",
+    "familyId": "chromosomal_theory_scientists",
+    "questionText": "The chromosomal theory of inheritance was independently proposed by:",
+    "questionLatex": "The chromosomal theory of inheritance was independently proposed by:",
+    "options": [
+      "Watson and Crick",
+      "Sutton and Boveri",
+      "Mendel and Morgan",
+      "Beadle and Tatum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Walter Sutton and Theodor Boveri independently proposed the chromosomal theory of inheritance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Chromosomal Theory of Inheritance",
+    "familyId": "chromosome_gene_relation",
+    "questionText": "The chromosomal theory of inheritance states that genes are located on:",
+    "questionLatex": "The chromosomal theory of inheritance states that genes are located on:",
+    "options": [
+      "Ribosomes",
+      "Chromosomes",
+      "Mitochondria only",
+      "Centrioles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The chromosomal theory established that chromosomes carry genes responsible for inheritance."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Chromosomal Theory of Inheritance",
+    "familyId": "meiosis_support",
+    "questionText": "Which cellular process provided strong evidence supporting the chromosomal theory of inheritance?",
+    "questionLatex": "Which cellular process provided strong evidence supporting the chromosomal theory of inheritance?",
+    "options": [
+      "Mitosis",
+      "Binary fission",
+      "Meiosis",
+      "Translation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The behavior of homologous chromosomes during meiosis closely parallels Mendel's laws of segregation and independent assortment."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Linkage and Recombination",
+    "familyId": "linkage_definition",
+    "questionText": "Linkage refers to the tendency of genes to:",
+    "questionLatex": "Linkage refers to the tendency of genes to:",
+    "options": [
+      "Mutate together",
+      "Remain together during inheritance because they are located on the same chromosome",
+      "Always assort independently",
+      "Undergo replication simultaneously"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Genes located close together on the same chromosome tend to be inherited together due to linkage."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Linkage and Recombination",
+    "familyId": "complete_linkage",
+    "questionText": "Complete linkage refers to the condition in which:",
+    "questionLatex": "Complete linkage refers to the condition in which:",
+    "options": [
+      "Genes assort independently",
+      "Crossing over occurs in every meiosis",
+      "Linked genes are inherited together without recombination",
+      "Genes are located on different chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Complete linkage occurs when linked genes are inherited together because crossing over does not occur between them."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Linkage and Recombination",
+    "familyId": "recombination_definition",
+    "questionText": "Recombination is the process that results in:",
+    "questionLatex": "Recombination is the process that results in:",
+    "options": [
+      "Formation of identical parental combinations only",
+      "Exchange of genetic material leading to new gene combinations",
+      "Duplication of chromosomes",
+      "Reduction in chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Recombination involves the exchange of genetic material between homologous chromosomes, producing new combinations of alleles."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Linkage and Recombination",
+    "familyId": "crossing_over_stage",
+    "questionText": "Crossing over takes place during which stage of meiosis?",
+    "questionLatex": "Crossing over takes place during which stage of meiosis?",
+    "options": [
+      "Prophase I",
+      "Metaphase I",
+      "Anaphase I",
+      "Telophase I"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Crossing over occurs during the pachytene stage of Prophase I of meiosis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Morgan's Experiments",
+    "familyId": "morgan_organism",
+    "questionText": "Thomas Hunt Morgan conducted his classical genetic experiments using:",
+    "questionLatex": "Thomas Hunt Morgan conducted his classical genetic experiments using:",
+    "options": [
+      "Pisum sativum",
+      "Neurospora",
+      "Drosophila melanogaster",
+      "Escherichia coli"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Morgan used the fruit fly Drosophila melanogaster because of its short life cycle and easily observable traits."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Morgan's Experiments",
+    "familyId": "morgan_contribution",
+    "questionText": "Thomas Hunt Morgan's experiments provided strong evidence for:",
+    "questionLatex": "Thomas Hunt Morgan's experiments provided strong evidence for:",
+    "options": [
+      "Theory of evolution",
+      "Chromosomal theory of inheritance",
+      "Cell theory",
+      "Germplasm theory"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Morgan's work on Drosophila established the relationship between genes and chromosomes, supporting the chromosomal theory of inheritance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "human_sex_chromosomes",
+    "questionText": "The sex chromosome complement in a normal human female is:",
+    "questionLatex": "The sex chromosome complement in a normal human female is:",
+    "options": [
+      "XY",
+      "XO",
+      "XX",
+      "YY"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Normal human females possess two X chromosomes (XX)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "human_male_chromosomes",
+    "questionText": "The sex chromosome complement in a normal human male is:",
+    "questionLatex": "The sex chromosome complement in a normal human male is:",
+    "options": [
+      "XX",
+      "XY",
+      "XO",
+      "YY"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Normal human males possess one X chromosome and one Y chromosome (XY)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "human_sex_determination",
+    "questionText": "In humans, the sex of the offspring is determined by:",
+    "questionLatex": "In humans, the sex of the offspring is determined by:",
+    "options": [
+      "The ovum only",
+      "The sperm carrying either X or Y chromosome",
+      "Environmental temperature",
+      "Maternal nutrition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "All ova carry an X chromosome, whereas sperms carry either X or Y. Therefore, the sperm determines the sex of the offspring."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "male_heterogametic",
+    "questionText": "Human males are described as heterogametic because they produce:",
+    "questionLatex": "Human males are described as heterogametic because they produce:",
+    "options": [
+      "Only X-bearing sperms",
+      "Only Y-bearing sperms",
+      "Both X-bearing and Y-bearing sperms",
+      "Diploid sperms"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Human males produce two types of sperms—X-bearing and Y-bearing—making them heterogametic."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "female_homogametic",
+    "questionText": "Human females are described as homogametic because they produce:",
+    "questionLatex": "Human females are described as homogametic because they produce:",
+    "options": [
+      "Only X-bearing ova",
+      "Only Y-bearing ova",
+      "Both X-bearing and Y-bearing ova",
+      "Diploid ova"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Human females possess two X chromosomes and therefore produce only X-bearing ova."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "bird_sex_determination",
+    "questionText": "In birds, the heterogametic sex is:",
+    "questionLatex": "In birds, the heterogametic sex is:",
+    "options": [
+      "Male",
+      "Female",
+      "Both male and female",
+      "Neither male nor female"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In birds, females are heterogametic (ZW) while males are homogametic (ZZ)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex Determination",
+    "familyId": "grasshopper_sex_determination",
+    "questionText": "The XO type of sex determination is observed in:",
+    "questionLatex": "The XO type of sex determination is observed in:",
+    "options": [
+      "Humans",
+      "Drosophila",
+      "Grasshoppers",
+      "Birds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Grasshoppers exhibit the XO type of sex determination in which males possess a single X chromosome (XO) and females are XX."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex-linked Inheritance",
+    "familyId": "sex_linked_definition",
+    "questionText": "Genes located on the sex chromosomes are known as:",
+    "questionLatex": "Genes located on the sex chromosomes are known as:",
+    "options": [
+      "Autosomal genes",
+      "Linked genes",
+      "Sex-linked genes",
+      "Lethal genes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Genes present on the X or Y chromosome are called sex-linked genes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex-linked Inheritance",
+    "familyId": "haemophilia_disorder",
+    "questionText": "Haemophilia is an example of:",
+    "questionLatex": "Haemophilia is an example of:",
+    "options": [
+      "Autosomal dominant inheritance",
+      "Autosomal recessive inheritance",
+      "X-linked recessive inheritance",
+      "Y-linked inheritance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Haemophilia is an X-linked recessive disorder in humans."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex-linked Inheritance",
+    "familyId": "colour_blindness",
+    "questionText": "Colour blindness in humans is inherited as a:",
+    "questionLatex": "Colour blindness in humans is inherited as a:",
+    "options": [
+      "Y-linked trait",
+      "Autosomal dominant trait",
+      "Autosomal recessive trait",
+      "X-linked recessive trait"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Red-green colour blindness is an X-linked recessive disorder."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Sex-linked Inheritance",
+    "familyId": "affected_males",
+    "questionText": "X-linked recessive disorders are more common in males because:",
+    "questionLatex": "X-linked recessive disorders are more common in males because:",
+    "options": [
+      "Males possess two X chromosomes",
+      "Males have only one X chromosome",
+      "Females do not inherit X chromosomes",
+      "Y chromosome carries dominant alleles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Since males possess only one X chromosome, a single recessive allele is sufficient to express an X-linked recessive disorder."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Pedigree Analysis",
+    "familyId": "pedigree_definition",
+    "questionText": "Pedigree analysis is mainly used to:",
+    "questionLatex": "Pedigree analysis is mainly used to:",
+    "options": [
+      "Determine chromosome number",
+      "Trace the inheritance of traits through generations",
+      "Study DNA replication",
+      "Measure mutation rates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pedigree analysis helps trace the inheritance pattern of a particular trait across several generations of a family."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Pedigree Analysis",
+    "familyId": "pedigree_application",
+    "questionText": "Pedigree analysis is especially useful in humans because:",
+    "questionLatex": "Pedigree analysis is especially useful in humans because:",
+    "options": [
+      "Humans produce many offspring quickly",
+      "Controlled crosses cannot be performed in humans",
+      "Human chromosomes cannot be studied",
+      "Humans reproduce asexually"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Controlled breeding experiments are not possible in humans; therefore pedigree analysis is used to study inheritance."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Mutation",
+    "familyId": "mutation_definition",
+    "questionText": "A mutation is defined as:",
+    "questionLatex": "A mutation is defined as:",
+    "options": [
+      "Normal chromosome segregation",
+      "A sudden heritable change in the genetic material",
+      "Fusion of gametes",
+      "Formation of homologous chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A mutation is a sudden heritable alteration in the DNA sequence or chromosome structure."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Mutation",
+    "familyId": "mutagen_definition",
+    "questionText": "Agents that induce mutations are called:",
+    "questionLatex": "Agents that induce mutations are called:",
+    "options": [
+      "Catalysts",
+      "Mutagens",
+      "Enzymes",
+      "Alleles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Physical and chemical agents capable of causing mutations are known as mutagens."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

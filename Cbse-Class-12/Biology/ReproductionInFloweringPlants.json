@@ -1,0 +1,1252 @@
+[
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Flower – A Fascinating Organ of Angiosperms",
+"familyId": "flower_reproductive_organ",
+"questionText": "The flower in angiosperms is primarily regarded as:",
+"questionLatex": "\text{The flower in angiosperms is primarily regarded as:}",
+"options": [
+"A vegetative organ",
+"A reproductive organ",
+"A storage organ",
+"A supporting organ"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The flower is the reproductive organ of angiosperms where sexual reproduction takes place."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Flower Structure",
+"familyId": "androecium_gynoecium",
+"questionText": "Which pair represents the male and female reproductive organs of a flower, respectively?",
+"questionLatex": "\text{Which pair represents the male and female reproductive organs of a flower, respectively?}",
+"options": [
+"Calyx and Corolla",
+"Androecium and Gynoecium",
+"Petal and Sepal",
+"Ovule and Pollen grain"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The androecium is the male reproductive whorl and the gynoecium is the female reproductive whorl of a flower."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Stamen",
+"familyId": "stamen_parts",
+"questionText": "A typical stamen consists of:",
+"questionLatex": "\text{A typical stamen consists of:}",
+"options": [
+"Stigma and style",
+"Filament and anther",
+"Ovary and ovule",
+"Petiole and lamina"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "A typical stamen has a slender filament bearing a terminal anther."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Anther Structure",
+"familyId": "dithecous_anther",
+"questionText": "A typical angiosperm anther is described as:",
+"questionLatex": "\text{A typical angiosperm anther is described as:}",
+"options": [
+"Monothecous",
+"Dithecous",
+"Unilocular",
+"Trilobed"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "A typical angiosperm anther is bilobed with two thecae and is therefore called dithecous."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Microsporangium",
+"familyId": "microsporangia_number",
+"questionText": "A transverse section of a typical angiosperm anther shows:",
+"questionLatex": "\text{A transverse section of a typical angiosperm anther shows:}",
+"options": [
+"One microsporangium",
+"Two microsporangia",
+"Four microsporangia",
+"Eight microsporangia"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "A typical anther possesses four microsporangia, two in each lobe."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Microsporangium",
+"familyId": "tapetum_function",
+"questionText": "The innermost wall layer of the microsporangium that nourishes developing pollen grains is called:",
+"questionLatex": "\text{The innermost wall layer of the microsporangium that nourishes developing pollen grains is called:}",
+"options": [
+"Epidermis",
+"Endothecium",
+"Middle layers",
+"Tapetum"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 3,
+"explanation": "The tapetum is the innermost nutritive layer of the microsporangium."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Microsporogenesis",
+"familyId": "microsporogenesis_definition",
+"questionText": "Microsporogenesis is the process of:",
+"questionLatex": "\text{Microsporogenesis is the process of:}",
+"options": [
+"Formation of ovules",
+"Formation of microspores from pollen mother cells by meiosis",
+"Formation of embryo sac",
+"Formation of pollen tube"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Microsporogenesis refers to the formation of haploid microspores from pollen mother cells through meiosis."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Microsporogenesis",
+"familyId": "microspore_ploidy",
+"questionText": "The ploidy of each cell in a microspore tetrad is:",
+"questionLatex": "\text{The ploidy of each cell in a microspore tetrad is:}",
+"options": [
+"2n",
+"3n",
+"n",
+"4n"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Microspores are produced by meiosis and are therefore haploid (n)."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "male_gametophyte",
+"questionText": "The pollen grain represents the:",
+"questionLatex": "\text{The pollen grain represents the:}",
+"options": [
+"Male gametophyte",
+"Female gametophyte",
+"Sporophyte",
+"Embryo"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 0,
+"explanation": "The pollen grain is the male gametophyte of flowering plants."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Wall",
+"familyId": "sporopollenin_exine",
+"questionText": "The highly resistant outer wall of the pollen grain is called exine and is mainly composed of:",
+"questionLatex": "\text{The highly resistant outer wall of the pollen grain is called exine and is mainly composed of:}",
+"options": [
+"Cellulose",
+"Pectin",
+"Sporopollenin",
+"Lignin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The exine is composed of sporopollenin, one of the most resistant organic substances known."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "germ_pore_function",
+"questionText": "Germ pores in the exine of a pollen grain are regions where:",
+"questionLatex": "\text{Germ pores in the exine of a pollen grain are regions where:}",
+"options": [
+"Cellulose is absent",
+"Pectin is absent",
+"Sporopollenin is absent",
+"The intine is absent"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Germ pores are apertures in the exine where sporopollenin is absent, allowing pollen tube emergence."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "intine_composition",
+"questionText": "The intine of a pollen grain is primarily composed of:",
+"questionLatex": "\text{The intine of a pollen grain is primarily composed of:}",
+"options": [
+"Sporopollenin",
+"Lignin and suberin",
+"Cellulose and pectin",
+"Chitin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The intine is a thin inner wall made up of cellulose and pectin."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "vegetative_cell",
+"questionText": "The vegetative cell of a mature pollen grain is characterized by:",
+"questionLatex": "\text{The vegetative cell of a mature pollen grain is characterized by:}",
+"options": [
+"Dense cytoplasm and spindle shape",
+"Large irregular nucleus and abundant food reserves",
+"Two male gametes",
+"Absence of cytoplasm"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The vegetative cell is larger, possesses abundant food reserves and has a large irregular nucleus."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "generative_cell",
+"questionText": "The generative cell of a pollen grain ultimately gives rise to:",
+"questionLatex": "\text{The generative cell of a pollen grain ultimately gives rise to:}",
+"options": [
+"Vegetative nucleus",
+"Two male gametes",
+"Egg apparatus",
+"Embryo sac"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The generative cell divides mitotically to produce two male gametes."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Grain",
+"familyId": "two_celled_stage",
+"questionText": "In more than 60% of angiosperms, pollen grains are shed at the:",
+"questionLatex": "\text{In more than 60 % of angiosperms, pollen grains are shed at the:}",
+"options": [
+"One-celled stage",
+"Two-celled stage",
+"Three-celled stage",
+"Four-celled stage"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Most angiosperms shed pollen grains at the two-celled stage consisting of one vegetative and one generative cell."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Viability",
+"familyId": "pollen_viability_cereals",
+"questionText": "In cereals such as rice and wheat, pollen grains generally lose viability within:",
+"questionLatex": "\text{In cereals such as rice and wheat, pollen grains generally lose viability within:}",
+"options": [
+"30 minutes",
+"6 hours",
+"24 hours",
+"One week"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 0,
+"explanation": "Pollen grains of rice and wheat lose viability within about 30 minutes after release."
+},
+"difficultyScore": 26,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollen Preservation",
+"familyId": "pollen_bank",
+"questionText": "Pollen grains intended for long-term storage in crop breeding programmes are preserved in:",
+"questionLatex": "\text{Pollen grains intended for long-term storage in crop breeding programmes are preserved in:}",
+"options": [
+"Distilled water",
+"Liquid nitrogen at -196°C",
+"Ethanol",
+"Formalin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Pollen grains can be cryopreserved in liquid nitrogen (-196°C) to establish pollen banks."
+},
+"difficultyScore": 24,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Gynoecium",
+"familyId": "pistil_parts",
+"questionText": "The three principal parts of a pistil are:",
+"questionLatex": "\text{The three principal parts of a pistil are:}",
+"options": [
+"Anther, filament and ovary",
+"Stigma, style and ovary",
+"Ovary, ovule and placenta",
+"Style, funicle and micropyle"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "A pistil consists of the stigma, style and ovary."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Gynoecium",
+"familyId": "syncarpous_pistil",
+"questionText": "A gynoecium with two or more fused carpels is described as:",
+"questionLatex": "\text{A gynoecium with two or more fused carpels is described as:}",
+"options": [
+"Apocarpous",
+"Syncarpous",
+"Monocarpellary",
+"Unilocular"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "When multiple carpels are fused together, the gynoecium is called syncarpous."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Ovule",
+"familyId": "funicle_definition",
+"questionText": "The stalk by which an ovule is attached to the placenta is called:",
+"questionLatex": "\text{The stalk by which an ovule is attached to the placenta is called:}",
+"options": [
+"Hilum",
+"Funicle",
+"Micropyle",
+"Chalaza"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The ovule is attached to the placenta by a stalk called the funicle."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Ovule",
+"familyId": "hilum_definition",
+"questionText": "The point where the funicle is attached to the body of the ovule is known as:",
+"questionLatex": "\text{The point where the funicle is attached to the body of the ovule is known as:}",
+"options": [
+"Micropyle",
+"Hilum",
+"Chalaza",
+"Nucellus"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The hilum is the junction where the funicle is attached to the body of the ovule."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Ovule",
+"familyId": "micropyle_definition",
+"questionText": "The small opening left by the integuments at the apex of the ovule is called:",
+"questionLatex": "\text{The small opening left by the integuments at the apex of the ovule is called:}",
+"options": [
+"Hilum",
+"Chalaza",
+"Micropyle",
+"Raphe"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The micropyle is the minute opening through which the pollen tube enters the ovule."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Ovule",
+"familyId": "chalaza_definition",
+"questionText": "The basal part of the ovule opposite to the micropyle is known as:",
+"questionLatex": "\text{The basal part of the ovule opposite to the micropyle is known as:}",
+"options": [
+"Funicle",
+"Raphe",
+"Chalaza",
+"Placenta"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The chalaza is the basal region of the ovule opposite the micropyle."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Ovule",
+"familyId": "nucellus_function",
+"questionText": "The tissue enclosed within the integuments of the ovule is called the:",
+"questionLatex": "\text{The tissue enclosed within the integuments of the ovule is called the:}",
+"options": [
+"Placenta",
+"Nucellus",
+"Endosperm",
+"Tapetum"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The nucellus is the central tissue of the ovule that encloses the embryo sac and provides nourishment."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Megasporogenesis",
+"familyId": "mmc_definition",
+"questionText": "The diploid cell that undergoes meiosis to produce megaspores is called the:",
+"questionLatex": "\text{The diploid cell that undergoes meiosis to produce megaspores is called the:}",
+"options": [
+"Egg cell",
+"Megaspore mother cell",
+"Generative cell",
+"Polar nucleus"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The megaspore mother cell (MMC) undergoes meiosis to produce four haploid megaspores."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Megasporogenesis",
+"familyId": "functional_megaspore",
+"questionText": "In most flowering plants, out of the four megaspores produced after meiosis:",
+"questionLatex": "\text{In most flowering plants, out of the four megaspores produced after meiosis:}",
+"options": [
+"All four remain functional",
+"Three remain functional",
+"Only one remains functional",
+"None remains functional"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Typically, only one megaspore remains functional, while the other three degenerate."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "embryo_sac_type",
+"questionText": "The embryo sac found in most angiosperms is:",
+"questionLatex": "\text{The embryo sac found in most angiosperms is:}",
+"options": [
+"Bisporic",
+"Tetrasporic",
+"Monosporic",
+"Polysporic"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The most common type of embryo sac in angiosperms develops from a single functional megaspore and is therefore monosporic."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "embryo_sac_nuclei",
+"questionText": "A mature embryo sac of a typical angiosperm contains:",
+"questionLatex": "\text{A mature embryo sac of a typical angiosperm contains:}",
+"options": [
+"8 nuclei and 7 cells",
+"7 nuclei and 8 cells",
+"8 nuclei and 8 cells",
+"7 nuclei and 7 cells"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 0,
+"explanation": "A mature Polygonum-type embryo sac is 8-nucleate and 7-celled."
+},
+"difficultyScore": 26,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "egg_apparatus",
+"questionText": "The egg apparatus of a mature embryo sac consists of:",
+"questionLatex": "\text{The egg apparatus of a mature embryo sac consists of:}",
+"options": [
+"One egg cell and two synergids",
+"Two egg cells and one synergid",
+"One egg cell and three antipodals",
+"Two polar nuclei and one egg cell"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 0,
+"explanation": "The egg apparatus consists of one egg cell and two synergids located at the micropylar end."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "filiform_apparatus",
+"questionText": "The filiform apparatus is present in:",
+"questionLatex": "\text{The filiform apparatus is present in:}",
+"options": [
+"Antipodal cells",
+"Egg cell",
+"Synergids",
+"Central cell"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The synergids possess a filiform apparatus that guides the pollen tube into the embryo sac."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "central_cell",
+"questionText": "The largest cell of the mature embryo sac is the:",
+"questionLatex": "\text{The largest cell of the mature embryo sac is the:}",
+"options": [
+"Egg cell",
+"Synergid",
+"Central cell",
+"Antipodal cell"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The central cell is the largest cell of the embryo sac and contains two polar nuclei before fertilisation."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "polar_nuclei",
+"questionText": "The two polar nuclei are located within the:",
+"questionLatex": "\text{The two polar nuclei are located within the:}",
+"options": [
+"Egg cell",
+"Synergids",
+"Central cell",
+"Antipodal cells"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "The central cell contains two polar nuclei that participate in triple fusion during double fertilisation."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Embryo Sac",
+"familyId": "antipodal_cells",
+"questionText": "The antipodal cells are located at the:",
+"questionLatex": "\text{The antipodal cells are located at the:}",
+"options": [
+"Micropylar end",
+"Chalazal end",
+"Middle region",
+"Funicular end"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Three antipodal cells are situated at the chalazal end of the mature embryo sac."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "pollination_definition",
+"questionText": "Pollination is defined as the transfer of pollen grains from:",
+"questionLatex": "\text{Pollination is defined as the transfer of pollen grains from:}",
+"options": [
+"Ovary to stigma",
+"Anther to stigma",
+"Stigma to ovule",
+"Anther to ovary"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Pollination is the transfer of pollen grains from the anther to the stigma of a flower."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "autogamy_definition",
+"questionText": "Transfer of pollen grains from the anther to the stigma of the same flower is known as:",
+"questionLatex": "\text{Transfer of pollen grains from the anther to the stigma of the same flower is known as:}",
+"options": [
+"Geitonogamy",
+"Xenogamy",
+"Autogamy",
+"Hybridisation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Autogamy is self-pollination occurring within the same flower."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "geitonogamy_definition",
+"questionText": "Pollination between two different flowers of the same plant is called:",
+"questionLatex": "\text{Pollination between two different flowers of the same plant is called:}",
+"options": [
+"Autogamy",
+"Geitonogamy",
+"Xenogamy",
+"Apomixis"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Geitonogamy involves transfer of pollen between different flowers borne on the same plant."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "xenogamy_definition",
+"questionText": "Transfer of pollen grains from the anther of one plant to the stigma of a genetically different plant of the same species is known as:",
+"questionLatex": "\text{Transfer of pollen grains from the anther of one plant to the stigma of a genetically different plant of the same species is known as:}",
+"options": [
+"Autogamy",
+"Geitonogamy",
+"Xenogamy",
+"Vegetative propagation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Xenogamy is pollination between flowers of different plants belonging to the same species."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "cleistogamous_flowers",
+"questionText": "Cleistogamous flowers ensure:",
+"questionLatex": "\text{Cleistogamous flowers ensure:}",
+"options": [
+"Cross-pollination only",
+"Autogamy",
+"Pollination by insects only",
+"Wind pollination"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Cleistogamous flowers never open and therefore ensure self-pollination (autogamy)."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "autogamy_conditions",
+"questionText": "Which of the following is essential for autogamy in a bisexual flower?",
+"questionLatex": "\text{Which of the following is essential for autogamy in a bisexual flower?}",
+"options": [
+"Different flowering seasons",
+"Synchrony in pollen release and stigma receptivity",
+"Presence of nectar guides",
+"Presence of pollinating insects"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Autogamy requires synchrony between pollen release and stigma receptivity, along with close proximity of anthers and stigma."
+},
+"difficultyScore": 26,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Pollination",
+"familyId": "geitonogamy_characteristic",
+"questionText": "Although geitonogamy is functionally cross-pollination, genetically it is considered:",
+"questionLatex": "\text{Although geitonogamy is functionally cross-pollination, genetically it is considered:}",
+"options": [
+"Equivalent to xenogamy",
+"Equivalent to autogamy",
+"Asexual reproduction",
+"Vegetative propagation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Since pollen originates from the same plant, geitonogamy is genetically similar to self-pollination despite requiring a pollinating agent."
+},
+"difficultyScore": 30,
+"difficultyLabel": "medium",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Agents of Pollination",
+"familyId": "abiotic_agents",
+"questionText": "Which of the following is an abiotic agent of pollination?",
+"questionLatex": "\text{Which of the following is an abiotic agent of pollination?}",
+"options": [
+"Bees",
+"Birds",
+"Wind",
+"Bats"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Wind and water are the abiotic agents responsible for pollination in certain flowering plants."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Anemophily",
+"familyId": "wind_pollinated_flowers",
+"questionText": "A characteristic feature of wind-pollinated flowers is:",
+"questionLatex": "\text{A characteristic feature of wind-pollinated flowers is:}",
+"options": [
+"Large colourful petals with fragrance",
+"Sticky and heavy pollen grains",
+"Light, non-sticky pollen grains produced in large numbers",
+"Nectar secretion in abundance"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Wind-pollinated flowers produce abundant, light and non-sticky pollen grains to facilitate dispersal by air."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Hydrophily",
+"familyId": "water_pollination",
+"questionText": "Pollination through water is known as:",
+"questionLatex": "\text{Pollination through water is known as:}",
+"options": [
+"Anemophily",
+"Entomophily",
+"Hydrophily",
+"Ornithophily"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 2,
+"explanation": "Hydrophily refers to pollination in which water acts as the pollinating agent."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Hydrophily",
+"familyId": "vallisneria_pollination",
+"questionText": "In Vallisneria, pollination occurs:",
+"questionLatex": "\text{In Vallisneria, pollination occurs:}",
+"options": [
+"Below the water surface",
+"At the water surface",
+"Inside the ovary",
+"Through insects"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "In Vallisneria, female flowers reach the water surface where pollination occurs with floating male flowers."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Entomophily",
+"familyId": "insect_pollination",
+"questionText": "Flowers pollinated by insects are generally characterized by:",
+"questionLatex": "\text{Flowers pollinated by insects are generally characterized by:}",
+"options": [
+"Small inconspicuous flowers lacking nectar",
+"Large, colourful, fragrant flowers with nectar",
+"Feathery stigmas and exposed anthers",
+"Large quantities of dry pollen only"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Insect-pollinated flowers attract pollinators using bright colours, fragrance and nectar rewards."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Outbreeding Devices",
+"familyId": "outbreeding_devices",
+"questionText": "Outbreeding devices in flowering plants primarily help to:",
+"questionLatex": "\text{Outbreeding devices in flowering plants primarily help to:}",
+"options": [
+"Promote self-pollination",
+"Prevent self-pollination and encourage cross-pollination",
+"Increase vegetative propagation",
+"Reduce pollen production"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Outbreeding devices prevent inbreeding and promote genetic variation through cross-pollination."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Outbreeding Devices",
+"familyId": "dichogamy",
+"questionText": "The maturation of anthers and stigma at different times in the same flower is known as:",
+"questionLatex": "\text{The maturation of anthers and stigma at different times in the same flower is known as:}",
+"options": [
+"Herkogamy",
+"Dichogamy",
+"Self-incompatibility",
+"Apomixis"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Dichogamy prevents self-pollination by ensuring that pollen release and stigma receptivity do not occur simultaneously."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Outbreeding Devices",
+"familyId": "self_incompatibility",
+"questionText": "Self-incompatibility in flowering plants is a genetically controlled mechanism that:",
+"questionLatex": "\text{Self-incompatibility in flowering plants is a genetically controlled mechanism that:}",
+"options": [
+"Promotes vegetative propagation",
+"Prevents self-fertilisation",
+"Stimulates pollen production",
+"Prevents seed formation"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Self-incompatibility prevents self-pollen from effecting fertilisation, thereby promoting outcrossing."
+},
+"difficultyScore": 28,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Artificial Hybridisation",
+"familyId": "emasculation",
+"questionText": "In artificial hybridisation, removal of anthers from a bisexual flower before pollen release is called:",
+"questionLatex": "\text{In artificial hybridisation, removal of anthers from a bisexual flower before pollen release is called:}",
+"options": [
+"Bagging",
+"Emasculation",
+"Pollination",
+"Grafting"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Emasculation prevents self-pollination by removing the anthers before they dehisce."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 12,
+"subject": "Biology",
+"chapter": "Sexual Reproduction in Flowering Plants",
+"topic": "Artificial Hybridisation",
+"familyId": "bagging",
+"questionText": "After emasculation, the flower is covered with a suitable bag primarily to:",
+"questionLatex": "\text{After emasculation, the flower is covered with a suitable bag primarily to:}",
+"options": [
+"Accelerate fruit development",
+"Prevent contamination by unwanted pollen grains",
+"Increase nectar production",
+"Protect the flower from sunlight"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Bagging prevents unwanted pollen from reaching the stigma until controlled pollination is performed."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+}
+]

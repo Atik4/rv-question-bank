@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Introduction to Microbes",
+    "familyId": "microbes_diversity",
+    "questionText": "Which of the following groups includes microorganisms?",
+    "questionLatex": "Which of the following groups includes microorganisms?",
+    "options": [
+      "Only bacteria",
+      "Only fungi",
+      "Bacteria, fungi, protozoa and viruses",
+      "Only viruses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Microorganisms include bacteria, fungi, protozoa and microscopic viruses, along with viroids and prions."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "lab_curd",
+    "questionText": "The microorganism mainly responsible for converting milk into curd is:",
+    "questionLatex": "The microorganism mainly responsible for converting milk into curd is:",
+    "options": [
+      "Rhizobium",
+      "Lactobacillus",
+      "Penicillium",
+      "Methanobacterium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lactic acid bacteria (LAB), mainly Lactobacillus, convert milk into curd by producing lactic acid."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "lab_nutrition",
+    "questionText": "During curd formation, lactic acid bacteria improve the nutritional quality of milk by increasing the content of:",
+    "questionLatex": "During curd formation, lactic acid bacteria improve the nutritional quality of milk by increasing the content of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "LAB increase the vitamin B12 content of curd, thereby improving its nutritional quality."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "bread_yeast",
+    "questionText": "The dough used in bread making is fermented by:",
+    "questionLatex": "The dough used in bread making is fermented by:",
+    "options": [
+      "Lactobacillus",
+      "Rhizopus",
+      "Saccharomyces cerevisiae",
+      "Aspergillus niger"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bread dough is fermented by baker's yeast, Saccharomyces cerevisiae."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "fermentation_gas",
+    "questionText": "The puffed-up appearance of idli or dosa batter is due to the production of:",
+    "questionLatex": "The puffed-up appearance of idli or dosa batter is due to the production of:",
+    "options": [
+      "Oxygen",
+      "Methane",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fermentation releases carbon dioxide, causing the batter to become soft and spongy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "swiss_cheese",
+    "questionText": "The large holes present in Swiss cheese are produced due to carbon dioxide released by:",
+    "questionLatex": "The large holes present in Swiss cheese are produced due to carbon dioxide released by:",
+    "options": [
+      "Lactobacillus",
+      "Propionibacterium sharmanii",
+      "Penicillium notatum",
+      "Rhizobium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Propionibacterium sharmanii produces large amounts of CO₂, forming characteristic holes in Swiss cheese."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "familyId": "roquefort_cheese",
+    "questionText": "The characteristic flavour of Roquefort cheese is produced by:",
+    "questionLatex": "The characteristic flavour of Roquefort cheese is produced by:",
+    "options": [
+      "A specific fungus",
+      "Lactic acid bacteria",
+      "Methanogens",
+      "Nitrosomonas"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Roquefort cheese is ripened using a specific fungus that imparts its unique flavour."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "fermentor_use",
+    "questionText": "Industrial-scale production of microbial products is carried out in:",
+    "questionLatex": "Industrial-scale production of microbial products is carried out in:",
+    "options": [
+      "Incubators",
+      "Petri dishes",
+      "Fermentors",
+      "Biogas tanks"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Large-scale industrial production of microbial products is performed in fermentors."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "brewers_yeast",
+    "questionText": "The microorganism commonly known as brewer's yeast is:",
+    "questionLatex": "The microorganism commonly known as brewer's yeast is:",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Aspergillus niger",
+      "Penicillium chrysogenum",
+      "Clostridium butylicum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Saccharomyces cerevisiae is commonly called brewer's yeast and is used in beverage production."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "ethanol_production",
+    "questionText": "Brewer's yeast is used commercially to produce:",
+    "questionLatex": "Brewer's yeast is used commercially to produce:",
+    "options": [
+      "Citric acid",
+      "Ethanol",
+      "Acetic acid",
+      "Penicillin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Saccharomyces cerevisiae ferments sugars to produce ethanol used in alcoholic beverages."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "alcoholic_beverages",
+    "questionText": "Which of the following alcoholic beverages is produced without distillation?",
+    "questionLatex": "Which of the following alcoholic beverages is produced without distillation?",
+    "options": [
+      "Whisky",
+      "Brandy",
+      "Beer",
+      "Rum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Beer and wine are produced without distillation, whereas whisky, rum and brandy are produced after distillation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Antibiotics",
+    "familyId": "penicillin_discovery",
+    "questionText": "Who discovered penicillin accidentally while working on Staphylococci cultures?",
+    "questionLatex": "Who discovered penicillin accidentally while working on Staphylococci cultures?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Howard Florey"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alexander Fleming accidentally discovered penicillin in 1928 after observing inhibition of bacterial growth around a mould colony."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Antibiotics",
+    "familyId": "penicillin_source",
+    "questionText": "Penicillin was originally obtained from the mould:",
+    "questionLatex": "Penicillin was originally obtained from the mould:",
+    "options": [
+      "Aspergillus niger",
+      "Penicillium notatum",
+      "Trichoderma polysporum",
+      "Rhizopus stolonifer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The first antibiotic, penicillin, was isolated from the mould Penicillium notatum."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Antibiotics",
+    "familyId": "nobel_prize",
+    "questionText": "Alexander Fleming, Ernest Chain and Howard Florey received the Nobel Prize in:",
+    "questionLatex": "Alexander Fleming, Ernest Chain and Howard Florey received the Nobel Prize in:",
+    "options": [
+      "1935",
+      "1940",
+      "1945",
+      "1950"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fleming, Chain and Florey received the Nobel Prize in Physiology or Medicine in 1945."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "citric_acid",
+    "questionText": "Citric acid is commercially produced by:",
+    "questionLatex": "Citric acid is commercially produced by:",
+    "options": [
+      "Lactobacillus",
+      "Acetobacter aceti",
+      "Aspergillus niger",
+      "Clostridium butylicum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The fungus Aspergillus niger is widely used for the commercial production of citric acid."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "acetic_acid",
+    "questionText": "Acetic acid is commercially produced using:",
+    "questionLatex": "Acetic acid is commercially produced using:",
+    "options": [
+      "Acetobacter aceti",
+      "Methanobacterium",
+      "Rhizobium",
+      "Monascus purpureus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Acetobacter aceti is used in the commercial production of acetic acid."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "lipase_use",
+    "questionText": "Lipases produced by microbes are mainly used in:",
+    "questionLatex": "Lipases produced by microbes are mainly used in:",
+    "options": [
+      "Detergent formulations",
+      "Bread making",
+      "Cheese ripening",
+      "Vaccine production"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Lipases are added to detergents because they help remove oily stains from clothes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "familyId": "fruit_juice_enzymes",
+    "questionText": "Commercial fruit juices are clarified using:",
+    "questionLatex": "Commercial fruit juices are clarified using:",
+    "options": [
+      "Lipases and amylases",
+      "Pectinases and proteases",
+      "Cellulases and ureases",
+      "Catalase and oxidase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Pectinases and proteases clarify fruit juices by breaking down suspended materials."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Bioactive Molecules",
+    "familyId": "streptokinase",
+    "questionText": "Streptokinase produced by Streptococcus is used as:",
+    "questionLatex": "Streptokinase produced by Streptococcus is used as:",
+    "options": [
+      "Blood cholesterol lowering agent",
+      "Clot buster",
+      "Biofertiliser",
+      "Antifungal drug"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Streptokinase is used as a clot buster to dissolve blood clots in patients suffering from myocardial infarction."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Bioactive Molecules",
+    "familyId": "cyclosporin",
+    "questionText": "Cyclosporin A, used as an immunosuppressive agent in organ transplantation, is produced by:",
+    "questionLatex": "Cyclosporin A, used as an immunosuppressive agent in organ transplantation, is produced by:",
+    "options": [
+      "Trichoderma polysporum",
+      "Penicillium notatum",
+      "Monascus purpureus",
+      "Saccharomyces cerevisiae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Cyclosporin A is produced by the fungus Trichoderma polysporum and is used to prevent organ transplant rejection."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Bioactive Molecules",
+    "familyId": "statins_source",
+    "questionText": "Statins, used for lowering blood cholesterol, are produced by:",
+    "questionLatex": "Statins, used for lowering blood cholesterol, are produced by:",
+    "options": [
+      "Trichoderma polysporum",
+      "Monascus purpureus",
+      "Saccharomyces cerevisiae",
+      "Penicillium notatum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Statins are produced by the yeast Monascus purpureus and are used to lower blood cholesterol by competitively inhibiting cholesterol synthesis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "sewage_definition",
+    "questionText": "Municipal wastewater that contains large quantities of organic matter is commonly known as:",
+    "questionLatex": "Municipal wastewater that contains large quantities of organic matter is commonly known as:",
+    "options": [
+      "Sludge",
+      "Effluent",
+      "Sewage",
+      "Compost"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Municipal wastewater containing organic matter is called sewage."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "primary_treatment",
+    "questionText": "Primary treatment of sewage mainly involves:",
+    "questionLatex": "Primary treatment of sewage mainly involves:",
+    "options": [
+      "Microbial degradation",
+      "Physical removal of suspended particles",
+      "Methane production",
+      "Chlorination"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primary treatment removes floating debris and suspended particles through physical processes such as filtration and sedimentation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "secondary_treatment",
+    "questionText": "Secondary treatment of sewage is also called:",
+    "questionLatex": "Secondary treatment of sewage is also called:",
+    "options": [
+      "Physical treatment",
+      "Mechanical treatment",
+      "Biological treatment",
+      "Chemical treatment"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Secondary treatment is a biological process in which microorganisms degrade organic matter present in sewage."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "flocs_definition",
+    "questionText": "Flocs formed during secondary sewage treatment consist mainly of:",
+    "questionLatex": "Flocs formed during secondary sewage treatment consist mainly of:",
+    "options": [
+      "Dead algae only",
+      "Masses of bacteria associated with fungal filaments",
+      "Only protozoans",
+      "Only viruses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Flocs are masses of bacteria associated with fungal filaments that actively degrade organic matter."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "bod_definition",
+    "questionText": "BOD is the abbreviation for:",
+    "questionLatex": "BOD is the abbreviation for:",
+    "options": [
+      "Biological Oxygen Demand",
+      "Biochemical Oxygen Demand",
+      "Biological Oxidation Degree",
+      "Biochemical Organic Decomposition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "BOD (Biochemical Oxygen Demand) is the amount of oxygen required by microorganisms to oxidize organic matter in water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "bod_significance",
+    "questionText": "A decrease in BOD after secondary treatment indicates:",
+    "questionLatex": "A decrease in BOD after secondary treatment indicates:",
+    "options": [
+      "Increase in organic pollution",
+      "Efficient removal of organic matter",
+      "Failure of microbial activity",
+      "Increase in pathogenic microbes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lower BOD indicates successful microbial degradation of organic matter and improved water quality."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "activated_sludge",
+    "questionText": "The sediment obtained after secondary treatment of sewage is called:",
+    "questionLatex": "The sediment obtained after secondary treatment of sewage is called:",
+    "options": [
+      "Primary sludge",
+      "Activated sludge",
+      "Compost",
+      "Humus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The bacterial flocs that settle after aeration form activated sludge."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "anaerobic_digesters",
+    "questionText": "Activated sludge is pumped into anaerobic sludge digesters where it is decomposed by:",
+    "questionLatex": "Activated sludge is pumped into anaerobic sludge digesters where it is decomposed by:",
+    "options": [
+      "Algae",
+      "Aerobic bacteria",
+      "Anaerobic bacteria",
+      "Protozoa"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Anaerobic bacteria digest activated sludge and produce biogas."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Sewage Treatment",
+    "familyId": "methanogens_role",
+    "questionText": "Methanogens present in anaerobic sludge digesters are primarily responsible for the production of:",
+    "questionLatex": "Methanogens present in anaerobic sludge digesters are primarily responsible for the production of:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide only",
+      "Methane-rich biogas",
+      "Hydrogen peroxide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Methanogenic bacteria produce methane-rich biogas during anaerobic digestion of sewage sludge."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biogas Production",
+    "familyId": "biogas_definition",
+    "questionText": "Biogas is a mixture of gases produced by the anaerobic decomposition of organic matter and mainly contains:",
+    "questionLatex": "Biogas is a mixture of gases produced by the anaerobic decomposition of organic matter and mainly contains:",
+    "options": [
+      "Oxygen and nitrogen",
+      "Methane, carbon dioxide and hydrogen",
+      "Carbon monoxide and oxygen",
+      "Nitrogen and ammonia only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biogas mainly consists of methane (50–70%), carbon dioxide and small amounts of hydrogen and hydrogen sulphide."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biogas Production",
+    "familyId": "methanobacterium",
+    "questionText": "The bacteria primarily responsible for methane production in biogas plants belong to:",
+    "questionLatex": "The bacteria primarily responsible for methane production in biogas plants belong to:",
+    "options": [
+      "Nitrosomonas",
+      "Lactobacillus",
+      "Methanobacterium",
+      "Rhizobium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Methanobacterium and other methanogenic archaea produce methane during anaerobic digestion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biogas Production",
+    "familyId": "gobar_gas",
+    "questionText": "Biogas plants using cattle dung are commonly known as:",
+    "questionLatex": "Biogas plants using cattle dung are commonly known as:",
+    "options": [
+      "Composting plants",
+      "Gobar gas plants",
+      "Fermentation chambers",
+      "Activated sludge units"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biogas plants utilizing cattle dung are popularly known as gobar gas plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biogas Production",
+    "familyId": "rumen_methanogens",
+    "questionText": "Methanogens naturally occur in the:",
+    "questionLatex": "Methanogens naturally occur in the:",
+    "options": [
+      "Human stomach",
+      "Rumen of cattle",
+      "Leaves of plants",
+      "Blood plasma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Methanogens are abundant in the rumen of cattle where they aid in cellulose digestion."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "biocontrol_definition",
+    "questionText": "Biological control refers to the use of:",
+    "questionLatex": "Biological control refers to the use of:",
+    "options": [
+      "Synthetic pesticides only",
+      "Living organisms to control pests",
+      "Chemical fertilizers",
+      "Heavy metal compounds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biological control uses living organisms or their products to suppress pests and pathogens."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "bacillus_thuringiensis",
+    "questionText": "The bacterium commonly used as a biocontrol agent against insect pests is:",
+    "questionLatex": "The bacterium commonly used as a biocontrol agent against insect pests is:",
+    "options": [
+      "Rhizobium leguminosarum",
+      "Bacillus thuringiensis",
+      "Lactobacillus bulgaricus",
+      "Azotobacter chroococcum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bacillus thuringiensis (Bt) produces insecticidal Cry proteins effective against several insect larvae."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "bt_toxin",
+    "questionText": "The insecticidal protein produced by Bacillus thuringiensis is called:",
+    "questionLatex": "The insecticidal protein produced by $Bacillus\\ thuringiensis$ is called:",
+    "options": [
+      "Insulin",
+      "Cry protein",
+      "Streptokinase",
+      "Cyclosporin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bt bacteria produce Cry proteins that become toxic inside the alkaline gut of susceptible insect larvae."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "trichoderma_use",
+    "questionText": "Species of Trichoderma are widely used as:",
+    "questionLatex": "Species of $Trichoderma$ are widely used as:",
+    "options": [
+      "Nitrogen-fixing bacteria",
+      "Biocontrol agents against plant pathogens",
+      "Alcohol-producing fungi",
+      "Methane-producing microbes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Trichoderma species suppress several plant pathogens and are widely used as biocontrol agents."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "baculovirus",
+    "questionText": "Baculoviruses are particularly useful in controlling:",
+    "questionLatex": "Baculoviruses are particularly useful in controlling:",
+    "options": [
+      "Bacterial diseases",
+      "Insect pests",
+      "Fungal diseases",
+      "Nematode infections"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Baculoviruses are highly host-specific pathogens used for the biological control of insect pests."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biocontrol Agents",
+    "familyId": "nucleopolyhedrovirus",
+    "questionText": "The most commonly used baculoviruses in biological pest control belong to the genus:",
+    "questionLatex": "The most commonly used baculoviruses in biological pest control belong to the genus:",
+    "options": [
+      "Retrovirus",
+      "Nucleopolyhedrovirus",
+      "Orthomyxovirus",
+      "Coronavirus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Nucleopolyhedroviruses (NPVs) are extensively used as environmentally safe biological control agents against insect pests."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "biofertilisers_sources",
+    "questionText": "The main sources of biofertilisers are:",
+    "questionLatex": "The main sources of biofertilisers are:",
+    "options": [
+      "Bacteria, fungi and cyanobacteria",
+      "Viruses, protozoans and algae",
+      "Bryophytes, pteridophytes and fungi",
+      "Bacteria, viruses and insects"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Biofertilisers are organisms that enrich the nutrient quality of the soil. The main sources are bacteria, fungi and cyanobacteria."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "rhizobium_association",
+    "questionText": "Which bacterium forms a symbiotic association with the roots of leguminous plants to fix atmospheric nitrogen?",
+    "questionLatex": "Which bacterium forms a symbiotic association with the roots of leguminous plants to fix atmospheric nitrogen?",
+    "options": [
+      "Azotobacter",
+      "Rhizobium",
+      "Azospirillum",
+      "Methanobacterium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Rhizobium forms symbiotic nodules on the roots of leguminous plants and fixes atmospheric nitrogen into organic forms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "free_living_n2_fixers",
+    "questionText": "Which of the following are examples of free-living nitrogen-fixing bacteria present in the soil?",
+    "questionLatex": "Which of the following are examples of free-living nitrogen-fixing bacteria present in the soil?",
+    "options": [
+      "Rhizobium and Frankia",
+      "Azotobacter and Azospirillum",
+      "Lactobacillus and Streptococcus",
+      "Methanobacillus and Pseudomonas"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Azotobacter and Azospirillum are free-living bacteria in the soil that can fix atmospheric nitrogen, thus enriching soil nitrogen content."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "mycorrhiza_definition",
+    "questionText": "The symbiotic association between fungi and the roots of higher plants is called:",
+    "questionLatex": "The symbiotic association between fungi and the roots of higher plants is called:",
+    "options": [
+      "Lichen",
+      "Mycorrhiza",
+      "Biocontrol",
+      "Flocs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mycorrhiza is a mutualistic, symbiotic association between certain fungal groups and the root systems of higher plants."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "glomus_mycorrhiza",
+    "questionText": "Many members of which fungal genus are known to form mycorrhiza?",
+    "questionLatex": "Many members of which fungal genus are known to form mycorrhiza?",
+    "options": [
+      "Aspergillus",
+      "Glomus",
+      "Trichoderma",
+      "Saccharomyces"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Fungi belonging to the genus Glomus form symbiotic mycorrhizal associations with plants."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "mycorrhiza_phosphorus",
+    "questionText": "The fungal symbiont in a mycorrhizal association primarily helps the plant by absorbing:",
+    "questionLatex": "The fungal symbiont in a mycorrhizal association primarily helps the plant by absorbing:",
+    "options": [
+      "Nitrogen from the atmosphere",
+      "Phosphorus from the soil",
+      "Potassium from the atmosphere",
+      "Calcium from organic matter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The fungal hyphae in mycorrhiza absorb phosphorus from the soil and pass it on to the host plant."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "mycorrhiza_benefits",
+    "questionText": "Apart from nutrient absorption, plants establishing mycorrhizal associations display which of the following benefits?",
+    "questionLatex": "Apart from nutrient absorption, plants establishing mycorrhizal associations display which of the following benefits?",
+    "options": [
+      "Resistance to root-borne pathogens and tolerance to salinity and drought",
+      "Increased rate of transpiration and fast leaf senescing",
+      "Resistance to viral shoot diseases and decreased root surface area",
+      "Enhanced dependency on synthetic chemical fertilizers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Mycorrhizal plants show resistance to root-borne pathogens, tolerance to salinity and drought, and an overall increase in plant growth and development."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "cyanobacteria_examples",
+    "questionText": "Which of the following are autotrophic microbes widely distributed in aquatic and terrestrial environments that function as biofertilisers?",
+    "questionLatex": "Which of the following are autotrophic microbes widely distributed in aquatic and terrestrial environments that function as biofertilisers?",
+    "options": [
+      "Protozoans",
+      "Cyanobacteria",
+      "Methanogens",
+      "Chemoheterotrophs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cyanobacteria are autotrophic microbes found in diverse habitats, many of which can fix atmospheric nitrogen."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "paddy_biofertiliser",
+    "questionText": "In paddy fields, which of the following serves as an important biofertiliser?",
+    "questionLatex": "In paddy fields, which of the following serves as an important biofertiliser?",
+    "options": [
+      "Rhizobium",
+      "Cyanobacteria",
+      "Yeast",
+      "Lactobacillus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In waterlogged fields like paddy fields, cyanobacteria (blue-green algae) serve as a critical biofertiliser by fixing nitrogen."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Biofertilisers",
+    "familyId": "bga_organic_matter",
+    "questionText": "Blue-green algae increase soil fertility primarily by adding nitrogen and which of the following?",
+    "questionLatex": "Blue-green algae increase soil fertility primarily by adding nitrogen and which of the following?",
+    "options": [
+      "Chemical pesticides",
+      "Organic matter",
+      "Heavy metals",
+      "Inorganic salts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cyanobacteria (blue-green algae) add atmospheric nitrogen as well as organic matter to the soil, thereby increasing its overall fertility."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

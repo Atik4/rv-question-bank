@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Reproductive Health",
+    "familyId": "reproductive_health_definition",
+    "questionText": "According to the World Health Organization (WHO), reproductive health refers to:",
+    "questionLatex": "According to the World Health Organization (WHO), reproductive health refers to:",
+    "options": [
+      "Normal functioning of reproductive organs only",
+      "Absence of sexually transmitted infections",
+      "Total physical, emotional, behavioural and social well-being in all aspects of reproduction",
+      "Ability to produce healthy offspring"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "WHO defines reproductive health as total physical, emotional, behavioural and social well-being in all aspects of reproduction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Reproductive Health Programmes",
+    "familyId": "family_planning_year",
+    "questionText": "India initiated its national family planning programme in:",
+    "questionLatex": "India initiated its national family planning programme in:",
+    "options": [
+      "1947",
+      "1951",
+      "1965",
+      "1971"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "India was among the first countries to launch a national family planning programme in 1951."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "RCH Programme",
+    "familyId": "rch_full_form",
+    "questionText": "The abbreviation RCH stands for:",
+    "questionLatex": "The abbreviation RCH stands for:",
+    "options": [
+      "Reproductive Care and Health",
+      "Reproductive and Child Health",
+      "Regional Child Health",
+      "Rehabilitation and Child Health"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RCH stands for Reproductive and Child Health programme."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sex Education",
+    "familyId": "sex_education_importance",
+    "questionText": "The primary objective of introducing sex education in schools is to:",
+    "questionLatex": "The primary objective of introducing sex education in schools is to:",
+    "options": [
+      "Promote early marriages",
+      "Provide scientific information and remove misconceptions",
+      "Increase birth rate",
+      "Discourage formal education"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sex education provides accurate information and helps eliminate myths related to reproduction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Reproductive Health Strategies",
+    "familyId": "awareness_programmes",
+    "questionText": "Which of the following is a major objective of reproductive health programmes?",
+    "questionLatex": "Which of the following is a major objective of reproductive health programmes?",
+    "options": [
+      "Promoting population explosion",
+      "Creating awareness about reproductive health and providing medical support",
+      "Encouraging early parenthood",
+      "Replacing natural childbirth with assisted reproduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Reproductive health programmes focus on awareness, healthcare facilities and medical support."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Amniocentesis",
+    "familyId": "amniocentesis_use",
+    "questionText": "Amniocentesis is primarily used for:",
+    "questionLatex": "Amniocentesis is primarily used for:",
+    "options": [
+      "Determining the sex of the foetus",
+      "Diagnosing genetic disorders in the foetus",
+      "Measuring maternal blood pressure",
+      "Determining ovulation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Amniocentesis is used to detect genetic disorders such as Down syndrome, haemophilia and sickle-cell anaemia."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Amniocentesis",
+    "familyId": "amniocentesis_ban",
+    "questionText": "The use of amniocentesis for sex determination has been legally banned mainly to prevent:",
+    "questionLatex": "The use of amniocentesis for sex determination has been legally banned mainly to prevent:",
+    "options": [
+      "Twin pregnancy",
+      "Female foeticide",
+      "Multiple ovulation",
+      "Infertility"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sex determination through amniocentesis is banned to prevent female foeticide."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Contraceptives",
+    "familyId": "saheli_contraceptive",
+    "questionText": "The oral contraceptive 'Saheli' was developed by:",
+    "questionLatex": "The oral contraceptive 'Saheli' was developed by:",
+    "options": [
+      "AIIMS, New Delhi",
+      "ICMR",
+      "Central Drug Research Institute (CDRI), Lucknow",
+      "WHO"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Saheli is a non-steroidal oral contraceptive developed by CDRI, Lucknow."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Population Stabilisation",
+    "familyId": "population_growth_reason",
+    "questionText": "One major reason for rapid population growth in India has been:",
+    "questionLatex": "One major reason for rapid population growth in India has been:",
+    "options": [
+      "Increase in death rate",
+      "Decline in maternal and infant mortality rates",
+      "Decrease in reproductive age population",
+      "Reduced life expectancy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Improved healthcare reduced maternal and infant mortality rates, contributing to population growth."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Population Control",
+    "familyId": "hum_do_hamare_do",
+    "questionText": "The slogan 'Hum Do Hamare Do' promotes:",
+    "questionLatex": "The slogan 'Hum Do Hamare Do' promotes:",
+    "options": [
+      "Large families",
+      "Population stabilisation through small families",
+      "Compulsory sterilisation",
+      "Delayed puberty"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The slogan encourages couples to limit family size to help control population growth."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Population Stabilisation",
+    "familyId": "ideal_contraceptive",
+    "questionText": "An ideal contraceptive should possess all of the following characteristics EXCEPT:",
+    "questionLatex": "An ideal contraceptive should possess all of the following characteristics EXCEPT:",
+    "options": [
+      "User-friendly and easily available",
+      "Effective and reversible with minimal side effects",
+      "Interfere with sexual desire and sexual act",
+      "Affordable and acceptable"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "An ideal contraceptive should not interfere with sexual drive, desire or the sexual act."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Natural Methods of Contraception",
+    "familyId": "periodic_abstinence",
+    "questionText": "In the periodic abstinence method, couples avoid coitus approximately during which days of a 28-day menstrual cycle?",
+    "questionLatex": "In the periodic abstinence method, couples avoid coitus approximately during which days of a 28-day menstrual cycle?",
+    "options": [
+      "Days 1-5",
+      "Days 6-9",
+      "Days 10-17",
+      "Days 20-28"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The fertile period usually extends from day 10 to day 17; avoiding intercourse during this period reduces the chance of conception."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Natural Methods of Contraception",
+    "familyId": "withdrawal_method",
+    "questionText": "The withdrawal method of contraception is also known as:",
+    "questionLatex": "The withdrawal method of contraception is also known as:",
+    "options": [
+      "Periodic abstinence",
+      "Coitus interruptus",
+      "Lactational amenorrhoea",
+      "Rhythm method"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Withdrawal of the penis before ejaculation is called coitus interruptus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Natural Methods of Contraception",
+    "familyId": "lactational_amenorrhea",
+    "questionText": "Lactational amenorrhoea is considered an effective natural contraceptive method for a maximum period of:",
+    "questionLatex": "Lactational amenorrhoea is considered an effective natural contraceptive method for a maximum period of:",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "12 months"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Complete breast-feeding suppresses ovulation and is effective for contraception for up to six months after childbirth."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Barrier Methods",
+    "familyId": "condom_advantage",
+    "questionText": "Besides preventing pregnancy, condoms also help in preventing:",
+    "questionLatex": "Besides preventing pregnancy, condoms also help in preventing:",
+    "options": [
+      "Anaemia",
+      "Hypertension",
+      "Sexually transmitted infections including AIDS",
+      "Genetic disorders"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Condoms act as a barrier against both conception and sexually transmitted infections."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Barrier Methods",
+    "familyId": "barrier_devices",
+    "questionText": "Diaphragms, cervical caps and vaults prevent conception mainly by:",
+    "questionLatex": "Diaphragms, cervical caps and vaults prevent conception mainly by:",
+    "options": [
+      "Inhibiting ovulation",
+      "Blocking the entry of sperms through the cervix",
+      "Destroying ova",
+      "Preventing implantation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "These devices cover the cervix and prevent sperms from entering the uterus."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Intrauterine Devices",
+    "familyId": "iud_types",
+    "questionText": "Which of the following is a copper-releasing intrauterine device (IUD)?",
+    "questionLatex": "Which of the following is a copper-releasing intrauterine device (IUD)?",
+    "options": [
+      "Lippes Loop",
+      "CuT",
+      "Progestasert",
+      "LNG-20"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "CuT is a copper-releasing intrauterine device that suppresses sperm motility and fertilising capacity."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Intrauterine Devices",
+    "familyId": "iud_mechanism",
+    "questionText": "Copper ions released by copper-releasing IUDs primarily:",
+    "questionLatex": "Copper ions released by copper-releasing IUDs primarily:",
+    "options": [
+      "Stimulate ovulation",
+      "Increase sperm motility",
+      "Suppress sperm motility and fertilising capacity",
+      "Promote implantation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Copper ions suppress sperm motility and reduce their fertilising ability."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Intrauterine Devices",
+    "familyId": "hormonal_iud_action",
+    "questionText": "Hormone-releasing intrauterine devices prevent pregnancy by making the:",
+    "questionLatex": "Hormone-releasing intrauterine devices prevent pregnancy by making the:",
+    "options": [
+      "Ovary unsuitable for ovulation",
+      "Uterus unsuitable for implantation and cervix hostile to sperms",
+      "Fallopian tube non-functional",
+      "Placenta inactive"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hormone-releasing IUDs make the uterus unsuitable for implantation and the cervix hostile to sperms."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Intrauterine Devices",
+    "familyId": "iud_recommendation",
+    "questionText": "Intrauterine devices (IUDs) are especially recommended for women who wish to:",
+    "questionLatex": "Intrauterine devices (IUDs) are especially recommended for women who wish to:",
+    "options": [
+      "Increase fertility",
+      "Delay pregnancy or space children",
+      "Prevent menstruation permanently",
+      "Treat sexually transmitted infections"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "IUDs are highly effective contraceptives for women wishing to delay pregnancy or maintain spacing between children."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Oral Contraceptives",
+    "familyId": "oral_pills_function",
+    "questionText": "Oral contraceptive pills primarily prevent pregnancy by:",
+    "questionLatex": "Oral contraceptive pills primarily prevent pregnancy by:",
+    "options": [
+      "Destroying sperms in the vagina",
+      "Inhibiting ovulation and making the uterus unsuitable for implantation",
+      "Blocking the fallopian tubes",
+      "Preventing ejaculation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Oral contraceptive pills inhibit ovulation and also alter the endometrium and cervical mucus, thereby preventing pregnancy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Oral Contraceptives",
+    "familyId": "oral_pills_content",
+    "questionText": "Most oral contraceptive pills contain:",
+    "questionLatex": "Most oral contraceptive pills contain:",
+    "options": [
+      "Only testosterone",
+      "Only oxytocin",
+      "Progestogens alone or in combination with estrogens",
+      "Only FSH"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Most oral contraceptive pills contain progestogens either alone or in combination with estrogens."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Emergency Contraception",
+    "familyId": "emergency_pills",
+    "questionText": "Emergency contraceptive pills are most effective when taken:",
+    "questionLatex": "Emergency contraceptive pills are most effective when taken:",
+    "options": [
+      "Before puberty",
+      "Within 72 hours of unprotected intercourse",
+      "After confirmation of pregnancy",
+      "Only during menstruation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Emergency contraceptive pills should be taken within 72 hours of unprotected intercourse to reduce the chances of pregnancy."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Surgical Methods",
+    "familyId": "vasectomy_definition",
+    "questionText": "Vasectomy is a contraceptive method in which the:",
+    "questionLatex": "Vasectomy is a contraceptive method in which the:",
+    "options": [
+      "Fallopian tubes are cut and tied",
+      "Vasa deferentia are cut and tied",
+      "Seminal vesicles are removed",
+      "Testes are removed"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vasectomy involves cutting and tying the vasa deferentia to prevent the transport of sperms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Surgical Methods",
+    "familyId": "tubectomy_definition",
+    "questionText": "Tubectomy prevents pregnancy by:",
+    "questionLatex": "Tubectomy prevents pregnancy by:",
+    "options": [
+      "Removing the uterus",
+      "Cutting and tying the fallopian tubes",
+      "Removing the ovaries",
+      "Blocking the cervix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tubectomy blocks the passage of ova by cutting and tying the fallopian tubes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Medical Termination of Pregnancy",
+    "familyId": "mtp_definition",
+    "questionText": "Medical Termination of Pregnancy (MTP) refers to:",
+    "questionLatex": "Medical Termination of Pregnancy (MTP) refers to:",
+    "options": [
+      "Artificial insemination",
+      "Intentional termination of pregnancy before full term",
+      "Removal of the placenta after childbirth",
+      "Normal delivery of a baby"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "MTP is the intentional termination of pregnancy before full-term development of the foetus."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Medical Termination of Pregnancy",
+    "familyId": "mtp_safest_period",
+    "questionText": "Medical termination of pregnancy is considered relatively safer during:",
+    "questionLatex": "Medical termination of pregnancy is considered relatively safer during:",
+    "options": [
+      "First trimester (up to 12 weeks)",
+      "Second trimester only",
+      "Third trimester",
+      "After 32 weeks"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "MTP is relatively safe during the first trimester, while the risk increases in later stages of pregnancy."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Infertility",
+    "familyId": "infertility_definition",
+    "questionText": "A couple is generally considered infertile if they fail to conceive despite regular unprotected intercourse for:",
+    "questionLatex": "A couple is generally considered infertile if they fail to conceive despite regular unprotected intercourse for:",
+    "options": [
+      "3 months",
+      "6 months",
+      "1 year or more",
+      "2 months"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Infertility is generally defined as failure to conceive after one year or more of regular unprotected intercourse."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "ivf_definition",
+    "questionText": "In vitro fertilisation (IVF) involves fertilisation of the ovum:",
+    "questionLatex": "In vitro fertilisation (IVF) involves fertilisation of the ovum:",
+    "options": [
+      "Inside the uterus",
+      "Inside the fallopian tube",
+      "Outside the body under laboratory conditions",
+      "Inside the ovary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In IVF, fertilisation takes place outside the body in a laboratory, and the resulting embryo is transferred to the female reproductive tract."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "test_tube_baby",
+    "questionText": "The term 'test-tube baby' is commonly associated with:",
+    "questionLatex": "The term 'test-tube baby' is commonly associated with:",
+    "options": [
+      "Artificial insemination",
+      "In vitro fertilisation followed by embryo transfer",
+      "Tubectomy",
+      "Amniocentesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A 'test-tube baby' is produced through IVF followed by embryo transfer (ET)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "zift_definition",
+    "questionText": "In the Zygote Intrafallopian Transfer (ZIFT) technique, the zygote or early embryo is transferred into the:",
+    "questionLatex": "In the Zygote Intrafallopian Transfer (ZIFT) technique, the zygote or early embryo is transferred into the:",
+    "options": [
+      "Uterus",
+      "Vagina",
+      "Fallopian tube",
+      "Ovary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In ZIFT, the zygote or embryo with up to 8 blastomeres is transferred into the fallopian tube."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "iut_definition",
+    "questionText": "Embryo Transfer (ET) in which an embryo with more than 8 blastomeres is transferred into the uterus is called:",
+    "questionLatex": "Embryo Transfer (ET) in which an embryo with more than 8 blastomeres is transferred into the uterus is called:",
+    "options": [
+      "ZIFT",
+      "IUT",
+      "GIFT",
+      "ICSI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Embryos having more than 8 blastomeres are transferred into the uterus through Intrauterine Transfer (IUT)."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "gift_definition",
+    "questionText": "Gamete Intrafallopian Transfer (GIFT) is recommended for women who:",
+    "questionLatex": "Gamete Intrafallopian Transfer (GIFT) is recommended for women who:",
+    "options": [
+      "Cannot produce ova but can provide a suitable environment for fertilisation",
+      "Have complete absence of uterus",
+      "Cannot produce sperms",
+      "Have blocked ureters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "GIFT involves transferring an ovum collected from a donor into the fallopian tube of a woman who cannot produce ova but can support fertilisation and pregnancy."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "icsi_definition",
+    "questionText": "In Intracytoplasmic Sperm Injection (ICSI), fertilisation is achieved by:",
+    "questionLatex": "In Intracytoplasmic Sperm Injection (ICSI), fertilisation is achieved by:",
+    "options": [
+      "Mixing sperms and ova in the uterus",
+      "Injecting a sperm directly into the ovum",
+      "Injecting hormones into the ovary",
+      "Transferring embryos into the fallopian tube"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ICSI involves direct injection of a sperm into the cytoplasm of the ovum to achieve fertilisation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "art_ai",
+    "questionText": "Artificial insemination (AI) involves:",
+    "questionLatex": "Artificial insemination (AI) involves:",
+    "options": [
+      "Transfer of an embryo into the uterus",
+      "Introduction of semen into the female reproductive tract by artificial means",
+      "Injection of hormones into the ovary",
+      "Removal of the fallopian tubes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Artificial insemination is the introduction of semen into the female reproductive tract through artificial methods."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "sti_definition",
+    "questionText": "Diseases that are transmitted primarily through sexual contact are known as:",
+    "questionLatex": "Diseases that are transmitted primarily through sexual contact are known as:",
+    "options": [
+      "Vector-borne diseases",
+      "Sexually transmitted infections (STIs)",
+      "Air-borne diseases",
+      "Nutritional disorders"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Diseases spread mainly through sexual intercourse are called sexually transmitted infections (STIs) or sexually transmitted diseases (STDs)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "viral_sti",
+    "questionText": "Which one of the following sexually transmitted infections is caused by a virus?",
+    "questionLatex": "Which one of the following sexually transmitted infections is caused by a virus?",
+    "options": [
+      "Syphilis",
+      "Gonorrhoea",
+      "AIDS",
+      "Trichomoniasis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "AIDS is caused by the Human Immunodeficiency Virus (HIV)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "sti_prevention",
+    "questionText": "Which of the following is the most effective method for reducing the risk of sexually transmitted infections during sexual intercourse?",
+    "questionLatex": "Which of the following is the most effective method for reducing the risk of sexually transmitted infections during sexual intercourse?",
+    "options": [
+      "Copper-T insertion",
+      "Condom use",
+      "Oral contraceptive pills",
+      "Tubectomy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Condoms provide protection against both unwanted pregnancy and most sexually transmitted infections."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "sti_early_detection",
+    "questionText": "Early diagnosis and complete treatment of sexually transmitted infections are important because they help prevent:",
+    "questionLatex": "Early diagnosis and complete treatment of sexually transmitted infections are important because they help prevent:",
+    "options": [
+      "Hair loss",
+      "Infertility and further transmission",
+      "Diabetes mellitus",
+      "Hypertension"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Untreated STIs may lead to complications such as infertility and can continue to spread to others. Early diagnosis and treatment reduce these risks."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "bacterial_stis",
+    "questionText": "Which pair of the following sexually transmitted infections is caused by bacteria?",
+    "questionLatex": "Which pair of the following sexually transmitted infections is caused by bacteria?",
+    "options": [
+      "AIDS and Genital herpes",
+      "Syphilis and Gonorrhoea",
+      "Hepatitis-B and AIDS",
+      "Trichomoniasis and Candidiasis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Syphilis is caused by Treponema pallidum and gonorrhoea by Neisseria gonorrhoeae."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "fungal_sti",
+    "questionText": "Candidiasis is caused by:",
+    "questionLatex": "Candidiasis is caused by:",
+    "options": [
+      "A bacterium",
+      "A virus",
+      "A fungus",
+      "A protozoan"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Candidiasis is a fungal infection caused mainly by Candida species."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "protozoan_sti",
+    "questionText": "Trichomoniasis is caused by:",
+    "questionLatex": "Trichomoniasis is caused by:",
+    "options": [
+      "A bacterium",
+      "A virus",
+      "A fungus",
+      "A protozoan"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Trichomoniasis is caused by the protozoan Trichomonas vaginalis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Sexually Transmitted Infections",
+    "familyId": "asymptomatic_stis",
+    "questionText": "One major reason sexually transmitted infections spread rapidly is that:",
+    "questionLatex": "One major reason sexually transmitted infections spread rapidly is that:",
+    "options": [
+      "They are always fatal",
+      "Many infected individuals remain asymptomatic during the early stages",
+      "They spread only through air",
+      "They affect only elderly individuals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Many STIs do not produce obvious symptoms initially, allowing transmission before diagnosis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Reproductive Health",
+    "familyId": "healthy_reproductive_life",
+    "questionText": "Which of the following practices best promotes reproductive health?",
+    "questionLatex": "Which of the following practices best promotes reproductive health?",
+    "options": [
+      "Ignoring symptoms of reproductive disorders",
+      "Regular medical check-ups, awareness and responsible sexual behaviour",
+      "Avoiding all vaccinations",
+      "Self-medication without medical advice"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Awareness, responsible behaviour and timely medical care are essential components of reproductive health."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Contraception",
+    "familyId": "contraceptive_selection",
+    "questionText": "The choice of a contraceptive method should primarily depend upon:",
+    "questionLatex": "The choice of a contraceptive method should primarily depend upon:",
+    "options": [
+      "Advertisements alone",
+      "Medical advice, effectiveness and the couple's requirements",
+      "Cost only",
+      "Availability in nearby shops only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Contraceptive methods should be selected after considering medical guidance, effectiveness and individual requirements."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Infertility",
+    "familyId": "infertility_causes",
+    "questionText": "Infertility in a couple may result from:",
+    "questionLatex": "Infertility in a couple may result from:",
+    "options": [
+      "Only female factors",
+      "Only male factors",
+      "Either male or female factors, or both",
+      "Environmental factors only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Infertility may arise due to problems in either partner or in both partners."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Assisted Reproductive Technologies",
+    "familyId": "art_indication",
+    "questionText": "Assisted Reproductive Technologies (ART) are primarily recommended for:",
+    "questionLatex": "Assisted Reproductive Technologies (ART) are primarily recommended for:",
+    "options": [
+      "Treatment of hypertension",
+      "Treatment of infertility",
+      "Diagnosis of diabetes",
+      "Treatment of malaria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ART procedures are designed to help infertile couples achieve pregnancy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Population Control",
+    "familyId": "small_family_benefit",
+    "questionText": "One important social advantage of adopting the small family norm is:",
+    "questionLatex": "One important social advantage of adopting the small family norm is:",
+    "options": [
+      "Increase in infant mortality",
+      "Improved quality of life and better resource management",
+      "Decrease in literacy",
+      "Increase in communicable diseases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Small family norms contribute to better healthcare, education and efficient use of available resources."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Reproductive Health",
+    "topic": "Reproductive Health",
+    "familyId": "chapter_summary",
+    "questionText": "Which one of the following best summarizes the goal of reproductive health programmes?",
+    "questionLatex": "Which one of the following best summarizes the goal of reproductive health programmes?",
+    "options": [
+      "Increase population growth",
+      "Promote healthy reproductive practices, informed choices and healthy offspring",
+      "Encourage only surgical contraception",
+      "Discourage maternal healthcare"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Reproductive health programmes aim to ensure physical, mental and social well-being related to reproduction through awareness, healthcare and informed decision-making."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

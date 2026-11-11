@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "dna_genetic_material",
+    "questionText": "DNA serves as the genetic material in:",
+    "questionLatex": "DNA serves as the genetic material in:",
+    "options": [
+      "Most living organisms",
+      "All viruses only",
+      "All organisms including every virus",
+      "Only prokaryotes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "DNA is the genetic material in most organisms, whereas RNA acts as the genetic material in some viruses."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "dna_polymer",
+    "questionText": "DNA is a polymer of:",
+    "questionLatex": "DNA is a polymer of:",
+    "options": [
+      "Ribonucleotides",
+      "Amino acids",
+      "Deoxyribonucleotides",
+      "Polypeptides"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "DNA consists of repeating units called deoxyribonucleotides."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "nucleotide_components",
+    "questionText": "A nucleotide is composed of:",
+    "questionLatex": "A nucleotide is composed of:",
+    "options": [
+      "Sugar, phosphate and nitrogenous base",
+      "Sugar and amino acid",
+      "Base and protein",
+      "Phosphate and lipid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Each nucleotide consists of a pentose sugar, a phosphate group and a nitrogenous base."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "purine_bases",
+    "questionText": "Which pair represents purine nitrogenous bases?",
+    "questionLatex": "Which pair represents purine nitrogenous bases?",
+    "options": [
+      "Adenine and Guanine",
+      "Thymine and Cytosine",
+      "Uracil and Cytosine",
+      "Thymine and Uracil"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Adenine and Guanine are purines, whereas Cytosine, Thymine and Uracil are pyrimidines."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "rna_specific_base",
+    "questionText": "Which nitrogenous base is present in RNA in place of thymine?",
+    "questionLatex": "Which nitrogenous base is present in RNA in place of thymine?",
+    "options": [
+      "Adenine",
+      "Uracil",
+      "Guanine",
+      "Cytosine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Uracil replaces thymine in RNA."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Structure",
+    "familyId": "phosphodiester_linkage",
+    "questionText": "Adjacent nucleotides in a polynucleotide chain are joined by:",
+    "questionLatex": "Adjacent nucleotides in a polynucleotide chain are joined by:",
+    "options": [
+      "Hydrogen bonds",
+      "Peptide bonds",
+      "3'-5' phosphodiester bonds",
+      "Glycosidic bonds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Successive nucleotides are linked by 3'-5' phosphodiester bonds."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Discovery of DNA",
+    "familyId": "meischer_discovery",
+    "questionText": "DNA was first identified as 'Nuclein' by:",
+    "questionLatex": "DNA was first identified as 'Nuclein' by:",
+    "options": [
+      "James Watson",
+      "Francis Crick",
+      "Friedrich Meischer",
+      "Erwin Chargaff"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Friedrich Meischer discovered DNA in 1869 and named it 'Nuclein'."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Double Helix",
+    "familyId": "double_helix_model",
+    "questionText": "The double helix model of DNA was proposed in 1953 by:",
+    "questionLatex": "The double helix model of DNA was proposed in 1953 by:",
+    "options": [
+      "Watson and Crick",
+      "Griffith and Avery",
+      "Meselson and Stahl",
+      "Hershey and Chase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "James Watson and Francis Crick proposed the double helix model in 1953 using X-ray diffraction data."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Double Helix",
+    "familyId": "chargaff_rule",
+    "questionText": "Chargaff's rule states that in double-stranded DNA:",
+    "questionLatex": "Chargaff's rule states that in double-stranded DNA:",
+    "options": [
+      "A = G and T = C",
+      "A = T and G = C",
+      "A + G = T",
+      "A = C and G = T"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chargaff observed that the amount of adenine equals thymine and guanine equals cytosine in double-stranded DNA."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Double Helix",
+    "familyId": "dna_complementary_strands",
+    "questionText": "Complementary base pairing in DNA ensures:",
+    "questionLatex": "Complementary base pairing in DNA ensures:",
+    "options": [
+      "Protein synthesis only",
+      "Accurate replication of genetic material",
+      "ATP synthesis",
+      "Chromosome condensation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Complementary base pairing allows each DNA strand to act as a template during replication, ensuring faithful transmission of genetic information."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Muscle Fibre Structure",
+    "familyId": "myofibril_structure",
+    "questionText": "The characteristic striated appearance of skeletal muscle fibres is due to the arrangement of:",
+    "questionLatex": "The characteristic striated appearance of skeletal muscle fibres is due to the arrangement of:",
+    "options": [
+      "Collagen and elastin",
+      "Actin and myosin",
+      "Troponin and tropomyosin",
+      "Keratin and myoglobin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Alternate arrangement of actin (thin) and myosin (thick) filaments produces the striated appearance."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Sarcomere",
+    "familyId": "sarcomere_definition",
+    "questionText": "The functional unit of contraction in a skeletal muscle is called:",
+    "questionLatex": "The functional unit of contraction in a skeletal muscle is called:",
+    "options": [
+      "Sarcolemma",
+      "Myofibril",
+      "Sarcomere",
+      "Fascicle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sarcomere, present between two successive Z-lines, is the functional unit of muscle contraction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Sarcomere Components",
+    "familyId": "sarcomere_bands",
+    "questionText": "The I-band of a sarcomere contains predominantly:",
+    "questionLatex": "The I-band of a sarcomere contains predominantly:",
+    "options": [
+      "Myosin filaments",
+      "Actin filaments",
+      "Collagen fibres",
+      "Elastic cartilage"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The I-band is isotropic and consists mainly of thin actin filaments."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Sarcomere Components",
+    "familyId": "h_zone_identification",
+    "questionText": "The H-zone of a resting sarcomere contains:",
+    "questionLatex": "The H-zone of a resting sarcomere contains:",
+    "options": [
+      "Only thin actin filaments",
+      "Overlapping actin and myosin filaments",
+      "Only thick myosin filaments",
+      "Z-line and actin filaments"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The H-zone represents the central portion of the thick filament that is not overlapped by thin filaments."
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Contractile Proteins",
+    "familyId": "actin_structure",
+    "questionText": "Each thin filament is composed primarily of:",
+    "questionLatex": "Each thin filament is composed primarily of:",
+    "options": [
+      "Two helically wound F-actin filaments",
+      "Bundles of collagen fibres",
+      "Chains of myosin molecules",
+      "Parallel elastin fibres"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A thin filament consists of two helically wound filamentous (F) actin molecules."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Contractile Proteins",
+    "familyId": "troponin_function",
+    "questionText": "In a resting muscle fibre, the protein that masks the myosin-binding sites on actin is:",
+    "questionLatex": "In a resting muscle fibre, the protein that masks the myosin-binding sites on actin is:",
+    "options": [
+      "Troponin",
+      "Actinin",
+      "Keratin",
+      "Albumin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A subunit of troponin covers the active binding sites on actin during the resting state."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Contractile Proteins",
+    "familyId": "myosin_head_function",
+    "questionText": "The globular head of myosin possesses:",
+    "questionLatex": "The globular head of myosin possesses:",
+    "options": [
+      "Only calcium-binding sites",
+      "ATPase activity and actin-binding sites",
+      "DNA polymerase activity",
+      "Only glycogen-binding sites"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The myosin head acts as an ATPase enzyme and contains binding sites for ATP as well as actin."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Sliding Filament Theory",
+    "familyId": "sliding_filament_concept",
+    "questionText": "According to the sliding filament theory, muscle contraction occurs because:",
+    "questionLatex": "According to the sliding filament theory, muscle contraction occurs because:",
+    "options": [
+      "Myosin filaments shorten permanently",
+      "Actin filaments slide over myosin filaments",
+      "Actin filaments dissolve during contraction",
+      "Sarcomeres increase in length"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Muscle contraction results from the sliding of thin actin filaments over thick myosin filaments without shortening of either filament."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Neuromuscular Junction",
+    "familyId": "motor_end_plate",
+    "questionText": "The junction between a motor neuron and the sarcolemma of a muscle fibre is called the:",
+    "questionLatex": "The junction between a motor neuron and the sarcolemma of a muscle fibre is called the:",
+    "options": [
+      "Synaptic cleft",
+      "Motor end plate (neuromuscular junction)",
+      "Sarcomere",
+      "Intercalated disc"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The neuromuscular junction, also known as the motor end plate, is the site where the motor neuron communicates with the muscle fibre."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Locomotion and Movement",
+    "topic": "Muscle Contraction",
+    "familyId": "acetylcholine_role",
+    "questionText": "Which neurotransmitter is released at the neuromuscular junction to initiate muscle contraction?",
+    "questionLatex": "Which neurotransmitter is released at the neuromuscular junction to initiate muscle contraction?",
+    "options": [
+      "Dopamine",
+      "Acetylcholine",
+      "Serotonin",
+      "Noradrenaline"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Acetylcholine released from the motor neuron generates an action potential in the muscle fibre."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Experimental Proof of DNA",
+    "familyId": "griffith_experiment",
+    "questionText": "Frederick Griffith's experiment with Streptococcus pneumoniae demonstrated the phenomenon of:",
+    "questionLatex": "Frederick Griffith's experiment with Streptococcus pneumoniae demonstrated the phenomenon of:",
+    "options": [
+      "Replication",
+      "Transformation",
+      "Translation",
+      "Transduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Griffith discovered transformation, in which non-virulent bacteria acquired virulence from heat-killed virulent bacteria."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Experimental Proof of DNA",
+    "familyId": "griffith_bacteria",
+    "questionText": "Frederick Griffith performed his transformation experiment using:",
+    "questionLatex": "Frederick Griffith performed his transformation experiment using:",
+    "options": [
+      "Escherichia coli",
+      "Streptococcus pneumoniae",
+      "Bacillus subtilis",
+      "Salmonella typhi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Griffith used Streptococcus pneumoniae, which has virulent (S) and non-virulent (R) strains."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Experimental Proof of DNA",
+    "familyId": "avery_experiment",
+    "questionText": "Avery, MacLeod and McCarty proved that the transforming principle is:",
+    "questionLatex": "Avery, MacLeod and McCarty proved that the transforming principle is:",
+    "options": [
+      "Protein",
+      "RNA",
+      "DNA",
+      "Lipid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Their experiments demonstrated that DNA is the transforming principle responsible for heredity."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Experimental Proof of DNA",
+    "familyId": "hershey_chase_organism",
+    "questionText": "Hershey and Chase used which organism to establish that DNA is the genetic material?",
+    "questionLatex": "Hershey and Chase used which organism to establish that DNA is the genetic material?",
+    "options": [
+      "Euglena",
+      "Bacteriophage T2",
+      "Drosophila",
+      "Neurospora"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hershey and Chase used T2 bacteriophages infecting Escherichia coli."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Experimental Proof of DNA",
+    "familyId": "hershey_chase_labels",
+    "questionText": "In the Hershey-Chase experiment, DNA and protein were labelled respectively with:",
+    "questionLatex": "In the Hershey-Chase experiment, DNA and protein were labelled respectively with:",
+    "options": [
+      "³⁵S and ³²P",
+      "³²P and ³⁵S",
+      "¹⁴C and ³²P",
+      "³H and ¹⁴C"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA was labelled with radioactive phosphorus (³²P) and protein with radioactive sulfur (³⁵S)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "meselson_stahl",
+    "questionText": "Meselson and Stahl experimentally proved that DNA replication is:",
+    "questionLatex": "Meselson and Stahl experimentally proved that DNA replication is:",
+    "options": [
+      "Conservative",
+      "Dispersive",
+      "Semi-conservative",
+      "Discontinuous"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Meselson and Stahl demonstrated that each daughter DNA molecule contains one parental strand and one newly synthesized strand."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "meselson_medium",
+    "questionText": "Meselson and Stahl cultured Escherichia coli initially in a medium containing:",
+    "questionLatex": "Meselson and Stahl cultured Escherichia coli initially in a medium containing:",
+    "options": [
+      "¹⁴N",
+      "¹⁵N",
+      "³²P",
+      "³⁵S"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The bacteria were first grown in a medium containing heavy nitrogen (¹⁵N)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "replication_enzyme",
+    "questionText": "The principal enzyme responsible for DNA synthesis during replication is:",
+    "questionLatex": "The principal enzyme responsible for DNA synthesis during replication is:",
+    "options": [
+      "DNA ligase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "Helicase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA polymerase catalyses the synthesis of a new DNA strand using the parental strand as a template."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "helicase_function",
+    "questionText": "The primary function of DNA helicase during replication is to:",
+    "questionLatex": "The primary function of DNA helicase during replication is to:",
+    "options": [
+      "Join DNA fragments",
+      "Unwind the DNA double helix",
+      "Add RNA primers",
+      "Remove RNA primers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA helicase separates the two strands of the DNA double helix by breaking hydrogen bonds."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "ligase_function",
+    "questionText": "DNA ligase is primarily responsible for:",
+    "questionLatex": "DNA ligase is primarily responsible for:",
+    "options": [
+      "Synthesize RNA primers",
+      "Join Okazaki fragments",
+      "Unwind DNA",
+      "Remove nitrogenous bases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA ligase seals the phosphodiester backbone between adjacent Okazaki fragments on the lagging strand."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "leading_strand",
+    "questionText": "The DNA strand that is synthesized continuously during replication is called the:",
+    "questionLatex": "The DNA strand that is synthesized continuously during replication is called the:",
+    "options": [
+      "Lagging strand",
+      "Leading strand",
+      "Template strand",
+      "Coding strand"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The leading strand is synthesized continuously in the 5'→3' direction towards the replication fork."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "lagging_strand",
+    "questionText": "The lagging strand is synthesized:",
+    "questionLatex": "The lagging strand is synthesized:",
+    "options": [
+      "Continuously",
+      "Without primers",
+      "Discontinuously as Okazaki fragments",
+      "Only after cell division"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The lagging strand is synthesized discontinuously in short segments known as Okazaki fragments."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "okazaki_fragments",
+    "questionText": "Okazaki fragments are formed during synthesis of the:",
+    "questionLatex": "Okazaki fragments are formed during synthesis of the:",
+    "options": [
+      "Leading strand",
+      "Lagging strand",
+      "mRNA strand",
+      "tRNA strand"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Okazaki fragments are short DNA segments synthesized discontinuously on the lagging strand."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "primase_function",
+    "questionText": "The enzyme primase is responsible for synthesizing:",
+    "questionLatex": "The enzyme primase is responsible for synthesizing:",
+    "options": [
+      "DNA fragments",
+      "RNA primers",
+      "Proteins",
+      "DNA ligase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primase synthesizes short RNA primers that provide a free 3'-OH group for DNA polymerase."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "DNA Replication",
+    "familyId": "dna_polymerase_direction",
+    "questionText": "DNA polymerase synthesizes a new DNA strand only in the:",
+    "questionLatex": "DNA polymerase synthesizes a new DNA strand only in the:",
+    "options": [
+      "3'→5'",
+      "5'→3'",
+      "Both 3'→5' and 5'→3'",
+      "Random direction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA polymerase can add nucleotides only to the 3' end of the growing strand; therefore synthesis proceeds in the 5'→3' direction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "transcription_definition",
+    "questionText": "Transcription is the process of:",
+    "questionLatex": "Transcription is the process of:",
+    "options": [
+      "DNA to DNA synthesis",
+      "DNA to RNA synthesis",
+      "RNA to protein synthesis",
+      "Protein to RNA synthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Transcription is the synthesis of RNA using DNA as the template."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "rna_polymerase_function",
+    "questionText": "The enzyme responsible for transcription is:",
+    "questionLatex": "The enzyme responsible for transcription is:",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "DNA ligase",
+      "Reverse transcriptase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RNA polymerase catalyses the synthesis of RNA from a DNA template."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "template_strand",
+    "questionText": "During transcription, RNA is synthesized using the:",
+    "questionLatex": "During transcription, RNA is synthesized using the:",
+    "options": [
+      "Coding strand",
+      "Template strand",
+      "Leading strand",
+      "Lagging strand"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RNA polymerase reads the template (antisense) strand in the 3'→5' direction to synthesize RNA."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "coding_strand",
+    "questionText": "The sequence of the coding strand of DNA is identical to the RNA transcript except that:",
+    "questionLatex": "The sequence of the coding strand of DNA is identical to the RNA transcript except that:",
+    "options": [
+      "RNA contains thymine instead of uracil",
+      "DNA contains thymine instead of uracil",
+      "RNA contains deoxyribose",
+      "DNA contains ribose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The coding strand has the same sequence as RNA except that thymine (T) replaces uracil (U)."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "transcription_unit",
+    "questionText": "A transcription unit consists of:",
+    "questionLatex": "A transcription unit consists of:",
+    "options": [
+      "Only a promoter",
+      "Promoter, structural gene and terminator",
+      "Only structural genes",
+      "Origin of replication and promoter"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A transcription unit includes a promoter, a structural gene and a terminator sequence."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "promoter_function",
+    "questionText": "The promoter region of a transcription unit is the site where:",
+    "questionLatex": "The promoter region of a transcription unit is the site where:",
+    "options": [
+      "DNA replication begins",
+      "RNA polymerase binds to initiate transcription",
+      "Translation begins",
+      "DNA ligase acts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The promoter is the DNA sequence recognized by RNA polymerase to initiate transcription."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "familyId": "terminator_function",
+    "questionText": "The terminator sequence in a transcription unit is responsible for:",
+    "questionLatex": "The terminator sequence in a transcription unit is responsible for:",
+    "options": [
+      "Initiation of replication",
+      "Termination of transcription",
+      "Joining Okazaki fragments",
+      "Protein synthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The terminator signals RNA polymerase to stop transcription and release the RNA transcript."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "RNA Types",
+    "familyId": "mrna_function",
+    "questionText": "The primary function of messenger RNA (mRNA) is to:",
+    "questionLatex": "The primary function of messenger RNA (mRNA) is to:",
+    "options": [
+      "Carry amino acids to ribosomes",
+      "Transfer genetic information from DNA for protein synthesis",
+      "Form ribosomes",
+      "Catalyse peptide bond formation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "mRNA carries the genetic code transcribed from DNA to ribosomes for protein synthesis."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "RNA Types",
+    "familyId": "trna_function",
+    "questionText": "Transfer RNA (tRNA) functions mainly by:",
+    "questionLatex": "Transfer RNA (tRNA) functions mainly by:",
+    "options": [
+      "Carrying amino acids to ribosomes",
+      "Storing genetic information",
+      "Replicating DNA",
+      "Synthesizing ATP"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "tRNA transports specific amino acids to the ribosome during translation."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "RNA Types",
+    "familyId": "rrna_function",
+    "questionText": "Ribosomal RNA (rRNA) is the major structural and catalytic component of:",
+    "questionLatex": "Ribosomal RNA (rRNA) is the major structural and catalytic component of:",
+    "options": [
+      "Chromosomes",
+      "Ribosomes",
+      "Centrioles",
+      "Lysosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "rRNA forms the structural framework of ribosomes and catalyses peptide bond formation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "familyId": "codon_definition",
+    "questionText": "A codon is defined as:",
+    "questionLatex": "A codon is defined as:",
+    "options": [
+      "A single nucleotide",
+      "A sequence of three nucleotides specifying an amino acid",
+      "A sequence of two nucleotides",
+      "A DNA replication enzyme"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A codon is a triplet of nucleotides in mRNA that specifies an amino acid or a termination signal."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "familyId": "genetic_code_degeneracy",
+    "questionText": "The degeneracy of the genetic code means that:",
+    "questionLatex": "The degeneracy of the genetic code means that:",
+    "options": [
+      "One codon specifies several amino acids",
+      "Several codons can specify the same amino acid",
+      "Each amino acid has only one codon",
+      "Codons overlap each other"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most amino acids are encoded by more than one codon, making the genetic code degenerate."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "familyId": "start_codon",
+    "questionText": "The universal initiation (start) codon for protein synthesis is:",
+    "questionLatex": "The universal initiation (start) codon for protein synthesis is:",
+    "options": [
+      "UAA",
+      "UGA",
+      "AUG",
+      "UAG"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "AUG functions as the initiation codon and codes for methionine."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "familyId": "stop_codons",
+    "questionText": "Which one of the following is NOT a stop codon?",
+    "questionLatex": "Which one of the following is NOT a stop codon?",
+    "options": [
+      "UAA",
+      "UAG",
+      "UGA",
+      "AUG"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "AUG is the initiation codon, whereas UAA, UAG and UGA are termination codons."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "familyId": "genetic_code_universal",
+    "questionText": "The genetic code is described as universal because:",
+    "questionLatex": "The genetic code is described as universal because:",
+    "options": [
+      "Every organism has the same number of genes",
+      "The same codon generally specifies the same amino acid in almost all organisms",
+      "Every organism contains identical DNA",
+      "All organisms synthesize identical proteins"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "With a few exceptions, the same codon specifies the same amino acid in almost all living organisms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

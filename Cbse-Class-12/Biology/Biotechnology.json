@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Introduction to Biotechnology",
+    "familyId": "biotechnology_definition",
+    "questionText": "According to the European Federation of Biotechnology (EFB), biotechnology is the integration of:",
+    "questionLatex": "According to the European Federation of Biotechnology (EFB), biotechnology is the integration of:",
+    "options": [
+      "Physics and chemistry for industrial production",
+      "Natural science and organisms, cells, parts thereof, and molecular analogues for products and services",
+      "Genetics and medicine only",
+      "Microbiology and engineering only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The EFB defines biotechnology as the integration of natural science and organisms, cells, parts thereof, and molecular analogues for products and services."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Principles of Biotechnology",
+    "familyId": "core_techniques",
+    "questionText": "Which two core techniques gave rise to modern biotechnology?",
+    "questionLatex": "Which two core techniques gave rise to modern biotechnology?",
+    "options": [
+      "Hybridization and mutation breeding",
+      "Genetic engineering and bioprocess engineering",
+      "Tissue culture and cloning",
+      "PCR and gel electrophoresis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Modern biotechnology is based on two core techniques: genetic engineering and bioprocess engineering."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Genetic Engineering",
+    "familyId": "genetic_engineering_definition",
+    "questionText": "Genetic engineering primarily involves:",
+    "questionLatex": "Genetic engineering primarily involves:",
+    "options": [
+      "Culturing microbes under sterile conditions",
+      "Altering the chemistry of DNA and RNA and introducing them into host organisms",
+      "Isolation of proteins from tissues",
+      "Extraction of enzymes from plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Genetic engineering involves altering the genetic material (DNA/RNA) and introducing it into host organisms to modify their phenotype."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Bioprocess Engineering",
+    "familyId": "bioprocess_engineering",
+    "questionText": "The primary objective of bioprocess engineering is to:",
+    "questionLatex": "The primary objective of bioprocess engineering is to:",
+    "options": [
+      "Produce recombinant DNA",
+      "Maintain sterile conditions for large-scale production of useful products",
+      "Sequence the human genome",
+      "Identify disease-causing genes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bioprocess engineering maintains contamination-free conditions for large-scale production of antibiotics, enzymes, vaccines and other products."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Genetic Engineering",
+    "familyId": "hybridization_limitation",
+    "questionText": "A major limitation of traditional hybridization in plant and animal breeding is that it:",
+    "questionLatex": "A major limitation of traditional hybridization in plant and animal breeding is that it:",
+    "options": [
+      "Cannot produce variation",
+      "Transfers only desirable genes",
+      "Introduces undesirable genes along with desirable ones",
+      "Cannot be used in plants"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Traditional hybridization often transfers undesirable genes together with the desired genes."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gene Cloning",
+    "familyId": "origin_of_replication",
+    "questionText": "The DNA sequence required for the replication of an alien DNA molecule in a host is called:",
+    "questionLatex": "The DNA sequence required for the replication of an alien DNA molecule in a host is called:",
+    "options": [
+      "Promoter",
+      "Operator",
+      "Origin of replication (ori)",
+      "Enhancer"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The origin of replication (ori) initiates DNA replication and enables cloning of the inserted DNA."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "History of Biotechnology",
+    "familyId": "cohen_boyer",
+    "questionText": "The first recombinant DNA molecule was constructed by:",
+    "questionLatex": "The first recombinant DNA molecule was constructed by:",
+    "options": [
+      "Watson and Crick",
+      "Meselson and Stahl",
+      "Stanley Cohen and Herbert Boyer",
+      "Beadle and Tatum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Stanley Cohen and Herbert Boyer successfully constructed the first recombinant DNA molecule in 1972."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Recombinant DNA",
+    "familyId": "basic_steps_gm",
+    "questionText": "Which of the following is NOT one of the basic steps in genetically modifying an organism?",
+    "questionLatex": "Which of the following is NOT one of the basic steps in genetically modifying an organism?",
+    "options": [
+      "Identification of DNA with desirable genes",
+      "Introduction of DNA into the host",
+      "Maintenance and inheritance of introduced DNA",
+      "Protein purification from blood plasma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Protein purification is not one of the three basic steps involved in genetic modification."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "restriction_endonuclease",
+    "questionText": "Restriction endonucleases are commonly known as:",
+    "questionLatex": "Restriction endonucleases are commonly known as:",
+    "options": [
+      "DNA polymerases",
+      "Molecular scissors",
+      "Molecular motors",
+      "Reverse transcriptases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Restriction endonucleases cut DNA at specific recognition sites and are therefore called molecular scissors."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "hindii",
+    "questionText": "The first restriction endonuclease characterized to recognize a specific DNA sequence was:",
+    "questionLatex": "The first restriction endonuclease characterized to recognize a specific DNA sequence was:",
+    "options": [
+      "EcoRI",
+      "BamHI",
+      "Hind II",
+      "PstI"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Hind II was the first restriction endonuclease characterized to recognize a specific six-base-pair sequence."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "nucleases_types",
+    "questionText": "Restriction enzymes belong to a larger class of enzymes known as:",
+    "questionLatex": "Restriction enzymes belong to a larger class of enzymes known as:",
+    "options": [
+      "Polymerases",
+      "Ligases",
+      "Nucleases",
+      "Helicases"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Restriction enzymes are nucleases, which are classified into exonucleases and endonucleases."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "exonuclease_function",
+    "questionText": "Exonucleases differ from endonucleases because they:",
+    "questionLatex": "Exonucleases differ from endonucleases because they:",
+    "options": [
+      "Cut DNA at specific internal sites",
+      "Remove nucleotides from the ends of DNA",
+      "Join DNA fragments together",
+      "Synthesize complementary DNA strands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Exonucleases remove nucleotides from the ends of DNA molecules, whereas endonucleases cut within DNA."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "palindromic_sequence",
+    "questionText": "Restriction endonucleases recognize specific:",
+    "questionLatex": "Restriction endonucleases recognize specific:",
+    "options": [
+      "Codons",
+      "Promoter sequences",
+      "Palindromic nucleotide sequences",
+      "Introns"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Restriction endonucleases recognize specific palindromic nucleotide sequences before cutting DNA."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "ecori_sequence",
+    "questionText": "EcoRI recognizes the following DNA sequence:",
+    "questionLatex": "EcoRI recognizes the following DNA sequence:",
+    "options": [
+      "AAGCTT",
+      "GGATCC",
+      "GAATTC",
+      "CTGCAG"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "EcoRI specifically recognizes the palindromic sequence GAATTC and cuts between G and A."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "sticky_ends",
+    "questionText": "Restriction enzymes produce sticky ends because they:",
+    "questionLatex": "Restriction enzymes produce sticky ends because they:",
+    "options": [
+      "Cut both DNA strands at identical positions",
+      "Cut DNA away from the centre of the palindrome leaving overhangs",
+      "Completely digest DNA",
+      "Join DNA fragments"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Restriction enzymes cut DNA in a staggered manner, producing single-stranded overhangs called sticky ends."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Restriction Enzymes",
+    "familyId": "dna_ligase_role",
+    "questionText": "The enzyme responsible for joining DNA fragments with complementary sticky ends is:",
+    "questionLatex": "The enzyme responsible for joining DNA fragments with complementary sticky ends is:",
+    "options": [
+      "DNA polymerase",
+      "DNA ligase",
+      "Helicase",
+      "Primase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA ligase joins DNA fragments by sealing breaks in the sugar-phosphate backbone."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gel Electrophoresis",
+    "familyId": "gel_matrix",
+    "questionText": "The most commonly used matrix for separation of DNA fragments during gel electrophoresis is:",
+    "questionLatex": "The most commonly used matrix for separation of DNA fragments during gel electrophoresis is:",
+    "options": [
+      "Polyacrylamide",
+      "Cellulose",
+      "Agarose",
+      "Silica"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Agarose gel is widely used for separating DNA fragments according to their size."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gel Electrophoresis",
+    "familyId": "dna_migration",
+    "questionText": "DNA fragments migrate towards the anode during gel electrophoresis because DNA molecules are:",
+    "questionLatex": "DNA fragments migrate towards the anode during gel electrophoresis because DNA molecules are:",
+    "options": [
+      "Positively charged",
+      "Negatively charged",
+      "Neutral",
+      "Hydrophobic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA possesses a negatively charged phosphate backbone and therefore migrates towards the positive electrode."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gel Electrophoresis",
+    "familyId": "ethidium_bromide",
+    "questionText": "DNA bands in agarose gel are commonly visualized after staining with:",
+    "questionLatex": "DNA bands in agarose gel are commonly visualized after staining with:",
+    "options": [
+      "Crystal violet",
+      "Ethidium bromide",
+      "Safranin",
+      "Methylene blue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Ethidium bromide intercalates into DNA and fluoresces under UV light, making DNA bands visible."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gel Electrophoresis",
+    "familyId": "elution",
+    "questionText": "The process of cutting out a desired DNA band from agarose gel and recovering the DNA is called:",
+    "questionLatex": "The process of cutting out a desired DNA band from agarose gel and recovering the DNA is called:",
+    "options": [
+      "Transformation",
+      "Elution",
+      "Denaturation",
+      "Annealing"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Elution is the process of extracting purified DNA fragments from agarose gel after electrophoresis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "cloning_vector_definition",
+    "questionText": "A cloning vector is a DNA molecule that is used to:",
+    "questionLatex": "A cloning vector is a DNA molecule that is used to:",
+    "options": [
+      "Destroy foreign DNA",
+      "Transfer foreign DNA into a host cell for replication",
+      "Translate mRNA into proteins",
+      "Separate DNA fragments"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A cloning vector carries foreign DNA into a suitable host cell where it can replicate and produce multiple copies."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "plasmid_vector",
+    "questionText": "The most commonly used cloning vectors in recombinant DNA technology are:",
+    "questionLatex": "The most commonly used cloning vectors in recombinant DNA technology are:",
+    "options": [
+      "Chromosomes",
+      "Plasmids",
+      "Ribosomes",
+      "Mitochondria"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plasmids are circular, extrachromosomal DNA molecules commonly used as cloning vectors."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "vector_features",
+    "questionText": "Which of the following is NOT an essential feature of a cloning vector?",
+    "questionLatex": "Which of the following is NOT an essential feature of a cloning vector?",
+    "options": [
+      "Origin of replication",
+      "Selectable marker",
+      "Restriction site",
+      "Ribosome"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "A cloning vector requires an origin of replication, selectable marker and cloning sites, but not ribosomes."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "selectable_marker",
+    "questionText": "The primary function of a selectable marker in a cloning vector is to:",
+    "questionLatex": "The primary function of a selectable marker in a cloning vector is to:",
+    "options": [
+      "Replicate DNA",
+      "Identify transformed host cells",
+      "Synthesize proteins",
+      "Cut DNA at specific sites"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Selectable markers help distinguish transformed cells from non-transformed cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "antibiotic_resistance_gene",
+    "questionText": "Genes providing resistance to antibiotics such as ampicillin and tetracycline are commonly used as:",
+    "questionLatex": "Genes providing resistance to antibiotics such as ampicillin and tetracycline are commonly used as:",
+    "options": [
+      "Promoters",
+      "Restriction enzymes",
+      "Selectable markers",
+      "Primers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Antibiotic resistance genes act as selectable markers to identify recombinant cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "pbr322",
+    "questionText": "The plasmid pBR322 was developed by:",
+    "questionLatex": "The plasmid pBR322 was developed by:",
+    "options": [
+      "Watson and Crick",
+      "Bolivar and Rodriguez",
+      "Cohen and Boyer",
+      "Meselson and Stahl"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cloning vector pBR322 was developed by Bolivar and Rodriguez."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "pbr322_markers",
+    "questionText": "The two antibiotic resistance genes present in pBR322 are:",
+    "questionLatex": "The two antibiotic resistance genes present in pBR322 are:",
+    "options": [
+      "Kanamycin and chloramphenicol",
+      "Ampicillin and tetracycline",
+      "Ampicillin and erythromycin",
+      "Penicillin and streptomycin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The plasmid pBR322 contains ampicillin resistance (ampR) and tetracycline resistance (tetR) genes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "insertional_inactivation",
+    "questionText": "Insertion of foreign DNA into an antibiotic resistance gene results in:",
+    "questionLatex": "Insertion of foreign DNA into an antibiotic resistance gene results in:",
+    "options": [
+      "Gene amplification",
+      "Insertional inactivation",
+      "DNA sequencing",
+      "Translation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Insertion of foreign DNA disrupts the antibiotic resistance gene, a phenomenon called insertional inactivation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "puc19",
+    "questionText": "The cloning vector pUC19 contains a selectable marker based on:",
+    "questionLatex": "The cloning vector pUC19 contains a selectable marker based on:",
+    "options": [
+      "lacZ gene",
+      "ampR and tetR genes only",
+      "Nitrogen fixation gene",
+      "Origin of replication only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "pUC19 utilizes insertional inactivation of the lacZ gene for blue-white screening of recombinants."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Cloning Vectors",
+    "familyId": "ori_copy_number",
+    "questionText": "The copy number of a cloning vector is primarily regulated by its:",
+    "questionLatex": "The copy number of a cloning vector is primarily regulated by its:",
+    "options": [
+      "Restriction sites",
+      "Origin of replication",
+      "Selectable marker",
+      "DNA ligase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The origin of replication (ori) controls the initiation of replication and determines the copy number of the vector inside the host cell."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Competent Cells",
+    "familyId": "competent_cells_definition",
+    "questionText": "Cells treated to readily take up foreign DNA are called:",
+    "questionLatex": "Cells treated to readily take up foreign DNA are called:",
+    "options": [
+      "Mutant cells",
+      "Competent cells",
+      "Hybrid cells",
+      "Transgenic cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Competent cells are specially treated cells capable of efficiently taking up recombinant DNA."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Transformation",
+    "familyId": "calcium_chloride",
+    "questionText": "Bacterial cells are commonly treated with which chemical to make them competent for DNA uptake?",
+    "questionLatex": "Bacterial cells are commonly treated with which chemical to make them competent for DNA uptake?",
+    "options": [
+      "Sodium chloride",
+      "Calcium chloride",
+      "Magnesium sulphate",
+      "Copper sulphate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Calcium chloride treatment increases the permeability of bacterial cell walls, facilitating DNA uptake."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Transformation",
+    "familyId": "heat_shock",
+    "questionText": "Following calcium chloride treatment, bacterial cells are briefly exposed to high temperature to facilitate DNA uptake. This process is called:",
+    "questionLatex": "Following calcium chloride treatment, bacterial cells are briefly exposed to high temperature to facilitate DNA uptake. This process is called:",
+    "options": [
+      "Hybridization",
+      "Heat shock",
+      "Denaturation",
+      "Ligation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heat shock creates a thermal imbalance that promotes entry of recombinant DNA into competent bacterial cells."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gene Transfer",
+    "familyId": "microinjection",
+    "questionText": "Direct injection of recombinant DNA into the nucleus of an animal cell is known as:",
+    "questionLatex": "Direct injection of recombinant DNA into the nucleus of an animal cell is known as:",
+    "options": [
+      "Electroporation",
+      "Microinjection",
+      "Gene cloning",
+      "Transformation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Microinjection involves direct introduction of recombinant DNA into the nucleus using a fine glass micropipette."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gene Transfer",
+    "familyId": "biolistics",
+    "questionText": "The method commonly used for introducing DNA into plant cells using high-velocity microprojectiles is called:",
+    "questionLatex": "The method commonly used for introducing DNA into plant cells using high-velocity microprojectiles is called:",
+    "options": [
+      "Electrophoresis",
+      "Biolistics (Gene gun)",
+      "Chromatography",
+      "Southern blotting"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Biolistics, or the gene gun method, delivers DNA-coated gold or tungsten particles into plant cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gene Transfer",
+    "familyId": "agrobacterium_vector",
+    "questionText": "The natural genetic engineer commonly used for transferring genes into plants is:",
+    "questionLatex": "The natural genetic engineer commonly used for transferring genes into plants is:",
+    "options": [
+      "Rhizobium leguminosarum",
+      "Agrobacterium tumefaciens",
+      "Bacillus thuringiensis",
+      "Azotobacter chroococcum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Agrobacterium tumefaciens naturally transfers T-DNA into plant cells and is widely used as a cloning vector."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "pcr_full_form",
+    "questionText": "PCR stands for:",
+    "questionLatex": "PCR stands for:",
+    "options": [
+      "Protein Chain Reaction",
+      "Polymerase Chain Reaction",
+      "Plasmid Cloning Reaction",
+      "Primary Cell Replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PCR (Polymerase Chain Reaction) is a technique used to amplify a specific DNA segment."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "thermostable_polymerase",
+    "questionText": "The thermostable DNA polymerase used in PCR is obtained from:",
+    "questionLatex": "The thermostable DNA polymerase used in PCR is obtained from:",
+    "options": [
+      "Escherichia coli",
+      "Thermus aquaticus",
+      "Agrobacterium tumefaciens",
+      "Bacillus subtilis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Taq DNA polymerase, isolated from Thermus aquaticus, remains stable at high temperatures used during PCR."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "pcr_denaturation",
+    "questionText": "During PCR, the denaturation step primarily involves:",
+    "questionLatex": "During PCR, the denaturation step primarily involves:",
+    "options": [
+      "Joining DNA fragments",
+      "Separation of the two DNA strands by heating",
+      "Binding of primers",
+      "Synthesis of RNA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Denaturation at approximately 94-95°C separates the two strands of the DNA template."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "pcr_annealing",
+    "questionText": "The annealing step of PCR is characterized by:",
+    "questionLatex": "The annealing step of PCR is characterized by:",
+    "options": [
+      "DNA strand separation",
+      "Binding of primers to complementary DNA sequences",
+      "DNA ligation",
+      "Protein synthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During annealing, primers bind to complementary sequences on the template DNA, allowing DNA synthesis to begin."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "pcr_extension",
+    "questionText": "During the extension step of PCR, DNA synthesis is carried out by:",
+    "questionLatex": "During the extension step of PCR, DNA synthesis is carried out by:",
+    "options": [
+      "DNA ligase",
+      "Restriction endonuclease",
+      "Taq DNA polymerase",
+      "RNA polymerase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During the extension step, Taq DNA polymerase synthesizes new DNA strands by extending the primers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "pcr_cycle",
+    "questionText": "The correct sequence of steps in one PCR cycle is:",
+    "questionLatex": "The correct sequence of steps in one PCR cycle is:",
+    "options": [
+      "Annealing → Extension → Denaturation",
+      "Denaturation → Annealing → Extension",
+      "Extension → Denaturation → Annealing",
+      "Denaturation → Extension → Annealing"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Each PCR cycle consists of denaturation, annealing of primers and extension by DNA polymerase."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "primer_function",
+    "questionText": "The primary function of primers in PCR is to:",
+    "questionLatex": "The primary function of primers in PCR is to:",
+    "options": [
+      "Cut DNA at specific sites",
+      "Provide a free 3' hydroxyl end for DNA polymerase",
+      "Join DNA fragments",
+      "Unwind DNA strands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Primers provide the free 3' hydroxyl group required by DNA polymerase to initiate DNA synthesis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "PCR",
+    "familyId": "dna_amplification",
+    "questionText": "The major purpose of Polymerase Chain Reaction (PCR) is to:",
+    "questionLatex": "The major purpose of Polymerase Chain Reaction (PCR) is to:",
+    "options": [
+      "Sequence DNA",
+      "Amplify a specific DNA fragment",
+      "Translate proteins",
+      "Isolate RNA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PCR rapidly amplifies a specific DNA sequence into millions of copies."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Downstream Processing",
+    "familyId": "downstream_processing_definition",
+    "questionText": "The series of processes used to separate and purify a finished biotechnological product is called:",
+    "questionLatex": "The series of processes used to separate and purify a finished biotechnological product is called:",
+    "options": [
+      "Transformation",
+      "Gene cloning",
+      "Downstream processing",
+      "Electrophoresis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Downstream processing includes separation, purification, formulation and quality testing of the final product."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Downstream Processing",
+    "familyId": "product_purification",
+    "questionText": "Before a biotechnological product is marketed, it must undergo:",
+    "questionLatex": "Before a biotechnological product is marketed, it must undergo:",
+    "options": [
+      "Only DNA sequencing",
+      "Only cloning",
+      "Purification and quality control testing",
+      "Only PCR"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Commercial biotechnological products require purification and quality control before being released for use."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Bioreactors",
+    "familyId": "bioreactor_definition",
+    "questionText": "A bioreactor is primarily designed to:",
+    "questionLatex": "A bioreactor is primarily designed to:",
+    "options": [
+      "Store recombinant DNA",
+      "Provide optimum conditions for large-scale growth of cells and production of desired products",
+      "Separate DNA fragments",
+      "Visualize DNA bands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bioreactors provide optimal conditions such as pH, temperature, oxygen and nutrients for large-scale production."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Bioreactors",
+    "familyId": "stirred_tank",
+    "questionText": "The most commonly used bioreactor in industrial biotechnology is:",
+    "questionLatex": "The most commonly used bioreactor in industrial biotechnology is:",
+    "options": [
+      "Packed bed reactor",
+      "Stirred-tank bioreactor",
+      "Fluidized bed reactor",
+      "Membrane reactor"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Stirred-tank bioreactors are widely used because they ensure efficient mixing and aeration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Bioreactors",
+    "familyId": "sparger_function",
+    "questionText": "The sparger present in a stirred-tank bioreactor is mainly used for:",
+    "questionLatex": "The sparger present in a stirred-tank bioreactor is mainly used for:",
+    "options": [
+      "Heating the culture",
+      "Supplying sterile air for aeration",
+      "Measuring pH",
+      "Separating cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A sparger introduces sterile air bubbles into the culture medium to provide oxygen for aerobic microorganisms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Biology",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Bioreactors",
+    "familyId": "agitator_function",
+    "questionText": "The agitator in a stirred-tank bioreactor helps to:",
+    "questionLatex": "The agitator in a stirred-tank bioreactor helps to:",
+    "options": [
+      "Cut DNA molecules",
+      "Mix the culture uniformly and improve oxygen distribution",
+      "Purify recombinant proteins",
+      "Amplify DNA"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The agitator ensures proper mixing of nutrients, microorganisms and dissolved oxygen throughout the culture medium."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]
