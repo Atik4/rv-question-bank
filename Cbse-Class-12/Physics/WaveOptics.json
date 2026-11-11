@@ -1,0 +1,1161 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Introduction",
+    "familyId": "wave_theory_of_light",
+    "questionText": "Who proposed the wave theory of light in 1678?",
+    "questionLatex": "$\\text{Wave Theory of Light}$",
+    "options": [
+      "Isaac Newton",
+      "Thomas Young",
+      "Christiaan Huygens",
+      "James Clerk Maxwell"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Christiaan Huygens"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wave Theory of Light",
+    "familyId": "foucault_experiment",
+    "questionText": "Which experiment confirmed that the speed of light in water is less than that in air?",
+    "questionLatex": "$\\text{Speed of Light Experiment}$",
+    "options": [
+      "Young's experiment",
+      "Foucault's experiment",
+      "Michelson's experiment",
+      "Hertz's experiment"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Foucault's experiment"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront",
+    "familyId": "wavefront_definition",
+    "questionText": "Define a wavefront.",
+    "questionLatex": "$\\text{Wavefront}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A wavefront is the locus of all points in a wave that are in the same phase of vibration at a given instant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront",
+    "familyId": "wavefront_constant_phase",
+    "questionText": "A wavefront is a surface of:",
+    "questionLatex": "$\\text{Wavefront}$",
+    "options": [
+      "Constant amplitude",
+      "Constant velocity",
+      "Constant phase",
+      "Constant intensity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Constant phase"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront",
+    "familyId": "energy_propagation_direction",
+    "questionText": "The energy of a wave travels in a direction:",
+    "questionLatex": "$\\text{Energy Propagation}$",
+    "options": [
+      "Parallel to the wavefront",
+      "Perpendicular to the wavefront",
+      "At 45° to the wavefront",
+      "Randomly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Perpendicular to the wavefront"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront Types",
+    "familyId": "spherical_wavefront",
+    "questionText": "What type of wavefront is produced by a point source emitting light uniformly in all directions?",
+    "questionLatex": "$\\text{Spherical Wavefront}$",
+    "options": [
+      "Plane wavefront",
+      "Cylindrical wavefront",
+      "Spherical wavefront",
+      "Elliptical wavefront"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Spherical wavefront"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront Types",
+    "familyId": "plane_wavefront_definition",
+    "questionText": "When can a spherical wavefront be approximated as a plane wavefront?",
+    "questionLatex": "$\\text{Plane Wavefront}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "At a large distance from the source, a small portion of a spherical wavefront can be approximated as a plane wavefront."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Huygens Principle",
+    "familyId": "huygens_principle_statement",
+    "questionText": "State Huygens' principle.",
+    "questionLatex": "$\\text{Huygens Principle}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Every point on a wavefront acts as a source of secondary wavelets which spread in all directions with the speed of the wave."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Huygens Principle",
+    "familyId": "secondary_wavelets",
+    "questionText": "The waves emitted from every point of a wavefront according to Huygens' principle are called:",
+    "questionLatex": "$\\text{Secondary Wavelets}$",
+    "options": [
+      "Primary waves",
+      "Longitudinal waves",
+      "Secondary wavelets",
+      "Stationary waves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Secondary wavelets"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Wavefront Numerical",
+    "familyId": "wavefront_distance_numerical",
+    "questionText": "A wave travels with a speed of $3 \\times 10^8 \\text{ m s}^{-1}$. Calculate the distance travelled by the wavefront in $2 \\text{ ns}$.",
+    "questionLatex": "$d = vt$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.6,
+      "unit": "m",
+      "steps": [
+        "$v = 3 \\times 10^8 \\text{ m s}^{-1}$",
+        "$t = 2 \\times 10^{-9} \\text{ s}$",
+        "$d = vt$",
+        "$d = (3 \\times 10^8) \\times (2 \\times 10^{-9})$",
+        "$d = 0.6 \\text{ m}$"
+      ]
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refraction using Huygens Principle",
+    "familyId": "snells_law",
+    "questionText": "Write Snell's law of refraction in terms of refractive indices.",
+    "questionLatex": "$n_1 \\sin i = n_2 \\sin r$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n_1 \\sin i = n_2 \\sin r$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refraction using Huygens Principle",
+    "familyId": "wave_theory_prediction",
+    "questionText": "According to wave theory, if light bends towards the normal on refraction, then the speed of light in the second medium is:",
+    "questionLatex": "$v_2 < v_1$",
+    "options": [
+      "Greater than the first medium",
+      "Equal to the first medium",
+      "Less than the first medium",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Less than the first medium"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refractive Index",
+    "familyId": "refractive_index_speed_relation",
+    "questionText": "Write the relation between refractive index and speed of light in a medium.",
+    "questionLatex": "$n = \\frac{c}{v}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n = \\frac{c}{v}$"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refraction",
+    "familyId": "frequency_in_refraction",
+    "questionText": "When light is refracted from one medium to another, which physical quantity remains unchanged?",
+    "questionLatex": "$\\nu = \\text{constant}$",
+    "options": [
+      "Speed",
+      "Wavelength",
+      "Frequency",
+      "Amplitude"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Frequency"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refraction",
+    "familyId": "wavelength_speed_relation",
+    "questionText": "When light enters a denser medium from a rarer medium, its wavelength:",
+    "questionLatex": "$\\lambda_2 < \\lambda_1$",
+    "options": [
+      "Increases",
+      "Remains unchanged",
+      "Decreases",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Decreases"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Total Internal Reflection",
+    "familyId": "critical_angle_definition",
+    "questionText": "Define critical angle.",
+    "questionLatex": "$\\theta_c$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Total Internal Reflection",
+    "familyId": "tir_condition",
+    "questionText": "Total internal reflection occurs when:",
+    "questionLatex": "$i > i_c$",
+    "options": [
+      "Light travels from rarer to denser medium",
+      "Angle of incidence is zero",
+      "Light travels from denser to rarer medium and angle of incidence exceeds critical angle",
+      "Refractive indices of both media are equal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Light travels from denser to rarer medium and angle of incidence exceeds critical angle"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Reflection using Huygens Principle",
+    "familyId": "law_of_reflection",
+    "questionText": "Using Huygens' principle, the angle of reflection is found to be:",
+    "questionLatex": "$i = r$",
+    "options": [
+      "Less than angle of incidence",
+      "Greater than angle of incidence",
+      "Equal to angle of incidence",
+      "Twice the angle of incidence"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Equal to angle of incidence"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Refraction Numerical",
+    "familyId": "speed_in_glass",
+    "questionText": "Calculate the speed of light in glass of refractive index 1.5.",
+    "questionLatex": "$v = \\frac{c}{n}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 200000000,
+      "unit": "m s^{-1}",
+      "steps": [
+        "$n = 1.5$",
+        "$c = 3 \\times 10^8 \\text{ m s}^{-1}$",
+        "$v = \\frac{c}{n}$",
+        "$v = \\frac{3 \\times 10^8}{1.5}$",
+        "$v = 2 \\times 10^8 \\text{ m s}^{-1}$"
+      ]
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Critical Angle Numerical",
+    "familyId": "critical_angle_calculation",
+    "questionText": "Calculate the critical angle for glass of refractive index 1.5 with respect to air.",
+    "questionLatex": "$\\sin i_c = \\frac{1}{n}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 41.8,
+      "unit": "degree",
+      "steps": [
+        "$\\sin i_c = \\frac{1}{1.5}$",
+        "$\\sin i_c \\approx 0.667$",
+        "$i_c = \\sin^{-1}(0.667)$",
+        "$i_c \\approx 41.8^\\circ$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Interference of Light",
+    "familyId": "interference_definition",
+    "questionText": "What is interference of light?",
+    "questionLatex": "$\\text{Interference of Light}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Interference is the redistribution of light intensity produced due to the superposition of two or more coherent light waves."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Interference of Light",
+    "familyId": "coherent_sources_definition",
+    "questionText": "What are coherent sources of light?",
+    "questionLatex": "$\\text{Coherent Sources}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Coherent sources are sources that emit light waves of the same frequency and maintain a constant phase difference."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "ydse_evidence",
+    "questionText": "Young's double slit experiment provides evidence for the:",
+    "questionLatex": "$\\text{YDSE}$",
+    "options": [
+      "Particle nature of light",
+      "Wave nature of light",
+      "Nuclear nature of light",
+      "Magnetic nature of light"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Wave nature of light"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "constructive_interference_condition",
+    "questionText": "Write the condition for constructive interference in Young's double slit experiment.",
+    "questionLatex": "$\\Delta = n\\lambda$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\Delta = n\\lambda$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "destructive_interference_condition",
+    "questionText": "Write the condition for destructive interference in Young's double slit experiment.",
+    "questionLatex": "$\\Delta = \\left(n + \\frac{1}{2}\\right)\\lambda$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\Delta = \\left(n + \\frac{1}{2}\\right)\\lambda$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "fringe_width_formula",
+    "questionText": "Write the expression for fringe width in Young's double slit experiment.",
+    "questionLatex": "$\\beta = \\frac{\\lambda D}{d}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\beta = \\frac{\\lambda D}{d}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "fringe_width_dependence",
+    "questionText": "The fringe width in Young's double slit experiment is directly proportional to:",
+    "questionLatex": "$\\beta = \\frac{\\lambda D}{d}$",
+    "options": [
+      "Slit separation only",
+      "Wavelength and screen distance",
+      "Slit separation and wavelength",
+      "Screen distance only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Wavelength and screen distance"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment",
+    "familyId": "central_fringe",
+    "questionText": "The central fringe obtained in Young's double slit experiment is:",
+    "questionLatex": "$\\Delta = 0$",
+    "options": [
+      "Always dark",
+      "Always bright",
+      "Sometimes bright",
+      "Absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Always bright"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment Numerical",
+    "familyId": "fringe_width_calculation",
+    "questionText": "In Young's double slit experiment, the wavelength of light is 600 nm, the slit separation is 0.3 mm and the screen distance is 1.5 m. Calculate the fringe width.",
+    "questionLatex": "$\\beta = \\frac{\\lambda D}{d}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.003,
+      "unit": "m",
+      "steps": [
+        "$\\lambda = 600 \\times 10^{-9} \\text{ m}$",
+        "$D = 1.5 \\text{ m}$",
+        "$d = 0.3 \\times 10^{-3} \\text{ m}$",
+        "$\\beta = \\frac{\\lambda D}{d}$",
+        "$\\beta = \\frac{(600 \\times 10^{-9} \\text{ m}) \\times 1.5 \\text{ m}}{0.3 \\times 10^{-3} \\text{ m}}$",
+        "$\\beta = 3 \\times 10^{-3} \\text{ m}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Young's Double Slit Experiment Numerical",
+    "familyId": "path_difference_bright_fringe",
+    "questionText": "Light of wavelength 500 nm produces a bright fringe at a point on the screen. Calculate the path difference corresponding to the second-order bright fringe.",
+    "questionLatex": "$\\Delta = n\\lambda$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1e-6,
+      "unit": "m",
+      "steps": [
+        "$n = 2$",
+        "$\\lambda = 500 \\times 10^{-9} \\text{ m}$",
+        "$\\Delta = n\\lambda$",
+        "$\\Delta = 2 \\times 500 \\times 10^{-9} \\text{ m}$",
+        "$\\Delta = 1 \\times 10^{-6} \\text{ m}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction of Light",
+    "familyId": "diffraction_definition",
+    "questionText": "What is diffraction of light?",
+    "questionLatex": "$\\text{Diffraction of Light}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Diffraction is the bending and spreading of light waves around the edges of obstacles and apertures when their dimensions are comparable to the wavelength of light."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction of Light",
+    "familyId": "diffraction_cause",
+    "questionText": "Diffraction of light is a consequence of the:",
+    "questionLatex": "$\\text{Diffraction}$",
+    "options": [
+      "Particle nature of light",
+      "Wave nature of light",
+      "Magnetic nature of light",
+      "Electric nature of light"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Wave nature of light"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Single Slit Diffraction",
+    "familyId": "central_maximum_characteristic",
+    "questionText": "In a single slit diffraction pattern, the central maximum is:",
+    "questionLatex": "$\\text{Central Maximum}$",
+    "options": [
+      "Dark and narrow",
+      "Bright and widest",
+      "Dark and widest",
+      "Bright and narrow"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Bright and widest"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Single Slit Diffraction",
+    "familyId": "diffraction_minima_condition",
+    "questionText": "Write the condition for minima in single slit diffraction.",
+    "questionLatex": "$a \\sin \\theta = n \\lambda$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$a \\sin \\theta = n \\lambda$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction",
+    "familyId": "diffraction_vs_interference",
+    "questionText": "Which of the following statements is correct regarding diffraction and interference?",
+    "questionLatex": "$\\text{Diffraction and Interference}$",
+    "options": [
+      "Diffraction requires two coherent sources",
+      "Interference can occur with a single slit",
+      "Diffraction results from superposition of secondary wavelets from different parts of the same wavefront",
+      "Diffraction and interference are unrelated phenomena"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Diffraction results from superposition of secondary wavelets from different parts of the same wavefront"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "polarisation_definition",
+    "questionText": "What is polarisation of light?",
+    "questionLatex": "$\\text{Polarisation}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Polarisation is the phenomenon of restricting the vibrations of light waves to a particular plane perpendicular to the direction of propagation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "polarisation_nature_of_light",
+    "questionText": "The phenomenon of polarisation establishes that light waves are:",
+    "questionLatex": "$\\text{Polarisation}$",
+    "options": [
+      "Longitudinal",
+      "Transverse",
+      "Stationary",
+      "Mechanical"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Transverse"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "unpolarised_light",
+    "questionText": "Natural light is generally:",
+    "questionLatex": "$\\text{Natural Light}$",
+    "options": [
+      "Plane polarised",
+      "Circularly polarised",
+      "Elliptically polarised",
+      "Unpolarised"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Unpolarised"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "brewsters_law",
+    "questionText": "Write Brewster's law relating polarising angle and refractive index.",
+    "questionLatex": "$\\mu = \\tan i_p$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\mu = \\tan i_p$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction Numerical",
+    "familyId": "single_slit_minimum_numerical",
+    "questionText": "Monochromatic light of wavelength 600 nm is incident on a slit of width 0.3 mm. Calculate the angular position of the first diffraction minimum.",
+    "questionLatex": "$a \\sin \\theta = \\lambda$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.002,
+      "unit": "rad",
+      "steps": [
+        "$a = 0.3 \\times 10^{-3} \\text{ m}$",
+        "$\\lambda = 600 \\times 10^{-9} \\text{ m}$",
+        "$\\sin \\theta = \\frac{\\lambda}{a}$",
+        "$\\sin \\theta = \\frac{600 \\times 10^{-9}}{0.3 \\times 10^{-3}}$",
+        "$\\sin \\theta = 0.002$",
+        "$\\theta \\approx 0.002 \\text{ rad}$"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "polariser_definition",
+    "questionText": "What is a polariser?",
+    "questionLatex": "$\\text{Polariser}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A polariser is a device that converts unpolarised light into plane polarised light."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "analyser_definition",
+    "questionText": "What is an analyser?",
+    "questionLatex": "$\\text{Analyser}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "An analyser is a polarising device used to detect and analyse plane polarised light."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "crossed_polaroids",
+    "questionText": "When the transmission axes of a polariser and analyser are perpendicular to each other, the intensity of transmitted light is:",
+    "questionLatex": "$I = 0$",
+    "options": [
+      "Maximum",
+      "Half of the incident intensity",
+      "Zero",
+      "Equal to incident intensity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "malus_law",
+    "questionText": "State Malus' law for plane polarised light.",
+    "questionLatex": "$I = I_0 \\cos^2 \\theta$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$I = I_0 \\cos^2 \\theta$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation",
+    "familyId": "polarising_angle_relation",
+    "questionText": "At Brewster's angle, the reflected ray and the refracted ray are:",
+    "questionLatex": "$\\theta_r + \\theta_t = 90^\\circ$",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "At 45°",
+      "Coincident"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Perpendicular"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Interference",
+    "familyId": "white_light_interference",
+    "questionText": "In Young's double slit experiment using white light, the central fringe is:",
+    "questionLatex": "$\\Delta = 0$",
+    "options": [
+      "Red",
+      "Violet",
+      "White",
+      "Black"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "White"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Interference",
+    "familyId": "coherence_requirement",
+    "questionText": "For sustained interference, the two light sources must be:",
+    "questionLatex": "$\\text{Coherent Sources}$",
+    "options": [
+      "Very bright",
+      "Monochromatic only",
+      "Coherent",
+      "Highly intense"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Coherent"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Polarisation Numerical",
+    "familyId": "malus_law_numerical",
+    "questionText": "Plane polarised light of intensity 100 W m^-2 is incident on an analyser whose transmission axis makes an angle of 60° with the plane of polarisation. Calculate the transmitted intensity.",
+    "questionLatex": "$I = I_0 \\cos^2 \\theta$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 25,
+      "unit": "W m^-2",
+      "steps": [
+        "$I_0 = 100 \\text{ W m}^{-2}$",
+        "$\\theta = 60^\\circ$",
+        "$I = I_0 \\cos^2 \\theta$",
+        "$I = 100 \\times (0.5)^2$",
+        "$I = 25 \\text{ W m}^{-2}$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Interference Numerical",
+    "familyId": "fringe_width_wavelength_change",
+    "questionText": "In Young's double slit experiment, the wavelength of light is increased from 500 nm to 600 nm while keeping all other parameters unchanged. If the initial fringe width is 1.0 mm, calculate the new fringe width.",
+    "questionLatex": "$\\beta = \\frac{\\lambda D}{d}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.2,
+      "unit": "mm",
+      "steps": [
+        "$\\beta \\propto \\lambda$",
+        "$\\frac{\\beta_2}{\\beta_1} = \\frac{\\lambda_2}{\\lambda_1}$",
+        "$\\beta_2 = 1.0 \\times \\left(\\frac{600}{500}\\right)$",
+        "$\\beta_2 = 1.2 \\text{ mm}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "topic": "Diffraction Numerical",
+    "familyId": "slit_width_numerical",
+    "questionText": "Monochromatic light of wavelength 500 nm produces the first diffraction minimum at an angle of 0.001 rad. Calculate the slit width.",
+    "questionLatex": "$a \\sin \\theta = \\lambda$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.0005,
+      "unit": "m",
+      "steps": [
+        "$a \\sin \\theta = \\lambda$",
+        "$a = \\frac{\\lambda}{\\sin \\theta}$",
+        "$a = \\frac{500 \\times 10^{-9} \\text{ m}}{0.001}$",
+        "$a = 5 \\times 10^{-4} \\text{ m}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

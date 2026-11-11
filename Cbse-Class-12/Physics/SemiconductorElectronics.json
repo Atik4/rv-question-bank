@@ -1,0 +1,1078 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Introduction to Semiconductors",
+    "familyId": "semiconductor_definition",
+    "questionText": "What is a semiconductor?",
+    "questionLatex": "$\\text{Semiconductor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A semiconductor is a material whose electrical conductivity lies between that of conductors and insulators."
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Classification of Materials",
+    "familyId": "semiconductor_examples",
+    "questionText": "Which of the following are elemental semiconductors?",
+    "questionLatex": "$\\text{Elemental Semiconductors}$",
+    "options": [
+      "Silicon and Germanium",
+      "Copper and Aluminium",
+      "Gallium Arsenide and Cadmium Sulphide",
+      "Carbon and Oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Silicon and Germanium"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Classification of Materials",
+    "familyId": "conductivity_order",
+    "questionText": "Arrange metals, semiconductors and insulators in decreasing order of conductivity.",
+    "questionLatex": "$\\sigma_{\\text{metal}} > \\sigma_{\\text{semiconductor}} > \\sigma_{\\text{insulator}}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Metals > Semiconductors > Insulators."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "valence_band_definition",
+    "questionText": "What is meant by the valence band in a solid?",
+    "questionLatex": "$\\text{Valence Band}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The energy band containing the valence electrons of atoms is called the valence band."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "conduction_band_definition",
+    "questionText": "What is the conduction band?",
+    "questionLatex": "$\\text{Conduction Band}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The energy band above the valence band in which electrons are free to move and contribute to conduction is called the conduction band."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "energy_gap_definition",
+    "questionText": "Define energy band gap.",
+    "questionLatex": "$E_g = E_C - E_V$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The energy difference between the bottom of the conduction band and the top of the valence band is called the energy band gap."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "metal_band_structure",
+    "questionText": "Why do metals have high electrical conductivity?",
+    "questionLatex": "$E_g \\approx 0$",
+    "options": [
+      "Large band gap",
+      "Partially filled or overlapping bands",
+      "No free electrons",
+      "Large resistivity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Partially filled or overlapping bands"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "insulator_band_gap",
+    "questionText": "For an insulator, the energy band gap is generally:",
+    "questionLatex": "$E_g > 3\\,\\text{eV}$",
+    "options": [
+      "Equal to zero",
+      "Less than 0.1 eV",
+      "Greater than 3 eV",
+      "Between 0.2 eV and 1 eV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Greater than 3 eV"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "silicon_band_gap",
+    "questionText": "The energy band gap of silicon at room temperature is approximately:",
+    "questionLatex": "$E_g(\\text{Si})$",
+    "options": [
+      "0.7 eV",
+      "1.1 eV",
+      "3.0 eV",
+      "5.4 eV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "1.1 eV"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Energy Band Theory",
+    "familyId": "germanium_band_gap",
+    "questionText": "The energy band gap of germanium is approximately:",
+    "questionLatex": "$E_g(\\text{Ge})$",
+    "options": [
+      "0.7 eV",
+      "1.1 eV",
+      "3.0 eV",
+      "5.4 eV"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0.7 eV"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Intrinsic Semiconductor",
+    "familyId": "intrinsic_semiconductor_definition",
+    "questionText": "What is an intrinsic semiconductor?",
+    "questionLatex": "$\\text{Intrinsic Semiconductor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A pure semiconductor free from any significant impurity is called an intrinsic semiconductor."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Intrinsic Semiconductor",
+    "familyId": "covalent_bond_definition",
+    "questionText": "What is a covalent bond in a semiconductor crystal?",
+    "questionLatex": "$\\text{Covalent Bond}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A covalent bond is formed by sharing a pair of valence electrons between two neighbouring atoms in a semiconductor crystal."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carriers",
+    "familyId": "hole_definition",
+    "questionText": "What is a hole in a semiconductor?",
+    "questionLatex": "$\\text{Hole}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A hole is a vacancy created in a covalent bond due to the absence of an electron and behaves as a positive charge carrier."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carriers",
+    "familyId": "intrinsic_carrier_relation",
+    "questionText": "Write the relation between electron concentration and hole concentration in an intrinsic semiconductor.",
+    "questionLatex": "$n_e = n_h = n_i$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "n_e = n_h = n_i"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carriers",
+    "familyId": "current_components",
+    "questionText": "The total current in an intrinsic semiconductor is due to:",
+    "questionLatex": "$I = I_e + I_h$",
+    "options": [
+      "Only electrons",
+      "Only holes",
+      "Electrons and holes",
+      "Ions only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Electrons and holes"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carriers",
+    "familyId": "total_current_relation",
+    "questionText": "Write the expression for total current in an intrinsic semiconductor.",
+    "questionLatex": "$I = I_e + I_h$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "I = I_e + I_h"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carrier Generation",
+    "familyId": "temperature_effect_intrinsic",
+    "questionText": "Why does the conductivity of an intrinsic semiconductor increase with temperature?",
+    "questionLatex": "$\\text{Temperature Effect}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "As temperature increases, more covalent bonds break, producing additional electron-hole pairs and increasing conductivity."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Charge Carrier Generation",
+    "familyId": "recombination_process",
+    "questionText": "What is recombination in a semiconductor?",
+    "questionLatex": "$\\text{Recombination}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Recombination is the process in which a free electron fills a hole, thereby eliminating both charge carriers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Intrinsic Semiconductor",
+    "familyId": "carbon_insulator_reason",
+    "questionText": "Carbon, silicon and germanium belong to Group 14. Why is carbon an insulator while silicon and germanium are semiconductors?",
+    "questionLatex": "$E_g(\\text{C}) > E_g(\\text{Si}) > E_g(\\text{Ge})$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Carbon has a much larger energy band gap (about 5.4 eV) than silicon and germanium. Therefore, very few electrons can be thermally excited to the conduction band, making carbon an insulator."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Intrinsic Semiconductor Numerical",
+    "familyId": "intrinsic_carrier_count",
+    "questionText": "In an intrinsic semiconductor, the concentration of free electrons is 4 × 10^15 m^-3. Calculate the concentration of holes.",
+    "questionLatex": "$n_e = n_h$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 4e15,
+      "unit": "m^-3",
+      "steps": [
+        "For an intrinsic semiconductor, $n_e = n_h$",
+        "Given $n_e = 4 \\times 10^{15}\\,\\text{m}^{-3}$",
+        "Therefore $n_h = 4 \\times 10^{15}\\,\\text{m}^{-3}$"
+      ]
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Extrinsic Semiconductor",
+    "familyId": "extrinsic_semiconductor_definition",
+    "questionText": "What is an extrinsic semiconductor?",
+    "questionLatex": "$\\text{Extrinsic Semiconductor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A semiconductor whose conductivity has been increased by adding a small amount of suitable impurity is called an extrinsic semiconductor."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Doping",
+    "familyId": "doping_definition",
+    "questionText": "What is doping in semiconductors?",
+    "questionLatex": "$\\text{Doping}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Doping is the process of intentionally adding a small and controlled amount of impurity atoms to a pure semiconductor to modify its electrical conductivity."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "n-type Semiconductor",
+    "familyId": "n_type_definition",
+    "questionText": "What is an n-type semiconductor?",
+    "questionLatex": "$\\text{n-type Semiconductor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A semiconductor obtained by doping a pure semiconductor with a pentavalent impurity is called an n-type semiconductor."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "n-type Semiconductor",
+    "familyId": "donor_impurity_examples",
+    "questionText": "Which of the following are donor impurities used to form n-type semiconductors?",
+    "questionLatex": "$\\text{Donor Impurities}$",
+    "options": [
+      "Boron and Aluminium",
+      "Gallium and Indium",
+      "Phosphorus and Arsenic",
+      "Silicon and Germanium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Phosphorus and Arsenic"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "n-type Semiconductor",
+    "familyId": "majority_carriers_n_type",
+    "questionText": "In an n-type semiconductor, the majority charge carriers are:",
+    "questionLatex": "$\\text{Majority Carriers}$",
+    "options": [
+      "Holes",
+      "Electrons",
+      "Protons",
+      "Ions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Electrons"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-type Semiconductor",
+    "familyId": "p_type_definition",
+    "questionText": "What is a p-type semiconductor?",
+    "questionLatex": "$\\text{p-type Semiconductor}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A semiconductor obtained by doping a pure semiconductor with a trivalent impurity is called a p-type semiconductor."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-type Semiconductor",
+    "familyId": "acceptor_impurity_examples",
+    "questionText": "Which of the following are acceptor impurities used to form p-type semiconductors?",
+    "questionLatex": "$\\text{Acceptor Impurities}$",
+    "options": [
+      "Phosphorus and Arsenic",
+      "Antimony and Bismuth",
+      "Boron and Gallium",
+      "Silicon and Germanium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Boron and Gallium"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-type Semiconductor",
+    "familyId": "majority_carriers_p_type",
+    "questionText": "In a p-type semiconductor, the majority charge carriers are:",
+    "questionLatex": "$\\text{Majority Carriers}$",
+    "options": [
+      "Electrons",
+      "Neutrons",
+      "Holes",
+      "Ions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Holes"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Extrinsic Semiconductor",
+    "familyId": "minority_carriers",
+    "questionText": "What are minority carriers in an n-type semiconductor?",
+    "questionLatex": "$\\text{Minority Carriers}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Holes are the minority carriers in an n-type semiconductor because their concentration is much smaller than that of electrons."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Extrinsic Semiconductor Numerical",
+    "familyId": "majority_minority_identification",
+    "questionText": "An arsenic-doped silicon crystal is prepared. Identify the type of semiconductor formed and its majority charge carriers.",
+    "questionLatex": "$\\text{As-doped Si}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Arsenic is a pentavalent impurity. Therefore, arsenic-doped silicon forms an n-type semiconductor and electrons are the majority charge carriers."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction",
+    "familyId": "pn_junction_definition",
+    "questionText": "What is a p-n junction?",
+    "questionLatex": "$\\text{p-n Junction}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A p-n junction is the boundary formed when p-type and n-type semiconductor regions are joined together in a single crystal."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction",
+    "familyId": "depletion_region_definition",
+    "questionText": "What is the depletion region in a p-n junction?",
+    "questionLatex": "$\\text{Depletion Region}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The region around the p-n junction that is depleted of free charge carriers and contains immobile ions is called the depletion region."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction",
+    "familyId": "barrier_potential_definition",
+    "questionText": "What is barrier potential in a p-n junction?",
+    "questionLatex": "$V_B$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Barrier potential is the potential difference developed across the depletion region that opposes the further diffusion of majority charge carriers."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction",
+    "familyId": "barrier_potential_silicon",
+    "questionText": "The barrier potential of a silicon p-n junction at room temperature is approximately:",
+    "questionLatex": "$V_B(\\text{Si})$",
+    "options": [
+      "0.1 V",
+      "0.3 V",
+      "0.7 V",
+      "1.5 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "0.7 V"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "p-n Junction",
+    "familyId": "barrier_potential_germanium",
+    "questionText": "The barrier potential of a germanium p-n junction at room temperature is approximately:",
+    "questionLatex": "$V_B(\\text{Ge})$",
+    "options": [
+      "0.3 V",
+      "0.7 V",
+      "1.1 V",
+      "2.0 V"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0.3 V"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Biasing",
+    "familyId": "forward_bias_definition",
+    "questionText": "What is forward biasing of a p-n junction diode?",
+    "questionLatex": "$\\text{Forward Bias}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A p-n junction is said to be forward biased when the p-side is connected to the positive terminal and the n-side to the negative terminal of an external source."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Biasing",
+    "familyId": "reverse_bias_definition",
+    "questionText": "What is reverse biasing of a p-n junction diode?",
+    "questionLatex": "$\\text{Reverse Bias}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A p-n junction is reverse biased when the p-side is connected to the negative terminal and the n-side to the positive terminal of an external source."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "familyId": "forward_bias_effect",
+    "questionText": "What happens to the depletion region when a p-n junction is forward biased?",
+    "questionLatex": "$\\text{Forward Bias Effect}$",
+    "options": [
+      "It widens",
+      "It disappears completely",
+      "It narrows",
+      "It remains unchanged"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "It narrows"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "familyId": "reverse_bias_effect",
+    "questionText": "What happens to the depletion region when a p-n junction is reverse biased?",
+    "questionLatex": "$\\text{Reverse Bias Effect}$",
+    "options": [
+      "It narrows",
+      "It widens",
+      "It becomes neutral",
+      "It vanishes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "It widens"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "familyId": "diode_unidirectional_device",
+    "questionText": "Why is a p-n junction diode called a unidirectional device?",
+    "questionLatex": "$\\text{Diode}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A p-n junction diode offers low resistance in forward bias and very high resistance in reverse bias, allowing current to flow mainly in one direction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "familyId": "reverse_saturation_current",
+    "questionText": "What is reverse saturation current in a p-n junction diode?",
+    "questionLatex": "$I_s$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Reverse saturation current is the small current that flows through a reverse-biased p-n junction due to the motion of minority charge carriers."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode Characteristics",
+    "familyId": "diode_breakdown",
+    "questionText": "What is breakdown in a reverse-biased p-n junction diode?",
+    "questionLatex": "$\\text{Breakdown Voltage}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Breakdown is the phenomenon in which a sudden large increase in reverse current occurs when the reverse bias exceeds a critical value called the breakdown voltage."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Rectifier",
+    "familyId": "rectifier_definition",
+    "questionText": "What is a rectifier?",
+    "questionLatex": "$\\text{Rectifier}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A rectifier is an electronic device that converts alternating current (AC) into direct current (DC)."
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Rectifier",
+    "familyId": "half_wave_rectifier",
+    "questionText": "A half-wave rectifier uses:",
+    "questionLatex": "$\\text{Half-Wave Rectifier}$",
+    "options": [
+      "One diode",
+      "Two diodes",
+      "Four diodes",
+      "No diode"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "One diode"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "logic_gate_definition",
+    "questionText": "What is a logic gate?",
+    "questionLatex": "$\\text{Logic Gate}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A logic gate is an electronic circuit that performs a logical operation on one or more binary inputs to produce a binary output."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "and_gate_operation",
+    "questionText": "The output of an AND gate is HIGH only when:",
+    "questionLatex": "$Y = A \\cdot B$",
+    "options": [
+      "Any one input is HIGH",
+      "Both inputs are HIGH",
+      "Both inputs are LOW",
+      "Inputs are different"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Both inputs are HIGH"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "or_gate_operation",
+    "questionText": "The output of an OR gate is LOW only when:",
+    "questionLatex": "$Y = A + B$",
+    "options": [
+      "Both inputs are HIGH",
+      "At least one input is HIGH",
+      "Both inputs are LOW",
+      "Inputs are unequal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both inputs are LOW"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "not_gate_operation",
+    "questionText": "The output of a NOT gate is:",
+    "questionLatex": "$Y = \\overline{A}$",
+    "options": [
+      "Same as input",
+      "Always HIGH",
+      "Always LOW",
+      "Complement of input"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Complement of input"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "nand_gate_universal",
+    "questionText": "Which logic gate is known as a universal gate?",
+    "questionLatex": "$\\text{Universal Gate}$",
+    "options": [
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "NOT gate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "NAND gate"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Logic Gates",
+    "familyId": "and_gate_truth_table",
+    "questionText": "For an AND gate, determine the output when A = 1 and B = 0.",
+    "questionLatex": "$Y = A \\cdot B$",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "0"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Electrostatic Potential Energy",
+    "familyId": "potential_energy_definition",
+    "questionText": "Electrostatic potential energy of a charge at a point in an electric field is equal to:",
+    "questionLatex": "",
+    "options": [
+      "Work done by the electric field in bringing the charge from infinity",
+      "Work done by an external force in bringing the charge from infinity without acceleration",
+      "Force acting on the charge",
+      "Electric flux through a surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Work done by an external force in bringing the charge from infinity without acceleration"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Conservative Nature of Electrostatic Force",
+    "familyId": "conservative_force",
+    "questionText": "Electrostatic force is a conservative force because:",
+    "questionLatex": "",
+    "options": [
+      "It depends on mass",
+      "Work done depends on the path",
+      "Work done depends only on initial and final positions",
+      "It acts only in vacuum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Work done depends only on initial and final positions"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Energy Difference",
+    "familyId": "potential_energy_difference",
+    "questionText": "The potential energy difference between two points P and R is:",
+    "questionLatex": "$\\Delta U = U_P - U_R = W_{RP}$",
+    "options": [
+      "Equal to work done by external force",
+      "Equal to electric field",
+      "Equal to charge",
+      "Equal to electric flux"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Equal to work done by external force"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Electrostatic Potential",
+    "familyId": "potential_definition",
+    "questionText": "Electrostatic potential at a point is defined as:",
+    "questionLatex": "$V=\\frac{W}{q}$",
+    "options": [
+      "Force per unit charge",
+      "Work done per unit positive test charge",
+      "Charge per unit work",
+      "Energy per unit mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Work done per unit positive test charge"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential",
+    "familyId": "unit_of_potential",
+    "questionText": "The SI unit of electric potential is:",
+    "questionLatex": "",
+    "options": [
+      "Joule",
+      "Newton",
+      "Volt",
+      "Coulomb"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Volt"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Point Charge",
+    "familyId": "point_charge_potential_formula",
+    "questionText": "The electric potential due to a point charge Q at a distance r is:",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r}$",
+    "options": [
+      "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r}$",
+      "$V=\\frac{Q}{r^2}$",
+      "$V=\\frac{Q}{4\\pi\\varepsilon_0 r^2}$",
+      "$V=Qr$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Point Charge",
+    "familyId": "positive_charge_potential",
+    "questionText": "The electric potential due to a positive point charge is:",
+    "questionLatex": "",
+    "options": [
+      "Always negative",
+      "Always positive",
+      "Zero everywhere",
+      "Depends on mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Always positive"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Point Charge",
+    "familyId": "negative_charge_potential",
+    "questionText": "The electric potential due to a negative point charge is:",
+    "questionLatex": "",
+    "options": [
+      "Always positive",
+      "Always negative",
+      "Always zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Always negative"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Calculation",
+    "familyId": "point_charge_numerical",
+    "questionText": "Calculate the electric potential at a point 0.1 m away from a charge of $2 \\times 10^{-7} \\text{ C}$ in vacuum.",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{Q}{r}$",
+    "options": [
+      "$1.8 \\times 10^4 \\text{ V}$",
+      "$9 \\times 10^3 \\text{ V}$",
+      "$1.8 \\times 10^3 \\text{ V}$",
+      "$9 \\times 10^4 \\text{ V}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$1.8 \\times 10^4 \\text{ V}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential and Work",
+    "familyId": "work_from_potential",
+    "questionText": "The work done in bringing a charge q from infinity to a point having potential V is:",
+    "questionLatex": "$W=qV$",
+    "options": [
+      "$q/V$",
+      "$V/q$",
+      "$qV$",
+      "$qV^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$qV$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Electric Dipole",
+    "familyId": "dipole_potential_superposition",
+    "questionText": "The electric potential due to an electric dipole is obtained using:",
+    "questionLatex": "$V=V_{+q}+V_{-q}$",
+    "options": [
+      "Gauss's law",
+      "Superposition principle",
+      "Ohm's law",
+      "Faraday's law"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Superposition principle"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Dipole",
+    "familyId": "dipole_potential_formula",
+    "questionText": "The electric potential due to a short dipole at a distant point is:",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{p\\cos\\theta}{r^2}$",
+    "options": [
+      "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{p\\cos\\theta}{r^2}$",
+      "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{p}{r}$",
+      "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{p}{r^3}$",
+      "$\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{p\\cos\\theta}{r^2}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Dipole",
+    "familyId": "dipole_axis_potential",
+    "questionText": "The electric potential on the axial line of a dipole is:",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{p}{r^2}$",
+    "options": [
+      "Maximum positive or negative",
+      "Zero",
+      "Constant",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Maximum positive or negative"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Dipole",
+    "familyId": "equatorial_potential",
+    "questionText": "The electric potential at a point on the equatorial plane of a dipole is:",
+    "questionLatex": "$V=0$",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "System of Charges",
+    "familyId": "potential_system_charges",
+    "questionText": "The potential at a point due to a system of charges is:",
+    "questionLatex": "$V=\\sum_i V_i$",
+    "options": [
+      "Product of individual potentials",
+      "Vector sum of potentials",
+      "Algebraic sum of individual potentials",
+      "Average of potentials"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Algebraic sum of individual potentials"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential of Spherical Shell",
+    "familyId": "shell_potential_inside",
+    "questionText": "The electric potential inside a uniformly charged spherical shell is:",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{R}$",
+    "options": [
+      "Zero everywhere",
+      "Constant throughout",
+      "Varies as $1/r$",
+      "Varies as $r$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Constant throughout"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential of Spherical Shell",
+    "familyId": "shell_outside_potential",
+    "questionText": "Outside a uniformly charged spherical shell, the potential behaves as if:",
+    "questionLatex": "$V=\\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r}$",
+    "options": [
+      "Charge is concentrated at the centre",
+      "Potential is zero",
+      "Potential is constant",
+      "Potential increases with r"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Charge is concentrated at the centre"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Zero Point",
+    "familyId": "potential_zero_location",
+    "questionText": "By convention, electrostatic potential is generally taken to be zero at:",
+    "questionLatex": "",
+    "options": [
+      "Origin",
+      "Surface of conductor",
+      "Infinity",
+      "Centre of charge"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Infinity"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Due to Two Charges",
+    "familyId": "zero_potential_numerical",
+    "questionText": "Two charges $+3 \\times 10^{-8}\\text{ C}$ and $-2 \\times 10^{-8}\\text{ C}$ are placed $15\\text{ cm}$ apart. One position where the electric potential becomes zero on the line joining them is at a distance from the positive charge of:",
+    "questionLatex": "",
+    "options": [
+      "$3\\text{ cm}$",
+      "$6\\text{ cm}$",
+      "$9\\text{ cm}$",
+      "$12\\text{ cm}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$9\\text{ cm}$"
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "hard",
+    "marks": 4,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Equipotential Surfaces",
+    "familyId": "equipotential_definition",
+    "questionText": "An equipotential surface is a surface on which:",
+    "questionLatex": "$V=\\text{constant}$",
+    "options": [
+      "Electric field is zero everywhere",
+      "Potential is same at all points",
+      "Charge density is constant",
+      "Electric flux is zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Potential is same at all points"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Equipotential Surfaces",
+    "familyId": "work_on_equipotential",
+    "questionText": "The work done in moving a test charge along an equipotential surface is:",
+    "questionLatex": "$W=q\\Delta V$",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Zero"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Equipotential Surfaces",
+    "familyId": "field_equipotential_relation",
+    "questionText": "Electric field lines are always:",
+    "questionLatex": "",
+    "options": [
+      "Parallel to equipotential surfaces",
+      "Tangential to equipotential surfaces",
+      "Perpendicular to equipotential surfaces",
+      "Inside equipotential surfaces"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Perpendicular to equipotential surfaces"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Relation Between Electric Field and Potential",
+    "familyId": "field_potential_relation",
+    "questionText": "The relation between electric field and potential difference is:",
+    "questionLatex": "$E=-\\frac{dV}{dr}$",
+    "options": [
+      "$E=\\frac{dV}{dr}$",
+      "$E=-\\frac{dV}{dr}$",
+      "$E=Vr$",
+      "$E=\\frac{V}{r^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$E = -\\frac{dV}{dr}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Potential Gradient",
+    "familyId": "potential_gradient",
+    "questionText": "Potential gradient is numerically equal to:",
+    "questionLatex": "$|E|=\\left|\\frac{dV}{dr}\\right|$",
+    "options": [
+      "Electric charge",
+      "Electric flux",
+      "Electric field intensity",
+      "Capacitance"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Electric field intensity"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitance",
+    "familyId": "capacitance_definition",
+    "questionText": "The capacitance of a conductor is defined as:",
+    "questionLatex": "$C=\\frac{Q}{V}$",
+    "options": [
+      "$V/Q$",
+      "$Q/V$",
+      "$QV$",
+      "$QV^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$Q/V$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitance",
+    "familyId": "unit_of_capacitance",
+    "questionText": "The SI unit of capacitance is:",
+    "questionLatex": "",
+    "options": [
+      "Volt",
+      "Farad",
+      "Coulomb",
+      "Henry"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Farad"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Parallel Plate Capacitor",
+    "familyId": "parallel_plate_capacitance",
+    "questionText": "The capacitance of a parallel plate capacitor in vacuum is:",
+    "questionLatex": "$C=\\frac{\\varepsilon_0A}{d}$",
+    "options": [
+      "$\\frac{\\varepsilon_0A}{d}$",
+      "$\\frac{d}{\\varepsilon_0A}$",
+      "$\\varepsilon_0Ad$",
+      "$\\frac{A}{d^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$C = \\frac{\\varepsilon_0A}{d}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitance Dependence",
+    "familyId": "capacitance_area_dependence",
+    "questionText": "The capacitance of a parallel plate capacitor is directly proportional to:",
+    "questionLatex": "$C\\propto A$",
+    "options": [
+      "Plate separation",
+      "Square of separation",
+      "Area of plates",
+      "Potential difference"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Area of plates"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitance Dependence",
+    "familyId": "capacitance_distance_dependence",
+    "questionText": "The capacitance of a parallel plate capacitor is inversely proportional to:",
+    "questionLatex": "$C\\propto\\frac{1}{d}$",
+    "options": [
+      "Area",
+      "Charge",
+      "Potential",
+      "Distance between plates"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Distance between plates"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Dielectrics",
+    "familyId": "dielectric_definition",
+    "questionText": "A dielectric is a material that:",
+    "questionLatex": "",
+    "options": [
+      "Allows free flow of charges",
+      "Has zero resistance",
+      "Does not conduct electricity but can be polarized",
+      "Stores magnetic energy only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Does not conduct electricity but can be polarized"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Dielectric Constant",
+    "familyId": "dielectric_constant_definition",
+    "questionText": "The dielectric constant $K$ of a medium is defined as:",
+    "questionLatex": "$K=\\frac{\\varepsilon}{\\varepsilon_0}$",
+    "options": [
+      "$\\frac{\\varepsilon_0}{\\varepsilon}$",
+      "$\\frac{\\varepsilon}{\\varepsilon_0}$",
+      "$\\varepsilon\\varepsilon_0$",
+      "$\\frac{1}{\\varepsilon\\varepsilon_0}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{\\varepsilon}{\\varepsilon_0}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitance with Dielectric",
+    "familyId": "capacitance_dielectric_formula",
+    "questionText": "The capacitance of a parallel plate capacitor completely filled with a dielectric medium of dielectric constant $K$ is:",
+    "questionLatex": "$C=\\frac{K\\varepsilon_0A}{d}$",
+    "options": [
+      "$\\frac{\\varepsilon_0A}{d}$",
+      "$\\frac{K\\varepsilon_0A}{d}$",
+      "$\\frac{\\varepsilon_0A}{Kd}$",
+      "$\\frac{KA}{d}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$C = \\frac{K\\varepsilon_0A}{d}$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Effect of Dielectric",
+    "familyId": "dielectric_effect_capacitance",
+    "questionText": "On introducing a dielectric slab completely between the plates of a capacitor, its capacitance:",
+    "questionLatex": "$C'=KC$",
+    "options": [
+      "Decreases",
+      "Remains unchanged",
+      "Increases",
+      "Becomes zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Increases"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitors in Series",
+    "familyId": "series_capacitor_formula",
+    "questionText": "For capacitors connected in series, the equivalent capacitance is given by:",
+    "questionLatex": "\\frac{1}{C}=\\frac{1}{C_1}+\\frac{1}{C_2}+\\cdots",
+    "options": [
+      "$C=C_1+C_2$",
+      "$\\frac{1}{C}=\\frac{1}{C_1}+\\frac{1}{C_2}$",
+      "$C=C_1C_2$",
+      "$C=\\frac{C_1}{C_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{C}=\\frac{1}{C_1}+\\frac{1}{C_2}+\\cdots$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitors in Parallel",
+    "familyId": "parallel_capacitor_formula",
+    "questionText": "For capacitors connected in parallel, the equivalent capacitance is:",
+    "questionLatex": "$C=C_1+C_2+\\cdots$",
+    "options": [
+      "$\\frac{1}{C}=\\frac{1}{C_1}+\\frac{1}{C_2}$",
+      "$C=C_1+C_2+\\cdots$",
+      "$C=C_1C_2$",
+      "$C=\\frac{C_1C_2}{C_1+C_2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$C=C_1+C_2+\\cdots$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitors in Series",
+    "familyId": "series_charge_property",
+    "questionText": "For capacitors connected in series, which quantity remains the same across each capacitor?",
+    "questionLatex": "$Q_1=Q_2=\\cdots$",
+    "options": [
+      "Potential difference",
+      "Capacitance",
+      "Charge",
+      "Energy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Charge"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitors in Parallel",
+    "familyId": "parallel_voltage_property",
+    "questionText": "For capacitors connected in parallel, which quantity remains the same across each capacitor?",
+    "questionLatex": "$V_1=V_2=\\cdots$",
+    "options": [
+      "Charge",
+      "Potential difference",
+      "Capacitance",
+      "Area"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Potential difference"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Series Combination",
+    "familyId": "series_numerical",
+    "questionText": "Two capacitors of capacitances $2\\text{ }\\mu\\text{F}$ and $3\\text{ }\\mu\\text{F}$ are connected in series. Find the equivalent capacitance.",
+    "questionLatex": "$C=\\frac{C_1C_2}{C_1+C_2}$",
+    "options": [
+      "$1.2\\text{ }\\mu\\text{F}$",
+      "$2.5\\text{ }\\mu\\text{F}$",
+      "$5\\text{ }\\mu\\text{F}$",
+      "$6\\text{ }\\mu\\text{F}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$1.2\\text{ }\\mu\\text{F}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Parallel Combination",
+    "familyId": "parallel_numerical",
+    "questionText": "Two capacitors of capacitances $2\\text{ }\\mu\\text{F}$ and $3\\text{ }\\mu\\text{F}$ are connected in parallel. Find the equivalent capacitance.",
+    "questionLatex": "$C=C_1+C_2$",
+    "options": [
+      "$1.2\\text{ }\\mu\\text{F}$",
+      "$2.5\\text{ }\\mu\\text{F}$",
+      "$5\\text{ }\\mu\\text{F}$",
+      "$6\\text{ }\\mu\\text{F}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$5\\text{ }\\mu\\text{F}$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Stored in Capacitor",
+    "familyId": "energy_formula_half_cv2",
+    "questionText": "The energy stored in a charged capacitor is given by:",
+    "questionLatex": "$U=\\frac{1}{2}CV^2$",
+    "options": [
+      "$CV^2$",
+      "$\\frac{1}{2}CV^2$",
+      "$\\frac{CV^2}{4}$",
+      "$2CV^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{2}CV^2$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Stored in Capacitor",
+    "familyId": "energy_formula_qv",
+    "questionText": "Which of the following is a correct expression for the energy stored in a capacitor?",
+    "questionLatex": "$U=\\frac{1}{2}QV$",
+    "options": [
+      "$\\frac{1}{2}QV$",
+      "$QV$",
+      "$\\frac{Q}{V}$",
+      "$\\frac{V}{Q}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$\\frac{1}{2}QV$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Stored in Capacitor",
+    "familyId": "energy_formula_q2c",
+    "questionText": "The energy stored in a capacitor can also be written as:",
+    "questionLatex": "$U=\\frac{Q^2}{2C}$",
+    "options": [
+      "$\\frac{Q^2}{C}$",
+      "$\\frac{Q^2}{2C}$",
+      "$\\frac{CQ^2}{2}$",
+      "$\\frac{C}{Q^2}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{Q^2}{2C}$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Density",
+    "familyId": "energy_density_formula",
+    "questionText": "The energy density of an electric field is:",
+    "questionLatex": "$u=\\frac{1}{2}\\varepsilon_0E^2$",
+    "options": [
+      "$\\varepsilon_0E^2$",
+      "$\\frac{1}{2}\\varepsilon_0E^2$",
+      "$\\frac{E^2}{2\\varepsilon_0}$",
+      "$\\varepsilon_0E$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$\\frac{1}{2}\\varepsilon_0E^2$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Stored in Capacitor",
+    "familyId": "energy_unit",
+    "questionText": "The SI unit of energy stored in a capacitor is:",
+    "questionLatex": "",
+    "options": [
+      "Volt",
+      "Farad",
+      "Joule",
+      "Coulomb"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Joule"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Parallel Plate Capacitor",
+    "familyId": "electric_field_between_plates",
+    "questionText": "The electric field between the plates of a parallel plate capacitor is:",
+    "questionLatex": "$E=\\frac{V}{d}$",
+    "options": [
+      "Uniform",
+      "Non-uniform",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Uniform"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitor Numericals",
+    "familyId": "capacitance_numerical",
+    "questionText": "A capacitor stores a charge of $20\\text{ }\\mu\\text{C}$ when connected across a potential difference of $10\\text{ V}$. Find its capacitance.",
+    "questionLatex": "$C=\\frac{Q}{V}$",
+    "options": [
+      "$1\\text{ }\\mu\\text{F}$",
+      "$2\\text{ }\\mu\\text{F}$",
+      "$5\\text{ }\\mu\\text{F}$",
+      "$10\\text{ }\\mu\\text{F}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$2\\text{ }\\mu\\text{F}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Capacitor Numericals",
+    "familyId": "energy_numerical",
+    "questionText": "Calculate the energy stored in a capacitor of capacitance $4\\text{ }\\mu\\text{F}$ charged to a potential difference of $100\\text{ V}$.",
+    "questionLatex": "$U=\\frac{1}{2}CV^2$",
+    "options": [
+      "$0.01\\text{ J}$",
+      "$0.02\\text{ J}$",
+      "$0.04\\text{ J}$",
+      "$0.08\\text{ J}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$0.02\\text{ J}$"
+    },
+    "difficultyScore": 35,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Dielectrics",
+    "familyId": "dielectric_constant_effect",
+    "questionText": "If a dielectric of constant $K$ is inserted completely between the plates of an isolated capacitor, the capacitance becomes:",
+    "questionLatex": "$C'=KC$",
+    "options": [
+      "$C/K$",
+      "$KC$",
+      "$C$",
+      "$K^2C$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$KC$"
+    },
+    "difficultyScore": 25,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Energy Density",
+    "familyId": "energy_density_concept",
+    "questionText": "Energy in a charged capacitor is stored in:",
+    "questionLatex": "",
+    "options": [
+      "The plates only",
+      "The connecting wires",
+      "The electric field between the plates",
+      "The dielectric alone"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "The electric field between the plates"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

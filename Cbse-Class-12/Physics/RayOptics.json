@@ -1,0 +1,1110 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Introduction to Ray Optics",
+    "familyId": "light_wavelength_range",
+    "questionText": "Electromagnetic radiation belonging to the visible region of the spectrum has wavelength approximately in the range:",
+    "questionLatex": "$400\\text{ nm to }750\\text{ nm}$",
+    "options": [
+      "100 nm to 300 nm",
+      "400 nm to 750 nm",
+      "750 nm to 1000 nm",
+      "1 μm to 10 μm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "400 nm to 750 nm"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Laws of Reflection",
+    "familyId": "law_of_reflection_angle",
+    "questionText": "State the first law of reflection of light.",
+    "questionLatex": "$\\angle i = \\angle r$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The angle of reflection is equal to the angle of incidence."
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Laws of Reflection",
+    "familyId": "reflection_plane",
+    "questionText": "The incident ray, reflected ray, and the normal at the point of incidence lie in:",
+    "questionLatex": "$\\text{Reflection of Light}$",
+    "options": [
+      "Three different planes",
+      "The same plane",
+      "Two mutually perpendicular planes",
+      "A curved surface"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "The same plane"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Spherical Mirrors",
+    "familyId": "principal_axis_definition",
+    "questionText": "Define the principal axis of a spherical mirror.",
+    "questionLatex": "$\\text{Principal Axis}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The principal axis is the straight line joining the pole and the centre of curvature of a spherical mirror."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Sign Convention",
+    "familyId": "cartesian_sign_convention",
+    "questionText": "According to the Cartesian sign convention, distances measured in the direction of incident light are taken as:",
+    "questionLatex": "$\\text{Cartesian Sign Convention}$",
+    "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Positive"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Sign Convention",
+    "familyId": "height_sign_convention",
+    "questionText": "According to the Cartesian sign convention, heights measured upward from the principal axis are considered:",
+    "questionLatex": "$h > 0$",
+    "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Positive"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Focal Length of Mirrors",
+    "familyId": "focus_definition",
+    "questionText": "What is the principal focus of a spherical mirror?",
+    "questionLatex": "$\\text{Principal Focus}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The principal focus is the point on the principal axis where paraxial rays parallel to the principal axis converge or appear to diverge after reflection."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Focal Length of Mirrors",
+    "familyId": "focal_length_radius_relation",
+    "questionText": "Write the relation between focal length and radius of curvature of a spherical mirror.",
+    "questionLatex": "$f = \\frac{R}{2}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$f = \\frac{R}{2}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Equation",
+    "familyId": "mirror_equation",
+    "questionText": "Write the mirror formula for a spherical mirror.",
+    "questionLatex": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Numerical",
+    "familyId": "mirror_focal_length_numerical",
+    "questionText": "A spherical mirror has a radius of curvature of 40 cm. Calculate its focal length.",
+    "questionLatex": "$f = \\frac{R}{2}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 20,
+      "unit": "cm",
+      "steps": [
+        "Given $R = 40\\text{ cm}$",
+        "$f = \\frac{R}{2}$",
+        "$f = \\frac{40}{2}$",
+        "$f = 20\\text{ cm}$"
+      ]
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Magnification",
+    "familyId": "mirror_magnification_definition",
+    "questionText": "Define linear magnification produced by a spherical mirror.",
+    "questionLatex": "$m = \\frac{h'}{h}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Linear magnification is the ratio of the height of the image to the height of the object."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Magnification",
+    "familyId": "mirror_magnification_formula",
+    "questionText": "Write the relation between magnification, image distance and object distance for a spherical mirror.",
+    "questionLatex": "$m = -\\frac{v}{u}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$m = -\\frac{v}{u}$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Image Formation by Mirrors",
+    "familyId": "real_image_definition",
+    "questionText": "What is a real image?",
+    "questionLatex": "$\\text{Real Image}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A real image is formed when reflected or refracted rays actually converge at a point."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Image Formation by Mirrors",
+    "familyId": "virtual_image_definition",
+    "questionText": "What is a virtual image?",
+    "questionLatex": "$\\text{Virtual Image}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A virtual image is formed when rays do not actually meet but appear to diverge from a point when produced backward."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Ray Tracing Rules",
+    "familyId": "parallel_ray_rule",
+    "questionText": "A ray parallel to the principal axis of a concave mirror after reflection passes through:",
+    "questionLatex": "$\\text{Reflection Rule}$",
+    "options": [
+      "Pole",
+      "Centre of curvature",
+      "Principal focus",
+      "Optical centre"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Principal focus"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Ray Tracing Rules",
+    "familyId": "centre_curvature_ray",
+    "questionText": "A ray passing through the centre of curvature of a concave mirror is reflected:",
+    "questionLatex": "$\\text{Ray through } C$",
+    "options": [
+      "Parallel to principal axis",
+      "Through focus",
+      "At 90° to principal axis",
+      "Back along the same path"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Back along the same path"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Ray Tracing Rules",
+    "familyId": "focus_ray_rule",
+    "questionText": "A ray passing through the principal focus of a concave mirror after reflection becomes:",
+    "questionLatex": "$\\text{Focus Ray}$",
+    "options": [
+      "Parallel to principal axis",
+      "Passes through centre of curvature",
+      "Perpendicular to axis",
+      "Retraces its path"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Parallel to principal axis"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Convex Mirrors",
+    "familyId": "convex_mirror_image",
+    "questionText": "The image formed by a convex mirror is always:",
+    "questionLatex": "$\\text{Convex Mirror}$",
+    "options": [
+      "Real and inverted",
+      "Virtual and erect",
+      "Real and erect",
+      "Virtual and inverted"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Virtual and erect"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Equation Numerical",
+    "familyId": "concave_mirror_numerical",
+    "questionText": "An object is placed 30 cm in front of a concave mirror of focal length 15 cm. Calculate the image distance.",
+    "questionLatex": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": -30,
+      "unit": "cm",
+      "steps": [
+        "$u = -30\\text{ cm}, f = -15\\text{ cm}$",
+        "$\\frac{1}{v} + \\frac{1}{-30} = \\frac{1}{-15}$",
+        "$\\frac{1}{v} = -\\frac{1}{15} + \\frac{1}{30}$",
+        "$\\frac{1}{v} = -\\frac{1}{30}$",
+        "$v = -30\\text{ cm}$"
+      ]
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Mirror Magnification Numerical",
+    "familyId": "mirror_magnification_numerical",
+    "questionText": "An object is placed 20 cm in front of a concave mirror and its image is formed 60 cm from the mirror. Calculate the magnification.",
+    "questionLatex": "$m = -\\frac{v}{u}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": -3,
+      "steps": [
+        "$u = -20\\text{ cm}$",
+        "$v = -60\\text{ cm}$",
+        "$m = -\\frac{v}{u}$",
+        "$m = -\\frac{-60}{-20}$",
+        "$m = -3$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction of Light",
+    "familyId": "refraction_definition",
+    "questionText": "What is refraction of light?",
+    "questionLatex": "$\\text{Refraction of Light}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Refraction is the change in the direction of propagation of light when it passes obliquely from one transparent medium to another."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Laws of Refraction",
+    "familyId": "snells_law_statement",
+    "questionText": "State Snell's law of refraction.",
+    "questionLatex": "$\\frac{\\sin i}{\\sin r} = \\text{constant}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "For a given pair of media, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Laws of Refraction",
+    "familyId": "refractive_index_formula",
+    "questionText": "Write the expression for the refractive index of a medium with respect to vacuum.",
+    "questionLatex": "$n = \\frac{c}{v}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n = \\frac{c}{v}$"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refractive Index",
+    "familyId": "optically_denser_medium",
+    "questionText": "A medium having a higher refractive index is called:",
+    "questionLatex": "$n$",
+    "options": [
+      "Optically rarer medium",
+      "Optically denser medium",
+      "Transparent medium",
+      "Reflecting medium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Optically denser medium"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction Through Plane Surface",
+    "familyId": "ray_towards_normal",
+    "questionText": "When light travels from a rarer medium to a denser medium, the refracted ray bends:",
+    "questionLatex": "$\\text{Refraction}$",
+    "options": [
+      "Away from the normal",
+      "Towards the normal",
+      "Parallel to the interface",
+      "At 90° to the normal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Towards the normal"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction Through Plane Surface",
+    "familyId": "ray_away_normal",
+    "questionText": "When light travels from a denser medium to a rarer medium, the refracted ray bends:",
+    "questionLatex": "$\\text{Refraction}$",
+    "options": [
+      "Towards the normal",
+      "Away from the normal",
+      "Towards the pole",
+      "Towards the focus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Away from the normal"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Apparent Depth",
+    "familyId": "apparent_depth_relation",
+    "questionText": "Write the relation between real depth, apparent depth and refractive index for normal viewing.",
+    "questionLatex": "$n = \\frac{\\text{Real Depth}}{\\text{Apparent Depth}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n = \\frac{\\text{Real Depth}}{\\text{Apparent Depth}}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction Numerical",
+    "familyId": "refractive_index_numerical",
+    "questionText": "The speed of light in a medium is $2 \\times 10^8 \\text{ m s}^{-1}$. Calculate the refractive index of the medium.",
+    "questionLatex": "$n = \\frac{c}{v}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1.5,
+      "steps": [
+        "$n = \\frac{c}{v}$",
+        "$n = \\frac{3 \\times 10^8}{2 \\times 10^8}$",
+        "$n = 1.5$"
+      ]
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Snell's Law Numerical",
+    "familyId": "snells_law_numerical",
+    "questionText": "Light travels from air into glass of refractive index 1.5 with an angle of incidence 30°. Calculate the angle of refraction.",
+    "questionLatex": "$n_1\\sin i = n_2\\sin r$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 19.47,
+      "unit": "degree",
+      "steps": [
+        "$1 \\times \\sin(30^\\circ) = 1.5 \\times \\sin(r)$",
+        "$0.5 = 1.5 \\times \\sin(r)$",
+        "$\\sin(r) = \\frac{1}{3} \\approx 0.333$",
+        "$r = \\sin^{-1}(0.333) \\approx 19.47^\\circ$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Apparent Depth Numerical",
+    "familyId": "apparent_depth_numerical",
+    "questionText": "A coin is placed at the bottom of a water tank of depth 60 cm. If the refractive index of water is 1.33, calculate the apparent depth of the coin.",
+    "questionLatex": "$n = \\frac{\\text{Real Depth}}{\\text{Apparent Depth}}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 45.11,
+      "unit": "cm",
+      "steps": [
+        "$\\text{Apparent Depth} = \\frac{\\text{Real Depth}}{n}$",
+        "$\\text{Apparent Depth} = \\frac{60}{1.33}$",
+        "$\\text{Apparent Depth} \\approx 45.11\\text{ cm}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "familyId": "tir_definition",
+    "questionText": "What is total internal reflection?",
+    "questionLatex": "$\\text{Total Internal Reflection}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Total internal reflection is the phenomenon in which a ray of light travelling from a denser medium to a rarer medium is completely reflected back into the denser medium when the angle of incidence exceeds the critical angle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "familyId": "tir_conditions",
+    "questionText": "Which of the following is a necessary condition for total internal reflection?",
+    "questionLatex": "$\\theta_i > \\theta_c$",
+    "options": [
+      "Light must travel from rarer to denser medium",
+      "Light must travel from denser to rarer medium",
+      "Angle of incidence must be zero",
+      "Refractive indices of both media must be equal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Light must travel from denser to rarer medium"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle",
+    "familyId": "critical_angle_definition",
+    "questionText": "Define critical angle.",
+    "questionLatex": "$\\theta_c$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle",
+    "familyId": "critical_angle_formula",
+    "questionText": "Write the relation between critical angle and refractive index of a medium with respect to air.",
+    "questionLatex": "$\\sin \\theta_c = \\frac{1}{n}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\sin \\theta_c = \\frac{1}{n}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Applications of TIR",
+    "familyId": "optical_fibre_principle",
+    "questionText": "The working of an optical fibre is based on:",
+    "questionLatex": "$\\text{Optical Fibre}$",
+    "options": [
+      "Interference",
+      "Diffraction",
+      "Total internal reflection",
+      "Polarisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Total internal reflection"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_definition",
+    "questionText": "What is a prism?",
+    "questionLatex": "$\\text{Prism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A prism is a transparent refracting medium bounded by two plane surfaces inclined at an angle to each other."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_angle_definition",
+    "questionText": "What is the angle of prism?",
+    "questionLatex": "$A$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The angle between the two refracting surfaces of a prism is called the angle of prism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "minimum_deviation_condition",
+    "questionText": "At minimum deviation in a prism, the angle of incidence and angle of emergence are:",
+    "questionLatex": "$i = e$",
+    "options": [
+      "Unequal",
+      "Equal",
+      "Zero",
+      "Supplementary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Equal"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_refractive_index_formula",
+    "questionText": "Write the expression for the refractive index of the material of a prism at minimum deviation.",
+    "questionLatex": "$n = \\frac{\\sin\\left(\\frac{A+\\delta_m}{2}\\right)}{\\sin\\left(\\frac{A}{2}\\right)}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n = \\frac{\\sin\\left(\\frac{A+\\delta_m}{2}\\right)}{\\sin\\left(\\frac{A}{2}\\right)}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle Numerical",
+    "familyId": "critical_angle_numerical",
+    "questionText": "Calculate the critical angle for a medium of refractive index 1.5 with respect to air.",
+    "questionLatex": "$\\sin \\theta_c = \\frac{1}{n}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 41.81,
+      "unit": "degree",
+      "steps": [
+        "$\\sin \\theta_c = \\frac{1}{n}$",
+        "$\\sin \\theta_c = \\frac{1}{1.5}$",
+        "$\\sin \\theta_c = 0.667$",
+        "$\\theta_c = \\sin^{-1}(0.667)$",
+        "$\\theta_c = 41.81^\\circ$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "familyId": "tir_definition",
+    "questionText": "What is total internal reflection?",
+    "questionLatex": "$\\text{Total Internal Reflection}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Total internal reflection is the phenomenon in which a ray of light travelling from a denser medium to a rarer medium is completely reflected back into the denser medium when the angle of incidence exceeds the critical angle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Total Internal Reflection",
+    "familyId": "tir_conditions",
+    "questionText": "Which of the following is a necessary condition for total internal reflection?",
+    "questionLatex": "$\\theta_i > \\theta_c$",
+    "options": [
+      "Light must travel from rarer to denser medium",
+      "Light must travel from denser to rarer medium",
+      "Angle of incidence must be zero",
+      "Refractive indices of both media must be equal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Light must travel from denser to rarer medium"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle",
+    "familyId": "critical_angle_definition",
+    "questionText": "Define critical angle.",
+    "questionLatex": "$\\theta_c$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle",
+    "familyId": "critical_angle_formula",
+    "questionText": "Write the relation between critical angle and refractive index of a medium with respect to air.",
+    "questionLatex": "$\\sin \\theta_c = \\frac{1}{n}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\sin \\theta_c = \\frac{1}{n}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Applications of TIR",
+    "familyId": "optical_fibre_principle",
+    "questionText": "The working of an optical fibre is based on:",
+    "questionLatex": "$\\text{Optical Fibre}$",
+    "options": [
+      "Interference",
+      "Diffraction",
+      "Total internal reflection",
+      "Polarisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Total internal reflection"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_definition",
+    "questionText": "What is a prism?",
+    "questionLatex": "$\\text{Prism}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A prism is a transparent refracting medium bounded by two plane surfaces inclined at an angle to each other."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_angle_definition",
+    "questionText": "What is the angle of prism?",
+    "questionLatex": "$A$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The angle between the two refracting surfaces of a prism is called the angle of prism."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "minimum_deviation_condition",
+    "questionText": "At minimum deviation in a prism, the angle of incidence and angle of emergence are:",
+    "questionLatex": "$i = e$",
+    "options": [
+      "Unequal",
+      "Equal",
+      "Zero",
+      "Supplementary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Equal"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Prism",
+    "familyId": "prism_refractive_index_formula",
+    "questionText": "Write the expression for the refractive index of the material of a prism at minimum deviation.",
+    "questionLatex": "$n = \\frac{\\sin\\left(\\frac{A+\\delta_m}{2}\\right)}{\\sin\\left(\\frac{A}{2}\\right)}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$n = \\frac{\\sin\\left(\\frac{A+\\delta_m}{2}\\right)}{\\sin\\left(\\frac{A}{2}\\right)}$"
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Critical Angle Numerical",
+    "familyId": "critical_angle_numerical",
+    "questionText": "Calculate the critical angle for a medium of refractive index 1.5 with respect to air.",
+    "questionLatex": "$\\sin \\theta_c = \\frac{1}{n}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 41.81,
+      "unit": "degree",
+      "steps": [
+        "$\\sin \\theta_c = \\frac{1}{n}$",
+        "$\\sin \\theta_c = \\frac{1}{1.5}$",
+        "$\\sin \\theta_c = 0.667$",
+        "$\\theta_c = \\sin^{-1}(0.667)$",
+        "$\\theta_c = 41.81^\\circ$"
+      ]
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

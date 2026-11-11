@@ -1,0 +1,1186 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Introduction",
+    "familyId": "maxwell_prediction",
+    "questionText": "Who predicted the existence of electromagnetic waves on the basis of electromagnetic theory?",
+    "questionLatex": "$\\text{Electromagnetic Waves}$",
+    "options": [
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Heinrich Hertz",
+      "André Ampère"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "James Clerk Maxwell"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "familyId": "displacement_current_definition",
+    "questionText": "What is displacement current?",
+    "questionLatex": "$i_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Displacement current is the current associated with a time-varying electric field and is given by $\\varepsilon_0 \\frac{d\\Phi_E}{dt}$."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "familyId": "displacement_current_formula",
+    "questionText": "Write the expression for displacement current.",
+    "questionLatex": "$i_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$i_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt}$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Ampere-Maxwell Law",
+    "familyId": "ampere_maxwell_law",
+    "questionText": "Which law incorporates the concept of displacement current?",
+    "questionLatex": "$\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 \\left(i_c + \\varepsilon_0 \\frac{d\\Phi_E}{dt}\\right)$",
+    "options": [
+      "Gauss's law",
+      "Faraday's law",
+      "Ampere-Maxwell law",
+      "Coulomb's law"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Ampere-Maxwell law"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "familyId": "capacitor_displacement_current",
+    "questionText": "Inside a charging capacitor, the current between the plates is:",
+    "questionLatex": "$i_d = i$",
+    "options": [
+      "Conduction current only",
+      "Displacement current only",
+      "Both conduction and displacement currents",
+      "No current"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Displacement current only"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current",
+    "familyId": "outside_capacitor_current",
+    "questionText": "Outside the plates of a charging capacitor, the current is:",
+    "questionLatex": "$i_c = i$",
+    "options": [
+      "Displacement current only",
+      "Conduction current only",
+      "No current",
+      "Magnetic current"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Conduction current only"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Theory",
+    "familyId": "changing_field_relation",
+    "questionText": "A changing electric field produces:",
+    "questionLatex": "$\\frac{d\\vec{E}}{dt}$",
+    "options": [
+      "Only electric field",
+      "Magnetic field",
+      "Gravitational field",
+      "No effect"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Magnetic field"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Theory",
+    "familyId": "changing_magnetic_field_relation",
+    "questionText": "A changing magnetic field produces:",
+    "questionLatex": "$\\frac{d\\vec{B}}{dt}$",
+    "options": [
+      "Electric field",
+      "Magnetic charge",
+      "Current only",
+      "Mechanical force only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Electric field"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Maxwell Equations",
+    "familyId": "maxwell_equations_count",
+    "questionText": "How many fundamental equations constitute Maxwell's equations in vacuum?",
+    "questionLatex": "$\\text{Maxwell's Equations}$",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "4"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Displacement Current Numerical",
+    "familyId": "displacement_current_numerical",
+    "questionText": "The electric flux through a surface changes uniformly from $2 \\times 10^3 \\text{ N m}^2 \\text{ C}^{-1}$ to $8 \\times 10^3 \\text{ N m}^2 \\text{ C}^{-1}$ in $0.01 \\text{ s}$. Calculate the displacement current.",
+    "questionLatex": "$i_d = \\varepsilon_0 \\frac{\\Delta\\Phi_E}{\\Delta t}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 5.31e-6,
+      "unit": "A",
+      "steps": [
+        "$\\Delta\\Phi_E = 8 \\times 10^3 - 2 \\times 10^3 = 6 \\times 10^3 \\text{ N m}^2 \\text{ C}^{-1}$",
+        "$\\Delta t = 0.01 \\text{ s}$",
+        "$i_d = \\varepsilon_0 \\frac{\\Delta\\Phi_E}{\\Delta t}$",
+        "$i_d = 8.85 \\times 10^{-12} \\times \\frac{6 \\times 10^3}{0.01}$",
+        "$i_d = 5.31 \\times 10^{-6} \\text{ A}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Sources of Electromagnetic Waves",
+    "familyId": "source_of_em_waves",
+    "questionText": "Electromagnetic waves are produced by:",
+    "questionLatex": "$\\text{EM Waves}$",
+    "options": [
+      "Stationary charges",
+      "Charges moving with uniform velocity",
+      "Accelerated charges",
+      "Neutral particles at rest"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Accelerated charges"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Sources of Electromagnetic Waves",
+    "familyId": "oscillating_charge_emission",
+    "questionText": "An electric charge oscillating with frequency $\\nu$ emits electromagnetic waves of frequency:",
+    "questionLatex": "$\\nu$",
+    "options": [
+      "$\\nu/2$",
+      "$2\\nu$",
+      "$\\nu$",
+      "$\\nu^2$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$\\nu$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Nature of Electromagnetic Waves",
+    "familyId": "em_wave_transverse",
+    "questionText": "Electromagnetic waves are:",
+    "questionLatex": "$\\vec{E} \\perp \\vec{B}$",
+    "options": [
+      "Longitudinal waves",
+      "Transverse waves",
+      "Surface waves",
+      "Stationary waves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Transverse waves"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Nature of Electromagnetic Waves",
+    "familyId": "field_orientation",
+    "questionText": "In an electromagnetic wave, the electric field and magnetic field are:",
+    "questionLatex": "$\\vec{E} \\perp \\vec{B}$",
+    "options": [
+      "Parallel to each other",
+      "Antiparallel to each other",
+      "Perpendicular to each other",
+      "At an angle of 45°"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Perpendicular to each other"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Nature of Electromagnetic Waves",
+    "familyId": "direction_of_propagation",
+    "questionText": "The direction of propagation of an electromagnetic wave is perpendicular to:",
+    "questionLatex": "$\\vec{E} \\times \\vec{B}$",
+    "options": [
+      "Electric field only",
+      "Magnetic field only",
+      "Both electric and magnetic fields",
+      "Neither electric nor magnetic field"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Both electric and magnetic fields"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Equation",
+    "familyId": "speed_of_em_wave",
+    "questionText": "Write the expression for the speed of electromagnetic waves in vacuum.",
+    "questionLatex": "$c = \\frac{1}{\\sqrt{\\mu_0\\varepsilon_0}}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$c = \\frac{1}{\\sqrt{\\mu_0\\varepsilon_0}}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Equation",
+    "familyId": "speed_of_light_value",
+    "questionText": "The speed of electromagnetic waves in vacuum is:",
+    "questionLatex": "$c = 3 \\times 10^8 \\text{ m s}^{-1}$",
+    "options": [
+      "$3 \\times 10^6 \\text{ m s}^{-1}$",
+      "$3 \\times 10^7 \\text{ m s}^{-1}$",
+      "$3 \\times 10^8 \\text{ m s}^{-1}$",
+      "$3 \\times 10^9 \\text{ m s}^{-1}$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$3 \\times 10^8 \\text{ m s}^{-1}$"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electric and Magnetic Fields",
+    "familyId": "field_magnitude_relation",
+    "questionText": "Write the relation between the amplitudes of electric and magnetic fields in an electromagnetic wave.",
+    "questionLatex": "$E_0 = cB_0$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$E_0 = cB_0$"
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Relations",
+    "familyId": "wave_velocity_relation",
+    "questionText": "Write the relation connecting frequency, wavelength and speed of an electromagnetic wave.",
+    "questionLatex": "$c = \\nu\\lambda$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$c = \\nu\\lambda$"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Numerical",
+    "familyId": "wavelength_calculation",
+    "questionText": "An electromagnetic wave has a frequency of $30 \\text{ MHz}$. Calculate its wavelength in vacuum.",
+    "questionLatex": "$\\lambda = \\frac{c}{\\nu}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 10,
+      "unit": "m",
+      "steps": [
+        "$\\nu = 30 \\times 10^6 \\text{ Hz}$",
+        "$c = 3 \\times 10^8 \\text{ m s}^{-1}$",
+        "$\\lambda = \\frac{c}{\\nu}$",
+        "$\\lambda = \\frac{3 \\times 10^8}{30 \\times 10^6}$",
+        "$\\lambda = 10 \\text{ m}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy in Electromagnetic Waves",
+    "familyId": "energy_density_electric",
+    "questionText": "Write the expression for the energy density associated with the electric field of an electromagnetic wave.",
+    "questionLatex": "$u_E = \\frac{1}{2}\\varepsilon_0 E^2$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$u_E = \\frac{1}{2}\\varepsilon_0 E^2$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy in Electromagnetic Waves",
+    "familyId": "energy_density_magnetic",
+    "questionText": "Write the expression for the energy density associated with the magnetic field of an electromagnetic wave.",
+    "questionLatex": "$u_B = \\frac{B^2}{2\\mu_0}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$u_B = \\frac{B^2}{2\\mu_0}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy in Electromagnetic Waves",
+    "familyId": "equal_energy_density",
+    "questionText": "In an electromagnetic wave, the energy density associated with the electric field is:",
+    "questionLatex": "$u_E = u_B$",
+    "options": [
+      "Greater than magnetic energy density",
+      "Less than magnetic energy density",
+      "Equal to magnetic energy density",
+      "Zero"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Equal to magnetic energy density"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy in Electromagnetic Waves",
+    "familyId": "total_energy_density",
+    "questionText": "Write the expression for the total energy density of an electromagnetic wave.",
+    "questionLatex": "$u = u_E + u_B = \\varepsilon_0 E^2 = \\frac{B^2}{\\mu_0}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$u = u_E + u_B = \\varepsilon_0 E^2 = \\frac{B^2}{\\mu_0}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Poynting Vector",
+    "familyId": "poynting_vector_definition",
+    "questionText": "What does the Poynting vector represent?",
+    "questionLatex": "$\\vec{S} = \\frac{1}{\\mu_0}(\\vec{E} \\times \\vec{B})$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The Poynting vector represents the rate of flow of electromagnetic energy per unit area perpendicular to the direction of propagation."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Poynting Vector",
+    "familyId": "poynting_vector_formula",
+    "questionText": "Write the expression for the Poynting vector.",
+    "questionLatex": "$\\vec{S} = \\frac{1}{\\mu_0}(\\vec{E} \\times \\vec{B})$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{S} = \\frac{1}{\\mu_0}(\\vec{E} \\times \\vec{B})$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Momentum of Electromagnetic Waves",
+    "familyId": "radiation_pressure_cause",
+    "questionText": "Radiation pressure exerted by electromagnetic waves is due to the fact that electromagnetic waves possess:",
+    "questionLatex": "$\\text{Radiation Pressure}$",
+    "options": [
+      "Only energy",
+      "Only charge",
+      "Energy and momentum",
+      "Only magnetic field"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Energy and momentum"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "spectrum_order_basic",
+    "questionText": "Which electromagnetic waves have the longest wavelength?",
+    "questionLatex": "$\\lambda$",
+    "options": [
+      "Gamma rays",
+      "X-rays",
+      "Radio waves",
+      "Ultraviolet rays"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Radio waves"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "spectrum_order_high_frequency",
+    "questionText": "Which electromagnetic waves have the highest frequency?",
+    "questionLatex": "$\\nu$",
+    "options": [
+      "Infrared rays",
+      "Visible light",
+      "X-rays",
+      "Gamma rays"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Gamma rays"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Numerical",
+    "familyId": "field_relation_numerical",
+    "questionText": "The amplitude of the electric field in an electromagnetic wave is $300 \\text{ V m}^{-1}$. Calculate the amplitude of the magnetic field.",
+    "questionLatex": "$E_0 = cB_0$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1e-6,
+      "unit": "T",
+      "steps": [
+        "$E_0 = cB_0$",
+        "$B_0 = \\frac{E_0}{c}$",
+        "$B_0 = \\frac{300}{3 \\times 10^8}$",
+        "$B_0 = 1 \\times 10^{-6} \\text{ T}$"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "radio_wave_range",
+    "questionText": "Which region of the electromagnetic spectrum is commonly used for radio and television communication?",
+    "questionLatex": "$\\text{Radio Waves}$",
+    "options": [
+      "Gamma rays",
+      "X-rays",
+      "Radio waves",
+      "Ultraviolet rays"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Radio waves"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "microwave_application",
+    "questionText": "Microwaves are widely used in:",
+    "questionLatex": "$\\text{Microwaves}$",
+    "options": [
+      "Medical radiography",
+      "Radar systems",
+      "Sterilization of surgical instruments",
+      "Detection of forged documents"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Radar systems"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "infrared_application",
+    "questionText": "Infrared radiation is commonly used in:",
+    "questionLatex": "$\\text{Infrared Radiation}$",
+    "options": [
+      "Remote control devices",
+      "Cancer therapy using gamma rays",
+      "Medical X-ray imaging",
+      "Nuclear reactions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Remote control devices"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "visible_range",
+    "questionText": "Visible light occupies the wavelength range approximately from:",
+    "questionLatex": "$400\\,\\text{nm} \\text{ to } 700\\,\\text{nm}$",
+    "options": [
+      "1 nm to 10 nm",
+      "100 nm to 200 nm",
+      "400 nm to 700 nm",
+      "1 mm to 10 mm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "400 nm to 700 nm"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "ultraviolet_application",
+    "questionText": "Ultraviolet radiation is commonly used for:",
+    "questionLatex": "$\\text{Ultraviolet Radiation}$",
+    "options": [
+      "Communication through satellites",
+      "Sterilization of surgical instruments",
+      "Cooking food in microwave ovens",
+      "FM radio broadcasting"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Sterilization of surgical instruments"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "xray_application",
+    "questionText": "X-rays are extensively used in:",
+    "questionLatex": "$\\text{X-rays}$",
+    "options": [
+      "Medical diagnosis",
+      "Radio communication",
+      "Television transmission",
+      "Cooking food"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Medical diagnosis"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "gamma_ray_application",
+    "questionText": "Gamma rays are commonly used in:",
+    "questionLatex": "$\\text{Gamma Rays}$",
+    "options": [
+      "Radar systems",
+      "Cancer treatment",
+      "Remote controls",
+      "Optical fibre communication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Cancer treatment"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "frequency_order",
+    "questionText": "Arrange the following electromagnetic radiations in increasing order of frequency: Infrared rays, Visible light, Ultraviolet rays, X-rays.",
+    "questionLatex": "$\\nu$",
+    "options": [
+      "X-rays < Ultraviolet < Visible < Infrared",
+      "Infrared < Visible < Ultraviolet < X-rays",
+      "Visible < Infrared < Ultraviolet < X-rays",
+      "Infrared < X-rays < Visible < Ultraviolet"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Infrared < Visible < Ultraviolet < X-rays"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "wavelength_order",
+    "questionText": "Arrange the following electromagnetic radiations in decreasing order of wavelength: Radio waves, Microwaves, Infrared rays, Visible light.",
+    "questionLatex": "$\\lambda$",
+    "options": [
+      "Visible > Infrared > Microwaves > Radio",
+      "Radio > Microwaves > Infrared > Visible",
+      "Microwaves > Radio > Infrared > Visible",
+      "Radio > Infrared > Microwaves > Visible"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Radio > Microwaves > Infrared > Visible"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum Numerical",
+    "familyId": "frequency_from_wavelength",
+    "questionText": "Calculate the frequency of an electromagnetic wave having wavelength 600 nm in vacuum.",
+    "questionLatex": "$\\nu = \\frac{c}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 5e14,
+      "unit": "Hz",
+      "steps": [
+        "$\\lambda = 600 \\times 10^{-9} \\text{ m}$",
+        "$\\nu = \\frac{c}{\\lambda}$",
+        "$\\nu = \\frac{3 \\times 10^8}{600 \\times 10^{-9}}$",
+        "$\\nu = 5 \\times 10^{14} \\text{ Hz}$"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "visible_light_nature",
+    "questionText": "Visible light is a part of the electromagnetic spectrum that can be detected by:",
+    "questionLatex": "$\\text{Visible Light}$",
+    "options": [
+      "Human eye",
+      "Radio receiver only",
+      "Radar system only",
+      "Geiger counter only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Human eye"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Properties of Electromagnetic Waves",
+    "familyId": "em_wave_medium",
+    "questionText": "Electromagnetic waves can propagate through:",
+    "questionLatex": "$\\text{Propagation of EM Waves}$",
+    "options": [
+      "Only solids",
+      "Only gases",
+      "Only material media",
+      "Vacuum as well as material media"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "Vacuum as well as material media"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Properties of Electromagnetic Waves",
+    "familyId": "em_wave_charge_transport",
+    "questionText": "Electromagnetic waves transport:",
+    "questionLatex": "$\\text{EM Wave Transport}$",
+    "options": [
+      "Charge only",
+      "Mass only",
+      "Energy and momentum",
+      "Electric charge and mass"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Energy and momentum"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Properties of Electromagnetic Waves",
+    "familyId": "em_wave_speed_medium",
+    "questionText": "The speed of electromagnetic waves in a material medium is generally:",
+    "questionLatex": "$v < c$",
+    "options": [
+      "Equal to c",
+      "Greater than c",
+      "Less than c",
+      "Independent of medium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Less than c"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electric and Magnetic Fields",
+    "familyId": "field_ratio_relation",
+    "questionText": "Write the relation between the electric field intensity and magnetic field intensity in free space.",
+    "questionLatex": "$\\frac{E_0}{B_0} = c$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\frac{E_0}{B_0} = c$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy Transport",
+    "familyId": "intensity_definition",
+    "questionText": "Define intensity of an electromagnetic wave.",
+    "questionLatex": "$I = \\frac{P}{A}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Intensity of an electromagnetic wave is the average energy transmitted per unit time per unit area perpendicular to the direction of propagation."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy Transport",
+    "familyId": "intensity_field_relation",
+    "questionText": "The intensity of an electromagnetic wave is proportional to:",
+    "questionLatex": "$I \\propto E_0^2$",
+    "options": [
+      "$E_0$",
+      "$B_0$",
+      "$E_0^2$",
+      "$1/E_0$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$E_0^2$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Electromagnetic Spectrum",
+    "familyId": "spectrum_complete_order",
+    "questionText": "Arrange the following electromagnetic radiations in increasing order of frequency: Radio waves, Microwaves, Infrared rays, Visible light, Ultraviolet rays, X-rays, Gamma rays.",
+    "questionLatex": "$\\nu$",
+    "options": [
+      "Gamma rays < X-rays < Ultraviolet < Visible < Infrared < Microwaves < Radio waves",
+      "Radio waves < Microwaves < Infrared < Visible light < Ultraviolet rays < X-rays < Gamma rays",
+      "Radio waves < Infrared < Microwaves < Visible < Ultraviolet < Gamma rays < X-rays",
+      "Microwaves < Radio waves < Infrared < Visible < X-rays < Ultraviolet < Gamma rays"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Radio waves < Microwaves < Infrared < Visible light < Ultraviolet rays < X-rays < Gamma rays"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Energy Density Numerical",
+    "familyId": "electric_field_energy_density",
+    "questionText": "Calculate the electric energy density of an electromagnetic wave if the electric field amplitude is $100 \\text{ V m}^{-1}$.",
+    "questionLatex": "$u_E = \\frac{1}{2}\\varepsilon_0 E^2$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 4.425e-8,
+      "unit": "J m^-3",
+      "steps": [
+        "$u_E = \\frac{1}{2} \\varepsilon_0 E^2$",
+        "$u_E = 0.5 \\times 8.85 \\times 10^{-12} \\times (100)^2$",
+        "$u_E = 4.425 \\times 10^{-8} \\text{ J m}^{-3}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Wave Numerical",
+    "familyId": "frequency_from_energy_relation",
+    "questionText": "An electromagnetic wave has a wavelength of 3 m. Calculate its frequency in vacuum.",
+    "questionLatex": "$\\nu = \\frac{c}{\\lambda}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 1e8,
+      "unit": "Hz",
+      "steps": [
+        "$\\nu = \\frac{c}{\\lambda}$",
+        "$\\nu = \\frac{3 \\times 10^8}{3}$",
+        "$\\nu = 1 \\times 10^8 \\text{ Hz}$"
+      ]
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]

@@ -1,0 +1,1132 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Introduction to Magnetism",
+    "familyId": "earth_as_magnet",
+    "questionText": "The Earth behaves approximately as a:",
+    "questionLatex": "$\\text{Earth's magnetic nature}$",
+    "options": [
+      "Electric dipole",
+      "Magnetic dipole",
+      "Current loop",
+      "Magnetic monopole"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Magnetic dipole"
+    },
+    "difficultyScore": 15,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Bar Magnet",
+    "familyId": "freely_suspended_magnet",
+    "questionText": "When a bar magnet is freely suspended, in which direction does it align itself?",
+    "questionLatex": "$\\text{Direction of a freely suspended magnet}$",
+    "options": [
+      "East-West",
+      "North-South",
+      "North-East",
+      "South-East"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "North-South"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Poles",
+    "familyId": "like_poles_interaction",
+    "questionText": "What happens when two north poles of magnets are brought close together?",
+    "questionLatex": "$\\text{Interaction of like poles}$",
+    "options": [
+      "They attract each other",
+      "They repel each other",
+      "No force acts",
+      "They lose magnetism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "They repel each other"
+    },
+    "difficultyScore": 10,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Monopoles",
+    "familyId": "magnetic_monopole_concept",
+    "questionText": "Why can magnetic monopoles not be obtained by cutting a bar magnet into two pieces?",
+    "questionLatex": "$\\text{Magnetic monopoles}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "When a bar magnet is cut, each piece becomes a smaller magnet having both north and south poles. Isolated magnetic poles do not exist."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Field Lines",
+    "familyId": "field_line_property_closed_loop",
+    "questionText": "Which of the following is a correct property of magnetic field lines?",
+    "questionLatex": "$\\text{Magnetic field lines}$",
+    "options": [
+      "They begin at north pole and end at south pole",
+      "They form continuous closed loops",
+      "They originate from magnetic monopoles",
+      "They terminate at infinity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "They form continuous closed loops"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Field Lines",
+    "familyId": "field_line_tangent",
+    "questionText": "What does the tangent drawn to a magnetic field line at a point represent?",
+    "questionLatex": "$\\vec{B}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The tangent to a magnetic field line at a point gives the direction of the magnetic field at that point."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Field Lines",
+    "familyId": "field_line_density",
+    "questionText": "The strength of a magnetic field at a point is indicated by:",
+    "questionLatex": "$\\text{Magnetic field strength}$",
+    "options": [
+      "Length of field lines",
+      "Colour of field lines",
+      "Density of field lines",
+      "Curvature of field lines only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Density of field lines"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Field Lines",
+    "familyId": "field_lines_intersection",
+    "questionText": "Why can two magnetic field lines never intersect each other?",
+    "questionLatex": "$\\text{Intersection of field lines}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "If two magnetic field lines intersected, the magnetic field would have two directions at the point of intersection, which is impossible."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Bar Magnet and Solenoid",
+    "familyId": "bar_magnet_solenoid_analogy",
+    "questionText": "The magnetic field pattern of a bar magnet resembles that of a:",
+    "questionLatex": "$\\text{Bar magnet analogy}$",
+    "options": [
+      "Charged sphere",
+      "Electric dipole only",
+      "Current-carrying solenoid",
+      "Capacitor"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Current-carrying solenoid"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Equivalent Solenoid",
+    "familyId": "ampere_hypothesis",
+    "questionText": "According to Ampere's hypothesis, magnetic phenomena can be explained in terms of:",
+    "questionLatex": "$\\text{Ampere's hypothesis}$",
+    "options": [
+      "Stationary charges",
+      "Magnetic monopoles",
+      "Circulating currents",
+      "Electric dipoles only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Circulating currents"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole",
+    "familyId": "axial_field_formula",
+    "questionText": "Write the expression for the magnetic field on the axial line of a short bar magnet at a distance $r$ from its centre, where $r$ is much greater than the size of the magnet.",
+    "questionLatex": "$B_A = \\frac{\\mu_0}{4\\pi} \\frac{2m}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B_A = \\frac{\\mu_0}{4\\pi} \\frac{2m}{r^3}$"
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole",
+    "familyId": "equatorial_field_formula",
+    "questionText": "Write the expression for the magnetic field on the equatorial line of a short bar magnet at a distance $r$ from its centre.",
+    "questionLatex": "$B_E = -\\frac{\\mu_0}{4\\pi} \\frac{m}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$B_E = -\\frac{\\mu_0}{4\\pi} \\frac{m}{r^3}$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole in Uniform Field",
+    "familyId": "torque_vector_form",
+    "questionText": "Write the vector expression for the torque acting on a magnetic dipole of magnetic moment $\\vec{m}$ placed in a uniform magnetic field $\\vec{B}$.",
+    "questionLatex": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\vec{\\tau} = \\vec{m} \\times \\vec{B}$"
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole in Uniform Field",
+    "familyId": "torque_magnitude",
+    "questionText": "The magnitude of torque acting on a magnetic dipole in a uniform magnetic field is:",
+    "questionLatex": "$\\tau = mB \\sin\\theta$",
+    "options": [
+      "$mB \\cos\\theta$",
+      "$mB$",
+      "$mB \\sin\\theta$",
+      "$m/B$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "$mB \\sin\\theta$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Potential Energy of Magnetic Dipole",
+    "familyId": "potential_energy_formula",
+    "questionText": "Write the expression for the potential energy $U$ of a magnetic dipole in a uniform magnetic field.",
+    "questionLatex": "$U = -\\vec{m} \\cdot \\vec{B}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$U = -\\vec{m} \\cdot \\vec{B}$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Potential Energy of Magnetic Dipole",
+    "familyId": "stable_equilibrium",
+    "questionText": "For a magnetic dipole in a uniform magnetic field, the potential energy is minimum when the angle between magnetic moment and magnetic field is:",
+    "questionLatex": "$U = -mB \\cos\\theta$",
+    "options": [
+      "$0^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$270^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$0^\\circ$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Potential Energy of Magnetic Dipole",
+    "familyId": "unstable_equilibrium",
+    "questionText": "For a magnetic dipole in a uniform magnetic field, the potential energy is maximum when the angle between magnetic moment and magnetic field is:",
+    "questionLatex": "$U = -mB \\cos\\theta$",
+    "options": [
+      "$0^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$180^\\circ$"
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Potential Energy Numerical",
+    "familyId": "potential_energy_numerical",
+    "questionText": "A magnetic dipole of magnetic moment $2\\text{ J T}^{-1}$ is placed parallel to a uniform magnetic field of magnitude $0.5\\text{ T}$. Calculate its potential energy.",
+    "questionLatex": "$U = -mB \\cos\\theta$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": -1,
+      "unit": "J",
+      "steps": [
+        "$\\theta = 0^\\circ$",
+        "$U = -mB \\cos\\theta$",
+        "$U = -(2)(0.5)\\cos(0^\\circ)$",
+        "$U = -1\\text{ J}$"
+      ]
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Electrostatic Analogy",
+    "familyId": "dipole_analogy",
+    "questionText": "In the analogy between an electric dipole and a magnetic dipole, the electric dipole moment $p$ corresponds to:",
+    "questionLatex": "$p \\leftrightarrow m$",
+    "options": [
+      "Magnetic field $B$",
+      "Magnetic moment $m$",
+      "Permeability $\\mu_0$",
+      "Magnetic flux"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Magnetic moment $m$"
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Electrostatic Analogy",
+    "familyId": "field_ratio",
+    "questionText": "At the same distance from the centre of a short bar magnet, the ratio of axial magnetic field to equatorial magnetic field magnitudes is:",
+    "questionLatex": "$\\frac{B_A}{|B_E|}$",
+    "options": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "$2$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "geomagnetic_elements_definition",
+    "questionText": "Name the three important geomagnetic elements used to describe Earth's magnetic field.",
+    "questionLatex": "$\\text{Geomagnetic elements}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The three geomagnetic elements are magnetic declination, magnetic dip (inclination), and the horizontal component of Earth's magnetic field."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "magnetic_declination_definition",
+    "questionText": "Define magnetic declination.",
+    "questionLatex": "$\\delta$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetic declination is the angle between the geographic meridian and the magnetic meridian at a given place."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "angle_of_dip_definition",
+    "questionText": "What is the angle of dip or magnetic inclination?",
+    "questionLatex": "$\\theta$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The angle made by the resultant Earth's magnetic field with the horizontal in the magnetic meridian is called the angle of dip or magnetic inclination."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "dip_at_equator",
+    "questionText": "The angle of dip at the magnetic equator is:",
+    "questionLatex": "$\\theta = ?$",
+    "options": [
+      "$0^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "$0^\\circ$"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "dip_at_pole",
+    "questionText": "The angle of dip at the magnetic poles is:",
+    "questionLatex": "$\\theta = ?$",
+    "options": [
+      "$0^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "value": "$90^\\circ$"
+    },
+    "difficultyScore": 12,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "horizontal_component_relation",
+    "questionText": "Write the relation between the horizontal component $H$ of Earth's magnetic field, total field $B$ and angle of dip $\\theta$.",
+    "questionLatex": "$H = B \\cos\\theta$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$H = B \\cos\\theta$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "vertical_component_relation",
+    "questionText": "Write the relation between the vertical component $V$ of Earth's magnetic field, total field $B$ and angle of dip $\\theta$.",
+    "questionLatex": "$V = B \\sin\\theta$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$V = B \\sin\\theta$"
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "dip_relation",
+    "questionText": "Write the relation connecting the angle of dip $\\theta$ with the horizontal ($H$) and vertical ($V$) components of Earth's magnetic field.",
+    "questionLatex": "$\\tan\\theta = \\frac{V}{H}$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\tan\\theta = \\frac{V}{H}$"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "horizontal_component_numerical",
+    "questionText": "The magnitude of Earth's magnetic field at a place is $4 \\times 10^{-5}\\text{ T}$ and the angle of dip is $60^\\circ$. Calculate the horizontal component of Earth's magnetic field.",
+    "questionLatex": "$H = B \\cos\\theta$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.00002,
+      "unit": "$\\text{T}$",
+      "steps": [
+        "$H = B \\cos\\theta$",
+        "$H = 4 \\times 10^{-5}\\text{ T} \\times \\cos(60^\\circ)$",
+        "$H = 4 \\times 10^{-5}\\text{ T} \\times 0.5$",
+        "$H = 2 \\times 10^{-5}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "vertical_component_numerical",
+    "questionText": "At a place, the horizontal component of Earth's magnetic field is $3 \\times 10^{-5}\\text{ T}$ and the angle of dip is $45^\\circ$. Calculate the vertical component.",
+    "questionLatex": "$V = H \\tan\\theta$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.00003,
+      "unit": "$\\text{T}$",
+      "steps": [
+        "$V = H \\tan\\theta$",
+        "$V = 3 \\times 10^{-5}\\text{ T} \\times \\tan(45^\\circ)$",
+        "$V = 3 \\times 10^{-5}\\text{ T} \\times 1$",
+        "$V = 3 \\times 10^{-5}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetisation",
+    "familyId": "magnetisation_definition",
+    "questionText": "Define magnetisation of a magnetic material.",
+    "questionLatex": "$M = \\frac{m}{V}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetisation is defined as the magnetic dipole moment per unit volume of a magnetic material."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Intensity",
+    "familyId": "magnetic_intensity_definition",
+    "questionText": "What is magnetic intensity or magnetising field?",
+    "questionLatex": "$\\vec{H}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetic intensity is the magnetic field produced by free currents and is responsible for magnetising a magnetic material."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Susceptibility",
+    "familyId": "susceptibility_definition",
+    "questionText": "Define magnetic susceptibility of a material.",
+    "questionLatex": "$\\chi_m = \\frac{M}{H}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetic susceptibility is the ratio of magnetisation produced in a material to the applied magnetic intensity. It is given by $\\chi_m = \\frac{M}{H}$."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Permeability",
+    "familyId": "permeability_definition",
+    "questionText": "What is magnetic permeability of a medium?",
+    "questionLatex": "$\\mu$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Magnetic permeability is a measure of the ability of a medium to support the formation of a magnetic field within it."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Relative Permeability",
+    "familyId": "relative_permeability_relation",
+    "questionText": "Write the relation between relative permeability and magnetic susceptibility.",
+    "questionLatex": "$\\mu_r = 1 + \\chi_m$",
+    "options": [],
+    "answer": {
+      "type": "expression",
+      "value": "$\\mu_r = 1 + \\chi_m$"
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Diamagnetic Materials",
+    "familyId": "diamagnetic_property",
+    "questionText": "Which of the following is a characteristic property of diamagnetic substances?",
+    "questionLatex": "$\\chi_m < 0$",
+    "options": [
+      "Weakly attracted by magnetic fields",
+      "Strongly attracted by magnetic fields",
+      "Weakly repelled by magnetic fields",
+      "Retain magnetism permanently"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Weakly repelled by magnetic fields"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Paramagnetic Materials",
+    "familyId": "paramagnetic_property",
+    "questionText": "Which of the following is true for paramagnetic substances?",
+    "questionLatex": "$\\chi_m > 0$",
+    "options": [
+      "They are weakly attracted by magnetic fields",
+      "They are strongly repelled by magnetic fields",
+      "They have negative susceptibility",
+      "They cannot be magnetised"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "They are weakly attracted by magnetic fields"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Ferromagnetic Materials",
+    "familyId": "ferromagnetic_property",
+    "questionText": "Which of the following materials is ferromagnetic?",
+    "questionLatex": "$\\text{Ferromagnetic material}$",
+    "options": [
+      "Bismuth",
+      "Copper",
+      "Iron",
+      "Water"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Iron"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Classification of Magnetic Materials",
+    "familyId": "susceptibility_comparison",
+    "questionText": "Arrange the following materials in increasing order of magnetic susceptibility: Diamagnetic, Paramagnetic and Ferromagnetic substances.",
+    "questionLatex": "$\\chi_m$",
+    "options": [
+      "Ferromagnetic < Paramagnetic < Diamagnetic",
+      "Diamagnetic < Paramagnetic < Ferromagnetic",
+      "Paramagnetic < Diamagnetic < Ferromagnetic",
+      "Diamagnetic < Ferromagnetic < Paramagnetic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Diamagnetic < Paramagnetic < Ferromagnetic"
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Susceptibility Numerical",
+    "familyId": "susceptibility_numerical",
+    "questionText": "The magnetisation produced in a specimen is $200\\text{ A m}^{-1}$ when subjected to a magnetic intensity of $1000\\text{ A m}^{-1}$. Calculate its magnetic susceptibility.",
+    "questionLatex": "$\\chi_m = \\frac{M}{H}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.2,
+      "unit": "dimensionless",
+      "steps": [
+        "$\\chi_m = \\frac{M}{H}$",
+        "$\\chi_m = \\frac{200}{1000}$",
+        "$\\chi_m = 0.2$"
+      ]
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Diamagnetic Materials",
+    "familyId": "diamagnetic_examples",
+    "questionText": "Which of the following is a diamagnetic substance?",
+    "questionLatex": "$\\text{Diamagnetic substance}$",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Bismuth",
+      "Cobalt"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Bismuth"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Paramagnetic Materials",
+    "familyId": "paramagnetic_examples",
+    "questionText": "Which of the following is a paramagnetic substance?",
+    "questionLatex": "$\\text{Paramagnetic substance}$",
+    "options": [
+      "Aluminium",
+      "Copper",
+      "Silver",
+      "Gold"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "value": "Aluminium"
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Ferromagnetic Materials",
+    "familyId": "ferromagnetic_examples",
+    "questionText": "Which of the following substances is ferromagnetic?",
+    "questionLatex": "$\\text{Ferromagnetic substance}$",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Iron",
+      "Wood"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "value": "Iron"
+    },
+    "difficultyScore": 14,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Curie Temperature",
+    "familyId": "curie_temperature_definition",
+    "questionText": "What is Curie temperature?",
+    "questionLatex": "$\\text{Curie temperature}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Curie temperature is the temperature above which a ferromagnetic substance loses its ferromagnetic properties and behaves as a paramagnetic substance."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Curie Temperature",
+    "familyId": "curie_temperature_effect",
+    "questionText": "Above the Curie temperature, a ferromagnetic substance behaves as a:",
+    "questionLatex": "$\\text{Above Curie temperature}$",
+    "options": [
+      "Diamagnetic substance",
+      "Paramagnetic substance",
+      "Perfect ferromagnet",
+      "Superconductor"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "value": "Paramagnetic substance"
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Permanent Magnets",
+    "familyId": "permanent_magnet_property",
+    "questionText": "What are the essential properties required for a material used to make permanent magnets?",
+    "questionLatex": "$\\text{Permanent magnets}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A material used for permanent magnets should possess high retentivity and high coercivity."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Electromagnets",
+    "familyId": "electromagnet_property",
+    "questionText": "What are the desirable properties of a material used for making electromagnets?",
+    "questionLatex": "$\\text{Electromagnets}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "A material used for electromagnets should have high permeability, high susceptibility, and low retentivity so that it can be magnetised and demagnetised easily."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Earth's Magnetism",
+    "familyId": "earth_field_components_relation",
+    "questionText": "The horizontal component of Earth's magnetic field at a place is $2 \\times 10^{-5}\\text{ T}$ and the vertical component is $2\\sqrt{3} \\times 10^{-5}\\text{ T}$. Calculate the angle of dip.",
+    "questionLatex": "$\\tan\\theta = \\frac{V}{H}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 60,
+      "unit": "$^\\circ$",
+      "steps": [
+        "$\\tan\\theta = \\frac{V}{H}$",
+        "$\\tan\\theta = \\frac{2\\sqrt{3} \\times 10^{-5}}{2 \\times 10^{-5}}$",
+        "$\\tan\\theta = \\sqrt{3}$",
+        "$\\theta = 60^\\circ$"
+      ]
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole",
+    "familyId": "axial_field_numerical",
+    "questionText": "A short bar magnet has a magnetic moment of $5\\text{ A m}^2$. Calculate the magnetic field on its axial line at a distance of $0.2\\text{ m}$ from its centre.",
+    "questionLatex": "$B_A = \\frac{\\mu_0}{4\\pi} \\frac{2m}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.000125,
+      "unit": "T",
+      "steps": [
+        "$B_A = \\left(\\frac{\\mu_0}{4\\pi}\\right) \\frac{2m}{r^3}$",
+        "$B_A = 10^{-7} \\times \\frac{2 \\times 5}{(0.2)^3}$",
+        "$B_A = 10^{-7} \\times \\frac{10}{0.008} = 10^{-7} \\times 1250$",
+        "$B_A = 1.25 \\times 10^{-4}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 12,
+    "subject": "Physics",
+    "chapter": "Magnetism and Matter",
+    "topic": "Magnetic Dipole",
+    "familyId": "equatorial_field_numerical",
+    "questionText": "A short bar magnet has a magnetic moment of $4\\text{ A m}^2$. Find the magnitude of the magnetic field on its equatorial line at a distance of $0.1\\text{ m}$ from its centre.",
+    "questionLatex": "$B_E = \\frac{\\mu_0}{4\\pi} \\frac{m}{r^3}$",
+    "options": [],
+    "answer": {
+      "type": "numeric",
+      "value": 0.0004,
+      "unit": "T",
+      "steps": [
+        "$B_E = \\left(\\frac{\\mu_0}{4\\pi}\\right) \\frac{m}{r^3}$",
+        "$B_E = 10^{-7} \\times \\frac{4}{(0.1)^3}$",
+        "$B_E = 10^{-7} \\times \\frac{4}{0.001} = 10^{-7} \\times 4000$",
+        "$B_E = 4 \\times 10^{-4}\\text{ T}$"
+      ]
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]
