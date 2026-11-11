@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Endocrine Glands and Hormones",
+    "familyId": "endocrine_definition",
+    "questionText": "Why are endocrine glands referred to as ductless glands?",
+    "questionLatex": "Why are endocrine glands referred to as ductless glands?",
+    "options": [
+      "They produce digestive enzymes only.",
+      "They release secretions directly into ducts.",
+      "They lack ducts and release hormones directly into the bloodstream.",
+      "They do not produce chemical messengers."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Endocrine glands lack ducts and release their hormones directly into the blood."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hormones",
+    "familyId": "hormone_definition",
+    "questionText": "According to the modern definition, hormones are:",
+    "questionLatex": "According to the modern definition, hormones are:",
+    "options": [
+      "Digestive enzymes produced by exocrine glands",
+      "Non-nutrient chemicals acting as intercellular messengers and produced in trace amounts",
+      "Proteins present only in blood plasma",
+      "Nutrients stored in endocrine glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hormones are non-nutrient chemical messengers produced in trace amounts that regulate body functions."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Human Endocrine System",
+    "familyId": "endocrine_glands_identification",
+    "questionText": "Which one of the following is NOT an organised endocrine gland in the human body?",
+    "questionLatex": "Which one of the following is NOT an organised endocrine gland in the human body?",
+    "options": [
+      "Pituitary gland",
+      "Pineal gland",
+      "Liver",
+      "Thyroid gland"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The liver produces certain hormones but is not classified as an organised endocrine gland."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hypothalamus",
+    "familyId": "hypothalamus_location",
+    "questionText": "The hypothalamus forms the basal part of the:",
+    "questionLatex": "The hypothalamus forms the basal part of the:",
+    "options": [
+      "Medulla oblongata",
+      "Cerebellum",
+      "Diencephalon",
+      "Spinal cord"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The hypothalamus is located in the basal region of the diencephalon of the forebrain."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hypothalamus",
+    "familyId": "releasing_hormones",
+    "questionText": "Releasing hormones secreted by the hypothalamus primarily:",
+    "questionLatex": "Releasing hormones secreted by the hypothalamus primarily:",
+    "options": [
+      "Inhibit pituitary hormone secretion",
+      "Stimulate secretion of pituitary hormones",
+      "Increase blood glucose directly",
+      "Stimulate thyroid hormone synthesis directly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hypothalamic releasing hormones stimulate the synthesis and secretion of anterior pituitary hormones."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hypothalamus",
+    "familyId": "gnrh_function",
+    "questionText": "Gonadotrophin-releasing hormone (GnRH) stimulates the pituitary to release:",
+    "questionLatex": "Gonadotrophin-releasing hormone (GnRH) stimulates the pituitary to release:",
+    "options": [
+      "Growth hormone and prolactin",
+      "Oxytocin and vasopressin",
+      "FSH and LH",
+      "TSH and ACTH"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "GnRH stimulates the secretion of the gonadotrophins FSH and LH."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hypothalamus",
+    "familyId": "somatostatin_function",
+    "questionText": "Somatostatin secreted by the hypothalamus inhibits the release of:",
+    "questionLatex": "Somatostatin secreted by the hypothalamus inhibits the release of:",
+    "options": [
+      "Thyroxine",
+      "Growth hormone",
+      "Insulin",
+      "Melatonin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Somatostatin inhibits the secretion of growth hormone from the anterior pituitary."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Gland",
+    "familyId": "pituitary_location",
+    "questionText": "The pituitary gland is located in a bony cavity known as:",
+    "questionLatex": "The pituitary gland is located in a bony cavity known as:",
+    "options": [
+      "Foramen magnum",
+      "Sella turcica",
+      "Orbit",
+      "Vertebral canal"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The pituitary gland is lodged in the sella turcica of the sphenoid bone."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Gland",
+    "familyId": "pituitary_divisions",
+    "questionText": "Anatomically, the pituitary gland is divided into:",
+    "questionLatex": "Anatomically, the pituitary gland is divided into:",
+    "options": [
+      "Anterior and posterior lobes only",
+      "Adenohypophysis and neurohypophysis",
+      "Thyroid and parathyroid regions",
+      "Cortex and medulla"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The pituitary gland consists of the adenohypophysis and neurohypophysis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Anterior Pituitary",
+    "familyId": "anterior_pituitary_hormones",
+    "questionText": "Which one of the following hormones is secreted by the anterior pituitary (pars distalis)?",
+    "questionLatex": "Which one of the following hormones is secreted by the anterior pituitary (pars distalis)?",
+    "options": [
+      "Oxytocin",
+      "Vasopressin",
+      "Growth hormone (GH)",
+      "Melatonin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The anterior pituitary secretes GH, PRL, TSH, ACTH, LH and FSH."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Gland",
+    "familyId": "pars_intermedia_hormone",
+    "questionText": "The pars intermedia of the pituitary gland secretes:",
+    "questionLatex": "The pars intermedia of the pituitary gland secretes:",
+    "options": [
+      "Growth hormone (GH)",
+      "Melanocyte stimulating hormone (MSH)",
+      "Prolactin (PRL)",
+      "Thyroid stimulating hormone (TSH)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The pars intermedia secretes melanocyte stimulating hormone (MSH), although it is almost merged with pars distalis in humans."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Posterior Pituitary",
+    "familyId": "posterior_pituitary_hormones",
+    "questionText": "The posterior pituitary stores and releases which pair of hormones synthesised by the hypothalamus?",
+    "questionLatex": "The posterior pituitary stores and releases which pair of hormones synthesised by the hypothalamus?",
+    "options": [
+      "Growth hormone and Prolactin",
+      "FSH and LH",
+      "Oxytocin and Vasopressin",
+      "TSH and ACTH"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Oxytocin and vasopressin are synthesised in the hypothalamus and stored and released by the posterior pituitary."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Growth Hormone",
+    "familyId": "gh_hypersecretion",
+    "questionText": "Hypersecretion of growth hormone (GH) during childhood results in:",
+    "questionLatex": "Hypersecretion of growth hormone (GH) during childhood results in:",
+    "options": [
+      "Pituitary dwarfism",
+      "Gigantism",
+      "Diabetes insipidus",
+      "Acromegaly"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Excess secretion of GH before adulthood causes gigantism due to excessive body growth."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Growth Hormone",
+    "familyId": "gh_hyposecretion",
+    "questionText": "Deficiency of growth hormone during childhood leads to:",
+    "questionLatex": "Deficiency of growth hormone during childhood leads to:",
+    "options": [
+      "Acromegaly",
+      "Goitre",
+      "Pituitary dwarfism",
+      "Cretinism"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Low secretion of GH during childhood results in stunted growth known as pituitary dwarfism."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Growth Hormone",
+    "familyId": "acromegaly",
+    "questionText": "Excess secretion of growth hormone in adults commonly causes:",
+    "questionLatex": "Excess secretion of growth hormone in adults commonly causes:",
+    "options": [
+      "Gigantism",
+      "Acromegaly",
+      "Graves' disease",
+      "Diabetes mellitus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hypersecretion of GH in adults causes acromegaly, characterized by enlargement of facial bones and other body parts."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Prolactin",
+    "familyId": "prolactin_function",
+    "questionText": "The primary function of prolactin (PRL) is to:",
+    "questionLatex": "The primary function of prolactin (PRL) is to:",
+    "options": [
+      "Stimulate ovulation",
+      "Promote milk formation in mammary glands",
+      "Increase blood calcium level",
+      "Stimulate glycogenolysis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Prolactin regulates mammary gland growth and stimulates milk production."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Hormones",
+    "familyId": "tsh_function",
+    "questionText": "Thyroid stimulating hormone (TSH) acts directly on the:",
+    "questionLatex": "Thyroid stimulating hormone (TSH) acts directly on the:",
+    "options": [
+      "Adrenal cortex",
+      "Thyroid gland",
+      "Pancreas",
+      "Ovary"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "TSH stimulates the synthesis and secretion of thyroid hormones from the thyroid gland."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Hormones",
+    "familyId": "acth_function",
+    "questionText": "Adrenocorticotrophic hormone (ACTH) stimulates the secretion of:",
+    "questionLatex": "Adrenocorticotrophic hormone (ACTH) stimulates the secretion of:",
+    "options": [
+      "Insulin",
+      "Glucocorticoids from the adrenal cortex",
+      "Thyroxine",
+      "Melatonin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ACTH stimulates the adrenal cortex to produce glucocorticoids such as cortisol."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Gonadotrophins",
+    "familyId": "lh_male_function",
+    "questionText": "In males, luteinizing hormone (LH) stimulates:",
+    "questionLatex": "In males, luteinizing hormone (LH) stimulates:",
+    "options": [
+      "Ovulation",
+      "Milk secretion",
+      "Secretion of androgens by the testes",
+      "Formation of melanin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "LH stimulates Leydig cells of the testes to secrete androgens, mainly testosterone."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Gonadotrophins",
+    "familyId": "lh_female_function",
+    "questionText": "In females, luteinizing hormone (LH) primarily induces:",
+    "questionLatex": "In females, luteinizing hormone (LH) primarily induces:",
+    "options": [
+      "Growth of ovarian follicles",
+      "Ovulation and maintenance of corpus luteum",
+      "Milk production",
+      "Development of mammary glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "LH induces ovulation of the mature Graafian follicle and maintains the corpus luteum after ovulation."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Gonadotrophins",
+    "familyId": "fsh_function_male",
+    "questionText": "In males, follicle stimulating hormone (FSH) primarily stimulates:",
+    "questionLatex": "\text{In males, follicle stimulating hormone (FSH) primarily stimulates:}",
+    "options": [
+    "Secretion of testosterone",
+    "Spermatogenesis through Sertoli cells",
+    "Growth of adrenal cortex",
+    "Milk secretion"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "FSH acts on Sertoli cells of the seminiferous tubules to stimulate spermatogenesis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Gonadotrophins",
+    "familyId": "fsh_function_female",
+    "questionText": "In females, follicle stimulating hormone (FSH) primarily stimulates:",
+    "questionLatex": "\text{In females, follicle stimulating hormone (FSH) primarily stimulates:}",
+    "options": [
+    "Ovulation",
+    "Development of ovarian follicles and estrogen secretion",
+    "Milk ejection",
+    "Formation of corpus luteum"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "FSH stimulates the growth of ovarian follicles and promotes estrogen secretion."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Posterior Pituitary",
+    "familyId": "vasopressin_function",
+    "questionText": "The primary function of vasopressin (ADH) is to:",
+    "questionLatex": "\text{The primary function of vasopressin (ADH) is to:}",
+    "options": [
+    "Increase blood glucose concentration",
+    "Promote water reabsorption by the kidneys",
+    "Stimulate thyroid hormone secretion",
+    "Promote milk ejection"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Antidiuretic hormone (ADH) increases water reabsorption in the distal tubules and collecting ducts of the kidneys."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Posterior Pituitary",
+    "familyId": "oxytocin_function",
+    "questionText": "Oxytocin primarily stimulates:",
+    "questionLatex": "\text{Oxytocin primarily stimulates:}",
+    "options": [
+    "Growth of ovarian follicles",
+    "Uterine contraction during childbirth and milk ejection",
+    "Secretion of thyroxine",
+    "Protein synthesis in muscles"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Oxytocin stimulates contraction of uterine smooth muscles during childbirth and causes milk ejection from mammary glands."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pineal Gland",
+    "familyId": "pineal_hormone",
+    "questionText": "The principal hormone secreted by the pineal gland is:",
+    "questionLatex": "\text{The principal hormone secreted by the pineal gland is:}",
+    "options": [
+    "Calcitonin",
+    "Melatonin",
+    "Thyroxine",
+    "Cortisol"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "The pineal gland secretes melatonin, which helps regulate the body's biological clock."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pineal Gland",
+    "familyId": "melatonin_function",
+    "questionText": "Melatonin mainly regulates:",
+    "questionLatex": "\text{Melatonin mainly regulates:}",
+    "options": [
+    "Blood calcium level",
+    "Carbohydrate metabolism",
+    "Diurnal rhythm and sleep-wake cycle",
+    "Blood pressure"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 2,
+    "explanation": "Melatonin regulates circadian (diurnal) rhythms and the sleep-wake cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Gland",
+    "familyId": "thyroid_location",
+    "questionText": "The thyroid gland is located:",
+    "questionLatex": "\text{The thyroid gland is located:}",
+    "options": [
+    "Above each kidney",
+    "On either side of the trachea below the larynx",
+    "Within the cranial cavity",
+    "Behind the stomach"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "The thyroid gland is situated below the larynx on either side of the trachea."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Gland",
+    "familyId": "thyroid_follicles",
+    "questionText": "The structural and functional units of the thyroid gland are called:",
+    "questionLatex": "\text{The structural and functional units of the thyroid gland are called:}",
+    "options": [
+    "Acini",
+    "Follicles",
+    "Nephrons",
+    "Alveoli"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "The thyroid gland is composed of numerous follicles lined by follicular cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Hormones",
+    "familyId": "thyroid_hormones",
+    "questionText": "The principal hormones secreted by the follicular cells of the thyroid gland are:",
+    "questionLatex": "\text{The principal hormones secreted by the follicular cells of the thyroid gland are:}",
+    "options": [
+    "Calcitonin and Parathormone",
+    "Thyroxine (T4) and Triiodothyronine (T3)",
+    "Insulin and Glucagon",
+    "Aldosterone and Cortisol"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "The follicular cells synthesize the iodine-containing hormones T4 (thyroxine) and T3 (triiodothyronine)."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Hormones",
+    "familyId": "iodine_requirement",
+    "questionText": "An adequate dietary supply of which element is essential for the synthesis of thyroid hormones?",
+    "questionLatex": "\text{An adequate dietary supply of which element is essential for the synthesis of thyroid hormones?}",
+    "options": [
+    "Calcium",
+    "Iron",
+    "Iodine",
+    "Phosphorus"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 2,
+    "explanation": "Iodine is an essential constituent of both thyroxine (T4) and triiodothyronine (T3)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+   {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Hormones",
+    "familyId": "thyroid_functions",
+    "questionText": "Thyroid hormones primarily regulate:",
+    "questionLatex": "\text{Thyroid hormones primarily regulate:}",
+    "options": [
+    "Blood clotting only",
+    "Basal metabolic rate, growth and development",
+    "Urine formation only",
+    "Digestion of proteins only"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Thyroid hormones regulate basal metabolic rate, carbohydrate, protein and fat metabolism, and support normal growth and development."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Hormones",
+    "familyId": "calcitonin_source",
+    "questionText": "Calcitonin is secreted by the:",
+    "questionLatex": "\text{Calcitonin is secreted by the:}",
+    "options": [
+    "Follicular cells of the thyroid",
+    "Parafollicular (C) cells of the thyroid",
+    "Parathyroid chief cells",
+    "Adrenal medulla"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Calcitonin is secreted by the parafollicular or C-cells of the thyroid gland."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Calcitonin",
+    "familyId": "calcitonin_function",
+    "questionText": "The principal action of calcitonin is to:",
+    "questionLatex": "\text{The principal action of calcitonin is to:}",
+    "options": [
+    "Increase blood calcium level",
+    "Decrease blood calcium level",
+    "Increase blood glucose level",
+    "Stimulate thyroid hormone secretion"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Calcitonin lowers blood calcium concentration by promoting deposition of calcium in bones."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Disorders",
+    "familyId": "iodine_deficiency_goitre",
+    "questionText": "Deficiency of iodine in the diet commonly results in:",
+    "questionLatex": "\text{Deficiency of iodine in the diet commonly results in:}",
+    "options": [
+    "Diabetes mellitus",
+    "Simple goitre",
+    "Acromegaly",
+    "Addison's disease"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Iodine deficiency reduces thyroid hormone synthesis, leading to enlargement of the thyroid gland known as simple goitre."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Disorders",
+    "familyId": "cretinism",
+    "questionText": "Hyposecretion of thyroid hormones during infancy results in:",
+    "questionLatex": "\text{Hyposecretion of thyroid hormones during infancy results in:}",
+    "options": [
+    "Acromegaly",
+    "Cretinism",
+    "Graves' disease",
+    "Gigantism"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Deficiency of thyroid hormones during infancy causes cretinism, characterized by stunted physical and mental development."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid Disorders",
+    "familyId": "graves_disease",
+    "questionText": "Graves' disease is associated with:",
+    "questionLatex": "\text{Graves' disease is associated with:}",
+    "options": [
+    "Hyposecretion of thyroxine",
+    "Hypersecretion of thyroid hormones",
+    "Deficiency of insulin",
+    "Deficiency of growth hormone"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Graves' disease is a form of hyperthyroidism caused by excessive secretion of thyroid hormones."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Parathyroid Glands",
+    "familyId": "parathyroid_location",
+    "questionText": "The parathyroid glands are located:",
+    "questionLatex": "\text{The parathyroid glands are located:}",
+    "options": [
+    "Above the kidneys",
+    "On the posterior surface of the thyroid gland",
+    "Within the pancreas",
+    "Inside the pituitary gland"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Four small parathyroid glands are embedded on the posterior surface of the thyroid gland."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Parathyroid Hormone",
+    "familyId": "pth_function",
+    "questionText": "Parathyroid hormone (PTH) primarily functions to:",
+    "questionLatex": "\text{Parathyroid hormone (PTH) primarily functions to:}",
+    "options": [
+    "Decrease blood calcium concentration",
+    "Increase blood calcium concentration",
+    "Decrease blood glucose concentration",
+    "Stimulate thyroid hormone secretion"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "PTH increases blood calcium levels by stimulating bone resorption, calcium reabsorption by kidneys and activation of vitamin D."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Calcium Homeostasis",
+    "familyId": "calcitonin_pth_relation",
+    "questionText": "Calcitonin and parathyroid hormone together regulate the homeostasis of:",
+    "questionLatex": "\text{Calcitonin and parathyroid hormone together regulate the homeostasis of:}",
+    "options": [
+    "Blood glucose",
+    "Blood calcium",
+    "Blood sodium",
+    "Blood cholesterol"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 1,
+    "explanation": "Calcitonin lowers blood calcium, whereas PTH raises it, thereby maintaining calcium homeostasis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Thyroid and Parathyroid Hormones",
+    "familyId": "calcitonin_vs_pth",
+    "questionText": "Which pair of hormones has opposite effects on blood calcium concentration?",
+    "questionLatex": "\text{Which pair of hormones has opposite effects on blood calcium concentration?}",
+    "options": [
+    "Insulin and Glucagon",
+    "Growth hormone and Prolactin",
+    "Calcitonin and Parathyroid hormone",
+    "Oxytocin and Vasopressin"
+    ],
+    "answer": {
+    "type": "choice",
+    "correctOptionIndex": 2,
+    "explanation": "Calcitonin decreases blood calcium concentration, whereas parathyroid hormone increases it."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+    },
+    {
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Adrenal Gland",
+"familyId": "adrenal_location",
+"questionText": "The adrenal glands are located:",
+"questionLatex": "\text{The adrenal glands are located:}",
+"options": [
+"On the posterior surface of the thyroid gland",
+"Above each kidney",
+"Within the pancreas",
+"Inside the cranial cavity"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Each adrenal gland is situated on the superior surface of a kidney."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Adrenal Gland",
+"familyId": "adrenal_parts",
+"questionText": "The adrenal gland is structurally divided into:",
+"questionLatex": "\text{The adrenal gland is structurally divided into:}",
+"options": [
+"Cortex and medulla",
+"Anterior and posterior lobes",
+"Follicles and parafollicular cells",
+"Head and tail"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 0,
+"explanation": "The adrenal gland consists of an outer cortex and an inner medulla."
+},
+"difficultyScore": 18,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Adrenal Cortex",
+"familyId": "cortex_hormones",
+"questionText": "The adrenal cortex secretes:",
+"questionLatex": "\text{The adrenal cortex secretes:}",
+"options": [
+"Catecholamines only",
+"Glucocorticoids, mineralocorticoids and androgens",
+"Insulin and glucagon",
+"Thyroxine and calcitonin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The adrenal cortex produces mineralocorticoids, glucocorticoids and adrenal androgens."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Mineralocorticoids",
+"familyId": "aldosterone_function",
+"questionText": "Aldosterone primarily regulates:",
+"questionLatex": "\text{Aldosterone primarily regulates:}",
+"options": [
+"Blood glucose concentration",
+"Sodium and potassium balance",
+"Calcium metabolism",
+"Protein synthesis"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Aldosterone increases sodium reabsorption and potassium excretion by the kidneys, maintaining electrolyte balance."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Glucocorticoids",
+"familyId": "cortisol_function",
+"questionText": "The principal glucocorticoid secreted by the adrenal cortex in humans is:",
+"questionLatex": "\text{The principal glucocorticoid secreted by the adrenal cortex in humans is:}",
+"options": [
+"Aldosterone",
+"Cortisol",
+"Adrenaline",
+"Calcitonin"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Cortisol is the major glucocorticoid involved in carbohydrate metabolism and stress response."
+},
+"difficultyScore": 22,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Glucocorticoids",
+"familyId": "glucocorticoid_actions",
+"questionText": "Glucocorticoids primarily help in:",
+"questionLatex": "\text{Glucocorticoids primarily help in:}",
+"options": [
+"Lowering blood glucose concentration",
+"Increasing blood glucose concentration through gluconeogenesis",
+"Stimulating milk secretion",
+"Reducing heart rate"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Glucocorticoids promote gluconeogenesis and help maintain blood glucose during stress."
+},
+"difficultyScore": 26,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Adrenal Medulla",
+"familyId": "medulla_hormones",
+"questionText": "The adrenal medulla secretes:",
+"questionLatex": "\text{The adrenal medulla secretes:}",
+"options": [
+"Cortisol and aldosterone",
+"Adrenaline and noradrenaline",
+"Insulin and glucagon",
+"Thyroxine and triiodothyronine"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "The adrenal medulla secretes the catecholamines adrenaline (epinephrine) and noradrenaline (norepinephrine)."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Catecholamines",
+"familyId": "fight_or_flight",
+"questionText": "Adrenaline and noradrenaline are commonly known as emergency hormones because they:",
+"questionLatex": "\text{Adrenaline and noradrenaline are commonly known as emergency hormones because they:}",
+"options": [
+"Decrease blood pressure",
+"Prepare the body for fight-or-flight situations",
+"Reduce metabolic rate",
+"Stimulate calcium deposition in bones"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Catecholamines prepare the body to cope with stress by increasing heart rate, blood pressure and glucose availability."
+},
+"difficultyScore": 20,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Catecholamines",
+"familyId": "adrenaline_effect",
+"questionText": "One immediate effect of adrenaline secretion is:",
+"questionLatex": "\text{One immediate effect of adrenaline secretion is:}",
+"options": [
+"Decrease in heart rate",
+"Increase in blood glucose concentration",
+"Reduction in oxygen consumption",
+"Decrease in blood pressure"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Adrenaline stimulates glycogen breakdown, increasing blood glucose concentration during emergencies."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+},
+{
+"board": "CBSE",
+"grade": 11,
+"subject": "Biology",
+"chapter": "Chemical Coordination and Integration",
+"topic": "Catecholamines",
+"familyId": "adrenaline_cardiovascular",
+"questionText": "During stress, adrenaline causes:",
+"questionLatex": "\text{During stress, adrenaline causes:}",
+"options": [
+"Decrease in cardiac output",
+"Increase in heart rate and blood pressure",
+"Decrease in respiratory rate",
+"Reduction in blood flow to skeletal muscles"
+],
+"answer": {
+"type": "choice",
+"correctOptionIndex": 1,
+"explanation": "Adrenaline increases heart rate, cardiac output and blood pressure while enhancing blood flow to skeletal muscles."
+},
+"difficultyScore": 24,
+"difficultyLabel": "easy",
+"marks": 1,
+"sourceType": "book_curated"
+}
+]

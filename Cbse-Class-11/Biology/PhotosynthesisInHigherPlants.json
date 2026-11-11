@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Introduction to Photosynthesis",
+    "familyId": "photosynthesis_definition",
+    "questionText": "Photosynthesis is best defined as the process by which green plants:",
+    "questionLatex": "\\text{Photosynthesis is best defined as the process by which green plants:}",
+    "options": [
+      "Absorb oxygen and release carbon dioxide",
+      "Use light energy to synthesise organic compounds from carbon dioxide and water",
+      "Break down glucose to release energy",
+      "Absorb minerals from the soil"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Photosynthesis is a physico-chemical process in which green plants use light energy to synthesise organic compounds from carbon dioxide and water."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Importance of Photosynthesis",
+    "familyId": "importance_photosynthesis",
+    "questionText": "Which of the following is NOT an importance of photosynthesis?",
+    "questionLatex": "\\text{Which of the following is NOT an importance of photosynthesis?}",
+    "options": [
+      "Primary source of food on Earth",
+      "Release of oxygen into the atmosphere",
+      "Direct production of ATP for all organisms",
+      "Conversion of solar energy into chemical energy"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Photosynthesis produces food and oxygen and converts light energy into chemical energy. It does not directly produce ATP for all organisms."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Requirements for Photosynthesis",
+    "familyId": "requirements_photosynthesis",
+    "questionText": "Which combination of factors is essential for photosynthesis according to the starch test experiment?",
+    "questionLatex": "\\text{Which combination of factors is essential for photosynthesis according to the starch test experiment?}",
+    "options": [
+      "Light, chlorophyll and carbon dioxide",
+      "Water, oxygen and minerals",
+      "Nitrogen, chlorophyll and oxygen",
+      "Light, minerals and oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The classic starch test demonstrates that light, chlorophyll and carbon dioxide are necessary for photosynthesis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Early Experiments",
+    "familyId": "priestley_experiment",
+    "questionText": "Joseph Priestley's bell jar experiment demonstrated that plants:",
+    "questionLatex": "\\text{Joseph Priestley's bell jar experiment demonstrated that plants:}",
+    "options": [
+      "Produce starch only in sunlight",
+      "Restore the air damaged by burning candles and breathing animals",
+      "Absorb oxygen during photosynthesis",
+      "Require only water for photosynthesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Priestley concluded that green plants restore the air made impure by burning candles and animals."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Early Experiments",
+    "familyId": "ingenhousz_experiment",
+    "questionText": "Jan Ingenhousz proved that oxygen is released by plants:",
+    "questionLatex": "\\text{Jan Ingenhousz proved that oxygen is released by plants:}",
+    "options": [
+      "Only in darkness",
+      "Only by roots",
+      "Only by green parts in the presence of sunlight",
+      "Only during respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Ingenhousz demonstrated that only the green parts of plants release oxygen and only in sunlight."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Early Experiments",
+    "familyId": "engelmann_experiment",
+    "questionText": "In Engelmann's experiment, aerobic bacteria accumulated mainly in the regions receiving:",
+    "questionLatex": "\\text{In Engelmann's experiment, aerobic bacteria accumulated mainly in the regions receiving:}",
+    "options": [
+      "Green light",
+      "Yellow light",
+      "Blue and red light",
+      "Infrared light"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Aerobic bacteria accumulated where oxygen evolution was maximum, i.e., under blue and red light."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthesis Equation",
+    "familyId": "overall_equation",
+    "questionText": "Which is the correct overall equation for photosynthesis?",
+    "questionLatex": "\\text{Which is the correct overall equation for photosynthesis?}",
+    "options": [
+      "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+      "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6H₂O + 6O₂",
+      "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+      "CO₂ + H₂O → O₂"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The balanced overall equation of photosynthesis includes twelve water molecules as substrates."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Chloroplast",
+    "familyId": "site_photosynthesis",
+    "questionText": "The light reactions of photosynthesis primarily occur in the:",
+    "questionLatex": "\\text{The light reactions of photosynthesis primarily occur in the:}",
+    "options": [
+      "Stroma",
+      "Grana (thylakoid membranes)",
+      "Nucleus",
+      "Mitochondrial matrix"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The thylakoid membranes (grana) trap light energy and carry out the light reactions."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Dark Reaction",
+    "familyId": "dark_reaction_location",
+    "questionText": "The biosynthetic phase (dark reaction) of photosynthesis mainly occurs in the:",
+    "questionLatex": "\\text{The biosynthetic phase (dark reaction) of photosynthesis mainly occurs in the:}",
+    "options": [
+      "Grana",
+      "Stroma",
+      "Outer membrane",
+      "Cytoplasm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbon fixation and sugar synthesis occur in the stroma using ATP and NADPH produced during the light reaction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Early Experiments",
+    "familyId": "early_experiments_summary",
+    "questionText": "Explain the contributions of Joseph Priestley and Jan Ingenhousz in understanding photosynthesis.",
+    "questionLatex": "\\text{Explain the contributions of Joseph Priestley and Jan Ingenhousz in understanding photosynthesis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Joseph Priestley demonstrated that green plants restore air damaged by burning candles and breathing animals. Jan Ingenhousz showed that this purification occurs only in sunlight and only the green parts of plants release oxygen."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthetic Pigments",
+    "familyId": "photosynthetic_pigments_types",
+    "questionText": "Which of the following pigments is the chief pigment involved in photosynthesis?",
+    "questionLatex": "\\text{Which of the following pigments is the chief pigment involved in photosynthesis?}",
+    "options": [
+      "Chlorophyll b",
+      "Carotenoids",
+      "Chlorophyll a",
+      "Xanthophylls"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Chlorophyll a is the chief photosynthetic pigment directly involved in the conversion of light energy into chemical energy."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthetic Pigments",
+    "familyId": "accessory_pigments_function",
+    "questionText": "The primary function of accessory pigments such as chlorophyll b, xanthophylls and carotenoids is to:",
+    "questionLatex": "\\text{The primary function of accessory pigments is to:}",
+    "options": [
+      "Split water molecules",
+      "Transfer absorbed light energy to chlorophyll a and protect it from photo-oxidation",
+      "Reduce carbon dioxide directly",
+      "Synthesize ATP independently"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Accessory pigments absorb light of different wavelengths, transfer the energy to chlorophyll a and protect it from photo-oxidation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthetic Pigments",
+    "familyId": "pigment_colours",
+    "questionText": "Which pigment appears yellow-green in paper chromatography of leaf pigments?",
+    "questionLatex": "\\text{Which pigment appears yellow-green in paper chromatography?}",
+    "options": [
+      "Chlorophyll a",
+      "Chlorophyll b",
+      "Carotenoids",
+      "Xanthophylls"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Chlorophyll b appears yellow-green, while chlorophyll a appears blue-green in chromatographic separation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Action Spectrum",
+    "familyId": "action_spectrum",
+    "questionText": "Maximum photosynthetic activity occurs mainly in which regions of the visible spectrum?",
+    "questionLatex": "\\text{Maximum photosynthetic activity occurs mainly in which regions of the visible spectrum?}",
+    "options": [
+      "Green and yellow",
+      "Blue and red",
+      "Orange and yellow",
+      "Violet and green"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The action spectrum shows maximum photosynthesis in the blue and red regions where chlorophyll a absorbs most strongly."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Light Reaction",
+    "familyId": "light_reaction_products",
+    "questionText": "Which of the following are the immediate products of the light reaction?",
+    "questionLatex": "\\text{Which of the following are the immediate products of the light reaction?}",
+    "options": [
+      "Glucose and starch",
+      "ATP, NADPH and oxygen",
+      "Carbon dioxide and water",
+      "Sucrose and oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The light reaction produces ATP, NADPH and oxygen through photochemical processes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosystems",
+    "familyId": "photosystem_reaction_centres",
+    "questionText": "The reaction centre chlorophyll of Photosystem I and Photosystem II are respectively:",
+    "questionLatex": "\\text{The reaction centre chlorophyll of PS I and PS II are respectively:}",
+    "options": [
+      "P680 and P700",
+      "P700 and P680",
+      "P700 and P690",
+      "P690 and P680"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Photosystem I contains reaction centre P700, whereas Photosystem II contains reaction centre P680."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Light Harvesting Complex",
+    "familyId": "lhc_function",
+    "questionText": "The Light Harvesting Complex (LHC) mainly functions to:",
+    "questionLatex": "\\text{The Light Harvesting Complex (LHC) mainly functions to:}",
+    "options": [
+      "Fix carbon dioxide",
+      "Capture light energy and transfer it to the reaction centre",
+      "Split water molecules directly",
+      "Synthesize glucose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Light Harvesting Complex contains pigment molecules that absorb light and transfer the excitation energy to the reaction centre."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Electron Transport",
+    "familyId": "z_scheme",
+    "questionText": "The sequence of electron transfer from Photosystem II to Photosystem I leading to NADPH formation is known as:",
+    "questionLatex": "\\text{The sequence of electron transfer from PS II to PS I leading to NADPH formation is known as:}",
+    "options": [
+      "Hill reaction",
+      "Calvin cycle",
+      "Z scheme",
+      "Photorespiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The electron transport pathway between PS II and PS I is represented as the Z scheme because of its characteristic shape."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photolysis of Water",
+    "familyId": "water_splitting",
+    "questionText": "Photolysis of water occurs in association with:",
+    "questionLatex": "\\text{Photolysis of water occurs in association with:}",
+    "options": [
+      "Photosystem I",
+      "Photosystem II",
+      "ATP synthase",
+      "RuBisCO"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Water splitting is associated with Photosystem II and provides electrons to replace those lost from P680."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthetic Pigments",
+    "familyId": "chief_accessory_pigments",
+    "questionText": "Differentiate between chlorophyll a and accessory pigments with respect to their role in photosynthesis.",
+    "questionLatex": "\\text{Differentiate between chlorophyll a and accessory pigments with respect to their role in photosynthesis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Chlorophyll a is the chief photosynthetic pigment that forms the reaction centre and directly converts light energy into chemical energy. Accessory pigments such as chlorophyll b, carotenoids and xanthophylls absorb light of different wavelengths, transfer the absorbed energy to chlorophyll a and protect it from photo-oxidation."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photophosphorylation",
+    "familyId": "photophosphorylation_definition",
+    "questionText": "The synthesis of ATP from ADP and inorganic phosphate using light energy is known as:",
+    "questionLatex": "\\text{The synthesis of ATP from ADP and inorganic phosphate using light energy is known as:}",
+    "options": [
+      "Oxidative phosphorylation",
+      "Substrate-level phosphorylation",
+      "Photophosphorylation",
+      "Photorespiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Photophosphorylation is the process of ATP synthesis driven by light energy during photosynthesis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Cyclic Photophosphorylation",
+    "familyId": "cyclic_photophosphorylation",
+    "questionText": "During cyclic photophosphorylation, electrons excited from Photosystem I ultimately:",
+    "questionLatex": "\\text{During cyclic photophosphorylation, electrons excited from Photosystem I ultimately:}",
+    "options": [
+      "Reduce NADP^+",
+      "Return to Photosystem I",
+      "Split water molecules",
+      "Move to Photosystem II"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In cyclic photophosphorylation, electrons return to the reaction centre of Photosystem I after passing through the electron transport chain."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Non-cyclic Photophosphorylation",
+    "familyId": "noncyclic_products",
+    "questionText": "Non-cyclic photophosphorylation produces:",
+    "questionLatex": "\\text{Non-cyclic photophosphorylation produces:}",
+    "options": [
+      "Only ATP",
+      "Only NADPH",
+      "ATP, NADPH and oxygen",
+      "Only oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Non-cyclic photophosphorylation involves both photosystems and produces ATP, NADPH and oxygen."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Cyclic vs Non-cyclic Photophosphorylation",
+    "familyId": "photosystem_participation",
+    "questionText": "Which photosystems participate in non-cyclic photophosphorylation?",
+    "questionLatex": "\\text{Which photosystems participate in non-cyclic photophosphorylation?}",
+    "options": [
+      "Only Photosystem I",
+      "Only Photosystem II",
+      "Both Photosystem I and Photosystem II",
+      "Neither Photosystem I nor Photosystem II"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Both Photosystem II and Photosystem I participate in non-cyclic photophosphorylation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "ATP Synthesis",
+    "familyId": "chemiosmosis_definition",
+    "questionText": "According to the chemiosmotic hypothesis, ATP synthesis is driven by:",
+    "questionLatex": "\\text{According to the chemiosmotic hypothesis, ATP synthesis is driven by:}",
+    "options": [
+      "Movement of sodium ions",
+      "A proton gradient across the thylakoid membrane",
+      "Direct transfer of electrons to ATP",
+      "Hydrolysis of glucose"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ATP is synthesized when protons move down their electrochemical gradient through ATP synthase."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "ATP Synthase",
+    "familyId": "atp_synthase_location",
+    "questionText": "ATP synthase responsible for photophosphorylation is embedded in the:",
+    "questionLatex": "\\text{ATP synthase responsible for photophosphorylation is embedded in the:}",
+    "options": [
+      "Outer chloroplast membrane",
+      "Inner chloroplast membrane",
+      "Thylakoid membrane",
+      "Nuclear membrane"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "ATP synthase is present on the thylakoid membrane where it utilizes the proton gradient to synthesize ATP."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Calvin Cycle",
+    "familyId": "calvin_cycle_location",
+    "questionText": "The Calvin cycle takes place in the:",
+    "questionLatex": "\\text{The Calvin cycle takes place in the:}",
+    "options": [
+      "Grana",
+      "Thylakoid lumen",
+      "Stroma of chloroplast",
+      "Cytoplasm"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Calvin cycle, also called the C_3 pathway, occurs in the stroma of chloroplasts."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Calvin Cycle",
+    "familyId": "first_stable_product",
+    "questionText": "The first stable product formed during the Calvin cycle in C3 plants is:",
+    "questionLatex": "\\text{The first stable product formed during the Calvin cycle in } C_3 \\text{ plants is:}",
+    "options": [
+      "Oxaloacetic acid",
+      "Pyruvic acid",
+      "3-Phosphoglyceric acid (3-PGA)",
+      "Phosphoenolpyruvate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The first stable compound formed after carbon fixation in the Calvin cycle is 3-phosphoglyceric acid (3-PGA)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Carbon Fixation",
+    "familyId": "rubisco_function",
+    "questionText": "RuBisCO catalyses the fixation of carbon dioxide by combining it with:",
+    "questionLatex": "\\text{RuBisCO catalyses the fixation of carbon dioxide by combining it with:}",
+    "options": [
+      "Oxaloacetic acid",
+      "Phosphoenolpyruvate",
+      "Ribulose-1,5-bisphosphate (RuBP)",
+      "Pyruvate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "RuBisCO catalyses the carboxylation of RuBP, initiating the Calvin cycle."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photophosphorylation",
+    "familyId": "cyclic_noncyclic_difference",
+    "questionText": "Differentiate between cyclic and non-cyclic photophosphorylation.",
+    "questionLatex": "\\text{Differentiate between cyclic and non-cyclic photophosphorylation.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In cyclic photophosphorylation, only Photosystem I participates, electrons return to the reaction centre and only ATP is produced without the evolution of oxygen or formation of NADPH. In non-cyclic photophosphorylation, both Photosystem II and Photosystem I participate, electrons do not return to the reaction centre, and ATP, NADPH and oxygen are produced."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Calvin Cycle",
+    "familyId": "calvin_cycle_steps",
+    "questionText": "The Calvin cycle consists of which of the following three major phases?",
+    "questionLatex": "\\text{The Calvin cycle consists of which of the following three major phases?}",
+    "options": [
+      "Carboxylation, Decarboxylation and Regeneration",
+      "Carboxylation, Reduction and Regeneration",
+      "Reduction, Oxidation and Regeneration",
+      "Carboxylation, Glycolysis and Regeneration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The Calvin cycle proceeds through three phases: carboxylation, reduction and regeneration of RuBP."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Calvin Cycle",
+    "familyId": "rubisco_abundance",
+    "questionText": "RuBisCO is regarded as:",
+    "questionLatex": "\\text{RuBisCO is regarded as:}",
+    "options": [
+      "The smallest enzyme in plants",
+      "The most abundant protein on Earth",
+      "The fastest enzyme known",
+      "A respiratory enzyme"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "RuBisCO is considered the most abundant protein on Earth due to its high concentration in photosynthetic organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C4 Pathway",
+    "familyId": "first_acceptor_c4",
+    "questionText": "The primary carbon dioxide acceptor in C4 plants is:",
+    "questionLatex": "\\text{The primary carbon dioxide acceptor in } C_4 \\text{ plants is:}",
+    "options": [
+      "Ribulose-1,5-bisphosphate (RuBP)",
+      "Phosphoenolpyruvate (PEP)",
+      "Oxaloacetic acid (OAA)",
+      "3-Phosphoglyceric acid (3-PGA)"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In C4 plants, phosphoenolpyruvate (PEP) acts as the primary carbon dioxide acceptor."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C4 Pathway",
+    "familyId": "first_product_c4",
+    "questionText": "The first stable product formed after carbon dioxide fixation in C4 plants is:",
+    "questionLatex": "\\text{The first stable product formed after carbon dioxide fixation in } C_4 \\text{ plants is:}",
+    "options": [
+      "3-Phosphoglycerate",
+      "Oxaloacetic acid",
+      "Pyruvate",
+      "Malate"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbon dioxide fixation by PEP carboxylase produces oxaloacetic acid (OAA), the first stable product in C4 plants."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C4 Plants",
+    "familyId": "kranz_anatomy",
+    "questionText": "Kranz anatomy is a characteristic feature of:",
+    "questionLatex": "\\text{Kranz anatomy is a characteristic feature of:}",
+    "options": [
+      "C3 plants",
+      "CAM plants",
+      "C4 plants",
+      "Bryophytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Kranz anatomy, characterized by bundle sheath cells surrounding vascular bundles, is a distinctive feature of C4 plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C4 Pathway",
+    "familyId": "pep_carboxylase",
+    "questionText": "The enzyme responsible for primary carbon dioxide fixation in C4 plants is:",
+    "questionLatex": "\\text{The enzyme responsible for primary carbon dioxide fixation in } C_4 \\text{ plants is:}",
+    "options": [
+      "RuBisCO",
+      "PEP carboxylase",
+      "ATP synthase",
+      "NADP reductase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "PEP carboxylase catalyses the primary fixation of carbon dioxide in mesophyll cells of C4 plants."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photorespiration",
+    "familyId": "photorespiration_definition",
+    "questionText": "Photorespiration occurs when RuBisCO functions as a:",
+    "questionLatex": "\\text{Photorespiration occurs when RuBisCO functions as a:}",
+    "options": [
+      "Carboxylase",
+      "Oxidase",
+      "Oxygenase",
+      "Hydrolase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During photorespiration, RuBisCO exhibits oxygenase activity by binding oxygen instead of carbon dioxide."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photorespiration",
+    "familyId": "photorespiration_effect",
+    "questionText": "Photorespiration reduces photosynthetic efficiency because it:",
+    "questionLatex": "\\text{Photorespiration reduces photosynthetic efficiency because it:}",
+    "options": [
+      "Produces additional glucose",
+      "Consumes oxygen and releases carbon dioxide without ATP synthesis",
+      "Generates excess ATP",
+      "Increases carbon dioxide fixation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Photorespiration consumes oxygen, releases carbon dioxide and does not produce ATP or sugars, thereby reducing photosynthetic efficiency."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C3 and C4 Plants",
+    "familyId": "c3_c4_examples",
+    "questionText": "Which of the following is a C4 plant?",
+    "questionLatex": "\\text{Which of the following is a } C_4 \\text{ plant?}",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Maize",
+      "Potato"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Maize is a typical C4 plant exhibiting Kranz anatomy and the Hatch-Slack pathway."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C3 and C4 Pathways",
+    "familyId": "c3_c4_difference",
+    "questionText": "Differentiate between C3 and C4 pathways of photosynthesis.",
+    "questionLatex": "\\text{Differentiate between } C_3 \\text{ and } C_4 \\text{ pathways of photosynthesis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "In C3 plants, the first carbon dioxide acceptor is RuBP and the first stable product is 3-phosphoglycerate (3-PGA). These plants do not possess Kranz anatomy and photorespiration is significant. In C4 plants, the first carbon dioxide acceptor is phosphoenolpyruvate (PEP), the first stable product is oxaloacetic acid (OAA), Kranz anatomy is present and photorespiration is negligible, resulting in higher photosynthetic efficiency."
+    },
+    "difficultyScore": 46,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "limiting_factor_law",
+    "questionText": "The law stating that when a process depends on several factors, its rate is limited by the factor nearest to its minimum value is known as:",
+    "questionLatex": "\\text{The law stating that when a process depends on several factors, its rate is limited by the factor nearest to its minimum value is known as:}",
+    "options": [
+      "Law of Segregation",
+      "Blackman's Law of Limiting Factors",
+      "Liebig's Law of Dominance",
+      "Mendel's First Law"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Blackman's Law of Limiting Factors states that the rate of a physiological process is limited by the factor that is in the least favourable amount."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "light_intensity_effect",
+    "questionText": "An increase in light intensity generally increases the rate of photosynthesis until:",
+    "questionLatex": "\\text{An increase in light intensity generally increases the rate of photosynthesis until:}",
+    "options": [
+      "All chlorophyll is destroyed",
+      "Another factor becomes limiting",
+      "Carbon dioxide is completely absent",
+      "The plant stops respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The rate increases with light intensity only until another factor such as carbon dioxide concentration or temperature becomes limiting."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "co2_concentration_effect",
+    "questionText": "Increasing carbon dioxide concentration generally enhances the rate of photosynthesis up to an optimum level because carbon dioxide acts as:",
+    "questionLatex": "\\text{Increasing carbon dioxide concentration generally enhances the rate of photosynthesis up to an optimum level because carbon dioxide acts as:}",
+    "options": [
+      "A photosynthetic pigment",
+      "A substrate for carbon fixation",
+      "An enzyme",
+      "An electron carrier"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Carbon dioxide is the substrate used during carbon fixation in the Calvin cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "temperature_effect",
+    "questionText": "The effect of temperature on photosynthesis is mainly due to its influence on:",
+    "questionLatex": "\\text{The effect of temperature on photosynthesis is mainly due to its influence on:}",
+    "options": [
+      "Light absorption by chlorophyll",
+      "Enzyme-catalysed reactions of the Calvin cycle",
+      "Water uptake by roots only",
+      "Oxygen diffusion through leaves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The biochemical reactions of carbon fixation are enzyme-mediated and therefore strongly influenced by temperature."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "water_effect",
+    "questionText": "Water is considered an important factor affecting photosynthesis because it:",
+    "questionLatex": "\\text{Water is considered an important factor affecting photosynthesis because it:}",
+    "options": [
+      "Directly supplies carbon dioxide",
+      "Acts as the source of electrons during photolysis and influences stomatal opening",
+      "Functions as the reaction centre pigment",
+      "Replaces ATP in the Calvin cycle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Water provides electrons during photolysis and water stress can cause stomatal closure, reducing carbon dioxide availability."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "internal_factors",
+    "questionText": "Which of the following is an internal factor affecting the rate of photosynthesis?",
+    "questionLatex": "\\text{Which of the following is an internal factor affecting the rate of photosynthesis?}",
+    "options": [
+      "Light intensity",
+      "Temperature",
+      "Leaf age and chlorophyll content",
+      "Carbon dioxide concentration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Internal factors include chlorophyll content, leaf age, enzyme concentration and leaf anatomy."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C3 vs C4 Plants",
+    "familyId": "c4_advantage",
+    "questionText": "Compared to $C_3$ plants, $C_4$ plants generally exhibit higher photosynthetic efficiency because they:",
+    "questionLatex": "\\text{Compared to } C_3 \\text{ plants, } C_4 \\text{ plants generally exhibit higher photosynthetic efficiency because they:}",
+    "options": [
+      "Possess more chlorophyll only",
+      "Completely lack chloroplasts in mesophyll cells",
+      "Minimize photorespiration by concentrating carbon dioxide around RuBisCO",
+      "Carry out photosynthesis only at night"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "C4 plants possess a carbon concentrating mechanism that suppresses photorespiration and improves photosynthetic efficiency."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthesis",
+    "familyId": "oxygen_source",
+    "questionText": "The oxygen released during photosynthesis is derived from:",
+    "questionLatex": "\\text{The oxygen released during photosynthesis is derived from:}",
+    "options": [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Tracer experiments demonstrated that the oxygen evolved during photosynthesis originates from the splitting of water molecules."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthesis",
+    "familyId": "photosynthesis_summary",
+    "questionText": "Which of the following statements about photosynthesis is correct?",
+    "questionLatex": "\\text{Which of the following statements about photosynthesis is correct?}",
+    "options": [
+      "ATP and NADPH are consumed during the light reaction.",
+      "The Calvin cycle directly requires sunlight.",
+      "The light reaction produces ATP and NADPH that are utilized during carbon fixation.",
+      "Oxygen is released during the Calvin cycle."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "ATP and NADPH generated during the light reaction provide energy and reducing power for the Calvin cycle."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Factors Affecting Photosynthesis",
+    "familyId": "limiting_factors_explanation",
+    "questionText": "Explain Blackman's Law of Limiting Factors and its significance in photosynthesis.",
+    "questionLatex": "\\text{Explain Blackman's Law of Limiting Factors and its significance in photosynthesis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Blackman's Law of Limiting Factors states that when a physiological process depends upon several factors, its rate is controlled by the factor that is nearest to its minimum value. In photosynthesis, even if light intensity is high, the rate cannot increase if carbon dioxide concentration, temperature or any other essential factor becomes limiting. This law explains why increasing one factor alone does not always increase the rate of photosynthesis."
+    },
+    "difficultyScore": 48,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

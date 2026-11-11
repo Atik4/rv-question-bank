@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "History of Classification",
+    "familyId": "aristotle_classification_basis",
+    "questionText": "Aristotle classified plants into trees, shrubs and herbs mainly on the basis of:",
+    "questionLatex": "$$\\text{Aristotle classified plants into trees, shrubs and herbs mainly on the basis of:}$$",
+    "options": [
+      "Cell structure",
+      "Morphological characters",
+      "Mode of nutrition",
+      "Phylogenetic relationship"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aristotle used simple morphological characters to classify plants into trees, shrubs and herbs."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "History of Classification",
+    "familyId": "aristotle_animal_classification",
+    "questionText": "According to Aristotle, animals were divided into two groups based on:",
+    "questionLatex": "$$\\text{According to Aristotle, animals were divided into two groups based on:}$$",
+    "options": [
+      "Presence or absence of cell wall",
+      "Presence or absence of red blood",
+      "Mode of nutrition",
+      "Habitat"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Aristotle divided animals into those with red blood and those without red blood."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Two Kingdom Classification",
+    "familyId": "linnaeus_two_kingdom",
+    "questionText": "Who proposed the Two Kingdom system of classification consisting of Plantae and Animalia?",
+    "questionLatex": "$$\\text{Who proposed the Two Kingdom system of classification consisting of Plantae and Animalia?}$$",
+    "options": [
+      "R.H. Whittaker",
+      "Charles Darwin",
+      "Carolus Linnaeus",
+      "Aristotle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During Linnaeus' time, the Two Kingdom system consisting of Plantae and Animalia was developed."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Two Kingdom Classification",
+    "familyId": "limitations_two_kingdom",
+    "questionText": "Which of the following was NOT distinguished in the Two Kingdom classification system?",
+    "questionLatex": "$$\\text{Which of the following was NOT distinguished in the Two Kingdom classification system?}$$",
+    "options": [
+      "Eukaryotes and prokaryotes",
+      "Unicellular and multicellular organisms",
+      "Photosynthetic and non-photosynthetic organisms",
+      "All of the above"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The Two Kingdom classification failed to distinguish between prokaryotes and eukaryotes, unicellular and multicellular organisms, and photosynthetic and non-photosynthetic organisms."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Classification",
+    "familyId": "whittaker_year",
+    "questionText": "R.H. Whittaker proposed the Five Kingdom Classification in:",
+    "questionLatex": "$$\\text{R.H. Whittaker proposed the Five Kingdom Classification in:}$$",
+    "options": [
+      "1959",
+      "1969",
+      "1979",
+      "1989"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "R.H. Whittaker proposed the Five Kingdom Classification in 1969."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Classification",
+    "familyId": "five_kingdom_names",
+    "questionText": "Which of the following correctly lists the five kingdoms proposed by Whittaker?",
+    "questionLatex": "$$\\text{Which of the following correctly lists the five kingdoms proposed by Whittaker?}$$",
+    "options": [
+      "Monera, Protista, Plantae, Animalia, Viruses",
+      "Monera, Protista, Fungi, Plantae, Animalia",
+      "Monera, Fungi, Plantae, Animalia, Viroids",
+      "Protista, Plantae, Animalia, Viruses, Fungi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Whittaker proposed the kingdoms Monera, Protista, Fungi, Plantae and Animalia."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Classification",
+    "familyId": "whittaker_criteria",
+    "questionText": "State any four criteria used by R.H. Whittaker for the Five Kingdom Classification.",
+    "questionLatex": "$$\\text{State any four criteria used by R.H. Whittaker for the Five Kingdom Classification.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The criteria include cell structure, body organisation, mode of nutrition, reproduction and phylogenetic relationships. Any four are acceptable."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Classification Systems",
+    "familyId": "three_domain_system",
+    "questionText": "The three-domain system divides Kingdom Monera into:",
+    "questionLatex": "$$\\text{The three-domain system divides Kingdom Monera into:}$$",
+    "options": [
+      "Three kingdoms",
+      "Two domains",
+      "Two phyla",
+      "Five classes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The three-domain system divides Kingdom Monera into two domains while placing the remaining eukaryotic kingdoms in the third domain."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Characteristics",
+    "familyId": "monera_cell_type",
+    "questionText": "The members of Kingdom Monera possess which type of cell?",
+    "questionLatex": "$$\\text{The members of Kingdom Monera possess which type of cell?}$$",
+    "options": [
+      "Eukaryotic",
+      "Prokaryotic",
+      "Multinucleate",
+      "Acellular"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Kingdom Monera consists of prokaryotic organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Characteristics",
+    "familyId": "animalia_cell_wall",
+    "questionText": "Which kingdom is characterised by multicellular eukaryotic organisms that lack a cell wall?",
+    "questionLatex": "$$\\text{Which kingdom is characterised by multicellular eukaryotic organisms that lack a cell wall?}$$",
+    "options": [
+      "Monera",
+      "Protista",
+      "Plantae",
+      "Animalia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Members of Kingdom Animalia are multicellular eukaryotes whose cells lack a cell wall."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Monera",
+    "familyId": "monera_members",
+    "questionText": "The sole members of Kingdom Monera are:",
+    "questionLatex": "$$\\text{The sole members of Kingdom Monera are:}$$",
+    "options": [
+      "Viruses",
+      "Bacteria",
+      "Fungi",
+      "Protozoans"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bacteria are the only members of Kingdom Monera."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Monera",
+    "familyId": "bacterial_habitats",
+    "questionText": "Which of the following habitats is inhabited by bacteria?",
+    "questionLatex": "$$\\text{Which of the following habitats is inhabited by bacteria?}$$",
+    "options": [
+      "Hot springs only",
+      "Deep oceans only",
+      "Deserts only",
+      "All of the above"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Bacteria occur almost everywhere including hot springs, deserts, snow, deep oceans and soil."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Bacterial Shapes",
+    "familyId": "bacterial_shape_match",
+    "questionText": "Match the bacterial shape with its correct description.",
+    "questionLatex": "$$\\text{Match the bacterial shape with its correct description.}$$",
+    "options": [
+      "Coccus - Rod-shaped",
+      "Bacillus - Spiral",
+      "Vibrio - Comma-shaped",
+      "Spirillum - Spherical"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Vibrio bacteria are comma-shaped."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Bacterial Shapes",
+    "familyId": "identify_bacterial_shapes",
+    "questionText": "Name the four basic bacterial shapes described in the chapter.",
+    "questionLatex": "$$\\text{Name the four basic bacterial shapes described in the chapter.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Coccus (spherical), Bacillus (rod-shaped), Vibrio (comma-shaped) and Spirillum (spiral)."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Bacterial Nutrition",
+    "familyId": "bacterial_metabolism",
+    "questionText": "Bacteria are considered metabolically diverse because they:",
+    "questionLatex": "$$\\text{Bacteria are considered metabolically diverse because they:}$$",
+    "options": [
+      "Are all autotrophs",
+      "Are all parasites",
+      "Exhibit autotrophic as well as heterotrophic modes of nutrition",
+      "Lack enzymes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bacteria exhibit the greatest metabolic diversity and may be autotrophic or heterotrophic."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Archaebacteria",
+    "familyId": "archaebacteria_habitats",
+    "questionText": "Which of the following is NOT a typical habitat of archaebacteria?",
+    "questionLatex": "$$\\text{Which of the following is NOT a typical habitat of archaebacteria?}$$",
+    "options": [
+      "Extreme salty areas",
+      "Hot springs",
+      "Marshy areas",
+      "Flower petals"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Archaebacteria inhabit extreme environments such as saline regions, hot springs and marshes."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Archaebacteria",
+    "familyId": "methanogens_function",
+    "questionText": "Methanogens present in the gut of ruminants are responsible for the production of:",
+    "questionLatex": "$$\\text{Methanogens present in the gut of ruminants are responsible for the production of:}$$",
+    "options": [
+      "Oxygen",
+      "Methane (biogas)",
+      "Nitrogen",
+      "Hydrogen peroxide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Methanogens produce methane from the dung of ruminant animals."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Eubacteria",
+    "familyId": "cyanobacteria_features",
+    "questionText": "Cyanobacteria are also commonly known as:",
+    "questionLatex": "$$\\text{Cyanobacteria are also commonly known as:}$$",
+    "options": [
+      "Brown algae",
+      "Blue-green algae",
+      "Red algae",
+      "Golden algae"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cyanobacteria are commonly referred to as blue-green algae."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Eubacteria",
+    "familyId": "heterocyst_function",
+    "questionText": "Specialised cells called heterocysts are primarily involved in:",
+    "questionLatex": "$$\\text{Specialised cells called heterocysts are primarily involved in:}$$",
+    "options": [
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Spore formation",
+      "Cell division"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Heterocysts are specialised nitrogen-fixing cells found in certain cyanobacteria."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Eubacteria",
+    "familyId": "nitrogen_fixing_examples",
+    "questionText": "Which pair of cyanobacteria contains heterocysts and is capable of fixing atmospheric nitrogen?",
+    "questionLatex": "$$\\text{Which pair of cyanobacteria contains heterocysts and is capable of fixing atmospheric nitrogen?}$$",
+    "options": [
+      "Amoeba and Paramoecium",
+      "Nostoc and Anabaena",
+      "Rhizopus and Mucor",
+      "Euglena and Gonyaulax"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Nostoc and Anabaena possess heterocysts for nitrogen fixation."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Eubacteria",
+    "familyId": "mycoplasma_characteristics",
+    "questionText": "Which of the following statements is correct about Mycoplasma?",
+    "questionLatex": "$$\\text{Which of the following statements is correct about Mycoplasma?}$$",
+    "options": [
+      "They possess a rigid cell wall.",
+      "They are the smallest living cells and lack a cell wall.",
+      "They are multicellular organisms.",
+      "They are photosynthetic bacteria."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mycoplasmas are the smallest known living cells and lack a cell wall, making them highly pleomorphic."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Eubacteria",
+    "familyId": "mycoplasma_pathogenicity",
+    "questionText": "Mycoplasmas are known to:",
+    "questionLatex": "$$\\text{Mycoplasmas are known to:}$$",
+    "options": [
+      "Cause diseases in plants and animals",
+      "Fix atmospheric nitrogen",
+      "Produce oxygen by photosynthesis",
+      "Live only in marine habitats"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Many Mycoplasma species are pathogenic and cause diseases in plants, animals and humans."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Protista",
+    "familyId": "protista_definition",
+    "questionText": "Members of Kingdom Protista are primarily:",
+    "questionLatex": "$$\\text{Members of Kingdom Protista are primarily:}$$",
+    "options": [
+      "Multicellular prokaryotes",
+      "Unicellular eukaryotes",
+      "Acellular organisms",
+      "Multicellular fungi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Kingdom Protista includes primarily unicellular eukaryotic organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Protista",
+    "familyId": "protista_habitat",
+    "questionText": "Most members of Kingdom Protista are found in:",
+    "questionLatex": "$$\\text{Most members of Kingdom Protista are found in:}$$",
+    "options": [
+      "Dry desert regions",
+      "Aquatic environments",
+      "Volcanic rocks only",
+      "Snow-covered mountains only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Most protists inhabit aquatic or moist environments."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protista",
+    "familyId": "protista_reproduction",
+    "questionText": "Which of the following modes of reproduction is commonly observed in Protista?",
+    "questionLatex": "$$\\text{Which of the following modes of reproduction is commonly observed in Protista?}$$",
+    "options": [
+      "Only vegetative reproduction",
+      "Only sexual reproduction",
+      "Both asexual and sexual reproduction",
+      "Reproduction is absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Protists commonly reproduce both asexually and sexually."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Chrysophytes",
+    "familyId": "chrysophyte_examples",
+    "questionText": "Which of the following organisms belongs to the chrysophytes?",
+    "questionLatex": "$$\\text{Which of the following organisms belongs to the chrysophytes?}$$",
+    "options": [
+      "Diatoms",
+      "Amoeba",
+      "Plasmodium",
+      "Rhizopus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Chrysophytes include diatoms and golden algae (desmids)."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Chrysophytes",
+    "familyId": "diatom_wall",
+    "questionText": "The cell walls of diatoms are impregnated with:",
+    "questionLatex": "$$\\text{The cell walls of diatoms are impregnated with:}$$",
+    "options": [
+      "Calcium carbonate",
+      "Silica",
+      "Cellulose",
+      "Lignin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Diatom cell walls contain silica, forming two overlapping halves."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Chrysophytes",
+    "familyId": "diatomaceous_earth",
+    "questionText": "Accumulation of diatom cell walls over billions of years forms:",
+    "questionLatex": "$$\\text{Accumulation of diatom cell walls over billions of years forms:}$$",
+    "options": [
+      "Peat",
+      "Coal",
+      "Diatomaceous earth",
+      "Humus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The siliceous cell walls of dead diatoms accumulate to form diatomaceous earth."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Chrysophytes",
+    "familyId": "diatom_economic_importance",
+    "questionText": "State one economic importance of diatomaceous earth.",
+    "questionLatex": "$$\\text{State one economic importance of diatomaceous earth.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Diatomaceous earth is used as a filtering material for oils and syrups and also as a polishing agent."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Dinoflagellates",
+    "familyId": "dinoflagellate_cell_wall",
+    "questionText": "The cell wall of dinoflagellates is mainly composed of:",
+    "questionLatex": "$$\\text{The cell wall of dinoflagellates is mainly composed of:}$$",
+    "options": [
+      "Silica plates",
+      "Cellulose plates",
+      "Chitin",
+      "Pectin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dinoflagellates possess stiff cellulose plates on the outer surface of their cells."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Dinoflagellates",
+    "familyId": "dinoflagellate_colour",
+    "questionText": "The characteristic colour of many dinoflagellates is due to the presence of:",
+    "questionLatex": "$$\\text{The characteristic colour of many dinoflagellates is due to the presence of:}$$",
+    "options": [
+      "Chlorophyll only",
+      "Xanthophylls and other pigments",
+      "Haemoglobin",
+      "Melanin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dinoflagellates appear yellow, green, brown, blue or red because of the pigments present in their cells."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Dinoflagellates",
+    "familyId": "red_tides_cause",
+    "questionText": "Red tides are commonly caused by the rapid multiplication of:",
+    "questionLatex": "$$\\text{Red tides are commonly caused by the rapid multiplication of:}$$",
+    "options": [
+      "Diatoms",
+      "Dinoflagellates such as Gonyaulax",
+      "Amoeba",
+      "Slime moulds"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Blooms of the dinoflagellate Gonyaulax impart a red colour to seawater, producing red tides."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Dinoflagellates",
+    "familyId": "red_tide_effect",
+    "questionText": "Why are red tides considered harmful to marine life?",
+    "questionLatex": "$$\\text{Why are red tides considered harmful to marine life?}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Many red tide-forming dinoflagellates release toxins that can kill marine animals such as fishes and other aquatic organisms."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Euglenoids",
+    "familyId": "euglenoid_features",
+    "questionText": "Which of the following is a characteristic feature of euglenoids?",
+    "questionLatex": "$$\\text{Which of the following is a characteristic feature of euglenoids?}$$",
+    "options": [
+      "Cell wall made of cellulose",
+      "Pellicle instead of a cell wall",
+      "Siliceous cell wall",
+      "Chitinous cell wall"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Euglenoids lack a cell wall and possess a protein-rich layer called a pellicle."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Euglenoids",
+    "familyId": "euglena_nutrition",
+    "questionText": "Euglena exhibits which type of nutrition?",
+    "questionLatex": "$$\\text{Euglena exhibits which type of nutrition?}$$",
+    "options": [
+      "Only autotrophic",
+      "Only heterotrophic",
+      "Mixotrophic, depending on the availability of light",
+      "Saprophytic only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Euglena is photosynthetic in the presence of light and heterotrophic in the absence of light."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Euglenoids",
+    "familyId": "euglenoid_pigments",
+    "questionText": "The photosynthetic pigments present in euglenoids are similar to those found in:",
+    "questionLatex": "$$\\text{The photosynthetic pigments present in euglenoids are similar to those found in:}$$",
+    "options": [
+      "Fungi",
+      "Higher plants",
+      "Bacteria",
+      "Protozoans"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Euglenoids contain chlorophyll a and b, similar to higher plants."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "protozoan_nutrition",
+    "questionText": "Members of the protozoan group are generally:",
+    "questionLatex": "$$\\text{Members of the protozoan group are generally:}$$",
+    "options": [
+      "Autotrophic",
+      "Chemosynthetic",
+      "Heterotrophic",
+      "Saprophytic fungi"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Protozoans are heterotrophic organisms and may be predators or parasites."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "amoeboid_protozoans",
+    "questionText": "Amoeboid protozoans move and capture food with the help of:",
+    "questionLatex": "$$\\text{Amoeboid protozoans move and capture food with the help of:}$$",
+    "options": [
+      "Cilia",
+      "Flagella",
+      "Pseudopodia",
+      "Pellicle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Amoeboid protozoans move and engulf food using pseudopodia."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "flagellated_protozoans",
+    "questionText": "Which of the following diseases is caused by a flagellated protozoan?",
+    "questionLatex": "$$\\text{Which of the following diseases is caused by a flagellated protozoan?}$$",
+    "options": [
+      "Malaria",
+      "Sleeping sickness",
+      "Typhoid",
+      "Tuberculosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sleeping sickness is caused by the flagellated protozoan Trypanosoma."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "ciliated_protozoans",
+    "questionText": "Which protozoan moves actively using thousands of cilia covering its body?",
+    "questionLatex": "$$\\text{Which protozoan moves actively using thousands of cilia covering its body?}$$",
+    "options": [
+      "Amoeba",
+      "Trypanosoma",
+      "Paramoecium",
+      "Plasmodium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Paramoecium is a ciliated protozoan that moves with the help of numerous cilia."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "sporozoans_characteristics",
+    "questionText": "Which of the following is a characteristic feature of sporozoans?",
+    "questionLatex": "$$\\text{Which of the following is a characteristic feature of sporozoans?}$$",
+    "options": [
+      "Presence of pseudopodia",
+      "Presence of numerous cilia",
+      "Infectious spore-like stage in the life cycle",
+      "Photosynthetic mode of nutrition"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Sporozoans possess an infectious spore-like stage in their life cycle and are generally parasitic."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Protozoans",
+    "familyId": "plasmodium_disease",
+    "questionText": "The protozoan Plasmodium is responsible for causing:",
+    "questionLatex": "$$\\text{The protozoan } \\textit{Plasmodium} \\text{ is responsible for causing:}$$",
+    "options": [
+      "Sleeping sickness",
+      "Malaria",
+      "Amoebic dysentery",
+      "Kala-azar"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Plasmodium is a sporozoan parasite that causes malaria."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "fungi_cell_wall",
+    "questionText": "The cell wall of fungi is primarily composed of:",
+    "questionLatex": "$$\\text{The cell wall of fungi is primarily composed of:}$$",
+    "options": [
+      "Cellulose",
+      "Peptidoglycan",
+      "Chitin",
+      "Silica"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fungal cell walls are mainly composed of chitin and polysaccharides."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "fungi_nutrition",
+    "questionText": "The common mode of nutrition in fungi is:",
+    "questionLatex": "$$\\text{The common mode of nutrition in fungi is:}$$",
+    "options": [
+      "Photosynthetic",
+      "Holozoic",
+      "Absorptive heterotrophic",
+      "Chemosynthetic"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fungi are heterotrophs that absorb dissolved organic matter from their surroundings."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "fungal_hyphae",
+    "questionText": "The network of hyphae forming the vegetative body of a fungus is called:",
+    "questionLatex": "$$\\text{The network of hyphae forming the vegetative body of a fungus is called:}$$",
+    "options": [
+      "Thallus",
+      "Mycelium",
+      "Conidium",
+      "Ascocarp"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A mass of interwoven hyphae constitutes the mycelium of a fungus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "fungal_reproduction",
+    "questionText": "Which of the following is a common method of vegetative reproduction in fungi?",
+    "questionLatex": "$$\\text{Which of the following is a common method of vegetative reproduction in fungi?}$$",
+    "options": [
+      "Binary fission",
+      "Fragmentation",
+      "Conjugation",
+      "Budding only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Vegetative reproduction in fungi commonly occurs by fragmentation, fission or budding depending on the group."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "fungal_spores",
+    "questionText": "Name the common asexual spores produced by fungi.",
+    "questionLatex": "$$\\text{Name the common asexual spores produced by fungi.}$$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Common asexual spores of fungi include conidia, sporangiospores and zoospores."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "sexual_reproduction_fungi",
+    "questionText": "Sexual reproduction in fungi generally involves which three sequential steps?",
+    "questionLatex": "$$\\text{Sexual reproduction in fungi generally involves which three sequential steps?}$$",
+    "options": [
+      "Budding, fragmentation and sporulation",
+      "Plasmogamy, karyogamy and meiosis",
+      "Binary fission, conjugation and meiosis",
+      "Fusion, mitosis and sporulation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Sexual reproduction in fungi proceeds through plasmogamy, karyogamy and meiosis."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "phycomycetes_habitat",
+    "questionText": "Members of Phycomycetes are commonly found in:",
+    "questionLatex": "$$\\text{Members of Phycomycetes are commonly found in:}$$",
+    "options": [
+      "Aquatic habitats, damp places and decaying wood",
+      "Only marine habitats",
+      "Dry desert soils only",
+      "Only inside animal tissues"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Phycomycetes occur in aquatic habitats, damp soil, decaying wood and as parasites on plants."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Fungi",
+    "familyId": "phycomycetes_examples",
+    "questionText": "Which of the following is an example of Phycomycetes?",
+    "questionLatex": "$$\\text{Which of the following is an example of Phycomycetes?}$$",
+    "options": [
+      "Rhizopus",
+      "Penicillium",
+      "Saccharomyces",
+      "Puccinia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Rhizopus, Mucor and Albugo are common examples of Phycomycetes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

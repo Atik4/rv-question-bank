@@ -1,0 +1,1227 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neural Coordination",
+    "familyId": "coordination_definition",
+    "questionText": "Coordination is the process through which:",
+    "questionLatex": "\\text{Coordination is the process through which:}",
+    "options": [
+      "Only muscles perform voluntary movements.",
+      "Two or more organs interact and complement the functions of one another.",
+      "Hormones are secreted into the bloodstream.",
+      "Cells divide continuously."
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Coordination is the process by which two or more organs interact and complement one another to maintain homeostasis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neural System",
+    "familyId": "neuron_definition",
+    "questionText": "The structural and functional unit of the neural system is the:",
+    "questionLatex": "\\text{The structural and functional unit of the neural system is the:}",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Axon",
+      "Ganglion"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Neurons are specialized cells that detect, receive and transmit different kinds of stimuli."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Human Neural System",
+    "familyId": "human_neural_divisions",
+    "questionText": "The human neural system is divided into:",
+    "questionLatex": "\\text{The human neural system is divided into:}",
+    "options": [
+      "Somatic and autonomic nervous systems",
+      "Central neural system and peripheral neural system",
+      "Brain and spinal nerves",
+      "Sympathetic and parasympathetic systems"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The human neural system consists of the Central Neural System (CNS) and Peripheral Neural System (PNS)."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Central Neural System",
+    "familyId": "cns_components",
+    "questionText": "The Central Neural System (CNS) consists of:",
+    "questionLatex": "\\text{The Central Neural System (CNS) consists of:}",
+    "options": [
+      "Brain and spinal cord",
+      "Brain and cranial nerves",
+      "Spinal nerves and ganglia",
+      "Brain and autonomic nerves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The CNS includes the brain and spinal cord, which are the main centres for information processing and control."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Peripheral Neural System",
+    "familyId": "afferent_efferent",
+    "questionText": "Afferent nerve fibres transmit impulses:",
+    "questionLatex": "\\text{Afferent nerve fibres transmit impulses:}",
+    "options": [
+      "From the CNS to muscles",
+      "From tissues and organs to the CNS",
+      "Between the cerebral hemispheres",
+      "Only to smooth muscles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Afferent (sensory) nerve fibres carry impulses from receptors or organs to the CNS."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Peripheral Neural System",
+    "familyId": "efferent_function",
+    "questionText": "Efferent nerve fibres are responsible for transmitting impulses:",
+    "questionLatex": "\\text{Efferent nerve fibres are responsible for transmitting impulses:}",
+    "options": [
+      "From tissues to the CNS",
+      "From the CNS to peripheral tissues and organs",
+      "Between adjacent neurons only",
+      "Only to sensory receptors"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Efferent (motor) fibres transmit regulatory impulses from the CNS to effectors."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Peripheral Neural System",
+    "familyId": "somatic_nervous_system",
+    "questionText": "The somatic neural system relays impulses from the CNS to:",
+    "questionLatex": "\\text{The somatic neural system relays impulses from the CNS to:}",
+    "options": [
+      "Cardiac muscles",
+      "Skeletal muscles",
+      "Smooth muscles only",
+      "Endocrine glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The somatic nervous system controls voluntary activities by supplying skeletal muscles."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Autonomic Neural System",
+    "familyId": "autonomic_divisions",
+    "questionText": "The autonomic neural system is further divided into:",
+    "questionLatex": "\\text{The autonomic neural system is further divided into:}",
+    "options": [
+      "Cranial and spinal systems",
+      "Sensory and motor systems",
+      "Sympathetic and parasympathetic systems",
+      "Forebrain and hindbrain"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The autonomic nervous system has sympathetic and parasympathetic divisions that regulate involuntary activities."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neuron Structure",
+    "familyId": "parts_of_neuron",
+    "questionText": "A typical neuron consists of which three major parts?",
+    "questionLatex": "\\text{A typical neuron consists of which three major parts?}",
+    "options": [
+      "Cell body, dendrites and axon",
+      "Cell body, nucleus and myelin sheath",
+      "Dendrites, synapse and Schwann cells",
+      "Axon, ganglion and synapse"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A neuron consists of a cell body (cyton), dendrites and a single axon."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neuron Structure",
+    "familyId": "nissl_granules",
+    "questionText": "Nissl's granules are present in the:",
+    "questionLatex": "\\text{Nissl's granules are present in the:}",
+    "options": [
+      "Cell body and dendrites",
+      "Myelin sheath only",
+      "Axon terminal only",
+      "Nodes of Ranvier"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Nissl's granules are found in the cell body and dendrites but are absent in the axon."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neuron Structure",
+    "familyId": "dendrite_function",
+    "questionText": "The primary function of dendrites in a neuron is to:",
+    "questionLatex": "\\text{The primary function of dendrites in a neuron is to:}",
+    "options": [
+      "Transmit impulses away from the cell body",
+      "Transmit impulses towards the cell body",
+      "Produce neurotransmitters",
+      "Form the myelin sheath"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dendrites receive stimuli and conduct nerve impulses towards the cell body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neuron Structure",
+    "familyId": "axon_function",
+    "questionText": "The axon of a neuron transmits nerve impulses:",
+    "questionLatex": "\\text{The axon of a neuron transmits nerve impulses:}",
+    "options": [
+      "Towards the cell body",
+      "Away from the cell body to a synapse or neuromuscular junction",
+      "Only to another axon",
+      "Towards the nucleus only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The axon conducts impulses away from the cell body to another neuron or an effector organ."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Neuron Structure",
+    "familyId": "synaptic_knob",
+    "questionText": "Synaptic vesicles containing neurotransmitters are present in the:",
+    "questionLatex": "\\text{Synaptic vesicles containing neurotransmitters are present in the:}",
+    "options": [
+      "Cell body",
+      "Dendrites",
+      "Synaptic knob",
+      "Node of Ranvier"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The terminal branches of the axon end in synaptic knobs that contain neurotransmitter-filled synaptic vesicles."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Types of Neurons",
+    "familyId": "multipolar_neuron",
+    "questionText": "Multipolar neurons are commonly found in the:",
+    "questionLatex": "\\text{Multipolar neurons are commonly found in the:}",
+    "options": [
+      "Retina of the eye",
+      "Embryonic stage only",
+      "Cerebral cortex",
+      "Cornea"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Multipolar neurons possess one axon and two or more dendrites and are commonly found in the cerebral cortex."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Types of Neurons",
+    "familyId": "bipolar_neuron",
+    "questionText": "Bipolar neurons are characteristically present in the:",
+    "questionLatex": "\\text{Bipolar neurons are characteristically present in the:}",
+    "options": [
+      "Retina of the eye",
+      "Spinal cord",
+      "Cerebral cortex",
+      "Liver"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Bipolar neurons possess one axon and one dendrite and are found in the retina."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Myelinated Fibres",
+    "familyId": "schwann_cells",
+    "questionText": "The myelin sheath around an axon is formed by:",
+    "questionLatex": "\\text{The myelin sheath around an axon is formed by:}",
+    "options": [
+      "Astrocytes",
+      "Schwann cells",
+      "Microglia",
+      "Oligodendrocytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In peripheral nerves, Schwann cells wrap around the axon to form the myelin sheath."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Myelinated Fibres",
+    "familyId": "nodes_of_ranvier",
+    "questionText": "The gaps between two adjacent myelin sheaths are known as:",
+    "questionLatex": "\\text{The gaps between two adjacent myelin sheaths are known as:}",
+    "options": [
+      "Synaptic clefts",
+      "Nodes of Ranvier",
+      "Motor end plates",
+      "Corpus callosum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Nodes of Ranvier are interruptions in the myelin sheath that facilitate rapid impulse conduction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Resting Potential",
+    "familyId": "resting_membrane",
+    "questionText": "During the resting state of a neuron, the axonal membrane is comparatively more permeable to:",
+    "questionLatex": "\\text{During the resting state, the axonal membrane is comparatively more permeable to:}",
+    "options": [
+      "Na^+",
+      "Ca^{2+}",
+      "K^+",
+      "Cl^-"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In the resting state, the membrane is more permeable to K⁺ than to Na⁺."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Resting Potential",
+    "familyId": "sodium_potassium_pump",
+    "questionText": "The sodium-potassium pump maintains the resting membrane potential by transporting:",
+    "questionLatex": "\\text{The sodium-potassium pump transports:}",
+    "options": [
+      "2 Na^+ out and 3 K^+ in",
+      "3 Na^+ out and 2 K^+ in",
+      "3 K^+ out and 2 Na^+ in",
+      "Equal numbers of Na^+ and K^+"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The sodium-potassium pump actively transports 3 Na⁺ ions out of the cell and 2 K⁺ ions into the cell."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Resting Potential",
+    "familyId": "resting_potential_definition",
+    "questionText": "The electrical potential difference across the resting plasma membrane is called:",
+    "questionLatex": "\\text{The electrical potential difference across the resting plasma membrane is called:}",
+    "options": [
+      "Action potential",
+      "Resting potential",
+      "Threshold potential",
+      "Synaptic potential"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The electrical potential difference across the resting neuronal membrane is known as the resting potential."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Generation of Nerve Impulse",
+    "familyId": "depolarisation_process",
+    "questionText": "Depolarisation of a neuron occurs due to the:",
+    "questionLatex": "\\text{Depolarisation of a neuron occurs due to the:}",
+    "options": [
+      "Rapid efflux of K^+ ions",
+      "Rapid influx of Na^+ ions",
+      "Influx of negatively charged proteins",
+      "Efflux of Ca^{2+} ions"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Depolarisation occurs when sodium channels open, allowing a rapid influx of Na⁺ into the neuron."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Action Potential",
+    "familyId": "action_potential_definition",
+    "questionText": "The electrical potential difference generated across the plasma membrane at the site of depolarisation is called:",
+    "questionLatex": "\\text{The electrical potential difference generated during depolarisation is called:}",
+    "options": [
+      "Resting potential",
+      "Action potential",
+      "Threshold potential",
+      "Membrane potential"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The electrical potential generated during depolarisation is called the action potential or nerve impulse."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Generation of Nerve Impulse",
+    "familyId": "repolarisation_process",
+    "questionText": "Repolarisation of the neuronal membrane occurs mainly due to:",
+    "questionLatex": "\\text{Repolarisation of the neuronal membrane occurs mainly due to:}",
+    "options": [
+      "Influx of Na^+ ions",
+      "Efflux of K^+ ions",
+      "Influx of Cl^- ions",
+      "Entry of neurotransmitters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During repolarisation, potassium ions diffuse out of the neuron, restoring the resting membrane potential."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Synapse",
+    "familyId": "synapse_definition",
+    "questionText": "A synapse is formed between the membranes of:",
+    "questionLatex": "\\text{A synapse is formed between the membranes of:}",
+    "options": [
+      "Two dendrites",
+      "A pre-synaptic neuron and a post-synaptic neuron",
+      "Two axons",
+      "A neuron and a Schwann cell"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A synapse is the functional junction between a pre-synaptic neuron and a post-synaptic neuron."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Synapse",
+    "familyId": "types_of_synapse",
+    "questionText": "Which of the following correctly represents the two major types of synapses?",
+    "questionLatex": "\\text{Which of the following correctly represents the two major types of synapses?}",
+    "options": [
+      "Sensory and motor synapses",
+      "Electrical and chemical synapses",
+      "Excitatory and inhibitory synapses",
+      "Afferent and efferent synapses"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The two major types of synapses are electrical synapses and chemical synapses."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Electrical Synapse",
+    "familyId": "electrical_synapse_feature",
+    "questionText": "Impulse transmission is fastest across:",
+    "questionLatex": "\\text{Impulse transmission is fastest across:}",
+    "options": [
+      "Chemical synapses",
+      "Electrical synapses",
+      "Neuromuscular junctions",
+      "Nodes of Ranvier"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Electrical synapses permit direct flow of current between neurons and therefore transmit impulses faster than chemical synapses."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Chemical Synapse",
+    "familyId": "synaptic_cleft",
+    "questionText": "The fluid-filled gap separating the pre-synaptic and post-synaptic membranes is called:",
+    "questionLatex": "\\text{The fluid-filled gap between two neurons is called:}",
+    "options": [
+      "Node of Ranvier",
+      "Synaptic cleft",
+      "Neural canal",
+      "Axolemma"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In a chemical synapse, the pre- and post-synaptic membranes are separated by the synaptic cleft."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Chemical Synapse",
+    "familyId": "neurotransmitter_function",
+    "questionText": "Neurotransmitters released into the synaptic cleft bind to:",
+    "questionLatex": "\\text{Neurotransmitters released into the synaptic cleft bind to:}",
+    "options": [
+      "Schwann cells",
+      "Receptors on the post-synaptic membrane",
+      "Myelin sheath",
+      "Nissl's granules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Neurotransmitters bind to specific receptors present on the post-synaptic membrane to generate a new potential."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Chemical Synapse",
+    "familyId": "postsynaptic_potential",
+    "questionText": "The new potential generated in the post-synaptic neuron after neurotransmitter binding may be:",
+    "questionLatex": "\\text{The new potential generated in the post-synaptic neuron may be:}",
+    "options": [
+      "Only excitatory",
+      "Only inhibitory",
+      "Either excitatory or inhibitory",
+      "Neither excitatory nor inhibitory"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Depending on the neurotransmitter and receptor involved, the post-synaptic potential may be excitatory or inhibitory."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Human Brain",
+    "familyId": "brain_protection",
+    "questionText": "The human brain is enclosed within the:",
+    "questionLatex": "\\text{The human brain is enclosed within the:}",
+    "options": [
+      "Vertebral column",
+      "Cranium",
+      "Thoracic cavity",
+      "Pelvic girdle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The brain is protected by the bony cranium of the skull."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Human Brain",
+    "familyId": "brain_coverings",
+    "questionText": "The brain is covered by three protective membranes collectively known as:",
+    "questionLatex": "\\text{The brain is covered by three protective membranes collectively known as:}",
+    "options": [
+      "Peritoneum",
+      "Pleura",
+      "Meninges",
+      "Pericardium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The three membranes surrounding the brain are collectively called the meninges."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Cerebrospinal Fluid",
+    "familyId": "csf_function",
+    "questionText": "The cerebrospinal fluid (CSF) primarily functions to:",
+    "questionLatex": "\\text{The cerebrospinal fluid (CSF) primarily functions to:}",
+    "options": [
+      "Digest food",
+      "Transmit nerve impulses",
+      "Provide nourishment and protect the brain from mechanical shocks",
+      "Produce neurotransmitters"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "CSF cushions the brain against mechanical injury and provides nutrients."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Forebrain",
+    "familyId": "brain_divisions",
+    "questionText": "The human brain is broadly divided into:",
+    "questionLatex": "\\text{The human brain is broadly divided into:}",
+    "options": [
+      "Cerebrum and cerebellum",
+      "Forebrain, midbrain and hindbrain",
+      "Left brain and right brain",
+      "Brainstem and cerebellum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The human brain is divided into the forebrain, midbrain and hindbrain."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Cerebrum",
+    "familyId": "largest_part_brain",
+    "questionText": "The largest part of the human brain is the:",
+    "questionLatex": "\\text{The largest part of the human brain is the:}",
+    "options": [
+      "Cerebellum",
+      "Medulla oblongata",
+      "Cerebrum",
+      "Pons"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The cerebrum forms the major portion of the forebrain and is the largest part of the human brain."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Cerebrum",
+    "familyId": "corpus_callosum",
+    "questionText": "The two cerebral hemispheres are connected internally by the:",
+    "questionLatex": "\\text{The two cerebral hemispheres are connected internally by the:}",
+    "options": [
+      "Pons",
+      "Corpus callosum",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The corpus callosum is a broad band of nerve fibres connecting the two cerebral hemispheres."
+    },
+    "difficultyScore": 26,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Forebrain",
+    "familyId": "thalamus_function",
+    "questionText": "The thalamus primarily acts as:",
+    "questionLatex": "\\text{The thalamus primarily acts as:}",
+    "options": [
+      "The centre for memory formation",
+      "A major coordinating centre for sensory and motor signalling",
+      "The respiratory centre",
+      "The balance centre"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The thalamus receives and relays sensory and motor information to appropriate regions of the cerebrum."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Hypothalamus",
+    "familyId": "hypothalamus_function",
+    "questionText": "Which of the following functions is primarily regulated by the hypothalamus?",
+    "questionLatex": "\\text{Which of the following functions is primarily regulated by the hypothalamus?}",
+    "options": [
+      "Vision",
+      "Hearing",
+      "Regulation of body temperature and hunger",
+      "Coordination of voluntary movements"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The hypothalamus regulates body temperature, hunger, thirst and several autonomic and endocrine functions."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Midbrain",
+    "familyId": "midbrain_function",
+    "questionText": "The corpora quadrigemina of the midbrain are mainly associated with:",
+    "questionLatex": "\\text{The corpora quadrigemina of the midbrain are mainly associated with:}",
+    "options": [
+      "Regulation of heartbeat",
+      "Visual and auditory reflexes",
+      "Maintenance of posture",
+      "Memory and learning"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The superior and inferior colliculi of the corpora quadrigemina are centres for visual and auditory reflexes."
+    },
+    "difficultyScore": 34,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Hindbrain",
+    "familyId": "cerebellum_function",
+    "questionText": "The cerebellum is primarily responsible for:",
+    "questionLatex": "\\text{The cerebellum is primarily responsible for:}",
+    "options": [
+      "Initiating endocrine secretions",
+      "Maintaining posture, balance and precision of voluntary movements",
+      "Generating nerve impulses",
+      "Controlling digestion only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cerebellum coordinates voluntary muscular activity and helps maintain posture and equilibrium."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Hindbrain",
+    "familyId": "medulla_oblongata_function",
+    "questionText": "The medulla oblongata contains centres that regulate:",
+    "questionLatex": "\\text{The medulla oblongata contains centres that regulate:}",
+    "options": [
+      "Memory and intelligence",
+      "Voluntary movements of limbs",
+      "Respiration, cardiovascular reflexes and gastric secretions",
+      "Vision and hearing"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The medulla oblongata contains vital centres that regulate respiration, cardiovascular reflexes and gastric secretions."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Brainstem",
+    "familyId": "brainstem_components",
+    "questionText": "The brainstem is composed of:",
+    "questionLatex": "\\text{The brainstem is composed of:}",
+    "options": [
+      "Cerebrum, cerebellum and thalamus",
+      "Midbrain, pons and medulla oblongata",
+      "Hypothalamus, cerebellum and pons",
+      "Thalamus, medulla and spinal cord"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The brainstem consists of the midbrain, pons and medulla oblongata."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Spinal Cord",
+    "familyId": "spinal_cord_location",
+    "questionText": "The spinal cord extends from the medulla oblongata through the:",
+    "questionLatex": "\\text{The spinal cord extends from the medulla oblongata through the:}",
+    "options": [
+      "Thoracic cavity",
+      "Vertebral canal",
+      "Cranial cavity",
+      "Pelvic cavity"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The spinal cord lies within the vertebral canal formed by the vertebral column."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Spinal Cord",
+    "familyId": "spinal_cord_function",
+    "questionText": "The spinal cord primarily functions as:",
+    "questionLatex": "\\text{The spinal cord primarily functions as:}",
+    "options": [
+      "The centre for intelligence",
+      "A pathway for nerve impulses and the centre for reflex actions",
+      "The centre for endocrine regulation",
+      "The organ responsible for hearing"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The spinal cord conducts nerve impulses to and from the brain and serves as the centre for spinal reflexes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Reflex Action",
+    "familyId": "reflex_action_definition",
+    "questionText": "A reflex action is best defined as:",
+    "questionLatex": "\\text{A reflex action is best defined as:}",
+    "options": [
+      "A voluntary response under conscious control",
+      "A rapid, automatic and involuntary response to a stimulus",
+      "A learned behavioural response",
+      "A hormonal response to stress"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A reflex action is a quick, involuntary response to a stimulus without conscious involvement."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Reflex Arc",
+    "familyId": "reflex_arc_definition",
+    "questionText": "The neural pathway involved in a reflex action is called the:",
+    "questionLatex": "\\text{The neural pathway involved in a reflex action is called the:}",
+    "options": [
+      "Motor pathway",
+      "Reflex arc",
+      "Sensory tract",
+      "Neural loop"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The reflex arc is the shortest pathway through which impulses travel during a reflex action."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Reflex Arc",
+    "familyId": "components_reflex_arc",
+    "questionText": "Which of the following correctly represents the sequence of components in a reflex arc?",
+    "questionLatex": "\\text{Which sequence correctly represents a reflex arc?}",
+    "options": [
+      "Receptor \\rightarrow \\text{Sensory neuron} \\rightarrow \\text{CNS} \\rightarrow \\text{Motor neuron} \\rightarrow \\text{Effector}",
+      "Effector \\rightarrow \\text{Motor neuron} \\rightarrow \\text{CNS} \\rightarrow \\text{Sensory neuron} \\rightarrow \\text{Receptor}",
+      "Motor neuron \\rightarrow \\text{Receptor} \\rightarrow \\text{CNS} \\rightarrow \\text{Sensory neuron} \\rightarrow \\text{Effector}",
+      "CNS \\rightarrow \\text{Receptor} \\rightarrow \\text{Motor neuron} \\rightarrow \\text{Sensory neuron} \\rightarrow \\text{Effector}"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "A reflex arc consists of a receptor, sensory neuron, CNS, motor neuron and effector in sequence."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Sense Organs",
+    "familyId": "eye_photoreceptors",
+    "questionText": "The photoreceptor cells present in the retina are:",
+    "questionLatex": "\\text{The photoreceptor cells present in the retina are:}",
+    "options": [
+      "Cones and ganglion cells",
+      "Rods and cones",
+      "Bipolar and multipolar neurons",
+      "Schwann cells and rods"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The retina contains rod cells for dim-light vision and cone cells for colour and daylight vision."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Sense Organs",
+    "familyId": "blind_spot",
+    "questionText": "The blind spot of the human eye is the region where:",
+    "questionLatex": "\\text{The blind spot of the human eye is the region where:}",
+    "options": [
+      "Only cone cells are present",
+      "Only rod cells are present",
+      "The optic nerve leaves the eyeball and photoreceptors are absent",
+      "The lens is attached to the ciliary body"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The blind spot is the point where the optic nerve exits the retina and no rods or cones are present."
+    },
+    "difficultyScore": 28,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Neural Control and Coordination",
+    "topic": "Sense Organs",
+    "familyId": "yellow_spot",
+    "questionText": "The yellow spot (macula lutea) is characterized by:",
+    "questionLatex": "\\text{The yellow spot (macula lutea) is characterized by:}",
+    "options": [
+      "Absence of photoreceptor cells",
+      "High density of cone cells and maximum visual acuity",
+      "Presence of only rod cells",
+      "Attachment of the optic nerve"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The macula lutea, especially the fovea, has the highest concentration of cone cells and provides the sharpest vision."
+    },
+    "difficultyScore": 30,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

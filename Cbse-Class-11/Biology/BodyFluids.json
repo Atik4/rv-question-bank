@@ -1,0 +1,1252 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood",
+    "familyId": "blood_connective_tissue",
+    "questionText": "Blood is classified as a special type of:",
+    "questionLatex": "\\text{Blood is classified as a special type of:}",
+    "options": [
+      "Muscular tissue",
+      "Connective tissue",
+      "Epithelial tissue",
+      "Nervous tissue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Blood is a specialized connective tissue consisting of plasma and formed elements."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Plasma",
+    "familyId": "plasma_percentage",
+    "questionText": "Plasma constitutes nearly what percentage of the total blood volume?",
+    "questionLatex": "\\text{Plasma constitutes nearly what percentage of the total blood volume?}",
+    "options": [
+      "35%",
+      "45%",
+      "55%",
+      "65%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plasma forms nearly 55% of the total blood volume."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Plasma",
+    "familyId": "plasma_water_content",
+    "questionText": "Approximately what percentage of plasma is water?",
+    "questionLatex": "\\text{Approximately what percentage of plasma is water?}",
+    "options": [
+      "60-65%",
+      "70-75%",
+      "80-85%",
+      "90-92%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "About 90-92% of plasma consists of water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Plasma Proteins",
+    "familyId": "fibrinogen_function",
+    "questionText": "Which plasma protein is primarily responsible for blood clotting?",
+    "questionLatex": "\\text{Which plasma protein is primarily responsible for blood clotting?}",
+    "options": [
+      "Albumin",
+      "Globulin",
+      "Fibrinogen",
+      "Haemoglobin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Fibrinogen is converted into fibrin during blood coagulation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Plasma Proteins",
+    "familyId": "albumin_function",
+    "questionText": "Albumins mainly help in maintaining:",
+    "questionLatex": "\\text{Albumins mainly help in maintaining:}",
+    "options": [
+      "Blood clotting",
+      "Immune response",
+      "Osmotic balance",
+      "Oxygen transport"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Albumins are responsible for maintaining the osmotic balance of blood."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Plasma",
+    "familyId": "serum_definition",
+    "questionText": "Plasma without clotting factors is known as:",
+    "questionLatex": "\\text{Plasma without clotting factors is known as:}",
+    "options": [
+      "Lymph",
+      "Serum",
+      "Platelet concentrate",
+      "Buffy coat"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Serum is plasma from which clotting factors have been removed."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Formed Elements",
+    "familyId": "formed_elements",
+    "questionText": "The formed elements of blood include:",
+    "questionLatex": "\\text{The formed elements of blood include:}",
+    "options": [
+      "Plasma proteins, water and minerals",
+      "RBCs, WBCs and platelets",
+      "Albumin, globulin and fibrinogen",
+      "Serum and lymph"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The formed elements of blood are erythrocytes, leucocytes and platelets."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Erythrocytes",
+    "familyId": "rbc_origin",
+    "questionText": "In adults, red blood cells are produced mainly in the:",
+    "questionLatex": "\\text{In adults, red blood cells are produced mainly in the:}",
+    "options": [
+      "Spleen",
+      "Liver",
+      "Red bone marrow",
+      "Lymph nodes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "In adults, erythrocytes are formed in the red bone marrow."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Erythrocytes",
+    "familyId": "rbc_features",
+    "questionText": "Which one of the following is a characteristic feature of mammalian red blood cells?",
+    "questionLatex": "\\text{Which one of the following is a characteristic feature of mammalian red blood cells?}",
+    "options": [
+      "Nucleated and spherical",
+      "Biconcave and devoid of nucleus",
+      "Cuboidal and multinucleate",
+      "Irregular and amoeboid"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Mammalian erythrocytes are biconcave, flexible and lack a nucleus."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Erythrocytes",
+    "familyId": "rbc_lifespan",
+    "questionText": "The average life span of a human red blood cell is:",
+    "questionLatex": "\\text{The average life span of a human red blood cell is:}",
+    "options": [
+      "60 days",
+      "90 days",
+      "120 days",
+      "180 days"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Human erythrocytes survive for about 120 days before being destroyed mainly in the spleen."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Leucocytes",
+    "familyId": "wbc_count",
+    "questionText": "The normal count of white blood cells (WBCs) in human blood is approximately:",
+    "questionLatex": "\\text{The normal count of white blood cells (WBCs) in human blood is approximately:}",
+    "options": [
+      "600-800 mm⁻³",
+      "6,000-8,000 mm⁻³",
+      "60,000-80,000 mm⁻³",
+      "1,50,000-3,50,000 mm⁻³"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A healthy individual has about 6,000-8,000 leucocytes per mm³ of blood."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Leucocytes",
+    "familyId": "neutrophils_abundance",
+    "questionText": "Which type of white blood cell is the most abundant in human blood?",
+    "questionLatex": "\\text{Which type of white blood cell is the most abundant in human blood?}",
+    "options": [
+      "Basophils",
+      "Eosinophils",
+      "Neutrophils",
+      "Monocytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Neutrophils constitute about 60-65% of the total white blood cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Leucocytes",
+    "familyId": "basophil_function",
+    "questionText": "Basophils are involved in inflammatory reactions because they secrete:",
+    "questionLatex": "\\text{Basophils are involved in inflammatory reactions because they secrete:}",
+    "options": [
+      "Haemoglobin and fibrinogen",
+      "Histamine, serotonin and heparin",
+      "Antibodies only",
+      "Bile pigments"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Basophils secrete histamine, serotonin and heparin, which participate in inflammatory responses."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Leucocytes",
+    "familyId": "phagocytic_cells",
+    "questionText": "Which pair of blood cells is mainly phagocytic in function?",
+    "questionLatex": "\\text{Which pair of blood cells is mainly phagocytic in function?}",
+    "options": [
+      "Lymphocytes and basophils",
+      "Neutrophils and monocytes",
+      "Eosinophils and platelets",
+      "Basophils and erythrocytes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Neutrophils and monocytes engulf and destroy foreign organisms by phagocytosis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Leucocytes",
+    "familyId": "lymphocyte_function",
+    "questionText": "The primary function of B and T lymphocytes is:",
+    "questionLatex": "\\text{The primary function of B and T lymphocytes is:}",
+    "options": [
+      "Blood clotting",
+      "Transport of oxygen",
+      "Immune response",
+      "Transport of carbon dioxide"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Both B and T lymphocytes are responsible for the immune responses of the body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Platelets",
+    "familyId": "platelet_origin",
+    "questionText": "Platelets are cell fragments produced from:",
+    "questionLatex": "\\text{Platelets are cell fragments produced from:}",
+    "options": [
+      "Osteoblasts",
+      "Megakaryocytes",
+      "Lymphoblasts",
+      "Fibroblasts"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Platelets are formed by the fragmentation of megakaryocytes in the bone marrow."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Platelets",
+    "familyId": "platelet_function",
+    "questionText": "The major function of platelets is:",
+    "questionLatex": "\\text{The major function of platelets is:}",
+    "options": [
+      "Transport of oxygen",
+      "Immune response",
+      "Blood coagulation",
+      "Hormone transport"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Platelets release substances that initiate blood clotting."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "ABO Blood Group",
+    "familyId": "abo_basis",
+    "questionText": "ABO blood grouping is based on the presence or absence of which antigens on red blood cells?",
+    "questionLatex": "\\text{ABO blood grouping is based on the presence or absence of which antigens on red blood cells?}",
+    "options": [
+      "Rh antigen only",
+      "A and B antigens",
+      "M and N antigens",
+      "Haemoglobin molecules"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "ABO blood groups are determined by the presence or absence of A and B antigens on RBCs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "ABO Blood Group",
+    "familyId": "universal_donor",
+    "questionText": "Which blood group is known as the universal donor in the ABO blood group system?",
+    "questionLatex": "\\text{Which blood group is known as the universal donor in the ABO blood group system?}",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Individuals with blood group O can donate blood to all ABO blood groups."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "ABO Blood Group",
+    "familyId": "universal_recipient",
+    "questionText": "Which blood group is regarded as the universal recipient in the ABO blood group system?",
+    "questionLatex": "\\text{Which blood group is regarded as the universal recipient in the ABO blood group system?}",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Individuals with blood group AB possess both A and B antigens and no anti-A or anti-B antibodies, allowing them to receive blood from all ABO groups."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Rh Blood Group",
+    "familyId": "rh_factor_definition",
+    "questionText": "The Rh blood group is determined by the presence or absence of which antigen on red blood cells?",
+    "questionLatex": "\\text{The Rh blood group is determined by the presence or absence of which antigen on red blood cells?}",
+    "options": [
+      "A antigen",
+      "B antigen",
+      "D antigen (Rh antigen)",
+      "H antigen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The Rh blood group depends on the presence or absence of the D antigen, commonly called the Rh antigen."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Rh Blood Group",
+    "familyId": "rh_positive",
+    "questionText": "A person possessing the Rh antigen on the surface of red blood cells is classified as:",
+    "questionLatex": "\\text{A person possessing the Rh antigen on the surface of red blood cells is classified as:}",
+    "options": [
+      "Rh-negative",
+      "Rh-positive",
+      "AB-positive",
+      "Universal donor"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Individuals having the Rh (D) antigen on their RBCs are Rh-positive."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Rh Incompatibility",
+    "familyId": "erythroblastosis",
+    "questionText": "Rh incompatibility between an Rh-negative mother and an Rh-positive foetus may result in:",
+    "questionLatex": "\\text{Rh incompatibility between an Rh-negative mother and an Rh-positive foetus may result in:}",
+    "options": [
+      "Leukaemia",
+      "Anaemia only in the mother",
+      "Erythroblastosis foetalis",
+      "Haemophilia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rh incompatibility can lead to erythroblastosis foetalis due to destruction of foetal RBCs by maternal antibodies."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Coagulation",
+    "familyId": "coagulation_step",
+    "questionText": "During blood coagulation, fibrinogen is converted into fibrin by the action of:",
+    "questionLatex": "\\text{During blood coagulation, fibrinogen is converted into fibrin by the action of:}",
+    "options": [
+      "Heparin",
+      "Thrombin",
+      "Plasmin",
+      "Histamine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Thrombin converts soluble fibrinogen into insoluble fibrin threads that form the clot."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Coagulation",
+    "familyId": "prothrombin_conversion",
+    "questionText": "Prothrombin is converted into thrombin in the presence of:",
+    "questionLatex": "\\text{Prothrombin is converted into thrombin in the presence of:}",
+    "options": [
+      "Vitamin C only",
+      "Thrombokinase and calcium ions",
+      "Albumin",
+      "Haemoglobin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An enzyme complex, thrombokinase, along with calcium ions converts prothrombin into thrombin during blood coagulation."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Lymph",
+    "familyId": "lymph_definition",
+    "questionText": "Lymph differs from blood mainly because it:",
+    "questionLatex": "\\text{Lymph differs from blood mainly because it:}",
+    "options": [
+      "Contains abundant erythrocytes",
+      "Contains plasma proteins in higher concentration",
+      "Lacks erythrocytes and contains fewer plasma proteins",
+      "Contains only platelets"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Lymph is colourless due to the absence of erythrocytes and has fewer plasma proteins than blood."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Lymph",
+    "familyId": "lymph_function",
+    "questionText": "One important function of lymph is:",
+    "questionLatex": "\\text{One important function of lymph is:}",
+    "options": [
+      "Transport of oxygen",
+      "Transport of absorbed fats from the intestine",
+      "Formation of haemoglobin",
+      "Production of platelets"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Lymph transports absorbed fats from intestinal lacteals to the bloodstream."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Double Circulation",
+    "familyId": "double_circulation_definition",
+    "questionText": "Double circulation in humans means that blood passes through the heart:",
+    "questionLatex": "\\text{Double circulation in humans means that blood passes through the heart:}",
+    "options": [
+      "Once in one complete circuit",
+      "Twice in one complete circuit",
+      "Three times in one complete circuit",
+      "Continuously without completing a circuit"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In double circulation, blood passes through the heart twice during one complete circulation—once through pulmonary circulation and once through systemic circulation."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Heart",
+    "familyId": "heart_chambers",
+    "questionText": "The human heart consists of:",
+    "questionLatex": "\\text{The human heart consists of:}",
+    "options": [
+      "Two chambers",
+      "Three chambers",
+      "Four chambers",
+      "Five chambers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The human heart is four-chambered, consisting of two atria and two ventricles."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Heart Anatomy",
+    "familyId": "heart_wall",
+    "questionText": "The thick muscular layer forming the wall of the heart is called the:",
+    "questionLatex": "\\text{The thick muscular layer forming the wall of the heart is called the:}",
+    "options": [
+      "Pericardium",
+      "Endocardium",
+      "Myocardium",
+      "Epicardium"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The myocardium is the thick muscular middle layer responsible for the pumping action of the heart."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Heart Anatomy",
+    "familyId": "heart_chambers_wall",
+    "questionText": "Which chamber of the human heart possesses the thickest muscular wall?",
+    "questionLatex": "\\text{Which chamber of the human heart possesses the thickest muscular wall?}",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "The left ventricle has the thickest myocardium because it pumps oxygenated blood to the entire body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Heart Valves",
+    "familyId": "tricuspid_valve",
+    "questionText": "The tricuspid valve is located between the:",
+    "questionLatex": "\\text{The tricuspid valve is located between the:}",
+    "options": [
+      "Left atrium and left ventricle",
+      "Right atrium and right ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary artery"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The tricuspid valve guards the opening between the right atrium and the right ventricle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Heart Valves",
+    "familyId": "bicuspid_valve",
+    "questionText": "The bicuspid (mitral) valve is present between the:",
+    "questionLatex": "\\text{The bicuspid (mitral) valve is present between the:}",
+    "options": [
+      "Right atrium and right ventricle",
+      "Left atrium and left ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary artery"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The bicuspid or mitral valve regulates blood flow from the left atrium to the left ventricle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Conduction System",
+    "familyId": "sa_node",
+    "questionText": "The natural pacemaker of the human heart is the:",
+    "questionLatex": "\\text{The natural pacemaker of the human heart is the:}",
+    "options": [
+      "AV node",
+      "Bundle of His",
+      "SA node",
+      "Purkinje fibres"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The sinoatrial (SA) node initiates the heartbeat and therefore acts as the natural pacemaker."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Conduction System",
+    "familyId": "av_node_function",
+    "questionText": "The primary function of the atrioventricular (AV) node is to:",
+    "questionLatex": "\\text{The primary function of the atrioventricular (AV) node is to:}",
+    "options": [
+      "Pump blood into the aorta",
+      "Delay and transmit the cardiac impulse from atria to ventricles",
+      "Supply oxygen to the myocardium",
+      "Prevent backflow of blood"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The AV node delays the impulse briefly before transmitting it to the ventricles, ensuring coordinated contraction."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Cycle",
+    "familyId": "cardiac_cycle_duration",
+    "questionText": "The duration of one complete cardiac cycle in a healthy adult at rest is approximately:",
+    "questionLatex": "\\text{The duration of one complete cardiac cycle in a healthy adult at rest is approximately:}",
+    "options": [
+      "0.4 s",
+      "0.6 s",
+      "0.8 s",
+      "1.2 s"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "At a heart rate of about 75 beats per minute, one cardiac cycle lasts approximately 0.8 seconds."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Cycle",
+    "familyId": "lub_sound",
+    "questionText": "The first heart sound ('lub') is produced due to the closure of:",
+    "questionLatex": "\\text{The first heart sound ('lub') is produced due to the closure of:}",
+    "options": [
+      "Semilunar valves",
+      "Tricuspid and bicuspid valves",
+      "Pulmonary valve only",
+      "Aortic valve only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The first heart sound results from the closure of the atrioventricular (tricuspid and bicuspid) valves."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Cycle",
+    "familyId": "dub_sound",
+    "questionText": "The second heart sound ('dub') is produced due to the closure of the:",
+    "questionLatex": "\\text{The second heart sound ('dub') is produced due to the closure of the:}",
+    "options": [
+      "Tricuspid and bicuspid valves",
+      "Aortic and pulmonary semilunar valves",
+      "Pulmonary veins",
+      "Superior vena cava"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The second heart sound is produced when the semilunar valves close at the beginning of ventricular diastole."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Output",
+    "familyId": "cardiac_output_definition",
+    "questionText": "Cardiac output is defined as the volume of blood pumped by:",
+    "questionLatex": "\\text{Cardiac output is defined as the volume of blood pumped by:}",
+    "options": [
+      "One atrium per minute",
+      "Each ventricle per minute",
+      "The entire heart in one cardiac cycle",
+      "The pulmonary artery in one minute"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cardiac output is the amount of blood pumped by each ventricle in one minute."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Electrocardiography",
+    "familyId": "ecg_definition",
+    "questionText": "An electrocardiogram (ECG) is a graphical record of the:",
+    "questionLatex": "\\text{An electrocardiogram (ECG) is a graphical record of the:}",
+    "options": [
+      "Mechanical activity of the lungs",
+      "Electrical activity of the heart",
+      "Blood pressure changes in arteries",
+      "Movement of heart valves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "An ECG records the electrical activity generated during each cardiac cycle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Electrocardiography",
+    "familyId": "ecg_p_wave",
+    "questionText": "In a normal electrocardiogram (ECG), the P-wave represents:",
+    "questionLatex": "\\text{In a normal electrocardiogram (ECG), the P-wave represents:}",
+    "options": [
+      "Ventricular depolarisation",
+      "Atrial depolarisation",
+      "Ventricular repolarisation",
+      "Atrial repolarisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The P-wave represents atrial depolarisation, which initiates atrial contraction."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Electrocardiography",
+    "familyId": "ecg_qrs",
+    "questionText": "The QRS complex in an ECG corresponds to:",
+    "questionLatex": "\\text{The QRS complex in an ECG corresponds to:}",
+    "options": [
+      "Atrial depolarisation",
+      "Atrial repolarisation",
+      "Ventricular depolarisation",
+      "Ventricular repolarisation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The QRS complex represents ventricular depolarisation, which leads to ventricular systole."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Electrocardiography",
+    "familyId": "ecg_t_wave",
+    "questionText": "The T-wave of an electrocardiogram indicates:",
+    "questionLatex": "\\text{The T-wave of an electrocardiogram indicates:}",
+    "options": [
+      "Atrial depolarisation",
+      "Ventricular depolarisation",
+      "Ventricular repolarisation",
+      "Closure of atrioventricular valves"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The T-wave represents ventricular repolarisation, after which the ventricles relax."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Output",
+    "familyId": "stroke_volume",
+    "questionText": "Stroke volume is defined as the volume of blood pumped by each ventricle during:",
+    "questionLatex": "\\text{Stroke volume is defined as the volume of blood pumped by each ventricle during:}",
+    "options": [
+      "One minute",
+      "One cardiac cycle",
+      "One hour",
+      "One day"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Stroke volume is the amount of blood ejected by each ventricle in a single cardiac cycle."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiac Output",
+    "familyId": "cardiac_output_value",
+    "questionText": "The average cardiac output of a healthy adult at rest is approximately:",
+    "questionLatex": "\\text{The average cardiac output of a healthy adult at rest is approximately:}",
+    "options": [
+      "2 L per minute",
+      "3 L per minute",
+      "5 L per minute",
+      "8 L per minute"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "With a stroke volume of about 70 mL and a heart rate of about 72 beats per minute, cardiac output is nearly 5 L per minute."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Pressure",
+    "familyId": "blood_pressure_definition",
+    "questionText": "Blood pressure is the pressure exerted by blood on the walls of the:",
+    "questionLatex": "\\text{Blood pressure is the pressure exerted by blood on the walls of the:}",
+    "options": [
+      "Veins only",
+      "Capillaries only",
+      "Arteries",
+      "Lymph vessels"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Blood pressure generally refers to the pressure exerted by blood on the walls of arteries."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Pressure",
+    "familyId": "normal_blood_pressure",
+    "questionText": "The normal arterial blood pressure of a healthy adult is approximately:",
+    "questionLatex": "\\text{The normal arterial blood pressure of a healthy adult is approximately:}",
+    "options": [
+      "90/60 mm Hg",
+      "100/70 mm Hg",
+      "120/80 mm Hg",
+      "140/100 mm Hg"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The average normal blood pressure in adults is about 120/80 mm Hg."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Pressure",
+    "familyId": "systolic_pressure",
+    "questionText": "The systolic blood pressure is recorded during:",
+    "questionLatex": "\\text{The systolic blood pressure is recorded during:}",
+    "options": [
+      "Atrial systole",
+      "Ventricular systole",
+      "Complete cardiac relaxation",
+      "Atrial diastole only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Systolic pressure is the maximum arterial pressure produced during ventricular contraction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Blood Pressure",
+    "familyId": "diastolic_pressure",
+    "questionText": "Diastolic blood pressure is measured during:",
+    "questionLatex": "\\text{Diastolic blood pressure is measured during:}",
+    "options": [
+      "Ventricular contraction",
+      "Ventricular relaxation",
+      "Atrial contraction only",
+      "Pulmonary circulation only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Diastolic pressure is the minimum arterial pressure during ventricular relaxation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Cardiovascular Disorders",
+    "familyId": "hypertension_definition",
+    "questionText": "Persistent elevation of arterial blood pressure above the normal range is known as:",
+    "questionLatex": "\\text{Persistent elevation of arterial blood pressure above the normal range is known as:}",
+    "options": [
+      "Hypotension",
+      "Hypertension",
+      "Bradycardia",
+      "Tachycardia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Hypertension refers to persistently high arterial blood pressure and increases the risk of cardiovascular diseases."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  }
+]

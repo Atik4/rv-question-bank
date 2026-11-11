@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_definition",
+    "questionText": "The sequence of events by which a cell duplicates its genome, synthesises cellular constituents and divides into two daughter cells is known as:",
+    "questionLatex": "$\\text{The sequence of events by which a cell duplicates its genome, synthesises cellular constituents and divides into two daughter cells is known as:}$",
+    "options": [
+      "Cell differentiation",
+      "Cell cycle",
+      "Cell elongation",
+      "Cell specialization"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell cycle includes DNA replication, cell growth and cell division in an orderly sequence."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_phases",
+    "questionText": "The two major phases of the cell cycle are:",
+    "questionLatex": "$\\text{The two major phases of the cell cycle are:}$",
+    "options": [
+      "G1 and S",
+      "Interphase and M phase",
+      "Mitosis and Meiosis",
+      "Karyokinesis and Cytokinesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell cycle is divided into Interphase and M phase (mitotic phase)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Interphase",
+    "familyId": "interphase_duration",
+    "questionText": "Approximately what percentage of the total duration of the cell cycle is occupied by interphase in a typical human cell?",
+    "questionLatex": "$\\text{Approximately what percentage of the total duration of the cell cycle is occupied by interphase in a typical human cell?}$",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "More than 95%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Interphase occupies more than 95% of the duration of the cell cycle in a typical human cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Interphase",
+    "familyId": "interphase_subphases",
+    "questionText": "Which of the following correctly represents the sequence of phases during interphase?",
+    "questionLatex": "$\\text{Which of the following correctly represents the sequence of phases during interphase?}$",
+    "options": [
+      "S → G1 → G2",
+      "G1 → G2 → S",
+      "G1 → S → G2",
+      "G2 → S → G1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Interphase consists of G1 phase, followed by S phase and then G2 phase."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "G1 Phase",
+    "familyId": "g1_characteristics",
+    "questionText": "During the G1 phase of interphase, the cell:",
+    "questionLatex": "$\\text{During the G1 phase of interphase, the cell:}$",
+    "options": [
+      "Replicates DNA",
+      "Undergoes cytokinesis",
+      "Is metabolically active and grows without DNA replication",
+      "Separates homologous chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "G1 phase is characterized by active metabolism and cell growth, but DNA replication does not occur."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "S Phase",
+    "familyId": "dna_replication",
+    "questionText": "DNA replication takes place during:",
+    "questionLatex": "$\\text{DNA replication takes place during:}$",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA synthesis and chromosome replication occur during the S phase."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "S Phase",
+    "familyId": "dna_content",
+    "questionText": "If the DNA content of a diploid cell is 2C during G1 phase, what will be its DNA content after completion of S phase?",
+    "questionLatex": "$\\text{If the DNA content is }2C\\text{ during }G_1\\text{, what is the DNA content after }S\\text{ phase?}$",
+    "options": [
+      "1C",
+      "2C",
+      "3C",
+      "4C"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "DNA content doubles during S phase from 2C to 4C, while chromosome number remains unchanged."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "G2 Phase",
+    "familyId": "g2_events",
+    "questionText": "Which major event occurs during the G2 phase of the cell cycle?",
+    "questionLatex": "$\\text{Which major event occurs during the }G_2\\text{ phase?}$",
+    "options": [
+      "DNA replication",
+      "Protein synthesis in preparation for mitosis",
+      "Crossing over",
+      "Reduction of chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During G2 phase, proteins required for mitosis are synthesized while cell growth continues."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Quiescent Phase",
+    "familyId": "g0_phase",
+    "questionText": "Cells that leave G1 phase and remain metabolically active but do not divide enter:",
+    "questionLatex": "$\\text{Cells that leave }G_1\\text{ phase and remain metabolically active but do not divide enter:}$",
+    "options": [
+      "S phase",
+      "G2 phase",
+      "G0 phase",
+      "M phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "G0 is the quiescent phase in which cells remain metabolically active but do not proliferate."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_definition_short",
+    "questionText": "Define the cell cycle.",
+    "questionLatex": "$\\text{Define the cell cycle.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The cell cycle is the sequence of events through which a cell duplicates its genome, synthesises cellular components, grows and finally divides into two daughter cells."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_definition",
+    "questionText": "The sequence of events by which a cell duplicates its genome, synthesises cellular constituents and divides into two daughter cells is known as:",
+    "questionLatex": "$\\text{The sequence of events by which a cell duplicates its genome, synthesises cellular constituents and divides into two daughter cells is known as:}$",
+    "options": [
+      "Cell differentiation",
+      "Cell cycle",
+      "Cell elongation",
+      "Cell specialization"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell cycle includes DNA replication, cell growth and cell division in an orderly sequence."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_phases",
+    "questionText": "The two major phases of the cell cycle are:",
+    "questionLatex": "$\\text{The two major phases of the cell cycle are:}$",
+    "options": [
+      "G1 and S",
+      "Interphase and M phase",
+      "Mitosis and Meiosis",
+      "Karyokinesis and Cytokinesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell cycle is divided into Interphase and M phase (mitotic phase)."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Interphase",
+    "familyId": "interphase_duration",
+    "questionText": "Approximately what percentage of the total duration of the cell cycle is occupied by interphase in a typical human cell?",
+    "questionLatex": "$\\text{Approximately what percentage of the total duration of the cell cycle is occupied by interphase in a typical human cell?}$",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "More than 95%"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Interphase occupies more than 95% of the duration of the cell cycle in a typical human cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Interphase",
+    "familyId": "interphase_subphases",
+    "questionText": "Which of the following correctly represents the sequence of phases during interphase?",
+    "questionLatex": "$\\text{Which of the following correctly represents the sequence of phases during interphase?}$",
+    "options": [
+      "S → G1 → G2",
+      "G1 → G2 → S",
+      "G1 → S → G2",
+      "G2 → S → G1"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Interphase consists of G1 phase, followed by S phase and then G2 phase."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "G1 Phase",
+    "familyId": "g1_characteristics",
+    "questionText": "During the G1 phase of interphase, the cell:",
+    "questionLatex": "$\\text{During the G1 phase of interphase, the cell:}$",
+    "options": [
+      "Replicates DNA",
+      "Undergoes cytokinesis",
+      "Is metabolically active and grows without DNA replication",
+      "Separates homologous chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "G1 phase is characterized by active metabolism and cell growth, but DNA replication does not occur."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "S Phase",
+    "familyId": "dna_replication",
+    "questionText": "DNA replication takes place during:",
+    "questionLatex": "$\\text{DNA replication takes place during:}$",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA synthesis and chromosome replication occur during the S phase."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "S Phase",
+    "familyId": "dna_content",
+    "questionText": "If the DNA content of a diploid cell is 2C during G1 phase, what will be its DNA content after completion of S phase?",
+    "questionLatex": "$\\text{If the DNA content is }2C\\text{ during }G_1\\text{, what is the DNA content after }S\\text{ phase?}$",
+    "options": [
+      "1C",
+      "2C",
+      "3C",
+      "4C"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "DNA content doubles during S phase from 2C to 4C, while chromosome number remains unchanged."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "G2 Phase",
+    "familyId": "g2_events",
+    "questionText": "Which major event occurs during the G2 phase of the cell cycle?",
+    "questionLatex": "$\\text{Which major event occurs during the }G_2\\text{ phase?}$",
+    "options": [
+      "DNA replication",
+      "Protein synthesis in preparation for mitosis",
+      "Crossing over",
+      "Reduction of chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During G2 phase, proteins required for mitosis are synthesized while cell growth continues."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Quiescent Phase",
+    "familyId": "g0_phase",
+    "questionText": "Cells that leave G1 phase and remain metabolically active but do not divide enter:",
+    "questionLatex": "$\\text{Cells that leave }G_1\\text{ phase and remain metabolically active but do not divide enter:}$",
+    "options": [
+      "S phase",
+      "G2 phase",
+      "G0 phase",
+      "M phase"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "G0 is the quiescent phase in which cells remain metabolically active but do not proliferate."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "cell_cycle_definition_short",
+    "questionText": "Define the cell cycle.",
+    "questionLatex": "$\\text{Define the cell cycle.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The cell cycle is the sequence of events through which a cell duplicates its genome, synthesises cellular components, grows and finally divides into two daughter cells."
+    },
+    "difficultyScore": 32,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cytokinesis",
+    "familyId": "cytokinesis_definition",
+    "questionText": "The division of the cytoplasm following nuclear division is known as:",
+    "questionLatex": "$\\text{The division of the cytoplasm following nuclear division is known as:}$",
+    "options": [
+      "Karyokinesis",
+      "Cytokinesis",
+      "Synapsis",
+      "Crossing over"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cytokinesis is the process in which the cytoplasm divides to produce two daughter cells after karyokinesis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cytokinesis",
+    "familyId": "animal_cytokinesis",
+    "questionText": "Cytokinesis in animal cells occurs by the formation of:",
+    "questionLatex": "$\\text{Cytokinesis in animal cells occurs by the formation of:}$",
+    "options": [
+      "Cell plate",
+      "Cleavage furrow",
+      "Middle lamella",
+      "Phragmoplast"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In animal cells, cytokinesis occurs by constriction of the plasma membrane forming a cleavage furrow."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cytokinesis",
+    "familyId": "plant_cytokinesis",
+    "questionText": "Cytokinesis in plant cells is initiated by the formation of:",
+    "questionLatex": "$\\text{Cytokinesis in plant cells is initiated by the formation of:}$",
+    "options": [
+      "Cleavage furrow",
+      "Contractile ring",
+      "Cell plate",
+      "Aster"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Plant cells undergo cytokinesis by the formation of a cell plate that develops into a new cell wall."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Significance of Mitosis",
+    "familyId": "mitosis_significance",
+    "questionText": "Which of the following is NOT a significance of mitosis?",
+    "questionLatex": "$\\text{Which of the following is NOT a significance of mitosis?}$",
+    "options": [
+      "Growth of multicellular organisms",
+      "Repair of damaged tissues",
+      "Maintenance of chromosome number",
+      "Reduction of chromosome number"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Reduction of chromosome number is a characteristic feature of meiosis, not mitosis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis",
+    "familyId": "meiosis_definition",
+    "questionText": "Meiosis is also known as:",
+    "questionLatex": "$\\text{Meiosis is also known as:}$",
+    "options": [
+      "Equational division",
+      "Reductional division",
+      "Direct division",
+      "Amitosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meiosis is called reductional division because the chromosome number is reduced to half in the daughter cells."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis",
+    "familyId": "meiotic_divisions",
+    "questionText": "Meiosis consists of:",
+    "questionLatex": "$\\text{Meiosis consists of:}$",
+    "options": [
+      "One nuclear division",
+      "Two successive nuclear divisions",
+      "Three successive nuclear divisions",
+      "Only cytokinesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meiosis consists of Meiosis I and Meiosis II, occurring successively after a single round of DNA replication."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "synapsis_definition",
+    "questionText": "The pairing of homologous chromosomes during prophase I is known as:",
+    "questionLatex": "$\\text{The pairing of homologous chromosomes during prophase I is known as:}$",
+    "options": [
+      "Crossing over",
+      "Synapsis",
+      "Segregation",
+      "Disjunction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During zygotene of prophase I, homologous chromosomes pair with each other in a process called synapsis."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "crossing_over",
+    "questionText": "Crossing over takes place during which sub-stage of Prophase I?",
+    "questionLatex": "$\\text{Crossing over takes place during which sub-stage of Prophase I?}$",
+    "options": [
+      "Leptotene",
+      "Zygotene",
+      "Pachytene",
+      "Diplotene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Crossing over occurs during the pachytene stage of Prophase I when homologous chromosomes exchange genetic material."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "chiasmata_definition",
+    "questionText": "The visible X-shaped structures that represent the sites of crossing over are called:",
+    "questionLatex": "$\\text{The visible X-shaped structures that represent the sites of crossing over are called:}$",
+    "options": [
+      "Centromeres",
+      "Kinetochores",
+      "Chiasmata",
+      "Chromonemata"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Chiasmata are the visible manifestations of crossing over between homologous chromosomes."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Mitosis and Meiosis",
+    "familyId": "mitosis_meiosis_difference",
+    "questionText": "Differentiate between mitosis and meiosis with respect to chromosome number and number of daughter cells produced.",
+    "questionLatex": "$\\text{Differentiate between mitosis and meiosis with respect to chromosome number and number of daughter cells produced.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mitosis is an equational division in which the chromosome number remains unchanged, producing two genetically identical diploid daughter cells. Meiosis is a reductional division in which the chromosome number is reduced to half, producing four genetically different haploid daughter cells."
+    },
+    "difficultyScore": 42,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Prophase I",
+    "familyId": "prophase1_substages",
+    "questionText": "Which of the following is the correct sequence of substages of Prophase I?",
+    "questionLatex": "\\text{Which of the following is the correct sequence of substages of Prophase I?}",
+    "options": [
+      "Leptotene → Pachytene → Zygotene → Diplotene → Diakinesis",
+      "Leptotene → Zygotene → Pachytene → Diplotene → Diakinesis",
+      "Zygotene → Leptotene → Pachytene → Diakinesis → Diplotene",
+      "Pachytene → Leptotene → Zygotene → Diplotene → Diakinesis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The five substages of Prophase I occur in the order: Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Prophase I",
+    "familyId": "diplotene_stage",
+    "questionText": "During which substage of Prophase I do homologous chromosomes begin to separate while remaining attached at chiasmata?",
+    "questionLatex": "\\text{During which substage of Prophase I do homologous chromosomes begin to separate while remaining attached at chiasmata?}",
+    "options": [
+      "Leptotene",
+      "Zygotene",
+      "Pachytene",
+      "Diplotene"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "During diplotene, homologous chromosomes begin to separate but remain attached at chiasmata."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Prophase I",
+    "familyId": "diakinesis_stage",
+    "questionText": "Which event is characteristic of the diakinesis stage of Prophase I?",
+    "questionLatex": "\\text{Which event is characteristic of the diakinesis stage of Prophase I?}",
+    "options": [
+      "Synapsis begins",
+      "Crossing over occurs",
+      "Terminalisation of chiasmata and disappearance of nuclear envelope",
+      "DNA replication takes place"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Diakinesis is characterized by terminalisation of chiasmata, terminal condensation of chromosomes and breakdown of the nuclear envelope."
+    },
+    "difficultyScore": 24,
+    "difficultyLabel": "medium",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "metaphase1_event",
+    "questionText": "During Metaphase I of meiosis, chromosomes are arranged:",
+    "questionLatex": "\\text{During Metaphase I of meiosis, chromosomes are arranged:}",
+    "options": [
+      "Individually on the metaphase plate",
+      "As homologous pairs on the equatorial plate",
+      "Randomly throughout the cytoplasm",
+      "Near one spindle pole"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Homologous chromosome pairs (bivalents) align on the equatorial plate during Metaphase I."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "anaphase1_event",
+    "questionText": "Which event occurs during Anaphase I of meiosis?",
+    "questionLatex": "\\text{Which event occurs during Anaphase I of meiosis?}",
+    "options": [
+      "Centromeres divide",
+      "Sister chromatids separate",
+      "Homologous chromosomes separate without division of centromeres",
+      "DNA replication occurs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During Anaphase I, homologous chromosomes move to opposite poles while sister chromatids remain attached."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis I",
+    "familyId": "telophase1_result",
+    "questionText": "At the end of Telophase I, each daughter nucleus contains:",
+    "questionLatex": "\\text{At the end of Telophase I, each daughter nucleus contains:}",
+    "options": [
+      "Diploid number of chromosomes",
+      "Haploid number of chromosomes",
+      "Double the chromosome number",
+      "No chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "After Meiosis I, homologous chromosomes have separated, resulting in a haploid chromosome number."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "meiosis2_similarity",
+    "questionText": "Meiosis II resembles mitosis because:",
+    "questionLatex": "\\text{Meiosis II resembles mitosis because:}",
+    "options": [
+      "Chromosome number is reduced",
+      "DNA replication occurs again",
+      "Sister chromatids separate after centromere division",
+      "Crossing over occurs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Meiosis II is an equational division in which sister chromatids separate following centromere division, similar to mitosis."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "end_product_meiosis",
+    "questionText": "A single diploid cell undergoing meiosis produces:",
+    "questionLatex": "\\text{A single diploid cell undergoing meiosis produces:}",
+    "options": [
+      "Two diploid daughter cells",
+      "Two haploid daughter cells",
+      "Four haploid daughter cells",
+      "Four diploid daughter cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Meiosis produces four genetically distinct haploid daughter cells from one diploid parent cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Significance of Meiosis",
+    "familyId": "importance_meiosis",
+    "questionText": "Which of the following is the primary significance of meiosis?",
+    "questionLatex": "\\text{Which of the following is the primary significance of meiosis?}",
+    "options": [
+      "Healing of wounds",
+      "Maintenance of chromosome number across generations and generation of genetic variation",
+      "Increase in body size",
+      "Production of identical daughter cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Meiosis maintains the chromosome number in sexually reproducing organisms and introduces genetic variation through crossing over and independent assortment."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis",
+    "familyId": "crossing_over_significance",
+    "questionText": "Explain the significance of crossing over during meiosis.",
+    "questionLatex": "\\text{Explain the significance of crossing over during meiosis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Crossing over results in the exchange of genetic material between homologous chromosomes during pachytene of Prophase I. It produces new combinations of genes in gametes, increases genetic variation among offspring and provides the raw material for evolution and natural selection."
+    },
+    "difficultyScore": 44,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "prophase2_features",
+    "questionText": "Which of the following events occurs during Prophase II of meiosis?",
+    "questionLatex": "\\text{Which of the following events occurs during Prophase II of meiosis?}",
+    "options": [
+      "Synapsis of homologous chromosomes",
+      "Crossing over",
+      "Chromosomes condense and spindle fibres are formed",
+      "DNA replication"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During Prophase II, chromosomes condense, the nuclear envelope disappears (if present), and spindle fibres are formed. Synapsis and crossing over do not occur."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "metaphase2_event",
+    "questionText": "During Metaphase II of meiosis, chromosomes:",
+    "questionLatex": "\\text{During Metaphase II of meiosis, chromosomes:}",
+    "options": [
+      "Pair with homologous chromosomes",
+      "Align individually at the equatorial plate",
+      "Move towards opposite poles",
+      "Undergo crossing over"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "In Metaphase II, chromosomes align individually on the equatorial plate, similar to mitosis."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "anaphase2_event",
+    "questionText": "Which event is characteristic of Anaphase II?",
+    "questionLatex": "\\text{Which event is characteristic of Anaphase II?}",
+    "options": [
+      "Homologous chromosomes separate",
+      "Crossing over occurs",
+      "Centromeres divide and sister chromatids separate",
+      "DNA replication occurs"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "During Anaphase II, centromeres divide and sister chromatids move towards opposite poles."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Meiosis II",
+    "familyId": "telophase2_result",
+    "questionText": "The completion of Meiosis II results in the formation of:",
+    "questionLatex": "\\text{The completion of Meiosis II results in the formation of:}",
+    "options": [
+      "Two diploid daughter cells",
+      "Two haploid daughter cells",
+      "Four genetically identical diploid cells",
+      "Four genetically distinct haploid cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Meiosis II produces four genetically distinct haploid daughter cells from one diploid parent cell."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Cycle",
+    "familyId": "dna_replication_count",
+    "questionText": "DNA replication occurs how many times during one complete meiotic division?",
+    "questionLatex": "\\text{DNA replication occurs how many times during one complete meiotic division?}",
+    "options": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "DNA replicates only once during the S phase before Meiosis I. No DNA replication occurs before Meiosis II."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Mitosis vs Meiosis",
+    "familyId": "chromosome_number_comparison",
+    "questionText": "Which process maintains the chromosome number in daughter cells identical to that of the parent cell?",
+    "questionLatex": "\\text{Which process maintains the chromosome number in daughter cells identical to that of the parent cell?}",
+    "options": [
+      "Meiosis I",
+      "Meiosis II",
+      "Mitosis",
+      "Crossing over"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Mitosis is an equational division in which daughter cells retain the same chromosome number as the parent cell."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Division",
+    "familyId": "karyokinesis_definition",
+    "questionText": "Karyokinesis refers to:",
+    "questionLatex": "\\text{Karyokinesis refers to:}",
+    "options": [
+      "Division of cytoplasm",
+      "Division of nucleus",
+      "DNA replication",
+      "Chromosome condensation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Karyokinesis is the division of the nucleus and precedes cytokinesis during cell division."
+    },
+    "difficultyScore": 16,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Division",
+    "familyId": "cytokinesis_importance",
+    "questionText": "What is the primary significance of cytokinesis?",
+    "questionLatex": "\\text{What is the primary significance of cytokinesis?}",
+    "options": [
+      "Replication of DNA",
+      "Formation of spindle fibres",
+      "Separation of the cytoplasm into independent daughter cells",
+      "Crossing over of chromosomes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cytokinesis physically separates the cytoplasm, resulting in the formation of distinct daughter cells."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Cell Division",
+    "familyId": "importance_cell_cycle",
+    "questionText": "The cell cycle is essential because it:",
+    "questionLatex": "\\text{The cell cycle is essential because it:}",
+    "options": [
+      "Produces only gametes",
+      "Ensures growth, repair, reproduction and genetic continuity",
+      "Occurs only in plants",
+      "Reduces chromosome number in all body cells"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The cell cycle enables growth, tissue repair, asexual reproduction and maintenance of genetic continuity in organisms."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Mitosis and Meiosis",
+    "familyId": "mitosis_meiosis_significance",
+    "questionText": "Compare the biological significance of mitosis and meiosis.",
+    "questionLatex": "\\text{Compare the biological significance of mitosis and meiosis.}",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Mitosis is responsible for growth, tissue repair, replacement of worn-out cells and maintenance of chromosome number by producing two genetically identical daughter cells. Meiosis is responsible for the formation of haploid gametes, maintenance of chromosome number across generations after fertilisation and generation of genetic variation through crossing over and independent assortment."
+    },
+    "difficultyScore": 45,
+    "difficultyLabel": "medium",
+    "marks": 3,
+    "sourceType": "book_curated"
+  }
+]

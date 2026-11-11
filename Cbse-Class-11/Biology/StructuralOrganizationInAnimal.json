@@ -1,0 +1,1222 @@
+[
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Organ and Organ System",
+    "familyId": "tissue_definition",
+    "questionText": "A tissue is defined as:",
+    "questionLatex": "$\\text{A tissue is defined as:}$",
+    "options": [
+      "A group of organs performing the same function",
+      "A group of similar cells along with intercellular substances performing a specific function",
+      "A collection of different organ systems",
+      "A group of cells having different origins only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "A tissue is a group of similar cells along with intercellular substances that perform a specific function."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Organ and Organ System",
+    "familyId": "basic_animal_tissues",
+    "questionText": "Complex animals are fundamentally composed of how many basic tissue types?",
+    "questionLatex": "$\\text{Complex animals are fundamentally composed of how many basic tissue types?}$",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "All complex animals consist of four basic tissue types: epithelial, connective, muscular and neural tissues."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Organ and Organ System",
+    "familyId": "organ_system_definition",
+    "questionText": "An organ system is formed when:",
+    "questionLatex": "$\\text{An organ system is formed when:}$",
+    "options": [
+      "Many tissues combine together",
+      "Two or more organs interact to perform a common function",
+      "Many cells combine together",
+      "Several organisms live together"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Two or more organs interact physically and/or chemically to perform a common function, forming an organ system."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Classification",
+    "familyId": "frog_classification",
+    "questionText": "The common Indian frog Rana tigrina belongs to the class:",
+    "questionLatex": "$\\text{The common Indian frog }\\textit{Rana tigrina}\\text{ belongs to the class:}$",
+    "options": [
+      "Reptilia",
+      "Pisces",
+      "Amphibia",
+      "Mammalia"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Rana tigrina belongs to class Amphibia under phylum Chordata."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Characteristics",
+    "familyId": "poikilotherms",
+    "questionText": "Frogs are called poikilotherms because:",
+    "questionLatex": "$\\text{Frogs are called poikilotherms because:}$",
+    "options": [
+      "They breathe through lungs only",
+      "Their body temperature varies with the environment",
+      "They reproduce in water",
+      "They possess moist skin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Frogs are cold-blooded animals whose body temperature changes with the environmental temperature."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Characteristics",
+    "familyId": "aestivation",
+    "questionText": "The summer sleep observed in frogs is known as:",
+    "questionLatex": "$\\text{The summer sleep observed in frogs is known as:}$",
+    "options": [
+      "Hibernation",
+      "Dormancy",
+      "Aestivation",
+      "Diapause"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Frogs undergo aestivation during hot summer months to escape extreme heat."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Characteristics",
+    "familyId": "hibernation",
+    "questionText": "Winter sleep in frogs is called:",
+    "questionLatex": "$\\text{Winter sleep in frogs is called:}$",
+    "options": [
+      "Aestivation",
+      "Hibernation",
+      "Migration",
+      "Metamorphosis"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "During winter, frogs undergo hibernation to survive extremely low temperatures."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Morphology",
+    "familyId": "frog_skin",
+    "questionText": "The skin of a frog remains moist due to the secretion of:",
+    "questionLatex": "$\\text{The skin of a frog remains moist due to the secretion of:}$",
+    "options": [
+      "Sweat glands",
+      "Sebaceous glands",
+      "Mucous glands",
+      "Salivary glands"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Mucous glands keep the frog's skin smooth and moist, aiding respiration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Morphology",
+    "familyId": "nictitating_membrane",
+    "questionText": "The transparent membrane protecting the eyes of a frog while in water is called:",
+    "questionLatex": "$\\text{The transparent membrane protecting the eyes of a frog while in water is called:}$",
+    "options": [
+      "Cornea",
+      "Conjunctiva",
+      "Nictitating membrane",
+      "Retina"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The nictitating membrane protects the frog's eyes during underwater movement."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Morphology",
+    "familyId": "frog_external_features",
+    "questionText": "State two external adaptations that help frogs in swimming.",
+    "questionLatex": "$\\text{State two external adaptations that help frogs in swimming.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Frogs possess long, muscular hind limbs and webbed digits on the hind feet. These adaptations provide propulsion and efficient movement in water."
+    },
+    "difficultyScore": 36,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Morphology",
+    "familyId": "tympanum_function",
+    "questionText": "The tympanum present on either side of the frog's head functions as:",
+    "questionLatex": "$\\text{The tympanum present on either side of the frog's head functions as:}$",
+    "options": [
+      "An organ of vision",
+      "An external nostril",
+      "An organ for receiving sound vibrations",
+      "A respiratory opening"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The tympanum acts as the external ear and receives sound vibrations."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Morphology",
+    "familyId": "sexual_dimorphism",
+    "questionText": "Which of the following is a characteristic feature of a male frog?",
+    "questionLatex": "$\\text{Which of the following is a characteristic feature of a male frog?}$",
+    "options": [
+      "Presence of webbed hind limbs",
+      "Presence of vocal sacs and copulatory pads",
+      "Presence of nictitating membrane",
+      "Presence of mucous glands only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Male frogs possess vocal sacs and copulatory pads, which are absent in females."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive System",
+    "familyId": "frog_digestive_parts",
+    "questionText": "The alimentary canal of a frog opens to the exterior through the:",
+    "questionLatex": "$\\text{The alimentary canal of a frog opens to the exterior through the:}$",
+    "options": [
+      "Anus",
+      "Rectum",
+      "Cloaca",
+      "Duodenum"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The rectum opens into the cloaca, which opens to the exterior."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive System",
+    "familyId": "frog_tongue",
+    "questionText": "Food in frogs is captured by the:",
+    "questionLatex": "$\\text{Food in frogs is captured by the:}$",
+    "options": [
+      "Teeth",
+      "Bilobed tongue",
+      "Pharynx",
+      "Maxillary jaw"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The frog captures prey using its sticky bilobed tongue."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive System",
+    "familyId": "bile_function",
+    "questionText": "The primary function of bile in frogs is to:",
+    "questionLatex": "$\\text{The primary function of bile in frogs is to:}$",
+    "options": [
+      "Digest proteins",
+      "Digest carbohydrates",
+      "Emulsify fats",
+      "Digest nucleic acids"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Bile emulsifies fats, making them easier for digestive enzymes to act upon."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive System",
+    "familyId": "pancreatic_juice",
+    "questionText": "Pancreatic juice in frogs mainly helps in the digestion of:",
+    "questionLatex": "$\\text{Pancreatic juice in frogs mainly helps in the digestion of:}$",
+    "options": [
+      "Proteins and carbohydrates",
+      "Minerals only",
+      "Water only",
+      "Vitamins only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Pancreatic juice contains enzymes that digest carbohydrates and proteins."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive System",
+    "familyId": "villi_function",
+    "questionText": "Digested food is absorbed mainly through:",
+    "questionLatex": "$\\text{Digested food is absorbed mainly through:}$",
+    "options": [
+      "Stomach wall",
+      "Rectum",
+      "Villi and microvilli of the intestine",
+      "Pharynx"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Numerous villi and microvilli in the intestine increase the surface area for absorption."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Respiratory System",
+    "familyId": "cutaneous_respiration",
+    "questionText": "Respiration through the skin in frogs is called:",
+    "questionLatex": "$\\text{Respiration through the skin in frogs is called:}$",
+    "options": [
+      "Pulmonary respiration",
+      "Buccal respiration",
+      "Cutaneous respiration",
+      "Branchial respiration"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cutaneous respiration occurs through the moist skin, especially in water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Respiratory System",
+    "familyId": "pulmonary_respiration",
+    "questionText": "Pulmonary respiration in frogs takes place through the:",
+    "questionLatex": "$\\text{Pulmonary respiration in frogs takes place through the:}$",
+    "options": [
+      "Skin",
+      "Lungs",
+      "Kidneys",
+      "Liver"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "On land, frogs primarily respire through their lungs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Digestive and Respiratory Systems",
+    "familyId": "cutaneous_vs_pulmonary",
+    "questionText": "Differentiate between cutaneous respiration and pulmonary respiration in frogs.",
+    "questionLatex": "$\\text{Differentiate between cutaneous respiration and pulmonary respiration in frogs.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Cutaneous respiration occurs through the moist skin and is the primary mode of respiration in water and during aestivation or hibernation. Pulmonary respiration occurs through the lungs and is the primary mode of respiration when the frog is on land."
+    },
+    "difficultyScore": 38,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Circulatory System",
+    "familyId": "frog_heart_chambers",
+    "questionText": "The heart of a frog consists of:",
+    "questionLatex": "$\\text{The heart of a frog consists of:}$",
+    "options": [
+      "Two chambers",
+      "Three chambers",
+      "Four chambers",
+      "Five chambers"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The frog has a three-chambered heart consisting of two atria and one ventricle."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Circulatory System",
+    "familyId": "double_circulation",
+    "questionText": "Frogs exhibit:",
+    "questionLatex": "$\\text{Frogs exhibit:}$",
+    "options": [
+      "Single circulation",
+      "Open circulation",
+      "Incomplete double circulation",
+      "Complete double circulation"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Frogs possess a three-chambered heart where oxygenated and deoxygenated blood mix in the single ventricle, resulting in incomplete double circulation."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Circulatory System",
+    "familyId": "frog_rbc",
+    "questionText": "The red blood cells of frogs are:",
+    "questionLatex": "$\\text{The red blood cells of frogs are:}$",
+    "options": [
+      "Circular and non-nucleated",
+      "Oval and nucleated",
+      "Biconcave and non-nucleated",
+      "Irregular and without haemoglobin"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Amphibian erythrocytes (red blood cells) are oval in shape and possess a nucleus."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Excretory System",
+    "familyId": "frog_kidney_type",
+    "questionText": "The kidneys of an adult frog are:",
+    "questionLatex": "$\\text{The kidneys of an adult frog are:}$",
+    "options": [
+      "Pronephric",
+      "Mesonephric",
+      "Metanephric",
+      "Holonephric"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Adult frogs possess mesonephric kidneys for excretion and osmoregulation."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Excretory System",
+    "familyId": "frog_excretory_product",
+    "questionText": "The chief nitrogenous waste excreted by an adult frog on land is:",
+    "questionLatex": "$\\text{The chief nitrogenous waste excreted by an adult frog on land is:}$",
+    "options": [
+      "Ammonia",
+      "Uric acid",
+      "Urea",
+      "Creatinine"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Adult frogs are mainly ureotelic and excrete nitrogenous waste chiefly in the form of urea."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Nervous System",
+    "familyId": "frog_brain_divisions",
+    "questionText": "The brain of a frog is divided into:",
+    "questionLatex": "$\\text{The brain of a frog is divided into:}$",
+    "options": [
+      "Forebrain and hindbrain only",
+      "Forebrain, midbrain and hindbrain",
+      "Cerebrum and cerebellum only",
+      "Midbrain and spinal cord"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The frog's brain is differentiated into three principal regions: forebrain, midbrain and hindbrain."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Sense Organs",
+    "familyId": "frog_sense_organs",
+    "questionText": "Which of the following is NOT a sense organ of a frog?",
+    "questionLatex": "$\\text{Which of the following is NOT a sense organ of a frog?}$",
+    "options": [
+      "Eyes",
+      "Tympanum",
+      "Olfactory lobes",
+      "Kidneys"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 3,
+      "explanation": "Kidneys are excretory organs, whereas eyes, tympanum, and olfactory organs are sensory structures involved in detecting environmental stimuli."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Reproductive System",
+    "familyId": "frog_fertilisation",
+    "questionText": "Fertilisation in frogs is:",
+    "questionLatex": "$\\text{Fertilisation in frogs is:}$",
+    "options": [
+      "Internal",
+      "External",
+      "Internal followed by oviparity",
+      "Absent"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Frogs exhibit external fertilisation, which takes place outside the body in water."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Reproductive System",
+    "familyId": "frog_development",
+    "questionText": "The larval stage of a frog is known as:",
+    "questionLatex": "$\\text{The larval stage of a frog is known as:}$",
+    "options": [
+      "Nymph",
+      "Maggot",
+      "Tadpole",
+      "Caterpillar"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The tadpole is the aquatic larval stage of a frog and undergoes metamorphosis to develop into an adult."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Circulatory and Excretory Systems",
+    "familyId": "frog_circulation_excretion",
+    "questionText": "Differentiate between the circulatory system and the excretory system of a frog.",
+    "questionLatex": "$\\text{Differentiate between the circulatory system and the excretory system of a frog.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "The circulatory system consists of a three-chambered heart, blood vessels, and lymph, and is responsible for transporting oxygen, nutrients, and waste products across tissues. The excretory system consists of a pair of mesonephric kidneys, ureters, a urinary bladder, and a cloaca, working to eliminate nitrogenous wastes (urea) and sustain fluid and ionic homeostasis."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Muscular System",
+    "familyId": "muscle_types",
+    "questionText": "Based on structure and function, muscles in animals are classified into:",
+    "questionLatex": "$\\text{Based on structure and function, muscles in animals are classified into:}$",
+    "options": [
+      "Two types",
+      "Three types",
+      "Four types",
+      "Five types"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Muscles are classified into skeletal (striated), smooth (non-striated), and cardiac muscles."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Muscular System",
+    "familyId": "striated_muscle",
+    "questionText": "Striated muscles are primarily responsible for:",
+    "questionLatex": "$\\text{Striated muscles are primarily responsible for:}$",
+    "options": [
+      "Involuntary movement",
+      "Voluntary movement",
+      "Movement of food through the intestine",
+      "Pumping of blood only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Striated (skeletal) muscles are attached to bones and bring about voluntary movements."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Muscular System",
+    "familyId": "cardiac_muscle",
+    "questionText": "Cardiac muscle is characterized by:",
+    "questionLatex": "$\\text{Cardiac muscle is characterized by:}$",
+    "options": [
+      "Voluntary control",
+      "Long cylindrical multinucleate fibres",
+      "Branched fibres with intercalated discs",
+      "Absence of striations"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Cardiac muscle fibres are branched, striated and interconnected by intercalated discs."
+    },
+    "difficultyScore": 22,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Neural Tissue",
+    "familyId": "neuron_basic_unit",
+    "questionText": "The structural and functional unit of the nervous system is the:",
+    "questionLatex": "$\\text{The structural and functional unit of the nervous system is the:}$",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Sarcomere",
+      "Osteon"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "The neuron is the basic structural and functional unit responsible for transmitting nerve impulses."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Neural Tissue",
+    "familyId": "neuron_parts",
+    "questionText": "Which part of a neuron carries nerve impulses away from the cell body?",
+    "questionLatex": "$\\text{Which part of a neuron carries nerve impulses away from the cell body?}$",
+    "options": [
+      "Dendrite",
+      "Cyton",
+      "Axon",
+      "Nucleus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The axon conducts nerve impulses away from the cell body toward another neuron or an effector organ."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Connective Tissue",
+    "familyId": "blood_connective_tissue",
+    "questionText": "Which of the following is considered a fluid connective tissue?",
+    "questionLatex": "$\\text{Which of the following is considered a fluid connective tissue?}$",
+    "options": [
+      "Cartilage",
+      "Bone",
+      "Blood",
+      "Adipose tissue"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Blood is a specialized fluid connective tissue responsible for transport of gases, nutrients and wastes."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Connective Tissue",
+    "familyId": "bone_function",
+    "questionText": "The primary function of bone tissue is to:",
+    "questionLatex": "$\\text{The primary function of bone tissue is to:}$",
+    "options": [
+      "Conduct nerve impulses",
+      "Provide support and protection",
+      "Produce digestive enzymes",
+      "Absorb nutrients"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Bone forms the skeletal framework, provides protection to internal organs and serves as a site for muscle attachment."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Epithelial Tissue",
+    "familyId": "epithelium_function",
+    "questionText": "The chief function of epithelial tissue is:",
+    "questionLatex": "$\\text{The chief function of epithelial tissue is:}$",
+    "options": [
+      "Impulse conduction",
+      "Protection and lining of body surfaces",
+      "Contraction and movement",
+      "Storage of calcium only"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Epithelial tissue forms protective coverings and lines internal organs and body cavities."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Animal Tissues",
+    "familyId": "animal_tissues_summary",
+    "questionText": "Which sequence correctly represents the four basic animal tissues?",
+    "questionLatex": "$\\text{Which sequence correctly represents the four basic animal tissues?}$",
+    "options": [
+      "Epithelial, Connective, Muscular and Neural",
+      "Connective, Meristematic, Muscular and Neural",
+      "Parenchyma, Connective, Neural and Muscular",
+      "Epithelial, Xylem, Phloem and Neural"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "The four basic animal tissues are epithelial, connective, muscular and neural tissues."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Animal Tissues",
+    "familyId": "muscle_comparison",
+    "questionText": "Differentiate between striated muscle and cardiac muscle.",
+    "questionLatex": "$\\text{Differentiate between striated muscle and cardiac muscle.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Striated (skeletal) muscles are voluntary, long, cylindrical, multinucleate and unbranched fibres attached to bones for body movements. Cardiac muscles are involuntary, branched, striated fibres with a single nucleus and intercalated discs, found exclusively in the heart."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Epithelial Tissue",
+    "familyId": "simple_epithelium",
+    "questionText": "Simple epithelium is primarily adapted for:",
+    "questionLatex": "$\\text{Simple epithelium is primarily adapted for:}$",
+    "options": [
+      "Protection against abrasion",
+      "Absorption, secretion and diffusion",
+      "Muscle contraction",
+      "Impulse conduction"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Simple epithelium consists of a single layer of cells and is specialized for absorption, secretion, diffusion and filtration."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Epithelial Tissue",
+    "familyId": "compound_epithelium",
+    "questionText": "Compound epithelium mainly functions in:",
+    "questionLatex": "$\\text{Compound epithelium mainly functions in:}$",
+    "options": [
+      "Absorption",
+      "Filtration",
+      "Protection against mechanical and chemical stress",
+      "Transport of oxygen"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "Compound epithelium consists of multiple cell layers and mainly provides protection."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Connective Tissue",
+    "familyId": "adipose_tissue_function",
+    "questionText": "Adipose tissue primarily functions in:",
+    "questionLatex": "$\\text{Adipose tissue primarily functions in:}$",
+    "options": [
+      "Transmission of nerve impulses",
+      "Storage of fat and insulation",
+      "Formation of blood cells",
+      "Contraction of muscles"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Adipose tissue stores fats, provides insulation and cushions internal organs."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Connective Tissue",
+    "familyId": "cartilage_function",
+    "questionText": "Cartilage mainly provides:",
+    "questionLatex": "$\\text{Cartilage mainly provides:}$",
+    "options": [
+      "Rigid support like bone",
+      "Flexible support to body parts",
+      "Conduction of impulses",
+      "Production of digestive enzymes"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Cartilage provides flexible support to structures such as the nose, ear and trachea."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Neural Tissue",
+    "familyId": "dendrite_function",
+    "questionText": "The primary function of dendrites in a neuron is to:",
+    "questionLatex": "$\\text{The primary function of dendrites in a neuron is to:}$",
+    "options": [
+      "Transmit impulses away from the cell body",
+      "Receive nerve impulses and conduct them towards the cell body",
+      "Produce neurotransmitters only",
+      "Form the myelin sheath"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Dendrites receive incoming nerve impulses and carry them towards the cell body."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Neural Tissue",
+    "familyId": "axon_function",
+    "questionText": "Which part of the neuron is usually covered by the myelin sheath?",
+    "questionLatex": "$\\text{Which part of the neuron is usually covered by the myelin sheath?}$",
+    "options": [
+      "Cell body",
+      "Dendrites",
+      "Axon",
+      "Nucleus"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 2,
+      "explanation": "The myelin sheath surrounds the axon, increasing the speed of nerve impulse conduction."
+    },
+    "difficultyScore": 20,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Reproduction",
+    "familyId": "frog_oviparous",
+    "questionText": "Frogs are classified as oviparous because they:",
+    "questionLatex": "$\\text{Frogs are classified as oviparous because they:}$",
+    "options": [
+      "Give birth to young ones",
+      "Lay eggs",
+      "Undergo internal fertilisation",
+      "Reproduce by budding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Frogs lay eggs in water, and therefore they are oviparous animals."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Frog Development",
+    "familyId": "metamorphosis_definition",
+    "questionText": "The transformation of a tadpole into an adult frog is called:",
+    "questionLatex": "$\\text{The transformation of a tadpole into an adult frog is called:}$",
+    "options": [
+      "Regeneration",
+      "Metamorphosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 1,
+      "explanation": "Frogs undergo metamorphosis, during which the aquatic tadpole develops into the terrestrial adult."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Structural Organisation",
+    "familyId": "levels_of_organisation",
+    "questionText": "Which of the following correctly represents the increasing order of structural organisation in animals?",
+    "questionLatex": "$\\text{Which of the following correctly represents the increasing order of structural organisation in animals?}$",
+    "options": [
+      "Cell → Tissue → Organ → Organ System",
+      "Cell → Organ → Tissue → Organ System",
+      "Tissue → Cell → Organ → Organ System",
+      "Organ → Tissue → Cell → Organ System"
+    ],
+    "answer": {
+      "type": "choice",
+      "correctOptionIndex": 0,
+      "explanation": "Cells form tissues, tissues form organs, and organs combine to form organ systems."
+    },
+    "difficultyScore": 18,
+    "difficultyLabel": "easy",
+    "marks": 1,
+    "sourceType": "book_curated"
+  },
+  {
+    "board": "CBSE",
+    "grade": 11,
+    "subject": "Biology",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Animal Tissues",
+    "familyId": "epithelium_vs_connective",
+    "questionText": "Differentiate between epithelial tissue and connective tissue.",
+    "questionLatex": "$\\text{Differentiate between epithelial tissue and connective tissue.}$",
+    "options": [],
+    "answer": {
+      "type": "text",
+      "value": "Epithelial tissue forms protective coverings and lines body surfaces and cavities. Its cells are tightly packed with very little intercellular matrix. Connective tissue connects, supports and binds different tissues and organs together. It contains abundant intercellular matrix with comparatively fewer cells."
+    },
+    "difficultyScore": 40,
+    "difficultyLabel": "medium",
+    "marks": 2,
+    "sourceType": "book_curated"
+  }
+]
